@@ -1,0 +1,12 @@
+rank,ticker,series,title,volume,open_interest,yes_bid,yes_ask,last_price
+1,KXTRUMPRESIGN,KXTRUMPRESIGN,Will President Trump resign before his term is up?,147229,45451,17,19,17
+2,KXGOVKSNOMD-26-DT,KXGOVKSNOMD,Wil David Toland be the Democratic nominee for Governor in Kansas?,12119,1740,0,2,4
+3,KXGOVKSNOMD-26-EC,KXGOVKSNOMD,Wil Ethan Corson be the Democratic nominee for Governor in Kansas?,5874,1315,73,78,73
+4,KXTRUMPDOLLAR-26,KXTRUMPDOLLAR,Will the United States Mint or the Department of the Treasury announce the official selection of a final design for a $1 coin featuring Donald Trump in 2026?,3433,1387,53,57,53
+5,KXGOVKSNOMD-26-CH,KXGOVKSNOMD,Wil Cindy Holscher be the Democratic nominee for Governor in Kansas?,3424,444,19,24,21
+6,KXNEPALHOUSE-26MAR05-RSP,KXNEPALHOUSE,Will RSP win the 2026 Nepal House of Representatives election?,2298,1201,65,71,71
+7,HOUSENV4-26-D,HOUSENV4,Will a Democrat win the House race for NV-4?,2012,920,78,84,83
+8,KXLOSEPRIMARYSENATED-26NOV03-0,KXLOSEPRIMARYSENATED,Will exactly 0 Senate Democratic members lose their primary in 2026?,1814,1570,77,78,77
+9,KXNEPALHOUSE-26MAR05-CON,KXNEPALHOUSE,Will Congress win the 2026 Nepal House of Representatives election?,1553,1372,21,26,26
+10,HOUSEOR5-26-D,HOUSEOR5,Will Democratic win the House race for OR-5?,1330,1271,79,86,85
+11,KXLOSEPRIMARYSENATED-26NOV03-1,KXLOSEPRIMARYSENATED,Will exactly 1 Senate Democratic members lose their primary in 2026?,1159,1003,11,12,12

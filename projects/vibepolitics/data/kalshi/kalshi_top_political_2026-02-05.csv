@@ -1,0 +1,51 @@
+rank,ticker,series_ticker,title,volume,open_interest,last_price,yes_bid,yes_ask
+1,PRESPARTYWI-24-R,PRESPARTYWI,Will the Republican party win Wisconsin in the presidential election?,4064759,835850,99,99,100
+2,PRESPARTYAZ-24-D,PRESPARTYAZ,Will the Democratic party win Arizona in the presidential election?,3973870,1322676,1,0,1
+3,PRESPARTYAZ-24-R,PRESPARTYAZ,Will the Republican party win Arizona in the presidential election?,3271288,1148894,99,99,100
+4,PRESPARTYWI-24-D,PRESPARTYWI,Will the Democratic party win Wisconsin in the presidential election?,3148863,817563,1,0,1
+5,KXPRESROMANIA24-ND,KXPRESROMANIA24,Will Nicusor Dan win the 2024 Romanian presidential election?,2153145,531944,99,0,100
+6,KXPRESROMANIA24-GS,KXPRESROMANIA24,Will George Simion win the 2024 Romanian presidential election?,1864412,518493,1,0,100
+7,KXTARIFFSC-25MAR01,KXTARIFFSC,Will Trump impose tariffs on the any country  sector in the first 100 days?,1198709,340424,98,98,99
+8,KXPRESROMANIA24-CG,KXPRESROMANIA24,Will Călin Georgescu win the 2024 Romanian presidential election?,1060415,279588,1,0,100
+9,KXLARGETARIFF,KXLARGETARIFF,Will Trump become President and impose large tariffs in his first year?,1060180,245964,99,0,100
+10,KXGOVFLNOMR-26-JFIS,KXGOVFLNOMR,Wil James Fishback be the Republican nominee for Governor in Florida?,888746,595187,16,15,16
+11,PRESPARTYNM-24-R,PRESPARTYNM,Will the Republican party win New Mexico in the presidential election?,549072,237190,1,0,1
+12,PRESPARTYNM-24-D,PRESPARTYNM,Will the Democratic party win New Mexico in the presidential election?,506033,174835,99,99,100
+13,KXPRESROMANIA24-EL,KXPRESROMANIA24,Will Elena Lasconi win the 2024 Romanian presidential election?,318868,43604,1,0,100
+14,KXGOVNJNOMD-25-MS,KXGOVNJNOMD,Wil Mikie Sherrill be the Democratic nominee for Governor in New Jersey?,317218,232674,99,0,100
+15,KXDOGEMAX1-26-JAN01-0.99999999,KXDOGEMAX1,When will Dogecoin hit $1?,256742,104000,1,0,100
+16,KXTARIFFSC-25JAN23-PRC,KXTARIFFSC,Will Trump impose tariffs in the first 48 hours?,255291,125452,2,0,1
+17,KXGOVNJNOMD-25-JG,KXGOVNJNOMD,Wil Josh Gottheimer be the Democratic nominee for Governor in New Jersey?,229538,187943,1,0,100
+18,KXMUSKOAI-26,KXMUSKOAI,Will Elon Musk win Musk v. Altman et al?,224477,108135,48,48,53
+19,KXGOVNJNOMD-25-SF,KXGOVNJNOMD,Wil Steven Fulop be the Democratic nominee for Governor in New Jersey?,219108,156154,1,0,100
+20,KXTARIFFSG-25JAN23,KXTARIFFSG,Will Trump impose tariffs in the first 48 hours?,206157,103532,2,0,1
+21,KXECDJT312,KXECDJT312,Will Trump win 312-226 - swing state sweep?,165157,38346,98,98,100
+22,KXDOGEMAX1-25-SEP01-0.99999999,KXDOGEMAX1,When will Dogecoin hit $1?,153697,73554,1,0,100
+23,KXGOVFLNOMR-26-BD,KXGOVFLNOMR,Wil Byron Donalds be the Republican nominee for Governor in Florida?,147885,102785,75,73,74
+24,PRESPARTYME2-24-R,PRESPARTYME2,Will the Republican party win ME-2 (Maine's second Congressional district) in the presidential election?,123692,18710,99,99,100
+25,KXTARIFFSC-25JAN23-MEX,KXTARIFFSC,Will Trump impose tariffs in the first 48 hours?,116381,46969,1,0,1
+26,PRESPARTYME2-24-D,PRESPARTYME2,Will the Democratic party win ME-2 (Maine's second Congressional district) in the presidential election?,115153,55595,1,0,1
+27,KXTRUMPFIRE-25-0,KXTRUMPFIRE,Will Trump fire 0 Cabinet members before 2026?,107526,37888,99,0,100
+28,KXBUSINESSROUNDTABLE-25MAR11-TELSA,KXBUSINESSROUNDTABLE,Will Trump say Tesla at remarks at Business Roundtable?,103634,85301,97,96,97
+29,KXDOGEMAX1-25-JUN01-0.99999999,KXDOGEMAX1,When will Dogecoin hit $1?,102341,41216,1,0,100
+30,KXTRUMPMOSCOW-26-MOSC,KXTRUMPMOSCOW,"Will Donald Trump visit Moscow before Jan 1, 2026?",99414,36401,1,0,100
+31,KXTARIFFSC-25JAN23-CAN,KXTARIFFSC,Will Trump impose tariffs in the first 48 hours?,92399,31735,1,0,1
+32,KXCALLIMPEACHRCONGRESS-26,KXCALLIMPEACHRCONGRESS,Will any Republican member of Congress call for Trump's impeachment before 2026?,91576,47264,1,0,100
+33,KXGOVNJNOMD-25-RB,KXGOVNJNOMD,Wil Ras Baraka be the Democratic nominee for Governor in New Jersey?,86708,75162,1,0,100
+34,KXGOVFLNOMR-26-CDES,KXGOVFLNOMR,Wil Casey DeSantis be the Republican nominee for Governor in Florida?,82704,69560,8,7,8
+35,KXGOVFLNOMR-26-JCOL,KXGOVFLNOMR,Wil Jay Collins be the Republican nominee for Governor in Florida?,80904,69676,4,4,5
+36,KXPRESROMANIA24-CA,KXPRESROMANIA24,Will Crin Antonescu win the 2024 Romanian presidential election?,79217,28428,1,0,100
+37,KXFEDCHAIRCONFIRMED-26MAR01,KXFEDCHAIRCONFIRMED,"Will Trump’s first officially announced pick for Chairman of the Federal Reserve be confirmed as Chairman of the Federal Reserve before Mar 1, 2026?",79188,62531,3,2,3
+38,PRESPARTYMO-24-D,PRESPARTYMO,Will the Democratic party win Missouri in the presidential election?,79076,52141,1,0,1
+39,KXTRUMPSAYSCAM-25JUN,KXTRUMPSAYSCAM,Will Trump say 'Scam Altman' before Jun 2025?,71876,43778,3,0,100
+40,KXPRESROMANIA24-VP,KXPRESROMANIA24,Will VIctor Ponta win the 2024 Romanian presidential election?,62954,30063,1,0,100
+41,KXDOGEMAX1-25-JAN01-0.99999999,KXDOGEMAX1,When will Dogecoin hit $1?,60757,16180,1,0,1
+42,KXBUSINESSROUNDTABLE-25MAR11-CANADA,KXBUSINESSROUNDTABLE,Will Trump say Canada at remarks at Business Roundtable?,55616,20703,1,1,14
+43,CHINAUSGDP-30,KXCHINAUSGDP,Will China overtake US GDP by 2030?,52308,14585,18,18,22
+44,KXDOGEMAX1-26-JUN01-0.99999999,KXDOGEMAX1,When will Dogecoin hit $1?,52095,31368,5,4,5
+45,KXJPHOCSECOND-25-CDP,KXJPHOCSECOND,Who will be second in the Japan House of Councillors election?,49378,24511,1,0,100
+46,POPVOTEDJTWY-2024-R-T50,POPVOTEDJTWY,Will the popular vote margin of victory for Donald Trump in Wyoming be 50% or more?,45432,9604,2,0,4
+47,KXDOGEMAX1-25-MAR01-0.99999999,KXDOGEMAX1,When will Dogecoin hit $1?,43773,18041,1,0,1
+48,KXPARIS-25-MAY01,KXPARIS,Will Trump withdraw the US from the Paris Climate Agreement in his first 100 days?,43631,16210,96,98,100
+49,538APPROVEMAX-24JUL31-T39,KX538APPROVEMAX,"Will Biden's approval rating ever get above 39% by Jul 31, 2024?",42670,9327,7,0,6
+50,KXDOGEMAX1-27-JAN01-0.99999999,KXDOGEMAX1,When will Dogecoin hit $1?,41416,23980,6,6,7

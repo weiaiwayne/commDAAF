@@ -291,3 +291,131 @@ wss://ws-subscriptions-clob.polymarket.com/ws/
 ```
 
 Subscribe to token IDs for real-time price updates.
+
+---
+
+# Kalshi API Documentation
+*Added: 2026-02-05*
+
+## Authentication
+
+Kalshi uses **RSA key signing** for API authentication:
+1. Create account at kalshi.com
+2. Generate API credentials (API Key ID + Private Key)
+3. Sign each request with: `{timestamp}{method}{path}`
+4. Include headers: `KALSHI-ACCESS-KEY`, `KALSHI-ACCESS-SIGNATURE`, `KALSHI-ACCESS-TIMESTAMP`
+
+## Base URL
+```
+https://api.elections.kalshi.com/trade-api/v2
+```
+
+## Endpoints
+
+### Series (Event Categories)
+```
+GET /series
+  ?limit={n}
+  ?cursor={cursor}
+
+GET /series/{ticker}
+```
+
+Returns event series (categories). Over 8,000 series available.
+
+### Markets
+```
+GET /markets
+  ?series_ticker={ticker}
+  ?limit={n}
+  ?cursor={cursor}
+
+GET /markets/{ticker}
+
+GET /markets/{ticker}/orderbook
+```
+
+**Market Fields:**
+- `ticker` - Unique market identifier
+- `title`, `subtitle` - Market description
+- `volume` - Total trading volume (cents)
+- `open_interest` - Current open contracts
+- `yes_bid`, `yes_ask`, `no_bid`, `no_ask` - Current prices
+- `last_price` - Last trade price
+- `status` - "active" | "finalized" | "closed"
+- `created_time`, `close_time`, `expiration_time`
+- `result` - Settlement outcome ("yes" | "no" | null)
+
+### Candlesticks (Time-Series)
+```
+GET /series/{series}/markets/{ticker}/candlesticks
+  ?start_ts={unix_timestamp}
+  ?end_ts={unix_timestamp}
+  ?period_interval={minutes}  # 60=hourly, 1440=daily
+```
+
+**⚠️ Required parameters:** `start_ts` is mandatory
+
+**Candlestick Fields:**
+- `end_period_ts` - End of candle period
+- `price.open`, `price.high`, `price.low`, `price.close`
+- `volume` - Period volume
+- `open_interest` - End of period OI
+
+### Events
+```
+GET /events
+  ?limit={n}
+  ?cursor={cursor}
+```
+
+### Exchange Status
+```
+GET /exchange/status
+```
+
+## Endpoint Summary
+
+| Endpoint | Auth Required | Notes |
+|----------|---------------|-------|
+| `/series` | ✅ Yes | List all series |
+| `/markets` | ✅ Yes | List/filter markets |
+| `/markets/{ticker}` | ✅ Yes | Single market details |
+| `/markets/{ticker}/orderbook` | ✅ Yes | Current order book |
+| `/series/{s}/markets/{t}/candlesticks` | ✅ Yes | Historical OHLCV |
+| `/exchange/status` | ✅ Yes | Exchange status |
+
+## Rate Limits
+Not explicitly documented. Recommended: 0.1-0.2s delay between requests.
+
+## Political Markets Stats (2026-02-05)
+- **Total series:** 8,346
+- **Political series:** 1,426+
+- **Active political markets:** 11 (with volume >$1K)
+- **Categories:** Fed, Trump, Senate, House, State Governors, International Elections
+
+---
+
+## Kalshi Data Downloaded (2026-02-05)
+
+### Time-Series Data (Daily Candlesticks)
+**Location:** `projects/vibepolitics/data/kalshi/timeseries/`
+
+| File | Market | Days | Description |
+|------|--------|------|-------------|
+| `KXTRUMPRESIGN_daily.csv` | Trump Resign | 180 | Will Trump resign before end of term? |
+| `Large_Tariff_daily.csv` | Large Tariff | 176 | Will Trump impose large tariffs? |
+| `KXTRUMPDOLLAR_26_daily.csv` | Trump Dollar Coin | 54 | Official Trump Dollar issued by Mint |
+| `KXGOVKSNOMD_26_*.csv` | Kansas Gov Dem | 180 | Democratic nominee for KS Governor |
+| `HOUSE*_daily.csv` | House Races | 180 | Various House district races |
+| `KXNEPALHOUSE_*.csv` | Nepal Elections | 21 | Nepal House of Representatives |
+| `KXLOSEPRIMARYSENATED_*.csv` | Senate Primaries | 13 | Senate incumbents losing primaries |
+
+### Summary Files
+- `kalshi_top_political_2026-02-05.csv` - Top 50 political markets by volume
+- `kalshi_active_political.csv` - Currently active political markets
+
+### Total Data
+- **Files:** 12 daily CSV files
+- **Total size:** ~51KB
+- **Date range:** Aug 2025 - Feb 2026 (varies by market)
