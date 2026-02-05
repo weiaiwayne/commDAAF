@@ -1,0 +1,6 @@
+rank,ticker,event_ticker,title,category,yes_bid_cents,yes_ask_cents,last_price_cents,yes_bid_dollars,yes_ask_dollars,last_price_dollars,volume_contracts,recent_volume,open_interest,dollar_volume,liquidity,close_date,expiration_date,status
+1,KXPERSONPRESMAM-45,KXPERSONPRESMAM,"Will Zohran Mamdani become President of the United States before 2045?",US Politics,5,7,5,0.05,0.07,0.05,26832,200,13638,13416,71752081,2045-01-29,2045-01-29,active
+2,KXNEWPOPE-70-PPAR,KXNEWPOPE,"Who will the next Pope be? (Pietro Parolin)",World Politics,5,9,9,0.05,0.09,0.09,15240,22,6844,7620,90537680,2070-01-01,2070-01-01,active
+3,KXXISUCCESSOR-45JAN01,KXXISUCCESSOR,"Who will be named as Xi Jinping's successor?",World Politics,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2045-01-01,2045-01-01,active
+4,KXNEWPOPE-70-LANT,KXNEWPOPE,"Who will the next Pope be? (Luis Antonio Tagle)",World Politics,5,8,5,0.05,0.08,0.05,10046,24,3852,5023,90639087,2070-01-01,2070-01-01,active
+5,KXNEWPOPE-70-PERD,KXNEWPOPE,"Who will the next Pope be? (Peter Erdo)",World Politics,3,5,5,0.03,0.05,0.05,6166,6,1654,3083,90380746,2070-01-01,2070-01-01,active

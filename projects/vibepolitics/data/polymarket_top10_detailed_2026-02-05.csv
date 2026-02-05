@@ -1,0 +1,24 @@
+event_rank,event_title,event_slug,event_total_volume,event_24hr_volume,event_liquidity,market_question,outcome,outcome_price,market_volume,market_24hr_volume
+1,Democratic Presidential Nominee 2028,democratic-presidential-nominee-2028,603000000,N/A,N/A,Event-level data (see polymarket.com),Various,Varies,N/A,N/A
+2,Who will Trump nominate as Fed Chair?,who-will-trump-nominate-as-fed-chair,406852878,3449788,8767920,Kevin Warsh nomination,Yes,0.54,157893089,1438063
+2,Who will Trump nominate as Fed Chair?,who-will-trump-nominate-as-fed-chair,406852878,3449788,8767920,Kevin Hassett nomination,Yes,0.20,61063890,641456
+2,Who will Trump nominate as Fed Chair?,who-will-trump-nominate-as-fed-chair,406852878,3449788,8767920,Other nomination,Yes,0.17,N/A,N/A
+3,Presidential Election Winner 2028,presidential-election-winner-2028,256000000,N/A,N/A,Event-level data (see polymarket.com),Various,Varies,N/A,N/A
+4,Republican Presidential Nominee 2028,republican-presidential-nominee-2028,249000000,N/A,N/A,Event-level data (see polymarket.com),Various,Varies,N/A,N/A
+5,US strikes Iran by...?,us-strikes-iran-by,177000000,N/A,N/A,Event-level data (see polymarket.com),Various dates,Varies,N/A,N/A
+6,Portugal Presidential Election,portugal-presidential-election,130424465,1095426,14404148,André Ventura win,Yes,0.007,16404073,696996
+6,Portugal Presidential Election,portugal-presidential-election,130424465,1095426,14404148,Aristides Teixeira win,Yes,0.0005,9109551,N/A
+6,Portugal Presidential Election,portugal-presidential-election,130424465,1095426,14404148,Joana Amaral Dias win,Yes,0.0005,5991704,N/A
+7,Fed decision in March?,fed-decision-in-march-885,66642628,6851730,2843575,No change in rates,Yes,0.785,7280761,1222009
+7,Fed decision in March?,fed-decision-in-march-885,66642628,6851730,2843575,25 bps decrease,Yes,0.185,6780035,1483509
+7,Fed decision in March?,fed-decision-in-march-885,66642628,6851730,2843575,50+ bps decrease,Yes,0.0135,25311093,2399908
+7,Fed decision in March?,fed-decision-in-march-885,66642628,6851730,2843575,25+ bps increase,Yes,0.0125,27271392,1746303
+8,Venezuela leader end of 2026?,venezuela-leader-end-of-2026,16174987,635672,1427696,Nicolás Maduro,Yes,0.85,N/A,N/A
+8,Venezuela leader end of 2026?,venezuela-leader-end-of-2026,16174987,635672,1427696,María Corina Machado,Yes,0.11,685285,1749
+8,Venezuela leader end of 2026?,venezuela-leader-end-of-2026,16174987,635672,1427696,Diosdado Cabello,Yes,0.02,558127,4203
+8,Venezuela leader end of 2026?,venezuela-leader-end-of-2026,16174987,635672,1427696,Vladimir Padrino López,Yes,0.019,223834,11494
+9,Russia x Ukraine ceasefire by March 31?,russia-x-ukraine-ceasefire-by-march-31-2026,14360682,774434,773948,Ceasefire Yes,Yes,0.085,14360682,774434
+9,Russia x Ukraine ceasefire by March 31?,russia-x-ukraine-ceasefire-by-march-31-2026,14360682,774434,773948,Ceasefire No,Yes,0.915,14360682,774434
+10,Elon Musk tweets Jan 30-Feb 6,elon-musk-of-tweets-january-30-february-6,12792239,3337274,1952486,220-239 tweets (active),Yes,Varies,N/A,N/A
+10,Elon Musk tweets Jan 30-Feb 6,elon-musk-of-tweets-january-30-february-6,12792239,3337274,1952486,240-259 tweets (active),Yes,Varies,N/A,N/A
+10,Elon Musk tweets Jan 30-Feb 6,elon-musk-of-tweets-january-30-february-6,12792239,3337274,1952486,Multiple brackets,Resolved,0,Several resolved,N/A

@@ -1,0 +1,11 @@
+rank,title,slug,total_volume_usd,volume_24hr_usd,liquidity_usd,end_date,category,top_outcome,top_outcome_price,description_short
+1,Democratic Presidential Nominee 2028,democratic-presidential-nominee-2028,603000000,N/A,N/A,2028-08-31,US Elections 2028,Various candidates,Varies,Who will win the Democratic presidential nomination in 2028
+2,Who will Trump nominate as Fed Chair?,who-will-trump-nominate-as-fed-chair,407000000,3449788,8767920,2027-01-20,US Economic Policy,Kevin Warsh (54%),0.54,Trump's pick for next Federal Reserve Chair
+3,Presidential Election Winner 2028,presidential-election-winner-2028,256000000,N/A,N/A,2028-11-15,US Elections 2028,Various candidates,Varies,Who will win the 2028 US Presidential Election
+4,Republican Presidential Nominee 2028,republican-presidential-nominee-2028,249000000,N/A,N/A,2028-08-31,US Elections 2028,Various candidates,Varies,Who will win the Republican presidential nomination in 2028
+5,US strikes Iran by...?,us-strikes-iran-by,177000000,N/A,N/A,Various,Geopolitics,Various dates,Varies,Will the US conduct military strikes on Iran
+6,Portugal Presidential Election,portugal-presidential-election,130424465,1095426,14404148,2026-02-08,International Elections,Gouveia e Melo (~99%),0.99,Who will win Portugal's 2026 presidential election
+7,Fed decision in March?,fed-decision-in-march-885,66642628,6851730,2843575,2026-03-18,US Economic Policy,No change (78.5%),0.785,FOMC interest rate decision for March 2026
+8,Venezuela leader end of 2026?,venezuela-leader-end-of-2026,16174987,635672,1427696,2026-12-31,Latin America Politics,Maduro (~85%),0.85,Who will be Venezuela's head of state at end of 2026
+9,Russia x Ukraine ceasefire by March 31 2026?,russia-x-ukraine-ceasefire-by-march-31-2026,14360682,774434,773948,2026-03-31,Geopolitics,No (91.5%),0.915,Will there be official Russia-Ukraine ceasefire by March 31
+10,Elon Musk # tweets Jan 30 - Feb 6,elon-musk-of-tweets-january-30-february-6,12792239,3337274,1952486,2026-02-06,Social Media/Politics,Various ranges,Varies,How many tweets will Elon Musk post this week

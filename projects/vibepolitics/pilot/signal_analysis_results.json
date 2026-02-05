@@ -1,0 +1,595 @@
+{
+  "analysisTime": "2026-02-05T19:52:25.780Z",
+  "summary": {
+    "totalAnalyzed": 72,
+    "rapidShifts": 0,
+    "contestedMarkets": 25,
+    "highUncertainty": 0
+  },
+  "topSignals": [
+    {
+      "question": "Will the U.S. collect between $500b and $1t in revenue in 2025?",
+      "slug": "will-the-us-collect-between-500b-and-1t-in-revenue-in-2025",
+      "compositeScore": 0.528151879150248,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 0.8907593957512399,
+        "UI": 0,
+        "ATT": 1
+      },
+      "price": null,
+      "priceChange24h": 0.0005,
+      "volume": 908574.286812,
+      "volume24h": 339450.943371,
+      "liquidity": 14836.49145
+    },
+    {
+      "question": "Will the U.S. collect less than $100b in revenue in 2025?",
+      "slug": "will-the-us-collect-less-than-100b-in-revenue-in-2025",
+      "compositeScore": 0.5214410246864797,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0.19360506160483668,
+        "MSS": 0.8511333891250635,
+        "UI": 0,
+        "ATT": 0.3345257529977414
+      },
+      "price": null,
+      "priceChange24h": -0.044,
+      "volume": 1205788.663938,
+      "volume24h": 40336.736076,
+      "liquidity": 22918.00086
+    },
+    {
+      "question": "Will Elise Stefanik win the 2028 Republican presidential nomination?",
+      "slug": "will-elise-stefanik-win-the-2028-republican-presidential-nomination",
+      "compositeScore": 0.4797883024726397,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 1,
+        "UI": 0,
+        "ATT": 0.29788302472639666
+      },
+      "price": null,
+      "priceChange24h": 0.001,
+      "volume": 11283070.620916,
+      "volume24h": 336103.52047600003,
+      "liquidity": 355298.53837
+    },
+    {
+      "question": "Will Michelle Obama win the 2028 Democratic presidential nomination?",
+      "slug": "will-michelle-obama-win-the-2028-democratic-presidential-nomination-777",
+      "compositeScore": 0.47540874154868384,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 1,
+        "UI": 0,
+        "ATT": 0.25408741548683844
+      },
+      "price": null,
+      "priceChange24h": -0.001,
+      "volume": 14457190.358254,
+      "volume24h": 367339.0133329999,
+      "liquidity": 720179.49947
+    },
+    {
+      "question": "Will Tom Brady win the 2028 Republican presidential nomination?",
+      "slug": "will-tom-brady-win-the-2028-republican-presidential-nomination",
+      "compositeScore": 0.46614567353257896,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 1,
+        "UI": 0,
+        "ATT": 0.16145673532578977
+      },
+      "price": null,
+      "priceChange24h": 0.001,
+      "volume": 15549825.338683,
+      "volume24h": 251062.40340700003,
+      "liquidity": 730177.61622
+    },
+    {
+      "question": "Will bitcoin hit $1m before GTA VI?",
+      "slug": "will-bitcoin-hit-1m-before-gta-vi-872",
+      "compositeScore": 0.463641145067051,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 0.9704205204533243,
+        "UI": 0,
+        "ATT": 0.19557040976386122
+      },
+      "price": null,
+      "priceChange24h": 0.01,
+      "volume": 3036399.875201,
+      "volume24h": 59382.99677999966,
+      "liquidity": 184942.7074
+    },
+    {
+      "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
+      "slug": "will-raphael-warnock-win-the-2028-democratic-presidential-nomination-914",
+      "compositeScore": 0.4574171670352414,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 1,
+        "UI": 0,
+        "ATT": 0.07417167035241382
+      },
+      "price": null,
+      "priceChange24h": 0.001,
+      "volume": 13724784.18813,
+      "volume24h": 101799.01684599998,
+      "liquidity": 387869.40766
+    },
+    {
+      "question": "Will Barack Obama win the 2028 Democratic presidential nomination?",
+      "slug": "will-barack-obama-win-the-2028-democratic-presidential-nomination-265",
+      "compositeScore": 0.45720447403005277,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 1,
+        "UI": 0,
+        "ATT": 0.07204474030052763
+      },
+      "price": null,
+      "priceChange24h": 0.001,
+      "volume": 16147958.469655,
+      "volume24h": 116337.547433,
+      "liquidity": 823066.58208
+    },
+    {
+      "question": "Will Elon Musk win the 2028 US Presidential Election?",
+      "slug": "will-elon-musk-win-the-2028-us-presidential-election",
+      "compositeScore": 0.45612534534271365,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 1,
+        "UI": 0,
+        "ATT": 0.061253453427136506
+      },
+      "price": null,
+      "priceChange24h": 0.001,
+      "volume": 14602479.934523,
+      "volume24h": 89445.23245899999,
+      "liquidity": 715207.38159
+    },
+    {
+      "question": "Will Chelsea Clinton win the 2028 Democratic presidential nomination?",
+      "slug": "will-chelsea-clinton-win-the-2028-democratic-presidential-nomination",
+      "compositeScore": 0.4552564188898387,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 1,
+        "UI": 0,
+        "ATT": 0.05256418889838688
+      },
+      "price": null,
+      "priceChange24h": -0.001,
+      "volume": 31681171.876146,
+      "volume24h": 166529.510302,
+      "liquidity": 677971.25876
+    },
+    {
+      "question": "Will Oprah Winfrey win the 2028 Democratic presidential nomination?",
+      "slug": "will-oprah-winfrey-win-the-2028-democratic-presidential-nomination",
+      "compositeScore": 0.45262474371249245,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 1,
+        "UI": 0,
+        "ATT": 0.026247437124924545
+      },
+      "price": null,
+      "priceChange24h": 0.001,
+      "volume": 32529630.166033,
+      "volume24h": 85381.94224799999,
+      "liquidity": 216308.07498
+    },
+    {
+      "question": "Will the U.S. collect more than $2t in revenue in 2025?",
+      "slug": "will-the-us-collect-more-than-2t-in-revenue-in-2025",
+      "compositeScore": 0.42996275484763835,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 0.6877553470865772,
+        "UI": 0,
+        "ATT": 0.42411685430322915
+      },
+      "price": null,
+      "priceChange24h": 0.0025,
+      "volume": 404801.408428,
+      "volume24h": 17168.309996000004,
+      "liquidity": 25439.55646
+    },
+    {
+      "question": "Will the U.S. collect between $1t and $2t in revenue in 2025?",
+      "slug": "will-the-us-collect-between-1t-and-2t-in-revenue-in-2025",
+      "compositeScore": 0.4287390092645893,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 0.6918553465686232,
+        "UI": 0,
+        "ATT": 0.4036793995086465
+      },
+      "price": null,
+      "volume": 444856.802028,
+      "volume24h": 17957.95267099999,
+      "liquidity": 22690.79643
+    },
+    {
+      "question": "Will the U.S. collect between $100b and $200b in revenue in 2025?",
+      "slug": "will-the-us-collect-between-100b-and-200b-in-revenue-in-2025",
+      "compositeScore": 0.4199193961693984,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 0.7284067105029989,
+        "UI": 0,
+        "ATT": 0.24238054068798565
+      },
+      "price": null,
+      "priceChange24h": 0.0285,
+      "volume": 1054513.517853,
+      "volume24h": 25559.355661999994,
+      "liquidity": 7044.88806
+    },
+    {
+      "question": "Will the U.S. collect between $200b and $500b in revenue in 2025?",
+      "slug": "will-the-us-collect-between-200b-and-500b-in-revenue-in-2025",
+      "compositeScore": 0.410216213643567,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 0.6651877298785582,
+        "UI": 0,
+        "ATT": 0.271786676678553
+      },
+      "price": null,
+      "priceChange24h": 0.025,
+      "volume": 628727.790296,
+      "volume24h": 17087.983666,
+      "liquidity": 7165.6757
+    },
+    {
+      "question": "Will Elon and DOGE cut more than $250b in federal spending in 2025?",
+      "slug": "will-elon-and-doge-cut-more-than-250b-in-federal-spending-in-2025",
+      "compositeScore": 0.4040264362601881,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 0.6480521779322285,
+        "UI": 0,
+        "ATT": 0.24416000673742358
+      },
+      "price": null,
+      "priceChange24h": 0.0115,
+      "volume": 708055.878848,
+      "volume24h": 17287.892815000003,
+      "liquidity": 3165.55385
+    },
+    {
+      "question": "Will Elon and DOGE cut between $150-200b in federal spending in 2025?",
+      "slug": "will-elon-and-doge-cut-between-150-200b-in-federal-spending-in-2025",
+      "compositeScore": 0.4029867579635152,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 0.6030801432736523,
+        "UI": 0,
+        "ATT": 0.3237072930878471
+      },
+      "price": null,
+      "priceChange24h": -0.011,
+      "volume": 326083.243918,
+      "volume24h": 10555.552420999999,
+      "liquidity": 5557.91687
+    },
+    {
+      "question": "Will tariffs generate >$250b in 2025?",
+      "slug": "will-tariffs-generate-250b-in-2025",
+      "compositeScore": 0.3961838450168794,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 0.6783562027441221,
+        "UI": 0,
+        "ATT": 0.1051260446805502
+      },
+      "price": null,
+      "priceChange24h": 0.001,
+      "volume": 1204541.318422,
+      "volume24h": 12662.866446000002,
+      "liquidity": 17716.03164
+    },
+    {
+      "question": "Will Elon and DOGE cut between $100-150b in federal spending in 2025?",
+      "slug": "will-elon-and-doge-cut-between-100-150b-in-federal-spending-in-2025",
+      "compositeScore": 0.3866990826061119,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 0.5723528984523784,
+        "UI": 0,
+        "ATT": 0.22228502915636222
+      },
+      "price": null,
+      "priceChange24h": -0.0015,
+      "volume": 293163.25988,
+      "volume24h": 6516.580377,
+      "liquidity": 4793.95497
+    },
+    {
+      "question": "Negative GDP growth in 2025?",
+      "slug": "negative-gdp-growth-in-2025",
+      "compositeScore": 0.37524867043057736,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 0.5284907264686617,
+        "UI": 0,
+        "ATT": 0.19550525136845023
+      },
+      "price": null,
+      "priceChange24h": 0.0045,
+      "volume": 143385.177911,
+      "volume24h": 2803.2555250000014,
+      "liquidity": 4137.98545
+    },
+    {
+      "question": "Will Elon and DOGE cut between $50-100b in federal spending in 2025?",
+      "slug": "will-elon-and-doge-cut-between-50-100b-in-federal-spending-in-2025",
+      "compositeScore": 0.37220315005450605,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 0.5568094294029098,
+        "UI": 0,
+        "ATT": 0.10841264173924121
+      },
+      "price": null,
+      "priceChange24h": -0.0005,
+      "volume": 368594.833028,
+      "volume24h": 3996.033958,
+      "liquidity": 3792.82391
+    },
+    {
+      "question": "Will Elon and DOGE cut between $200-250b in federal spending in 2025?",
+      "slug": "will-elon-and-doge-cut-between-200-250b-in-federal-spending-in-2025",
+      "compositeScore": 0.3719258282794833,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 0.5758691096801501,
+        "UI": 0,
+        "ATT": 0.06752006343453255
+      },
+      "price": null,
+      "priceChange24h": -0.0015,
+      "volume": 436437.810201,
+      "volume24h": 2946.830863,
+      "liquidity": 8545.33327
+    },
+    {
+      "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
+      "compositeScore": 0.36785994254567517,
+      "signals": {
+        "VPDI": 0.737981918365804,
+        "RDS": 0,
+        "MSS": 0.8145833005265443,
+        "UI": 0,
+        "ATT": 0.20447802848915309
+      },
+      "price": null,
+      "priceChange24h": -0.005,
+      "volume": 1340443.847318,
+      "volume24h": 27409.131519999995,
+      "liquidity": 247604.3639
+    },
+    {
+      "question": "Will Elon and DOGE cut less than $50b in federal spending in 2025?",
+      "slug": "will-elon-and-doge-cut-less-than-50b-in-federal-spending-in-2025",
+      "compositeScore": 0.36443087695863513,
+      "signals": {
+        "VPDI": 1,
+        "RDS": 0,
+        "MSS": 0.5388463959313075,
+        "UI": 0,
+        "ATT": 0.06661597772373623
+      },
+      "price": null,
+      "priceChange24h": 0.0015,
+      "volume": 339275.066167,
+      "volume24h": 2260.1140250000008,
+      "liquidity": 3072.04073
+    },
+    {
+      "question": "SCOTUS accepts sports event contract case by July 31, 2026?     ",
+      "slug": "scotus-accepts-sports-event-contract-case-by-july-31-2026",
+      "compositeScore": 0.31030880487394424,
+      "signals": {
+        "VPDI": 0.4026277545946599,
+        "RDS": 0.2737868731243688,
+        "MSS": 0.5585279027635525,
+        "UI": 0,
+        "ATT": 0.021208800790397355
+      },
+      "price": null,
+      "priceChange24h": 0.16,
+      "volume": 901430.57587,
+      "volume24h": 1911.826151,
+      "liquidity": 2793.1597
+    },
+    {
+      "question": "Will Elon cut the budget by at least 5% in 2025?",
+      "slug": "will-elon-cut-the-budget-by-at-least-5-in-2025",
+      "compositeScore": 0.27106810204122816,
+      "signals": {
+        "VPDI": 0.5263783860466865,
+        "RDS": 0.05699361974920498,
+        "MSS": 0.5373427739985596,
+        "UI": 0,
+        "ATT": 0.1205718381762287
+      },
+      "price": null,
+      "priceChange24h": 0.061,
+      "volume": 174923.291865,
+      "volume24h": 2109.082284,
+      "liquidity": 5643.35183
+    },
+    {
+      "question": "Will Michelle Obama win the 2028 US Presidential Election?",
+      "slug": "will-michelle-obama-win-the-2028-us-presidential-election",
+      "compositeScore": 0.2259753198818996,
+      "signals": {
+        "VPDI": 0,
+        "RDS": 0,
+        "MSS": 0.9954583572931976,
+        "UI": 0,
+        "ATT": 0.26883648423260054
+      },
+      "price": null,
+      "volume": 8327625.770552,
+      "volume24h": 223876.96341600007,
+      "liquidity": 845488.65371
+    },
+    {
+      "question": "Will Tim Walz win the 2028 Democratic presidential nomination?",
+      "slug": "will-tim-walz-win-the-2028-democratic-presidential-nomination-475",
+      "compositeScore": 0.21912065034726488,
+      "signals": {
+        "VPDI": 0,
+        "RDS": 0,
+        "MSS": 1,
+        "UI": 0,
+        "ATT": 0.19120650347264873
+      },
+      "price": null,
+      "volume": 19306286.505982,
+      "volume24h": 369148.7537849999,
+      "liquidity": 1011339.80212
+    },
+    {
+      "question": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
+      "slug": "will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
+      "compositeScore": 0.21861087509490496,
+      "signals": {
+        "VPDI": 0,
+        "RDS": 0,
+        "MSS": 1,
+        "UI": 0,
+        "ATT": 0.18610875094904938
+      },
+      "price": null,
+      "volume": 26674821.639199,
+      "volume24h": 496441.77370599995,
+      "liquidity": 1193330.15728
+    },
+    {
+      "question": "Will Kristi Noem win the 2028 Republican presidential nomination?",
+      "slug": "will-kristi-noem-win-the-2028-republican-presidential-nomination",
+      "compositeScore": 0.2172972553367306,
+      "signals": {
+        "VPDI": 0,
+        "RDS": 0,
+        "MSS": 1,
+        "UI": 0,
+        "ATT": 0.17297255336730588
+      },
+      "price": null,
+      "volume": 15902462.520854,
+      "volume24h": 275068.95470600005,
+      "liquidity": 652478.15506
+    }
+  ],
+  "rapidShifts": [],
+  "contested": [
+    {
+      "question": "Will the U.S. collect between $500b and $1t in revenue in 2025?",
+      "price": null,
+      "vpdi": 1
+    },
+    {
+      "question": "Will the U.S. collect less than $100b in revenue in 2025?",
+      "price": null,
+      "vpdi": 1
+    },
+    {
+      "question": "Will Elise Stefanik win the 2028 Republican presidential nomination?",
+      "price": null,
+      "vpdi": 1
+    },
+    {
+      "question": "Will Michelle Obama win the 2028 Democratic presidential nomination?",
+      "price": null,
+      "vpdi": 1
+    },
+    {
+      "question": "Will Tom Brady win the 2028 Republican presidential nomination?",
+      "price": null,
+      "vpdi": 1
+    },
+    {
+      "question": "Will bitcoin hit $1m before GTA VI?",
+      "price": null,
+      "vpdi": 1
+    },
+    {
+      "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
+      "price": null,
+      "vpdi": 1
+    },
+    {
+      "question": "Will Barack Obama win the 2028 Democratic presidential nomination?",
+      "price": null,
+      "vpdi": 1
+    },
+    {
+      "question": "Will Elon Musk win the 2028 US Presidential Election?",
+      "price": null,
+      "vpdi": 1
+    },
+    {
+      "question": "Will Chelsea Clinton win the 2028 Democratic presidential nomination?",
+      "price": null,
+      "vpdi": 1
+    },
+    {
+      "question": "Will Oprah Winfrey win the 2028 Democratic presidential nomination?",
+      "price": null,
+      "vpdi": 1
+    },
+    {
+      "question": "Will the U.S. collect more than $2t in revenue in 2025?",
+      "price": null,
+      "vpdi": 1
+    },
+    {
+      "question": "Will the U.S. collect between $1t and $2t in revenue in 2025?",
+      "price": null,
+      "vpdi": 1
+    },
+    {
+      "question": "Will the U.S. collect between $100b and $200b in revenue in 2025?",
+      "price": null,
+      "vpdi": 1
+    },
+    {
+      "question": "Will the U.S. collect between $200b and $500b in revenue in 2025?",
+      "price": null,
+      "vpdi": 1
+    }
+  ],
+  "uncertain": []
+}
