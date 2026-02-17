@@ -15,6 +15,7 @@ Complete set of probing questions for all methods. System MUST ask these before 
 | **Coordinated Behavior** | Operational definition, organic vs coordinated, conclusions | All 5 required |
 | **LLM Annotation** | Categories, validation plan, prompt design | All 4 required |
 | **Content Analysis** | Codebook, reliability plan, sampling | All 6 required |
+| **LTTN** ⚠️ | Detection goal, time window, weights, stop-hashtags, validation | All 5 required |
 
 ---
 
@@ -257,7 +258,56 @@ Q4: What prompt did you test and why this version?
 
 ---
 
-## 7. CONTENT ANALYSIS
+## 7. LTTN (Latent Temporal-Thematic Network) ⚠️ EXPERIMENTAL
+
+### Required Before Proceeding
+
+```
+Q1: What are you trying to detect with LTTN?
+    ✓ Information flow between communities
+    ✓ Narrative propagation patterns
+    ✓ Cross-lingual content spread
+    ✗ "Coordinated behavior" — LTTN detects SIMILARITY, not coordination
+    ✗ "Bot detection" — LTTN cannot determine automation
+
+Q2: What's your time window and why?
+    ✓ 6 hours — fast-moving events (Twitter)
+    ✓ 12-24 hours — slower platforms (Telegram)
+    ✓ Custom with platform/topic justification
+    ✗ "Default" — MUST justify based on your context
+
+Q3: How did you set body/hashtag weights?
+    ✓ 70/30 default (body priority) with rationale
+    ✓ Custom weights with justification
+    Note: Higher body = semantic similarity dominant
+          Higher hashtag = signal matching dominant
+
+Q4: What stop-hashtags are you using?
+    ✓ Domain-specific list (customized for your topic)
+    ✓ Reviewed IDF output to identify low-information tags
+    ✗ "Just the defaults" — MUST customize for your topic
+
+Q5: How will you validate the edges?
+    ✓ Manual review of 100+ stratified pairs
+    ✓ 2+ coders with inter-rater reliability
+    ✓ Focus on 0.70-0.80 similarity range
+    ✗ "Trust the algorithm" — VALIDATION REQUIRED
+```
+
+### ⚠️ EXPERIMENTAL METHOD WARNING
+
+Before using LTTN, user must acknowledge:
+```
+"I understand that LTTN is an experimental method under active development.
+I will:
+1. Validate results with manual review
+2. Report the experimental status in publications
+3. Share findings to help improve the method"
+```
+
+---
+
+## 8. CONTENT ANALYSIS
 
 ### Required Before Proceeding
 
@@ -444,4 +494,16 @@ Pass: 3/3 reasonable answers (higher bar)
 - Single coder frame analysis is unreliable
 - Must code frame elements, not just presence
 - Inductive requires emergence, deductive requires citation
+```
+
+### LTTN (EXPERIMENTAL)
+```
+⚠️ ALWAYS warn about:
+- EXPERIMENTAL METHOD — under active development
+- Similarity ≠ influence (detects similar content, not causation)
+- Threshold sensitivity (results depend heavily on parameters)
+- Stop-hashtag dependency (wrong list = wrong results)
+- Must customize stop-hashtags for your specific topic
+- Manual validation of edge sample REQUIRED
+- Report experimental status in any publication
 ```

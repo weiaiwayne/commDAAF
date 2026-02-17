@@ -150,6 +150,13 @@
       "name": "validation",
       "description": "Validation protocols for all methods",
       "docs": "methods/validation.md"
+    },
+    {
+      "name": "lttn",
+      "description": "Latent Temporal-Thematic Network (information flow detection) — EXPERIMENTAL",
+      "docs": "methods/lttn.md",
+      "experimental": true,
+      "author": "Wayne Xu"
     }
   ],
   

@@ -199,6 +199,7 @@ research/{date}_{name}/
 - `methods/network-analysis.md` — Network metrics & communities
 - `methods/coordinated-behavior.md` — Coordination detection
 - `methods/llm-annotation.md` — LLM-based text classification
+- `methods/lttn.md` — ⚠️ EXPERIMENTAL: Latent Temporal-Thematic Network (information flow)
 - `methods/validation.md` — Validation protocols
 
 ### Workflows
