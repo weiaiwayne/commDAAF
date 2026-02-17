@@ -20,7 +20,7 @@ NC='\033[0m' # No Color
 
 # Defaults
 WORKSPACE="${OPENCLAW_WORKSPACE:-$HOME/.openclaw/workspace}"
-SKILL_NAME="comm-research"
+SKILL_NAME="commdaaf"
 
 # Parse args
 while [[ "$#" -gt 0 ]]; do
@@ -38,7 +38,8 @@ done
 SKILL_DIR="$WORKSPACE/skills/$SKILL_NAME"
 
 echo -e "${GREEN}╔══════════════════════════════════════════════════════════╗${NC}"
-echo -e "${GREEN}║  Communication Research Skill Installer                  ║${NC}"
+echo -e "${GREEN}║  CommDAAF Installer                                      ║${NC}"
+echo -e "${GREEN}║  Computational Communication Research Framework          ║${NC}"
 echo -e "${GREEN}╚══════════════════════════════════════════════════════════╝${NC}"
 echo ""
 

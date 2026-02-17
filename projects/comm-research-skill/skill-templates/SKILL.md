@@ -1,6 +1,6 @@
-# Communication Research Analyst Skill
+# CommDAAF — Computational Communication Research Framework
 
-An OpenClaw skill package for computational communication research.
+An OpenClaw skill package for computational communication research, adapted from DAAF.
 
 ## Overview
 
@@ -258,6 +258,9 @@ Data access has changed dramatically. Before planning collection:
 
 ## Version
 
-- Skill version: 0.2.0
+- Name: CommDAAF
+- Full name: Computational Communication Research Framework
+- Version: 0.2.0
 - Last updated: 2026-02-17
 - Author: OpenClaw Community
+- Based on: DAAF (Data Analyst Augmentation Framework)

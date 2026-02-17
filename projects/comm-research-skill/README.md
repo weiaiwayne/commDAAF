@@ -1,8 +1,12 @@
-# Communication Research Analyst Skill for OpenClaw
+# CommDAAF
+
+**Computational Communication Research Framework**
 
 **Version 0.2.0** | Post-API Era Ready | Expert Mode Enabled
 
 An AI-assisted research framework for computational communication science — built for the reality of 2026, not the assumptions of 2020.
+
+*Adapted from [DAAF](https://github.com/DAAF-Contribution-Community/daaf) for communication scholars.*
 
 ---
 
@@ -197,9 +201,9 @@ comm-research-skill/
 
 ---
 
-## Why This Over DAAF?
+## Why CommDAAF Over DAAF?
 
-| Feature | DAAF | This Package |
+| Feature | DAAF | CommDAAF |
 |---------|------|--------------|
 | **Era** | API-centric | Post-API aware |
 | **Data reality** | Assumes collection | Prioritizes existing datasets |
@@ -255,13 +259,13 @@ Contributions welcome:
 ## Citation
 
 ```bibtex
-@software{comm_research_skill,
-  title={Communication Research Analyst Skill for OpenClaw},
+@software{commdaaf,
+  title={CommDAAF: Computational Communication Research Framework},
   author={OpenClaw Community},
   version={0.2.0},
   year={2026},
-  url={https://github.com/openclaw/skills-comm-research},
-  note={Post-API era computational communication research framework}
+  url={https://github.com/openclaw/commdaaf},
+  note={Post-API era computational communication research framework, adapted from DAAF}
 }
 ```
 

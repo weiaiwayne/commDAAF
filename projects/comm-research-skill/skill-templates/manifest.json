@@ -1,10 +1,13 @@
 {
-  "name": "comm-research",
+  "name": "commdaaf",
+  "displayName": "CommDAAF",
+  "fullName": "Computational Communication Research Framework",
   "version": "0.2.0",
-  "description": "AI-assisted computational communication research for OpenClaw — post-API era ready",
+  "description": "AI-assisted computational communication research framework — post-API era ready, adapted from DAAF",
   "author": "OpenClaw Community",
   "license": "MIT",
-  "homepage": "https://github.com/openclaw/skills-comm-research",
+  "homepage": "https://github.com/openclaw/commdaaf",
+  "basedOn": "https://github.com/DAAF-Contribution-Community/daaf",
   
   "openclaw": {
     "minVersion": "0.5.0",

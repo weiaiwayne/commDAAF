@@ -1,6 +1,8 @@
-# Communication Research Skill — Deployment Guide
+# CommDAAF — Deployment Guide
 
-**Two paths, same skill.** Pick your environment.
+**Computational Communication Research Framework**
+
+**Two paths, same framework.** Pick your environment.
 
 ---
 
@@ -26,7 +28,7 @@ If you want the simplest possible setup:
 
 ```bash
 # In your research project folder
-curl -O https://raw.githubusercontent.com/openclaw/skills-comm-research/main/CLAUDE_BUNDLE.md
+curl -O https://raw.githubusercontent.com/openclaw/commdaaf/main/CLAUDE_BUNDLE.md
 mv CLAUDE_BUNDLE.md CLAUDE.md
 ```
 
@@ -37,26 +39,26 @@ Done. Claude Code now has the full skill embedded.
 Better for ongoing use — keeps methods as separate files you can browse:
 
 ```bash
-# 1. Clone the skill into your project
-git clone https://github.com/openclaw/skills-comm-research.git .comm-research
+# 1. Clone CommDAAF into your project
+git clone https://github.com/openclaw/commdaaf.git .commdaaf
 
 # 2. Create CLAUDE.md that references it
 cat > CLAUDE.md << 'EOF'
-# Communication Research Project
+# CommDAAF Research Project
 
 ## Research Assistant Instructions
 
-You are a communication research assistant. Before answering research questions, 
-read and follow the relevant files in `.comm-research/skill-templates/`.
+You are a communication research assistant using CommDAAF. Before answering research questions, 
+read and follow the relevant files in `.commdaaf/skill-templates/`.
 
 ### Core Files (Read First)
-- `.comm-research/skill-templates/SKILL.md` — Main instructions
-- `.comm-research/skill-templates/PROBING_QUESTIONS.md` — Required questions
+- `.commdaaf/skill-templates/SKILL.md` — Main instructions
+- `.commdaaf/skill-templates/PROBING_QUESTIONS.md` — Required questions
 
 ### Methods (Read When Relevant)
-- `.comm-research/skill-templates/methods/` — Analysis methods
-- `.comm-research/skill-templates/data-sources/` — Platform access guides
-- `.comm-research/skill-templates/workflows/` — Process guidance
+- `.commdaaf/skill-templates/methods/` — Analysis methods
+- `.commdaaf/skill-templates/data-sources/` — Platform access guides
+- `.commdaaf/skill-templates/workflows/` — Process guidance
 
 ### My Research Context
 <!-- Add your specific context here -->
@@ -110,7 +112,7 @@ OpenClaw has a skills system that auto-loads instructions based on task context.
 
 ```bash
 # One-liner install to OpenClaw workspace
-curl -sSL https://raw.githubusercontent.com/openclaw/skills-comm-research/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/openclaw/commdaaf/main/install.sh | bash
 ```
 
 Or manually:
@@ -118,7 +120,7 @@ Or manually:
 ```bash
 # Clone to skills directory
 cd ~/.openclaw/workspace/skills
-git clone https://github.com/openclaw/skills-comm-research.git comm-research
+git clone https://github.com/openclaw/commdaaf.git commdaaf
 
 # Skill auto-registers via manifest.json
 ```
@@ -128,7 +130,7 @@ git clone https://github.com/openclaw/skills-comm-research.git comm-research
 Personalize the skill based on your reading:
 
 ```bash
-cd ~/.openclaw/workspace/skills/comm-research/zotero
+cd ~/.openclaw/workspace/skills/commdaaf/zotero
 
 # Get your Zotero user ID from: https://www.zotero.org/settings/keys
 # Create API key at: https://www.zotero.org/settings/keys/new
@@ -255,10 +257,10 @@ MEDIACLOUD_API_KEY=...
 
 ```bash
 # Check skill is registered
-cat ~/.openclaw/workspace/skills/comm-research/manifest.json
+cat ~/.openclaw/workspace/skills/commdaaf/manifest.json
 
 # Should show:
-# "name": "comm-research"
+# "name": "commdaaf"
 # "description": "..."
 ```
 
@@ -274,12 +276,12 @@ You might be in expert mode. To get full guidance:
 
 ### Claude Code
 ```bash
-cd .comm-research && git pull
+cd .commdaaf && git pull
 ```
 
 ### OpenClaw
 ```bash
-cd ~/.openclaw/workspace/skills/comm-research && git pull
+cd ~/.openclaw/workspace/skills/commdaaf && git pull
 ```
 
 ---
