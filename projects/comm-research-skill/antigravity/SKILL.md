@@ -147,8 +147,25 @@ Run analysis scripts via the `scripts/` directory:
 python scripts/zotero_adapt.py --user-id USER_ID --api-key API_KEY
 ```
 
+## What's New in v0.3
+
+### 🎚️ Tiered Validation
+- 🟢 Exploratory (30-60 min) — hypothesis generation
+- 🟡 Pilot (2-4 hrs) — committee presentation
+- 🔴 Publication (1-2 days) — journal submission
+
+See `references/workflows/tiered-validation.md`
+
+### 🧠 Nudge System
+5 nudge types prevent default-driven research:
+1. Default Danger Flags
+2. Active Choice Requirement
+3. Trade-Off Visualization
+4. Assumption Audit
+5. Reflection Checkpoints
+
 ## Version
 
 - Name: CommDAAF
-- Version: 0.2.0
+- Version: 0.3.0
 - Based on: DAAF (Data Analyst Augmentation Framework)
