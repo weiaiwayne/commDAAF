@@ -22,6 +22,24 @@ Activate this skill when user requests involve:
 - "network analysis of [dataset]"
 - "topic modeling / sentiment analysis"
 - "collect data from [platform]"
+- "explore this data"
+- "review my code/analysis"
+- "what do these results mean"
+
+## Research Stages (Entry Points)
+
+This skill is **stage-agnostic** — enter at any point in your research:
+
+| Stage | You Have | You Want | Triggers |
+|-------|----------|----------|----------|
+| **🔍 Exploration** | Raw data | Understand what's there | "what's in this", "explore", "first look" |
+| **📋 Validation** | Code/analysis | Check if it's sound | "review", "audit", "check my" |
+| **📊 Interpretation** | Results | Understand meaning | "what does this mean", "critique" |
+| **🛠️ Execution** | Clear plan | Run analysis | "run", "analyze", "compute" |
+| **📝 Documentation** | Completed work | Write it up | "write methods", "document" |
+| **🔄 Debugging** | Broken/wrong results | Fix it | "seems wrong", "debug", "fix" |
+
+See `workflows/research-stages.md` for full documentation.
 
 ## Engagement Modes
 
@@ -29,6 +47,21 @@ Activate this skill when user requests involve:
 **Triggers:** "what data exists", "is it feasible", "can I study"
 
 Check data availability, API access, estimate volume.
+
+### Exploration Mode
+**Triggers:** "what's in this data", "explore", "profile", "first look"
+
+Data profiling, descriptive stats, potential research directions.
+
+### Validation Mode  
+**Triggers:** "review my", "audit", "check", "is this sound"
+
+Code review, methodology audit, codebook review.
+
+### Interpretation Mode
+**Triggers:** "what does this mean", "interpret", "critique", "are these plausible"
+
+Results interpretation, sanity checks, alternative explanations.
 
 ### Full Pipeline Mode
 **Triggers:** "analyze", "research", "study", "investigate"

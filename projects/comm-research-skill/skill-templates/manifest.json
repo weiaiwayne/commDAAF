@@ -20,7 +20,16 @@
     "sentiment analysis",
     "frame analysis",
     "content analysis",
-    "collect data from *"
+    "collect data from *",
+    "what's in this *",
+    "explore *",
+    "review my *",
+    "audit *",
+    "what do these * mean",
+    "interpret *",
+    "critique *",
+    "debug *",
+    "write * section"
   ],
   
   "capabilities": [
@@ -29,7 +38,10 @@
     "network-analysis",
     "multi-agent",
     "rigor-enforcement",
-    "expert-mode"
+    "expert-mode",
+    "stage-agnostic",
+    "code-review",
+    "interpretation"
   ],
   
   "dataSources": [
@@ -142,6 +154,12 @@
   ],
   
   "workflows": [
+    {
+      "name": "research-stages",
+      "description": "Stage-agnostic entry points (explore, validate, interpret, execute, document, debug)",
+      "docs": "workflows/research-stages.md",
+      "recommended": true
+    },
     {
       "name": "data-access-strategy",
       "description": "Finding data in the post-API era",
