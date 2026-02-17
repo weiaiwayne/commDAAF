@@ -2,11 +2,23 @@
 
 **Computational Communication Research Framework**
 
-**Version 0.2.0** | Post-API Era Ready | Expert Mode Enabled
+**Version 0.3.0** | Tiered Validation | Nudge System | Theory Integration
 
 An AI-assisted research framework for computational communication science — built for the reality of 2026, not the assumptions of 2020.
 
 *Adapted from [DAAF](https://github.com/DAAF-Contribution-Community/daaf) for communication scholars.*
+
+---
+
+## What's New in v0.3
+
+| Feature | Description |
+|---------|-------------|
+| **🎚️ Tiered Validation** | 🟢 Exploratory (30 min) → 🟡 Pilot (4 hrs) → 🔴 Publication (2 days) |
+| **🧠 Nudge System** | Conscious research design — no silent defaults |
+| **📚 Theory Modules** | Gatekeeping, agenda-setting, networked publics, diffusion |
+| **🔄 Guided Pipelines** | End-to-end workflows with time estimates |
+| **🎯 Stage Detection** | Auto-detect Discovery → Development → Interpretation |
 
 ---
 

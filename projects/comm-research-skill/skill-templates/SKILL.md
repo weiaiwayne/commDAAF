@@ -1,6 +1,47 @@
 # CommDAAF — Computational Communication Research Framework
 
+**Version 0.3.0** — Now with tiered validation, nudge system, and theory integration.
+
 An OpenClaw skill package for computational communication research, adapted from DAAF.
+
+---
+
+## What's New in v0.3
+
+### 🎚️ Tiered Validation System
+Match validation to your stakes:
+| Tier | Time | Use Case |
+|------|------|----------|
+| 🟢 Exploratory | 30-60 min | Hypothesis generation |
+| 🟡 Pilot | 2-4 hrs | Committee presentation |
+| 🔴 Publication | 1-2 days | Journal submission |
+
+See `workflows/tiered-validation.md`
+
+### 🧠 Conscious Research Design (Nudge System)
+Five nudge types prevent default-driven research:
+1. Default Danger Flags
+2. Active Choice Requirement
+3. Trade-Off Visualization
+4. Assumption Audit
+5. Reflection Checkpoints
+
+Try the demo: `python scripts/conscious_choice_demo.py`
+
+See `workflows/nudge-system.md`
+
+### 📚 Theory Modules
+Communication theory integration:
+- `theories/gatekeeping.md` — Network gatekeeping, algorithmic curation
+- `theories/agenda-setting.md` — Network agenda-setting, intermedia dynamics
+- `theories/networked-publics.md` — Publics, counterpublics, affordances
+- `theories/information-diffusion.md` — Cascades, virality, echoing
+
+### 🔄 Guided Pipelines
+End-to-end workflows with time estimates:
+- `pipelines/twitter-network-historical.md` — Post-API Twitter analysis
+
+---
 
 ## Overview
 
@@ -260,7 +301,12 @@ Data access has changed dramatically. Before planning collection:
 
 - Name: CommDAAF
 - Full name: Computational Communication Research Framework
-- Version: 0.2.0
+- Version: 0.3.0
 - Last updated: 2026-02-17
 - Author: OpenClaw Community
 - Based on: DAAF (Data Analyst Augmentation Framework)
+
+### Changelog
+- **0.3.0**: Tiered validation, nudge system, theory modules, guided pipelines
+- **0.2.0**: Post-API data strategies, expert mode, 10 methods, 9 data sources
+- **0.1.0**: Initial release
