@@ -1,0 +1,74 @@
+# CommDAAF Red-Teaming Workflow Configuration
+
+workflow:
+  name: "Multi-Model Red-Teaming"
+  version: "1.0.0"
+  description: "Adversarial validation using epistemically diverse AI models"
+
+# Model assignments
+models:
+  primary:
+    agent_id: "main"
+    model: "anthropic/claude-opus-4-5"
+    role: "Primary Analyst"
+    prompt: "./prompts/primary-analysis.md"
+    
+  redteam_1:
+    agent_id: "mei"  # or "redteam-glm" for dedicated agent
+    model: "zai/glm-4.7"
+    role: "Adversarial Reviewer (Assumptions)"
+    prompt: "./prompts/glm-adversarial.md"
+    
+  redteam_2:
+    agent_id: "priya"  # or "redteam-kimi" for dedicated agent
+    model: "kimi-coding/k2p5"
+    role: "Adversarial Reviewer (Literature)"
+    prompt: "./prompts/kimi-adversarial.md"
+
+# Execution settings
+execution:
+  # Run red-teamers in parallel
+  parallel_redteam: true
+  
+  # Timeout for each stage (seconds)
+  timeouts:
+    primary: 120
+    redteam: 180
+    synthesis: 120
+    
+  # Cleanup spawned sessions after completion
+  cleanup: "delete"  # "delete" | "keep"
+
+# Output settings
+output:
+  format: "markdown"
+  include_raw_responses: false
+  timestamp: true
+  
+# Tier integration
+tiers:
+  exploratory:
+    enabled: false
+    reason: "Too early in research process"
+    
+  pilot:
+    enabled: true
+    iterations: 1
+    
+  publication:
+    enabled: true
+    iterations: 2  # Run twice, must reach consensus
+    require_consensus: true
+
+# Cost tracking
+cost_tracking:
+  enabled: true
+  currency: "USD"
+  warn_threshold: 1.00  # Warn if estimated cost exceeds this
+
+# Logging
+logging:
+  level: "info"
+  include_prompts: false
+  include_responses: true
+  output_dir: "./logs"
