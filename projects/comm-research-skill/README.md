@@ -227,7 +227,9 @@ This is experimental software. Contributions welcome:
 
 ## License
 
-MIT License. Use freely, cite if helpful.
+GNU General Public License v3.0 (GPL-3.0), same as the original DAAF.
+
+This means you can use, modify, and distribute CommDAAF freely, but derivative works must also be open source under GPL-3.0.
 
 ---
 
@@ -239,6 +241,7 @@ MIT License. Use freely, cite if helpful.
   author={Xu, Wayne and LampBotics AI Lab},
   year={2026},
   url={https://github.com/weiaiwayne/commDAAF},
+  license={GPL-3.0},
   note={Experimental. Adapted from DAAF.}
 }
 ```

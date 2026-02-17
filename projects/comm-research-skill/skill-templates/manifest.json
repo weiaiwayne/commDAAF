@@ -5,7 +5,7 @@
   "version": "0.3.0",
   "description": "AI-assisted computational communication research framework — post-API era ready, adapted from DAAF",
   "author": "OpenClaw Community",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "homepage": "https://github.com/openclaw/commdaaf",
   "basedOn": "https://github.com/DAAF-Contribution-Community/daaf",
   
