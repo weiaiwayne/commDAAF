@@ -1,0 +1,105 @@
+{
+  "name": "comm-research",
+  "version": "0.1.0",
+  "description": "AI-assisted computational communication research for OpenClaw",
+  "author": "OpenClaw Community",
+  "license": "MIT",
+  "homepage": "https://github.com/openclaw/skills-comm-research",
+  
+  "openclaw": {
+    "minVersion": "0.5.0",
+    "skillEntry": "SKILL.md"
+  },
+  
+  "triggers": [
+    "analyze * on *",
+    "research * on *",
+    "detect coordinated behavior",
+    "network analysis",
+    "topic modeling",
+    "collect data from *"
+  ],
+  
+  "capabilities": [
+    "data-collection",
+    "text-analysis", 
+    "network-analysis",
+    "multi-agent"
+  ],
+  
+  "dataSources": [
+    {
+      "name": "reddit",
+      "type": "api",
+      "requiresAuth": true,
+      "docs": "data-sources/reddit.md"
+    },
+    {
+      "name": "telegram",
+      "type": "api", 
+      "requiresAuth": true,
+      "docs": "data-sources/telegram.md"
+    },
+    {
+      "name": "youtube",
+      "type": "api",
+      "requiresAuth": true,
+      "docs": "data-sources/youtube.md"
+    },
+    {
+      "name": "bluesky",
+      "type": "api",
+      "requiresAuth": false,
+      "docs": "data-sources/bluesky.md"
+    }
+  ],
+  
+  "methods": [
+    {
+      "name": "coordinated-behavior",
+      "description": "Detect coordinated inauthentic behavior",
+      "docs": "methods/coordinated-behavior.md"
+    },
+    {
+      "name": "network-analysis",
+      "description": "Social network analysis",
+      "docs": "methods/network-analysis.md"
+    },
+    {
+      "name": "llm-annotation",
+      "description": "LLM-based text classification",
+      "docs": "methods/llm-annotation.md"
+    }
+  ],
+  
+  "dependencies": {
+    "python": ">=3.9",
+    "packages": [
+      "praw",
+      "telethon",
+      "networkx",
+      "pandas",
+      "pyzotero"
+    ]
+  },
+  
+  "features": {
+    "zoteroAdapter": {
+      "description": "Auto-customize skills based on your Zotero library",
+      "docs": "zotero/README.md"
+    },
+    "multiModel": {
+      "description": "Route tasks to different models for cost optimization",
+      "supported": true
+    }
+  },
+  
+  "keywords": [
+    "communication",
+    "social-science",
+    "computational",
+    "social-media",
+    "network-analysis",
+    "research"
+  ]
+}

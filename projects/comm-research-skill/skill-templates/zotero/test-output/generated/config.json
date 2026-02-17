@@ -1,0 +1,28 @@
+{
+  "generated_date": "2026-02-17T15:22:45.565988",
+  "source_library": "6345227",
+  "total_papers_analyzed": 1464,
+  "priorities": {
+    "data_sources": [
+      "twitter",
+      "facebook",
+      "weibo",
+      "youtube",
+      "reddit"
+    ],
+    "methods": [
+      "named-entity",
+      "network-analysis",
+      "regression-analysis",
+      "content-analysis",
+      "sentiment-analysis"
+    ]
+  },
+  "model_routing": {
+    "orchestrator": "anthropic/claude-opus-4",
+    "data_collection": "google/gemini-2.0-flash",
+    "text_analysis": "deepseek/deepseek-v3",
+    "code_review": "openai/gpt-4o",
+    "synthesis": "anthropic/claude-opus-4"
+  }
+}

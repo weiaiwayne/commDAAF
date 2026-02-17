@@ -35,23 +35,39 @@ This isn't just cheaper—it's methodologically better. Different models catch d
 
 ## Quick Start
 
-1. **Install the skill**
-   ```bash
-   cp -r skill-templates/ ~/.openclaw/workspace/skills/comm-research/
-   ```
+### Option 1: Standard Install
+```bash
+cd skill-templates
+./install.sh
+```
 
-2. **Configure API keys** (in OpenClaw config)
-   - Reddit: PRAW credentials
-   - YouTube: Google API key
-   - Telegram: API ID/Hash from my.telegram.org
-   - OpenRouter: API key for model routing
+### Option 2: Zotero-Customized Install
+```bash
+# 1. Install base skill
+cd skill-templates
+./install.sh
 
-3. **Start researching**
-   ```
-   User: Analyze coordinated messaging on Telegram pro-government channels during [event]
-   
-   Agent: [Invokes discovery → planning → collection → analysis → report workflow]
-   ```
+# 2. Customize for your research domain
+cd zotero
+python adapt.py --user-id YOUR_ZOTERO_ID --api-key YOUR_API_KEY
+
+# 3. Copy customized skills
+cp -r generated/* ~/.openclaw/workspace/skills/comm-research/
+```
+
+### Configure API Keys
+Add to OpenClaw config or environment:
+- Reddit: PRAW credentials
+- YouTube: Google API key  
+- Telegram: API ID/Hash from my.telegram.org
+- OpenRouter: API key for model routing
+
+### Start Researching
+```
+User: Analyze coordinated messaging on Telegram pro-government channels during [event]
+
+Agent: [Invokes discovery → planning → collection → analysis → report workflow]
+```
 
 ## Project Structure
 
@@ -113,13 +129,51 @@ Detect and analyze coordinated activity across platforms
 
 ## Novel Feature: Zotero Adapter
 
-Connect your Zotero library, and the system auto-generates domain-specific skills based on your readings:
+Connect your Zotero library, and the system **auto-generates domain-specific skills** based on your readings.
+
+### How It Works
 
 ```bash
-python zotero/extractor.py --user-id YOUR_ID --api-key YOUR_KEY
+cd skill-templates/zotero
+python adapt.py --user-id YOUR_ID --api-key YOUR_KEY --output-dir ./my-skills/
 ```
 
-Output: Customized method recommendations, theory integrations, and skill priorities based on YOUR research focus.
+The adapter:
+1. **Fetches** your library via Zotero API
+2. **Analyzes** titles, abstracts, and tags
+3. **Detects** methods, theories, platforms, and topics
+4. **Generates** customized skill files prioritized for YOUR research
+
+### What It Detects
+
+| Category | Examples |
+|----------|----------|
+| **Methods** | Network analysis, topic modeling, LLM annotation, coordinated behavior |
+| **Theories** | Attention economy, networked publics, framing, artificial sociality |
+| **Platforms** | Twitter, Reddit, Telegram, YouTube, TikTok, Bluesky |
+| **Topics** | Misinformation, polarization, health communication, political communication |
+
+### Output
+
+```
+my-skills/
+├── README.md           # Your research profile
+├── config.json         # Customized priorities
+├── methods/
+│   ├── network-analysis.md      # Customized for your use cases
+│   ├── coordinated-behavior.md
+│   └── llm-annotation.md
+└── theories/
+    ├── attention-economy.md
+    └── artificial-sociality.md
+```
+
+### Why This Matters
+
+- **No manual configuration** — skills auto-adapt to your domain
+- **Prioritized workflows** — focus on what you actually research
+- **Consistent with your literature** — citations and concepts from your library
+- **Publishable methodology** — can document "skill was customized based on researcher's N papers"
 
 ## Documentation
 
