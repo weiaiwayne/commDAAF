@@ -10,6 +10,7 @@ Complete set of probing questions for all methods. System MUST ask these before 
 |--------|-------------------|---------------------|
 | **Sentiment Analysis** | Construct, unit, tool, neutral handling, sarcasm strategy | All 6 required |
 | **Topic Modeling** | Purpose, K value, preprocessing, validation, naming | All 7 required |
+| **Frame Analysis** | Frame type, approach, unit, elements, validation | All 5 required |
 | **Network Analysis** | Nodes/edges, theoretical justification, centrality meaning | All 5 required |
 | **Coordinated Behavior** | Operational definition, organic vs coordinated, conclusions | All 5 required |
 | **LLM Annotation** | Categories, validation plan, prompt design | All 4 required |
@@ -110,7 +111,45 @@ Q7: Who will name topics and how?
 
 ---
 
-## 3. NETWORK ANALYSIS
+## 3. FRAME ANALYSIS
+
+### Required Before Proceeding
+
+```
+Q1: What TYPE of framing are you studying?
+    ✓ Media frames (how news covers an issue)
+    ✓ Audience frames (how people interpret)
+    ✓ Strategic frames (how actors influence)
+    ✗ "Just frames" — TOO VAGUE
+
+Q2: Inductive or deductive approach?
+    ✓ Inductive: Let frames emerge from data
+    ✓ Deductive: Apply existing typology (cite it)
+    ✗ "Both" without primary — PICK ONE
+
+Q3: What's your unit of analysis?
+    ✓ Article/post
+    ✓ Paragraph
+    ✓ Sentence
+    ✗ "The text" — BE SPECIFIC
+
+Q4: What frame elements will you code?
+    ✓ Problem definition
+    ✓ Causal attribution
+    ✓ Moral evaluation
+    ✓ Treatment recommendation
+    ✓ All four (Entman's framework)
+    ✗ "The framing" — FRAMES HAVE COMPONENTS
+
+Q5: How will you validate frame identification?
+    ✓ Multiple coders + reliability
+    ✓ Citation of established typology
+    ✗ "I'll know it when I see it" — UNACCEPTABLE
+```
+
+---
+
+## 4. NETWORK ANALYSIS
 
 ### Required Before Proceeding
 
@@ -147,7 +186,7 @@ Q5: How will you handle isolates and boundary issues?
 
 ---
 
-## 4. COORDINATED BEHAVIOR DETECTION
+## 5. COORDINATED BEHAVIOR DETECTION
 
 ### Required Before Proceeding (HIGHER BAR — SENSITIVE METHOD)
 
@@ -188,7 +227,7 @@ Q5: What are the ethical implications of false positives?
 
 ---
 
-## 5. LLM ANNOTATION
+## 6. LLM ANNOTATION
 
 ### Required Before Proceeding
 
@@ -218,7 +257,7 @@ Q4: What prompt did you test and why this version?
 
 ---
 
-## 6. CONTENT ANALYSIS
+## 7. CONTENT ANALYSIS
 
 ### Required Before Proceeding
 
@@ -322,6 +361,15 @@ Q: How do you decide the number of topics?
 Pass: 2/3 reasonable answers
 ```
 
+### Frame Analysis Competence Check
+```
+Q: What's the difference between a topic and a frame?
+Q: What are Entman's four framing functions?
+Q: Why is single-coder frame analysis problematic?
+
+Pass: 2/3 reasonable answers
+```
+
 ### Coordinated Behavior Competence Check (STRICT)
 ```
 Q: What's the difference between coordination and organic similarity?
@@ -387,4 +435,13 @@ Pass: 3/3 reasonable answers (higher bar)
 - Reliability must be calculated
 - Codebook required before coding
 - Sampling affects generalizability
+```
+
+### Frame Analysis
+```
+⚠️ ALWAYS warn about:
+- Frames ≠ topics (frames are arguments, not subjects)
+- Single coder frame analysis is unreliable
+- Must code frame elements, not just presence
+- Inductive requires emergence, deductive requires citation
 ```

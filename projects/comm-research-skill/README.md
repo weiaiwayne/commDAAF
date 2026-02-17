@@ -1,216 +1,256 @@
 # Communication Research Analyst Skill for OpenClaw
 
-An AI-assisted research framework for computational communication science.
+**Version 0.2.0** | Post-API Era Ready | Expert Mode Enabled
 
-## What is This?
+An AI-assisted research framework for computational communication science — built for the reality of 2026, not the assumptions of 2020.
 
-This is an OpenClaw skill package that enables autonomous research workflows for communication scholars doing computational social science. Inspired by [DAAF](https://github.com/DAAF-Contribution-Community/daaf), but adapted for:
+---
 
-- **Social media data** (Reddit, YouTube, Telegram, Bluesky)
-- **News media data** (MediaCloud, GDELT, Internet Archive)
-- **Communication-specific methods** (coordinated behavior detection, network analysis, topic modeling)
-- **Multi-model architecture** (cost-effective, epistemically diverse)
+## What's Different About This?
 
-## Why This Over DAAF?
+### The Problem
 
-| Feature | DAAF | This Package |
-|---------|------|--------------|
-| Platform | Claude Code CLI | OpenClaw |
-| Model | Claude only | Any model (OpenRouter) |
-| Cost | ~$30-60/analysis | ~$5-15/analysis |
-| Data focus | Education (Urban Institute) | Communication/media |
-| Notification | Terminal | Telegram/Slack |
-| Extensibility | Manual | Zotero-informed |
+Most AI research tools assume you can just "collect data from Twitter" or "scrape Reddit." That era is over:
 
-### Key Selling Point: Multi-Model Architecture
+| Platform | Reality (2026) |
+|----------|---------------|
+| Twitter/X | $5,000/month minimum |
+| Reddit | API restricted, expensive |
+| Meta | Gated (6-12 week wait) |
+| TikTok | Application required |
+| Instagram | Effectively inaccessible |
 
-Route different tasks to different models:
+### Our Solution
 
-- **Complex reasoning** → Claude Opus
-- **Data validation** → Gemini Flash (100x cheaper)
-- **Code generation** → DeepSeek V3
-- **Adversarial review** → Different model than generator (epistemic diversity)
+This skill is designed for the **post-API era**:
 
-This isn't just cheaper—it's methodologically better. Different models catch different issues.
+1. **Existing datasets first** — Most research uses archived data, and that's fine
+2. **Open platforms prioritized** — Bluesky, Mastodon, Telegram work great
+3. **Realistic access guidance** — Honest about what you can/can't get
+4. **Alternative pathways** — DSA Article 40, data donations, partnerships
+
+---
+
+## Key Features
+
+### 🎯 Rigor Enforcement
+
+We don't just run your analysis — we make sure you've thought it through:
+
+- **Probing questions** for every method (sentiment, topics, networks, frames, etc.)
+- **Competence verification** before complex methods
+- **No silent defaults** — every parameter requires explicit choice
+- **Escalation protocol** — gentle probe → explain → challenge → refuse
+
+### ⚡ Expert Mode
+
+Experienced researchers shouldn't be interrogated:
+
+```
+# Expert fast-track request
+Sentiment: tweets_climate.csv, VADER, post-level, 
+neutral ±0.05, LLM sarcasm prefilter, 200-item validation
+
+# System response
+✅ Parameters complete. Proceeding.
+```
+
+Set `engagement_tier: expert` in config or demonstrate competence once per method.
+
+### 🔬 Multi-Model Validation
+
+Different models catch different issues (epistemic diversity):
+
+| Task | Model | Why |
+|------|-------|-----|
+| Orchestration | Claude Opus | Complex reasoning |
+| Bulk annotation | Gemini Flash | Cost (100x cheaper) |
+| Code review | GPT-4o | Different from generator |
+| Synthesis | Claude Opus | Nuanced writing |
+
+### 📚 Zotero Integration
+
+Auto-customize skills based on your reading:
+
+```bash
+python adapt.py --user-id YOUR_ID --api-key YOUR_KEY
+```
+
+The adapter analyzes your library and prioritizes methods you actually use.
+
+---
+
+## Methods Supported
+
+| Method | Probing Questions | Validation Required |
+|--------|-------------------|---------------------|
+| **Sentiment Analysis** | 6 questions | Human sample (N≥200) |
+| **Topic Modeling** | 7 questions | Coherence + human interpretation |
+| **Frame Analysis** | 5 questions | Inter-coder reliability (κ≥0.7) |
+| **Network Analysis** | 5 questions | Theoretical justification |
+| **Content Analysis** | 6 questions | 2+ coders, reliability |
+| **Coordinated Behavior** | 5 questions (strict) | Baseline comparison |
+| **LLM Annotation** | 4 questions | Human validation (κ≥0.7) |
+
+---
+
+## Data Sources
+
+### ✅ Recommended (Actually Work)
+
+| Source | Access | Notes |
+|--------|--------|-------|
+| **Existing Datasets** | Free | Start here — Harvard Dataverse, ICPSR, Zenodo |
+| **Bluesky** | Open | No auth, no limits, growing community |
+| **Telegram** | Open | Public channels, need account |
+| **YouTube** | API key | Works, quota limits |
+| **GDELT** | Open | Global news events |
+| **MediaCloud** | API key | News coverage |
+
+### ⚠️ Requires Application
+
+| Source | Wait Time | Notes |
+|--------|-----------|-------|
+| **Meta Content Library** | 6-12 weeks | Facebook/Instagram public data |
+| **TikTok Research API** | 4-8 weeks | Limited, US/EU researchers |
+
+### 💰 Expensive
+
+| Source | Cost | Notes |
+|--------|------|-------|
+| **Twitter/X** | $5K+/mo | Consider alternatives |
+| **Reddit** | Negotiated | Limited unless paying |
+
+---
 
 ## Quick Start
 
-### Option 1: Standard Install
+### 1. Install
+
 ```bash
 cd skill-templates
 ./install.sh
 ```
 
-### Option 2: Zotero-Customized Install
-```bash
-# 1. Install base skill
-cd skill-templates
-./install.sh
+### 2. Configure
 
-# 2. Customize for your research domain
-cd zotero
-python adapt.py --user-id YOUR_ZOTERO_ID --api-key YOUR_API_KEY
+Edit `config.yaml`:
+- Set your `engagement_tier` (novice/intermediate/expert)
+- Mark which platforms you actually have access to
+- List methods you're already competent in
 
-# 3. Copy customized skills
-cp -r generated/* ~/.openclaw/workspace/skills/comm-research/
+### 3. Use
+
+```
+User: Analyze framing of climate coverage in Bluesky posts
+
+Agent: Before I proceed, I need to understand your approach...
+       [Probing questions if novice/intermediate]
+       
+       [OR if expert with specs provided:]
+       ✅ Parameters complete. Running frame analysis pipeline.
 ```
 
-### Configure API Keys
-Add to OpenClaw config or environment:
-- Reddit: PRAW credentials
-- YouTube: Google API key  
-- Telegram: API ID/Hash from my.telegram.org
-- OpenRouter: API key for model routing
-
-### Start Researching
-```
-User: Analyze coordinated messaging on Telegram pro-government channels during [event]
-
-Agent: [Invokes discovery → planning → collection → analysis → report workflow]
-```
+---
 
 ## Project Structure
 
 ```
 comm-research-skill/
-├── README.md                    # This file
-├── SPEC_DRAFT.md               # Full specification (~9000 words)
-├── ZOTERO_ANALYSIS.md          # Example library analysis
-├── RESEARCH_NOTES.md           # Development notes
+├── README.md                     # This file
+├── CRITICAL_AUDIT.md            # Honest assessment of gaps
+├── EXPANSION_IDEAS.md           # Future features
 │
-└── skill-templates/            # Actual skill files
-    ├── SKILL.md                # Main entry point
-    ├── agents/
-    │   ├── orchestrator.md     # Workflow coordinator
-    │   └── code-reviewer.md    # Adversarial QA
+└── skill-templates/             # Skill package
+    ├── SKILL.md                 # Main entry point
+    ├── ONBOARDING.md            # How to customize
+    ├── PROBING_QUESTIONS.md     # All required questions
+    │
     ├── data-sources/
-    │   └── telegram.md         # Telegram collection
-    └── methods/
-        └── coordinated-behavior.md  # Coordination detection
+    │   ├── existing-datasets.md # START HERE
+    │   ├── bluesky.md
+    │   ├── tiktok.md
+    │   ├── twitter.md           # (expensive, documented)
+    │   └── ...
+    │
+    ├── methods/
+    │   ├── sentiment-analysis.md
+    │   ├── topic-modeling.md
+    │   ├── frame-analysis.md
+    │   ├── content-analysis.md
+    │   ├── network-analysis.md
+    │   ├── coordinated-behavior.md
+    │   ├── llm-annotation.md
+    │   └── validation.md
+    │
+    ├── workflows/
+    │   ├── data-access-strategy.md  # Post-API guidance
+    │   ├── ethics-compliance.md     # IRB/GDPR/DSA
+    │   ├── expert-mode.md           # Fast-track
+    │   └── rigor-enforcement.md     # Methodological guardrails
+    │
+    └── zotero/                  # Library adapter
+        ├── adapt.py
+        ├── extractor.py
+        └── generator.py
 ```
 
-## Supported Workflows
+---
 
-### Full Pipeline
-Research question → Data collection → Analysis → Report
+## Why This Over DAAF?
 
-### Discovery Mode
-"What data exists for studying X?"
+| Feature | DAAF | This Package |
+|---------|------|--------------|
+| **Era** | API-centric | Post-API aware |
+| **Data reality** | Assumes collection | Prioritizes existing datasets |
+| **Rigor** | Trust user | Enforce methodology |
+| **Expertise** | One-size-fits-all | Tiered engagement |
+| **Models** | Single model | Multi-model (epistemic diversity) |
+| **Cost** | ~$30-60/analysis | ~$5-15/analysis |
+| **Domain** | General data | Communication research |
+| **Ethics** | Basic | IRB/GDPR/DSA guidance |
 
-### Text Analysis
-Topic modeling, sentiment, LLM annotation
+---
 
-### Network Analysis
-Opinion leadership, community detection, diffusion
+## Philosophy
 
-### Coordinated Behavior
-Detect and analyze coordinated activity across platforms
+### This Tool Will:
+- ✅ Push back on vague requests
+- ✅ Ask probing questions
+- ✅ Require explicit parameter choices
+- ✅ Validate your understanding of methods
+- ✅ Generate publication-ready documentation
 
-## Data Sources
+### This Tool Won't:
+- ❌ Run analysis with silent defaults
+- ❌ Let you claim "bots" from coordination patterns
+- ❌ Skip human validation for LLM annotations
+- ❌ Pretend you can easily collect Twitter data
+- ❌ Treat single-coder content analysis as valid
 
-| Source | API | Status |
-|--------|-----|--------|
-| Reddit | PRAW | ✅ Open |
-| YouTube | Data API v3 | ✅ Open |
-| Telegram | Telethon | ✅ Open |
-| Bluesky | AT Protocol | ✅ Open |
-| MediaCloud | REST API | ✅ Open |
-| GDELT | BigQuery | ✅ Open |
-| TikTok | Research API | ⚠️ Application required |
-| Twitter/X | - | ❌ Expensive |
-
-## Methods
-
-- **Coordinated Behavior Detection** — Per Giglietto et al., Kuznetsova
-- **Network Analysis** — Opinion leadership, communities, diffusion
-- **LLM-Based Annotation** — Zero/few-shot classification with validation
-- **Topic Modeling** — LDA, BERTopic
-- **Attention Metrics** — Engagement, virality, distribution
-
-## Novel Feature: Zotero Adapter
-
-Connect your Zotero library, and the system **auto-generates domain-specific skills** based on your readings.
-
-### How It Works
-
-```bash
-cd skill-templates/zotero
-python adapt.py --user-id YOUR_ID --api-key YOUR_KEY --output-dir ./my-skills/
-```
-
-The adapter:
-1. **Fetches** your library via Zotero API
-2. **Analyzes** titles, abstracts, and tags
-3. **Detects** methods, theories, platforms, and topics
-4. **Generates** customized skill files prioritized for YOUR research
-
-### What It Detects
-
-| Category | Examples |
-|----------|----------|
-| **Methods** | Network analysis, topic modeling, LLM annotation, coordinated behavior |
-| **Theories** | Attention economy, networked publics, framing, artificial sociality |
-| **Platforms** | Twitter, Reddit, Telegram, YouTube, TikTok, Bluesky |
-| **Topics** | Misinformation, polarization, health communication, political communication |
-
-### Output
-
-```
-my-skills/
-├── README.md           # Your research profile
-├── config.json         # Customized priorities
-├── methods/
-│   ├── network-analysis.md      # Customized for your use cases
-│   ├── coordinated-behavior.md
-│   └── llm-annotation.md
-└── theories/
-    ├── attention-economy.md
-    └── artificial-sociality.md
-```
-
-### Why This Matters
-
-- **No manual configuration** — skills auto-adapt to your domain
-- **Prioritized workflows** — focus on what you actually research
-- **Consistent with your literature** — citations and concepts from your library
-- **Publishable methodology** — can document "skill was customized based on researcher's N papers"
-
-## Documentation
-
-- **Full Specification**: [SPEC_DRAFT.md](./SPEC_DRAFT.md)
-- **Zotero Analysis Example**: [ZOTERO_ANALYSIS.md](./ZOTERO_ANALYSIS.md)
-- **Skill Templates**: [skill-templates/](./skill-templates/)
-
-## Theoretical Foundations
-
-This skill integrates communication theory:
-
-- **Attention Economy** (Simon) — Attention as scarce resource
-- **Networked Publics** (Castells, boyd) — Network-mediated public spheres
-- **Coordinated Behavior** (Giglietto) — Detecting coordination patterns
-- **Artificial Sociality** — Human-AI interaction dynamics
+---
 
 ## For the Academic Community
 
 This project is designed to be:
 
-1. **Publishable** — Clear methodology, reproducible
-2. **Teachable** — Usable in methods courses
-3. **Extensible** — Add your own skills
+1. **Honest** — About data access realities
+2. **Rigorous** — Methods standards enforced
+3. **Teachable** — Usable in methods courses
 4. **Affordable** — Multi-model cost optimization
+5. **Ethical** — IRB/GDPR/DSA guidance built-in
+
+---
 
 ## Contributing
 
-This is an open framework. Contributions welcome:
-
-- New data source skills
+Contributions welcome:
+- New data source skills (especially for emerging platforms)
 - New analysis methods
-- Theory integrations
-- Bug fixes and improvements
+- Improved probing questions
+- Translations of ethics/compliance for non-US contexts
 
-## License
-
-MIT License — Use freely, cite if helpful.
+---
 
 ## Citation
 
@@ -218,11 +258,19 @@ MIT License — Use freely, cite if helpful.
 @software{comm_research_skill,
   title={Communication Research Analyst Skill for OpenClaw},
   author={OpenClaw Community},
+  version={0.2.0},
   year={2026},
-  url={https://github.com/...}
+  url={https://github.com/openclaw/skills-comm-research},
+  note={Post-API era computational communication research framework}
 }
 ```
 
 ---
 
-*Built with OpenClaw. Inspired by DAAF. Made for communication scholars.*
+## License
+
+MIT License — Use freely, cite if helpful.
+
+---
+
+*Built for how research actually works in 2026, not how we wish it worked.*

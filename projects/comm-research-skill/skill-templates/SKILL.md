@@ -148,19 +148,33 @@ research/{date}_{name}/
 ## Available Skills
 
 ### Data Sources
+- `data-sources/existing-datasets.md` — Working with archived data (START HERE)
 - `data-sources/reddit.md` — Reddit API via PRAW
 - `data-sources/youtube.md` — YouTube Data API
 - `data-sources/telegram.md` — Telegram via Telethon
-- `data-sources/bluesky.md` — AT Protocol
+- `data-sources/bluesky.md` — AT Protocol (open, recommended)
+- `data-sources/tiktok.md` — TikTok Research API + alternatives
+- `data-sources/twitter.md` — Twitter/X (expensive, limited)
 - `data-sources/mediacloud.md` — News media search
 - `data-sources/gdelt.md` — Global event database
 
 ### Methods
-- `methods/coordinated-behavior.md` — Coordination detection
-- `methods/attention-metrics.md` — Attention economy measures
-- `methods/llm-annotation.md` — LLM-based text coding
-- `methods/topic-modeling.md` — Topic extraction
+- `methods/sentiment-analysis.md` — Sentiment/valence analysis
+- `methods/topic-modeling.md` — Topic extraction (LDA, BERTopic)
+- `methods/frame-analysis.md` — Frame identification and analysis
+- `methods/content-analysis.md` — Manual and LLM-assisted coding
 - `methods/network-analysis.md` — Network metrics & communities
+- `methods/coordinated-behavior.md` — Coordination detection
+- `methods/llm-annotation.md` — LLM-based text classification
+- `methods/validation.md` — Validation protocols
+
+### Workflows
+- `workflows/data-access-strategy.md` — Finding data in post-API era
+- `workflows/ethics-compliance.md` — IRB, GDPR, platform ethics
+- `workflows/expert-mode.md` — Fast-track for experienced researchers
+- `workflows/rigor-enforcement.md` — Methodological guardrails
+- `workflows/preflight.md` — Pre-analysis checks
+- `workflows/critical-checks.md` — Research practice validation
 
 ### Theories
 - `theories/attention-economy.md` — Attention as resource
@@ -184,8 +198,28 @@ Every script follows execute→QA→evaluate loop:
 - Don't conflate coordination with inauthenticity
 - Report limitations honestly
 
+## Engagement Tiers
+
+This skill supports three engagement levels:
+
+| Tier | Who | Experience |
+|------|-----|------------|
+| **Novice** | Students, first-time users | Full probing questions, explanations |
+| **Intermediate** | Familiar with methods | Spot-check key decisions |
+| **Expert** | Published researchers | Fast-track mode (see `workflows/expert-mode.md`) |
+
+Set tier in `config.yaml` or let the system assess based on interaction.
+
+## Post-API Era
+
+Data access has changed dramatically. Before planning collection:
+1. **Read `workflows/data-access-strategy.md`** — Understand current landscape
+2. **Check `data-sources/existing-datasets.md`** — Existing data is often better
+3. **Open platforms first** — Bluesky, Mastodon, Telegram work well
+4. **Budget for gated access** — Meta, TikTok require applications
+
 ## Version
 
-- Skill version: 0.1.0
+- Skill version: 0.2.0
 - Last updated: 2026-02-17
 - Author: OpenClaw Community

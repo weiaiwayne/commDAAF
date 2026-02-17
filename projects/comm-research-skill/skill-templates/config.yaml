@@ -1,5 +1,6 @@
 # Communication Research Skill - User Configuration
 # Edit these parameters to match YOUR research context
+# Version: 0.2.0
 
 # =============================================================================
 # RESEARCHER PROFILE
@@ -9,14 +10,48 @@ researcher:
   institution: ""                   # For documentation
   zotero_user_id: ""               # If using Zotero adapter
   primary_subfield: ""             # political_comm | health_comm | journalism | science_comm
+  
+  # Engagement tier: novice | intermediate | expert
+  # - novice: Full probing questions, all explanations
+  # - intermediate: Spot-check key decisions, fewer prompts
+  # - expert: Fast-track mode, skip basic questions
+  engagement_tier: intermediate
+  
+  # Methods you've demonstrated competence in (skip probing for these)
+  verified_competence: []
+  # Example: [sentiment_analysis, network_analysis, topic_modeling]
+
+# =============================================================================
+# DATA ACCESS STRATEGY (Post-API Era)
+# =============================================================================
+data_access:
+  # Prefer existing datasets over new collection?
+  prefer_existing_datasets: true
+  
+  # Platforms you have access to (honest assessment)
+  available_access:
+    bluesky: true          # Open, no auth needed
+    telegram: true         # Need account, but works
+    youtube: true          # API key needed, quotas
+    reddit: false          # Limited unless you have paid access
+    twitter: false         # $5K/mo+, likely unavailable
+    tiktok: false          # Need research API approval
+    meta: false            # Need Content Library approval
+  
+  # Do you have institutional access to any?
+  institutional_access:
+    meta_content_library: false
+    tiktok_research_api: false
+    twitter_academic: false
 
 # =============================================================================
 # DATA COLLECTION DEFAULTS
 # =============================================================================
 collection:
   # Which platforms do you primarily study?
+  # NOTE: Should match what you actually have access to above
   primary_platforms:
-    - twitter
+    - bluesky
     - telegram
   
   # Default date range for collection (days back from today)
