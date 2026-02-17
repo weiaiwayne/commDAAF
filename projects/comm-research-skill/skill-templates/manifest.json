@@ -168,6 +168,18 @@
       "description": "Survey of LLM methods: annotation, synthetic data, agent simulation, multi-model",
       "docs": "methods/llm-methods-landscape.md",
       "type": "survey"
+    },
+    {
+      "name": "synthetic-data",
+      "description": "LLM-generated synthetic social media data — EMERGING",
+      "docs": "methods/synthetic-data.md",
+      "experimental": true
+    },
+    {
+      "name": "llm-simulation",
+      "description": "LLM-powered agent-based simulation — EXPERIMENTAL",
+      "docs": "methods/llm-simulation.md",
+      "experimental": true
     }
   ],
   

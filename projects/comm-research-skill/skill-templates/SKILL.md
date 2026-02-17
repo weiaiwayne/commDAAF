@@ -202,6 +202,8 @@ research/{date}_{name}/
 - `methods/lttn.md` — ⚠️ EXPERIMENTAL: Latent Temporal-Thematic Network (information flow)
 - `methods/textnets.md` — Bipartite document-word network analysis (Bail method)
 - `methods/llm-methods-landscape.md` — Survey: LLM annotation, synthetic data, agent simulation
+- `methods/synthetic-data.md` — ⚠️ EMERGING: LLM-generated synthetic social media data
+- `methods/llm-simulation.md` — ⚠️ EXPERIMENTAL: LLM-powered agent-based simulation
 - `methods/validation.md` — Validation protocols
 
 ### Workflows
