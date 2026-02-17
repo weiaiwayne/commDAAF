@@ -82,6 +82,22 @@ The era of free Twitter APIs is over. CommDAAF is honest about what data you can
 | Bluesky | Open | Recommended alternative |
 | Meta | Gated | Application required (6-12 weeks) |
 
+### Multi-Model Red Teaming
+
+CommDAAF supports autonomous peer review using multiple AI models with different epistemic perspectives. Upload your analysis, and independent agents critique it from different angles:
+
+| Agent | Role | Checks For |
+|-------|------|------------|
+| Methodologist | Research design | Validity threats, sampling issues |
+| Theorist | Conceptual framing | Construct validity, literature gaps |
+| Empiricist | Statistical rigor | Effect sizes, corrections, assumptions |
+| Skeptic | Adversarial critique | What could go wrong, alternative explanations |
+| Integrator | Coherence | Gaps between sections, logical flow |
+
+**Try it live:** [vineanalyst.com/commdaaf/redteam](https://vineanalyst.com/commdaaf/redteam)
+
+This was validated by running GLM-4.7 and Kimi K2.5 through independent parallel analyses of the same dataset, then having them cross-review each other. Key insight: model disagreement surfaces genuine uncertainty.
+
 ### Communication Theory Integration
 
 Methods are connected to theory:
