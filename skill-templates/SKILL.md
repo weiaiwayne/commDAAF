@@ -261,6 +261,7 @@ research/{date}_{name}/
 - `workflows/claim-evidence-matcher.md` — **NEW** Prevent overclaiming
 - `workflows/outcome-operationalization.md` — **NEW** Force DV operationalization
 - `workflows/study-design-warnings.md` — **NEW** N=1 and design limit enforcement
+- `workflows/design-alternatives.md` — **NEW** Pivot from blockers to achievable designs
 
 ### Theories
 - `theories/attention-economy.md` — Attention as resource
@@ -308,12 +309,13 @@ Data access has changed dramatically. Before planning collection:
 
 - Name: CommDAAF
 - Full name: Computational Communication Research Framework
-- Version: 0.4.0
+- Version: 0.5.0
 - Last updated: 2026-02-17
 - Author: OpenClaw Community
 - Based on: DAAF (Data Analyst Augmentation Framework)
 
 ### Changelog
+- **0.5.0**: Design alternatives system — blockers now include "INSTEAD, TRY" pivots; nudges help design achievable studies rather than just flagging problems
 - **0.4.0**: Red-teaming driven improvements — confound checklist, temporal anomaly detection, claim-evidence matcher, outcome operationalization requirements, study design warnings (N=1 enforcement)
 - **0.3.0**: Tiered validation, nudge system, theory modules, guided pipelines
 - **0.2.0**: Post-API data strategies, expert mode, 10 methods, 9 data sources
