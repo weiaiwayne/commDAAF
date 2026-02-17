@@ -227,10 +227,11 @@ skills/comm-research/
 │   ├── network-metrics.md      # Centrality, community detection
 │   └── content-analysis.md     # Computational content analysis
 ├── theories/
-│   ├── agenda-setting.md       # Agenda setting framework
-│   ├── framing.md              # Framing theory
-│   ├── diffusion.md            # Information diffusion
-│   └── echo-chambers.md        # Filter bubbles, polarization
+│   ├── attention-economy.md    # Attention as scarce resource
+│   ├── networked-publics.md    # Network society, publics
+│   ├── coordinated-behavior.md # Inauthentic behavior framework
+│   ├── artificial-sociality.md # Human-AI interaction
+│   └── diffusion.md            # Information diffusion
 ├── templates/
 │   ├── research-plan.md        # Plan document template
 │   ├── report.md               # Final report template
@@ -957,7 +958,183 @@ def calculate_agreement(human_labels, llm_labels):
 - Document limitations in methods section
 ```
 
-#### 5.2.4 Topic Modeling Skill
+#### 5.2.4 Network Analysis Skill
+
+```markdown
+# Network Analysis Skill
+
+## Overview
+Construct and analyze social networks from communication data, with focus on
+opinion leadership, information diffusion, and community structure.
+
+Based on: Liang & Lee (2023), Gruzd et al. (2011), network science foundations
+
+## Network Construction
+
+### User-User Networks
+**Edges from:**
+- Replies/mentions
+- Retweets/shares
+- Follows (if available)
+- Co-participation in threads
+
+### User-Content Networks (Bipartite)
+**Nodes:** Users + Content items
+**Edges:** User interacted with content
+
+### Content-Content Networks
+**Edges from:**
+- Shared URLs
+- Hashtag co-occurrence
+- Semantic similarity
+
+## Key Metrics
+
+### Centrality Measures
+| Metric | Interpretation | Use Case |
+|--------|----------------|----------|
+| **Degree** | Number of connections | Raw popularity |
+| **Betweenness** | Bridge between communities | Information brokers |
+| **Eigenvector** | Connected to well-connected nodes | Elite status |
+| **PageRank** | Weighted influence flow | Overall influence |
+| **Closeness** | Average distance to all nodes | Information access |
+
+### Opinion Leadership Detection
+Per Liang & Lee (2023):
+
+1. **Influence metrics:**
+   - In-degree (being replied to)
+   - Retweet/share count
+   - Thread initiation rate
+
+2. **Stability analysis:**
+   - Track leadership over time windows
+   - Calculate rank correlation between periods
+   - Identify stable vs. transient leaders
+
+3. **Characteristic predictors:**
+   - Activity level
+   - Content type
+   - Account age
+   - Network position
+
+### Community Detection
+| Algorithm | Strengths | Use When |
+|-----------|-----------|----------|
+| **Louvain** | Fast, good quality | Large networks |
+| **Label Propagation** | Very fast | Exploratory |
+| **Infomap** | Information-theoretic | Flow dynamics matter |
+| **Leiden** | Improved Louvain | Need guaranteed connectivity |
+
+### Temporal Network Analysis
+- **Snapshot approach:** Network per time window
+- **Event-based:** Edges have timestamps
+- **Dynamic community tracking:** Label matching across snapshots
+
+## Sample Code
+
+```python
+import networkx as nx
+import pandas as pd
+from community import community_louvain
+
+def build_interaction_network(interactions_df):
+    """
+    Build network from interaction data.
+    interactions_df: columns ['source', 'target', 'timestamp', 'type']
+    """
+    G = nx.DiGraph()
+    
+    for _, row in interactions_df.iterrows():
+        if G.has_edge(row['source'], row['target']):
+            G[row['source']][row['target']]['weight'] += 1
+        else:
+            G.add_edge(row['source'], row['target'], weight=1)
+    
+    return G
+
+def calculate_opinion_leadership(G):
+    """Calculate multiple centrality measures for opinion leadership."""
+    metrics = pd.DataFrame(index=G.nodes())
+    
+    metrics['in_degree'] = pd.Series(dict(G.in_degree()))
+    metrics['out_degree'] = pd.Series(dict(G.out_degree()))
+    metrics['pagerank'] = pd.Series(nx.pagerank(G))
+    metrics['betweenness'] = pd.Series(nx.betweenness_centrality(G))
+    
+    # Composite leadership score
+    metrics['leadership_score'] = (
+        metrics['in_degree'].rank(pct=True) * 0.3 +
+        metrics['pagerank'].rank(pct=True) * 0.4 +
+        metrics['betweenness'].rank(pct=True) * 0.3
+    )
+    
+    return metrics.sort_values('leadership_score', ascending=False)
+
+def track_leadership_stability(G_snapshots):
+    """
+    Track stability of opinion leadership across time windows.
+    G_snapshots: list of (timestamp, Graph) tuples
+    """
+    from scipy.stats import spearmanr
+    
+    leadership_over_time = []
+    for ts, G in G_snapshots:
+        leaders = calculate_opinion_leadership(G)
+        leaders['timestamp'] = ts
+        leadership_over_time.append(leaders)
+    
+    # Calculate rank correlations between adjacent periods
+    correlations = []
+    for i in range(len(leadership_over_time) - 1):
+        df1 = leadership_over_time[i]
+        df2 = leadership_over_time[i + 1]
+        
+        common = set(df1.index) & set(df2.index)
+        if len(common) > 10:
+            r, p = spearmanr(
+                df1.loc[list(common), 'leadership_score'],
+                df2.loc[list(common), 'leadership_score']
+            )
+            correlations.append({'period': i, 'correlation': r, 'p_value': p})
+    
+    return pd.DataFrame(correlations)
+
+def detect_communities(G, method='louvain'):
+    """Detect communities in network."""
+    if method == 'louvain':
+        partition = community_louvain.best_partition(G.to_undirected())
+        return partition
+    elif method == 'label_propagation':
+        communities = nx.community.label_propagation_communities(G.to_undirected())
+        partition = {}
+        for i, comm in enumerate(communities):
+            for node in comm:
+                partition[node] = i
+        return partition
+    else:
+        raise ValueError(f"Unknown method: {method}")
+```
+
+## Visualization
+
+### Network Layouts
+- **Force-directed (Fruchterman-Reingold):** General purpose
+- **Circular:** Show community structure
+- **Hierarchical:** Show influence flow
+
+### Recommended Tools
+- `pyvis` — Interactive HTML networks
+- `Gephi` — Publication-quality static images
+- `networkx` + `matplotlib` — Quick exploration
+
+## Validation
+- Compare centrality rankings to ground truth (if available)
+- Check community quality (modularity score)
+- Validate temporal patterns against known events
+```
+
+#### 5.2.5 Topic Modeling Skill
 
 ```markdown
 # Topic Modeling Skill
@@ -1013,6 +1190,202 @@ topics, probs = topic_model.fit_transform(documents)
 # Get topic info
 topic_info = topic_model.get_topic_info()
 ```
+```
+
+### 5.3 Theory/Framework Skills
+
+These skills provide theoretical grounding for research design and interpretation.
+
+#### 5.3.1 Attention Economy Skill
+
+```markdown
+# Attention Economy Framework Skill
+
+## Core Concept
+"What information consumes is rather obvious: it consumes the attention of 
+its recipients." — Herbert Simon
+
+In information-rich environments, attention becomes the scarce resource.
+
+## Key Principles
+
+1. **Attention scarcity**: Finite human attention vs. infinite information
+2. **Competition for attention**: Content competes for limited attention slots
+3. **Attention inequality**: Power-law distribution of attention
+4. **Cognitive biases**: Mental shortcuts determine attention allocation
+5. **Algorithmic mediation**: Platforms shape attention flows
+
+## Research Applications
+
+### Measurement
+- Engagement metrics as attention proxies
+- Attention Gini coefficient
+- Time-on-content measures
+- Scroll depth, dwell time
+
+### Analysis Questions
+- How is attention distributed across actors?
+- What content features predict attention capture?
+- How do algorithms shape attention allocation?
+- What are consequences of attention inequality?
+
+### Methodological Implications
+- High-attention content ≠ high-quality content
+- Viral spread reflects attention dynamics, not truth
+- Platform metrics are attention metrics, not impact metrics
+
+## Key Citations
+- Simon, H. A. (1971). Designing organizations for an information-rich world.
+- Wu, T. (2016). The Attention Merchants.
+- Qiu, J. et al. - Attention economy and misinformation
+```
+
+#### 5.3.2 Networked Publics Skill
+
+```markdown
+# Networked Publics Framework Skill
+
+## Core Concept
+Publics that are restructured by networked technologies, exhibiting new 
+dynamics of visibility, spreadability, and participation.
+
+## Key Properties (boyd, 2010)
+1. **Persistence**: Content is recorded and archived
+2. **Replicability**: Content can be copied perfectly
+3. **Scalability**: Potential for massive visibility
+4. **Searchability**: Content can be found via search
+
+## Dynamics
+1. **Invisible audiences**: Can't see who's watching
+2. **Collapsed contexts**: Multiple audiences in one space
+3. **Blurred public/private**: Boundaries unclear
+
+## Research Applications
+
+### Network Analysis
+- How do network structures shape public discourse?
+- Who are the bridges between communities?
+- How do information cascades form?
+
+### Platform Studies
+- How do platform affordances shape publics?
+- What publics form around specific platforms?
+- How do algorithmic feeds reshape publics?
+
+### Movement Studies
+- How do networked publics enable collective action?
+- What is the role of "leaderless" organization?
+- How does microcelebrity activism work?
+
+## Key Citations
+- Castells, M. (2000). The Rise of the Network Society.
+- boyd, d. (2010). Social network sites as networked publics.
+- Papacharissi, Z. (2015). Affective Publics.
+```
+
+#### 5.3.3 Coordinated Behavior Framework Skill
+
+```markdown
+# Coordinated Behavior Framework Skill
+
+## Core Concept
+Coordinated inauthentic behavior (CIB) refers to organized efforts to 
+manipulate public discourse through coordinated action that obscures 
+the true actors or their coordination.
+
+## Key Distinctions
+
+| Type | Authentic | Inauthentic |
+|------|-----------|-------------|
+| **Coordinated** | Social movements, advocacy campaigns | Astroturfing, state-sponsored ops |
+| **Organic** | Individual expression | - |
+
+## Detection Signals
+
+### Temporal Signals
+- Synchronized posting times
+- Unusually rapid content sharing
+- Coordinated bursts of activity
+
+### Network Signals
+- Dense interconnection among actors
+- Unusual follower/following patterns
+- Coordinated amplification networks
+
+### Content Signals
+- Identical or near-identical content
+- Shared URLs across accounts
+- Hashtag coordination
+
+### Behavioral Signals
+- Account creation patterns
+- Activity timing (working hours in specific timezone)
+- Engagement patterns
+
+## Methodological Framework (Giglietto et al.)
+
+1. **Data collection**: Gather content with shared identifiers (URLs, hashtags)
+2. **Co-sharing detection**: Identify accounts sharing same content rapidly
+3. **Network construction**: Build network from co-sharing patterns
+4. **Community detection**: Find clusters of coordinated actors
+5. **Validation**: Manual review of flagged networks
+
+## Ethical Considerations
+- Coordination ≠ inauthenticity (activists coordinate legitimately)
+- Avoid false positives that harm legitimate actors
+- Document methodology transparently
+- Focus on behavior patterns, not content judgment
+
+## Key Citations
+- Giglietto, F. et al. (2020). It takes a village to manipulate the media.
+- Kuznetsova, D. (2025). Amplifying the regime.
+- Starbird, K. et al. - Information operations research
+```
+
+#### 5.3.4 Artificial Sociality Skill
+
+```markdown
+# Artificial Sociality Framework Skill
+
+## Core Concept
+The study of social interaction between humans and artificial agents,
+and the authenticity/inauthenticity dynamics that emerge.
+
+## Key Concepts
+
+### Meta-Authenticity
+"The flexible, co-constructive process of self-referential (in)authenticity 
+performances" — where artificial actors perform authenticity while 
+acknowledging their artificiality.
+
+### Machine Fluency
+The skill of effectively instructing AI agents to align with one's objectives.
+A new source of heterogeneity in AI-mediated outcomes.
+
+### Agentic Attention
+How AI agents mediate and allocate attention on behalf of humans.
+
+## Research Applications
+
+### Virtual Influencers
+- How do audiences engage with known-artificial personas?
+- What authenticity performances do VI creators construct?
+- What are ethical implications of artificial sociality at scale?
+
+### AI-Mediated Communication
+- How do AI agents shape human-human communication?
+- What happens when AI agents interact with each other?
+- How does "machine fluency" create new inequalities?
+
+### Research Tools (Meta-Level)
+- How does using AI agents for research change the research?
+- What are the reflexive implications of agentic research tools?
+- How do we maintain human oversight in AI-augmented research?
+
+## Key Citations
+- Meta-authenticity framework (from your Zotero)
+- Imas et al. - Human differences in AI agent interactions
+- Davidson & Karell (2025) - GenAI in social science research
 ```
 
 ---
@@ -1289,9 +1662,220 @@ Return as JSON:
 }
 ```
 
-### 8.5 Generated Skill Example
+### 8.5 Full Extraction Implementation
 
-After processing a library heavy in framing analysis:
+```python
+#!/usr/bin/env python3
+"""
+Zotero Library Analyzer for Communication Research Skill
+Extracts methods, theories, and data sources from researcher's library.
+"""
+
+import os
+import json
+import re
+from pyzotero import zotero
+from collections import Counter
+from typing import List, Dict, Any
+
+class ZoteroAnalyzer:
+    def __init__(self, user_id: str, api_key: str):
+        self.zot = zotero.Zotero(user_id, 'user', api_key)
+        self.items = []
+        self.methods = Counter()
+        self.theories = Counter()
+        self.data_sources = Counter()
+        self.platforms = Counter()
+    
+    def fetch_library(self, limit: int = 500):
+        """Fetch all items from library."""
+        self.items = self.zot.everything(self.zot.top())
+        print(f"Fetched {len(self.items)} items")
+        return self.items
+    
+    def extract_from_item(self, item: Dict) -> Dict:
+        """Extract methods, theories, sources from single item."""
+        data = item.get('data', {})
+        
+        text_to_analyze = ' '.join([
+            data.get('title', ''),
+            data.get('abstractNote', ''),
+            ' '.join([t.get('tag', '') for t in data.get('tags', [])])
+        ]).lower()
+        
+        extracted = {
+            'methods': [],
+            'theories': [],
+            'data_sources': [],
+            'platforms': []
+        }
+        
+        # Method detection patterns
+        method_patterns = {
+            'network analysis': r'network analysis|social network|graph analysis|centrality',
+            'content analysis': r'content analysis|coding scheme|intercoder',
+            'topic modeling': r'topic model|lda|latent dirichlet|bertopic',
+            'sentiment analysis': r'sentiment|opinion mining|polarity',
+            'machine learning': r'machine learning|classifier|supervised|random forest',
+            'llm annotation': r'llm|large language model|gpt|claude|chatgpt',
+            'coordinated behavior': r'coordinat\w+ (inauthentic|behavior)|astroturf',
+            'survey': r'survey|questionnaire|likert',
+            'experiment': r'experiment|treatment|control group|rct',
+            'agent simulation': r'agent.based|simulation|abm',
+        }
+        
+        for method, pattern in method_patterns.items():
+            if re.search(pattern, text_to_analyze):
+                extracted['methods'].append(method)
+        
+        # Theory detection patterns
+        theory_patterns = {
+            'attention economy': r'attention econom|attention scarc|herbert simon',
+            'networked publics': r'networked public|network society|castells',
+            'framing': r'framing theory|frame analysis|entman',
+            'agenda setting': r'agenda.setting|mccombs',
+            'diffusion': r'diffusion|cascade|viral spread|contagion',
+            'echo chambers': r'echo chamber|filter bubble|polarization',
+            'platform governance': r'platform governance|content moderation',
+        }
+        
+        for theory, pattern in theory_patterns.items():
+            if re.search(pattern, text_to_analyze):
+                extracted['theories'].append(theory)
+        
+        # Platform detection
+        platforms = ['twitter', 'facebook', 'reddit', 'telegram', 'youtube', 
+                    'tiktok', 'instagram', 'weibo', 'whatsapp', 'bluesky']
+        for platform in platforms:
+            if platform in text_to_analyze:
+                extracted['platforms'].append(platform)
+        
+        # Data source detection
+        sources = ['mediacloud', 'gdelt', 'crowdtangle', 'academic api',
+                  'pushshift', 'common crawl', 'internet archive']
+        for source in sources:
+            if source in text_to_analyze:
+                extracted['data_sources'].append(source)
+        
+        return extracted
+    
+    def analyze_library(self) -> Dict:
+        """Analyze entire library and aggregate findings."""
+        for item in self.items:
+            if item.get('data', {}).get('itemType') == 'attachment':
+                continue
+            
+            extracted = self.extract_from_item(item)
+            
+            for method in extracted['methods']:
+                self.methods[method] += 1
+            for theory in extracted['theories']:
+                self.theories[theory] += 1
+            for source in extracted['data_sources']:
+                self.data_sources[source] += 1
+            for platform in extracted['platforms']:
+                self.platforms[platform] += 1
+        
+        return {
+            'total_items': len([i for i in self.items 
+                               if i.get('data', {}).get('itemType') != 'attachment']),
+            'methods': dict(self.methods.most_common()),
+            'theories': dict(self.theories.most_common()),
+            'data_sources': dict(self.data_sources.most_common()),
+            'platforms': dict(self.platforms.most_common()),
+        }
+    
+    def generate_skill_recommendations(self) -> List[str]:
+        """Generate skill recommendations based on library analysis."""
+        recommendations = []
+        
+        # Method-based recommendations
+        if self.methods['network analysis'] >= 3:
+            recommendations.append('network-analysis.md (high priority)')
+        if self.methods['coordinated behavior'] >= 2:
+            recommendations.append('coordinated-behavior.md (high priority)')
+        if self.methods['topic modeling'] >= 3:
+            recommendations.append('topic-modeling.md (standard)')
+        if self.methods['llm annotation'] >= 2:
+            recommendations.append('llm-annotation.md (emerging method)')
+        
+        # Platform-based recommendations
+        for platform, count in self.platforms.most_common(3):
+            if count >= 3:
+                recommendations.append(f'{platform}-data-source.md (frequently used)')
+        
+        return recommendations
+    
+    def export_analysis(self, output_path: str):
+        """Export analysis to markdown file."""
+        analysis = self.analyze_library()
+        recommendations = self.generate_skill_recommendations()
+        
+        md = f"""# Zotero Library Analysis
+
+## Overview
+- **Total items analyzed:** {analysis['total_items']}
+- **Analysis date:** {__import__('datetime').datetime.now().isoformat()}
+
+## Methods Detected
+
+| Method | Count |
+|--------|-------|
+"""
+        for method, count in analysis['methods'].items():
+            md += f"| {method} | {count} |\n"
+        
+        md += """
+## Theories/Frameworks Detected
+
+| Theory | Count |
+|--------|-------|
+"""
+        for theory, count in analysis['theories'].items():
+            md += f"| {theory} | {count} |\n"
+        
+        md += """
+## Platforms Studied
+
+| Platform | Count |
+|----------|-------|
+"""
+        for platform, count in analysis['platforms'].items():
+            md += f"| {platform} | {count} |\n"
+        
+        md += """
+## Recommended Skills
+
+Based on your library, prioritize these skills:
+
+"""
+        for rec in recommendations:
+            md += f"- {rec}\n"
+        
+        with open(output_path, 'w') as f:
+            f.write(md)
+        
+        return md
+
+
+# CLI usage
+if __name__ == '__main__':
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--user-id', required=True)
+    parser.add_argument('--api-key', required=True)
+    parser.add_argument('--output', default='zotero_analysis.md')
+    args = parser.parse_args()
+    
+    analyzer = ZoteroAnalyzer(args.user_id, args.api_key)
+    analyzer.fetch_library()
+    analyzer.export_analysis(args.output)
+    print(f"Analysis exported to {args.output}")
+```
+
+### 8.6 Generated Skill Example
+
+After processing a library heavy in coordinated behavior research:
 
 ```markdown
 # Framing Analysis Skill (Auto-Generated)
