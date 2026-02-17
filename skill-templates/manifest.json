@@ -1,0 +1,277 @@
+{
+  "name": "commdaaf",
+  "displayName": "CommDAAF",
+  "fullName": "Computational Communication Research Framework",
+  "version": "0.3.0",
+  "description": "AI-assisted computational communication research framework — post-API era ready, adapted from DAAF",
+  "author": "OpenClaw Community",
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/openclaw/commdaaf",
+  "basedOn": "https://github.com/DAAF-Contribution-Community/daaf",
+  
+  "openclaw": {
+    "minVersion": "0.5.0",
+    "skillEntry": "SKILL.md"
+  },
+  
+  "triggers": [
+    "analyze * on *",
+    "research * on *",
+    "detect coordinated behavior",
+    "network analysis",
+    "topic modeling",
+    "sentiment analysis",
+    "frame analysis",
+    "content analysis",
+    "collect data from *",
+    "what's in this *",
+    "explore *",
+    "review my *",
+    "audit *",
+    "what do these * mean",
+    "interpret *",
+    "critique *",
+    "debug *",
+    "write * section"
+  ],
+  
+  "capabilities": [
+    "data-collection",
+    "text-analysis", 
+    "network-analysis",
+    "multi-agent",
+    "rigor-enforcement",
+    "expert-mode",
+    "stage-agnostic",
+    "code-review",
+    "interpretation"
+  ],
+  
+  "dataSources": [
+    {
+      "name": "existing-datasets",
+      "type": "archive",
+      "requiresAuth": false,
+      "docs": "data-sources/existing-datasets.md",
+      "recommended": true,
+      "note": "Start here — most research uses existing data"
+    },
+    {
+      "name": "bluesky",
+      "type": "api",
+      "requiresAuth": false,
+      "docs": "data-sources/bluesky.md",
+      "recommended": true,
+      "note": "Open protocol, no restrictions"
+    },
+    {
+      "name": "telegram",
+      "type": "api", 
+      "requiresAuth": true,
+      "docs": "data-sources/telegram.md",
+      "note": "Works well for public channels"
+    },
+    {
+      "name": "youtube",
+      "type": "api",
+      "requiresAuth": true,
+      "docs": "data-sources/youtube.md",
+      "note": "Works, quota limits apply"
+    },
+    {
+      "name": "reddit",
+      "type": "api",
+      "requiresAuth": true,
+      "docs": "data-sources/reddit.md",
+      "note": "Limited access post-2023"
+    },
+    {
+      "name": "tiktok",
+      "type": "api",
+      "requiresAuth": true,
+      "docs": "data-sources/tiktok.md",
+      "note": "Requires research API application"
+    },
+    {
+      "name": "twitter",
+      "type": "api",
+      "requiresAuth": true,
+      "docs": "data-sources/twitter.md",
+      "note": "Expensive ($5K/mo+), consider alternatives"
+    },
+    {
+      "name": "mediacloud",
+      "type": "api",
+      "requiresAuth": true,
+      "docs": "data-sources/mediacloud.md"
+    },
+    {
+      "name": "gdelt",
+      "type": "api",
+      "requiresAuth": false,
+      "docs": "data-sources/gdelt.md"
+    }
+  ],
+  
+  "methods": [
+    {
+      "name": "sentiment-analysis",
+      "description": "Sentiment/valence analysis with sarcasm handling",
+      "docs": "methods/sentiment-analysis.md"
+    },
+    {
+      "name": "topic-modeling",
+      "description": "Topic extraction (LDA, BERTopic, NMF)",
+      "docs": "methods/topic-modeling.md"
+    },
+    {
+      "name": "frame-analysis",
+      "description": "Frame identification and analysis",
+      "docs": "methods/frame-analysis.md"
+    },
+    {
+      "name": "content-analysis",
+      "description": "Manual and LLM-assisted content coding",
+      "docs": "methods/content-analysis.md"
+    },
+    {
+      "name": "network-analysis",
+      "description": "Social network analysis",
+      "docs": "methods/network-analysis.md"
+    },
+    {
+      "name": "coordinated-behavior",
+      "description": "Detect coordinated behavior patterns",
+      "docs": "methods/coordinated-behavior.md"
+    },
+    {
+      "name": "llm-annotation",
+      "description": "LLM-based text classification",
+      "docs": "methods/llm-annotation.md"
+    },
+    {
+      "name": "validation",
+      "description": "Validation protocols for all methods",
+      "docs": "methods/validation.md"
+    },
+    {
+      "name": "lttn",
+      "description": "Latent Temporal-Thematic Network (information flow detection) — EXPERIMENTAL",
+      "docs": "methods/lttn.md",
+      "experimental": true,
+      "author": "Wayne Xu"
+    },
+    {
+      "name": "textnets",
+      "description": "Bipartite text-document network analysis (Chris Bail method)",
+      "docs": "methods/textnets.md"
+    },
+    {
+      "name": "llm-methods-landscape",
+      "description": "Survey of LLM methods: annotation, synthetic data, agent simulation, multi-model",
+      "docs": "methods/llm-methods-landscape.md",
+      "type": "survey"
+    },
+    {
+      "name": "synthetic-data",
+      "description": "LLM-generated synthetic social media data — EMERGING",
+      "docs": "methods/synthetic-data.md",
+      "experimental": true
+    },
+    {
+      "name": "llm-simulation",
+      "description": "LLM-powered agent-based simulation — EXPERIMENTAL",
+      "docs": "methods/llm-simulation.md",
+      "experimental": true
+    }
+  ],
+  
+  "workflows": [
+    {
+      "name": "research-stages",
+      "description": "Stage-agnostic entry points (explore, validate, interpret, execute, document, debug)",
+      "docs": "workflows/research-stages.md",
+      "recommended": true
+    },
+    {
+      "name": "data-access-strategy",
+      "description": "Finding data in the post-API era",
+      "docs": "workflows/data-access-strategy.md",
+      "recommended": true
+    },
+    {
+      "name": "ethics-compliance",
+      "description": "IRB, GDPR, DSA, platform ethics",
+      "docs": "workflows/ethics-compliance.md"
+    },
+    {
+      "name": "expert-mode",
+      "description": "Fast-track for experienced researchers",
+      "docs": "workflows/expert-mode.md"
+    },
+    {
+      "name": "rigor-enforcement",
+      "description": "Methodological guardrails",
+      "docs": "workflows/rigor-enforcement.md"
+    },
+    {
+      "name": "preflight",
+      "description": "Pre-analysis checks",
+      "docs": "workflows/preflight.md"
+    }
+  ],
+  
+  "dependencies": {
+    "python": ">=3.9",
+    "packages": [
+      "praw",
+      "telethon",
+      "networkx",
+      "pandas",
+      "pyzotero",
+      "scikit-learn",
+      "vaderSentiment",
+      "bertopic",
+      "sentence-transformers"
+    ]
+  },
+  
+  "features": {
+    "zoteroAdapter": {
+      "description": "Auto-customize skills based on your Zotero library",
+      "docs": "zotero/README.md"
+    },
+    "multiModel": {
+      "description": "Route tasks to different models for cost optimization",
+      "supported": true
+    },
+    "engagementTiers": {
+      "description": "Novice/Intermediate/Expert modes",
+      "supported": true
+    },
+    "rigorEnforcement": {
+      "description": "Probing questions and competence verification",
+      "supported": true
+    }
+  },
+  
+  "differentiators": [
+    "Post-API era aware — realistic data access guidance",
+    "Rigor enforcement — probing questions, no silent defaults",
+    "Multi-model validation — epistemic diversity",
+    "Expert fast-track — respects researcher autonomy",
+    "Ethics-first — IRB/GDPR/DSA guidance built-in"
+  ],
+  
+  "keywords": [
+    "communication",
+    "social-science",
+    "computational",
+    "social-media",
+    "network-analysis",
+    "research",
+    "framing",
+    "sentiment",
+    "post-api"
+  ]
+}
