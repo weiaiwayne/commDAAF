@@ -92,9 +92,36 @@
 
 ---
 
+## Communication Research Skill Project (Feb 2026)
+
+### Project Overview
+Adapting DAAF (Data Analyst Augmentation Framework) for communication research as an OpenClaw skill package.
+
+**Source repo:** https://github.com/DAAF-Contribution-Community/daaf
+
+### Key Deliverables
+- Spec document: `projects/comm-research-skill/SPEC_DRAFT.md`
+- Zotero analysis: `projects/comm-research-skill/ZOTERO_ANALYSIS.md`
+
+### Wayne's Research Focus (from Zotero)
+- Agentic AI in social science
+- Coordinated behavior detection
+- Network analysis of movements
+- Attention economy
+- Zotero ID: 6345227
+
+### Key Selling Point
+**Multi-model architecture** — different models for different tasks:
+- Cost: ~$5-15 vs DAAF's $30-60
+- Epistemic diversity
+- Vendor independence
+
+---
+
 ## Research Archive
 - `memory/research/openclaw-social-science-2026-02.md` — OpenClaw + Social Science analysis
 - `projects/vibepolitics/research/LITERATURE_REVIEW.md` — VibePolitics academic foundation
+- `projects/comm-research-skill/` — Communication Research Skill project
 
 ---
 
