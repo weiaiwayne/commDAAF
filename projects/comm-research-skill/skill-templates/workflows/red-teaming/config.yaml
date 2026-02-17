@@ -66,6 +66,23 @@ cost_tracking:
   currency: "USD"
   warn_threshold: 1.00  # Warn if estimated cost exceeds this
 
+# Data sampling
+sampling:
+  enabled: true
+  default_mode: "auto"  # "full" | "auto" | "sample"
+  
+  # Auto mode thresholds
+  auto:
+    rows_threshold: 1000      # Sample if > this many rows
+    chars_threshold: 50000    # Sample if > this many chars
+    
+  # Sample settings
+  sample:
+    default_size: 100         # Default sample size (rows)
+    max_size: 500             # Max sample size
+    method: "stratified"      # "random" | "stratified" | "head" | "tail"
+    seed: null                # Random seed (null = random each time)
+
 # Logging
 logging:
   level: "info"
