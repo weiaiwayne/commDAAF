@@ -200,6 +200,8 @@ research/{date}_{name}/
 - `methods/coordinated-behavior.md` — Coordination detection
 - `methods/llm-annotation.md` — LLM-based text classification
 - `methods/lttn.md` — ⚠️ EXPERIMENTAL: Latent Temporal-Thematic Network (information flow)
+- `methods/textnets.md` — Bipartite document-word network analysis (Bail method)
+- `methods/llm-methods-landscape.md` — Survey: LLM annotation, synthetic data, agent simulation
 - `methods/validation.md` — Validation protocols
 
 ### Workflows

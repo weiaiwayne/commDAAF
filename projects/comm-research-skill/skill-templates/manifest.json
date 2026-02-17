@@ -157,6 +157,17 @@
       "docs": "methods/lttn.md",
       "experimental": true,
       "author": "Wayne Xu"
+    },
+    {
+      "name": "textnets",
+      "description": "Bipartite text-document network analysis (Chris Bail method)",
+      "docs": "methods/textnets.md"
+    },
+    {
+      "name": "llm-methods-landscape",
+      "description": "Survey of LLM methods: annotation, synthetic data, agent simulation, multi-model",
+      "docs": "methods/llm-methods-landscape.md",
+      "type": "survey"
     }
   ],
   
