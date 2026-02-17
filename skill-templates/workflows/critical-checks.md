@@ -120,6 +120,225 @@ universal_check_3:
     I'll flag if results align too neatly with expectations.
 ```
 
+### Sample Balance Check
+
+```yaml
+universal_check_4:
+  trigger: any comparison across groups (time periods, categories, conditions)
+  message: |
+    📋 **SAMPLE BALANCE CHECK**
+    
+    Before comparing groups, verify each has sufficient observations.
+    
+    Show your distribution:
+    | Group | N | % of Total |
+    |-------|---|------------|
+    | ___   |   |            |
+    
+    🚨 FLAGS:
+    - Any group with <5% of total observations
+    - Any group with N < 30
+    - Largest/smallest group ratio > 10:1
+    
+    If imbalanced:
+    ❌ BLOCKED: Standard group comparisons (ANOVA, chi-square)
+    
+    ✅ INSTEAD, TRY:
+    - Collapse small groups into meaningful larger categories
+    - Exclude insufficient groups and narrow claims
+    - Use regression with group as continuous predictor
+    - Report descriptive statistics only for small groups
+    
+    Your group distribution: ___
+    Action taken: ___
+```
+
+### Metric Comparability Check
+
+```yaml
+universal_check_5:
+  trigger: comparing counts/rates across time, accounts, or conditions
+  message: |
+    📋 **METRIC COMPARABILITY CHECK**
+    
+    Are your metrics comparable across comparison units?
+    
+    Baselines may differ due to:
+    - Audience size changes over time
+    - Platform algorithm or feature changes
+    - Seasonal or cyclical patterns
+    - Different data collection methods
+    
+    If baselines differ:
+    ❌ BLOCKED: Direct comparison of raw values
+    
+    ✅ INSTEAD, TRY:
+    - Rate metrics (per capita, per follower, per post)
+    - Relative measures (percentile within period)
+    - Include baseline as control variable
+    - Log-transform to reduce scale effects
+    - Binary outcome (above/below threshold)
+    
+    Do baselines differ? ___
+    How are you handling it? ___
+```
+
+### Context Change Documentation
+
+```yaml
+universal_check_6:
+  trigger: any longitudinal or time-series analysis
+  message: |
+    📋 **CONTEXT CHANGE CHECK**
+    
+    What changed in your research context during the study period?
+    
+    Consider:
+    - Platform features, algorithms, or policies
+    - Major external events (elections, crises, viral moments)
+    - Data collection method changes
+    - Community/population changes
+    
+    For each change:
+    - When did it occur?
+    - Could it affect your variables?
+    - How will you address it?
+    
+    Options:
+    - Include as control/moderator in analysis
+    - Subset data to single-context period
+    - Test for structural breaks
+    - Acknowledge as limitation with direction of bias
+    
+    Known context changes: ___
+    How addressed: ___
+```
+
+### Effect Size Interpretation
+
+```yaml
+universal_check_7:
+  trigger: any statistical test with effect size
+  message: |
+    📋 **EFFECT SIZE CHECK**
+    
+    Report effect size with standard interpretation.
+    
+    REFERENCE THRESHOLDS:
+    | Metric | Small | Medium | Large |
+    |--------|-------|--------|-------|
+    | Cohen's d | 0.2 | 0.5 | 0.8 |
+    | Pearson/Spearman r | 0.1 | 0.3 | 0.5 |
+    | Cliff's δ | 0.15 | 0.33 | 0.47 |
+    | η² (eta-squared) | 0.01 | 0.06 | 0.14 |
+    | Odds ratio | 1.5 | 2.5 | 4.0 |
+    
+    ⚠️ RULES:
+    - Near boundaries → use lower category (0.32 r = "medium" not "medium-to-large")
+    - Always state metric used
+    - Don't round up
+    
+    Your effect size: ___
+    Metric: ___
+    Category: ___
+```
+
+### Directional Consistency Check
+
+```yaml
+universal_check_8:
+  trigger: any correlation, regression coefficient, or group difference
+  message: |
+    📋 **DIRECTION CHECK**
+    
+    Verify your interpretation matches the statistical direction.
+    
+    CORRELATIONS:
+    - Positive r/ρ → "as X increases, Y increases"
+    - Negative r/ρ → "as X increases, Y decreases"
+    
+    GROUP COMPARISONS:
+    - Group A mean > Group B mean → "A has higher Y than B"
+    - Check which group is which in your code
+    
+    REGRESSION:
+    - Positive β → "more X = more Y"
+    - Negative β → "more X = less Y"
+    
+    ✓ CHECKPOINT:
+    [ ] I verified the sign/direction in my output
+    [ ] My verbal interpretation matches the statistical direction
+    [ ] I have not confused comparison group labels
+    
+    Confirmed: ___
+```
+
+### Confound Identification
+
+```yaml
+universal_check_9:
+  trigger: any analysis claiming X relates to Y
+  message: |
+    📋 **CONFOUND CHECK**
+    
+    What else varies with X that could explain Y?
+    
+    Common confounds in communication research:
+    - Content features (length, media, formatting)
+    - Source characteristics (popularity, verification)
+    - Temporal factors (time of day, season, trends)
+    - Audience factors (demographics, prior engagement)
+    - Platform factors (algorithm, feature availability)
+    
+    REQUIRED:
+    - List 3+ potential confounds
+    - For each: Do you have data to control for it?
+    
+    If you cannot control:
+    ✅ INSTEAD, TRY:
+    - Stratify analysis (examine within subgroups)
+    - Match cases on confounders
+    - Acknowledge specific confounds as limitations
+    - Narrow claims to "association" not "effect"
+    
+    Potential confounds identified:
+    1. ___ (controlled? ___)
+    2. ___ (controlled? ___)
+    3. ___ (controlled? ___)
+```
+
+### Multiple Testing Awareness
+
+```yaml
+universal_check_10:
+  trigger: >2 statistical tests in analysis
+  message: |
+    📋 **MULTIPLE TESTING CHECK**
+    
+    You're running multiple tests. False positive risk:
+    - 3 tests → 14% chance of ≥1 false positive
+    - 5 tests → 23%
+    - 10 tests → 40%
+    
+    OPTIONS:
+    
+    Correction methods:
+    - Bonferroni: α/n (conservative)
+    - FDR/Benjamini-Hochberg (less conservative)
+    - Holm-Bonferroni (step-down)
+    
+    Design approaches:
+    - Pre-specify one primary test, label others exploratory
+    - Use omnibus test first, post-hocs only if significant
+    
+    Transparency:
+    - Report all tests run, not just significant ones
+    - Label analysis as exploratory if many tests
+    
+    Number of tests: ___
+    Approach taken: ___
+```
+
 ---
 
 ## LEVEL 2: Method-Specific Deep Checks
