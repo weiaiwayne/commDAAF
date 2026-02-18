@@ -55,6 +55,15 @@ Q6: What's your validation plan?
     ✓ Human sample (N ≥ 200)
     ✓ Calculate agreement (κ)
     ✗ "The model is validated" — NOT ON YOUR DATA
+
+Q7: If correlating sentiment with engagement, will you log-transform?
+    Social media metrics are heavily skewed.
+    ✓ Will report both raw and log-transformed correlations
+    ✓ Will base interpretation on log-transformed values
+    ✗ "Just use raw values" — INFLATED BY OUTLIERS
+    
+    Example: Same data gave r=0.412 (raw) vs r=0.251 (log)
+    → Very different conclusions about effect strength
 ```
 
 ---
@@ -183,6 +192,16 @@ Q5: How will you handle isolates and boundary issues?
     ✓ Remove with justification
     ✓ Keep and report
     ✓ Analyze separately
+
+Q6: Have you checked for automated accounts?
+    ✓ Reviewed top 20 most active accounts
+    ✓ Checked username patterns (bot, auto, RT)
+    ✓ Checked posting frequency anomalies
+    ✗ "Assumed all accounts are human" — CHECK FIRST
+    
+    If bots found:
+    - Report % of activity from automated accounts
+    - Decide: include, exclude, or analyze separately
 ```
 
 ---

@@ -214,6 +214,81 @@ universal_check_6:
     How addressed: ___
 ```
 
+### Phase/Period Classification Consistency
+
+```yaml
+universal_check_6b:
+  trigger: any temporal analysis with phases, periods, or bins
+  message: |
+    📋 **PHASE CLASSIFICATION CONSISTENCY CHECK**
+    
+    If you're labeling time periods (e.g., "high activity", "low activity", "Phase 1"):
+    
+    ⚠️ LABELS MUST BE INTERNALLY CONSISTENT
+    
+    Common error caught in cross-review:
+    - Period A: 571 tweets/bin → labeled "Low"
+    - Period B: 327 tweets/bin → labeled "Moderate"
+    → Contradiction! Lower value has higher label.
+    
+    REQUIRED:
+    1. Define classification criteria BEFORE labeling
+    2. Apply criteria consistently across all periods
+    3. Show the thresholds used
+    
+    Example valid approach:
+    - Tertile split: Bottom 33% = Low, Middle = Moderate, Top = High
+    - Standard deviation: Mean ± 1 SD = Moderate, outside = High/Low
+    
+    Your classification method: ___
+    Thresholds used: ___
+    
+    ✓ CHECKPOINT:
+    [ ] I verified no label contradictions exist
+    [ ] Classification criteria are documented
+    [ ] Same criteria applied to all periods
+```
+
+### Bot/Automated Account Detection
+
+```yaml
+universal_check_6c:
+  trigger: Twitter/X analysis, social media network analysis, coordinated behavior analysis
+  message: |
+    📋 **BOT/AUTOMATED ACCOUNT CHECK**
+    
+    Have you checked for automated/bot accounts in your data?
+    
+    ⚠️ BOTS CAN DRAMATICALLY SKEW RESULTS
+    
+    Example from real analysis:
+    - Top 4 most active accounts all had "bot" in username
+    - ~10% of top activity from automated accounts
+    - One analyst missed this entirely; cross-review caught it
+    
+    DETECTION SIGNALS (check at least 3):
+    
+    | Signal | Check |
+    |--------|-------|
+    | Username patterns | Contains "bot", "auto", "RT", "news" |
+    | Posting frequency | >50 tweets/day sustained |
+    | Account age vs activity | New account, massive output |
+    | Content patterns | Near-identical tweets |
+    | Timing regularity | Posts at exact intervals |
+    | Bio indicators | "automated", "feed", "mirror" |
+    
+    REQUIRED:
+    1. Check top 20 most active accounts manually
+    2. Report % of activity from suspected automated accounts
+    3. Decide: include, exclude, or analyze separately
+    
+    Bot detection performed: (yes/no)
+    Suspected automated accounts found: ___
+    % of total activity: ___
+    Decision: (include/exclude/separate analysis)
+    Justification: ___
+```
+
 ### Effect Size Interpretation
 
 ```yaml
@@ -224,7 +299,7 @@ universal_check_7:
     
     Report effect size with standard interpretation.
     
-    REFERENCE THRESHOLDS:
+    REFERENCE THRESHOLDS (Cohen, 1988):
     | Metric | Small | Medium | Large |
     |--------|-------|--------|-------|
     | Cohen's d | 0.2 | 0.5 | 0.8 |
@@ -235,12 +310,55 @@ universal_check_7:
     
     ⚠️ RULES:
     - Near boundaries → use lower category (0.32 r = "medium" not "medium-to-large")
+    - δ = 0.40 is MEDIUM, not "large" (common error)
     - Always state metric used
     - Don't round up
+    - Cite Cohen (1988) or justify alternative benchmarks
     
     Your effect size: ___
     Metric: ___
     Category: ___
+    Citation for benchmarks: ___
+```
+
+### Correlation Transformation Check
+
+```yaml
+universal_check_7b:
+  trigger: correlation with follower counts, engagement metrics, or any social media count variable
+  message: |
+    📋 **CORRELATION TRANSFORMATION CHECK**
+    
+    Social media metrics (followers, likes, retweets) are heavily right-skewed.
+    
+    ⚠️ RAW CORRELATIONS ARE INFLATED BY OUTLIERS
+    
+    Example from real analysis:
+    - Raw follower→engagement r = 0.412
+    - Log-transformed r = 0.251
+    → Same data, different conclusions!
+    
+    REQUIRED:
+    1. Check distribution of both variables (skewness, kurtosis)
+    2. If skewed (skewness > 1), report BOTH:
+       - Raw correlation (for comparability with naive studies)
+       - Log-transformed correlation (methodologically sound)
+    3. Report R² for both (variance explained)
+    
+    ❌ BLOCKED: Reporting only raw correlation for skewed data
+    
+    ✅ INSTEAD:
+    - Log-transform: np.log1p(x) (handles zeros)
+    - Report both raw and transformed
+    - Base interpretation on transformed value
+    
+    Distribution check:
+    - Variable 1 skewness: ___
+    - Variable 2 skewness: ___
+    
+    Correlations reported:
+    - Raw r = ___ (R² = ___%)
+    - Log-transformed r = ___ (R² = ___%)
 ```
 
 ### Directional Consistency Check
@@ -497,6 +615,40 @@ network_analysis_critical:
       
       Acknowledged? How will you address this limitation?
       → Approach: ___
+
+  retweet_rate_interpretation:
+    message: |
+      ⚠️ **HIGH RETWEET RATE INTERPRETATION**
+      
+      Your dataset shows {retweet_rate}% retweets.
+      
+      High retweet rates (>70%) can mean VERY different things:
+      
+      | Context | Interpretation |
+      |---------|----------------|
+      | Crisis/breaking news | Information scarcity, amplification priority |
+      | Authoritarian context | Safety-seeking (RT safer than original speech) |
+      | Celebrity-driven | Fan amplification behavior |
+      | Coordinated campaign | Strategic amplification |
+      | Normal discourse | Unusual—investigate further |
+      
+      ⚠️ CONTEXT MATTERS
+      
+      Example from #EndSARS analysis:
+      - 80-94% retweet rate
+      - Two interpretations offered:
+        1. "Solidarity signaling" (neutral framing)
+        2. "Safety-seeking in authoritarian context" (political framing)
+      - BOTH are valid; choice depends on your theoretical lens
+      
+      What is the political/social context of your data?
+      → Context: ___
+      
+      Which interpretation fits your context?
+      → Interpretation: ___
+      
+      Have you considered alternative interpretations?
+      → Alternatives considered: ___
 ```
 
 ### SENTIMENT ANALYSIS — Deep Checks
