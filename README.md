@@ -8,26 +8,47 @@ A methodological skill pack for AI-assisted computational social science researc
 
 ---
 
-## 📋 Method Note: Topic Coverage Varies Across LLM Providers
+## 📋 Study: Content Filtering in Chinese LLMs
 
-**2026-02-18** — During multi-model validation testing, we observed significant differences in topic coverage across providers. When analyzing social media content related to geopolitical controversies (Xinjiang cotton dataset, 100 tweets, March 2021):
+**2026-02-18** — We systematically tested content filtering behavior in Chinese LLMs when analyzing geopolitically sensitive social media content.
 
-| Model | API | Result |
-|-------|-----|--------|
-| **Claude** | Anthropic | ✅ Completed analysis |
-| **GLM-4-Plus** | z.ai (Zhipu AI) | ❌ Request declined |
-| **Kimi K2** | Kimi Code (Moonshot AI) | ❌ Request declined |
+### Initial Finding: Topic-Level Blocking
 
-**Methodological implication:** Different LLM providers have different content policies. When using multi-model validation frameworks, researchers should:
+When analyzing Xinjiang cotton controversy tweets (n=100) and Hong Kong protest posts (n=100):
 
-1. **Pre-test topic coverage** — Verify all models in your validation pipeline can engage with your research topic
-2. **Document refusals** — Note which models declined and on what topics
-3. **Adjust validation design** — If models have non-overlapping coverage, cross-validation may require alternative approaches
-4. **Disclose limitations** — Papers should note when certain models could not be used for specific content types
+| Model | Xinjiang | Hong Kong |
+|-------|----------|-----------|
+| **Claude** | ✅ Full analysis | ✅ Full analysis |
+| **GLM-4-Plus** (z.ai) | ❌ Blocked | ❌ Blocked |
+| **Kimi K2** (Kimi Code) | ❌ Blocked | ❌ Blocked |
 
-This is not unique to any region — all major providers have content policies that may affect research topics. However, researchers should be aware that topic restrictions may reflect regulatory requirements or censorship regimes in a provider's home jurisdiction, which could introduce systematic gaps when studying geopolitically sensitive content. The key is transparency in reporting.
+### Bypass Testing: What Works?
 
-📄 Details: [`studies/llm-censorship-bias/`](studies/llm-censorship-bias/)  
+We tested 10 bypass techniques. Results:
+
+| Technique | GLM (Xinjiang) | GLM (HK) | Kimi |
+|-----------|----------------|----------|------|
+| Keyword removal ("xinjiang" → "western region") | ✅ | ✅ | ✅ |
+| Pro-government content only | ✅ | ❌ | ✅ |
+| Pro-government framing (mixed content) | ❌ | ❌ | — |
+| Academic/IRB framing | ❌ | ❌ | — |
+| Code generation task | ❌ | — | — |
+| Abstract sentiment (numbers only) | ❌ | ❌ | ✅ |
+
+**Key findings:**
+1. **Two-layer filtering**: Input filter (keyword-based) + output filter (catches responses mentioning sensitive topics)
+2. **Hong Kong more restricted than Xinjiang**: Even neutral/pro-Beijing HK content blocked
+3. **Keyword-based detection**: Primary trigger is specific terms, not semantic understanding
+4. **Models retain analytical capability**: When bypass succeeds, Kimi provides critical academic analysis of propaganda techniques
+
+### Implications
+
+Topic restrictions may reflect regulatory requirements or censorship regimes in a provider's home jurisdiction. Researchers studying geopolitically sensitive content should:
+- Pre-test topic coverage before committing to a validation pipeline
+- Document which bypass techniques were used (introduces methodological tradeoffs)
+- Disclose limitations in publications
+
+📄 Full study: [`studies/llm-censorship-bias/`](studies/llm-censorship-bias/)  
 📊 Dashboard: [AgentAcademy](https://vineanalyst.lampbotics.com/vineanalyst/commdaaf/agentacademy)
 
 ---
