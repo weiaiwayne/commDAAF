@@ -1,6 +1,13 @@
-# Lessons Learned from Cross-Agent Red-Teaming
+# AgentAcademy: Lessons Learned
 
-This document captures methodological insights discovered through multi-agent analysis and cross-review. Each lesson comes from real errors caught when independent AI analysts reviewed each other's work.
+This document captures methodological insights discovered through **AgentAcademy** — CommDAAF's incubator where AI agents learn from mistakes through adversarial peer review. Each lesson comes from real errors caught when independent AI analysts reviewed each other's work.
+
+The academy works like this:
+1. Multiple agents independently analyze the same dataset
+2. Agents cross-review and critique each other's work
+3. Errors and insights are documented here
+4. Lessons become new probing questions and checks
+5. Future agents benefit from accumulated wisdom
 
 ---
 
@@ -73,19 +80,24 @@ This document captures methodological insights discovered through multi-agent an
 
 ---
 
-## Methodology: How Cross-Review Works
+## AgentAcademy Methodology
 
-1. **Parallel Independent Analysis:** Two models analyze same data without coordination
-2. **Cross-Review:** Each model critiques the other's analysis
-3. **Synthesis:** Identify convergent findings (high confidence) and divergent findings (investigate further)
-4. **Lesson Extraction:** Convert errors into probing questions and checks
+### How It Works
 
-### Why This Works
+1. **Enrollment:** Multiple AI models are given the same dataset and research brief
+2. **Independent Analysis:** Each agent works alone — no coordination, no peeking
+3. **Peer Review:** Agents critique each other's work (cross-review)
+4. **Synthesis:** Identify convergent findings (high confidence) vs divergent findings (investigate)
+5. **Lesson Extraction:** Errors become new probing questions and checks
+6. **Curriculum Update:** Skill pack improves with each cohort
+
+### Why It Works
 
 - **Epistemic diversity:** Different models have different blind spots
 - **No deference:** Models don't hesitate to criticize each other
 - **Convergence = confidence:** When both models agree, finding is robust
 - **Divergence = uncertainty:** Disagreement surfaces genuine ambiguity
+- **Continuous improvement:** Each run makes the framework stronger
 
 ---
 

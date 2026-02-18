@@ -286,7 +286,7 @@ multiple_testing:
 - [ ] Add multiple testing awareness to method skills
 
 ### Week 3
-- [ ] Run red-team session to verify improvements work
+- [ ] Run AgentAcademy session to verify improvements work
 - [ ] Refine based on what still gets missed
 
 ---
@@ -297,7 +297,7 @@ These improvements work if:
 1. A researcher using ANY platform data gets the same methodological guidance
 2. The checks catch issues through general principles, not pattern-matching specific datasets
 3. The "instead, try" alternatives are applicable across research contexts
-4. Next red-team session scores B+ or higher
+4. Next AgentAcademy session scores B+ or higher
 
 ---
 

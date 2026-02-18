@@ -3,7 +3,7 @@
 
 **Date of Analysis:** February 17, 2026  
 **Dataset:** 3,153 tweets from @EastLosHighShow official account  
-**Data Source:** `/root/.openclaw/workspace/projects/comm-research-skill/skill-templates/workflows/red-teaming/sample-data/recent_3200tweets.csv`
+**Data Source:** `/root/.openclaw/workspace/projects/comm-research-skill/skill-templates/workflows/AgentAcademying/sample-data/recent_3200tweets.csv`
 
 ---
 

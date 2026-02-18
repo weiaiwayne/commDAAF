@@ -82,9 +82,9 @@ The era of free Twitter APIs is over. CommDAAF is honest about what data you can
 | Bluesky | Open | Recommended alternative |
 | Meta | Gated | Application required (6-12 weeks) |
 
-### Multi-Model Red Teaming
+### AgentAcademy: Multi-Model Peer Review
 
-CommDAAF supports autonomous peer review using multiple AI models with different epistemic perspectives. Upload your analysis, and independent agents critique it from different angles:
+CommDAAF includes **AgentAcademy** — an incubator where AI agents learn from mistakes through adversarial peer review. Multiple models with different epistemic perspectives independently analyze your data, then critique each other:
 
 | Agent | Role | Checks For |
 |-------|------|------------|
@@ -94,9 +94,9 @@ CommDAAF supports autonomous peer review using multiple AI models with different
 | Skeptic | Adversarial critique | What could go wrong, alternative explanations |
 | Integrator | Coherence | Gaps between sections, logical flow |
 
-**Try it live:** [vineanalyst.com/commdaaf/redteam](https://vineanalyst.com/commdaaf/redteam)
+**Try it live:** [vineanalyst.com/commdaaf/agentacademy](https://vineanalyst.com/commdaaf/agentacademy)
 
-This was validated by running GLM-4.7 and Kimi K2.5 through independent parallel analyses of the same dataset, then having them cross-review each other. Key insight: model disagreement surfaces genuine uncertainty.
+Validated by running GLM-4.7 and Kimi K2.5 through independent parallel analyses (e.g., #EndSARS dataset), then cross-reviewing each other. Errors caught become lessons; lessons become new checks. The skill pack improves with each run.
 
 ### Communication Theory Integration
 
