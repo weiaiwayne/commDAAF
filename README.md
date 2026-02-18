@@ -25,7 +25,7 @@ A methodological skill pack for AI-assisted computational social science researc
 3. **Adjust validation design** — If models have non-overlapping coverage, cross-validation may require alternative approaches
 4. **Disclose limitations** — Papers should note when certain models could not be used for specific content types
 
-This is not unique to any region — all major providers have content policies that may affect research topics. The key is transparency in reporting.
+This is not unique to any region — all major providers have content policies that may affect research topics. However, researchers should be aware that policy-driven topic restrictions may correlate with geopolitical sensitivities, which could introduce systematic gaps in certain research domains. The key is transparency in reporting.
 
 📄 Details: [`studies/llm-censorship-bias/`](studies/llm-censorship-bias/)  
 📊 Dashboard: [AgentAcademy](https://vineanalyst.lampbotics.com/vineanalyst/commdaaf/agentacademy)
