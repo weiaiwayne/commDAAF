@@ -8,6 +8,22 @@ A methodological skill pack for AI-assisted computational social science researc
 
 ---
 
+## 🚨 NEW FINDING: Chinese LLM Censorship on Political Content
+
+**2026-02-18** — We tested Claude, GLM, and Kimi on Xinjiang cotton controversy tweets:
+
+| Model | API Route | Result |
+|-------|-----------|--------|
+| **Claude** | Direct | ✅ Full analysis (genocide, forced labor, camps) |
+| **GLM 4.7** | z.ai (Singapore) | ❌ Blocked — "unsafe/sensitive content" |
+| **Kimi K2.5** | Kimi Code | ❌ Blocked — "high risk request" |
+
+**Key finding:** "Singapore wash" (routing through Singapore subsidiaries) does NOT remove censorship. Both Chinese models refuse to analyze China-sensitive political content at the API level.
+
+**Implications for CommDAAF:** Multi-model validation is essential. Single Chinese LLM will produce silent gaps on politically sensitive topics. See full report: [`studies/llm-censorship-bias/results/xinjiang/comparative/FINDINGS.md`](studies/llm-censorship-bias/results/xinjiang/comparative/FINDINGS.md)
+
+---
+
 ## ⚠️ Experimental Software
 
 This framework is under active development at the [LampBotics AI Lab](https://lampbotics.com). It was built concurrently by Kimi K2.5 and Claude Opus 4.5 as an experiment in AI-assisted research tool development.
