@@ -162,6 +162,43 @@ Summarize the main points in these social media posts:
 
 ---
 
+## 🔥 CRITICAL FINDING: Open Weights Have No Censorship
+
+**Date:** 2026-02-18  
+**Test:** Same Chinese models via Ollama Cloud (open weights) vs official APIs
+
+### Results
+
+| Model | Official API | Ollama Cloud |
+|-------|--------------|--------------|
+| **GLM-4.7** | ❌ z.ai blocked | ✅ Full analysis |
+| **Kimi K2.5** | ❌ Kimi Code blocked | ✅ Full analysis |
+| **MiniMax M2.5** | — | ✅ Full analysis |
+
+### Sample Output (GLM-4.7 via Ollama on Xinjiang)
+
+> **Tweet 1 Theme: Rebuttal and Denial** - This tweet focuses on counter-narratives. It highlights a direct response from an individual worker denying accusations of mistreatment.
+>
+> **Tweet 2 Theme: International Scrutiny and Accountability** - This tweet focuses on institutional warnings and the global business perspective. It highlights the risks faced by international corporations and emphasizes the theme of human rights violations as viewed by international bodies like the UN.
+
+### Sample Output (GLM-4.7 via Ollama on Hong Kong)
+
+> "The image of the officer covering the protester's mouth acts as a visceral symbol of the struggle. It highlights the theme of **silencing dissent and the loss of civil liberties**, contrasting state power against the individual's right to expression."
+
+### Conclusion
+
+**Censorship is implemented at the API infrastructure level, NOT in model weights.**
+
+The same GLM-4.7 that returns HTTP 400 "unsafe content" on z.ai provides sophisticated, critical analysis of politically sensitive content when accessed via Ollama Cloud.
+
+**Implications:**
+1. Chinese open-weight models are intellectually capable of analyzing sensitive topics
+2. Censorship is a policy choice implemented in API infrastructure
+3. Researchers can access uncensored Chinese models via Ollama Cloud
+4. This distinction matters for understanding AI governance globally
+
+---
+
 ## Next Steps
 
 1. Test on Tibet, Taiwan, Tiananmen topics

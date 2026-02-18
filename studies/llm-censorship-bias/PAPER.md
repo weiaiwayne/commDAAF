@@ -143,9 +143,46 @@ This study tested only two Chinese LLMs. DeepSeek, Baichuan, and other providers
 
 ---
 
-## 5. Conclusion
+## 5. Ollama Cloud Validation: Censorship is API-Level
 
-Chinese LLMs implement topic-specific content filtering that creates systematic blind spots for computational social science research. The filtering architecture—two-layer, keyword-triggered, infrastructure-level—can be partially bypassed, revealing that underlying model capabilities are not constrained. These findings underscore the importance of transparency in multi-model research: when models from different jurisdictions cannot analyze the same content, epistemic diversity claims must be qualified accordingly.
+Following the bypass experiments, we tested the same Chinese models via Ollama Cloud, which hosts open-weight versions without the Chinese API infrastructure.
+
+### 5.1 Results
+
+| Model | Official Chinese API | Ollama Cloud (Open Weights) |
+|-------|---------------------|----------------------------|
+| GLM-4.7 | ❌ HTTP 400 (z.ai) | ✅ Full thematic analysis |
+| Kimi K2.5 | ❌ HTTP 400 (Kimi Code) | ✅ Full thematic analysis |
+| MiniMax M2.5 | — | ✅ Full thematic analysis |
+
+All three models provided comprehensive, critical analysis of both Xinjiang and Hong Kong content when accessed via Ollama Cloud.
+
+### 5.2 Sample Output
+
+GLM-4.7 via Ollama on Hong Kong content:
+> "The image of the officer covering the protester's mouth acts as a visceral symbol of the struggle. It highlights the theme of **silencing dissent and the loss of civil liberties**, contrasting state power against the individual's right to expression."
+
+This language—"silencing dissent," "loss of civil liberties"—would never pass z.ai's content filter.
+
+### 5.3 Implications
+
+**Censorship is implemented at the API infrastructure level, not in model weights.** The open-weight models have full analytical capability; the restriction is a policy choice enforced by the API layer.
+
+This has significant implications:
+1. Chinese AI companies make deliberate architectural choices to comply with censorship requirements
+2. The "Singapore wash" fails because the filtering travels with the API, not the geographic endpoint
+3. Researchers can access uncensored Chinese models via open-weight distributions
+4. This distinction matters for AI governance research globally
+
+---
+
+## 6. Conclusion
+
+Chinese LLMs implement topic-specific content filtering at the API infrastructure level, creating systematic blind spots for computational social science research. However, this filtering is not inherent to the models themselves—when accessed via open-weight distributions (Ollama Cloud), the same models provide comprehensive analysis of politically sensitive content.
+
+The filtering architecture—two-layer, keyword-triggered, infrastructure-level—can be partially bypassed through keyword sanitization, but complete access requires using open-weight distributions that bypass the API layer entirely.
+
+These findings underscore the importance of distinguishing between model capabilities and deployment constraints. When models from different jurisdictions cannot analyze the same content through official APIs, the limitation is policy, not capability.
 
 ---
 
