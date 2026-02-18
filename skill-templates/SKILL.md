@@ -309,12 +309,13 @@ Data access has changed dramatically. Before planning collection:
 
 - Name: CommDAAF
 - Full name: Computational Communication Research Framework
-- Version: 0.6.0
-- Last updated: 2026-02-17
+- Version: 0.7.0
+- Last updated: 2026-02-18
 - Author: OpenClaw Community
 - Based on: DAAF (Data Analyst Augmentation Framework)
 
 ### Changelog
+- **0.7.0**: Reproducibility architecture update (inspired by Xu & Yang 2026) — three-layer architecture (orchestrator/knowledge/computation), mandatory cross-agent validation, credibility rating scheme, structured failure knowledge base. See `workflows/agent-academy/ARCHITECTURE.md`.
 - **0.6.0**: Universal methodology checks — sample balance, metric comparability, context changes, effect size thresholds, directional consistency, confound identification, multiple testing awareness (all platform-agnostic)
 - **0.5.0**: Design alternatives system — blockers now include "INSTEAD, TRY" pivots; nudges help design achievable studies rather than just flagging problems
 - **0.4.0**: Red-teaming driven improvements — confound checklist, temporal anomaly detection, claim-evidence matcher, outcome operationalization requirements, study design warnings (N=1 enforcement)
