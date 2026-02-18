@@ -2,7 +2,7 @@
   "name": "commdaaf",
   "displayName": "CommDAAF",
   "fullName": "Computational Communication Research Framework",
-  "version": "0.3.0",
+  "version": "0.6.0",
   "description": "AI-assisted computational communication research framework — post-API era ready, adapted from DAAF",
   "author": "OpenClaw Community",
   "license": "GPL-3.0",
