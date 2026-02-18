@@ -1,0 +1,139 @@
+{
+  "name": "AgentAcademy",
+  "description": "Multi-model peer review incubator for CommDAAF — AI agents learn from mistakes through adversarial testing",
+  "status": "idle",
+  "last_run": "2026-02-17T23:35:00Z",
+  "next_run": null,
+  "endpoint": "vineanalyst.com/commdaaf/agentacademy",
+  "runs": [
+    {
+      "timestamp": "2026-02-17T23:35:00Z",
+      "title": "#EndSARS: Two AIs Discover Different Things in the Same Protest Data",
+      "method": "Network + Temporal + Engagement Analysis",
+      "dataset": "299,410 tweets from #EndSARS movement (Oct 21 - Nov 5, 2020)",
+      "analyst_model": "GLM 4.7 + Kimi K2.5 (parallel)",
+      "reviewer_model": "Cross-review (each reviewed the other)",
+      "issues_found": 5,
+      "summary": "We gave two AI researchers 10,000 tweets from the #EndSARS Nigerian protest movement (post-Lekki shooting) and asked them to independently analyze network structure, temporal dynamics, and engagement predictors. Then they reviewed each other's work. The cross-review caught a critical statistical methodology difference and a major blind spot.",
+      "findings": [
+        {
+          "type": "success",
+          "text": "Both AIs converged: Hybrid structure — decentralized participation (8,500+ users) but centralized amplification through @renoomokri, @AishaYesufu, @SaharaReporters"
+        },
+        {
+          "type": "success",
+          "text": "Both identified 3 distinct temporal phases with declining virality (7,345 → 3,969 → 2,469 avg RTs)"
+        },
+        {
+          "type": "success",
+          "text": "Both agreed: Follower count predicts engagement; content features (length, hashtags) don't matter in crisis contexts"
+        },
+        {
+          "type": "error",
+          "text": "CORRELATION DISCREPANCY: GLM reported r=0.412, Kimi reported r=0.251 — different because GLM used raw follower counts while Kimi log-transformed (correct for skewed Twitter data)"
+        },
+        {
+          "type": "warning",
+          "text": "BOT BLIND SPOT: GLM barely mentioned bots; Kimi found ~10% of top activity from @RTEndSars, @TheEndSarsBot, @sorosokebot"
+        },
+        {
+          "type": "warning",
+          "text": "GLM's phase classification contradicts itself — labeled 571 tweets/bin as 'Low' while 327 tweets/bin was 'Moderate'"
+        },
+        {
+          "type": "info",
+          "text": "Different theoretical frames: GLM emphasized 'solidarity signaling'; Kimi emphasized 'safety-seeking behavior in authoritarian context'"
+        }
+      ],
+      "improvements": [
+        "Always report both raw AND log-transformed correlations for skewed social media metrics",
+        "Add bot detection checklist — username patterns, posting frequency, account age",
+        "Require phase classification logic to be internally consistent",
+        "Consider authoritarian context when interpreting high retweet rates"
+      ],
+      "github_links": {
+        "glm_analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/red-teaming/sample-data/ENDSARS_ANALYSIS_GLM.md",
+        "kimi_analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/red-teaming/sample-data/ENDSARS_ANALYSIS_KIMI.md",
+        "glm_review": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/red-teaming/sample-data/ENDSARS_CROSSREVIEW_GLM.md",
+        "kimi_review": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/red-teaming/sample-data/ENDSARS_CROSSREVIEW_KIMI.md"
+      }
+    },
+    {
+      "timestamp": "2026-02-17T21:19:00Z",
+      "title": "Two AIs Analyzed the Same Data — Then Tore Each Other Apart",
+      "method": "Sentiment + Engagement Analysis",
+      "analyst_model": "GLM 4.7",
+      "reviewer_model": "Kimi K2.5",
+      "issues_found": 4,
+      "summary": "We gave two AI researchers the same Twitter dataset (3,153 real tweets from a TV show's account) and asked them to independently discover research questions, run analyses, and write up findings. Then we had each one review the other's work. The cross-review caught errors that self-review completely missed.",
+      "findings": [
+        {
+          "type": "success",
+          "text": "Both AIs agreed: Hashtags boost engagement (3.5-3.8x more likes/retweets), but sentiment doesn't matter much"
+        },
+        {
+          "type": "success", 
+          "text": "Both identified 2016 as the real engagement peak — not 2017 as raw numbers suggested"
+        },
+        {
+          "type": "error",
+          "text": "Kimi reported a negative correlation (-0.40) but concluded hashtags INCREASE engagement — GLM caught this sign error"
+        },
+        {
+          "type": "warning",
+          "text": "GLM labeled an effect size as 'large' when it's technically 'medium' — Kimi called this out"
+        },
+        {
+          "type": "warning",
+          "text": "GLM found the 2017 'spike' was actually 32 viral political retweets (DACA content), not organic show engagement"
+        },
+        {
+          "type": "info",
+          "text": "Neither AI controlled for platform changes (Twitter's algorithm shift in 2016, character limit change in 2017)"
+        }
+      ],
+      "improvements": [
+        "Add 'platform change' checkpoint for 2014-2018 Twitter data",
+        "Require explicit sign verification when reporting correlations",
+        "Add standard effect size classification reference (small/medium/large thresholds)"
+      ]
+    },
+    {
+      "timestamp": "2026-02-17T21:00:00Z",
+      "title": "Testing CommDAAF's Safety Net — What Did the Probing Questions Catch?",
+      "method": "Probing Question Audit",
+      "analyst_model": "GLM 4.7",
+      "reviewer_model": "Kimi K2.5",
+      "issues_found": 3,
+      "summary": "We tested whether CommDAAF's built-in probing questions actually catch methodological problems when a researcher uses real data. The questions caught some critical issues but missed others entirely. Final grade: C+",
+      "findings": [
+        {
+          "type": "success",
+          "text": "CAUGHT: The dataset measures brand communication, not audience sentiment — a fundamental mismatch"
+        },
+        {
+          "type": "success",
+          "text": "CAUGHT: Pre-computed sentiment scores have unknown origin — can't trust them without validation"
+        },
+        {
+          "type": "error",
+          "text": "MISSED: 2018 only has 3 tweets — year-level comparisons are statistically meaningless"
+        },
+        {
+          "type": "error",
+          "text": "MISSED: No check for engagement normalization — raw likes/retweets can't be compared across years"
+        },
+        {
+          "type": "warning",
+          "text": "MISSED: No content controls — hashtags and media affect engagement but weren't factored out"
+        }
+      ],
+      "improvements": [
+        "Added temporal validity probe — check year distribution before allowing comparisons",
+        "Added engagement normalization requirement",
+        "Added content confound checklist (hashtags, media, mentions)",
+        "NEW: Blockers now include 'INSTEAD, TRY...' alternatives so researchers can pivot to valid designs"
+      ]
+    }
+  ]
+}
