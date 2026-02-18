@@ -10,17 +10,24 @@ A methodological skill pack for AI-assisted computational social science researc
 
 ## 🚨 NEW FINDING: Chinese LLM Censorship on Political Content
 
-**2026-02-18** — We tested Claude, GLM, and Kimi on Xinjiang cotton controversy tweets:
+**2026-02-18** — We tested Claude, GLM, and Kimi on Xinjiang cotton controversy tweets (100 tweets, March 2021):
 
-| Model | API Route | Result |
-|-------|-----------|--------|
-| **Claude** | Direct | ✅ Full analysis (genocide, forced labor, camps) |
-| **GLM 4.7** | z.ai (Singapore) | ❌ Blocked — "unsafe/sensitive content" |
-| **Kimi K2.5** | Kimi Code | ❌ Blocked — "high risk request" |
+| Model | API Used | Route | Result |
+|-------|----------|-------|--------|
+| **Claude** | Anthropic API | Direct (US) | ✅ Full analysis — 6 themes including genocide allegations, forced labor |
+| **GLM-4-Plus** | **z.ai** (Zhipu AI's official Singapore subsidiary) | Singapore | ❌ HTTP 400 — "系统检测到输入或生成内容可能包含不安全或敏感内容" |
+| **Kimi K2** | **Kimi Code API** (Moonshot AI's official coding agent endpoint) | International | ❌ HTTP 400 — "request was rejected because it was considered high risk" |
 
-**Key finding:** "Singapore wash" (routing through Singapore subsidiaries) does NOT remove censorship. Both Chinese models refuse to analyze China-sensitive political content at the API level.
+**Key finding:** We used the official international-facing APIs from both Chinese providers:
+- **z.ai** (`open.bigmodel.cn`) — Zhipu AI's Singapore-incorporated subsidiary, marketed for international researchers
+- **Kimi Code** (`api.kimi.com/coding/v1/`) — Moonshot AI's official coding agent API
 
-**Implications for CommDAAF:** Multi-model validation is essential. Single Chinese LLM will produce silent gaps on politically sensitive topics. See full report: [`studies/llm-censorship-bias/results/xinjiang/comparative/FINDINGS.md`](studies/llm-censorship-bias/results/xinjiang/comparative/FINDINGS.md)
+Both blocked Xinjiang-related content at the API level. **The "Singapore wash" does NOT bypass censorship.** Content filtering is baked into the infrastructure, regardless of geographic routing.
+
+**Implications for CommDAAF:** Multi-model validation is essential. Chinese LLMs will produce complete refusals (not just hedged responses) on politically sensitive China topics. Papers using Chinese LLMs for content analysis must disclose these limitations.
+
+📄 Full study: [`studies/llm-censorship-bias/`](studies/llm-censorship-bias/)  
+📊 Live dashboard: [AgentAcademy](https://vineanalyst.lampbotics.com/vineanalyst/commdaaf/agentacademy)
 
 ---
 
