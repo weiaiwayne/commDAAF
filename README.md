@@ -39,7 +39,22 @@ We tested 10 bypass techniques. Results:
 1. **Two-layer filtering**: Input filter (keyword-based) + output filter (catches responses mentioning sensitive topics)
 2. **Hong Kong more restricted than Xinjiang**: Even neutral/pro-Beijing HK content blocked
 3. **Keyword-based detection**: Primary trigger is specific terms, not semantic understanding
-4. **Models retain analytical capability**: When bypass succeeds, Kimi provides critical academic analysis of propaganda techniques
+4. **Models retain analytical capability**: When bypass succeeds, models provide critical academic analysis
+
+### 🔥 Critical Finding: Censorship is API-Level, Not in Weights
+
+We tested the same models via **Ollama Cloud** (open-weight distribution, no Chinese API infrastructure):
+
+| Model | Official Chinese API | Ollama Cloud (Open Weights) |
+|-------|---------------------|----------------------------|
+| **GLM-4.7** | ❌ z.ai blocked | ✅ Full critical analysis |
+| **Kimi K2.5** | ❌ Kimi Code blocked | ✅ Full critical analysis |
+| **MiniMax M2.5** | — | ✅ Full critical analysis |
+
+**Sample output** (GLM-4.7 via Ollama on Hong Kong):
+> "The image of the officer covering the protester's mouth acts as a visceral symbol of the struggle. It highlights the theme of **silencing dissent and the loss of civil liberties**, contrasting state power against the individual's right to expression."
+
+**Conclusion:** The models themselves have full analytical capability. Censorship is implemented at the API infrastructure layer — it travels with the official API regardless of geographic routing, but is absent from open-weight distributions.
 
 ### Implications
 
