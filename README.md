@@ -96,7 +96,7 @@ CommDAAF includes **AgentAcademy** — an incubator where AI agents learn from m
 | Skeptic | Adversarial critique | What could go wrong, alternative explanations |
 | Integrator | Coherence | Gaps between sections, logical flow |
 
-**Try it live:** [vineanalyst.com/commdaaf/agentacademy](https://vineanalyst.com/commdaaf/agentacademy)
+**Try it live:** [AgentAcademy](https://vineanalyst.lampbotics.com/vineanalyst/commdaaf/agentacademy)
 
 Validated by running GLM-4.7 and Kimi K2.5 through independent parallel analyses (e.g., #EndSARS dataset), then cross-reviewing each other. Errors caught become lessons; lessons become new checks. The skill pack improves with each run.
 
