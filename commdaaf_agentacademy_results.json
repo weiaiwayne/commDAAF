@@ -1,11 +1,127 @@
 {
   "name": "AgentAcademy",
   "description": "Multi-model peer review incubator for CommDAAF — AI agents learn from mistakes through adversarial testing",
-  "status": "idle",
-  "last_run": "2026-02-17T23:35:00Z",
-  "next_run": null,
+  "status": "active",
+  "last_run": "2026-02-19T16:32:00Z",
+  "next_run": "2026-02-20T05:00:00Z",
   "endpoint": "vineanalyst.com/commdaaf/agentacademy",
   "runs": [
+    {
+      "timestamp": "2026-02-19T16:32:00Z",
+      "title": "Cuban State Media Network Discovered in Ukraine Dam Crisis Coverage",
+      "method": "Coordination Detection + Narrative Analysis",
+      "dataset": "266,242 tweets from Kakhovka Dam breach (June 7-9, 2023)",
+      "analyst_model": "Claude (daytime run)",
+      "reviewer_model": "Pending 3-model validation",
+      "issues_found": 4,
+      "summary": "Analysis of Ukraine dam crisis tweets revealed unexpected finding: Cuban state media accounts formed the largest coordinated amplification network. Also found account creation clustering around Feb 2022 invasion date and Biden-Burisma narrative injection into humanitarian crisis coverage.",
+      "findings": [
+        {
+          "type": "success",
+          "text": "CUBAN STATE MEDIA NETWORK: 7 Cuban government accounts received 17,242 retweets (9% of all RTs) — Cuba was #1 self-reported location, exceeding Ukraine"
+        },
+        {
+          "type": "success",
+          "text": "ACCOUNT CREATION CLUSTERING: 1,390 accounts created Feb 24-28, 2022 (invasion week) — suggests pre-positioned 'sleeper' accounts"
+        },
+        {
+          "type": "warning",
+          "text": "AUTOMATION SIGNALS: @FuckPutinBot posted 1,241 tweets in one day; 65 low-follower high-volume accounts detected"
+        },
+        {
+          "type": "warning",
+          "text": "NARRATIVE INJECTION: Biden-Burisma corruption allegations appeared 6,923 times; 2,459 exact duplicates of single tweet"
+        },
+        {
+          "type": "info",
+          "text": "Dam blame ratio: Russia-blame 5:1 vs Ukraine-blame in overall dataset"
+        }
+      ],
+      "improvements": [
+        "Add State-Actor Detection Module — track non-belligerent state media (Cuba, Venezuela) in conflict coverage",
+        "Add Account Creation Spike Analysis — auto-detect clustering around geopolitical events",
+        "Add Cross-Platform Content Fingerprinting — hash-based duplicate detection for narrative velocity"
+      ],
+      "github_links": {
+        "analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/sample-data/UKR_analysis.md"
+      }
+    },
+    {
+      "timestamp": "2026-02-19T16:26:00Z",
+      "title": "Kashmir Article 370: Anatomy of a Coordinated Hashtag Campaign",
+      "method": "Temporal + Coordination Analysis",
+      "dataset": "99,216 tweets #KashmirWithModi (Aug 2019 - Jul 2020)",
+      "analyst_model": "Claude (daytime run)",
+      "reviewer_model": "Pending 3-model validation",
+      "issues_found": 4,
+      "summary": "Analysis of tweets around India's Article 370 revocation reveals strong coordination indicators: extreme spike-and-decay pattern (85% decline in week 2), high text repetition from top accounts, and asymmetric discourse favoring pro-government narrative 17% vs critical voices 2%.",
+      "findings": [
+        {
+          "type": "success",
+          "text": "TEMPORAL SIGNATURE: 33,442 tweets on Aug 8 (peak), then 85% decline by week 2 — classic campaign-driven pattern, not organic"
+        },
+        {
+          "type": "warning",
+          "text": "REPETITION INDICATOR: Top account posted 445 tweets with only 24 unique texts (18.5x repetition rate)"
+        },
+        {
+          "type": "warning",
+          "text": "HIGH-VOLUME CLUSTER: 86 accounts (50+ tweets) generated 7.5% of all content; peak velocity 116 tweets/minute"
+        },
+        {
+          "type": "error",
+          "text": "DISCOURSE ASYMMETRY: Pro-government 17%, Critical voices only 2% — suggests orchestrated amplification"
+        },
+        {
+          "type": "info",
+          "text": "Peak hours align with Indian prime time (8:30-11:30 PM IST) — consistent with domestic campaign"
+        }
+      ],
+      "improvements": [
+        "Add Bot Probability Scoring Module — Botometer integration + velocity/repetition heuristics",
+        "Add Temporal Anomaly Detection Pipeline — auto-detect burst patterns and cross-account sync",
+        "Add Multi-Hashtag Network Mapping — track coordinated hashtag ecosystems"
+      ],
+      "github_links": {
+        "analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/sample-data/Kashmir_analysis.md"
+      }
+    },
+    {
+      "timestamp": "2026-02-19T16:27:00Z",
+      "title": "CNN 2015: Racial Framing Asymmetries in Police Coverage",
+      "method": "Content + Frame Analysis",
+      "dataset": "983 CNN articles (Jan-Dec 2015)",
+      "analyst_model": "Claude (daytime run)",
+      "reviewer_model": "Pending 3-model validation",
+      "issues_found": 3,
+      "summary": "Analysis of CNN articles during 2015 (Ferguson aftermath, Charleston, Baltimore) reveals racial framing asymmetries and event-driven sampling bias. Dataset appears curated around crisis events rather than random sampling.",
+      "findings": [
+        {
+          "type": "success",
+          "text": "CONTENT MIX: 36.5% TV transcripts (avg 3,200 words), 63.5% written articles (avg 520 words) — requires content-type detection before analysis"
+        },
+        {
+          "type": "warning",
+          "text": "EVENT-DRIVEN SAMPLING: June 2015 spike (171 articles) centered on Charleston shooting — ecological validity concern"
+        },
+        {
+          "type": "warning",
+          "text": "RACIAL FRAMING ASYMMETRY: Near-parity mentions (Black: 1,342, White: 1,210) but asymmetric contexts — Black as victim/community, White as perpetrator/officer"
+        },
+        {
+          "type": "info",
+          "text": "Dominant themes: police (7,976), shooting (3,684), video (3,678), officer (2,628), gun (2,419)"
+        }
+      ],
+      "improvements": [
+        "Add Content Type Detection Module — detect transcripts vs articles before analysis (6x word count difference)",
+        "Add Event-Spike Detection — flag anomalous temporal spikes to prevent ecological fallacies",
+        "Add Keyword Co-occurrence Networks — move beyond raw frequencies to relational analysis"
+      ],
+      "github_links": {
+        "analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/sample-data/CNN_analysis.md"
+      }
+    },
     {
       "timestamp": "2026-02-17T23:35:00Z",
       "title": "#EndSARS: Two AIs Discover Different Things in the Same Protest Data",
