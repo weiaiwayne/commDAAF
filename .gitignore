@@ -31,6 +31,7 @@ data/processed/
 !manifest.json
 !config.json
 !analysis.json
+!opencode.json
 *.rda
 *.pkl
 *.graphml
