@@ -4,6 +4,8 @@
 
 A methodological skill pack for AI-assisted computational social science research, adapted from [DAAF](https://github.com/DAAF-Contribution-Community/daaf) and tailored for communication scholars.
 
+**Sister project: [CommScribe](https://github.com/weiaiwayne/commscribe)** — While CommDAAF handles data analysis, CommScribe handles literature review, theory building, and scholarly writing with voice learning.
+
 > **v0.7.0 (2026-02-18)**: Reproducibility architecture update inspired by [Xu & Yang (2026)](https://yiqingxu.org/papers/2026_ai/AI_reproducibility.pdf). Adds three-layer architecture, mandatory cross-agent validation, credibility rating scheme, and structured failure knowledge base. See `skill-templates/workflows/agent-academy/ARCHITECTURE.md`.
 
 ---
