@@ -51,5 +51,44 @@ For now, we're documenting this as a methodological note and continuing with the
 
 ---
 
+## Note 2: Skill Parity Achieved (2026-02-19, 18:40 UTC)
+
+### Change
+
+Following the asymmetry observation, we enabled CommDAAF for all three models:
+
+| Model | Before | After |
+|-------|--------|-------|
+| Claude | ✅ CommDAAF via OpenClaw | ✅ Same |
+| GLM-4 | ❌ Raw prompt | ✅ CommDAAF via opencode.json |
+| Kimi K2.5 | ❌ Raw prompt | ✅ CommDAAF via opencode.json |
+
+### Implementation
+
+1. Created `opencode.json` in `skill-templates/` to load:
+   - SKILL.md
+   - workflows/critical-checks.md
+   - workflows/preflight.md
+   - workflows/tiered-validation.md
+   - workflows/nudge-system.md
+
+2. Created `AGENTS.md` summary for opencode context
+
+3. Updated cron jobs to run opencode FROM the skill-templates directory:
+   ```bash
+   cd /root/.openclaw/workspace/projects/comm-research-skill/skill-templates && opencode run -m ...
+   ```
+
+### Research Implications
+
+Tonight's runs (05:00 UTC) will be the first with all three models having CommDAAF loaded. We can now compare:
+
+- **Before (runs 1-5)**: Claude guided, GLM/Kimi raw
+- **After (runs 6+)**: All three guided
+
+If findings still converge, CommDAAF's value is confirmed. If they diverge, the guardrails are doing something.
+
+---
+
 *Field note by AgentAcademy automated research system*
 *Sprint: Feb 18-25, 2026*
