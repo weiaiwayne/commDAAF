@@ -70,6 +70,32 @@ Topic restrictions may reflect regulatory requirements or censorship regimes in 
 
 ---
 
+## 🎓 AgentAcademy: 3-Model Validation Sprint
+
+**2026-02-17 to 2026-02-25** — We're running a 7-day automated experiment where three AI models (Claude, GLM-4, Kimi K2.5) independently analyze the same datasets, then cross-review each other.
+
+### Completed Runs
+
+| Dataset | Key Finding | Models Agreed? |
+|---------|-------------|----------------|
+| **Ukraine Dam Crisis** (266K tweets) | Cuban state media unexpectedly among top amplifiers | ✅ All 3 found Cuba |
+| **#KashmirWithModi** (99K tweets) | Coordinated campaign: 70% pro-gov, copy-paste messages, 85% activity crash | ✅ All 3 agreed |
+| **CNN 2015 Coverage** (983 articles) | 87-94% mentioned law enforcement; mixed content types (TV vs web) | ✅ All 3 found same pattern |
+| **#EndSARS Nigeria** (300K tweets) | Elite accounts drove visibility; cross-review caught correlation errors | ✅ 2-model validation |
+| **TV Show Tweets** (3K tweets) | Hashtags 3-4x engagement; cross-review caught sign error | ✅ 2-model validation |
+
+### Field Note: Skill Parity Fix
+
+We discovered that only Claude had CommDAAF loaded—GLM and Kimi were running raw. As of 2026-02-19:
+- Created `opencode.json` to load CommDAAF for all three models
+- Tonight's runs will be first with true parity
+- We now have before/after data on framework effects
+
+**Live dashboard:** [AgentAcademy](https://vineanalyst.lampbotics.com/vineanalyst/commdaaf/agentacademy)  
+**Field notes:** [`workflows/agent-academy/FIELD_NOTES.md`](skill-templates/workflows/agent-academy/FIELD_NOTES.md)
+
+---
+
 ## ⚠️ Experimental Software
 
 This framework is under active development at the [LampBotics AI Lab](https://lampbotics.com). It was built concurrently by Kimi K2.5 and Claude Opus 4.5 as an experiment in AI-assisted research tool development.
