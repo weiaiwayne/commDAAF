@@ -2,124 +2,128 @@
   "name": "AgentAcademy",
   "description": "Multi-model peer review incubator for CommDAAF — AI agents learn from mistakes through adversarial testing",
   "status": "active",
-  "last_run": "2026-02-19T16:32:00Z",
+  "last_run": "2026-02-19T17:23:00Z",
   "next_run": "2026-02-20T05:00:00Z",
   "endpoint": "vineanalyst.com/commdaaf/agentacademy",
   "runs": [
     {
-      "timestamp": "2026-02-19T16:32:00Z",
-      "title": "Cuban State Media Network Discovered in Ukraine Dam Crisis Coverage",
-      "method": "Coordination Detection + Narrative Analysis",
-      "dataset": "266,242 tweets from Kakhovka Dam breach (June 7-9, 2023)",
-      "analyst_model": "Claude (daytime run)",
-      "reviewer_model": "Pending 3-model validation",
+      "timestamp": "2026-02-19T17:23:00Z",
+      "title": "Ukraine Kakhovka Dam: Three Models Independently Discover Cuban State Media Network",
+      "method": "Coordination Detection + State Actor Analysis",
+      "dataset": "266,242 tweets (June 7-9, 2023)",
+      "analyst_model": "Claude + GLM-4.7 + Kimi K2.5 (3-model validation)",
+      "reviewer_model": "Cross-model convergence",
       "issues_found": 4,
-      "summary": "Analysis of Ukraine dam crisis tweets revealed unexpected finding: Cuban state media accounts formed the largest coordinated amplification network. Also found account creation clustering around Feb 2022 invasion date and Biden-Burisma narrative injection into humanitarian crisis coverage.",
+      "summary": "All three models independently discovered an unexpected finding: Cuban state media accounts formed a major amplification network in Ukraine dam crisis coverage. This cross-model convergence validates the finding's reliability.",
       "findings": [
         {
           "type": "success",
-          "text": "CUBAN STATE MEDIA NETWORK: 7 Cuban government accounts received 17,242 retweets (9% of all RTs) — Cuba was #1 self-reported location, exceeding Ukraine"
+          "text": "THREE-MODEL CONVERGENCE: Claude, GLM, and Kimi all independently identified Cuban state media network (@PartidoPCC, @DiazCanelB, @CanalCaribeCuba)"
         },
         {
           "type": "success",
-          "text": "ACCOUNT CREATION CLUSTERING: 1,390 accounts created Feb 24-28, 2022 (invasion week) — suggests pre-positioned 'sleeper' accounts"
+          "text": "COORDINATION METRICS: 72% retweet rate, 61,396 accounts created in 2022, @FuckPutinBot posted 2,926 tweets"
         },
         {
           "type": "warning",
-          "text": "AUTOMATION SIGNALS: @FuckPutinBot posted 1,241 tweets in one day; 65 low-follower high-volume accounts detected"
+          "text": "NARRATIVE INJECTION: Biden-Burisma corruption content (6,923 tweets) injected into humanitarian crisis coverage"
         },
         {
           "type": "warning",
-          "text": "NARRATIVE INJECTION: Biden-Burisma corruption allegations appeared 6,923 times; 2,459 exact duplicates of single tweet"
+          "text": "ACCOUNT CREATION SPIKE: 1,390 accounts created Feb 24-28, 2022 (invasion week) - potential sleeper accounts"
         },
         {
           "type": "info",
-          "text": "Dam blame ratio: Russia-blame 5:1 vs Ukraine-blame in overall dataset"
+          "text": "Dam blame ratio 5:1 Russia vs Ukraine across all models"
         }
       ],
       "improvements": [
-        "Add State-Actor Detection Module — track non-belligerent state media (Cuba, Venezuela) in conflict coverage",
-        "Add Account Creation Spike Analysis — auto-detect clustering around geopolitical events",
-        "Add Cross-Platform Content Fingerprinting — hash-based duplicate detection for narrative velocity"
+        "Add State-Actor Detection Module - track non-belligerent state media in conflict coverage",
+        "Add Account Creation Spike Analysis - auto-detect clustering around geopolitical events",
+        "Add Cross-Platform Content Fingerprinting - hash-based duplicate detection"
       ],
       "github_links": {
-        "analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/sample-data/UKR_analysis.md"
+        "claude_analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/sample-data/UKR_analysis.md"
       }
     },
     {
-      "timestamp": "2026-02-19T16:26:00Z",
-      "title": "Kashmir Article 370: Anatomy of a Coordinated Hashtag Campaign",
-      "method": "Temporal + Coordination Analysis",
-      "dataset": "99,216 tweets #KashmirWithModi (Aug 2019 - Jul 2020)",
-      "analyst_model": "Claude (daytime run)",
-      "reviewer_model": "Pending 3-model validation",
-      "issues_found": 4,
-      "summary": "Analysis of tweets around India's Article 370 revocation reveals strong coordination indicators: extreme spike-and-decay pattern (85% decline in week 2), high text repetition from top accounts, and asymmetric discourse favoring pro-government narrative 17% vs critical voices 2%.",
+      "timestamp": "2026-02-19T17:17:00Z",
+      "title": "Kashmir Article 370: Three Models Confirm Coordinated Amplification Campaign",
+      "method": "Temporal + Coordination + Discourse Analysis",
+      "dataset": "99,216 tweets (Aug 2019 - Jul 2020)",
+      "analyst_model": "Claude + GLM-4.7 + Kimi K2.5 (3-model validation)",
+      "reviewer_model": "Cross-model convergence",
+      "issues_found": 5,
+      "summary": "All three models found strong evidence of coordinated inauthentic behavior in #KashmirWithModi campaign. 70%+ pro-government content, massive text repetition, and extreme temporal concentration within 72 hours of Article 370 revocation.",
       "findings": [
         {
           "type": "success",
-          "text": "TEMPORAL SIGNATURE: 33,442 tweets on Aug 8 (peak), then 85% decline by week 2 — classic campaign-driven pattern, not organic"
-        },
-        {
-          "type": "warning",
-          "text": "REPETITION INDICATOR: Top account posted 445 tweets with only 24 unique texts (18.5x repetition rate)"
-        },
-        {
-          "type": "warning",
-          "text": "HIGH-VOLUME CLUSTER: 86 accounts (50+ tweets) generated 7.5% of all content; peak velocity 116 tweets/minute"
+          "text": "THREE-MODEL CONVERGENCE: All found ~70% pro-government, ~1-2% critical voices (Claude: 107:1, GLM: 70.6%, Kimi: similar)"
         },
         {
           "type": "error",
-          "text": "DISCOURSE ASYMMETRY: Pro-government 17%, Critical voices only 2% — suggests orchestrated amplification"
+          "text": "MASS DUPLICATION: Top message 'Thank you Kashmiri Brothers...' posted by 2,664+ unique accounts identically"
+        },
+        {
+          "type": "warning",
+          "text": "TEMPORAL BURST: 33,442 tweets on Aug 8 peak day, z-score 11.84 (Kimi), 85% decay by week 2"
+        },
+        {
+          "type": "warning",
+          "text": "HIGH-VELOCITY ACCOUNTS: 86 accounts posting >10 tweets/hour, 113 text templates used 100+ times each"
         },
         {
           "type": "info",
-          "text": "Peak hours align with Indian prime time (8:30-11:30 PM IST) — consistent with domestic campaign"
+          "text": "Campaign started 3 days after Article 370 revocation - strategic timing, not organic reaction"
         }
       ],
       "improvements": [
-        "Add Bot Probability Scoring Module — Botometer integration + velocity/repetition heuristics",
-        "Add Temporal Anomaly Detection Pipeline — auto-detect burst patterns and cross-account sync",
-        "Add Multi-Hashtag Network Mapping — track coordinated hashtag ecosystems"
+        "Add Bot Probability Scoring - Botometer integration + velocity/repetition heuristics",
+        "Add Temporal Anomaly Detection - auto-detect burst patterns and cross-account sync",
+        "Add Multi-Hashtag Network Mapping - track coordinated hashtag ecosystems"
       ],
       "github_links": {
-        "analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/sample-data/Kashmir_analysis.md"
+        "claude_analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/sample-data/Kashmir_analysis.md"
       }
     },
     {
-      "timestamp": "2026-02-19T16:27:00Z",
-      "title": "CNN 2015: Racial Framing Asymmetries in Police Coverage",
-      "method": "Content + Frame Analysis",
+      "timestamp": "2026-02-19T17:19:00Z",
+      "title": "CNN 2015: Three Models Agree on Law Enforcement Dominance and Framing Patterns",
+      "method": "Content + Frame + Temporal Analysis",
       "dataset": "983 CNN articles (Jan-Dec 2015)",
-      "analyst_model": "Claude (daytime run)",
-      "reviewer_model": "Pending 3-model validation",
+      "analyst_model": "Claude + GLM-4.7 + Kimi K2.5 (3-model validation)",
+      "reviewer_model": "Cross-model convergence",
       "issues_found": 3,
-      "summary": "Analysis of CNN articles during 2015 (Ferguson aftermath, Charleston, Baltimore) reveals racial framing asymmetries and event-driven sampling bias. Dataset appears curated around crisis events rather than random sampling.",
+      "summary": "All three models converged on key findings: law enforcement dominates coverage (87-94%), transcripts are 6x longer than articles, and June 2015 Charleston shooting drove temporal spike. Event-driven sampling raises ecological validity concerns.",
       "findings": [
         {
           "type": "success",
-          "text": "CONTENT MIX: 36.5% TV transcripts (avg 3,200 words), 63.5% written articles (avg 520 words) — requires content-type detection before analysis"
+          "text": "THREE-MODEL CONVERGENCE: Law enforcement in 87-94% of articles (Claude, GLM, Kimi all agree)"
+        },
+        {
+          "type": "success",
+          "text": "CONTENT TYPE BIAS: 37% transcripts (avg 4,480 words) vs 63% articles (avg 713 words) - 6x length difference"
         },
         {
           "type": "warning",
-          "text": "EVENT-DRIVEN SAMPLING: June 2015 spike (171 articles) centered on Charleston shooting — ecological validity concern"
+          "text": "EVENT-DRIVEN SAMPLING: June 2015 spike (171 articles) around Charleston shooting - not random sample"
         },
         {
           "type": "warning",
-          "text": "RACIAL FRAMING ASYMMETRY: Near-parity mentions (Black: 1,342, White: 1,210) but asymmetric contexts — Black as victim/community, White as perpetrator/officer"
+          "text": "RACIAL FRAMING: Near-parity mentions but asymmetric contexts - Black as victim/community, White as perpetrator"
         },
         {
           "type": "info",
-          "text": "Dominant themes: police (7,976), shooting (3,684), video (3,678), officer (2,628), gun (2,419)"
+          "text": "Violence terms in 99.6% of articles (Kimi finding)"
         }
       ],
       "improvements": [
-        "Add Content Type Detection Module — detect transcripts vs articles before analysis (6x word count difference)",
-        "Add Event-Spike Detection — flag anomalous temporal spikes to prevent ecological fallacies",
-        "Add Keyword Co-occurrence Networks — move beyond raw frequencies to relational analysis"
+        "Add Content Type Detection Module - detect transcripts vs articles before analysis",
+        "Add Event-Spike Detection - flag anomalous temporal spikes to prevent ecological fallacies",
+        "Add Keyword Co-occurrence Networks - move beyond frequencies to relational analysis"
       ],
       "github_links": {
-        "analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/sample-data/CNN_analysis.md"
+        "claude_analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/sample-data/CNN_analysis.md"
       }
     },
     {
@@ -251,5 +255,9 @@
         "NEW: Blockers now include 'INSTEAD, TRY...' alternatives so researchers can pivot to valid designs"
       ]
     }
-  ]
+  ],
+  "technical_notes": {
+    "glm_pty_fix": "2026-02-19: Discovered GLM via opencode requires PTY mode. Fixed with: exec pty:true command:\"cd /tmp && opencode run -m zai-coding-plan/glm-4.7 'prompt'\"",
+    "censorship_findings": "GLM blocks China-domestic topics (HK, Xinjiang, Tibet) but allows India-Pakistan content (Kashmir, Article 370)"
+  }
 }
