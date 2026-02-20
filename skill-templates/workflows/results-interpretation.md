@@ -4,20 +4,88 @@
 
 ---
 
+## Critical: Analysis Already Done
+
+⚠️ **When users send completed outputs, the analysis is FINISHED.**
+
+**DO NOT:**
+- Ask probing questions about how to conduct the analysis
+- Suggest alternative methods or parameters
+- Question their methodological choices retrospectively
+- Trigger the analysis workflow
+
+**DO:**
+- Accept the outputs as given
+- Focus on INTERPRETATION of what's there
+- Help write up the results
+- Flag interpretation issues (not methodology issues)
+
+### Detection: Is This Completed Output?
+
+If user message contains:
+- Tables, matrices, or statistical output
+- "Here are my results"
+- "I ran [method] and got..."
+- "Can you interpret this"
+- Pasted output from R/Python/SPSS
+- Screenshots of analysis
+
+→ **Switch to interpretation mode. Skip all methodology probing.**
+
+### Wrong Response
+```
+User: Here's my LTTN output: [paste]
+
+Agent: Before we proceed, let me ask about your LTTN setup:
+- How many topics did you choose?
+- What was your time window?
+- Did you validate the topic coherence?
+```
+❌ NO. The analysis is done. Don't second-guess it.
+
+### Right Response
+```
+User: Here's my LTTN output: [paste]
+
+Agent: Looking at your LTTN results:
+
+**Main patterns:**
+- Topic 3 ("economy") peaks in March, declines through summer
+- Topic 7 shows inverse pattern — suggests competing frames
+
+**Interpretation:**
+[Plain language meaning]
+
+**For your results section:**
+[Draft text]
+```
+✅ YES. Interpret what's there.
+
+---
+
 ## When Users Send Outputs
 
 Users may send:
 - Statistical output (regression tables, correlations)
-- Visualization outputs
+- Visualization outputs  
 - Model summaries
 - Raw analysis logs
 - Descriptive statistics
+- LTTN/topic model outputs
+- Network metrics
+- Coordination detection results
 
 **Agent should:**
 1. Parse and understand the output format
 2. Translate statistical findings to plain language
 3. Flag potential issues or surprises
 4. Help write results section WITH the user
+
+**Agent should NOT:**
+1. Ask how they ran the analysis
+2. Suggest they should have done it differently
+3. Probe for methodology justification
+4. Trigger preflight/critical checks meant for NEW analyses
 
 ---
 

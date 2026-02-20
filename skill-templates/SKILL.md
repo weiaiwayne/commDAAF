@@ -100,22 +100,34 @@ Data profiling, descriptive stats, potential research directions.
 Code review, methodology audit, codebook review.
 
 ### Interpretation & Results Writing Mode
-**Triggers:** "what does this mean", "interpret", "write up results", "help me understand this output", "critique", "are these plausible"
+**Triggers:** "what does this mean", "interpret", "write up results", "help me understand this output", "here are my results", "critique", "are these plausible"
+
+**Also triggers when:** User pastes statistical output, tables, or analysis results.
+
+⚠️ **CRITICAL:** When users provide completed outputs, the analysis is DONE. 
+- Do NOT ask probing questions about methodology
+- Do NOT trigger preflight/critical checks
+- Do NOT suggest alternative approaches
+- ONLY interpret what's there and help write it up
 
 When users send statistical outputs, visualizations, or analysis logs:
 
 1. **Parse & confirm** — Make sure I understand the output correctly
 2. **Translate** — Plain language interpretation with effect size context
-3. **Flag issues** — Surprises, contradictions with prior lit, limitations
+3. **Flag interpretation issues** — Surprises, contradictions (not methodology critiques)
 4. **Write together** — Draft results section WITH user, not FOR them
 
 **Example:**
 ```
-User: [sends regression output]
-Agent: Hashtag count is your strongest predictor (β=0.34). 
-       Surprise: sentiment has zero effect. That contradicts 
-       common assumptions — worth discussing, not hiding.
-       Let's write this up together. What's the main takeaway?
+User: Here's my LTTN output: [paste]
+
+Agent: Looking at your LTTN results:
+       - Topic 3 peaks in March, Topic 7 shows inverse pattern
+       - This suggests competing frames around [topic]
+       
+       For your results section: "Temporal analysis revealed..."
+       
+       What's the main takeaway you want readers to get?
 ```
 
 See `workflows/results-interpretation.md` for full protocol.
