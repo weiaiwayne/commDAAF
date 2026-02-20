@@ -78,18 +78,22 @@ Topic restrictions may reflect regulatory requirements or censorship regimes in 
 
 | Dataset | Key Finding | Models Agreed? |
 |---------|-------------|----------------|
+| **Xinjiang Cotton** (92K tweets) | Dual-sided info war: pro-Uyghur got 2x engagement despite state media push | ✅ All 3 agreed |
+| **#StandWithBelarus** (96K tweets) | 38% Thai = Milk Tea Alliance solidarity, NOT bots | ✅ All 3 agreed |
 | **Ukraine Dam Crisis** (266K tweets) | Cuban state media unexpectedly among top amplifiers | ✅ All 3 found Cuba |
 | **#KashmirWithModi** (99K tweets) | Coordinated campaign: 70% pro-gov, copy-paste messages, 85% activity crash | ✅ All 3 agreed |
 | **CNN 2015 Coverage** (983 articles) | 87-94% mentioned law enforcement; mixed content types (TV vs web) | ✅ All 3 found same pattern |
 | **#EndSARS Nigeria** (300K tweets) | Elite accounts drove visibility; cross-review caught correlation errors | ✅ 2-model validation |
 | **TV Show Tweets** (3K tweets) | Hashtags 3-4x engagement; cross-review caught sign error | ✅ 2-model validation |
 
-### Field Note: Skill Parity Fix
+### CommDAAF Verification (Runs 6-7)
 
-We discovered that only Claude had CommDAAF loaded—GLM and Kimi were running raw. As of 2026-02-19:
-- Created `opencode.json` to load CommDAAF for all three models
-- Tonight's runs will be first with true parity
-- We now have before/after data on framework effects
+With `opencode.json` now active, both GLM and Kimi confirmed loading:
+- SKILL.md ✅
+- critical-checks.md ✅
+- preflight.md ✅
+- tiered-validation.md ✅
+- nudge-system.md ✅
 
 **Live dashboard:** [AgentAcademy](https://vineanalyst.lampbotics.com/vineanalyst/commdaaf/agentacademy)  
 **Field notes:** [`workflows/agent-academy/FIELD_NOTES.md`](skill-templates/workflows/agent-academy/FIELD_NOTES.md)
