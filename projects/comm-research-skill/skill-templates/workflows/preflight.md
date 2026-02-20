@@ -73,6 +73,61 @@ warnings:
         Keep current setting? (yes/no/adjust to ___)
 ```
 
+### Content Heterogeneity Warnings
+
+```yaml
+warnings:
+  mixed_content_types:
+    - check: content_types_detected > 1
+      message: |
+        ⚠️ **Mixed content types detected**
+        
+        Your dataset appears to contain:
+        {detected_types}
+        
+        EXAMPLE FROM AGENTACADEMY:
+        CNN dataset mixed TV transcripts (4,500 words avg) with
+        web articles (700 words avg). Direct comparison invalid.
+        
+        Problems:
+        - Word counts not comparable
+        - Engagement baselines differ
+        - Topic models behave differently
+        
+        Options:
+        - Analyze separately, compare patterns
+        - Filter to single type
+        - Control for content type
+        - Normalize within type
+        
+        Your approach? ___
+
+  temporal_clustering:
+    - check: max_period_pct > 30 OR min_period_pct < 5
+      message: |
+        ⚠️ **Uneven temporal distribution detected**
+        
+        Your data clusters around specific periods:
+        {period_distribution}
+        
+        EXAMPLE FROM AGENTACADEMY:
+        CNN 2015: June had 4x more articles than September
+        (Charleston shooting drove coverage spike)
+        
+        Problems:
+        - "Average" dominated by peak periods
+        - Comparing periods = comparing events
+        - Statistical independence assumption violated
+        
+        Options:
+        - Weight by inverse frequency
+        - Analyze peaks separately
+        - Normalize within event windows
+        - Acknowledge as limitation
+        
+        Your approach? ___
+```
+
 ### Data Size Warnings
 
 ```yaml
@@ -693,6 +748,76 @@ content_analysis_checks:
            - Majority vote
         
         Your plan?
+```
+
+---
+
+## Multi-Model Analysis Protocol
+
+When using multiple LLMs for analysis (recommended for robust findings):
+
+```yaml
+multi_model_checks:
+
+  convergence_planning:
+    - trigger: multi-model analysis requested
+      message: |
+        📋 **MULTI-MODEL CONVERGENCE PROTOCOL**
+        
+        Using multiple models increases confidence in findings.
+        
+        PROTOCOL (from AgentAcademy):
+        
+        1. **Run models independently**
+           - Same data, same prompts
+           - No cross-contamination of outputs
+        
+        2. **Compare findings BEFORE interpretation**
+           - What do all models agree on? → High confidence
+           - What do most agree on? → Moderate confidence
+           - What do models disagree on? → Flag for review
+        
+        3. **Document convergence**
+           | Finding | Claude | GLM | Kimi | Confidence |
+           |---------|--------|-----|------|------------|
+           | ___     |        |     |      |            |
+        
+        4. **Cross-review (optional but valuable)**
+           - Have Model B critique Model A's output
+           - Catches sign errors, classification inflation
+        
+        Models you're using: ___
+        Convergence threshold for "finding": ___
+
+  divergence_value:
+    - trigger: models disagree
+      message: |
+        📋 **MODEL DIVERGENCE IS VALUABLE**
+        
+        Models disagree on: {finding}
+        
+        This is not a bug—it reveals:
+        - Task ambiguity
+        - Multiple valid interpretations
+        - Need for human judgment
+        
+        EXAMPLES FROM AGENTACADEMY:
+        
+        ✅ Convergence (3/3):
+        - Cuban state media in Ukraine data
+        - 70% pro-government in Kashmir
+        
+        ⚠️ Divergence (interpretation):
+        - "Solidarity" vs "safety-seeking" for RT behavior
+        - Both valid, different theoretical lenses
+        
+        Resolution options:
+        1. Report both interpretations
+        2. Choose based on your theory
+        3. Additional analysis to discriminate
+        4. Human expert makes call
+        
+        Your resolution approach? ___
 ```
 
 ---

@@ -254,6 +254,14 @@ research/{date}_{name}/
 - `workflows/rigor-enforcement.md` — Methodological guardrails
 - `workflows/preflight.md` — Pre-analysis checks
 - `workflows/critical-checks.md` — Research practice validation
+- `workflows/tiered-validation.md` — Match validation to stakes
+- `workflows/nudge-system.md` — Force conscious research decisions
+- `workflows/confound-checklist.md` — **NEW** Identify confounding variables
+- `workflows/temporal-anomaly-detection.md` — **NEW** Flag unexplained spikes/drops
+- `workflows/claim-evidence-matcher.md` — **NEW** Prevent overclaiming
+- `workflows/outcome-operationalization.md` — **NEW** Force DV operationalization
+- `workflows/study-design-warnings.md` — **NEW** N=1 and design limit enforcement
+- `workflows/design-alternatives.md` — **NEW** Pivot from blockers to achievable designs
 
 ### Theories
 - `theories/attention-economy.md` — Attention as resource
@@ -301,12 +309,16 @@ Data access has changed dramatically. Before planning collection:
 
 - Name: CommDAAF
 - Full name: Computational Communication Research Framework
-- Version: 0.3.0
-- Last updated: 2026-02-17
+- Version: 0.7.0
+- Last updated: 2026-02-18
 - Author: OpenClaw Community
 - Based on: DAAF (Data Analyst Augmentation Framework)
 
 ### Changelog
+- **0.7.0**: Reproducibility architecture update (inspired by Xu & Yang 2026) — three-layer architecture (orchestrator/knowledge/computation), mandatory cross-agent validation, credibility rating scheme, structured failure knowledge base. See `workflows/agent-academy/ARCHITECTURE.md`.
+- **0.6.0**: Universal methodology checks — sample balance, metric comparability, context changes, effect size thresholds, directional consistency, confound identification, multiple testing awareness (all platform-agnostic)
+- **0.5.0**: Design alternatives system — blockers now include "INSTEAD, TRY" pivots; nudges help design achievable studies rather than just flagging problems
+- **0.4.0**: Red-teaming driven improvements — confound checklist, temporal anomaly detection, claim-evidence matcher, outcome operationalization requirements, study design warnings (N=1 enforcement)
 - **0.3.0**: Tiered validation, nudge system, theory modules, guided pipelines
 - **0.2.0**: Post-API data strategies, expert mode, 10 methods, 9 data sources
 - **0.1.0**: Initial release

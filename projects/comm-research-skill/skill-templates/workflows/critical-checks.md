@@ -120,6 +120,444 @@ universal_check_3:
     I'll flag if results align too neatly with expectations.
 ```
 
+### Content Type Mixing Check
+
+```yaml
+universal_check_3b:
+  trigger: any analysis with heterogeneous content
+  message: |
+    📋 **CONTENT TYPE MIXING CHECK**
+    
+    Does your dataset mix different content types?
+    
+    Common mixes that cause problems:
+    | Type A | Type B | Problem |
+    |--------|--------|---------|
+    | TV transcripts | Written articles | Word counts differ 5-10x |
+    | Original posts | Retweets | Different engagement baselines |
+    | Long-form | Short-form | Topic modeling behaves differently |
+    | Text | Image captions | Different linguistic patterns |
+    
+    ⚠️ EXAMPLE FROM AGENTACADEMY:
+    CNN dataset mixed TV transcripts (avg 4,500 words) with 
+    web articles (avg 700 words). Direct comparison invalid.
+    
+    If mixed:
+    ❌ BLOCKED: Direct comparison of raw metrics across types
+    
+    ✅ INSTEAD, TRY:
+    - Analyze separately, then compare patterns
+    - Normalize within content type
+    - Use relative metrics (percentile within type)
+    - Control for content type in models
+    
+    Content types in your data: ___
+    Are you comparing across types? ___
+    Mitigation approach: ___
+```
+
+### Temporal Distribution Check
+
+```yaml
+universal_check_3c:
+  trigger: any time-series or longitudinal analysis
+  message: |
+    📋 **TEMPORAL DISTRIBUTION CHECK**
+    
+    Is your data evenly distributed over time?
+    
+    ⚠️ EVENT CLUSTERING WARNING
+    Data often clusters around crises/events, not evenly distributed.
+    
+    EXAMPLE FROM AGENTACADEMY:
+    CNN 2015 dataset: June had 4x more articles than September
+    (Charleston shooting drove coverage spike)
+    
+    Problems with clustered data:
+    - "Average" misleading (dominated by crisis periods)
+    - Comparing months = comparing events, not trends
+    - Statistical tests assume independence
+    
+    CHECK YOUR DISTRIBUTION:
+    | Period | N | % of Total | Notable Events |
+    |--------|---|------------|----------------|
+    | ___    |   |            |                |
+    
+    🚨 FLAGS:
+    - Any period with >30% of total observations
+    - Any period with <5% of total observations
+    - Peak/trough ratio > 4:1
+    
+    If clustered:
+    ✅ INSTEAD, TRY:
+    - Weight by inverse frequency
+    - Analyze peak periods separately
+    - Normalize within event windows
+    - Acknowledge as limitation with direction
+    
+    Distribution assessment: ___
+    Action taken: ___
+```
+
+### Sample Balance Check
+
+```yaml
+universal_check_4:
+  trigger: any comparison across groups (time periods, categories, conditions)
+  message: |
+    📋 **SAMPLE BALANCE CHECK**
+    
+    Before comparing groups, verify each has sufficient observations.
+    
+    Show your distribution:
+    | Group | N | % of Total |
+    |-------|---|------------|
+    | ___   |   |            |
+    
+    🚨 FLAGS:
+    - Any group with <5% of total observations
+    - Any group with N < 30
+    - Largest/smallest group ratio > 10:1
+    
+    If imbalanced:
+    ❌ BLOCKED: Standard group comparisons (ANOVA, chi-square)
+    
+    ✅ INSTEAD, TRY:
+    - Collapse small groups into meaningful larger categories
+    - Exclude insufficient groups and narrow claims
+    - Use regression with group as continuous predictor
+    - Report descriptive statistics only for small groups
+    
+    Your group distribution: ___
+    Action taken: ___
+```
+
+### Metric Comparability Check
+
+```yaml
+universal_check_5:
+  trigger: comparing counts/rates across time, accounts, or conditions
+  message: |
+    📋 **METRIC COMPARABILITY CHECK**
+    
+    Are your metrics comparable across comparison units?
+    
+    Baselines may differ due to:
+    - Audience size changes over time
+    - Platform algorithm or feature changes
+    - Seasonal or cyclical patterns
+    - Different data collection methods
+    
+    If baselines differ:
+    ❌ BLOCKED: Direct comparison of raw values
+    
+    ✅ INSTEAD, TRY:
+    - Rate metrics (per capita, per follower, per post)
+    - Relative measures (percentile within period)
+    - Include baseline as control variable
+    - Log-transform to reduce scale effects
+    - Binary outcome (above/below threshold)
+    
+    Do baselines differ? ___
+    How are you handling it? ___
+```
+
+### Context Change Documentation
+
+```yaml
+universal_check_6:
+  trigger: any longitudinal or time-series analysis
+  message: |
+    📋 **CONTEXT CHANGE CHECK**
+    
+    What changed in your research context during the study period?
+    
+    Consider:
+    - Platform features, algorithms, or policies
+    - Major external events (elections, crises, viral moments)
+    - Data collection method changes
+    - Community/population changes
+    
+    For each change:
+    - When did it occur?
+    - Could it affect your variables?
+    - How will you address it?
+    
+    Options:
+    - Include as control/moderator in analysis
+    - Subset data to single-context period
+    - Test for structural breaks
+    - Acknowledge as limitation with direction of bias
+    
+    Known context changes: ___
+    How addressed: ___
+```
+
+### Phase/Period Classification Consistency
+
+```yaml
+universal_check_6b:
+  trigger: any temporal analysis with phases, periods, or bins
+  message: |
+    📋 **PHASE CLASSIFICATION CONSISTENCY CHECK**
+    
+    If you're labeling time periods (e.g., "high activity", "low activity", "Phase 1"):
+    
+    ⚠️ LABELS MUST BE INTERNALLY CONSISTENT
+    
+    Common error caught in cross-review:
+    - Period A: 571 tweets/bin → labeled "Low"
+    - Period B: 327 tweets/bin → labeled "Moderate"
+    → Contradiction! Lower value has higher label.
+    
+    REQUIRED:
+    1. Define classification criteria BEFORE labeling
+    2. Apply criteria consistently across all periods
+    3. Show the thresholds used
+    
+    Example valid approach:
+    - Tertile split: Bottom 33% = Low, Middle = Moderate, Top = High
+    - Standard deviation: Mean ± 1 SD = Moderate, outside = High/Low
+    
+    Your classification method: ___
+    Thresholds used: ___
+    
+    ✓ CHECKPOINT:
+    [ ] I verified no label contradictions exist
+    [ ] Classification criteria are documented
+    [ ] Same criteria applied to all periods
+```
+
+### Bot/Automated Account Detection
+
+```yaml
+universal_check_6c:
+  trigger: Twitter/X analysis, social media network analysis, coordinated behavior analysis
+  message: |
+    📋 **BOT/AUTOMATED ACCOUNT CHECK**
+    
+    Have you checked for automated/bot accounts in your data?
+    
+    ⚠️ BOTS CAN DRAMATICALLY SKEW RESULTS
+    
+    Example from real analysis:
+    - Top 4 most active accounts all had "bot" in username
+    - ~10% of top activity from automated accounts
+    - One analyst missed this entirely; cross-review caught it
+    
+    DETECTION SIGNALS (check at least 3):
+    
+    | Signal | Check |
+    |--------|-------|
+    | Username patterns | Contains "bot", "auto", "RT", "news" |
+    | Posting frequency | >50 tweets/day sustained |
+    | Account age vs activity | New account, massive output |
+    | Content patterns | Near-identical tweets |
+    | Timing regularity | Posts at exact intervals |
+    | Bio indicators | "automated", "feed", "mirror" |
+    
+    REQUIRED:
+    1. Check top 20 most active accounts manually
+    2. Report % of activity from suspected automated accounts
+    3. Decide: include, exclude, or analyze separately
+    
+    Bot detection performed: (yes/no)
+    Suspected automated accounts found: ___
+    % of total activity: ___
+    Decision: (include/exclude/separate analysis)
+    Justification: ___
+```
+
+### Effect Size Interpretation
+
+```yaml
+universal_check_7:
+  trigger: any statistical test with effect size
+  message: |
+    📋 **EFFECT SIZE CHECK**
+    
+    Report effect size with standard interpretation.
+    
+    REFERENCE THRESHOLDS (Cohen, 1988):
+    | Metric | Small | Medium | Large |
+    |--------|-------|--------|-------|
+    | Cohen's d | 0.2 | 0.5 | 0.8 |
+    | Pearson/Spearman r | 0.1 | 0.3 | 0.5 |
+    | Cliff's δ | 0.15 | 0.33 | 0.47 |
+    | η² (eta-squared) | 0.01 | 0.06 | 0.14 |
+    | Odds ratio | 1.5 | 2.5 | 4.0 |
+    
+    ⚠️ RULES:
+    - Near boundaries → use lower category (0.32 r = "medium" not "medium-to-large")
+    - δ = 0.40 is MEDIUM, not "large" (common error)
+    - Always state metric used
+    - Don't round up
+    - Cite Cohen (1988) or justify alternative benchmarks
+    
+    Your effect size: ___
+    Metric: ___
+    Category: ___
+    Citation for benchmarks: ___
+```
+
+### Correlation Transformation Check
+
+```yaml
+universal_check_7b:
+  trigger: correlation with follower counts, engagement metrics, or any social media count variable
+  message: |
+    📋 **CORRELATION TRANSFORMATION CHECK**
+    
+    Social media metrics (followers, likes, retweets) are heavily right-skewed.
+    
+    ⚠️ RAW CORRELATIONS ARE INFLATED BY OUTLIERS
+    
+    Example from real analysis:
+    - Raw follower→engagement r = 0.412
+    - Log-transformed r = 0.251
+    → Same data, different conclusions!
+    
+    REQUIRED:
+    1. Check distribution of both variables (skewness, kurtosis)
+    2. If skewed (skewness > 1), report BOTH:
+       - Raw correlation (for comparability with naive studies)
+       - Log-transformed correlation (methodologically sound)
+    3. Report R² for both (variance explained)
+    
+    ❌ BLOCKED: Reporting only raw correlation for skewed data
+    
+    ✅ INSTEAD:
+    - Log-transform: np.log1p(x) (handles zeros)
+    - Report both raw and transformed
+    - Base interpretation on transformed value
+    
+    Distribution check:
+    - Variable 1 skewness: ___
+    - Variable 2 skewness: ___
+    
+    Correlations reported:
+    - Raw r = ___ (R² = ___%)
+    - Log-transformed r = ___ (R² = ___%)
+```
+
+### Directional Consistency Check
+
+```yaml
+universal_check_8:
+  trigger: any correlation, regression coefficient, or group difference
+  message: |
+    📋 **DIRECTION CHECK**
+    
+    Verify your interpretation matches the statistical direction.
+    
+    CORRELATIONS:
+    - Positive r/ρ → "as X increases, Y increases"
+    - Negative r/ρ → "as X increases, Y decreases"
+    
+    GROUP COMPARISONS:
+    - Group A mean > Group B mean → "A has higher Y than B"
+    - Check which group is which in your code
+    
+    REGRESSION:
+    - Positive β → "more X = more Y"
+    - Negative β → "more X = less Y"
+    
+    ✓ CHECKPOINT:
+    [ ] I verified the sign/direction in my output
+    [ ] My verbal interpretation matches the statistical direction
+    [ ] I have not confused comparison group labels
+    
+    Confirmed: ___
+```
+
+### Confound Identification
+
+```yaml
+universal_check_9:
+  trigger: any analysis claiming X relates to Y
+  message: |
+    📋 **CONFOUND CHECK**
+    
+    What else varies with X that could explain Y?
+    
+    PLATFORM-SPECIFIC CONFOUNDS (auto-generated):
+    
+    **Twitter/X:**
+    - [ ] Algorithm changes (chronological → ranked: 2016, 2023)
+    - [ ] Character limit changes (140 → 280: 2017)
+    - [ ] Verified badge changes (blue check: 2023)
+    - [ ] API access changes (2023)
+    
+    **Facebook/Instagram:**
+    - [ ] News Feed algorithm updates (frequent)
+    - [ ] Reels/Stories introduction
+    - [ ] Privacy policy changes
+    
+    **YouTube:**
+    - [ ] Recommendation algorithm shifts
+    - [ ] Monetization policy changes
+    - [ ] Comment section changes
+    
+    **General:**
+    - [ ] Content features (length, media, formatting)
+    - [ ] Source characteristics (popularity, verification)
+    - [ ] Temporal factors (time of day, season, trends)
+    - [ ] Audience factors (demographics, prior engagement)
+    - [ ] External events overlapping data period
+    
+    ⚠️ EXAMPLE FROM AGENTACADEMY:
+    Neither AI considered Twitter's 2016 algorithm change when 
+    analyzing 2014-2018 engagement trends. Cross-review caught this.
+    
+    REQUIRED:
+    - List 3+ potential confounds
+    - For each: Do you have data to control for it?
+    
+    If you cannot control:
+    ✅ INSTEAD, TRY:
+    - Stratify analysis (examine within subgroups)
+    - Match cases on confounders
+    - Acknowledge specific confounds as limitations
+    - Narrow claims to "association" not "effect"
+    
+    Potential confounds identified:
+    1. ___ (controlled? ___)
+    2. ___ (controlled? ___)
+    3. ___ (controlled? ___)
+```
+
+### Multiple Testing Awareness
+
+```yaml
+universal_check_10:
+  trigger: >2 statistical tests in analysis
+  message: |
+    📋 **MULTIPLE TESTING CHECK**
+    
+    You're running multiple tests. False positive risk:
+    - 3 tests → 14% chance of ≥1 false positive
+    - 5 tests → 23%
+    - 10 tests → 40%
+    
+    OPTIONS:
+    
+    Correction methods:
+    - Bonferroni: α/n (conservative)
+    - FDR/Benjamini-Hochberg (less conservative)
+    - Holm-Bonferroni (step-down)
+    
+    Design approaches:
+    - Pre-specify one primary test, label others exploratory
+    - Use omnibus test first, post-hocs only if significant
+    
+    Transparency:
+    - Report all tests run, not just significant ones
+    - Label analysis as exploratory if many tests
+    
+    Number of tests: ___
+    Approach taken: ___
+```
+
 ---
 
 ## LEVEL 2: Method-Specific Deep Checks
@@ -278,6 +716,40 @@ network_analysis_critical:
       
       Acknowledged? How will you address this limitation?
       → Approach: ___
+
+  retweet_rate_interpretation:
+    message: |
+      ⚠️ **HIGH RETWEET RATE INTERPRETATION**
+      
+      Your dataset shows {retweet_rate}% retweets.
+      
+      High retweet rates (>70%) can mean VERY different things:
+      
+      | Context | Interpretation |
+      |---------|----------------|
+      | Crisis/breaking news | Information scarcity, amplification priority |
+      | Authoritarian context | Safety-seeking (RT safer than original speech) |
+      | Celebrity-driven | Fan amplification behavior |
+      | Coordinated campaign | Strategic amplification |
+      | Normal discourse | Unusual—investigate further |
+      
+      ⚠️ CONTEXT MATTERS
+      
+      Example from #EndSARS analysis:
+      - 80-94% retweet rate
+      - Two interpretations offered:
+        1. "Solidarity signaling" (neutral framing)
+        2. "Safety-seeking in authoritarian context" (political framing)
+      - BOTH are valid; choice depends on your theoretical lens
+      
+      What is the political/social context of your data?
+      → Context: ___
+      
+      Which interpretation fits your context?
+      → Interpretation: ___
+      
+      Have you considered alternative interpretations?
+      → Alternatives considered: ___
 ```
 
 ### SENTIMENT ANALYSIS — Deep Checks
@@ -647,6 +1119,107 @@ post_analysis_checks:
       → Alternative 1: ___
       → Alternative 2: ___
       → Why your interpretation is better: ___
+```
+
+---
+
+## LEVEL 3B: Cross-Model Validation Protocol
+
+When using multiple LLMs for analysis or annotation, document convergence.
+
+```yaml
+cross_model_validation:
+
+  convergence_documentation:
+    trigger: analysis uses 2+ different LLMs
+    message: |
+      📋 **CROSS-MODEL CONVERGENCE CHECK**
+      
+      You used multiple models: {models_used}
+      
+      Document convergence for each major finding:
+      
+      | Finding | Model 1 | Model 2 | Model 3 | Convergence |
+      |---------|---------|---------|---------|-------------|
+      | ___     | ✓/✗     | ✓/✗     | ✓/✗     | Full/Partial/None |
+      
+      CONFIDENCE LEVELS:
+      - **FULL CONVERGENCE** (all models agree): High confidence
+        → Report as main finding
+      
+      - **PARTIAL CONVERGENCE** (majority agree): Moderate confidence
+        → Report with caveat, note dissent
+      
+      - **NO CONVERGENCE** (models disagree): Low confidence
+        → Flag for human review
+        → Do NOT report as finding without human adjudication
+      
+      ⚠️ EXAMPLES FROM AGENTACADEMY:
+      
+      ✅ High confidence (3/3 agreed):
+      - Cuba as major amplifier in Ukraine data
+      - 70% pro-government in Kashmir data
+      - 87-94% law enforcement mentions in CNN data
+      
+      ⚠️ Partial (interpretation differed):
+      - "Solidarity" vs "safety-seeking" for high RT rates
+      - Effect size classifications varied
+      
+      Document your convergences:
+      → Full convergence findings: ___
+      → Partial convergence findings: ___
+      → Divergent findings (needs human review): ___
+
+  divergence_handling:
+    trigger: models disagree on finding
+    message: |
+      📋 **MODEL DIVERGENCE DETECTED**
+      
+      Models disagree on: {finding}
+      
+      Model A says: {model_a_interpretation}
+      Model B says: {model_b_interpretation}
+      
+      This divergence is VALUABLE, not a problem.
+      It reveals:
+      - Ambiguity in the data
+      - Multiple valid interpretations
+      - Need for human judgment
+      
+      OPTIONS:
+      1. **Both valid**: Report both interpretations
+      2. **Theoretical preference**: Choose based on your framework
+      3. **Empirical resolution**: Additional analysis to discriminate
+      4. **Human adjudication**: Expert makes call
+      
+      Your resolution: ___
+      Justification: ___
+
+  cross_review_errors:
+    trigger: one model reviews another's output
+    message: |
+      📋 **CROSS-REVIEW ERROR LOG**
+      
+      When Model B reviewed Model A's analysis, errors were caught:
+      
+      ⚠️ LOG ALL ERRORS (for transparency & learning)
+      
+      | Error Type | Description | Caught By | Severity |
+      |------------|-------------|-----------|----------|
+      | ___        | ___         | ___       | Low/Med/High |
+      
+      COMMON ERROR TYPES (from AgentAcademy):
+      - **Sign errors**: Negative correlation reported as positive effect
+      - **Classification inflation**: "Medium" effect called "large"
+      - **Transformation omission**: Raw correlation without log-transform
+      - **Missing confounds**: Didn't control for known factors
+      - **Temporal inconsistency**: Period labels contradict values
+      
+      Errors caught improve the final analysis.
+      Document them to improve future prompts.
+      
+      Errors found: ___
+      Corrections made: ___
 ```
 
 ---

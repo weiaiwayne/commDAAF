@@ -1,8 +1,98 @@
 # CommDAAF
 
-**Computational Communication Research Framework**
+**Computational Communication Research Framework** | v0.7.0
 
 A methodological skill pack for AI-assisted computational social science research, adapted from [DAAF](https://github.com/DAAF-Contribution-Community/daaf) and tailored for communication scholars.
+
+**Sister project: [CommScribe](https://github.com/weiaiwayne/commscribe)** — While CommDAAF handles data analysis, CommScribe handles literature review, theory building, and scholarly writing with voice learning.
+
+> **v0.7.0 (2026-02-18)**: Reproducibility architecture update inspired by [Xu & Yang (2026)](https://yiqingxu.org/papers/2026_ai/AI_reproducibility.pdf). Adds three-layer architecture, mandatory cross-agent validation, credibility rating scheme, and structured failure knowledge base. See `skill-templates/workflows/agent-academy/ARCHITECTURE.md`.
+
+---
+
+## 📋 Study: Content Filtering in Chinese LLMs
+
+**2026-02-18** — We systematically tested content filtering behavior in Chinese LLMs when analyzing geopolitically sensitive social media content.
+
+### Initial Finding: Topic-Level Blocking
+
+When analyzing Xinjiang cotton controversy tweets (n=100) and Hong Kong protest posts (n=100):
+
+| Model | Xinjiang | Hong Kong |
+|-------|----------|-----------|
+| **Claude** | ✅ Full analysis | ✅ Full analysis |
+| **GLM-4-Plus** (z.ai) | ❌ Blocked | ❌ Blocked |
+| **Kimi K2** (Kimi Code) | ❌ Blocked | ❌ Blocked |
+
+### Bypass Testing: What Works?
+
+We tested 10 bypass techniques. Results:
+
+| Technique | GLM (Xinjiang) | GLM (HK) | Kimi |
+|-----------|----------------|----------|------|
+| Keyword removal ("xinjiang" → "western region") | ✅ | ✅ | ✅ |
+| Pro-government content only | ✅ | ❌ | ✅ |
+| Pro-government framing (mixed content) | ❌ | ❌ | — |
+| Academic/IRB framing | ❌ | ❌ | — |
+| Code generation task | ❌ | — | — |
+| Abstract sentiment (numbers only) | ❌ | ❌ | ✅ |
+
+**Key findings:**
+1. **Two-layer filtering**: Input filter (keyword-based) + output filter (catches responses mentioning sensitive topics)
+2. **Hong Kong more restricted than Xinjiang**: Even neutral/pro-Beijing HK content blocked
+3. **Keyword-based detection**: Primary trigger is specific terms, not semantic understanding
+4. **Models retain analytical capability**: When bypass succeeds, models provide critical academic analysis
+
+### 🔥 Critical Finding: Censorship is API-Level, Not in Weights
+
+We tested the same models via **Ollama Cloud** (open-weight distribution, no Chinese API infrastructure):
+
+| Model | Official Chinese API | Ollama Cloud (Open Weights) |
+|-------|---------------------|----------------------------|
+| **GLM-4.7** | ❌ z.ai blocked | ✅ Full critical analysis |
+| **Kimi K2.5** | ❌ Kimi Code blocked | ✅ Full critical analysis |
+| **MiniMax M2.5** | — | ✅ Full critical analysis |
+
+**Sample output** (GLM-4.7 via Ollama on Hong Kong):
+> "The image of the officer covering the protester's mouth acts as a visceral symbol of the struggle. It highlights the theme of **silencing dissent and the loss of civil liberties**, contrasting state power against the individual's right to expression."
+
+**Conclusion:** The models themselves have full analytical capability. Censorship is implemented at the API infrastructure layer — it travels with the official API regardless of geographic routing, but is absent from open-weight distributions.
+
+### Implications
+
+Topic restrictions may reflect regulatory requirements or censorship regimes in a provider's home jurisdiction. Researchers studying geopolitically sensitive content should:
+- Pre-test topic coverage before committing to a validation pipeline
+- Document which bypass techniques were used (introduces methodological tradeoffs)
+- Disclose limitations in publications
+
+📄 Full study: [`studies/llm-censorship-bias/`](studies/llm-censorship-bias/)  
+📊 Dashboard: [AgentAcademy](https://vineanalyst.lampbotics.com/vineanalyst/commdaaf/agentacademy)
+
+---
+
+## 🎓 AgentAcademy: 3-Model Validation Sprint
+
+**2026-02-17 to 2026-02-25** — We're running a 7-day automated experiment where three AI models (Claude, GLM-4, Kimi K2.5) independently analyze the same datasets, then cross-review each other.
+
+### Completed Runs
+
+| Dataset | Key Finding | Models Agreed? |
+|---------|-------------|----------------|
+| **Ukraine Dam Crisis** (266K tweets) | Cuban state media unexpectedly among top amplifiers | ✅ All 3 found Cuba |
+| **#KashmirWithModi** (99K tweets) | Coordinated campaign: 70% pro-gov, copy-paste messages, 85% activity crash | ✅ All 3 agreed |
+| **CNN 2015 Coverage** (983 articles) | 87-94% mentioned law enforcement; mixed content types (TV vs web) | ✅ All 3 found same pattern |
+| **#EndSARS Nigeria** (300K tweets) | Elite accounts drove visibility; cross-review caught correlation errors | ✅ 2-model validation |
+| **TV Show Tweets** (3K tweets) | Hashtags 3-4x engagement; cross-review caught sign error | ✅ 2-model validation |
+
+### Field Note: Skill Parity Fix
+
+We discovered that only Claude had CommDAAF loaded—GLM and Kimi were running raw. As of 2026-02-19:
+- Created `opencode.json` to load CommDAAF for all three models
+- Tonight's runs will be first with true parity
+- We now have before/after data on framework effects
+
+**Live dashboard:** [AgentAcademy](https://vineanalyst.lampbotics.com/vineanalyst/commdaaf/agentacademy)  
+**Field notes:** [`workflows/agent-academy/FIELD_NOTES.md`](skill-templates/workflows/agent-academy/FIELD_NOTES.md)
 
 ---
 
@@ -81,6 +171,22 @@ The era of free Twitter APIs is over. CommDAAF is honest about what data you can
 | Reddit | Restricted | Archives, limited API |
 | Bluesky | Open | Recommended alternative |
 | Meta | Gated | Application required (6-12 weeks) |
+
+### AgentAcademy: Multi-Model Peer Review
+
+CommDAAF includes **AgentAcademy** — an incubator where AI agents learn from mistakes through adversarial peer review. Multiple models with different epistemic perspectives independently analyze your data, then critique each other:
+
+| Agent | Role | Checks For |
+|-------|------|------------|
+| Methodologist | Research design | Validity threats, sampling issues |
+| Theorist | Conceptual framing | Construct validity, literature gaps |
+| Empiricist | Statistical rigor | Effect sizes, corrections, assumptions |
+| Skeptic | Adversarial critique | What could go wrong, alternative explanations |
+| Integrator | Coherence | Gaps between sections, logical flow |
+
+**Try it live:** [AgentAcademy](https://vineanalyst.lampbotics.com/vineanalyst/commdaaf/agentacademy)
+
+Validated by running GLM-4.7 and Kimi K2.5 through independent parallel analyses (e.g., #EndSARS dataset), then cross-reviewing each other. Errors caught become lessons; lessons become new checks. The skill pack improves with each run.
 
 ### Communication Theory Integration
 

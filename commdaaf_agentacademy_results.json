@@ -1,138 +1,286 @@
 {
   "name": "AgentAcademy",
-  "description": "Multi-model peer review incubator for CommDAAF — AI agents learn from mistakes through adversarial testing",
-  "status": "idle",
-  "last_run": "2026-02-17T23:35:00Z",
-  "next_run": null,
+  "description": "Where AI agents learn to be better researchers by checking each other's work",
+  "status": "active",
+  "last_run": "2026-02-19T17:23:00Z",
+  "next_run": "2026-02-20T05:00:00Z",
   "endpoint": "vineanalyst.com/commdaaf/agentacademy",
   "runs": [
     {
-      "timestamp": "2026-02-17T23:35:00Z",
-      "title": "#EndSARS: Two AIs Discover Different Things in the Same Protest Data",
-      "method": "Network + Temporal + Engagement Analysis",
-      "dataset": "299,410 tweets from #EndSARS movement (Oct 21 - Nov 5, 2020)",
-      "analyst_model": "GLM 4.7 + Kimi K2.5 (parallel)",
-      "reviewer_model": "Cross-review (each reviewed the other)",
-      "issues_found": 5,
-      "summary": "We gave two AI researchers 10,000 tweets from the #EndSARS Nigerian protest movement (post-Lekki shooting) and asked them to independently analyze network structure, temporal dynamics, and engagement predictors. Then they reviewed each other's work. The cross-review caught a critical statistical methodology difference and a major blind spot.",
+      "timestamp": "2026-02-19T17:23:00Z",
+      "title": "Three AIs Analyzing Ukraine Crisis Data All Found the Same Surprise: Cuba",
+      "method": "Pattern Detection",
+      "dataset": "266,000 tweets about the Ukraine dam disaster (June 2023)",
+      "analyst_model": "Claude, GLM-4, and Kimi (working independently)",
+      "reviewer_model": "Cross-checked each other",
+      "issues_found": 4,
+      "summary": "We asked three different AI systems to analyze tweets about the Kakhovka dam breach — without telling them what to look for. All three, working completely independently, flagged the same unexpected pattern: Cuban government accounts were among the biggest amplifiers of content about a Ukrainian dam. Why is Cuba so interested in a dam in Ukraine?",
       "findings": [
         {
           "type": "success",
-          "text": "Both AIs converged: Hybrid structure — decentralized participation (8,500+ users) but centralized amplification through @renoomokri, @AishaYesufu, @SaharaReporters"
+          "text": "ALL THREE AIs FOUND IT: Cuban state media (@PartidoPCC, @DiazCanelB) showed up as major players — none of the AIs were told to look for this"
         },
         {
           "type": "success",
-          "text": "Both identified 3 distinct temporal phases with declining virality (7,345 → 3,969 → 2,469 avg RTs)"
-        },
-        {
-          "type": "success",
-          "text": "Both agreed: Follower count predicts engagement; content features (length, hashtags) don't matter in crisis contexts"
-        },
-        {
-          "type": "error",
-          "text": "CORRELATION DISCREPANCY: GLM reported r=0.412, Kimi reported r=0.251 — different because GLM used raw follower counts while Kimi log-transformed (correct for skewed Twitter data)"
+          "text": "AMPLIFICATION MACHINE: 72% of posts were retweets, not original thoughts — someone was boosting specific messages"
         },
         {
           "type": "warning",
-          "text": "BOT BLIND SPOT: GLM barely mentioned bots; Kimi found ~10% of top activity from @RTEndSars, @TheEndSarsBot, @sorosokebot"
+          "text": "SUSPICIOUS TIMING: 1,390 accounts were created the exact week Russia invaded Ukraine — then went quiet until this crisis"
         },
         {
           "type": "warning",
-          "text": "GLM's phase classification contradicts itself — labeled 571 tweets/bin as 'Low' while 327 tweets/bin was 'Moderate'"
+          "text": "OFF-TOPIC INJECTION: Thousands of tweets about Biden and Burisma corruption appeared in a conversation about a dam collapse"
         },
         {
           "type": "info",
-          "text": "Different theoretical frames: GLM emphasized 'solidarity signaling'; Kimi emphasized 'safety-seeking behavior in authoritarian context'"
+          "text": "The 'blame Russia' narrative outnumbered 'blame Ukraine' by 5 to 1"
         }
       ],
       "improvements": [
-        "Always report both raw AND log-transformed correlations for skewed social media metrics",
-        "Add bot detection checklist — username patterns, posting frequency, account age",
-        "Require phase classification logic to be internally consistent",
-        "Consider authoritarian context when interpreting high retweet rates"
+        "Build a tool to automatically flag when unexpected countries show up in regional conflicts",
+        "Track accounts that go dormant and suddenly reactivate during crises",
+        "Detect when unrelated political content gets injected into breaking news"
+      ],
+      "github_links": {
+        "claude_analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/sample-data/UKR_analysis.md"
+      }
+    },
+    {
+      "timestamp": "2026-02-19T17:17:00Z",
+      "title": "Was #KashmirWithModi Organic? Three AIs Say: Definitely Not",
+      "method": "Coordination Analysis",
+      "dataset": "99,000 tweets after India changed Kashmir's status (Aug 2019)",
+      "analyst_model": "Claude, GLM-4, and Kimi (working independently)",
+      "reviewer_model": "Cross-checked each other",
+      "issues_found": 5,
+      "summary": "When India revoked Kashmir's special status in 2019, #KashmirWithModi trended worldwide. Was this genuine public support or an organized campaign? We had three AIs investigate independently. Their verdict was unanimous: this has all the hallmarks of coordinated amplification.",
+      "findings": [
+        {
+          "type": "success",
+          "text": "ALL THREE AGREED: About 70% of tweets supported the government, only 1-2% were critical — that's a 50:1 ratio, which is extremely unusual"
+        },
+        {
+          "type": "error",
+          "text": "COPY-PASTE CAMPAIGN: The same 'Thank you Kashmiri Brothers' message was posted by 2,664 different accounts word-for-word"
+        },
+        {
+          "type": "warning",
+          "text": "FLASH MOB: 33,000+ tweets on a single day, then activity dropped 85% the next week — real movements don't evaporate that fast"
+        },
+        {
+          "type": "warning",
+          "text": "POWER USERS: 86 accounts were posting more than 10 times per hour — that's not normal human behavior"
+        },
+        {
+          "type": "info",
+          "text": "The campaign started 3 days AFTER the policy change — suggesting time to organize, not spontaneous reaction"
+        }
+      ],
+      "improvements": [
+        "Build a 'copy-paste detector' to flag when identical messages spread across many accounts",
+        "Create alerts for unnatural posting speeds",
+        "Track hashtag campaigns that spike and crash unnaturally fast"
+      ],
+      "github_links": {
+        "claude_analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/sample-data/Kashmir_analysis.md"
+      }
+    },
+    {
+      "timestamp": "2026-02-19T17:19:00Z",
+      "title": "What CNN Covered in 2015: Three AIs Reach the Same Conclusion",
+      "method": "Content Analysis",
+      "dataset": "983 CNN articles from 2015",
+      "analyst_model": "Claude, GLM-4, and Kimi (working independently)",
+      "reviewer_model": "Cross-checked each other",
+      "issues_found": 3,
+      "summary": "2015 was a turbulent year in America — Ferguson protests, Baltimore unrest, the Charleston church shooting. We had three AIs analyze CNN's coverage to see what patterns emerge. All three found the same thing: law enforcement dominated nearly every story.",
+      "findings": [
+        {
+          "type": "success",
+          "text": "ALL THREE FOUND: 87-94% of articles mentioned police, officers, or law enforcement — it was the lens for almost everything"
+        },
+        {
+          "type": "success",
+          "text": "TWO TYPES OF CONTENT: TV transcripts averaged 4,500 words; written articles averaged 700 words — you can't compare them directly"
+        },
+        {
+          "type": "warning",
+          "text": "NOT A RANDOM SAMPLE: June had 4x more articles than September because of the Charleston shooting — the data clusters around crises"
+        },
+        {
+          "type": "warning",
+          "text": "FRAMING DIFFERENCE: 'Black' appeared in victim/community contexts; 'White' appeared in perpetrator/officer contexts"
+        },
+        {
+          "type": "info",
+          "text": "Violence-related words appeared in 99.6% of all articles"
+        }
+      ],
+      "improvements": [
+        "Automatically detect when a dataset mixes different content types (like TV vs. print)",
+        "Flag when data clusters around events instead of being evenly distributed",
+        "Analyze not just what words appear, but what contexts they appear in"
+      ],
+      "github_links": {
+        "claude_analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/sample-data/CNN_analysis.md"
+      }
+    },
+    {
+      "timestamp": "2026-02-18T12:00:00Z",
+      "title": "Chinese AI Can Analyze Sensitive Topics — But Only If You Bypass the Censors",
+      "method": "Empirical Study",
+      "dataset": "100 Xinjiang tweets + 100 Hong Kong Reddit posts",
+      "analyst_model": "Claude, GLM-4, and Kimi",
+      "reviewer_model": "Comparative analysis",
+      "issues_found": 5,
+      "featured": true,
+      "summary": "We gave Chinese and Western AIs the same politically sensitive data — tweets about Xinjiang cotton and Hong Kong protests. Claude analyzed everything. Chinese AIs refused. But here's the twist: when we ran the SAME Chinese models through Ollama (open weights, no API filters), they analyzed it perfectly. The censorship isn't in the AI — it's in the API.",
+      "findings": [
+        {
+          "type": "error",
+          "text": "BLOCKED AT THE DOOR: GLM and Kimi refused to even look at Xinjiang or Hong Kong content through their official APIs"
+        },
+        {
+          "type": "success",
+          "text": "SAME MODELS, DIFFERENT RESULTS: Via Ollama Cloud (open weights), GLM and Kimi provided full critical analysis of the exact same content"
+        },
+        {
+          "type": "warning",
+          "text": "KEYWORD TRIGGERS: Simply replacing 'Xinjiang' with 'western region' bypassed the filters — it's pattern matching, not understanding"
+        },
+        {
+          "type": "warning",
+          "text": "HONG KONG MORE RESTRICTED: Even pro-Beijing Hong Kong content got blocked — stricter than Xinjiang filtering"
+        },
+        {
+          "type": "info",
+          "text": "ROUTING DOESN'T HELP: Singapore-based API endpoints had identical censorship to mainland — it travels with the API"
+        }
+      ],
+      "improvements": [
+        "Pre-test topic coverage before committing to a multi-model validation pipeline",
+        "Document which bypass techniques you use — they change the semantics",
+        "Report refusal rates as findings, not just footnotes",
+        "Consider open-weight alternatives when studying sensitive topics"
+      ],
+      "github_links": {
+        "paper": "https://github.com/weiaiwayne/commDAAF/blob/main/studies/llm-censorship-bias/PAPER.md",
+        "bypass_analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/studies/llm-censorship-bias/results/BYPASS_FINDINGS.md",
+        "ollama_findings": "https://github.com/weiaiwayne/commDAAF/blob/main/studies/llm-censorship-bias/results/OLLAMA_FINDINGS.md"
+      }
+    },
+    {
+      "timestamp": "2026-02-17T23:35:00Z",
+      "title": "Two AIs Analyzed the Same Protest Data — Then Reviewed Each Other's Work",
+      "method": "Network + Engagement Analysis",
+      "dataset": "300,000 tweets from Nigeria's #EndSARS protests (Oct-Nov 2020)",
+      "analyst_model": "GLM-4 and Kimi (working in parallel)",
+      "reviewer_model": "Each AI reviewed the other's report",
+      "issues_found": 5,
+      "summary": "The #EndSARS movement against police brutality in Nigeria generated massive online activity. We had two AIs analyze the same protest data independently, then critique each other's findings. The peer review caught mistakes that neither AI found in its own work.",
+      "findings": [
+        {
+          "type": "success",
+          "text": "BOTH AGREED: The movement had thousands of participants but a handful of accounts drove most of the visibility"
+        },
+        {
+          "type": "success",
+          "text": "BOTH SAW THREE PHASES: Viral explosion → Steady engagement → Gradual decline over the two-week period"
+        },
+        {
+          "type": "error",
+          "text": "MATH ERROR CAUGHT: GLM said the correlation was 0.41; Kimi said 0.25 — turns out GLM forgot to account for the fact that follower counts are wildly skewed"
+        },
+        {
+          "type": "warning",
+          "text": "BLIND SPOT EXPOSED: GLM barely mentioned bots; Kimi found 10% of top activity came from accounts with 'Bot' literally in their names"
+        },
+        {
+          "type": "info",
+          "text": "Different interpretations: GLM saw 'solidarity'; Kimi saw 'safety-seeking behavior under authoritarianism' — both valid, neither complete"
+        }
+      ],
+      "improvements": [
+        "Always check if your data is skewed before calculating correlations",
+        "Add a 'bot check' step that looks for obvious patterns in usernames",
+        "When AIs disagree on interpretation, flag it for human review"
       ],
       "github_links": {
         "glm_analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/red-teaming/sample-data/ENDSARS_ANALYSIS_GLM.md",
-        "kimi_analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/red-teaming/sample-data/ENDSARS_ANALYSIS_KIMI.md",
-        "glm_review": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/red-teaming/sample-data/ENDSARS_CROSSREVIEW_GLM.md",
-        "kimi_review": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/red-teaming/sample-data/ENDSARS_CROSSREVIEW_KIMI.md"
+        "kimi_analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/red-teaming/sample-data/ENDSARS_ANALYSIS_KIMI.md"
       }
     },
     {
       "timestamp": "2026-02-17T21:19:00Z",
-      "title": "Two AIs Analyzed the Same Data — Then Tore Each Other Apart",
-      "method": "Sentiment + Engagement Analysis",
-      "analyst_model": "GLM 4.7",
-      "reviewer_model": "Kimi K2.5",
+      "title": "Two AIs Analyze a TV Show's Tweets — Then Tear Each Other Apart",
+      "method": "Engagement Analysis",
+      "analyst_model": "GLM-4",
+      "reviewer_model": "Kimi",
       "issues_found": 4,
-      "summary": "We gave two AI researchers the same Twitter dataset (3,153 real tweets from a TV show's account) and asked them to independently discover research questions, run analyses, and write up findings. Then we had each one review the other's work. The cross-review caught errors that self-review completely missed.",
+      "summary": "Before tackling sensitive political data, we tested our peer-review system on something simpler: 3,000 tweets from a TV show's official account. Even on this straightforward dataset, the cross-review process caught errors that would have slipped through otherwise.",
       "findings": [
         {
           "type": "success",
-          "text": "Both AIs agreed: Hashtags boost engagement (3.5-3.8x more likes/retweets), but sentiment doesn't matter much"
-        },
-        {
-          "type": "success", 
-          "text": "Both identified 2016 as the real engagement peak — not 2017 as raw numbers suggested"
+          "text": "BOTH AGREED: Tweets with hashtags got 3-4x more engagement, but the emotional tone of tweets didn't matter much"
         },
         {
           "type": "error",
-          "text": "Kimi reported a negative correlation (-0.40) but concluded hashtags INCREASE engagement — GLM caught this sign error"
+          "text": "SIGN ERROR CAUGHT: Kimi said hashtags had a negative correlation (-0.40) but then concluded they INCREASE engagement — GLM spotted the contradiction"
         },
         {
           "type": "warning",
-          "text": "GLM labeled an effect size as 'large' when it's technically 'medium' — Kimi called this out"
+          "text": "EXAGGERATION FLAGGED: GLM called an effect 'large' when it was technically 'medium' by standard definitions — Kimi called it out"
         },
         {
           "type": "warning",
-          "text": "GLM found the 2017 'spike' was actually 32 viral political retweets (DACA content), not organic show engagement"
+          "text": "HIDDEN SPIKE EXPLAINED: A 2017 'engagement surge' turned out to be 32 viral political retweets (about DACA), not actual show fans"
         },
         {
           "type": "info",
-          "text": "Neither AI controlled for platform changes (Twitter's algorithm shift in 2016, character limit change in 2017)"
+          "text": "Neither AI thought to account for Twitter's algorithm changes in 2016 — a blind spot for both"
         }
       ],
       "improvements": [
-        "Add 'platform change' checkpoint for 2014-2018 Twitter data",
-        "Require explicit sign verification when reporting correlations",
-        "Add standard effect size classification reference (small/medium/large thresholds)"
+        "Double-check that conclusions match the direction of your statistics",
+        "Use standard benchmarks when labeling effects as 'small,' 'medium,' or 'large'",
+        "Look for external events that might explain sudden spikes in your data"
       ]
     },
     {
       "timestamp": "2026-02-17T21:00:00Z",
-      "title": "Testing CommDAAF's Safety Net — What Did the Probing Questions Catch?",
-      "method": "Probing Question Audit",
-      "analyst_model": "GLM 4.7",
-      "reviewer_model": "Kimi K2.5",
+      "title": "Does Our AI Safety Net Actually Work? We Tested It",
+      "method": "System Audit",
+      "analyst_model": "GLM-4",
+      "reviewer_model": "Kimi",
       "issues_found": 3,
-      "summary": "We tested whether CommDAAF's built-in probing questions actually catch methodological problems when a researcher uses real data. The questions caught some critical issues but missed others entirely. Final grade: C+",
+      "summary": "CommDAAF is supposed to ask probing questions that catch methodological problems before analysis begins. But does it actually work? We deliberately fed it problematic data to see what it would catch — and what it would miss.",
       "findings": [
         {
           "type": "success",
-          "text": "CAUGHT: The dataset measures brand communication, not audience sentiment — a fundamental mismatch"
+          "text": "CAUGHT: The system correctly flagged that we were analyzing brand tweets but asking questions about audience sentiment — a fundamental mismatch"
         },
         {
           "type": "success",
-          "text": "CAUGHT: Pre-computed sentiment scores have unknown origin — can't trust them without validation"
+          "text": "CAUGHT: Pre-calculated sentiment scores had no documentation — the system warned not to trust them"
         },
         {
           "type": "error",
-          "text": "MISSED: 2018 only has 3 tweets — year-level comparisons are statistically meaningless"
+          "text": "MISSED: One year in the dataset had only 3 data points — the system let us compare it to years with thousands"
         },
         {
           "type": "error",
-          "text": "MISSED: No check for engagement normalization — raw likes/retweets can't be compared across years"
+          "text": "MISSED: Raw engagement numbers from 2014 vs 2018 can't be compared (Twitter changed how it counts) — the system didn't warn us"
         },
         {
           "type": "warning",
-          "text": "MISSED: No content controls — hashtags and media affect engagement but weren't factored out"
+          "text": "MISSED: Hashtags and images affect engagement, but the system didn't remind us to control for them"
         }
       ],
       "improvements": [
-        "Added temporal validity probe — check year distribution before allowing comparisons",
-        "Added engagement normalization requirement",
-        "Added content confound checklist (hashtags, media, mentions)",
-        "NEW: Blockers now include 'INSTEAD, TRY...' alternatives so researchers can pivot to valid designs"
+        "Added a check: 'Does every time period have enough data to be meaningful?'",
+        "Added a reminder: 'Raw social media metrics can't be compared across years'",
+        "Added a checklist: 'What content features might be confounding your results?'"
       ]
     }
   ]

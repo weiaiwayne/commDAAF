@@ -146,6 +146,33 @@ Trigger with: "peer review", "critique my paper", "multi-model analysis"
 
 ---
 
+## CommDAAF Cross-Agent Research (Feb 2026)
+
+### Experiment Summary
+First full autonomous research workflow: GLM-4.7 and Kimi K2.5 independently analyzed 3,153 tweets (@EastLosHighShow, 2014-2018), then cross-reviewed each other.
+
+### Key Findings
+- **Hashtags strongest predictor**: 3.5-3.8x engagement, δ=0.40 (medium effect)
+- **Sentiment NOT predictive**: ρ = -0.03 to -0.08 (contradicts common assumptions)
+- **2016 organic peak**: Real engagement growth before platform algorithm changes
+- **2017 DACA anomaly**: Political content spike, not organic growth
+
+### Methodological Lessons
+- Effect sizes need proper classification (Cohen 1988 benchmarks)
+- Multiple comparisons require correction (Bonferroni)
+- Post-hoc categorizations should be flagged
+- 4+ year datasets need temporal periodization
+
+### CommDAAF Audit Grade: C+
+Good on conceptual validity; missed temporal skew, engagement normalization, content controls.
+
+### Files
+- `projects/comm-research-skill/ANALYSIS_RESULTS.md` (GLM)
+- `projects/comm-research-skill/ANALYSIS_RESULTS_KIMI.md` (Kimi)
+- `/tmp/kimi-version/comm-daaf/CRITICAL_PM_REVIEW.md` (cross-review)
+
+---
+
 ## 5 Specialist Agents (Feb 2026)
 
 ### Team

@@ -17,7 +17,42 @@ This system enforces **conscious decision-making** by making defaults dangerous,
 
 ---
 
-## Five Nudge Types
+## Core Rule: Blockers Must Include Alternatives
+
+**Every constraint must offer a pivot.** Don't just say "you can't do X" — help design what you CAN do.
+
+See `workflows/design-alternatives.md` for the full pattern.
+
+---
+
+## Six Nudge Types
+
+### 0️⃣ Design Pivot (NEW)
+
+When a problem is detected, **always offer realistic alternatives**.
+
+**Example: Temporal Imbalance**
+```
+⚠️ PROBLEM: 2018 has only 3 tweets — year-level ANOVA invalid.
+
+📐 INSTEAD, TRY:
+
+1. COLLAPSE TO PERIODS
+   → Pre-finale vs post-finale (binary comparison)
+   
+2. SUBSET TO 2015-2017
+   → Analyze only balanced years
+   
+3. MONTHLY GRANULARITY
+   → 24 months with ~130 tweets each
+   
+4. CONTINUOUS TIME MODEL
+   → Regression with days_since_launch
+
+Which fits your RQ? ___
+```
+
+---
 
 ### 1️⃣ Default Danger Flags
 
