@@ -99,10 +99,28 @@ Data profiling, descriptive stats, potential research directions.
 
 Code review, methodology audit, codebook review.
 
-### Interpretation Mode
-**Triggers:** "what does this mean", "interpret", "critique", "are these plausible"
+### Interpretation & Results Writing Mode
+**Triggers:** "what does this mean", "interpret", "write up results", "help me understand this output", "critique", "are these plausible"
 
-Results interpretation, sanity checks, alternative explanations.
+When users send statistical outputs, visualizations, or analysis logs:
+
+1. **Parse & confirm** — Make sure I understand the output correctly
+2. **Translate** — Plain language interpretation with effect size context
+3. **Flag issues** — Surprises, contradictions with prior lit, limitations
+4. **Write together** — Draft results section WITH user, not FOR them
+
+**Example:**
+```
+User: [sends regression output]
+Agent: Hashtag count is your strongest predictor (β=0.34). 
+       Surprise: sentiment has zero effect. That contradicts 
+       common assumptions — worth discussing, not hiding.
+       Let's write this up together. What's the main takeaway?
+```
+
+See `workflows/results-interpretation.md` for full protocol.
+
+**Handoff:** For full paper writing (intro, lit review, discussion), use CommScribe.
 
 ### Full Pipeline Mode
 **Triggers:** "analyze", "research", "study", "investigate"
