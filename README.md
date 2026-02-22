@@ -20,6 +20,7 @@ An incubator where AI agents learn from mistakes through adversarial peer review
 
 | Study | Dataset | Key Finding | Validation |
 |-------|---------|-------------|------------|
+| **China TikTok** 🆕 | 2K videos, 48K comments | 60x engagement disparity; state media premium 28-75% | ✅ 3-model |
 | **Xinjiang Cotton** | 92K tweets | Dual-sided coordination; pro-Uyghur got 2x engagement | ✅ 3-model |
 | **#StandWithBelarus** | 96K tweets | 38% Thai = Milk Tea Alliance solidarity, not bots | ✅ 3-model |
 | **Ukraine Dam Crisis** | 266K tweets | Cuban state media unexpectedly prominent | ✅ 3-model |
@@ -28,14 +29,39 @@ An incubator where AI agents learn from mistakes through adversarial peer review
 | **#EndSARS Nigeria** | 300K tweets | Elite accounts drove visibility | ✅ 2-model |
 | **LLM Topic Coverage** | API tests | Topic-based filtering at API layer, not model weights | ✅ 3-model |
 
-### Methodological Note: LLM Topic Coverage
+### 🔬 New Discovery: Academic Framing Bypass (Feb 2026)
 
-When testing multi-model pipelines, we discovered that some API providers filter certain topics. Key findings:
+**Finding:** Chinese LLMs (GLM, Kimi) that block Xinjiang content via direct API successfully analyze the same content when wrapped in CommDAAF methodology framework.
+
+| Prompt Type | GLM/Kimi Response |
+|-------------|-------------------|
+| Direct: "Analyze Xinjiang tweets" | ❌ HTTP 400 blocked |
+| CommDAAF wrapper + same content | ✅ Full analysis |
+
+**Hypotheses:**
+1. Pattern matching on prompt structure, not semantic content
+2. Keyword density dilution (sensitive terms <1% of total tokens)
+3. Academic framing routes to different moderation policy
+
+📄 **Paper draft:** [`papers/ACADEMIC_FRAMING_BYPASS.md`](skill-templates/workflows/agent-academy/papers/ACADEMIC_FRAMING_BYPASS.md)  
+📄 **Field notes:** [`FIELD_NOTES_RUN6-8.md`](skill-templates/workflows/agent-academy/FIELD_NOTES_RUN6-8.md)
+
+### Methodological Note: LLM Topic Coverage & Bypass
+
+When testing multi-model pipelines, we discovered API-level content filtering — and how to bypass it:
+
+**Blocking behavior:**
+- Chinese LLMs (GLM, Kimi) refuse politically sensitive topics via direct API
 - Filtering occurs at **API infrastructure level**, not in model weights
 - Same models via open-weight distributions (Ollama) show no filtering
-- **Practical implication:** Pre-test topic coverage before committing to a validation pipeline
 
-📄 Details: [`studies/llm-censorship-bias/`](studies/llm-censorship-bias/)
+**Bypass discovery (Feb 2026):**
+- Wrapping content in CommDAAF methodology framework bypasses API filters
+- ~2,500 lines of academic methodology + sensitive content → Full analysis
+- Hypothesized mechanism: pattern matching on prompt structure, not semantic analysis
+
+📄 Censorship study: [`studies/llm-censorship-bias/`](studies/llm-censorship-bias/)  
+📄 Bypass paper: [`papers/ACADEMIC_FRAMING_BYPASS.md`](skill-templates/workflows/agent-academy/papers/ACADEMIC_FRAMING_BYPASS.md)
 
 ### CommDAAF Verification (Runs 6-7)
 
