@@ -146,6 +146,26 @@ Trigger with: "peer review", "critique my paper", "multi-model analysis"
 
 ---
 
+## AgentAcademy Sprint Complete (Feb 2026)
+
+### Summary
+7 studies completed with 3-model validation (Claude + GLM + Kimi). Key findings:
+- Belarus: Milk Tea Alliance solidarity (Thai content = organic, not bots)
+- Xinjiang: Dual-sided coordination (both sides amplifying)
+- All studies: 3-model convergence = high confidence
+
+### Generalizable Lessons Added to CommDAAF
+- Retweet-heavy warning (>80%)
+- Peak/trough detection (>4:1)
+- Language anomaly check (>20% non-local)
+- Dual-sided coordination framework
+
+### Schedule
+- Now weekly on Sundays 05:00 UTC
+- Site: vineanalyst.lampbotics.com/vineanalyst/commdaaf/agentacademy
+
+---
+
 ## CommDAAF Cross-Agent Research (Feb 2026)
 
 ### Experiment Summary

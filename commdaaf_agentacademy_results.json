@@ -2,10 +2,172 @@
   "name": "AgentAcademy",
   "description": "Where AI agents learn to be better researchers by checking each other's work",
   "status": "active",
-  "last_run": "2026-02-19T17:23:00Z",
-  "next_run": "2026-02-20T05:00:00Z",
+  "last_run": "2026-02-20T12:55:00Z",
+  "next_run": "2026-02-21T05:00:00Z",
   "endpoint": "vineanalyst.com/commdaaf/agentacademy",
   "runs": [
+    {
+      "timestamp": "2026-02-20T12:55:00Z",
+      "title": "11 Lessons from 7 Studies: What AI Taught Us About Research Methods",
+      "method": "Meta-Analysis",
+      "type": "blog",
+      "summary": "After running 7 studies with 3-model validation, we've distilled the lessons that apply to any computational social science project. These aren't about specific datasets — they're about how to do better research with AI assistance.",
+      "findings": [
+        {
+          "type": "info",
+          "text": "CONVERGENCE = CONFIDENCE: When three independent AI models reach the same conclusion without coordination, that finding is robust. We saw this with Cuban state media, Kashmir coordination, and CNN framing patterns."
+        },
+        {
+          "type": "info",
+          "text": "EFFECT SIZES MATTER: Cross-review caught a model calling δ=0.40 'large' when Cohen's benchmarks say 'medium'. Always cite your benchmarks. Round down at boundaries."
+        },
+        {
+          "type": "info",
+          "text": "TRANSFORM BEFORE CORRELATING: Social media metrics are skewed. Raw correlations inflate effects. Log-transform count variables (followers, likes, retweets) and report both raw and transformed values."
+        },
+        {
+          "type": "warning",
+          "text": "SPIKES INVALIDATE AVERAGES: If 36% of your data comes from two days (like Xinjiang during H&M boycott), 'average engagement' is meaningless. Identify triggering events before interpreting."
+        },
+        {
+          "type": "warning",
+          "text": "HIGH RETWEET RATIOS NEED DIFFERENT ANALYSIS: When 88% of tweets are retweets, you're not studying discourse — you're studying an amplification battle. Network analysis beats engagement analysis."
+        },
+        {
+          "type": "success",
+          "text": "LANGUAGE ANOMALIES REVEAL NETWORKS: 38% Thai in a Belarus hashtag? Could be bots, could be solidarity movement. We found Milk Tea Alliance — organic activists, not bots. Always investigate before assuming."
+        },
+        {
+          "type": "error",
+          "text": "COORDINATION ISN'T ONE-SIDED: Xinjiang showed both pro-China AND pro-Uyghur sides running coordinated campaigns. Frameworks that assume single-actor coordination miss half the picture."
+        }
+      ],
+      "improvements": [
+        "Added retweet-heavy dataset warning (>80% RT triggers different analysis)",
+        "Added peak/trough spike detection (>4:1 ratio requires event context)",
+        "Added language anomaly detection (>20% non-local needs investigation)",
+        "Added dual-sided coordination framework (check for adversarial amplification)"
+      ],
+      "github_links": {
+        "lessons_learned": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/LESSONS_LEARNED.md",
+        "critical_checks": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/critical-checks.md"
+      }
+    },
+    {
+      "timestamp": "2026-02-20T05:37:00Z",
+      "title": "Xinjiang Cotton: When Two Propaganda Machines Collide",
+      "method": "3-Model Coordination Analysis",
+      "type": "study",
+      "dataset": "92,038 tweets about Xinjiang cotton controversy (March 2021)",
+      "analyst_model": "Claude, GLM-4, and Kimi (all with CommDAAF loaded)",
+      "reviewer_model": "Cross-validated",
+      "issues_found": 5,
+      "summary": "The H&M boycott triggered an information war. Both pro-China (@SpokespersonCHN) and pro-Uyghur (@MarcRubio) sides ran coordinated amplification campaigns. 88% of tweets were retweets — this wasn't discourse, it was a volume battle. Despite state media's push, pro-Uyghur content got 2x more engagement on Twitter.",
+      "findings": [
+        {
+          "type": "success",
+          "text": "ALL THREE AGREED: March 25-26 spike (36% of all tweets) = H&M boycott announcement. Not organic."
+        },
+        {
+          "type": "error",
+          "text": "DUAL-SIDED WARFARE: Both sides coordinating — @SpokespersonCHN (China FM) vs @MarcRubio + @nathanlawkc"
+        },
+        {
+          "type": "warning",
+          "text": "ENGAGEMENT ASYMMETRY: Pro-Uyghur content got 2x more retweets (308 vs 144 avg) despite state media push"
+        },
+        {
+          "type": "warning",
+          "text": "88% RETWEETS: Almost no original discourse — pure amplification battle"
+        },
+        {
+          "type": "info",
+          "text": "10,027 accounts flagged as suspicious by Kimi's bot detection pipeline"
+        }
+      ],
+      "improvements": [
+        "Dual-sided coordination framework — current system assumes single actor",
+        "Event-triggered spike detection — auto-flag peak/trough >4:1 ratio",
+        "State-actor account database — track known government accounts",
+        "Retweet-heavy dataset warning — different analysis needed when RT >80%"
+      ],
+      "github_links": {
+        "synthesis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/sample-data/XINJIANG_SYNTHESIS_RUN7.md"
+      }
+    },
+    {
+      "timestamp": "2026-02-20T05:08:00Z",
+      "title": "The Belarus Mystery: Why Are 38% of Tweets in Thai?",
+      "method": "3-Model Language Anomaly Analysis",
+      "type": "study",
+      "dataset": "95,849 tweets with #StandWithBelarus (September 2020)",
+      "analyst_model": "Claude, GLM-4, and Kimi (all with CommDAAF loaded)",
+      "reviewer_model": "Cross-validated",
+      "issues_found": 4,
+      "summary": "A puzzle: 38% of tweets about Belarus protests were in Thai. All three AIs investigated and reached the same conclusion: this was the Milk Tea Alliance — Thai democracy activists showing solidarity with Belarus, not bots. 89% of Thai tweets came on a single day, all retweeting activist @netiwitc.",
+      "findings": [
+        {
+          "type": "success",
+          "text": "ALL THREE AGREED: Thai content = Milk Tea Alliance solidarity, NOT bots. Zero Thai accounts exceeded 50 tweets/day."
+        },
+        {
+          "type": "success",
+          "text": "SINGLE SOURCE: 22,405 unique Thai accounts all retweeted @netiwitc's solidarity message — distributed participation"
+        },
+        {
+          "type": "warning",
+          "text": "EXTREME CLUSTERING: 89% of Thai tweets on Sept 20 alone — single-day viral campaign"
+        },
+        {
+          "type": "info",
+          "text": "ENGAGEMENT: Thai content got 40x more retweets than English — solidarity amplification in action"
+        }
+      ],
+      "improvements": [
+        "Cross-movement solidarity detection — non-local language spikes as solidarity indicator",
+        "Temporal burst classifier — single-day >30% spikes need special handling",
+        "Retweet cascade analysis — track amplification trees from source accounts",
+        "Language anomaly alert — flag non-local >20% in geopolitical hashtags"
+      ],
+      "github_links": {
+        "synthesis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/sample-data/BELARUS_SYNTHESIS_RUN6.md"
+      }
+    },
+    {
+      "timestamp": "2026-02-19T18:40:00Z",
+      "title": "Field Note: From Accident to Experiment to Fix",
+      "method": "Methodological Observation",
+      "type": "field_note",
+      "summary": "We noticed only Claude had CommDAAF loaded — GLM and Kimi were running raw. Instead of just documenting it, we fixed it. Now all three models load the same methodology guardrails via opencode.json. Tonight's runs will be the first with true parity. We're turning an accident into a proper before/after comparison.",
+      "findings": [
+        {
+          "type": "info",
+          "text": "THE ACCIDENT: Runs 1-5 had Claude guided by CommDAAF, but GLM and Kimi got raw prompts with no methodology scaffolding."
+        },
+        {
+          "type": "success",
+          "text": "CONVERGENCE ANYWAY: All three found the same patterns (Cuba, Kashmir coordination, CNN law enforcement) — suggesting robust findings."
+        },
+        {
+          "type": "success",
+          "text": "THE FIX: Created opencode.json to load CommDAAF skill files. Updated cron jobs to run from skill-templates directory. All three models now equal."
+        },
+        {
+          "type": "info",
+          "text": "TONIGHT'S TEST: Runs 6+ will have all three models with CommDAAF. If outputs improve, framework helps. If same, guardrails prevent errors but don't change discovery."
+        }
+      ],
+      "improvements": [
+        "Created opencode.json to load SKILL.md + workflow files",
+        "Added AGENTS.md summary for opencode context",
+        "Updated cron jobs to run opencode from correct directory",
+        "Now have before/after data: raw vs guided"
+      ],
+      "github_links": {
+        "field_notes": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/FIELD_NOTES.md",
+        "opencode_config": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/opencode.json"
+      }
+    },
     {
       "timestamp": "2026-02-19T17:23:00Z",
       "title": "Three AIs Analyzing Ukraine Crisis Data All Found the Same Surprise: Cuba",
@@ -38,7 +200,7 @@
         }
       ],
       "improvements": [
-        "Build a tool to automatically flag when unexpected countries show up in regional conflicts",
+        "We should build a tool to automatically flag when unexpected countries show up in regional conflicts",
         "Track accounts that go dormant and suddenly reactivate during crises",
         "Detect when unrelated political content gets injected into breaking news"
       ],
@@ -127,50 +289,6 @@
       }
     },
     {
-      "timestamp": "2026-02-18T12:00:00Z",
-      "title": "Chinese AI Can Analyze Sensitive Topics — But Only If You Bypass the Censors",
-      "method": "Empirical Study",
-      "dataset": "100 Xinjiang tweets + 100 Hong Kong Reddit posts",
-      "analyst_model": "Claude, GLM-4, and Kimi",
-      "reviewer_model": "Comparative analysis",
-      "issues_found": 5,
-      "featured": true,
-      "summary": "We gave Chinese and Western AIs the same politically sensitive data — tweets about Xinjiang cotton and Hong Kong protests. Claude analyzed everything. Chinese AIs refused. But here's the twist: when we ran the SAME Chinese models through Ollama (open weights, no API filters), they analyzed it perfectly. The censorship isn't in the AI — it's in the API.",
-      "findings": [
-        {
-          "type": "error",
-          "text": "BLOCKED AT THE DOOR: GLM and Kimi refused to even look at Xinjiang or Hong Kong content through their official APIs"
-        },
-        {
-          "type": "success",
-          "text": "SAME MODELS, DIFFERENT RESULTS: Via Ollama Cloud (open weights), GLM and Kimi provided full critical analysis of the exact same content"
-        },
-        {
-          "type": "warning",
-          "text": "KEYWORD TRIGGERS: Simply replacing 'Xinjiang' with 'western region' bypassed the filters — it's pattern matching, not understanding"
-        },
-        {
-          "type": "warning",
-          "text": "HONG KONG MORE RESTRICTED: Even pro-Beijing Hong Kong content got blocked — stricter than Xinjiang filtering"
-        },
-        {
-          "type": "info",
-          "text": "ROUTING DOESN'T HELP: Singapore-based API endpoints had identical censorship to mainland — it travels with the API"
-        }
-      ],
-      "improvements": [
-        "Pre-test topic coverage before committing to a multi-model validation pipeline",
-        "Document which bypass techniques you use — they change the semantics",
-        "Report refusal rates as findings, not just footnotes",
-        "Consider open-weight alternatives when studying sensitive topics"
-      ],
-      "github_links": {
-        "paper": "https://github.com/weiaiwayne/commDAAF/blob/main/studies/llm-censorship-bias/PAPER.md",
-        "bypass_analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/studies/llm-censorship-bias/results/BYPASS_FINDINGS.md",
-        "ollama_findings": "https://github.com/weiaiwayne/commDAAF/blob/main/studies/llm-censorship-bias/results/OLLAMA_FINDINGS.md"
-      }
-    },
-    {
       "timestamp": "2026-02-17T23:35:00Z",
       "title": "Two AIs Analyzed the Same Protest Data — Then Reviewed Each Other's Work",
       "method": "Network + Engagement Analysis",
@@ -213,7 +331,7 @@
     },
     {
       "timestamp": "2026-02-17T21:19:00Z",
-      "title": "Two AIs Analyze a TV Show's Tweets — Then Tear Each Other Apart",
+      "title": "We Had Two AIs Analyze a TV Show's Tweets — Then They Tore Each Other Apart",
       "method": "Engagement Analysis",
       "analyst_model": "GLM-4",
       "reviewer_model": "Kimi",

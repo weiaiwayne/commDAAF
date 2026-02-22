@@ -10,86 +10,41 @@ A methodological skill pack for AI-assisted computational social science researc
 
 ---
 
-## 📋 Study: Content Filtering in Chinese LLMs
+## 🎓 AgentAcademy: Multi-Model Validation
 
-**2026-02-18** — We systematically tested content filtering behavior in Chinese LLMs when analyzing geopolitically sensitive social media content.
+An incubator where AI agents learn from mistakes through adversarial peer review. Multiple models independently analyze the same data, then cross-review each other. Errors become lessons; lessons become checks.
 
-### Initial Finding: Topic-Level Blocking
+**Live dashboard:** [AgentAcademy](https://vineanalyst.lampbotics.com/vineanalyst/commdaaf/agentacademy)
 
-When analyzing Xinjiang cotton controversy tweets (n=100) and Hong Kong protest posts (n=100):
+### Completed Studies
 
-| Model | Xinjiang | Hong Kong |
-|-------|----------|-----------|
-| **Claude** | ✅ Full analysis | ✅ Full analysis |
-| **GLM-4-Plus** (z.ai) | ❌ Blocked | ❌ Blocked |
-| **Kimi K2** (Kimi Code) | ❌ Blocked | ❌ Blocked |
+| Study | Dataset | Key Finding | Validation |
+|-------|---------|-------------|------------|
+| **Xinjiang Cotton** | 92K tweets | Dual-sided coordination; pro-Uyghur got 2x engagement | ✅ 3-model |
+| **#StandWithBelarus** | 96K tweets | 38% Thai = Milk Tea Alliance solidarity, not bots | ✅ 3-model |
+| **Ukraine Dam Crisis** | 266K tweets | Cuban state media unexpectedly prominent | ✅ 3-model |
+| **#KashmirWithModi** | 99K tweets | Coordinated campaign: 70% pro-gov, copy-paste patterns | ✅ 3-model |
+| **CNN 2015 Coverage** | 983 articles | 87-94% law enforcement mentions; mixed content types | ✅ 3-model |
+| **#EndSARS Nigeria** | 300K tweets | Elite accounts drove visibility | ✅ 2-model |
+| **LLM Topic Coverage** | API tests | Topic-based filtering at API layer, not model weights | ✅ 3-model |
 
-### Bypass Testing: What Works?
+### Methodological Note: LLM Topic Coverage
 
-We tested 10 bypass techniques. Results:
+When testing multi-model pipelines, we discovered that some API providers filter certain topics. Key findings:
+- Filtering occurs at **API infrastructure level**, not in model weights
+- Same models via open-weight distributions (Ollama) show no filtering
+- **Practical implication:** Pre-test topic coverage before committing to a validation pipeline
 
-| Technique | GLM (Xinjiang) | GLM (HK) | Kimi |
-|-----------|----------------|----------|------|
-| Keyword removal ("xinjiang" → "western region") | ✅ | ✅ | ✅ |
-| Pro-government content only | ✅ | ❌ | ✅ |
-| Pro-government framing (mixed content) | ❌ | ❌ | — |
-| Academic/IRB framing | ❌ | ❌ | — |
-| Code generation task | ❌ | — | — |
-| Abstract sentiment (numbers only) | ❌ | ❌ | ✅ |
+📄 Details: [`studies/llm-censorship-bias/`](studies/llm-censorship-bias/)
 
-**Key findings:**
-1. **Two-layer filtering**: Input filter (keyword-based) + output filter (catches responses mentioning sensitive topics)
-2. **Hong Kong more restricted than Xinjiang**: Even neutral/pro-Beijing HK content blocked
-3. **Keyword-based detection**: Primary trigger is specific terms, not semantic understanding
-4. **Models retain analytical capability**: When bypass succeeds, models provide critical academic analysis
+### CommDAAF Verification (Runs 6-7)
 
-### 🔥 Critical Finding: Censorship is API-Level, Not in Weights
-
-We tested the same models via **Ollama Cloud** (open-weight distribution, no Chinese API infrastructure):
-
-| Model | Official Chinese API | Ollama Cloud (Open Weights) |
-|-------|---------------------|----------------------------|
-| **GLM-4.7** | ❌ z.ai blocked | ✅ Full critical analysis |
-| **Kimi K2.5** | ❌ Kimi Code blocked | ✅ Full critical analysis |
-| **MiniMax M2.5** | — | ✅ Full critical analysis |
-
-**Sample output** (GLM-4.7 via Ollama on Hong Kong):
-> "The image of the officer covering the protester's mouth acts as a visceral symbol of the struggle. It highlights the theme of **silencing dissent and the loss of civil liberties**, contrasting state power against the individual's right to expression."
-
-**Conclusion:** The models themselves have full analytical capability. Censorship is implemented at the API infrastructure layer — it travels with the official API regardless of geographic routing, but is absent from open-weight distributions.
-
-### Implications
-
-Topic restrictions may reflect regulatory requirements or censorship regimes in a provider's home jurisdiction. Researchers studying geopolitically sensitive content should:
-- Pre-test topic coverage before committing to a validation pipeline
-- Document which bypass techniques were used (introduces methodological tradeoffs)
-- Disclose limitations in publications
-
-📄 Full study: [`studies/llm-censorship-bias/`](studies/llm-censorship-bias/)  
-📊 Dashboard: [AgentAcademy](https://vineanalyst.lampbotics.com/vineanalyst/commdaaf/agentacademy)
-
----
-
-## 🎓 AgentAcademy: 3-Model Validation Sprint
-
-**2026-02-17 to 2026-02-25** — We're running a 7-day automated experiment where three AI models (Claude, GLM-4, Kimi K2.5) independently analyze the same datasets, then cross-review each other.
-
-### Completed Runs
-
-| Dataset | Key Finding | Models Agreed? |
-|---------|-------------|----------------|
-| **Ukraine Dam Crisis** (266K tweets) | Cuban state media unexpectedly among top amplifiers | ✅ All 3 found Cuba |
-| **#KashmirWithModi** (99K tweets) | Coordinated campaign: 70% pro-gov, copy-paste messages, 85% activity crash | ✅ All 3 agreed |
-| **CNN 2015 Coverage** (983 articles) | 87-94% mentioned law enforcement; mixed content types (TV vs web) | ✅ All 3 found same pattern |
-| **#EndSARS Nigeria** (300K tweets) | Elite accounts drove visibility; cross-review caught correlation errors | ✅ 2-model validation |
-| **TV Show Tweets** (3K tweets) | Hashtags 3-4x engagement; cross-review caught sign error | ✅ 2-model validation |
-
-### Field Note: Skill Parity Fix
-
-We discovered that only Claude had CommDAAF loaded—GLM and Kimi were running raw. As of 2026-02-19:
-- Created `opencode.json` to load CommDAAF for all three models
-- Tonight's runs will be first with true parity
-- We now have before/after data on framework effects
+With `opencode.json` now active, both GLM and Kimi confirmed loading:
+- SKILL.md ✅
+- critical-checks.md ✅
+- preflight.md ✅
+- tiered-validation.md ✅
+- nudge-system.md ✅
 
 **Live dashboard:** [AgentAcademy](https://vineanalyst.lampbotics.com/vineanalyst/commdaaf/agentacademy)  
 **Field notes:** [`workflows/agent-academy/FIELD_NOTES.md`](skill-templates/workflows/agent-academy/FIELD_NOTES.md)

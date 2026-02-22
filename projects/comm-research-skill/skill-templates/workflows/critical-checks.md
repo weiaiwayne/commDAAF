@@ -526,6 +526,149 @@ universal_check_9:
     3. ___ (controlled? ___)
 ```
 
+### Retweet-Heavy Dataset Warning
+
+```yaml
+universal_check_10a:
+  trigger: social media dataset with retweet data
+  message: |
+    📋 **RETWEET RATIO CHECK**
+    
+    What percentage of your dataset is retweets vs original content?
+    
+    | RT Ratio | Interpretation | Analysis Approach |
+    |----------|----------------|-------------------|
+    | <50% | Normal discourse | Standard analysis OK |
+    | 50-80% | Amplification-heavy | Consider network analysis |
+    | >80% | Amplification battle | Split analysis required |
+    
+    ⚠️ EXAMPLE FROM AGENTACADEMY:
+    Xinjiang Cotton dataset: 88% retweets. This wasn't discourse — 
+    it was competing sides trying to drown each other out.
+    
+    If RT% > 80%:
+    ❌ BLOCKED: Standard engagement analysis (misleading)
+    
+    ✅ INSTEAD, TRY:
+    - Network analysis: who amplifies whom
+    - Separate original content analysis
+    - Frame as "information warfare" not "discourse"
+    - Track amplification cascades
+    
+    Your RT ratio: ___% 
+    Analysis approach: ___
+```
+
+### Peak/Trough Spike Detection
+
+```yaml
+universal_check_10b:
+  trigger: any time-series or temporal analysis
+  message: |
+    📋 **PEAK/TROUGH RATIO CHECK**
+    
+    Calculate: (highest period volume) / (lowest period volume)
+    
+    | Ratio | Interpretation |
+    |-------|----------------|
+    | <2:1 | Relatively stable |
+    | 2-4:1 | Some clustering |
+    | >4:1 | Event-driven dataset |
+    
+    ⚠️ EXAMPLE FROM AGENTACADEMY:
+    Xinjiang: Peak/trough ratio 13.8:1
+    March 25-26 = 36% of all tweets (H&M boycott trigger)
+    
+    If ratio > 4:1:
+    ⚠️ WARNING: This is event-driven data, not organic baseline
+    
+    REQUIRED:
+    1. Identify the triggering event for each spike
+    2. Analyze spike and non-spike periods separately
+    3. Do NOT report "average" metrics (meaningless)
+    4. Document external event timeline
+    
+    Your peak/trough ratio: ___
+    Triggering event identified: ___
+```
+
+### Language Anomaly Detection
+
+```yaml
+universal_check_10c:
+  trigger: multilingual dataset or hashtag analysis
+  message: |
+    📋 **LANGUAGE DISTRIBUTION CHECK**
+    
+    What languages appear in your dataset?
+    
+    | Language | % of Dataset |
+    |----------|--------------|
+    | ___      | ___          |
+    
+    ⚠️ FLAG: Non-local language exceeds 20%
+    
+    EXAMPLE FROM AGENTACADEMY:
+    #StandWithBelarus: 38% Thai content
+    Initial assumption: bots
+    Actual finding: Milk Tea Alliance solidarity
+    
+    Non-local language could indicate:
+    - Diaspora communities (organic)
+    - Solidarity movements (organic coordination)
+    - Bot networks (inauthentic)
+    - State-sponsored amplification (inauthentic)
+    
+    All show SIMILAR statistical signatures.
+    Context determines interpretation.
+    
+    REQUIRED:
+    1. Identify top accounts in non-local language
+    2. Check if single source or distributed
+    3. Look for known activists/state actors
+    4. Don't assume "bots" without evidence
+    
+    Non-local language %: ___
+    Source accounts identified: ___
+    Interpretation: ___
+```
+
+### Dual-Sided Coordination Check
+
+```yaml
+universal_check_10d:
+  trigger: coordination detection or campaign analysis
+  message: |
+    📋 **DUAL-SIDED COORDINATION CHECK**
+    
+    Are you assuming coordination comes from ONE side?
+    
+    ⚠️ ADVERSARIAL AMPLIFICATION EXISTS
+    
+    EXAMPLE FROM AGENTACADEMY:
+    Xinjiang Cotton: BOTH sides coordinating
+    - Pro-China: @SpokespersonCHN, @zlj517
+    - Pro-Uyghur: @MarcRubio, @nathanlawkc
+    Both had high RT ratios, different peak hours.
+    
+    Signs of dual-sided coordination:
+    - Two dominant narrative frames
+    - Both show high retweet ratios
+    - Different peak hours (timezone signatures)
+    - Engagement asymmetry between sides
+    - Clear "sides" in reply networks
+    
+    REQUIRED:
+    1. Check for multiple coordinating groups
+    2. Compare peak hours (timezone analysis)
+    3. Measure engagement per side
+    4. Don't assume single actor
+    
+    Multiple coordinating groups found: (yes/no)
+    Sides identified: ___
+    Engagement asymmetry: ___
+```
+
 ### Multiple Testing Awareness
 
 ```yaml
