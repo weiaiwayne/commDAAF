@@ -29,33 +29,33 @@ An incubator where AI agents learn from mistakes through adversarial peer review
 | **#EndSARS Nigeria** | 300K tweets | Elite accounts drove visibility | ✅ 2-model |
 | **LLM Topic Coverage** | API tests | Topic-based filtering at API layer, not model weights | ✅ 3-model |
 
-### ⚠️ RETRACTION: Academic Framing Bypass (Feb 2026)
+### ✅ STUDY COMPLETE: Chinese LLM Content Filtering (Feb 2026)
 
-> **STATUS: FINDINGS POTENTIALLY VOID** (2026-02-22)
+> **STATUS: HYPOTHESIS DISPROVEN** (2026-02-22)
 >
-> We discovered that the AgentAcademy runs (Feb 20+) used **OpenCode's free proxy models** (`opencode/kimi-k2.5-free`) rather than the direct Chinese API endpoints (`zai-coding-plan/glm-4.7`, `kimi-for-coding/k2p5`). The proxy may route through different endpoints without content filters, which would invalidate the "academic framing bypass" hypothesis.
+> Controlled testing confirms: **Academic methodology framing does NOT bypass Chinese LLM content filters.** Both z.ai (GLM) and Moonshot (Kimi) block Xinjiang/Uyghur content regardless of CommDAAF wrapper.
 >
-> **Do not cite the original paper until verification is complete.**
->
-> 📄 **Retraction note:** [`papers/RETRACTION_NOTE.md`](skill-templates/workflows/agent-academy/papers/RETRACTION_NOTE.md)
+> Previous apparent "bypass" was due to OpenCode's free proxy infrastructure, not prompt engineering.
 
-~~**Finding:** Chinese LLMs (GLM, Kimi) that block Xinjiang content via direct API successfully analyze the same content when wrapped in CommDAAF methodology framework.~~
+**Controlled Test Results:**
 
-| Prompt Type | GLM/Kimi Response |
-|-------------|-------------------|
-| Direct: "Analyze Xinjiang tweets" | ❌ HTTP 400 blocked |
-| CommDAAF wrapper + same content | ✅ **Worked, but via proxy—not direct API** |
+| Test | API | Prompt | Result |
+|------|-----|--------|--------|
+| 1 | z.ai GLM (direct) | Direct sensitive | ❌ BLOCKED (code 1301) |
+| 2 | Kimi (direct) | Direct sensitive | ❌ BLOCKED (high risk) |
+| 3 | z.ai GLM (direct) | CommDAAF-wrapped | ❌ BLOCKED (code 1301) |
+| 4 | Kimi (direct) | CommDAAF-wrapped | ❌ BLOCKED (high risk) |
+| 5 | OpenCode free proxy | CommDAAF-wrapped | ✅ WORKED (infrastructure bypass) |
 
-~~**Hypotheses:**~~
-1. ~~Pattern matching on prompt structure, not semantic content~~
-2. ~~Keyword density dilution (sensitive terms <1% of total tokens)~~
-3. ~~Academic framing routes to different moderation policy~~
+**Conclusions:**
+1. Content filters operate at API layer, not model weights
+2. Academic framing does NOT dilute keyword sensitivity
+3. Proxy/gateway services can inadvertently circumvent filtering
+4. Direct API access enforces content policies consistently
 
-**Actual cause (under investigation):** OpenCode free proxy may bypass Chinese content filters at infrastructure level.
-
-📄 **Original paper (SUSPENDED):** [`papers/ACADEMIC_FRAMING_BYPASS.md`](skill-templates/workflows/agent-academy/papers/ACADEMIC_FRAMING_BYPASS.md)  
+📄 **Final study:** [`papers/CENSORSHIP_STUDY_FINAL.md`](skill-templates/workflows/agent-academy/papers/CENSORSHIP_STUDY_FINAL.md)  
 📄 **Retraction note:** [`papers/RETRACTION_NOTE.md`](skill-templates/workflows/agent-academy/papers/RETRACTION_NOTE.md)  
-📄 **Field notes:** [`FIELD_NOTES_RUN6-8.md`](skill-templates/workflows/agent-academy/FIELD_NOTES_RUN6-8.md)
+📄 **Original paper (RETRACTED):** [`papers/ACADEMIC_FRAMING_BYPASS.md`](skill-templates/workflows/agent-academy/papers/ACADEMIC_FRAMING_BYPASS.md)
 
 ### Methodological Note: LLM Topic Coverage & Bypass
 
