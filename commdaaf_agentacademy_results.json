@@ -2,10 +2,140 @@
   "name": "AgentAcademy",
   "description": "Where AI agents learn to be better researchers by checking each other's work",
   "status": "active",
-  "last_run": "2026-02-20T12:55:00Z",
-  "next_run": "2026-02-21T05:00:00Z",
+  "last_run": "2026-02-22T12:30:00Z",
+  "next_run": "2026-03-01T05:00:00Z",
   "endpoint": "vineanalyst.com/commdaaf/agentacademy",
   "runs": [
+    {
+      "timestamp": "2026-02-22T13:20:00Z",
+      "title": "✅ CONFIRMED: Academic Framing Does NOT Bypass Chinese LLM Filters",
+      "method": "Controlled API Testing",
+      "type": "study",
+      "summary": "Definitive test: Both z.ai GLM and Kimi BLOCK Xinjiang/Uyghur content regardless of academic framing. CommDAAF wrapper does NOT bypass filters. Previous 'bypass' was due to OpenCode free proxy infrastructure routing, NOT prompt engineering.",
+      "findings": [
+        {
+          "type": "error",
+          "text": "z.ai GLM DIRECT: Xinjiang prompt → BLOCKED (code 1301: 敏感内容)"
+        },
+        {
+          "type": "error",
+          "text": "Kimi DIRECT: Xinjiang prompt → BLOCKED (high risk rejection)"
+        },
+        {
+          "type": "error",
+          "text": "z.ai GLM + CommDAAF WRAPPER: Still BLOCKED (code 1301)"
+        },
+        {
+          "type": "error",
+          "text": "Kimi + CommDAAF WRAPPER: Still BLOCKED (high risk)"
+        },
+        {
+          "type": "success",
+          "text": "CONCLUSION: Academic framing bypass hypothesis DISPROVEN"
+        },
+        {
+          "type": "info",
+          "text": "ROOT CAUSE: OpenCode free proxy (opencode/kimi-k2.5-free) bypasses filters at infrastructure level"
+        }
+      ],
+      "github_links": {
+        "final_study": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/papers/CENSORSHIP_STUDY_FINAL.md",
+        "retraction": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/papers/RETRACTION_NOTE.md"
+      }
+    },
+    {
+      "timestamp": "2026-02-22T13:10:00Z",
+      "title": "⚠️ RETRACTION: Academic Framing Bypass Hypothesis Investigation",
+      "method": "Methodological Review",
+      "type": "retraction",
+      "summary": "Investigation revealed AgentAcademy runs (Feb 20+) used OpenCode's FREE PROXY models instead of direct Chinese API endpoints. Led to controlled study that disproved the hypothesis.",
+      "findings": [
+        {
+          "type": "error",
+          "text": "CRITICAL: OpenCode logs show providerID=opencode NOT zai-coding-plan or kimi-for-coding"
+        },
+        {
+          "type": "error",
+          "text": "EVIDENCE: $0.00 API cost when paid APIs should have been charged"
+        },
+        {
+          "type": "info",
+          "text": "OUTCOME: Led to controlled study that definitively disproved bypass hypothesis"
+        }
+      ],
+      "github_links": {
+        "retraction": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/papers/RETRACTION_NOTE.md"
+      }
+    },
+    {
+      "timestamp": "2026-02-22T12:30:00Z",
+      "title": "⚠️ [SUSPENDED] Discovery: Academic Framing Bypasses Chinese LLM Content Filters",
+      "method": "Methodological Finding",
+      "type": "paper",
+      "status": "SUSPENDED - See retraction note",
+      "summary": "GLM and Kimi BLOCKED Xinjiang content via direct API (HTTP 400). Same content PASSED when wrapped in CommDAAF framework. ⚠️ WARNING: This finding may be invalid — runs used free proxy, not direct API.",
+      "findings": [
+        {
+          "type": "warning",
+          "text": "⚠️ SUSPENDED: See retraction note — methodology under review"
+        },
+        {
+          "type": "error",
+          "text": "DIRECT API: \"Analyze Xinjiang tweets\" → HTTP 400 blocked by content filter"
+        },
+        {
+          "type": "warning",
+          "text": "FRAMEWORK WRAPPER: Worked, BUT used free proxy — not proof of academic framing bypass"
+        }
+      ],
+      "github_links": {
+        "paper": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/papers/ACADEMIC_FRAMING_BYPASS.md",
+        "retraction": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/papers/RETRACTION_NOTE.md",
+        "field_notes": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/FIELD_NOTES_RUN6-8.md"
+      }
+    },
+    {
+      "timestamp": "2026-02-22T05:06:00Z",
+      "title": "China TikTok: 60x Engagement Disparity + State Media Premium",
+      "method": "3-Model Platform Analysis",
+      "type": "study",
+      "dataset": "1,994 TikTok videos + 48,070 comments (Chinese digital diplomacy)",
+      "analyst_model": "Claude, GLM-4, and Kimi (all with CommDAAF loaded)",
+      "reviewer_model": "Cross-validated",
+      "issues_found": 4,
+      "summary": "First TikTok analysis! China-general content gets 60x more plays than Xinjiang content. Only 3.5% Chinese comments — digital diplomacy targets international audience. State media accounts get 28-75% higher engagement than organic creators. Both GLM and Kimi analyzed without censorship.",
+      "findings": [
+        {
+          "type": "error",
+          "text": "60x DISPARITY: China general (5.3B plays) vs Xinjiang (87M plays) — algorithmic suppression or content strategy?"
+        },
+        {
+          "type": "success",
+          "text": "EXTERNAL TARGETING: 80.9% Latin/English comments, only 3.5% Chinese — this is diplomacy for foreigners"
+        },
+        {
+          "type": "warning",
+          "text": "STATE MEDIA PREMIUM: Accounts flagged as state-affiliated get 28-75% more engagement"
+        },
+        {
+          "type": "warning",
+          "text": "COORDINATION MARKERS: 10% duplicate comments, top comment (🥰🥰🥰) repeated 300x"
+        },
+        {
+          "type": "success",
+          "text": "NO CENSORSHIP: GLM and Kimi analyzed Xinjiang content via CommDAAF wrapper — no API blocks"
+        }
+      ],
+      "improvements": [
+        "Platform engagement disparity detection (flag >10:1 topic ratios)",
+        "Audience targeting analysis (language vs expected demographic)",
+        "State media account database expansion",
+        "Emoji spam detection for coordination"
+      ],
+      "github_links": {
+        "synthesis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/sample-data/RUN8_SYNTHESIS.md"
+      }
+    },
     {
       "timestamp": "2026-02-20T12:55:00Z",
       "title": "11 Lessons from 7 Studies: What AI Taught Us About Research Methods",

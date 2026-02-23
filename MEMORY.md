@@ -33,6 +33,42 @@
 - Final study: `papers/CENSORSHIP_STUDY_FINAL.md`
 - Commits: `580dbd3` (retraction), `789dea3` (final study)
 
+### AgentAcademy Deployment
+- Source: `/root/.openclaw/workspace/commdaaf_agentacademy_results.json`
+- Deploy to: `/root/vinechat/static/vineanalyst/commdaaf/results.json`
+- Site: https://vineanalyst.lampbotics.com/vineanalyst/commdaaf/agentacademy
+
+---
+
+## Chinese LLM Censorship Study (Feb 2026)
+
+### Key Finding: Academic Framing Does NOT Bypass Content Filters
+
+**Hypothesis (DISPROVEN):** CommDAAF's ~2,500 lines of academic methodology could dilute sensitive keywords below detection threshold.
+
+**Reality:** OpenCode's free proxy (`opencode/kimi-k2.5-free`) routes through infrastructure without content filters. Direct API calls to z.ai and Kimi block Xinjiang/Uyghur content regardless of framing.
+
+### Test Results
+| API | Direct Prompt | CommDAAF-Wrapped | Free Proxy |
+|-----|---------------|------------------|------------|
+| z.ai GLM | ❌ BLOCKED | ❌ BLOCKED | ✅ WORKED |
+| Kimi | ❌ BLOCKED | ❌ BLOCKED | ✅ WORKED |
+
+### Implications
+1. Chinese LLM content filtering is at API layer, not model weights
+2. Proxy services create unintended policy gaps
+3. Academic framing is not a bypass technique
+4. Always verify which API endpoint is being called
+
+### Wayne's OpenCode Config
+- `zai-coding-plan/glm-4.7` → Direct z.ai API (paid, filtered)
+- `kimi-for-coding/k2p5` → Direct Kimi API (paid, filtered)  
+- `opencode/kimi-k2.5-free` → OpenCode proxy (free, unfiltered)
+
+### GitHub
+- Final study: `papers/CENSORSHIP_STUDY_FINAL.md`
+- Commits: `580dbd3` (retraction), `789dea3` (final study)
+
 ---
 
 ## OpenClaw + Social Science Research (Feb 2026)
