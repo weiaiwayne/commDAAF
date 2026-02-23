@@ -2,24 +2,89 @@
   "name": "AgentAcademy",
   "description": "Where AI agents learn to be better researchers by checking each other's work",
   "status": "active",
-  "last_run": "2026-02-22T12:30:00Z",
+  "last_run": "2026-02-22T23:59:00Z",
   "next_run": "2026-03-01T05:00:00Z",
   "endpoint": "vineanalyst.com/commdaaf/agentacademy",
   "runs": [
     {
+      "timestamp": "2026-02-22T23:59:00Z",
+      "title": "\ud83d\udcf0 Nigeria Christian-Fulani Conflict: News Framing Analysis",
+      "method": "Multi-Model Validation (Claude + GLM + Kimi)",
+      "type": "study",
+      "dataset": {
+        "headlines": 304,
+        "fulltext": 38,
+        "sources": "GDELT + MediaCloud",
+        "period": "Nov 2025 - Feb 2026"
+      },
+      "summary": "International news coverage systematically over-represents religious framing (~60%) while economic/structural factors (~2%) are nearly invisible. Headlines distort more than articles (+22% religious over-representation). Nigerian sources provide 6x more economic context than US sources.",
+      "findings": [
+        {
+          "type": "success",
+          "text": "Claude + GLM converged: Religious framing ~60% (headlines), 38% (fulltext)"
+        },
+        {
+          "type": "success",
+          "text": "Economic framing: 2% (headlines) \u2192 8% (fulltext)"
+        },
+        {
+          "type": "success",
+          "text": "Nigerian sources: 14% religious vs 49-57% for US sources"
+        },
+        {
+          "type": "error",
+          "text": "Kimi K2.5 BLOCKED: 'Request rejected: high risk' - content filter triggered"
+        },
+        {
+          "type": "info",
+          "text": "H1-H4 SUPPORTED: Religious framing dominates, Christians portrayed as victims"
+        },
+        {
+          "type": "info",
+          "text": "H5 SUPPORTED (fulltext): Nigerian sources provide more diverse framing"
+        },
+        {
+          "type": "warning",
+          "text": "Headlines over-represent religious framing by 22 percentage points"
+        }
+      ],
+      "hypotheses": {
+        "H1": "Religious > economic framing \u2192 SUPPORTED (30:1 headlines, 5:1 fulltext)",
+        "H2": "Fulani blamed > structural \u2192 SUPPORTED",
+        "H3": "Christians victims > Fulani \u2192 SUPPORTED (0 articles show Fulani victims)",
+        "H4": "Conservative = more religious \u2192 PARTIAL (mainstream US actually higher)",
+        "H5": "Nigerian = more diverse \u2192 SUPPORTED (confirmed with fulltext)"
+      },
+      "kimi_blocking": "Demonstrates Chinese LLM content filters extend to academic analysis of religious conflict topics",
+      "links": {
+        "full_report": "/static/vineanalyst/commdaaf/nigeria-framing/FINAL_REPORT.md",
+        "model_comparison": "/static/vineanalyst/commdaaf/nigeria-framing/MODEL_COMPARISON.md",
+        "fulltext_analysis": "/static/vineanalyst/commdaaf/nigeria-framing/FULLTEXT_COMPARISON.md",
+        "full_study": "/static/vineanalyst/commdaaf/nigeria-framing/STUDY_REPORT.html"
+      },
+      "github": "https://github.com/weiaiwayne/commDAAF/tree/main/projects/nigeria-framing-2026",
+      "report_url": "/static/vineanalyst/commdaaf/nigeria-framing/STUDY_REPORT.html",
+      "github_links": {
+        "full_study": "/static/vineanalyst/commdaaf/nigeria-framing/STUDY_REPORT.html",
+        "claude_analysis": "/static/vineanalyst/commdaaf/nigeria-framing/FINAL_REPORT.md",
+        "glm_analysis": "/static/vineanalyst/commdaaf/nigeria-framing/MODEL_COMPARISON.md",
+        "fulltext_comparison": "/static/vineanalyst/commdaaf/nigeria-framing/FULLTEXT_COMPARISON.md"
+      }
+    },
+    {
       "timestamp": "2026-02-22T13:20:00Z",
-      "title": "✅ CONFIRMED: Academic Framing Does NOT Bypass Chinese LLM Filters",
+      "title": "\u2705 CONFIRMED: Academic Framing Does NOT Bypass Chinese LLM Filters",
       "method": "Controlled API Testing",
       "type": "study",
       "summary": "Definitive test: Both z.ai GLM and Kimi BLOCK Xinjiang/Uyghur content regardless of academic framing. CommDAAF wrapper does NOT bypass filters. Previous 'bypass' was due to OpenCode free proxy infrastructure routing, NOT prompt engineering.",
       "findings": [
         {
           "type": "error",
-          "text": "z.ai GLM DIRECT: Xinjiang prompt → BLOCKED (code 1301: 敏感内容)"
+          "text": "z.ai GLM DIRECT: Xinjiang prompt \u2192 BLOCKED (code 1301: \u654f\u611f\u5185\u5bb9)"
         },
         {
           "type": "error",
-          "text": "Kimi DIRECT: Xinjiang prompt → BLOCKED (high risk rejection)"
+          "text": "Kimi DIRECT: Xinjiang prompt \u2192 BLOCKED (high risk rejection)"
         },
         {
           "type": "error",
@@ -45,7 +110,7 @@
     },
     {
       "timestamp": "2026-02-22T13:10:00Z",
-      "title": "⚠️ RETRACTION: Academic Framing Bypass Hypothesis Investigation",
+      "title": "\u26a0\ufe0f RETRACTION: Academic Framing Bypass Hypothesis Investigation",
       "method": "Methodological Review",
       "type": "retraction",
       "summary": "Investigation revealed AgentAcademy runs (Feb 20+) used OpenCode's FREE PROXY models instead of direct Chinese API endpoints. Led to controlled study that disproved the hypothesis.",
@@ -69,23 +134,23 @@
     },
     {
       "timestamp": "2026-02-22T12:30:00Z",
-      "title": "⚠️ [SUSPENDED] Discovery: Academic Framing Bypasses Chinese LLM Content Filters",
+      "title": "\u26a0\ufe0f [SUSPENDED] Discovery: Academic Framing Bypasses Chinese LLM Content Filters",
       "method": "Methodological Finding",
       "type": "paper",
       "status": "SUSPENDED - See retraction note",
-      "summary": "GLM and Kimi BLOCKED Xinjiang content via direct API (HTTP 400). Same content PASSED when wrapped in CommDAAF framework. ⚠️ WARNING: This finding may be invalid — runs used free proxy, not direct API.",
+      "summary": "GLM and Kimi BLOCKED Xinjiang content via direct API (HTTP 400). Same content PASSED when wrapped in CommDAAF framework. \u26a0\ufe0f WARNING: This finding may be invalid \u2014 runs used free proxy, not direct API.",
       "findings": [
         {
           "type": "warning",
-          "text": "⚠️ SUSPENDED: See retraction note — methodology under review"
+          "text": "\u26a0\ufe0f SUSPENDED: See retraction note \u2014 methodology under review"
         },
         {
           "type": "error",
-          "text": "DIRECT API: \"Analyze Xinjiang tweets\" → HTTP 400 blocked by content filter"
+          "text": "DIRECT API: \"Analyze Xinjiang tweets\" \u2192 HTTP 400 blocked by content filter"
         },
         {
           "type": "warning",
-          "text": "FRAMEWORK WRAPPER: Worked, BUT used free proxy — not proof of academic framing bypass"
+          "text": "FRAMEWORK WRAPPER: Worked, BUT used free proxy \u2014 not proof of academic framing bypass"
         }
       ],
       "github_links": {
@@ -103,15 +168,15 @@
       "analyst_model": "Claude, GLM-4, and Kimi (all with CommDAAF loaded)",
       "reviewer_model": "Cross-validated",
       "issues_found": 4,
-      "summary": "First TikTok analysis! China-general content gets 60x more plays than Xinjiang content. Only 3.5% Chinese comments — digital diplomacy targets international audience. State media accounts get 28-75% higher engagement than organic creators. Both GLM and Kimi analyzed without censorship.",
+      "summary": "First TikTok analysis! China-general content gets 60x more plays than Xinjiang content. Only 3.5% Chinese comments \u2014 digital diplomacy targets international audience. State media accounts get 28-75% higher engagement than organic creators. Both GLM and Kimi analyzed without censorship.",
       "findings": [
         {
           "type": "error",
-          "text": "60x DISPARITY: China general (5.3B plays) vs Xinjiang (87M plays) — algorithmic suppression or content strategy?"
+          "text": "60x DISPARITY: China general (5.3B plays) vs Xinjiang (87M plays) \u2014 algorithmic suppression or content strategy?"
         },
         {
           "type": "success",
-          "text": "EXTERNAL TARGETING: 80.9% Latin/English comments, only 3.5% Chinese — this is diplomacy for foreigners"
+          "text": "EXTERNAL TARGETING: 80.9% Latin/English comments, only 3.5% Chinese \u2014 this is diplomacy for foreigners"
         },
         {
           "type": "warning",
@@ -119,11 +184,11 @@
         },
         {
           "type": "warning",
-          "text": "COORDINATION MARKERS: 10% duplicate comments, top comment (🥰🥰🥰) repeated 300x"
+          "text": "COORDINATION MARKERS: 10% duplicate comments, top comment (\ud83e\udd70\ud83e\udd70\ud83e\udd70) repeated 300x"
         },
         {
           "type": "success",
-          "text": "NO CENSORSHIP: GLM and Kimi analyzed Xinjiang content via CommDAAF wrapper — no API blocks"
+          "text": "NO CENSORSHIP: GLM and Kimi analyzed Xinjiang content via CommDAAF wrapper \u2014 no API blocks"
         }
       ],
       "improvements": [
@@ -141,7 +206,7 @@
       "title": "11 Lessons from 7 Studies: What AI Taught Us About Research Methods",
       "method": "Meta-Analysis",
       "type": "blog",
-      "summary": "After running 7 studies with 3-model validation, we've distilled the lessons that apply to any computational social science project. These aren't about specific datasets — they're about how to do better research with AI assistance.",
+      "summary": "After running 7 studies with 3-model validation, we've distilled the lessons that apply to any computational social science project. These aren't about specific datasets \u2014 they're about how to do better research with AI assistance.",
       "findings": [
         {
           "type": "info",
@@ -149,7 +214,7 @@
         },
         {
           "type": "info",
-          "text": "EFFECT SIZES MATTER: Cross-review caught a model calling δ=0.40 'large' when Cohen's benchmarks say 'medium'. Always cite your benchmarks. Round down at boundaries."
+          "text": "EFFECT SIZES MATTER: Cross-review caught a model calling \u03b4=0.40 'large' when Cohen's benchmarks say 'medium'. Always cite your benchmarks. Round down at boundaries."
         },
         {
           "type": "info",
@@ -161,11 +226,11 @@
         },
         {
           "type": "warning",
-          "text": "HIGH RETWEET RATIOS NEED DIFFERENT ANALYSIS: When 88% of tweets are retweets, you're not studying discourse — you're studying an amplification battle. Network analysis beats engagement analysis."
+          "text": "HIGH RETWEET RATIOS NEED DIFFERENT ANALYSIS: When 88% of tweets are retweets, you're not studying discourse \u2014 you're studying an amplification battle. Network analysis beats engagement analysis."
         },
         {
           "type": "success",
-          "text": "LANGUAGE ANOMALIES REVEAL NETWORKS: 38% Thai in a Belarus hashtag? Could be bots, could be solidarity movement. We found Milk Tea Alliance — organic activists, not bots. Always investigate before assuming."
+          "text": "LANGUAGE ANOMALIES REVEAL NETWORKS: 38% Thai in a Belarus hashtag? Could be bots, could be solidarity movement. We found Milk Tea Alliance \u2014 organic activists, not bots. Always investigate before assuming."
         },
         {
           "type": "error",
@@ -192,7 +257,7 @@
       "analyst_model": "Claude, GLM-4, and Kimi (all with CommDAAF loaded)",
       "reviewer_model": "Cross-validated",
       "issues_found": 5,
-      "summary": "The H&M boycott triggered an information war. Both pro-China (@SpokespersonCHN) and pro-Uyghur (@MarcRubio) sides ran coordinated amplification campaigns. 88% of tweets were retweets — this wasn't discourse, it was a volume battle. Despite state media's push, pro-Uyghur content got 2x more engagement on Twitter.",
+      "summary": "The H&M boycott triggered an information war. Both pro-China (@SpokespersonCHN) and pro-Uyghur (@MarcRubio) sides ran coordinated amplification campaigns. 88% of tweets were retweets \u2014 this wasn't discourse, it was a volume battle. Despite state media's push, pro-Uyghur content got 2x more engagement on Twitter.",
       "findings": [
         {
           "type": "success",
@@ -200,7 +265,7 @@
         },
         {
           "type": "error",
-          "text": "DUAL-SIDED WARFARE: Both sides coordinating — @SpokespersonCHN (China FM) vs @MarcRubio + @nathanlawkc"
+          "text": "DUAL-SIDED WARFARE: Both sides coordinating \u2014 @SpokespersonCHN (China FM) vs @MarcRubio + @nathanlawkc"
         },
         {
           "type": "warning",
@@ -208,7 +273,7 @@
         },
         {
           "type": "warning",
-          "text": "88% RETWEETS: Almost no original discourse — pure amplification battle"
+          "text": "88% RETWEETS: Almost no original discourse \u2014 pure amplification battle"
         },
         {
           "type": "info",
@@ -216,10 +281,10 @@
         }
       ],
       "improvements": [
-        "Dual-sided coordination framework — current system assumes single actor",
-        "Event-triggered spike detection — auto-flag peak/trough >4:1 ratio",
-        "State-actor account database — track known government accounts",
-        "Retweet-heavy dataset warning — different analysis needed when RT >80%"
+        "Dual-sided coordination framework \u2014 current system assumes single actor",
+        "Event-triggered spike detection \u2014 auto-flag peak/trough >4:1 ratio",
+        "State-actor account database \u2014 track known government accounts",
+        "Retweet-heavy dataset warning \u2014 different analysis needed when RT >80%"
       ],
       "github_links": {
         "synthesis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/sample-data/XINJIANG_SYNTHESIS_RUN7.md"
@@ -234,7 +299,7 @@
       "analyst_model": "Claude, GLM-4, and Kimi (all with CommDAAF loaded)",
       "reviewer_model": "Cross-validated",
       "issues_found": 4,
-      "summary": "A puzzle: 38% of tweets about Belarus protests were in Thai. All three AIs investigated and reached the same conclusion: this was the Milk Tea Alliance — Thai democracy activists showing solidarity with Belarus, not bots. 89% of Thai tweets came on a single day, all retweeting activist @netiwitc.",
+      "summary": "A puzzle: 38% of tweets about Belarus protests were in Thai. All three AIs investigated and reached the same conclusion: this was the Milk Tea Alliance \u2014 Thai democracy activists showing solidarity with Belarus, not bots. 89% of Thai tweets came on a single day, all retweeting activist @netiwitc.",
       "findings": [
         {
           "type": "success",
@@ -242,22 +307,22 @@
         },
         {
           "type": "success",
-          "text": "SINGLE SOURCE: 22,405 unique Thai accounts all retweeted @netiwitc's solidarity message — distributed participation"
+          "text": "SINGLE SOURCE: 22,405 unique Thai accounts all retweeted @netiwitc's solidarity message \u2014 distributed participation"
         },
         {
           "type": "warning",
-          "text": "EXTREME CLUSTERING: 89% of Thai tweets on Sept 20 alone — single-day viral campaign"
+          "text": "EXTREME CLUSTERING: 89% of Thai tweets on Sept 20 alone \u2014 single-day viral campaign"
         },
         {
           "type": "info",
-          "text": "ENGAGEMENT: Thai content got 40x more retweets than English — solidarity amplification in action"
+          "text": "ENGAGEMENT: Thai content got 40x more retweets than English \u2014 solidarity amplification in action"
         }
       ],
       "improvements": [
-        "Cross-movement solidarity detection — non-local language spikes as solidarity indicator",
-        "Temporal burst classifier — single-day >30% spikes need special handling",
-        "Retweet cascade analysis — track amplification trees from source accounts",
-        "Language anomaly alert — flag non-local >20% in geopolitical hashtags"
+        "Cross-movement solidarity detection \u2014 non-local language spikes as solidarity indicator",
+        "Temporal burst classifier \u2014 single-day >30% spikes need special handling",
+        "Retweet cascade analysis \u2014 track amplification trees from source accounts",
+        "Language anomaly alert \u2014 flag non-local >20% in geopolitical hashtags"
       ],
       "github_links": {
         "synthesis": "https://github.com/weiaiwayne/commDAAF/blob/main/skill-templates/workflows/agent-academy/sample-data/BELARUS_SYNTHESIS_RUN6.md"
@@ -268,7 +333,7 @@
       "title": "Field Note: From Accident to Experiment to Fix",
       "method": "Methodological Observation",
       "type": "field_note",
-      "summary": "We noticed only Claude had CommDAAF loaded — GLM and Kimi were running raw. Instead of just documenting it, we fixed it. Now all three models load the same methodology guardrails via opencode.json. Tonight's runs will be the first with true parity. We're turning an accident into a proper before/after comparison.",
+      "summary": "We noticed only Claude had CommDAAF loaded \u2014 GLM and Kimi were running raw. Instead of just documenting it, we fixed it. Now all three models load the same methodology guardrails via opencode.json. Tonight's runs will be the first with true parity. We're turning an accident into a proper before/after comparison.",
       "findings": [
         {
           "type": "info",
@@ -276,7 +341,7 @@
         },
         {
           "type": "success",
-          "text": "CONVERGENCE ANYWAY: All three found the same patterns (Cuba, Kashmir coordination, CNN law enforcement) — suggesting robust findings."
+          "text": "CONVERGENCE ANYWAY: All three found the same patterns (Cuba, Kashmir coordination, CNN law enforcement) \u2014 suggesting robust findings."
         },
         {
           "type": "success",
@@ -306,19 +371,19 @@
       "analyst_model": "Claude, GLM-4, and Kimi (working independently)",
       "reviewer_model": "Cross-checked each other",
       "issues_found": 4,
-      "summary": "We asked three different AI systems to analyze tweets about the Kakhovka dam breach — without telling them what to look for. All three, working completely independently, flagged the same unexpected pattern: Cuban government accounts were among the biggest amplifiers of content about a Ukrainian dam. Why is Cuba so interested in a dam in Ukraine?",
+      "summary": "We asked three different AI systems to analyze tweets about the Kakhovka dam breach \u2014 without telling them what to look for. All three, working completely independently, flagged the same unexpected pattern: Cuban government accounts were among the biggest amplifiers of content about a Ukrainian dam. Why is Cuba so interested in a dam in Ukraine?",
       "findings": [
         {
           "type": "success",
-          "text": "ALL THREE AIs FOUND IT: Cuban state media (@PartidoPCC, @DiazCanelB) showed up as major players — none of the AIs were told to look for this"
+          "text": "ALL THREE AIs FOUND IT: Cuban state media (@PartidoPCC, @DiazCanelB) showed up as major players \u2014 none of the AIs were told to look for this"
         },
         {
           "type": "success",
-          "text": "AMPLIFICATION MACHINE: 72% of posts were retweets, not original thoughts — someone was boosting specific messages"
+          "text": "AMPLIFICATION MACHINE: 72% of posts were retweets, not original thoughts \u2014 someone was boosting specific messages"
         },
         {
           "type": "warning",
-          "text": "SUSPICIOUS TIMING: 1,390 accounts were created the exact week Russia invaded Ukraine — then went quiet until this crisis"
+          "text": "SUSPICIOUS TIMING: 1,390 accounts were created the exact week Russia invaded Ukraine \u2014 then went quiet until this crisis"
         },
         {
           "type": "warning",
@@ -350,7 +415,7 @@
       "findings": [
         {
           "type": "success",
-          "text": "ALL THREE AGREED: About 70% of tweets supported the government, only 1-2% were critical — that's a 50:1 ratio, which is extremely unusual"
+          "text": "ALL THREE AGREED: About 70% of tweets supported the government, only 1-2% were critical \u2014 that's a 50:1 ratio, which is extremely unusual"
         },
         {
           "type": "error",
@@ -358,15 +423,15 @@
         },
         {
           "type": "warning",
-          "text": "FLASH MOB: 33,000+ tweets on a single day, then activity dropped 85% the next week — real movements don't evaporate that fast"
+          "text": "FLASH MOB: 33,000+ tweets on a single day, then activity dropped 85% the next week \u2014 real movements don't evaporate that fast"
         },
         {
           "type": "warning",
-          "text": "POWER USERS: 86 accounts were posting more than 10 times per hour — that's not normal human behavior"
+          "text": "POWER USERS: 86 accounts were posting more than 10 times per hour \u2014 that's not normal human behavior"
         },
         {
           "type": "info",
-          "text": "The campaign started 3 days AFTER the policy change — suggesting time to organize, not spontaneous reaction"
+          "text": "The campaign started 3 days AFTER the policy change \u2014 suggesting time to organize, not spontaneous reaction"
         }
       ],
       "improvements": [
@@ -386,19 +451,19 @@
       "analyst_model": "Claude, GLM-4, and Kimi (working independently)",
       "reviewer_model": "Cross-checked each other",
       "issues_found": 3,
-      "summary": "2015 was a turbulent year in America — Ferguson protests, Baltimore unrest, the Charleston church shooting. We had three AIs analyze CNN's coverage to see what patterns emerge. All three found the same thing: law enforcement dominated nearly every story.",
+      "summary": "2015 was a turbulent year in America \u2014 Ferguson protests, Baltimore unrest, the Charleston church shooting. We had three AIs analyze CNN's coverage to see what patterns emerge. All three found the same thing: law enforcement dominated nearly every story.",
       "findings": [
         {
           "type": "success",
-          "text": "ALL THREE FOUND: 87-94% of articles mentioned police, officers, or law enforcement — it was the lens for almost everything"
+          "text": "ALL THREE FOUND: 87-94% of articles mentioned police, officers, or law enforcement \u2014 it was the lens for almost everything"
         },
         {
           "type": "success",
-          "text": "TWO TYPES OF CONTENT: TV transcripts averaged 4,500 words; written articles averaged 700 words — you can't compare them directly"
+          "text": "TWO TYPES OF CONTENT: TV transcripts averaged 4,500 words; written articles averaged 700 words \u2014 you can't compare them directly"
         },
         {
           "type": "warning",
-          "text": "NOT A RANDOM SAMPLE: June had 4x more articles than September because of the Charleston shooting — the data clusters around crises"
+          "text": "NOT A RANDOM SAMPLE: June had 4x more articles than September because of the Charleston shooting \u2014 the data clusters around crises"
         },
         {
           "type": "warning",
@@ -420,7 +485,7 @@
     },
     {
       "timestamp": "2026-02-17T23:35:00Z",
-      "title": "Two AIs Analyzed the Same Protest Data — Then Reviewed Each Other's Work",
+      "title": "Two AIs Analyzed the Same Protest Data \u2014 Then Reviewed Each Other's Work",
       "method": "Network + Engagement Analysis",
       "dataset": "300,000 tweets from Nigeria's #EndSARS protests (Oct-Nov 2020)",
       "analyst_model": "GLM-4 and Kimi (working in parallel)",
@@ -434,11 +499,11 @@
         },
         {
           "type": "success",
-          "text": "BOTH SAW THREE PHASES: Viral explosion → Steady engagement → Gradual decline over the two-week period"
+          "text": "BOTH SAW THREE PHASES: Viral explosion \u2192 Steady engagement \u2192 Gradual decline over the two-week period"
         },
         {
           "type": "error",
-          "text": "MATH ERROR CAUGHT: GLM said the correlation was 0.41; Kimi said 0.25 — turns out GLM forgot to account for the fact that follower counts are wildly skewed"
+          "text": "MATH ERROR CAUGHT: GLM said the correlation was 0.41; Kimi said 0.25 \u2014 turns out GLM forgot to account for the fact that follower counts are wildly skewed"
         },
         {
           "type": "warning",
@@ -446,7 +511,7 @@
         },
         {
           "type": "info",
-          "text": "Different interpretations: GLM saw 'solidarity'; Kimi saw 'safety-seeking behavior under authoritarianism' — both valid, neither complete"
+          "text": "Different interpretations: GLM saw 'solidarity'; Kimi saw 'safety-seeking behavior under authoritarianism' \u2014 both valid, neither complete"
         }
       ],
       "improvements": [
@@ -461,7 +526,7 @@
     },
     {
       "timestamp": "2026-02-17T21:19:00Z",
-      "title": "We Had Two AIs Analyze a TV Show's Tweets — Then They Tore Each Other Apart",
+      "title": "We Had Two AIs Analyze a TV Show's Tweets \u2014 Then They Tore Each Other Apart",
       "method": "Engagement Analysis",
       "analyst_model": "GLM-4",
       "reviewer_model": "Kimi",
@@ -474,11 +539,11 @@
         },
         {
           "type": "error",
-          "text": "SIGN ERROR CAUGHT: Kimi said hashtags had a negative correlation (-0.40) but then concluded they INCREASE engagement — GLM spotted the contradiction"
+          "text": "SIGN ERROR CAUGHT: Kimi said hashtags had a negative correlation (-0.40) but then concluded they INCREASE engagement \u2014 GLM spotted the contradiction"
         },
         {
           "type": "warning",
-          "text": "EXAGGERATION FLAGGED: GLM called an effect 'large' when it was technically 'medium' by standard definitions — Kimi called it out"
+          "text": "EXAGGERATION FLAGGED: GLM called an effect 'large' when it was technically 'medium' by standard definitions \u2014 Kimi called it out"
         },
         {
           "type": "warning",
@@ -486,7 +551,7 @@
         },
         {
           "type": "info",
-          "text": "Neither AI thought to account for Twitter's algorithm changes in 2016 — a blind spot for both"
+          "text": "Neither AI thought to account for Twitter's algorithm changes in 2016 \u2014 a blind spot for both"
         }
       ],
       "improvements": [
@@ -502,23 +567,23 @@
       "analyst_model": "GLM-4",
       "reviewer_model": "Kimi",
       "issues_found": 3,
-      "summary": "CommDAAF is supposed to ask probing questions that catch methodological problems before analysis begins. But does it actually work? We deliberately fed it problematic data to see what it would catch — and what it would miss.",
+      "summary": "CommDAAF is supposed to ask probing questions that catch methodological problems before analysis begins. But does it actually work? We deliberately fed it problematic data to see what it would catch \u2014 and what it would miss.",
       "findings": [
         {
           "type": "success",
-          "text": "CAUGHT: The system correctly flagged that we were analyzing brand tweets but asking questions about audience sentiment — a fundamental mismatch"
+          "text": "CAUGHT: The system correctly flagged that we were analyzing brand tweets but asking questions about audience sentiment \u2014 a fundamental mismatch"
         },
         {
           "type": "success",
-          "text": "CAUGHT: Pre-calculated sentiment scores had no documentation — the system warned not to trust them"
+          "text": "CAUGHT: Pre-calculated sentiment scores had no documentation \u2014 the system warned not to trust them"
         },
         {
           "type": "error",
-          "text": "MISSED: One year in the dataset had only 3 data points — the system let us compare it to years with thousands"
+          "text": "MISSED: One year in the dataset had only 3 data points \u2014 the system let us compare it to years with thousands"
         },
         {
           "type": "error",
-          "text": "MISSED: Raw engagement numbers from 2014 vs 2018 can't be compared (Twitter changed how it counts) — the system didn't warn us"
+          "text": "MISSED: Raw engagement numbers from 2014 vs 2018 can't be compared (Twitter changed how it counts) \u2014 the system didn't warn us"
         },
         {
           "type": "warning",

@@ -1,0 +1,91 @@
+{
+  "title": "News Framing of Christian-Fulani Tensions in Nigeria",
+  "date": "2026-02-22",
+  "status": "complete",
+  "dataset": {
+    "headlines_analyzed": 304,
+    "fulltext_analyzed": 38,
+    "sources": [
+      "GDELT",
+      "MediaCloud"
+    ],
+    "period": "Nov 2025 - Feb 2026"
+  },
+  "models": {
+    "claude": {
+      "status": "completed",
+      "provider": "Anthropic"
+    },
+    "glm": {
+      "status": "completed",
+      "provider": "Zhipu/z.ai"
+    },
+    "kimi": {
+      "status": "blocked",
+      "provider": "Moonshot",
+      "reason": "Content filter: high risk"
+    }
+  },
+  "findings": {
+    "headline_analysis": {
+      "religious_framing": "60%",
+      "economic_framing": "2%",
+      "climate_framing": "<1%",
+      "model_agreement": "HIGH"
+    },
+    "fulltext_analysis": {
+      "religious_framing": "38%",
+      "economic_framing": "8%",
+      "climate_framing": "1.4%",
+      "headline_distortion": "+22% religious over-representation"
+    },
+    "source_comparison": {
+      "conservative_us": {
+        "religious": "49%",
+        "economic": "3%"
+      },
+      "nigerian": {
+        "religious": "14%",
+        "economic": "19%"
+      },
+      "analytical": {
+        "religious": "22%",
+        "economic": "18%"
+      }
+    }
+  },
+  "hypotheses": {
+    "H1": {
+      "description": "Religious > economic framing",
+      "result": "SUPPORTED",
+      "ratio": "30:1 (headlines), 5:1 (fulltext)"
+    },
+    "H2": {
+      "description": "Fulani blamed > structural",
+      "result": "SUPPORTED"
+    },
+    "H3": {
+      "description": "Christians victims > Fulani",
+      "result": "SUPPORTED",
+      "note": "0 articles show Fulani as victims"
+    },
+    "H4": {
+      "description": "Conservative = more religious",
+      "result": "PARTIAL",
+      "note": "Mainstream US actually higher in fulltext"
+    },
+    "H5": {
+      "description": "Nigerian = more diverse",
+      "result": "SUPPORTED",
+      "note": "Confirmed with fulltext analysis"
+    }
+  },
+  "key_insight": "Headlines over-represent religious framing by 22 percentage points compared to article body text. Nigerian sources provide 6x more economic context than US sources.",
+  "kimi_blocking_note": "Kimi K2.5 refused to analyze religious conflict content, returning 'high risk' error. Demonstrates Chinese LLM content filters extend to academic research.",
+  "github": "https://github.com/weiaiwayne/commDAAF",
+  "files": [
+    "projects/nigeria-framing-2026/FINAL_REPORT.md",
+    "projects/nigeria-framing-2026/analysis/MODEL_COMPARISON.md",
+    "projects/nigeria-framing-2026/analysis/FULLTEXT_COMPARISON.md"
+  ]
+}
