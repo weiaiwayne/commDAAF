@@ -63,9 +63,11 @@ Match validation to your stakes.
 
 ---
 
-## Declare Your Tier
+## Declare Your Tier (MANDATORY)
 
-At the start of analysis:
+**Do not proceed without explicit tier declaration.**
+
+At the start of EVERY analysis:
 
 ```
 What's your validation tier?
@@ -77,8 +79,45 @@ What's your validation tier?
 Your selection: ___
 ```
 
-This shapes all subsequent guidance.
+This shapes all subsequent guidance. If user says "just analyze" without declaring tier, **ask again**.
 
 ---
 
-*Tiered Validation | CommDAAF v0.3*
+## Single-Model vs Multi-Model Validation
+
+### Understanding What CommDAAF Provides
+
+| Mode | Quality Control Type | Catches | Misses |
+|------|---------------------|---------|--------|
+| **Single-model + CommDAAF** | Protocol compliance | Forgotten steps, missing parameters | Model's own calculation/interpretation errors |
+| **Multi-model + CommDAAF** | Independent verification | Divergent interpretations, some errors | Errors all models make identically |
+| **Human validation** | Ground truth | Systematic model biases | Limited by sample size |
+
+### Key Insight
+
+> CommDAAF in single-model mode is a **methodology scaffold**, not a fact-checker.
+> 
+> It ensures you follow research protocols but cannot verify your conclusions are correct.
+
+### Multi-Model ≠ Human Validation
+
+Even with 3-model convergence:
+- Models may share systematic biases
+- Models may all misunderstand ambiguous content
+- Models cannot assess real-world validity
+
+**For 🔴 Publication tier**: Multi-model agreement is helpful but does NOT substitute for human validation (N ≥ 200, κ ≥ 0.7).
+
+---
+
+## Validation Requirements Summary
+
+| Tier | Human Sample | κ Threshold | Multi-Model | Replication |
+|------|--------------|-------------|-------------|-------------|
+| 🟢 Exploratory | — | — | Optional | — |
+| 🟡 Pilot | N ≥ 100 | κ ≥ 0.6 | Recommended | 80% subsample |
+| 🔴 Publication | N ≥ 200 | κ ≥ 0.7 | Recommended | Bootstrap CI |
+
+---
+
+*Tiered Validation | CommDAAF v0.4*

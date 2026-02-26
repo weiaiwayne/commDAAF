@@ -164,8 +164,73 @@ See `references/workflows/tiered-validation.md`
 4. Assumption Audit
 5. Reflection Checkpoints
 
+---
+
+## What's New in v0.4
+
+### 📋 Mandatory Tier Declaration
+
+Before ANY analysis, ask:
+
+```
+What's your validation tier?
+🟢 EXPLORATORY — Learning, exploring (30-60 min)
+🟡 PILOT — Committee review, working paper (2-4 hrs)  
+🔴 PUBLICATION — Journal submission (1-2 days)
+
+Your selection: ___
+```
+
+**Do not proceed without explicit tier choice.** Tier determines validation requirements.
+
+### 🏷️ Multi-Label Frame Coding
+
+Frames are not always mutually exclusive:
+
+| Field | Required | Description |
+|-------|----------|-------------|
+| PRIMARY_FRAME | Yes | Dominant frame |
+| SECONDARY_FRAME | If applicable | Mark as MIXED |
+| VALENCE | Yes | positive/negative/neutral toward subject |
+
+See updated `references/methods/frame-analysis.md`
+
+### 🔄 Data Deduplication
+
+Before sampling from news data:
+- Normalize titles (lowercase, strip punctuation)
+- Hash and deduplicate
+- Verify source type distribution (no category <10%)
+
+### ⏱️ Temporal Segmentation
+
+If time range >30 days OR includes major events:
+- Segment analysis by period
+- Report both aggregate and segmented distributions
+- Flag if any segment has <20 items
+
+### 🤖 Single-Model vs Multi-Model QC
+
+| Mode | What It Provides | What It Doesn't |
+|------|------------------|-----------------|
+| **Single-model + CommDAAF** | Protocol compliance, consistent methodology | Cannot catch model's own errors |
+| **Multi-model + CommDAAF** | Independent verification, convergence checking | Still needs human validation for 🔴 tier |
+
+**Key insight**: CommDAAF in single-model mode is a *methodology scaffold*, not a fact-checker. Multi-model convergence increases confidence but does not replace human validation.
+
+### Human Validation Requirements by Tier
+
+| Tier | Human Validation | Inter-Coder Reliability |
+|------|------------------|------------------------|
+| 🟢 Exploratory | Not required | Not required |
+| 🟡 Pilot | N ≥ 100 | κ ≥ 0.6 |
+| 🔴 Publication | N ≥ 200 | κ ≥ 0.7 |
+
+Multi-model agreement does NOT substitute for human validation at 🔴 tier.
+
 ## Version
 
 - Name: CommDAAF
-- Version: 0.3.0
+- Version: 0.4.0
 - Based on: DAAF (Data Analyst Augmentation Framework)
+- Changelog: Added mandatory tier declaration, multi-label frame coding, valence dimension, deduplication protocol, temporal segmentation, single vs multi-model QC distinction
