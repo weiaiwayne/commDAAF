@@ -1,8 +1,16 @@
-# AgentAcademy Report: Iran Intermedia Agenda-Setting Study
+# AgentAcademy Report: How One Study Improved CommDAAF
 
 **Date:** 2026-02-26  
-**Type:** Framework Validation Study  
+**Type:** Framework Validation → Skill Improvement  
 **Models:** Claude (Opus), GLM-4.7, Kimi K2.5
+
+---
+
+## TL;DR
+
+We ran a 3-model frame analysis on Iran news coverage. The study worked—but exposed **5 gaps** in CommDAAF's methodology. Each gap became a **v0.4 skill update** that now benefits all CommDAAF users.
+
+**This is the AgentAcademy loop: Run real research → Find what breaks → Fix the framework.**
 
 ---
 
@@ -98,65 +106,115 @@ During the study, we identified 5 methodological gaps in CommDAAF:
 
 ---
 
-## From Gaps to Skill Updates
+## How This Study Changed CommDAAF
 
-Each gap became a v0.4 improvement:
+**This is the core contribution.** Each gap we hit during analysis became a framework improvement that prevents future researchers from hitting the same problem.
 
-| Gap | CommDAAF v0.4 Fix |
-|-----|-------------------|
-| Duplicate headlines | **Pre-sampling deduplication protocol** — normalize title, hash, dedupe |
-| No MIXED frame | **Multi-label coding** — PRIMARY + SECONDARY frame fields |
-| Same frame, opposite meaning | **Valence dimension** — positive/negative/neutral required |
-| No temporal breakdown | **Temporal segmentation** — required for >30 day studies |
-| Unclear QC expectations | **Single vs multi-model distinction** — methodology scaffold vs validation |
+### Gap → Fix Mapping
 
-### New Mandatory Requirements
+| What Happened During Study | What We Added to CommDAAF v0.4 |
+|---------------------------|-------------------------------|
+| GDELT returned 3 copies of same headline | → **Pre-sampling deduplication protocol** with code example |
+| "Counterproposal + strike warning" forced into single label | → **Multi-label coding** (PRIMARY + SECONDARY frame) |
+| "Ready to negotiate" vs "stalls negotiations" coded identically | → **Valence dimension** (positive/negative/neutral) required |
+| 25-month period analyzed as single snapshot | → **Temporal segmentation** required for >30 day studies |
+| Unclear what single-model CommDAAF actually provides | → **Explicit QC distinction**: methodology scaffold ≠ fact-checker |
 
-1. **Tier Declaration** — Must specify 🟢/🟡/🔴 before analysis proceeds
-2. **Valence Coding** — Required alongside frame category
-3. **Human Validation** — N≥200, κ≥0.7 for 🔴 Publication tier
-4. **Data Deduplication** — Required before sampling news data
+### Files Changed in CommDAAF Repo
+
+```
+SKILL.md                              ← v0.4 section, tier enforcement
+references/methods/frame-analysis.md  ← dedup, valence, temporal, multi-label  
+references/workflows/tiered-validation.md ← mandatory declaration
+CHANGELOG.md                          ← documents this study → improvement
+README.md                             ← updated with v0.4 features
+```
+
+### New Mandatory Requirements (Enforced)
+
+| Requirement | Trigger | Enforcement |
+|-------------|---------|-------------|
+| **Tier Declaration** | Start of any analysis | Agent asks 🟢/🟡/🔴, won't proceed without answer |
+| **Valence Coding** | Any frame analysis | Required field alongside frame category |
+| **Deduplication** | News data sampling | Protocol in `frame-analysis.md` |
+| **Temporal Check** | Studies >30 days | Must segment or justify aggregation |
+| **Human Validation** | 🔴 Publication tier | N≥200, κ≥0.7 — multi-model doesn't substitute |
+
+### Why This Matters
+
+Before this study, a researcher using CommDAAF could:
+- ❌ Sample duplicate headlines without knowing
+- ❌ Lose valence information in frame coding
+- ❌ Assume 3-model agreement = publication ready
+- ❌ Analyze 2 years of data without temporal breakdown
+
+After this study, CommDAAF **actively prevents** these issues.
 
 ---
 
-## The AgentAcademy Loop
+## The AgentAcademy Model: Research That Improves Its Own Tools
 
-This study demonstrates the AgentAcademy improvement cycle:
+Most research projects end with findings. AgentAcademy projects end with **findings + framework improvements**.
+
+### This Study's Outputs
+
+| Traditional Output | AgentAcademy Output |
+|-------------------|---------------------|
+| Finding: Israeli media 10x more THREAT framing | ✅ Same |
+| Method: 3-model frame analysis | ✅ Same |
+| Data: 60 coded headlines | ✅ Same |
+| — | **+ 5 CommDAAF skill updates** |
+| — | **+ v0.4 release** |
+| — | **+ Improved framework for next researcher** |
+
+### The Improvement Cycle
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  1. RUN STUDY                                           │
-│     → Use CommDAAF framework on real research question  │
+│  1. RUN STUDY with CommDAAF                             │
+│     Iran framing analysis, 3 models, 60 headlines       │
 └───────────────────────────┬─────────────────────────────┘
                             │
                             ▼
 ┌─────────────────────────────────────────────────────────┐
-│  2. IDENTIFY GAPS                                       │
-│     → What did the framework miss?                      │
-│     → What errors weren't caught?                       │
+│  2. HIT PROBLEMS the framework didn't catch             │
+│     Duplicates, no valence, no mixed frames...          │
 └───────────────────────────┬─────────────────────────────┘
                             │
                             ▼
 ┌─────────────────────────────────────────────────────────┐
-│  3. GENERALIZE FIXES                                    │
-│     → Which gaps are project-specific?                  │
-│     → Which apply to all users?                         │
+│  3. ASK: Is this my mistake or a framework gap?         │
+│     5 gaps identified, 4.5 generalizable to all users   │
 └───────────────────────────┬─────────────────────────────┘
                             │
                             ▼
 ┌─────────────────────────────────────────────────────────┐
-│  4. UPDATE SKILL                                        │
-│     → Add new checks, protocols, requirements           │
-│     → Document in CHANGELOG                             │
+│  4. UPDATE CommDAAF skill files                         │
+│     SKILL.md, frame-analysis.md, tiered-validation.md   │
 └───────────────────────────┬─────────────────────────────┘
                             │
                             ▼
 ┌─────────────────────────────────────────────────────────┐
-│  5. NEXT STUDY                                          │
-│     → Framework is stronger                             │
-│     → New gaps may emerge → repeat cycle                │
+│  5. PUSH to GitHub                                      │
+│     v0.4 released, all users benefit                    │
+└───────────────────────────┬─────────────────────────────┘
+                            │
+                            ▼
+┌─────────────────────────────────────────────────────────┐
+│  6. NEXT STUDY runs on stronger framework               │
+│     → Will find new gaps → cycle continues              │
 └─────────────────────────────────────────────────────────┘
 ```
+
+### Cumulative Improvement
+
+| AgentAcademy Run | Gaps Found | Skills Added |
+|------------------|------------|--------------|
+| Nigeria framing (Feb 22) | Kimi content filter blocking | Topic-specific filter documentation |
+| Xinjiang cotton (Feb 20) | Dual-sided coordination | Adversarial amplification framework |
+| **Iran agenda (Feb 26)** | **5 frame analysis gaps** | **Dedup, valence, multi-label, temporal, QC distinction** |
+
+Each study makes the next one better.
 
 ---
 
