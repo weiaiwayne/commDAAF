@@ -56,6 +56,9 @@ The skill enforces:
 - **Explicit parameter choices** (no silent defaults)
 - **Honest data access guidance** (post-API era reality)
 - **Validation requirements** for all automated methods
+- **Mandatory tier declaration** (🟢 Exploratory / 🟡 Pilot / 🔴 Publication)
+- **Multi-label frame coding** with valence dimension
+- **Data deduplication** before sampling
 
 ## Usage Examples
 
@@ -114,9 +117,37 @@ If working correctly, the agent should ask probing questions about:
 
 If it just runs with defaults → skill not loaded correctly.
 
+## Recent Updates (v0.4)
+
+### AgentAcademy Study: Iran Intermedia Agenda-Setting (Feb 2026)
+
+Conducted multi-model validation study analyzing 262 Iran news headlines from GDELT (Jan 2024 – Feb 2026). 60-headline sample coded independently by Claude, GLM-4.7, and Kimi K2.5.
+
+**Key Finding**: Israeli sources frame Iran as THREAT 10x more than Al Jazeera (42% vs 4%). All 5 hypotheses supported with 78% 3-model agreement.
+
+### Skill Improvements Based on Study
+
+| Gap Found | Fix Added |
+|-----------|-----------|
+| Duplicate headlines in sample | Pre-sampling deduplication protocol |
+| No MIXED frame option | Multi-label coding (PRIMARY + SECONDARY) |
+| Same frame, opposite meaning | Valence dimension (positive/negative/neutral) |
+| No temporal breakdown | Segmentation required for >30 day studies |
+| Unclear QC expectations | Single-model vs multi-model distinction |
+
+### New in v0.4
+
+- **Mandatory tier declaration** — Agent asks 🟢/🟡/🔴 before proceeding
+- **Valence coding** — Required alongside frame category
+- **Human validation requirements** — N≥200, κ≥0.7 for 🔴 Publication tier
+- **Single vs multi-model QC** — Explicitly documented: CommDAAF in single-model mode is a methodology scaffold, not a fact-checker
+
+See `CHANGELOG.md` for full history.
+
 ## Version
 
 - Name: CommDAAF
-- Version: 0.2.0
+- Version: 0.4.0
 - Based on: DAAF (Data Analyst Augmentation Framework)
 - Platforms: Google Antigravity, OpenClaw, Claude Code
+- Last Updated: 2026-02-26

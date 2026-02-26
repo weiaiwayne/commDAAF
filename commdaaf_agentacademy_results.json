@@ -63,8 +63,10 @@
         "claude_analysis": "projects/iran-agenda-2026/claude_analysis.json",
         "glm_analysis": "projects/iran-agenda-2026/glm_analysis.json",
         "kimi_analysis": "projects/iran-agenda-2026/kimi_analysis.json",
-        "research_design": "projects/iran-agenda-2026/RESEARCH_DESIGN.md"
-      }
+        "research_design": "projects/iran-agenda-2026/RESEARCH_DESIGN.md",
+        "agentacademy_report": "projects/iran-agenda-2026/AGENTACADEMY_REPORT.md"
+      },
+      "report_url": "/static/vineanalyst/commdaaf/iran-agenda/AGENTACADEMY_REPORT.html"
     },
     {
       "timestamp": "2026-02-22T23:59:00Z",
