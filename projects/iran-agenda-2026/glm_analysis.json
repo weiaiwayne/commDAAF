@@ -1,0 +1,198 @@
+{
+  "model": "zai/glm-4.7",
+  "analyst": "GLM",
+  "frame_counts": {
+    "us_mainstream": {
+      "THREAT": 3,
+      "DIPLOMATIC": 7,
+      "CONFLICT": 0,
+      "DOMESTIC": 3,
+      "PROXY": 1,
+      "total": 14
+    },
+    "israeli": {
+      "THREAT": 4,
+      "DIPLOMATIC": 2,
+      "CONFLICT": 0,
+      "DOMESTIC": 0,
+      "PROXY": 5,
+      "total": 11
+    },
+    "aljazeera": {
+      "THREAT": 4,
+      "DIPLOMATIC": 7,
+      "CONFLICT": 0,
+      "DOMESTIC": 1,
+      "PROXY": 2,
+      "total": 14
+    },
+    "uk": {
+      "THREAT": 4,
+      "DIPLOMATIC": 9,
+      "CONFLICT": 0,
+      "DOMESTIC": 3,
+      "PROXY": 1,
+      "total": 17
+    }
+  },
+  "percentages_by_source": {
+    "us_mainstream": {
+      "THREAT": 21.4,
+      "DIPLOMATIC": 50.0,
+      "CONFLICT": 0.0,
+      "DOMESTIC": 21.4,
+      "PROXY": 7.1
+    },
+    "israeli": {
+      "THREAT": 36.4,
+      "DIPLOMATIC": 18.2,
+      "CONFLICT": 0.0,
+      "DOMESTIC": 0.0,
+      "PROXY": 45.5
+    },
+    "aljazeera": {
+      "THREAT": 28.6,
+      "DIPLOMATIC": 50.0,
+      "CONFLICT": 0.0,
+      "DOMESTIC": 7.1,
+      "PROXY": 14.3
+    },
+    "uk": {
+      "THREAT": 23.5,
+      "DIPLOMATIC": 52.9,
+      "CONFLICT": 0.0,
+      "DOMESTIC": 17.6,
+      "PROXY": 5.9
+    }
+  },
+  "key_findings": [
+    "DIPLOMATIC frame dominates across all sources except Israeli media (50% US mainstream, 50% Al Jazeera, 52.9% UK)",
+    "Israeli media shows distinctly different framing: 45.5% PROXY focus and 36.4% THREAT vs only 18.2% DIPLOMATIC",
+    "NO headlines in any source coded as CONFLICT - suggests framing focuses on threats rather than active military action",
+    "DOMESTIC coverage minimal: only in US mainstream (21.4%), Al Jazeera (7.1%), and UK (17.6%); ZERO in Israeli media",
+    "Israeli sources exhibit strongest threat framing (36.4% THREAT + 45.5% PROXY = 81.9% threat-related)",
+    "UK media most diplomatic-heavy (52.9%) with balanced mix of THREAT and DOMESTIC",
+    "Ambiguous cases: 4 headlines blended DIPLOMATIC/THREAT elements (items 2, 27, 50, 53, 51, 39, 46, 54) - coded based on dominant element",
+    "Dataset contained 60 headlines; 2 unrelated items excluded (#20 Maduro, #58 Iraqi militants - not Iran-related), 58 coded",
+    "PROXY framing primarily concentrated in Israeli sources (5/6 total PROXY frames across dataset)"
+  ],
+  "coding_log": [
+    {"id": 1, "source": "us_mainstream", "headline": "Live updates: US - Iran talks in Geneva", "frame": "DIPLOMATIC"},
+    {"id": 2, "source": "us_mainstream", "headline": "US carrier strike group is now in Middle East region", "frame": "THREAT"},
+    {"id": 3, "source": "us_mainstream", "headline": "How Iran could strike back if Trump attacks", "frame": "THREAT"},
+    {"id": 4, "source": "us_mainstream", "headline": "Iran refuses inspection of nuclear sites until IAEA provides new guidelines after bombing", "frame": "THREAT"},
+    {"id": 5, "source": "us_mainstream", "headline": "How Iran could strike back if Trump attacks", "frame": "THREAT"},
+    {"id": 6, "source": "us_mainstream", "headline": "How Iran could strike back if Trump attacks", "frame": "THREAT"},
+    {"id": 7, "source": "us_mainstream", "headline": "Analysis: Decoding Trump Iran strategy", "frame": "DIPLOMATIC"},
+    {"id": 8, "source": "us_mainstream", "headline": "Analysis: Decoding Trump Iran strategy", "frame": "DIPLOMATIC"},
+    {"id": 9, "source": "us_mainstream", "headline": "Analysis: Decoding Trump Iran strategy", "frame": "DIPLOMATIC"},
+    {"id": 10, "source": "us_mainstream", "headline": "US and Iran conclude high-stakes talks in Oman. Here what to know", "frame": "DIPLOMATIC"},
+    {"id": 11, "source": "us_mainstream", "headline": "Lebanon says first phase of plan to disarm Hezbollah completed", "frame": "PROXY"},
+    {"id": 12, "source": "us_mainstream", "headline": "Protests erupt in Iran over currency plunge to record low", "frame": "DOMESTIC"},
+    {"id": 13, "source": "us_mainstream", "headline": "Protests erupt in Iran over currency plunge to record low", "frame": "DOMESTIC"},
+    {"id": 14, "source": "us_mainstream", "headline": "Protests erupt in Iran over currency plunge to record low", "frame": "DOMESTIC"},
+    {"id": 15, "source": "us_mainstream", "headline": "Netanyahu brings a familiar message to Trump, who grown wary of Israeli actions", "frame": "DIPLOMATIC"},
+    {"id": 16, "source": "israeli", "headline": "US - Iran nuclear deal could leave Israel exposed to proxies", "frame": "PROXY"},
+    {"id": 17, "source": "israeli", "headline": "US - Iran nuclear deal could leave Israel exposed to proxies", "frame": "PROXY"},
+    {"id": 18, "source": "israeli", "headline": "Iran missiles endanger the world, says Sen. Rosen", "frame": "THREAT"},
+    {"id": 19, "source": "israeli", "headline": "How Benjamin Netanyahu, Donald Trump can reshape Iran without regime change", "frame": "DIPLOMATIC"},
+    {"id": 20, "source": "israeli", "headline": "Why Maduro arrest matters for Israel", "frame": "EXCLUDED - Not Iran-related"},
+    {"id": 21, "source": "israeli", "headline": "Marco Rubio links Venezuela to fight against Iran, Hezbollah", "frame": "PROXY"},
+    {"id": 22, "source": "israeli", "headline": "MK says Israel is ready for Trump strike on Iran", "frame": "THREAT"},
+    {"id": 23, "source": "israeli", "headline": "Iran push to control proxies signals looming US strike", "frame": "PROXY"},
+    {"id": 24, "source": "israeli", "headline": "Iran push to control proxies signals looming US strike", "frame": "PROXY"},
+    {"id": 25, "source": "israeli", "headline": "Israel targets Hezbollah to reduce missile threat from Iran", "frame": "PROXY"},
+    {"id": 26, "source": "israeli", "headline": "Iran sees good outlook for Geneva talks with US", "frame": "DIPLOMATIC"},
+    {"id": 27, "source": "israeli", "headline": "Russia - Iran treaty strengthens alliance against the West", "frame": "THREAT"},
+    {"id": 28, "source": "israeli", "headline": "Pro-Iranian Iraqi militia threatens Israel", "frame": "PROXY"},
+    {"id": 29, "source": "israeli", "headline": "Israel, Western countries cant trust Iran", "frame": "THREAT"},
+    {"id": 30, "source": "israeli", "headline": "Donald Trump administration open to Iran deal talks", "frame": "DIPLOMATIC"},
+    {"id": 31, "source": "aljazeera", "headline": "US urges American ships to stay as far as possible from Iranian waters", "frame": "THREAT"},
+    {"id": 32, "source": "aljazeera", "headline": "Iran president says US, Israel, Europe waging full-fledged war on country", "frame": "THREAT"},
+    {"id": 33, "source": "aljazeera", "headline": "Trump says meeting Iran Crown Prince Pahlavi would not be appropriate", "frame": "DIPLOMATIC"},
+    {"id": 34, "source": "aljazeera", "headline": "Netanyahu to meet Trump in US to discuss Iran, says Israeli PM", "frame": "DIPLOMATIC"},
+    {"id": 35, "source": "aljazeera", "headline": "Iran New Year demonstrations and the question of regime survival", "frame": "DOMESTIC"},
+    {"id": 36, "source": "aljazeera", "headline": "Nothing definitive reached about Iran during Netanyahu visit with Trump", "frame": "DIPLOMATIC"},
+    {"id": 37, "source": "aljazeera", "headline": "Lebanon claims first phase of Hezbollah disarmament close to complete", "frame": "PROXY"},
+    {"id": 38, "source": "aljazeera", "headline": "Lebanon mission to complete disarmament plan of Hezbollah", "frame": "PROXY"},
+    {"id": 39, "source": "aljazeera", "headline": "Trump abduction of Maduro escalates concerns over potential war with Iran", "frame": "THREAT"},
+    {"id": 40, "source": "aljazeera", "headline": "Top Turkish diplomat says Iran ready to negotiate, warns against US attack", "frame": "DIPLOMATIC"},
+    {"id": 41, "source": "aljazeera", "headline": "Mediators propose framework for crucial Iran - US talks this week", "frame": "DIPLOMATIC"},
+    {"id": 42, "source": "aljazeera", "headline": "Iran slams selective outrage after EU labels IRGC a terrorist group", "frame": "THREAT"},
+    {"id": 43, "source": "aljazeera", "headline": "Trump and Netanyahu align on Iran pressure but split on endgame", "frame": "DIPLOMATIC"},
+    {"id": 44, "source": "aljazeera", "headline": "Iran Araghchi slams European powers for irrelevance in nuclear talks", "frame": "DIPLOMATIC"},
+    {"id": 45, "source": "aljazeera", "headline": "Trump announces new 25% tariff: How will it impact Iran trading partners?", "frame": "THREAT"},
+    {"id": 46, "source": "uk", "headline": "Trump sends second aircraft carrier to Middle East in effort to increase pressure on Iran", "frame": "THREAT"},
+    {"id": 47, "source": "uk", "headline": "Internet blackout in Iran as large anti-government protests held across country", "frame": "DOMESTIC"},
+    {"id": 48, "source": "uk", "headline": "Trump should defy Netanyahu over nuclear talks with Iran, says its foreign minister", "frame": "DIPLOMATIC"},
+    {"id": 49, "source": "uk", "headline": "Youll never defeat us in Iran, President Trump: but with real talks, we can both win", "frame": "DIPLOMATIC"},
+    {"id": 50, "source": "uk", "headline": "War, a Trump-imposed deal or internal regime collapse: for Tehran, none of the options are good", "frame": "DOMESTIC"},
+    {"id": 51, "source": "uk", "headline": "Iran overtures of peace are at odds with its actions", "frame": "THREAT"},
+    {"id": 52, "source": "uk", "headline": "Death to the dictator: Iranian students hold protests for third day", "frame": "DOMESTIC"},
+    {"id": 53, "source": "uk", "headline": "Iran preparing nuclear counterproposal as Trump warns he is considering limited military strikes", "frame": "DIPLOMATIC"},
+    {"id": 54, "source": "uk", "headline": "US and Israel blame Iran after drone strikes oil tanker off Oman", "frame": "THREAT"},
+    {"id": 55, "source": "uk", "headline": "Trump says Iran talking to US and hints at deal to avoid military strikes", "frame": "DIPLOMATIC"},
+    {"id": 56, "source": "uk", "headline": "Trump says he will be indirectly involved in Iran nuclear talks", "frame": "DIPLOMATIC"},
+    {"id": 57, "source": "uk", "headline": "Netanyahu to meet Trump as Iran nuclear talks reach critical stage", "frame": "DIPLOMATIC"},
+    {"id": 58, "source": "uk", "headline": "Israeli-Russian woman says Iraqi militants tortured her in captivity", "frame": "EXCLUDED - Not Iran-related"},
+    {"id": 59, "source": "uk", "headline": "US and Iran nuclear talks at critical stage amid threat of Trump tearing up terms of success", "frame": "DIPLOMATIC"},
+    {"id": 60, "source": "uk", "headline": "Iran to listen to protester legitimate demand after widespread dissent", "frame": "DOMESTIC"}
+  ],
+  "ambiguous_cases": [
+    {
+      "id": 2,
+      "headline": "US carrier strike group is now in Middle East region",
+      "issue": "Blends military posture (THREAT) with diplomatic pressure context",
+      "decision": "Coded as THREAT - military deployment emphasis"
+    },
+    {
+      "id": 27,
+      "headline": "Russia - Iran treaty strengthens alliance against the West",
+      "issue": "Alliance formation could be THREAT or DIPLOMATIC",
+      "decision": "Coded as THREAT - anti-Western alliance language"
+    },
+    {
+      "id": 50,
+      "headline": "War, a Trump-imposed deal or internal regime collapse",
+      "issue": "Covers multiple frames; focuses on regime stability",
+      "decision": "Coded as DOMESTIC - regime collapse as main concern"
+    },
+    {
+      "id": 51,
+      "headline": "Iran overtures of peace are at odds with its actions",
+      "issue": "Peace overtures (DIPLOMATIC) vs credibility threat (THREAT)",
+      "decision": "Coded as THREAT - hypocrisy/credibility focus"
+    },
+    {
+      "id": 53,
+      "headline": "Iran preparing nuclear counterproposal as Trump warns he is considering limited military strikes",
+      "issue": "Counterproposal (DIPLOMATIC) vs strike warnings (THREAT)",
+      "decision": "Coded as DIPLOMATIC - counterproposal as primary action"
+    },
+    {
+      "id": 39,
+      "headline": "Trump abduction of Maduro escalates concerns over potential war with Iran",
+      "issue": "Geopolitical maneuvering with war threat",
+      "decision": "Coded as THREAT - war concern emphasis"
+    },
+    {
+      "id": 46,
+      "headline": "Trump sends second aircraft carrier to Middle East in effort to increase pressure on Iran",
+      "issue": "Military deployment as pressure tactic",
+      "decision": "Coded as THREAT - carrier as military threat"
+    },
+    {
+      "id": 54,
+      "headline": "US and Israel blame Iran after drone strikes oil tanker off Oman",
+      "issue": "Attack attribution (THREAT) vs response framing",
+      "decision": "Coded as THREAT - Iran blamed for attack"
+    }
+  ],
+  "summary": {
+    "total_headlines": 60,
+    "coded_headlines": 58,
+    "excluded_unrelated": 2,
+    "frames_used": 4,
+    "frames_not_found": ["CONFLICT"]
+  }
+}

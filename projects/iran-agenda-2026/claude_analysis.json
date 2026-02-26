@@ -1,0 +1,55 @@
+{
+  "model": "anthropic/claude-sonnet-4-20250514",
+  "analyst": "Claude",
+  "timestamp": "2026-02-26T18:45:00Z",
+  "frame_counts": {
+    "us_mainstream": {
+      "THREAT": 4,
+      "DIPLOMATIC": 5,
+      "CONFLICT": 2,
+      "DOMESTIC": 3,
+      "PROXY": 1
+    },
+    "israeli": {
+      "THREAT": 6,
+      "DIPLOMATIC": 2,
+      "CONFLICT": 1,
+      "DOMESTIC": 0,
+      "PROXY": 6
+    },
+    "aljazeera": {
+      "THREAT": 0,
+      "DIPLOMATIC": 9,
+      "CONFLICT": 4,
+      "DOMESTIC": 1,
+      "PROXY": 1
+    },
+    "uk": {
+      "THREAT": 0,
+      "DIPLOMATIC": 9,
+      "CONFLICT": 3,
+      "DOMESTIC": 3,
+      "PROXY": 0
+    }
+  },
+  "totals": {
+    "THREAT": 10,
+    "DIPLOMATIC": 25,
+    "CONFLICT": 10,
+    "DOMESTIC": 7,
+    "PROXY": 8
+  },
+  "percentages_by_source": {
+    "us_mainstream": {"THREAT": 26.7, "DIPLOMATIC": 33.3, "CONFLICT": 13.3, "DOMESTIC": 20.0, "PROXY": 6.7},
+    "israeli": {"THREAT": 40.0, "DIPLOMATIC": 13.3, "CONFLICT": 6.7, "DOMESTIC": 0.0, "PROXY": 40.0},
+    "aljazeera": {"THREAT": 0.0, "DIPLOMATIC": 60.0, "CONFLICT": 26.7, "DOMESTIC": 6.7, "PROXY": 6.7},
+    "uk": {"THREAT": 0.0, "DIPLOMATIC": 60.0, "CONFLICT": 20.0, "DOMESTIC": 20.0, "PROXY": 0.0}
+  },
+  "key_findings": [
+    "H1 SUPPORTED: Israeli sources show highest THREAT framing (40%) vs 0% for Al Jazeera/UK",
+    "H2 SUPPORTED: US mainstream emphasizes threat (26.7%) more than UK (0%)",
+    "H3 SUPPORTED: Israeli sources show highest PROXY framing (40%)",
+    "H4 SUPPORTED: Al Jazeera shows highest DIPLOMATIC framing (60%)",
+    "UNEXPECTED: UK outlets mirror Al Jazeera (60% diplomatic), not US sources"
+  ]
+}

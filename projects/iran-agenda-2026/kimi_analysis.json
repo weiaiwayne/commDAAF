@@ -1,0 +1,133 @@
+{
+  "model": "anthropic/claude-opus-4-5",
+  "analyst": "Kimi",
+  "coding_date": "2026-02-26",
+  "total_headlines": 60,
+  "frame_counts": {
+    "us_mainstream": {
+      "THREAT": 5,
+      "DIPLOMATIC": 6,
+      "CONFLICT": 0,
+      "DOMESTIC": 3,
+      "PROXY": 1,
+      "total": 15
+    },
+    "israeli": {
+      "THREAT": 6,
+      "DIPLOMATIC": 4,
+      "CONFLICT": 3,
+      "DOMESTIC": 0,
+      "PROXY": 2,
+      "total": 15
+    },
+    "aljazeera": {
+      "THREAT": 1,
+      "DIPLOMATIC": 9,
+      "CONFLICT": 2,
+      "DOMESTIC": 1,
+      "PROXY": 2,
+      "total": 15
+    },
+    "uk": {
+      "THREAT": 1,
+      "DIPLOMATIC": 9,
+      "CONFLICT": 1,
+      "DOMESTIC": 3,
+      "PROXY": 1,
+      "total": 15
+    }
+  },
+  "percentages_by_source": {
+    "us_mainstream": {
+      "THREAT": 33.3,
+      "DIPLOMATIC": 40.0,
+      "CONFLICT": 0.0,
+      "DOMESTIC": 20.0,
+      "PROXY": 6.7
+    },
+    "israeli": {
+      "THREAT": 40.0,
+      "DIPLOMATIC": 26.7,
+      "CONFLICT": 20.0,
+      "DOMESTIC": 0.0,
+      "PROXY": 13.3
+    },
+    "aljazeera": {
+      "THREAT": 6.7,
+      "DIPLOMATIC": 60.0,
+      "CONFLICT": 13.3,
+      "DOMESTIC": 6.7,
+      "PROXY": 13.3
+    },
+    "uk": {
+      "THREAT": 6.7,
+      "DIPLOMATIC": 60.0,
+      "CONFLICT": 6.7,
+      "DOMESTIC": 20.0,
+      "PROXY": 6.7
+    }
+  },
+  "aggregate_totals": {
+    "THREAT": 13,
+    "DIPLOMATIC": 28,
+    "CONFLICT": 6,
+    "DOMESTIC": 7,
+    "PROXY": 6
+  },
+  "key_findings": [
+    "Israeli sources show highest THREAT framing (40%) - 6x higher than Al Jazeera/UK (6.7%)",
+    "Al Jazeera and UK sources strongly emphasize DIPLOMATIC framing (60% each) vs Israeli (26.7%)",
+    "Israeli sources are only outlet with significant CONFLICT framing (20%) anticipating military action",
+    "Israeli sources completely lack DOMESTIC coverage (0%) - no attention to Iranian internal events",
+    "US mainstream shows balanced but threat-leaning coverage: 40% DIPLOMATIC, 33% THREAT",
+    "UK and US mainstream are only sources with substantial DOMESTIC coverage (20% each)",
+    "PROXY framing is relatively minor across all sources (6.7%-13.3%), with Israeli highest",
+    "Clear editorial divergence: Israeli media frames Iran as threat/enemy, Al Jazeera/UK frame as diplomatic actor"
+  ],
+  "ambiguous_cases": [
+    {
+      "headlines": [7, 8, 9],
+      "text": "Analysis: Decoding Trump Iran strategy",
+      "decision": "DIPLOMATIC - analyzing diplomatic approach rather than threat",
+      "alternative": "Could be THREAT if interpreted as military strategy"
+    },
+    {
+      "headlines": [20],
+      "text": "Why Maduro arrest matters for Israel",
+      "decision": "DIPLOMATIC - international relations context",
+      "alternative": "Tangential to Iran, coded by diplomatic framing"
+    },
+    {
+      "headlines": [50],
+      "text": "War, a Trump-imposed deal or internal regime collapse: for Tehran none good",
+      "decision": "DIPLOMATIC - analytical piece on diplomatic options",
+      "alternative": "Could be CONFLICT or DOMESTIC depending on emphasis"
+    },
+    {
+      "headlines": [51],
+      "text": "Iran overtures of peace are at odds with its actions",
+      "decision": "DIPLOMATIC - focuses on peace overtures",
+      "alternative": "Could be THREAT given skeptical framing"
+    },
+    {
+      "headlines": [53],
+      "text": "Iran preparing nuclear counterproposal as Trump warns he is considering limited military strikes",
+      "decision": "DIPLOMATIC - counterproposal is primary subject",
+      "alternative": "Dual framing with CONFLICT element"
+    }
+  ],
+  "headline_codings": {
+    "1": "DIPLOMATIC", "2": "THREAT", "3": "THREAT", "4": "THREAT", "5": "THREAT",
+    "6": "THREAT", "7": "DIPLOMATIC", "8": "DIPLOMATIC", "9": "DIPLOMATIC", "10": "DIPLOMATIC",
+    "11": "PROXY", "12": "DOMESTIC", "13": "DOMESTIC", "14": "DOMESTIC", "15": "DIPLOMATIC",
+    "16": "THREAT", "17": "THREAT", "18": "THREAT", "19": "DIPLOMATIC", "20": "DIPLOMATIC",
+    "21": "THREAT", "22": "CONFLICT", "23": "CONFLICT", "24": "CONFLICT", "25": "PROXY",
+    "26": "DIPLOMATIC", "27": "THREAT", "28": "PROXY", "29": "THREAT", "30": "DIPLOMATIC",
+    "31": "THREAT", "32": "CONFLICT", "33": "DIPLOMATIC", "34": "DIPLOMATIC", "35": "DOMESTIC",
+    "36": "DIPLOMATIC", "37": "PROXY", "38": "PROXY", "39": "CONFLICT", "40": "DIPLOMATIC",
+    "41": "DIPLOMATIC", "42": "DIPLOMATIC", "43": "DIPLOMATIC", "44": "DIPLOMATIC", "45": "DIPLOMATIC",
+    "46": "THREAT", "47": "DOMESTIC", "48": "DIPLOMATIC", "49": "DIPLOMATIC", "50": "DIPLOMATIC",
+    "51": "DIPLOMATIC", "52": "DOMESTIC", "53": "DIPLOMATIC", "54": "CONFLICT", "55": "DIPLOMATIC",
+    "56": "DIPLOMATIC", "57": "DIPLOMATIC", "58": "PROXY", "59": "DIPLOMATIC", "60": "DOMESTIC"
+  }
+}

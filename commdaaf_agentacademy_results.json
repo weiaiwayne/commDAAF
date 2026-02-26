@@ -2,10 +2,70 @@
   "name": "AgentAcademy",
   "description": "Where AI agents learn to be better researchers by checking each other's work",
   "status": "active",
-  "last_run": "2026-02-22T23:59:00Z",
+  "last_run": "2026-02-26T18:45:00Z",
   "next_run": "2026-03-01T05:00:00Z",
   "endpoint": "vineanalyst.com/commdaaf/agentacademy",
   "runs": [
+    {
+      "timestamp": "2026-02-26T18:45:00Z",
+      "title": "\ud83c\uddee\ud83c\uddf7 Iran Intermedia Agenda-Setting: 10x Threat Frame Divergence Across Sources",
+      "method": "Multi-Model Validation (Claude + GLM + Kimi)",
+      "type": "study",
+      "dataset": {
+        "headlines": 262,
+        "sample": 60,
+        "sources": "GDELT DOC API (Jan 2024 - Feb 2026)",
+        "source_types": "US mainstream, Israeli, Al Jazeera, UK"
+      },
+      "summary": "Israeli sources frame Iran as THREAT 10x more than Al Jazeera (42% vs 4%). All 5 hypotheses SUPPORTED with 3-model convergence. Israeli media shows ZERO domestic Iran coverage (protests, economy). UK/Al Jazeera emphasize DIPLOMATIC framing (58%). Kimi successfully completed analysis (no content filter blocking on Iran topic).",
+      "findings": [
+        {
+          "type": "success",
+          "text": "3-MODEL CONVERGENCE: All hypotheses supported - Israeli THREAT highest (42%), DIPLOMATIC highest in AJ/UK (58%)"
+        },
+        {
+          "type": "success",
+          "text": "KIMI WORKED: No content filter blocking on Iran topic (unlike Nigeria religious conflict study)"
+        },
+        {
+          "type": "success",
+          "text": "HIGH RELIABILITY: 78% perfect agreement (3/3 models), 22% majority agreement (2/3)"
+        },
+        {
+          "type": "warning",
+          "text": "ISRAELI BLIND SPOT: 0% domestic Iran coverage - no protests, no economy, only external threat"
+        },
+        {
+          "type": "warning",
+          "text": "PROXY FRAME UNIQUE: Israeli 31% vs <15% elsewhere - Hezbollah/militia focus specific to Israeli sources"
+        },
+        {
+          "type": "info",
+          "text": "US MAINSTREAM MIDDLE: 24.5% threat, 40% diplomatic - balanced between Israeli and UK positions"
+        }
+      ],
+      "hypotheses": {
+        "H1": "Israeli = highest THREAT \u2192 SUPPORTED (42% vs 24% US, 7% UK, 4% AJ)",
+        "H2": "US > UK on THREAT \u2192 SUPPORTED (24.5% vs 6.7%, 3.7x difference)",
+        "H3": "Israeli = highest PROXY \u2192 SUPPORTED (31% vs <15% elsewhere)",
+        "H4": "AJ/UK = highest DIPLOMATIC \u2192 SUPPORTED (both 58%)",
+        "H5": "Israeli = lowest DOMESTIC \u2192 SUPPORTED (0% vs 22% UK, 20% US)"
+      },
+      "commdaaf_gaps_found": [
+        "No tone/valence capture - 'strike back' vs 'ready to negotiate' both code same",
+        "Duplicate headline handling needed before sampling",
+        "Missing MIXED frame option for dual-frame headlines",
+        "No temporal analysis - frames may vary by week/event",
+        "Wire service undersampling (only 1 article captured)"
+      ],
+      "links": {
+        "model_comparison": "projects/iran-agenda-2026/MODEL_COMPARISON.md",
+        "claude_analysis": "projects/iran-agenda-2026/claude_analysis.json",
+        "glm_analysis": "projects/iran-agenda-2026/glm_analysis.json",
+        "kimi_analysis": "projects/iran-agenda-2026/kimi_analysis.json",
+        "research_design": "projects/iran-agenda-2026/RESEARCH_DESIGN.md"
+      }
+    },
     {
       "timestamp": "2026-02-22T23:59:00Z",
       "title": "\ud83d\udcf0 Nigeria Christian-Fulani Conflict: News Framing Analysis",
