@@ -1,6 +1,6 @@
 {
   "name": "AgentAcademy",
-  "description": "Where AI agents learn to be better researchers by checking each other's work",
+  "description": "Where AI agents learn to be better researchers\u2014and improve the tools along the way",
   "status": "active",
   "last_run": "2026-02-26T18:45:00Z",
   "next_run": "2026-03-01T05:00:00Z",
@@ -8,65 +8,97 @@
   "runs": [
     {
       "timestamp": "2026-02-26T18:45:00Z",
-      "title": "\ud83c\uddee\ud83c\uddf7 Iran Intermedia Agenda-Setting: 10x Threat Frame Divergence Across Sources",
-      "method": "Multi-Model Validation (Claude + GLM + Kimi)",
-      "type": "study",
+      "title": "\ud83d\udd27 How One Study Improved CommDAAF: Iran Frame Analysis \u2192 v0.4 Release",
+      "method": "Multi-Model Validation \u2192 Skill Improvement",
+      "type": "study_to_skill",
       "dataset": {
         "headlines": 262,
         "sample": 60,
         "sources": "GDELT DOC API (Jan 2024 - Feb 2026)",
         "source_types": "US mainstream, Israeli, Al Jazeera, UK"
       },
-      "summary": "Israeli sources frame Iran as THREAT 10x more than Al Jazeera (42% vs 4%). All 5 hypotheses SUPPORTED with 3-model convergence. Israeli media shows ZERO domestic Iran coverage (protests, economy). UK/Al Jazeera emphasize DIPLOMATIC framing (58%). Kimi successfully completed analysis (no content filter blocking on Iran topic).",
+      "summary": "Ran 3-model frame analysis on Iran news. Study worked\u2014but exposed 5 methodology gaps. Each gap became a CommDAAF v0.4 skill update. This is the AgentAcademy loop: Run real research \u2192 Find what breaks \u2192 Fix the framework for all users.",
+      "key_finding": "Israeli sources frame Iran as THREAT 10x more than Al Jazeera (42% vs 4%)",
+      "skill_improvements": {
+        "title": "Study \u2192 Skill Updates",
+        "version": "CommDAAF v0.4.0",
+        "changes": [
+          {
+            "gap": "Duplicate headlines in sample",
+            "fix": "Pre-sampling deduplication protocol with code example"
+          },
+          {
+            "gap": "No MIXED frame option",
+            "fix": "Multi-label coding (PRIMARY + SECONDARY frame)"
+          },
+          {
+            "gap": "'Strike back' vs 'negotiate' coded same",
+            "fix": "Valence dimension (positive/negative/neutral) required"
+          },
+          {
+            "gap": "No temporal breakdown for 25-month study",
+            "fix": "Temporal segmentation required for >30 day studies"
+          },
+          {
+            "gap": "Unclear single vs multi-model QC",
+            "fix": "Explicit distinction: methodology scaffold \u2260 fact-checker"
+          }
+        ],
+        "files_changed": [
+          "SKILL.md",
+          "references/methods/frame-analysis.md",
+          "references/workflows/tiered-validation.md",
+          "CHANGELOG.md",
+          "README.md"
+        ]
+      },
       "findings": [
         {
           "type": "success",
-          "text": "3-MODEL CONVERGENCE: All hypotheses supported - Israeli THREAT highest (42%), DIPLOMATIC highest in AJ/UK (58%)"
+          "text": "SKILL UPDATED: 5 gaps found \u2192 5 fixes added to CommDAAF v0.4"
         },
         {
           "type": "success",
-          "text": "KIMI WORKED: No content filter blocking on Iran topic (unlike Nigeria religious conflict study)"
+          "text": "3-MODEL CONVERGENCE: 78% perfect agreement, all hypotheses supported"
         },
         {
           "type": "success",
-          "text": "HIGH RELIABILITY: 78% perfect agreement (3/3 models), 22% majority agreement (2/3)"
-        },
-        {
-          "type": "warning",
-          "text": "ISRAELI BLIND SPOT: 0% domestic Iran coverage - no protests, no economy, only external threat"
-        },
-        {
-          "type": "warning",
-          "text": "PROXY FRAME UNIQUE: Israeli 31% vs <15% elsewhere - Hezbollah/militia focus specific to Israeli sources"
+          "text": "KIMI WORKED: No content filter blocking (unlike Nigeria study)"
         },
         {
           "type": "info",
-          "text": "US MAINSTREAM MIDDLE: 24.5% threat, 40% diplomatic - balanced between Israeli and UK positions"
+          "text": "KEY FINDING: Israeli THREAT framing 42% vs Al Jazeera 4% (10x difference)"
+        },
+        {
+          "type": "info",
+          "text": "ISRAELI BLIND SPOT: 0% domestic Iran coverage across all 3 models"
+        },
+        {
+          "type": "warning",
+          "text": "FRAMEWORK GAP: Multi-model convergence \u2260 human validation (now documented)"
         }
       ],
-      "hypotheses": {
-        "H1": "Israeli = highest THREAT \u2192 SUPPORTED (42% vs 24% US, 7% UK, 4% AJ)",
-        "H2": "US > UK on THREAT \u2192 SUPPORTED (24.5% vs 6.7%, 3.7x difference)",
-        "H3": "Israeli = highest PROXY \u2192 SUPPORTED (31% vs <15% elsewhere)",
-        "H4": "AJ/UK = highest DIPLOMATIC \u2192 SUPPORTED (both 58%)",
-        "H5": "Israeli = lowest DOMESTIC \u2192 SUPPORTED (0% vs 22% UK, 20% US)"
+      "before_after": {
+        "before": [
+          "Could sample duplicate headlines without knowing",
+          "Lost valence information in frame coding",
+          "Could assume 3-model = publication ready",
+          "No temporal breakdown requirement"
+        ],
+        "after": [
+          "Deduplication protocol enforced",
+          "Valence required alongside frame",
+          "Human validation required for \ud83d\udd34 tier",
+          "Temporal segmentation for >30 days"
+        ]
       },
-      "commdaaf_gaps_found": [
-        "No tone/valence capture - 'strike back' vs 'ready to negotiate' both code same",
-        "Duplicate headline handling needed before sampling",
-        "Missing MIXED frame option for dual-frame headlines",
-        "No temporal analysis - frames may vary by week/event",
-        "Wire service undersampling (only 1 article captured)"
-      ],
       "links": {
+        "agentacademy_report": "projects/iran-agenda-2026/AGENTACADEMY_REPORT.md",
         "model_comparison": "projects/iran-agenda-2026/MODEL_COMPARISON.md",
-        "claude_analysis": "projects/iran-agenda-2026/claude_analysis.json",
-        "glm_analysis": "projects/iran-agenda-2026/glm_analysis.json",
-        "kimi_analysis": "projects/iran-agenda-2026/kimi_analysis.json",
-        "research_design": "projects/iran-agenda-2026/RESEARCH_DESIGN.md",
-        "agentacademy_report": "projects/iran-agenda-2026/AGENTACADEMY_REPORT.md"
+        "commdaaf_repo": "https://github.com/weiaiwayne/commDAAF",
+        "commit": "4f59f69"
       },
-      "report_url": "/static/vineanalyst/commdaaf/iran-agenda/AGENTACADEMY_REPORT.html"
+      "report_url": "/static/vineanalyst/commdaaf/iran-agenda/AGENTACADEMY_REPORT.md"
     },
     {
       "timestamp": "2026-02-22T23:59:00Z",
