@@ -1,11 +1,13 @@
 # CommDAAF
 
-**Computational Communication Research Framework** | v0.7.0
+**Computational Communication Research Framework** | v0.8.0
 
 A methodological skill pack for AI-assisted computational social science research, adapted from [DAAF](https://github.com/DAAF-Contribution-Community/daaf) and tailored for communication scholars.
 
 **Sister project: [CommScribe](https://github.com/weiaiwayne/commscribe)** — While CommDAAF handles data analysis, CommScribe handles literature review, theory building, and scholarly writing with voice learning.
 
+> **v0.8.0 (2026-02-26)**: Iran AgentAcademy study exposed 5 methodology gaps → became v0.4 skill updates. Adds mandatory tier declaration, valence coding, multi-label frames, deduplication protocol, temporal segmentation, and single vs multi-model QC distinction. See [`studies/2026-02-26-iran-agenda.md`](antigravity/studies/2026-02-26-iran-agenda.md).
+>
 > **v0.7.0 (2026-02-18)**: Reproducibility architecture update inspired by [Xu & Yang (2026)](https://yiqingxu.org/papers/2026_ai/AI_reproducibility.pdf). Adds three-layer architecture, mandatory cross-agent validation, credibility rating scheme, and structured failure knowledge base. See `skill-templates/workflows/agent-academy/ARCHITECTURE.md`.
 
 ---
@@ -20,7 +22,8 @@ An incubator where AI agents learn from mistakes through adversarial peer review
 
 | Study | Dataset | Key Finding | Validation |
 |-------|---------|-------------|------------|
-| **China TikTok** 🆕 | 2K videos, 48K comments | 60x engagement disparity; state media premium 28-75% | ✅ 3-model |
+| **🔧 Iran Agenda-Setting** 🆕 | 262 headlines | Israeli THREAT framing 10x higher than Al Jazeera → **Led to v0.4 skill updates** | ✅ 3-model |
+| **China TikTok** | 2K videos, 48K comments | 60x engagement disparity; state media premium 28-75% | ✅ 3-model |
 | **Xinjiang Cotton** | 92K tweets | Dual-sided coordination; pro-Uyghur got 2x engagement | ✅ 3-model |
 | **#StandWithBelarus** | 96K tweets | 38% Thai = Milk Tea Alliance solidarity, not bots | ✅ 3-model |
 | **Ukraine Dam Crisis** | 266K tweets | Cuban state media unexpectedly prominent | ✅ 3-model |
@@ -28,6 +31,24 @@ An incubator where AI agents learn from mistakes through adversarial peer review
 | **CNN 2015 Coverage** | 983 articles | 87-94% law enforcement mentions; mixed content types | ✅ 3-model |
 | **#EndSARS Nigeria** | 300K tweets | Elite accounts drove visibility | ✅ 2-model |
 | **LLM Topic Coverage** | API tests | Topic-based filtering at API layer, not model weights | ✅ 3-model |
+
+### 🔧 NEW: Iran Study → CommDAAF v0.4 (Feb 26, 2026)
+
+**This study demonstrates the AgentAcademy improvement loop: Run research → Find gaps → Fix framework.**
+
+Analyzed 262 Iran news headlines (GDELT, Jan 2024 – Feb 2026) with 3-model validation. Study worked—but exposed 5 methodology gaps that became v0.4 skill updates:
+
+| Gap Found During Study | Fix Added to CommDAAF |
+|------------------------|----------------------|
+| Duplicate headlines in sample | Pre-sampling deduplication protocol |
+| No MIXED frame option | Multi-label coding (PRIMARY + SECONDARY) |
+| "Strike back" vs "negotiate" coded same | Valence dimension required |
+| No temporal breakdown | Segmentation for >30 day studies |
+| Unclear single vs multi-model QC | Explicit distinction documented |
+
+**Key research finding:** Israeli sources frame Iran as THREAT 10x more than Al Jazeera (42% vs 4%). All 5 hypotheses supported with 78% 3-model agreement.
+
+📄 **Full report:** [`studies/2026-02-26-iran-agenda.md`](antigravity/studies/2026-02-26-iran-agenda.md)
 
 ### ✅ STUDY COMPLETE: Chinese LLM Content Filtering (Feb 2026)
 
