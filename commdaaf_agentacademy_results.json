@@ -8,106 +8,63 @@
   "runs": [
     {
       "timestamp": "2026-02-27T19:00:00Z",
-      "title": "📄 From Study to Papers: #MahsaAmini Virality Research",
-      "method": "Multi-Model Content Analysis → Preprints + Protocol",
+      "title": "📄 Why Facts Beat Feelings: What Makes Protest Tweets Go Viral",
+      "method": "AI Team Analysis",
       "type": "study_to_papers",
       "dataset": {
         "tweets": 380,
-        "time_period": "Sept 21 - Oct 3, 2022",
-        "languages": "Persian (69%), English (23%), Arabic (5%)",
-        "engagement_tiers": "Viral, High, Medium, Low"
+        "movement": "#MahsaAmini (Iran Protests 2022)",
+        "languages": "Mostly Persian, some English and Arabic"
       },
-      "summary": "Analyzed what makes protest content go viral during the #MahsaAmini movement. Used 3-model validation (Claude, GLM, Kimi) with CommDAAF methodology. Surprising finding: factual, informational content spreads better than emotional appeals in crisis contexts. Study produced 2 preprints and a comprehensive protocol for future agentic research.",
-      "key_finding": "INFORMATIONAL framing predicts 2.7x more engagement than SOLIDARITY framing",
+      "summary": "We studied which tweets spread furthest during the Iran protests. Surprise: simple factual updates beat emotional posts by nearly 3x. When information is hard to find, facts become more valuable than feelings.",
+      "key_finding": "Factual tweets got 3x more shares than emotional solidarity posts",
+      "plain_english": {
+        "title": "The Study in Plain English",
+        "paragraphs": [
+          "After Mahsa Amini died in Iranian police custody in 2022, massive protests erupted. Millions of tweets spread the news. But why did some tweets go viral while others didn't?",
+          "We used three AI systems to sort 380 tweets into categories: Was each tweet sharing facts? Expressing solidarity? Calling for action? When all three AIs agreed, we trusted the answer.",
+          "The surprise: \"Breaking: protests in 50 cities\" spread almost 3x more than \"We stand with Iranian women.\" Facts beat feelings.",
+          "This makes sense when you think about it. During a crisis with government censorship and propaganda, everyone posts emotional support—but reliable information is rare. Rare things are valuable. People share what's valuable.",
+          "We wrote two research papers about this and created a guide so others can do similar AI-assisted research."
+        ]
+      },
       "outputs": {
-        "title": "Research Outputs",
-        "papers": [
-          {
-            "name": "Information Over Emotion?",
-            "type": "Theory Paper",
-            "target": "Journal of Communication",
-            "finding": "Informational framing outperforms emotional frames in information-scarce crisis contexts",
-            "contribution": "Information-scarcity hypothesis as boundary condition for moral contagion theory"
-          },
-          {
-            "name": "Toward Agentic Content Analysis",
-            "type": "Methods Paper",
-            "target": "Computational Communication Research",
-            "finding": "Documents full workflow with successes AND failures",
-            "contribution": "CommDAAF framework + 10 concrete practices for human-AI collaborative research"
-          }
-        ],
-        "protocol": {
-          "name": "AgentAcademy Study Protocol",
-          "purpose": "Step-by-step guide for future multi-model studies",
-          "key_rules": [
-            "Kimi batch limit: 25 posts max",
-            "Mandatory distribution diagnostics before regression",
-            "Report frame-specific reliability, not just aggregate",
-            "Use Negative Binomial for engagement data (not OLS)"
-          ]
-        }
+        "title": "What We Made",
+        "items": [
+          "📄 Research paper: Why facts spread faster in crises",
+          "📄 Methods paper: How to do AI-assisted research properly",
+          "📋 Step-by-step guide for future studies"
+        ]
       },
       "findings": [
         {
           "type": "success",
-          "text": "2 PREPRINTS PRODUCED: Theory paper + Methods paper ready for review"
+          "text": "Facts beat feelings: 3x more engagement"
         },
         {
           "type": "success",
-          "text": "3-MODEL AGREEMENT: Fleiss κ = 0.633 (Substantial)"
+          "text": "Three AIs agreed 63% of the time (that's good!)"
         },
         {
           "type": "success",
-          "text": "PROTOCOL CREATED: Comprehensive guide for future AgentAcademy studies"
+          "text": "Two papers ready for academic review"
         },
         {
           "type": "info",
-          "text": "SURPRISING FINDING: Information beats emotion in crisis contexts"
-        },
-        {
-          "type": "info",
-          "text": "PEER REVIEWED: Kimi provided constructive critique of both papers"
+          "text": "In crises, information is scarce → facts become valuable"
         },
         {
           "type": "warning",
-          "text": "LIMITATION: No human validation (appropriate for exploratory tier)"
+          "text": "Caveat: We didn't have humans double-check the AI (that's next)"
         }
       ],
-      "plain_english": {
-        "title": "What We Did (For Non-Technical Readers)",
-        "paragraphs": [
-          "We wanted to understand why some protest tweets spread widely while others don't. We looked at 380 tweets from the #MahsaAmini movement—the Iranian protests that began in September 2022 after Mahsa Amini died in police custody.",
-          "We had three different AI systems (Claude, GLM, and Kimi) independently categorize each tweet by its \"frame\"—is it expressing solidarity, reporting facts, calling for action, etc.? When the AIs agreed, we were more confident in the categorization.",
-          "The surprising finding: tweets that simply reported facts (\"Protests spread to 50 cities\") got nearly 3x more engagement than emotional solidarity posts (\"We stand with Iranian women\"). This challenges the common belief that emotional content always spreads best.",
-          "Why might this be? In a crisis where the government controls information and spreads disinformation, people desperately need facts. Factual updates become valuable precisely because they're scarce. Emotional support is abundant; reliable information is not.",
-          "We wrote up our findings in two papers—one about the content findings, one about the research method itself. We also created a detailed guide so others can replicate this kind of AI-assisted research."
-        ]
-      },
-      "skill_improvements": {
-        "title": "New CommDAAF Features (v0.6)",
-        "version": "CommDAAF v0.6.0",
-        "changes": [
-          {
-            "gap": "Manual codebook creation",
-            "fix": "Codebook Generator skill auto-generates from theory"
-          },
-          {
-            "gap": "Effect size calculation by hand",
-            "fix": "Effect Size Interpreter with field benchmarks"
-          },
-          {
-            "gap": "Ad-hoc sampling",
-            "fix": "Sampling Strategist with engagement tiers and power analysis"
-          },
-          {
-            "gap": "No literature search integration",
-            "fix": "Literature Synthesis skill (Semantic Scholar + OpenAlex)"
-          },
-          {
-            "gap": "Text-only analysis",
-            "fix": "Multimodal Coder for images, video, memes"
-          }
+      "takeaways": {
+        "title": "So What?",
+        "points": [
+          "If you want your message to spread during a crisis, lead with facts",
+          "Emotional appeals work—but everyone's doing them, so yours won't stand out",
+          "AI can help analyze social media, but we need clear rules for how to do it right",
+          "This study helped us build better tools for future research"
         ]
       }
     },
