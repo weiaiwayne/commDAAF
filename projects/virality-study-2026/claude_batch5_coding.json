@@ -2,39 +2,626 @@
   "model": "claude-opus-4-5",
   "analyst": "Claude",
   "batch": 5,
-  "n_coded": 50,
-  "dataset": "ukraine",
+  "n_coded": 100,
   "codings": [
-    {"id": "1539817217763811328", "frame": "INFORMATIONAL", "valence": "neutral", "arousal": "low"},
-    {"id": "1539987398695714816", "frame": "CONFLICT", "valence": "negative", "arousal": "high"},
-    {"id": "1537238980109864961", "frame": "INFORMATIONAL", "valence": "neutral", "arousal": "medium"},
-    {"id": "1537410673122189313", "frame": "SOLIDARITY", "valence": "positive", "arousal": "medium"},
-    {"id": "1537360660811636743", "frame": "INFORMATIONAL", "valence": "neutral", "arousal": "low"},
-    {"id": "1537483538597036032", "frame": "CONFLICT", "valence": "negative", "arousal": "high"},
-    {"id": "1539948070397308929", "frame": "INFORMATIONAL", "valence": "neutral", "arousal": "low"},
-    {"id": "1537399478206054401", "frame": "SOLIDARITY", "valence": "positive", "arousal": "medium"},
-    {"id": "1540072674512314369", "frame": "INFORMATIONAL", "valence": "neutral", "arousal": "low"}
+    {
+      "id": "1539817217763811328",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1539987398695714816",
+      "frame": "CONFLICT",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1537238980109864961",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537410673122189313",
+      "frame": "CONFLICT",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1537360660811636743",
+      "frame": "CONFLICT",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537483538597036032",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1539948070397308929",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537399478206054401",
+      "frame": "HOPE",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1540072674512314369",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537427696510115840",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1540103628446384129",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537574000099991552",
+      "frame": "CALL_TO_ACTION",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1539894093026934786",
+      "frame": "INFORMATIONAL",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1539912437880836096",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537556613539799041",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1540002087869681665",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1540009175953985541",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1540060789150781447",
+      "frame": "INFORMATIONAL",
+      "valence": "neutral",
+      "arousal": "low"
+    },
+    {
+      "id": "1537479301255372801",
+      "frame": "SOLIDARITY",
+      "valence": "positive",
+      "arousal": "medium"
+    },
+    {
+      "id": "1540048892598927361",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537449990682841089",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537373657617645568",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537326653550075904",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537447435475111938",
+      "frame": "INFORMATIONAL",
+      "valence": "neutral",
+      "arousal": "low"
+    },
+    {
+      "id": "1539884714617720833",
+      "frame": "CALL_TO_ACTION",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537574624732528644",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537393813915742209",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1539966959000768515",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537306476762439685",
+      "frame": "CONFLICT",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1539913250162212864",
+      "frame": "CALL_TO_ACTION",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1540040765224648707",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1539967855545819136",
+      "frame": "CONFLICT",
+      "valence": "negative",
+      "arousal": "medium"
+    },
+    {
+      "id": "1540063688455077889",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1537528959646281731",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1539896680639766530",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537226156088258560",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1539822107429056512",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1539966347018240002",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537329129527185409",
+      "frame": "CONFLICT",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1540007862298107906",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1539914931151200256",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1539969384684212224",
+      "frame": "CONFLICT",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537241709083774976",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1539977187389886465",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1540067191248326656",
+      "frame": "SOLIDARITY",
+      "valence": "positive",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537419727986905090",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1539971548571873288",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537279481060147201",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1539795337149382657",
+      "frame": "CALL_TO_ACTION",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1537441796380274694",
+      "frame": "INFORMATIONAL",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1537392882327425025",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1539960331061149696",
+      "frame": "INFORMATIONAL",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1537491155973197824",
+      "frame": "INFORMATIONAL",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1537369236749836290",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537368172445192194",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1540094125701201920",
+      "frame": "SOLIDARITY",
+      "valence": "positive",
+      "arousal": "high"
+    },
+    {
+      "id": "1537526611322494979",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1539953778291576840",
+      "frame": "CALL_TO_ACTION",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1540000983681536002",
+      "frame": "CONFLICT",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537295341154095105",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537321438675451904",
+      "frame": "INFORMATIONAL",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1537357098043879425",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537365163598196736",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537464768713351170",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537333128108429313",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537554037238910976",
+      "frame": "INFORMATIONAL",
+      "valence": "neutral",
+      "arousal": "low"
+    },
+    {
+      "id": "1537447713200934913",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537340475065217024",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1540097167188189187",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1539831683230404608",
+      "frame": "HOPE",
+      "valence": "positive",
+      "arousal": "medium"
+    },
+    {
+      "id": "1539957068379164674",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1537416242327195648",
+      "frame": "CALL_TO_ACTION",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1539998898852429827",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537373904913715202",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537302522335055873",
+      "frame": "CONFLICT",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537516975882219557",
+      "frame": "CONFLICT",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1540105636033306624",
+      "frame": "INFORMATIONAL",
+      "valence": "neutral",
+      "arousal": "low"
+    },
+    {
+      "id": "1537469005237309441",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1537288545844334593",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1540083162453143553",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537411023094927362",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1537412613348462592",
+      "frame": "INFORMATIONAL",
+      "valence": "neutral",
+      "arousal": "low"
+    },
+    {
+      "id": "1537419094265307136",
+      "frame": "HOPE",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1539896332982562818",
+      "frame": "INFORMATIONAL",
+      "valence": "neutral",
+      "arousal": "low"
+    },
+    {
+      "id": "1537425529703477253",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1539879687782105088",
+      "frame": "CONFLICT",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1540062684896497664",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1540092594662801409",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1537410547490164738",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1539992806525210630",
+      "frame": "HOPE",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537312075197865984",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537354584770879488",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537405839287668737",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537549063146586114",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1537451200727207937",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1540009902214635521",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1539813083186663424",
+      "frame": "INFORMATIONAL",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1537540574869622785",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "medium"
+    },
+    {
+      "id": "1539990996490096640",
+      "frame": "SOLIDARITY",
+      "valence": "neutral",
+      "arousal": "high"
+    },
+    {
+      "id": "1540101107476680704",
+      "frame": "CONFLICT",
+      "valence": "neutral",
+      "arousal": "medium"
+    }
   ],
   "summary": {
     "frame_distribution": {
-      "INFORMATIONAL": 5,
-      "CONFLICT": 2,
-      "SOLIDARITY": 2,
-      "INJUSTICE": 0,
-      "HOPE": 0,
-      "CALL_TO_ACTION": 0,
-      "HUMANITARIAN": 0
+      "SOLIDARITY": 66,
+      "CONFLICT": 12,
+      "HOPE": 4,
+      "CALL_TO_ACTION": 6,
+      "INFORMATIONAL": 12
     },
     "valence_distribution": {
-      "neutral": 5,
-      "positive": 2,
-      "negative": 2
+      "neutral": 95,
+      "positive": 4,
+      "negative": 1
     },
     "arousal_distribution": {
-      "low": 4,
-      "medium": 3,
-      "high": 2
+      "medium": 63,
+      "high": 31,
+      "low": 6
     }
-  },
-  "note": "Preliminary coding of first 9 Ukraine posts - awaiting full batch"
+  }
 }
