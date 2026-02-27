@@ -1,0 +1,2282 @@
+[
+  {
+    "id": "1574581084624257025",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "high"
+  },
+  {
+    "id": "1573591436016189440",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573068951017365505",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1574751247730630656",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573714566168682497",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572978182826983424",
+    "frame": "CALL_TO_ACTION",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573766621885259777",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573749936453287941",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574423186007105538",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574872677071855632",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572609720707325952",
+    "frame": "SOLIDARITY",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573069123038347266",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574776901708677120",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573833357741510657",
+    "frame": "CONFLICT",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574906062716682240",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574144332143030272",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1572662008402640896",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572645369745473540",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573586474091552768",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573825647952150528",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574406867576578048",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1572668878286909440",
+    "frame": "CALL_TO_ACTION",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573447711608934400",
+    "frame": "INFORMATIONAL",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574661934405877760",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573073947641647104",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574845552499560459",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1572604247925051394",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574666784443346944",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1572635093230927873",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574464579937058818",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1572912145926590468",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574617794104020992",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573817030955900928",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573627155002556417",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574664925166936069",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573880629602705408",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573766900689129473",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572609189641420801",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574656312658501632",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573220925381955584",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1576804773143408640",
+    "frame": "CONFLICT",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574734003617558528",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "high"
+  },
+  {
+    "id": "1573594332396929024",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573593526226526208",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1575158643217104897",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574047181790650370",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1572901522069147648",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573286262689366016",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573816061719416844",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573055592142606336",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1573616534471294976",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573618901509967873",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572683565556699137",
+    "frame": "CALL_TO_ACTION",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573586370676887552",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573619302359617538",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "high"
+  },
+  {
+    "id": "1574851609590435853",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573722794092859393",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1574875555807125508",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1572591185423912963",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574637263379582976",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574380478693773312",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572651404883546113",
+    "frame": "HUMANITARIAN",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573606400361635841",
+    "frame": "CALL_TO_ACTION",
+    "valence": "neutral",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572923443267379202",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573887999858937858",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572910426849177600",
+    "frame": "CONFLICT",
+    "valence": "neutral",
+    "arousal": "high"
+  },
+  {
+    "id": "1573478423309086721",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572644437263515651",
+    "frame": "INFORMATIONAL",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573627968584294401",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574435132198395909",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "high"
+  },
+  {
+    "id": "1574884251790725120",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573072860628848642",
+    "frame": "HUMANITARIAN",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573727662840975362",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573619422182473730",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573646572826550273",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573825872565616642",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573810255187910666",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1574795443464437761",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1575552908254674944",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "high"
+  },
+  {
+    "id": "1574658613209337856",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573383524878516227",
+    "frame": "CONFLICT",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574720468623323136",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573590375847059456",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1574880426073661458",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1575812009416740866",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572626407867715587",
+    "frame": "CONFLICT",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1572644035923439616",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1575555218917322752",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1574897179503861771",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573828010331045889",
+    "frame": "SOLIDARITY",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574749303540621312",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574869519952134150",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573715341586403329",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1572604392322252803",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1574054604676820994",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573608245444444162",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1576704716247302144",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1572628562032865280",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1574159031391997952",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1573756781431558144",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573160163023921153",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573724670045601796",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572629666783186946",
+    "frame": "CONFLICT",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572648881527177216",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574055872929538049",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574721785718665217",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1573098811353882624",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572670462387429377",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1574132836197699586",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573903891808124928",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574537439775019011",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1574882922242383877",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573473423925321740",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574344508342501379",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573603465573670914",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574656559564701696",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572936486227673095",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1572668969466609665",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573591356190216193",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1574129066893975552",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573752897413828608",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572609593326411779",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1572675518201495552",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1575230829000683520",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572655498264215554",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574677194957209601",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573727906693521414",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574669806497824768",
+    "frame": "CALL_TO_ACTION",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573614400782712834",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1574262989783552000",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572611871533895682",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573583752651067393",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572646678586621953",
+    "frame": "CALL_TO_ACTION",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573524149024133121",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574805459453857792",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573761077732589568",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574694382816608260",
+    "frame": "CALL_TO_ACTION",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574387366780964867",
+    "frame": "CALL_TO_ACTION",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574879343100174355",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574078166007951362",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573610298661109762",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572650075167535105",
+    "frame": "CALL_TO_ACTION",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574771679724802051",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574031588404629504",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574718130634514437",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573746941883781122",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573637672370847746",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574933545201508352",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1574877066373103616",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573777787852292098",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573740214606073857",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574780356854693890",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574456338134044675",
+    "frame": "INFORMATIONAL",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573753188959879170",
+    "frame": "SOLIDARITY",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573736166297407488",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572665514777772032",
+    "frame": "INFORMATIONAL",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574557647772057600",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1574710228477542401",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574667540466651136",
+    "frame": "CONFLICT",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573983726937448449",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574312615412527104",
+    "frame": "INFORMATIONAL",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1574118780686532609",
+    "frame": "CALL_TO_ACTION",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573897143361761280",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574863735109337088",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "high"
+  },
+  {
+    "id": "1573080428986105856",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "high"
+  },
+  {
+    "id": "1574132068581253126",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1573588471784132609",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573757693621411840",
+    "frame": "SOLIDARITY",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574138692192518145",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574056734863364097",
+    "frame": "SOLIDARITY",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572585707352518657",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1573618539273011200",
+    "frame": "SOLIDARITY",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573961542764298241",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573662772583358464",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1572875619045629952",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1573036082165387265",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573934743565094912",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574724105160400897",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574156764735369217",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1575005092482535424",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "high"
+  },
+  {
+    "id": "1573813779695124485",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574120043415506944",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1573540083457662979",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574687921281634305",
+    "frame": "CALL_TO_ACTION",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1572865281558552578",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1574726879990292480",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1572698214540931073",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573660603893301248",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1574464841376731136",
+    "frame": "HUMANITARIAN",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573621438166220800",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1573746071335047168",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574836245586653184",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573613035222081536",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573635467349721088",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574307328564011008",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573629082629193728",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1573945159812845568",
+    "frame": "INFORMATIONAL",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1573591675083128832",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574860604023644170",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1572670633661853698",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573613600945672193",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573817452961550336",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574868543769923588",
+    "frame": "CALL_TO_ACTION",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573724308748357633",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1573755188384522243",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573275224673767424",
+    "frame": "SOLIDARITY",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1575117544645599233",
+    "frame": "CONFLICT",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573584243275583488",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573562738735038465",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572615014909112322",
+    "frame": "CALL_TO_ACTION",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574145926045880320",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573096929994629121",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574060111273906178",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1574855648000544790",
+    "frame": "SOLIDARITY",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1574337902284267523",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573592685591646209",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573612725191720963",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1573591232374312963",
+    "frame": "SOLIDARITY",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573593266993463297",
+    "frame": "CONFLICT",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574558704573485056",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573741412784414721",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574653239995269120",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1572613570751336451",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574671792148455425",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1572645758586986496",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573614552222253057",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574781265156472832",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574675883260010498",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573728903121850368",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572686574013349888",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1573909667499188225",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574262622551248897",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573813244766158850",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573617459906707456",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574615770251739136",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1573564822960177154",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "high"
+  },
+  {
+    "id": "1573371282569428992",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573070163720933376",
+    "frame": "INFORMATIONAL",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572837129914560512",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572795456576720896",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573006252887937024",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573586615561240578",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1572686825688375299",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573261250444029952",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1572653348901519361",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573641239936864257",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "high"
+  },
+  {
+    "id": "1574678327729614850",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574543818527215617",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572614046179786755",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1575810368802557952",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "high"
+  },
+  {
+    "id": "1574684251160813568",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574519958880411648",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573792350119366656",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572846942895603712",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572627349455110146",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573499424156037120",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573626046515216385",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1573738696062500864",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573611591588798465",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573590890995752961",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573661520608763906",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573736528425193480",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1573054827952836608",
+    "frame": "CALL_TO_ACTION",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573533275892555776",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572666711849177090",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573607877796847616",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1572684374247903234",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573833236102389762",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573966697068990472",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1572611252832157702",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574671652025409536",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1572601007284301826",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "high"
+  },
+  {
+    "id": "1574130809954525189",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1572610017806647297",
+    "frame": "CALL_TO_ACTION",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573588131957309440",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573706331969683461",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1574396763381051392",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574396827926945795",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1574156115235028994",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572605683983417347",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1573753488768638977",
+    "frame": "CONFLICT",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574636088983011330",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573585330602741763",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1572646684353597443",
+    "frame": "CALL_TO_ACTION",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1574391804727857153",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574889428845305858",
+    "frame": "SOLIDARITY",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573613786962993154",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1572631999155691521",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573016171535810562",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573726300916834304",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1573610625665847296",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572931079849316352",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574854776214458370",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1575764133412106240",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574161391958753280",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573081105515048960",
+    "frame": "SOLIDARITY",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573565912694800384",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1574138050011025409",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572654901431537664",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573584107380084737",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1572646198212984834",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574828726596018176",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573618600618991617",
+    "frame": "SOLIDARITY",
+    "valence": "neutral",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573772148602200064",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574065763366977536",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1575168368830976000",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573748264419180546",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1574901760971481097",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573709429782061056",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573921978897108993",
+    "frame": "SOLIDARITY",
+    "valence": "neutral",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573521080194666497",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573348371339038721",
+    "frame": "SOLIDARITY",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572613252806479873",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574954153293811712",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1575861680877502466",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573267577027141634",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573947721450414085",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "high"
+  },
+  {
+    "id": "1573657617263624193",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573747706148814860",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573543200907673600",
+    "frame": "CALL_TO_ACTION",
+    "valence": "neutral",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573455307136651264",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573600613677637633",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573581568068681728",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574883480692989955",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573728400287711232",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573737096610709505",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573033193858441216",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573193779309576192",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574702980288356354",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1572659368277180422",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "high"
+  },
+  {
+    "id": "1573719331363594243",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1572753220291956736",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572594959412514816",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572728310018473984",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573038125664047104",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574506179807481857",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1574947842611089408",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573608310481248258",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572611204488777741",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1575019308375105537",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574161151226699776",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1572664379979747329",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573772773285052417",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573618669724352514",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574674898877808640",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "low"
+  },
+  {
+    "id": "1573189069332484096",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "high"
+  },
+  {
+    "id": "1573073460234190848",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574131453713317888",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1574675119393607682",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "high"
+  },
+  {
+    "id": "1573754401323352066",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1574370983888261123",
+    "frame": "SOLIDARITY",
+    "valence": "neutral",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573713126557622272",
+    "frame": "SOLIDARITY",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573597564473155584",
+    "frame": "SOLIDARITY",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1574107741244649472",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1574656621380337664",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1573622828380966912",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573727589725868037",
+    "frame": "HUMANITARIAN",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1572695497999265793",
+    "frame": "SOLIDARITY",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1574894000443629571",
+    "frame": "INFORMATIONAL",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1574760777352880128",
+    "frame": "CALL_TO_ACTION",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573610034596118528",
+    "frame": "SOLIDARITY",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1574128278322831360",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "low"
+  },
+  {
+    "id": "1574119258900299776",
+    "frame": "HOPE",
+    "valence": "positive",
+    "arousal": "high"
+  },
+  {
+    "id": "1573590300433518597",
+    "frame": "SOLIDARITY",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573636844851453953",
+    "frame": "SOLIDARITY",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1574777231309684744",
+    "frame": "SOLIDARITY",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1574061836726591489",
+    "frame": "SOLIDARITY",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1574777641080602625",
+    "frame": "SOLIDARITY",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1573072005372743680",
+    "frame": "CALL_TO_ACTION",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1572659231492550656",
+    "frame": "CALL_TO_ACTION",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573593204666007552",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "high"
+  },
+  {
+    "id": "1573821273368666112",
+    "frame": "SOLIDARITY",
+    "valence": "neutral",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573787053816438785",
+    "frame": "SOLIDARITY",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1572918364607225856",
+    "frame": "CALL_TO_ACTION",
+    "valence": "neutral",
+    "arousal": "low"
+  },
+  {
+    "id": "1572647417715068928",
+    "frame": "CALL_TO_ACTION",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1573810751441174529",
+    "frame": "CALL_TO_ACTION",
+    "valence": "neutral",
+    "arousal": "medium"
+  },
+  {
+    "id": "1576238641042669568",
+    "frame": "INJUSTICE",
+    "valence": "negative",
+    "arousal": "medium"
+  },
+  {
+    "id": "1575615381623869440",
+    "frame": "CALL_TO_ACTION",
+    "valence": "positive",
+    "arousal": "high"
+  },
+  {
+    "id": "1575401343703040000",
+    "frame": "CALL_TO_ACTION",
+    "valence": "neutral",
+    "arousal": "high"
+  },
+  {
+    "id": "1572691671523164160",
+    "frame": "CALL_TO_ACTION",
+    "valence": "neutral",
+    "arousal": "high"
+  }
+]

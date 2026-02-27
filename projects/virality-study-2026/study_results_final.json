@@ -1,0 +1,63 @@
+{
+  "study": "#MahsaAmini Virality Study",
+  "methodology": "CommDAAF v0.5 (3-model consensus)",
+  "n": 380,
+  "models": [
+    "Claude Opus 4.5",
+    "GLM-4.7",
+    "Kimi K2.5"
+  ],
+  "reliability": {
+    "fleiss_kappa": 0.633,
+    "interpretation": "Substantial",
+    "three_way_agreement": 0.582,
+    "majority_agreement": 0.945
+  },
+  "frame_anova": {
+    "F": 2.05,
+    "df": [
+      6,
+      373
+    ],
+    "p": 0.0584,
+    "eta_squared": 0.0319,
+    "interpretation": "Marginally significant, small effect"
+  },
+  "arousal_anova": {
+    "F": 5.176,
+    "df": [
+      2,
+      377
+    ],
+    "p": 0.0061,
+    "interpretation": "Significant"
+  },
+  "key_findings": [
+    "CONFLICT frame highest engagement (M=3.48), +1.75 vs SOLIDARITY",
+    "High arousal \u2192 higher engagement (M=2.60 vs 1.56, p=.013)",
+    "SOLIDARITY most common (32%) but lowest engagement",
+    "Frame effect marginal (p=.058), arousal effect significant (p=.006)"
+  ],
+  "regression": {
+    "R2": 0.0592,
+    "adj_R2": 0.031,
+    "significant_predictors": [
+      "INFORMATIONAL (p=.026)",
+      "arousal:high (p=.071)"
+    ]
+  },
+  "effect_sizes": {
+    "CONFLICT_vs_SOLIDARITY": {
+      "d": 0.663,
+      "interpretation": "medium"
+    },
+    "INJUSTICE_vs_SOLIDARITY": {
+      "d": 0.292,
+      "interpretation": "small"
+    },
+    "HOPE_vs_SOLIDARITY": {
+      "d": 0.273,
+      "interpretation": "small"
+    }
+  }
+}
