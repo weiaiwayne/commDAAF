@@ -6,11 +6,38 @@ description: |
   coordinated behavior detection, content analysis, and LLM annotation.
   Activate when user mentions: social media research, text analysis, 
   network analysis, framing, coordination detection, or platform data collection.
+  
+  **CRITICAL**: When user mentions "AgentAcademy", "agent academy", "test study",
+  or "agentic content analysis study", MUST read and follow:
+  `../agent-academy-study-protocol.md` before proceeding.
 ---
 
 # CommDAAF — Computational Communication Research Framework
 
 An agent skill for rigorous computational communication research.
+
+---
+
+## 🚨 AgentAcademy Studies
+
+**If the user requests an AgentAcademy study, test study, or agentic content analysis:**
+
+1. **STOP** - Do not proceed without reading the protocol
+2. **READ** - Load `../agent-academy-study-protocol.md` 
+3. **FOLLOW** - Execute each phase in order
+4. **VERIFY** - Complete QC checklist before delivering results
+
+**Trigger phrases:**
+- "AgentAcademy study"
+- "agent academy"  
+- "test study"
+- "agentic content analysis"
+- "multi-model coding study"
+- "CommDAAF study"
+
+The protocol contains critical rules learned from prior studies (e.g., Kimi 25-post batch limit, mandatory distribution diagnostics).
+
+---
 
 ## Goal
 
@@ -244,9 +271,75 @@ If time range >30 days OR includes major events:
 
 Multi-model agreement does NOT substitute for human validation at 🔴 tier.
 
+## Subskills (v0.6)
+
+CommDAAF now includes specialized subskills for common tasks:
+
+### P1 Skills (Core)
+| Subskill | Location | Description |
+|----------|----------|-------------|
+| **Codebook Generator** | `../codebook-generator/` | Generate operational coding schemes from theory |
+| **Effect Size Interpreter** | `../effect-size-interpreter/` | Calculate, benchmark, and interpret effect sizes |
+| **Sampling Strategist** | `../sampling-strategist/` | Design stratified/tiered sampling strategies |
+
+### P2 Skills (Extended)
+| Subskill | Location | Description |
+|----------|----------|-------------|
+| **Literature Synthesis** | `../literature-synthesis/` | Search, cite, map, and synthesize research literature |
+| **Multimodal Coder** | `../multimodal-coder/` | Code images, video, memes, and image-text relationships |
+
+### Using Subskills
+
+```python
+from commdaaf import (
+    CodebookGenerator, EffectSizeInterpreter, SamplingStrategist,
+    LiteratureSynthesis, MultimodalCoder
+)
+
+# Generate codebook from theory
+codebook = CodebookGenerator().generate(
+    construct="injustice frame",
+    theory="Gamson 1992"
+)
+
+# Interpret regression results
+effects = EffectSizeInterpreter().interpret_irr(
+    irr=2.72, ci_lower=1.52, ci_upper=4.87, p_value=0.001,
+    predictor_name="INFORMATIONAL", reference_name="SOLIDARITY"
+)
+
+# Design stratified sample
+sample = SamplingStrategist().engagement_tiers(
+    data=tweets,
+    tiers={"viral": (95,100), "high": (75,95), "medium": (25,75), "low": (0,25)},
+    n_per_tier=100
+)
+
+# Search and synthesize literature
+lit = LiteratureSynthesis()
+papers = lit.search("framing social media protest", years=(2018, 2026))
+network = lit.citation_network(anchor_doi="10.1073/pnas.1618923114")
+draft = lit.generate_review(papers, structure="thematic")
+
+# Code multimodal content
+coder = MultimodalCoder()
+post = coder.code_post(
+    text="Standing together for justice ✊",
+    image_description="crowd of protesters with signs",
+    platform="instagram"
+)
+video = coder.analyze_video("tiktok.mp4", max_keyframes=5)
+```
+
+See individual subskill SKILL.md files for full documentation.
+
 ## Version
 
 - Name: CommDAAF
-- Version: 0.4.0
+- Version: 0.6.0
 - Based on: DAAF (Data Analyst Augmentation Framework)
-- Changelog: Added mandatory tier declaration, multi-label frame coding, valence dimension, deduplication protocol, temporal segmentation, single vs multi-model QC distinction
+- Changelog: 
+  - v0.6: Added P2 subskills (Literature Synthesis, Multimodal Coder)
+  - v0.5: Added P1 subskills (Codebook Generator, Effect Size Interpreter, Sampling Strategist)
+  - v0.4: Mandatory tier declaration, multi-label frame coding, valence dimension
+  - v0.3: Tiered validation, nudge system

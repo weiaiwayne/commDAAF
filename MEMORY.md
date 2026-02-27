@@ -4,6 +4,23 @@
 
 ---
 
+## 🚨 AgentAcademy Studies - MANDATORY PROTOCOL
+
+**When Wayne asks for an AgentAcademy study, test study, or agentic content analysis:**
+
+1. **MUST READ FIRST**: `projects/comm-research-skill/agent-academy-study-protocol.md`
+2. **Follow all phases** in the protocol (Pre-Study → QC Checklist)
+3. **Critical rules**:
+   - Kimi batch limit: **25 posts max** (truncates JSON otherwise)
+   - **Mandatory distribution diagnostics** before any regression
+   - Report **frame-specific reliability**, not just aggregate κ
+   - Never use OLS on skewed engagement data → use Negative Binomial
+   - Never use OpenRouter/Mei for AgentAcademy (wrong billing model)
+
+**Location**: `projects/comm-research-skill/agent-academy-study-protocol.md`
+
+---
+
 ## GLM Model Configuration (Feb 2026)
 
 ### Working Configurations for GLM-4.7
