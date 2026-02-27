@@ -95,6 +95,7 @@ If expert, fast-track: "✅ Parameters complete. Proceeding."
 | Content Analysis | `references/methods/content-analysis.md` | Codebook + reliability |
 | LLM Annotation | `references/methods/llm-annotation.md` | Human validation |
 | TextNets | `references/methods/textnets.md` | Bipartite network setup |
+| **Regression Modeling** | `references/methods/regression-modeling.md` | **Distribution diagnostics** |
 
 ## Probing Questions Quick Reference
 
@@ -128,6 +129,21 @@ If expert, fast-track: "✅ Parameters complete. Proceeding."
 3. What conclusions will you draw? (Never "bots" from timing alone)
 4. False positive tolerance?
 5. Validation approach?
+
+### Regression Modeling (REQUIRED DIAGNOSTICS)
+1. **What is your DV?** (counts, proportions, continuous?)
+2. **Have you run distribution diagnostics?** (skewness, % zeros, variance/mean ratio)
+3. **What model will you use and WHY?** (OLS on engagement data = automatic flag)
+4. **How will you report effect sizes?** (IRR for count models, OR for logistic)
+
+**Decision tree:**
+- Engagement/count data → Negative Binomial (NOT OLS)
+- >15% zeros → Zero-inflated or Hurdle model
+- Overdispersed (var/mean > 1.5) → NB over Poisson
+- Proportions → Beta regression
+- Only use OLS if residuals approximately normal
+
+**Never run OLS on skewed engagement data without justification.**
 
 ## Constraints
 
