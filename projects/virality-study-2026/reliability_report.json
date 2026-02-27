@@ -1,0 +1,47 @@
+{
+  "n_posts": 100,
+  "frame_agreement": {
+    "claude_glm": 0.68,
+    "claude_kimi": 0.65,
+    "glm_kimi": 0.62,
+    "three_way": 0.5,
+    "fleiss_kappa": 0.5743588357700727
+  },
+  "valence_agreement": {
+    "claude_glm": 0.73,
+    "claude_kimi": 0.84,
+    "glm_kimi": 0.74
+  },
+  "arousal_agreement": {
+    "claude_glm": 0.51,
+    "claude_kimi": 0.82,
+    "glm_kimi": 0.52
+  },
+  "frame_distributions": {
+    "claude": {
+      "CONFLICT": 10,
+      "HOPE": 17,
+      "CALL_TO_ACTION": 14,
+      "INFORMATIONAL": 9,
+      "INJUSTICE": 24,
+      "SOLIDARITY": 26
+    },
+    "glm": {
+      "CONFLICT": 23,
+      "HOPE": 13,
+      "INFORMATIONAL": 8,
+      "CALL_TO_ACTION": 10,
+      "SOLIDARITY": 32,
+      "INJUSTICE": 14
+    },
+    "kimi": {
+      "CONFLICT": 20,
+      "HOPE": 16,
+      "CALL_TO_ACTION": 16,
+      "INFORMATIONAL": 6,
+      "HUMANITARIAN": 10,
+      "SOLIDARITY": 24,
+      "INJUSTICE": 8
+    }
+  }
+}

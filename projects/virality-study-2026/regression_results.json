@@ -1,0 +1,44 @@
+{
+  "n_posts": 100,
+  "r_squared": 0.10318729339206223,
+  "anova_f": 1.3273243418402494,
+  "anova_p": 0.25936946847269227,
+  "eta_squared": 0.06594638806913018,
+  "frame_means": {
+    "mean": {
+      "CONFLICT": 6.432620108019878,
+      "CALL_TO_ACTION": 5.967525074407997,
+      "SOLIDARITY": 5.611119407867981,
+      "INJUSTICE": 4.83077669145256,
+      "HOPE": 4.768252404904961,
+      "INFORMATIONAL": 4.594333436837167
+    },
+    "std": {
+      "CONFLICT": 1.7543087448250196,
+      "CALL_TO_ACTION": 2.908068635580484,
+      "SOLIDARITY": 2.581615617941596,
+      "INJUSTICE": 2.3693408719024833,
+      "HOPE": 1.7870749816687317,
+      "INFORMATIONAL": 1.8372667274913268
+    },
+    "count": {
+      "CONFLICT": 10,
+      "CALL_TO_ACTION": 14,
+      "SOLIDARITY": 26,
+      "INJUSTICE": 24,
+      "HOPE": 17,
+      "INFORMATIONAL": 9
+    }
+  },
+  "coefficients": {
+    "frame_CONFLICT": 0.6351108518052345,
+    "frame_HOPE": -1.6241998945099723,
+    "frame_INFORMATIONAL": -2.087651707146719,
+    "frame_INJUSTICE": -0.6716879228737905,
+    "frame_SOLIDARITY": -0.8477036319329432,
+    "valence_neutral": 1.1902157014068757,
+    "valence_positive": 1.0114766552778816,
+    "arousal_low": 0.27534021879851006,
+    "arousal_medium": -1.011581629331297
+  }
+}

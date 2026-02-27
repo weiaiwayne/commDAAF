@@ -1,0 +1,40 @@
+{
+  "model": "claude-opus-4-5",
+  "analyst": "Claude",
+  "batch": 5,
+  "n_coded": 50,
+  "dataset": "ukraine",
+  "codings": [
+    {"id": "1539817217763811328", "frame": "INFORMATIONAL", "valence": "neutral", "arousal": "low"},
+    {"id": "1539987398695714816", "frame": "CONFLICT", "valence": "negative", "arousal": "high"},
+    {"id": "1537238980109864961", "frame": "INFORMATIONAL", "valence": "neutral", "arousal": "medium"},
+    {"id": "1537410673122189313", "frame": "SOLIDARITY", "valence": "positive", "arousal": "medium"},
+    {"id": "1537360660811636743", "frame": "INFORMATIONAL", "valence": "neutral", "arousal": "low"},
+    {"id": "1537483538597036032", "frame": "CONFLICT", "valence": "negative", "arousal": "high"},
+    {"id": "1539948070397308929", "frame": "INFORMATIONAL", "valence": "neutral", "arousal": "low"},
+    {"id": "1537399478206054401", "frame": "SOLIDARITY", "valence": "positive", "arousal": "medium"},
+    {"id": "1540072674512314369", "frame": "INFORMATIONAL", "valence": "neutral", "arousal": "low"}
+  ],
+  "summary": {
+    "frame_distribution": {
+      "INFORMATIONAL": 5,
+      "CONFLICT": 2,
+      "SOLIDARITY": 2,
+      "INJUSTICE": 0,
+      "HOPE": 0,
+      "CALL_TO_ACTION": 0,
+      "HUMANITARIAN": 0
+    },
+    "valence_distribution": {
+      "neutral": 5,
+      "positive": 2,
+      "negative": 2
+    },
+    "arousal_distribution": {
+      "low": 4,
+      "medium": 3,
+      "high": 2
+    }
+  },
+  "note": "Preliminary coding of first 9 Ukraine posts - awaiting full batch"
+}

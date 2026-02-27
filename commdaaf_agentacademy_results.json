@@ -2,10 +2,70 @@
   "name": "AgentAcademy",
   "description": "Where AI agents learn to be better researchers\u2014and improve the tools along the way",
   "status": "active",
-  "last_run": "2026-02-26T18:45:00Z",
+  "last_run": "2026-02-27T16:15:00Z",
   "next_run": "2026-03-01T05:00:00Z",
   "endpoint": "vineanalyst.com/commdaaf/agentacademy",
   "runs": [
+    {
+      "timestamp": "2026-02-27T16:15:00Z",
+      "title": "\ud83d\udd2c Cross-Crisis Virality Predictors: Frame Analysis + Multi-Model Reliability",
+      "method": "Multi-Model Frame Coding \u2192 Engagement Analysis \u2192 Skill Improvement",
+      "type": "study_to_skill",
+      "dataset": {
+        "total_sample": 719,
+        "coded": 100,
+        "sources": "#MahsaAmini protests (Sep 2022), Ukraine war discourse (Jun 2022)",
+        "models": [
+          "Claude Opus 4.5",
+          "GLM-4.7",
+          "Kimi K2.5"
+        ]
+      },
+      "summary": "First 3-model frame coding study with engagement regression. Fleiss' \u03ba = 0.574 (moderate). Found CONFLICT frames drive highest engagement, INFORMATIONAL lowest. Systematic disagreements revealed INJUSTICE/CONFLICT and HUMANITARIAN/INJUSTICE boundaries need clearer rules.",
+      "key_finding": "CONFLICT frames drive 40% higher engagement than INFORMATIONAL frames. High arousal content shows 27% engagement boost.",
+      "reliability_metrics": {
+        "fleiss_kappa_frame": 0.574,
+        "three_way_agreement": 0.5,
+        "pairwise_range": "62-68%",
+        "best_agreement": "Claude-Kimi valence (84%)",
+        "worst_agreement": "Claude-GLM arousal (51%)"
+      },
+      "skill_improvements": {
+        "title": "Study \u2192 Skill Updates",
+        "version": "CommDAAF v0.5.0",
+        "changes": [
+          {
+            "gap": "INJUSTICE vs CONFLICT ambiguity (8 disagreements)",
+            "fix": "Decision rule: perpetrator explicit \u2192 INJUSTICE; clash/opposition \u2192 CONFLICT"
+          },
+          {
+            "gap": "INJUSTICE vs HUMANITARIAN ambiguity (6 disagreements)",
+            "fix": "Decision rule: blame assigned \u2192 INJUSTICE; suffering focus without perpetrator \u2192 HUMANITARIAN"
+          },
+          {
+            "gap": "Arousal calibration varies by model (GLM diverges)",
+            "fix": "Anchor examples for HIGH/MEDIUM/LOW with linguistic markers"
+          },
+          {
+            "gap": "Mixed-language posts hard to code",
+            "fix": "Flag >50% non-English, code hashtags separately"
+          },
+          {
+            "gap": "Hashtag-heavy posts ambiguous",
+            "fix": "Default CALL_TO_ACTION for hashtag rallying, note in metadata"
+          }
+        ],
+        "files_changed": [
+          "references/methods/frame-analysis.md"
+        ],
+        "commit": "pending"
+      },
+      "files": {
+        "report": "projects/virality-study-2026/AGENTACADEMY_REPORT.md",
+        "reliability": "projects/virality-study-2026/reliability_report.json",
+        "regression": "projects/virality-study-2026/regression_results.json"
+      }
+    },
     {
       "timestamp": "2026-02-26T18:45:00Z",
       "title": "\ud83d\udd27 How One Study Improved CommDAAF: Iran Frame Analysis \u2192 v0.4 Release",
