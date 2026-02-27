@@ -1,0 +1,119 @@
+{
+  "study": "#MahsaAmini Viral Engagement Study",
+  "status": "Pilot/Exploratory (Tier \ud83d\udfe2)",
+  "version": "2.0 (corrected)",
+  "date": "2026-02-27",
+  "sample": {
+    "n": 380,
+    "platform": "Twitter/X",
+    "time_period": "September-October 2022 (needs confirmation)",
+    "tiers": {
+      "viral": 105,
+      "high": 103,
+      "medium": 93,
+      "low": 79
+    }
+  },
+  "methodology": {
+    "coding": "Multi-model LLM (Claude, GLM-4.7, Kimi K2.5)",
+    "aggregation": "Majority vote (2/3)",
+    "framework": "CommDAAF v0.5",
+    "human_validation": "None (limitation)"
+  },
+  "reliability": {
+    "overall_fleiss_kappa": 0.633,
+    "interpretation": "Substantial",
+    "three_way_agreement": 0.582,
+    "majority_agreement": 0.945,
+    "by_frame": {
+      "SOLIDARITY": {
+        "n": 122,
+        "three_way": 0.66,
+        "flag": "ok"
+      },
+      "HOPE": {
+        "n": 46,
+        "three_way": 0.65,
+        "flag": "ok"
+      },
+      "CALL_TO_ACTION": {
+        "n": 69,
+        "three_way": 0.65,
+        "flag": "ok"
+      },
+      "INFORMATIONAL": {
+        "n": 34,
+        "three_way": 0.5,
+        "flag": "ok"
+      },
+      "INJUSTICE": {
+        "n": 49,
+        "three_way": 0.49,
+        "flag": "low_reliability"
+      },
+      "HUMANITARIAN": {
+        "n": 42,
+        "three_way": 0.45,
+        "flag": "low_reliability"
+      },
+      "CONFLICT": {
+        "n": 18,
+        "three_way": 0.33,
+        "flag": "low_reliability_small_n"
+      }
+    }
+  },
+  "statistical_model": {
+    "type": "OLS with HC3 robust standard errors",
+    "dv": "Log-transformed composite engagement",
+    "note": "Valence excluded due to frame-valence confounding",
+    "r_squared": 0.051,
+    "adj_r_squared": 0.031,
+    "f_statistic": 2.68,
+    "f_pvalue": 0.007
+  },
+  "significant_findings": [
+    {
+      "predictor": "INFORMATIONAL",
+      "b": 0.938,
+      "se": 0.459,
+      "p": 0.041,
+      "interpretation": "Factual posts ~1 unit higher engagement than SOLIDARITY"
+    },
+    {
+      "predictor": "arousal:high",
+      "b": 1.235,
+      "se": 0.432,
+      "p": 0.004,
+      "interpretation": "High arousal ~1.2 units higher than low arousal"
+    }
+  ],
+  "effect_sizes": {
+    "CONFLICT_vs_SOLIDARITY": {
+      "d": 0.73,
+      "interpretation": "medium (but n=18, unreliable)"
+    },
+    "INJUSTICE_vs_SOLIDARITY": {
+      "d": 0.28,
+      "interpretation": "small"
+    },
+    "HOPE_vs_SOLIDARITY": {
+      "d": 0.26,
+      "interpretation": "small"
+    },
+    "INFORMATIONAL_vs_SOLIDARITY": {
+      "d": 0.25,
+      "interpretation": "small"
+    }
+  },
+  "limitations": [
+    "Low reliability for CONFLICT (33%), HUMANITARIAN (45%), INJUSTICE (49%)",
+    "Frame-valence confounding prevents separate estimation",
+    "Small cell size for CONFLICT (n=18)",
+    "No human validation (LLM-only)",
+    "Single platform (Twitter/X)",
+    "Specific cultural/linguistic context (Persian/English/Arabic)",
+    "Modest R\u00b2 (5%) - most variance unexplained"
+  ],
+  "conclusion": "INFORMATIONAL framing and high arousal associated with engagement. Findings exploratory due to reliability and sample size concerns."
+}

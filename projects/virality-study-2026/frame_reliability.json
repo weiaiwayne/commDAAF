@@ -1,0 +1,65 @@
+[
+  {
+    "frame": "SOLIDARITY",
+    "n": 122,
+    "three_way_pct": 65.6,
+    "claude_pct": 95.9,
+    "glm_pct": 83.6,
+    "kimi_pct": 82.8,
+    "flag": "ok"
+  },
+  {
+    "frame": "HOPE",
+    "n": 46,
+    "three_way_pct": 65.2,
+    "claude_pct": 91.3,
+    "glm_pct": 80.4,
+    "kimi_pct": 87.0,
+    "flag": "ok"
+  },
+  {
+    "frame": "CALL_TO_ACTION",
+    "n": 69,
+    "three_way_pct": 65.2,
+    "claude_pct": 91.3,
+    "glm_pct": 76.8,
+    "kimi_pct": 92.8,
+    "flag": "ok"
+  },
+  {
+    "frame": "INFORMATIONAL",
+    "n": 34,
+    "three_way_pct": 50.0,
+    "claude_pct": 79.4,
+    "glm_pct": 79.4,
+    "kimi_pct": 88.2,
+    "flag": "ok"
+  },
+  {
+    "frame": "INJUSTICE",
+    "n": 49,
+    "three_way_pct": 49.0,
+    "claude_pct": 75.5,
+    "glm_pct": 83.7,
+    "kimi_pct": 79.6,
+    "flag": "low_reliability"
+  },
+  {
+    "frame": "HUMANITARIAN",
+    "n": 42,
+    "three_way_pct": 45.2,
+    "claude_pct": 64.3,
+    "glm_pct": 85.7,
+    "kimi_pct": 92.9,
+    "flag": "low_reliability"
+  },
+  {
+    "frame": "CONFLICT",
+    "n": 18,
+    "three_way_pct": 33.3,
+    "claude_pct": 100.0,
+    "glm_pct": 38.9,
+    "kimi_pct": 72.2,
+    "flag": "low_reliability"
+  }
+]
