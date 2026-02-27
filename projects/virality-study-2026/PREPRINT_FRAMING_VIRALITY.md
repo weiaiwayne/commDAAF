@@ -192,7 +192,7 @@ Table 1 presents negative binomial regression results predicting composite engag
 
 3. **SOLIDARITY showed baseline engagement**, supporting H3. Despite being the most prevalent frame, solidarity content did not exhibit elevated virality.
 
-4. **CONFLICT showed a large but non-significant effect** (IRR = 1.89, p = .124). The small cell size (n = 18) and low reliability (33% three-way agreement) limit confidence in this estimate.
+4. **CONFLICT showed a large but non-significant effect** (IRR = 1.89, p = .124). However, this estimate is unreliable due to small cell size (n = 18) and poor inter-model agreement (33% three-way). We report this for completeness but advise against substantive interpretation; the CONFLICT frame should be considered unmeasured in this study.
 
 5. **Emotionally charged frames (INJUSTICE, HUMANITARIAN) did not outperform neutral content**, contrary to H1. HUMANITARIAN framing showed engagement indistinguishable from SOLIDARITY (IRR = 0.92, ns).
 
@@ -259,9 +259,11 @@ Several limitations warrant caution in interpreting these findings:
 
 **Single case**: These findings may be specific to the #MahsaAmini context. Generalization requires replication across movements varying in information environment, platform, and cultural context.
 
-**No human validation**: Content was coded by LLMs without human calibration. While multi-model agreement provides some reliability check, human validation would strengthen confidence in coding decisions.
+**No human validation**: Content was coded by LLMs without human calibration. While multi-model agreement (κ = 0.633) provides an internal reliability check, it establishes consistency rather than validity. LLMs may agree on systematically incorrect interpretations. Human validation of a subsample would strengthen confidence that codes measure intended constructs. This limitation is inherent to the exploratory tier of CommDAAF; confirmatory publication would require human-validated coding.
 
-**Causal interpretation**: Observational data cannot establish causality. Higher engagement with informational content may reflect audience preferences, algorithmic amplification, network position of information sharers, or other confounds.
+**Causal interpretation**: Observational data cannot establish causality. Higher engagement with informational content may reflect audience preferences, algorithmic amplification, network position of information sharers, or other confounds. We cannot rule out that informational posts came disproportionately from high-follower accounts (e.g., journalists) whose content spreads due to network position rather than frame effects. Future work should control for follower count, account type, and prior engagement history.
+
+**Missing network controls**: Engagement is heavily influenced by account characteristics not captured in our analysis. Without controlling for follower count, verified status, and account history, frame effects may be confounded with who posts which content.
 
 ### 4.6 Future Directions
 
@@ -290,6 +292,8 @@ These findings contribute to framing theory by specifying boundary conditions fo
 Alinejad, M. (2023). The social media revolution in Iran's 2022 uprising. *Journal of Democracy, 34*(2), 45-58.
 
 Bail, C. A. (2016). Combining natural language processing and network analysis to examine how advocacy organizations stimulate conversation on social media. *Proceedings of the National Academy of Sciences, 113*(42), 11823-11828.
+
+Bail, C. A., Argyle, L. P., Brown, T. W., Bumpus, J. P., Chen, H., Hunzaker, M. F., ... & Volfovsky, A. (2018). Exposure to opposing views on social media can increase political polarization. *Proceedings of the National Academy of Sciences, 115*(37), 9216-9221.
 
 Benford, R. D., & Snow, D. A. (2000). Framing processes and social movements: An overview and assessment. *Annual Review of Sociology, 26*(1), 611-639.
 
@@ -320,6 +324,10 @@ Snow, D. A., & Benford, R. D. (1988). Ideology, frame resonance, and participant
 Spence, P. R., Westerman, D., Skalski, P. D., Seeger, M., Sellnow, T. L., & Ulmer, R. R. (2006). Gender and age effects on information-seeking after 9/11. *Communication Research Reports, 23*(3), 217-223.
 
 Stieglitz, S., & Dang-Xuan, L. (2013). Emotions and information diffusion in social media—Sentiment of microblogs and sharing behavior. *Journal of Management Information Systems, 29*(4), 217-248.
+
+Theocharis, Y., Lowe, W., Van Deth, J. W., & García-Albacete, G. (2015). Using Twitter to mobilize protest action: Online mobilization patterns and action repertoires in the Occupy Wall Street, Indignados, and Aganaktismenoi movements. *Information, Communication & Society, 18*(2), 202-220.
+
+Tucker, J. A., Theocharis, Y., Roberts, M. E., & Barberá, P. (2017). From liberation to turmoil: Social media and democracy. *Journal of Democracy, 28*(4), 46-59.
 
 Tufekci, Z. (2017). *Twitter and tear gas: The power and fragility of networked protest*. Yale University Press.
 

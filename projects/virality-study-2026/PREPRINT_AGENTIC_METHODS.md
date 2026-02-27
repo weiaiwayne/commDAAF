@@ -86,7 +86,7 @@ CommDAAF is organized around five principles:
 
 **4. Transparent reliability**: Frame-specific (not just aggregate) reliability must be reported. Low-reliability constructs require flagging or exclusion.
 
-**5. Tiered claims**: Findings should be calibrated to validation level—exploratory (LLM-only), provisional (multi-model), or confirmatory (human-validated).
+**5. Tiered claims**: Findings should be calibrated to validation level—exploratory (LLM-only), provisional (multi-model), or confirmatory (human-validated). Critically, inter-model agreement establishes reliability (consistency) but not validity (accuracy). High agreement among models that systematically misinterpret a construct is worse than human disagreement that surfaces genuine interpretive differences. Validity requires comparison to human expert judgment.
 
 ### 2.2 The CommDAAF Prompt Structure
 
@@ -491,7 +491,27 @@ Agentic content analysis transforms the researcher's role but does not eliminate
 
 **From transparency to auditability**: Human coding decisions are opaque (we cannot fully explain why a coder chose category A). LLM decisions are also opaque—but auditable. We can examine prompts, compare outputs across models, and test sensitivity to prompt variations.
 
-### 7.2 Limitations of This Account
+### 7.2 When NOT to Use Agentic Methods
+
+Agentic content analysis is not appropriate for all research contexts:
+
+**High-stakes decisions**: When coding results inform policy, legal proceedings, or clinical decisions, human validation is essential—not optional.
+
+**Cultural/contextual expertise required**: LLMs may lack cultural knowledge needed to interpret irony, local idioms, or context-dependent meanings. Persian protest slogans, for instance, carry historical resonances that models may miss.
+
+**Novel constructs**: When developing new theoretical categories without established examples, LLMs cannot generalize from training data. Human conceptual work must precede automation.
+
+**Low tolerance for systematic error**: Inter-model agreement can mask systematic misinterpretation. If your research question is sensitive to validity rather than just reliability, human coding remains necessary.
+
+**Interpretive research traditions**: Some qualitative approaches value the interpretive process itself, not just the outcome. Automating coding may undermine epistemological commitments.
+
+### 7.3 Validity vs. Reliability
+
+A critical distinction underlies our framework: inter-model agreement measures reliability (consistency across coders) but not validity (accuracy of measurement). Three models agreeing on a wrong interpretation is worse than human disagreement that surfaces genuine ambiguity. As Krippendorff (2018) emphasizes, reliability is necessary but not sufficient for valid content analysis.
+
+Our exploratory tier acknowledges this limitation explicitly. Without human validation, we cannot claim that our frames measure the theoretical constructs intended—only that models consistently apply whatever interpretation they derive from prompts. This is appropriate for hypothesis generation but insufficient for confirmatory claims.
+
+### 7.4 Limitations of This Account
 
 Our reflexive account has several limitations:
 
@@ -549,17 +569,27 @@ The future of content analysis is collaborative—not human versus machine, but 
 
 DAAF Contribution Community. (2025). *Data Analyst Augmentation Framework (DAAF): Guidelines for LLM-assisted content analysis*. GitHub. https://github.com/DAAF-Contribution-Community/daaf
 
+Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the dangers of stochastic parrots: Can language models be too big? 🦜. In *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency* (pp. 610-623).
+
+Benoit, K., Conway, D., Lauderdale, B. E., Laver, M., & Mikhaylov, S. (2016). Crowd-sourced text analysis: Reproducible and agile production of political data. *American Political Science Review, 110*(2), 278-295.
+
 Entman, R. M. (1993). Framing: Toward clarification of a fractured paradigm. *Journal of Communication, 43*(4), 51-58.
 
 Gamson, W. A. (1992). *Talking politics*. Cambridge University Press.
 
 Gilardi, F., Alizadeh, M., & Kubli, M. (2023). ChatGPT outperforms crowd-workers for text-annotation tasks. *Proceedings of the National Academy of Sciences, 120*(30), e2305016120.
 
+Grimmer, J., & Stewart, B. M. (2013). Text as data: The promise and pitfalls of automatic content analysis methods for political texts. *Political Analysis, 21*(3), 267-297.
+
+Hovy, D., & Spruit, S. L. (2016). The social impact of natural language processing. In *Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics* (Vol. 2, pp. 591-598).
+
 Heseltine, M., & Clemm von Hohenberg, B. (2024). Large language models as a substitute for human experts in annotating political text. *Research & Politics, 11*(1), 1-10.
 
 Krippendorff, K. (2018). *Content analysis: An introduction to its methodology* (4th ed.). SAGE Publications.
 
 Landis, J. R., & Koch, G. G. (1977). The measurement of observer agreement for categorical data. *Biometrics, 33*(1), 159-174.
+
+Neuendorf, K. A. (2017). *The content analysis guidebook* (2nd ed.). SAGE Publications.
 
 Semetko, H. A., & Valkenburg, P. M. (2000). Framing European politics: A content analysis of press and television news. *Journal of Communication, 50*(2), 93-109.
 
