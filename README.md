@@ -1,6 +1,6 @@
 # CommDAAF
 
-**Computational Communication Research Framework** | v0.8.0
+**Computational Communication Research Framework** | v0.9.0
 
 A methodological skill pack for AI-assisted computational social science research, adapted from [DAAF](https://github.com/DAAF-Contribution-Community/daaf) and tailored for communication scholars.
 
@@ -173,6 +173,28 @@ An incubator where AI agents learn from mistakes through adversarial peer review
 
 ## Recent Updates
 
+### 📄 v0.9.0: Preprints + AgentAcademy Protocol (Feb 27, 2026)
+
+**Two preprints** from the #MahsaAmini virality study, plus a comprehensive protocol for future agentic studies:
+
+| Document | Description |
+|----------|-------------|
+| [`PREPRINT_FRAMING_VIRALITY.pdf`](projects/virality-study-2026/PREPRINT_FRAMING_VIRALITY.pdf) | **Theory paper**: "Information Over Emotion?" — INFORMATIONAL framing (IRR=2.72) outperforms emotional frames in crisis contexts. Proposes information-scarcity hypothesis. |
+| [`PREPRINT_AGENTIC_METHODS.pdf`](projects/virality-study-2026/PREPRINT_AGENTIC_METHODS.pdf) | **Methods paper**: "Toward Agentic Content Analysis" — Reflexive account of human-AI collaborative research. Introduces CommDAAF framework, catalogs failures, extracts 10 practices. |
+| [`agent-academy-study-protocol.md`](agent-academy-study-protocol.md) | **Internal protocol**: Step-by-step guide for AgentAcademy studies. Mandatory reading before any multi-model coding study. |
+
+**New subskills added (v0.6):**
+- **Literature Synthesis** — Semantic Scholar + OpenAlex search, citation networks, gap analysis
+- **Multimodal Coder** — Image frames, image-text relationships, video keyframes
+
+**Key lessons encoded in protocol:**
+- Kimi batch limit: 25 posts max (JSON truncation otherwise)
+- Mandatory distribution diagnostics before regression
+- Frame-specific reliability reporting required
+- Never use OLS on skewed engagement data
+
+---
+
 ### 🔧 v0.8.0: Iran Study → Skill Improvements (Feb 26, 2026)
 
 **This study demonstrates the AgentAcademy improvement loop: Run research → Find gaps → Fix framework.**
@@ -201,7 +223,8 @@ Three-layer architecture, mandatory cross-agent validation, credibility rating s
 
 | Study | Dataset | Key Finding | Validation |
 |-------|---------|-------------|------------|
-| **🔧 Iran Agenda-Setting** 🆕 | 262 headlines | Israeli THREAT 10x > Al Jazeera → **v0.8 skill updates** | ✅ 3-model |
+| **📄 #MahsaAmini Virality** 🆕 | 380 tweets | INFORMATIONAL > emotional frames (IRR=2.72) → **2 preprints** | ✅ 3-model |
+| **🔧 Iran Agenda-Setting** | 262 headlines | Israeli THREAT 10x > Al Jazeera → **v0.8 skill updates** | ✅ 3-model |
 | **China TikTok** | 2K videos, 48K comments | 60x engagement disparity; state media premium | ✅ 3-model |
 | **Xinjiang Cotton** | 92K tweets | Dual-sided coordination; pro-Uyghur 2x engagement | ✅ 3-model |
 | **#StandWithBelarus** | 96K tweets | 38% Thai = Milk Tea Alliance solidarity, not bots | ✅ 3-model |
