@@ -17,6 +17,8 @@ What makes protest content go viral? While prior research emphasizes emotional a
 
 **Word count:** ~6,500
 
+**Companion Paper:** For a detailed methodological account of the agentic content analysis framework used in this study, see: *Toward Agentic Content Analysis: A Reflexive Account of Human-AI Collaborative Research* ([preprint](PREPRINT_AGENTIC_METHODS.md))
+
 ---
 
 ## 1. Introduction
@@ -78,6 +80,8 @@ The #MahsaAmini movement provides an ideal case for examining frame effects on v
 
 We analyzed 380 tweets posted between September 21 and October 3, 2022—the first two weeks following Mahsa Amini's death on September 16. Tweets were drawn from a larger dataset collected using the Twitter Academic Research API with the query `#MahsaAmini OR #مهسا_امینی` (the Persian hashtag).
 
+**Data Context:** This dataset was originally part of a larger collection examining viral content across crisis contexts. The original 719-post dataset contained both #MahsaAmini content (n = 400) and Ukraine-related content (n = 319). During quality control, we discovered 20 Ukraine-related posts that had been erroneously included in the #MahsaAmini sample due to overlapping hashtag co-occurrence patterns. These contaminating posts were removed, yielding the final analytic sample of 380 posts. The Ukraine data form the basis of a separate ongoing study.
+
 To ensure representation across the engagement distribution, we employed stratified sampling by engagement tier:
 - **Viral** (top 5%): n = 105
 - **High** (75th–95th percentile): n = 103
@@ -126,9 +130,11 @@ We coded valence as positive, negative, or neutral. However, preliminary analysi
 
 ### 2.5 Coding Procedure
 
-Content was coded using a multi-model approach employing three large language models: Claude Opus 4.5 (Anthropic), GLM-4.7 (Zhipu AI), and Kimi K2.5 (Moonshot AI). Each model independently coded all 380 posts following identical coding instructions that included frame definitions, decision rules for ambiguous cases, and worked examples.
+Content was coded using the Communication Data Analyst Augmentation Framework (CommDAAF), a multi-model approach to LLM-assisted content analysis (see companion paper for detailed methodology). We employed three large language models representing different training regimes and cultural contexts: Claude Opus 4.5 (Anthropic, US), GLM-4.7 (Zhipu AI, China), and Kimi K2.5 (Moonshot AI, China). Each model independently coded all 380 posts following identical CommDAAF-compliant coding instructions that included explicit frame definitions, hierarchical decision rules for ambiguous cases, valence and arousal anchors with Persian/Arabic examples, and mixed-language handling guidance.
 
-Final coding was determined by majority vote (2/3 agreement). This multi-model approach offers several advantages: it provides a reliability metric analogous to inter-coder agreement, reduces single-model bias, and enables examination of model-specific coding patterns.
+The full coding prompt expanded from initial simplified instructions (~100 words) to a comprehensive protocol (~2,500 words) after pilot testing revealed that underspecified prompts produced lower inter-model agreement. This iterative prompt development process is documented in detail in the companion methods paper.
+
+Final coding was determined by majority vote (2/3 agreement). This multi-model approach offers several advantages: it provides a reliability metric analogous to inter-coder agreement, reduces single-model bias, enables examination of model-specific coding patterns, and leverages epistemic diversity across models trained on different corpora.
 
 **Reliability:** Overall Fleiss' κ = 0.633, indicating substantial agreement (Landis & Koch, 1977). Three-way agreement was achieved for 58.2% of posts; majority agreement for 94.5%.
 
