@@ -199,3 +199,94 @@ When using multiple LLM coders:
 - [ ] Convergence ≠ correctness — still need human validation for publication
 
 **Key insight**: Multi-model convergence increases confidence but does not replace human validation for 🔴 Publication tier.
+
+---
+
+## Frame Decision Rules (v0.5)
+
+### INJUSTICE vs CONFLICT vs HUMANITARIAN
+
+These three frames overlap in protest/crisis contexts. Use these rules:
+
+```
+IF post describes wrongdoing/harm:
+  IF perpetrator is explicit AND blame is assigned:
+    → INJUSTICE
+  IF suffering/victimhood focus WITHOUT perpetrator:
+    → HUMANITARIAN
+  
+IF post describes clash/opposition between actors:
+  IF both sides are active participants:
+    → CONFLICT
+  IF one side is passive victim:
+    → INJUSTICE
+```
+
+| Signal | Indicates |
+|--------|-----------|
+| "They killed", "Police attacked" | INJUSTICE (perpetrator explicit) |
+| "Clashes between protesters and police" | CONFLICT (both active) |
+| "Lives lost", "Suffering continues" | HUMANITARIAN (victim focus) |
+| "Freedom fighters vs regime" | CONFLICT (opposition) |
+| "Regime murdered innocent civilians" | INJUSTICE (blame explicit) |
+
+### SOLIDARITY vs CALL_TO_ACTION
+
+```
+IF post emphasizes unity/togetherness:
+  → SOLIDARITY ("We are one", "Standing together")
+
+IF post emphasizes mobilization/demands:
+  → CALL_TO_ACTION ("Share this", "Rise up", "Join the protest")
+
+IF post has BOTH:
+  → Code PRIMARY as the dominant element
+  → Note SECONDARY frame
+```
+
+---
+
+## Arousal Calibration (v0.5)
+
+### Anchor Examples
+
+Ensure consistent arousal coding with these anchors:
+
+| Arousal | Examples | Linguistic Markers |
+|---------|----------|-------------------|
+| **HIGH** | "They are killing us", "Rise up NOW", "URGENT" | Exclamations, imperatives, threat language, death/violence |
+| **MEDIUM** | "We stand together", "Support our cause", "Justice for X" | Collective pronouns, emotional appeals, hashtag campaigns |
+| **LOW** | "Update on situation", "Here's what happened", "Report:" | Neutral reporting, factual language, links to articles |
+
+### Cross-Cultural Note
+
+Arousal expression varies by language/culture:
+- Persian/Farsi uses poetic metaphors that may seem "medium" literally but convey "high" arousal culturally
+- Chinese models may under-rate arousal compared to Western models
+- Always note model used and consider calibration sample
+
+---
+
+## Mixed-Language Handling (v0.5)
+
+### When Content Contains Multiple Languages
+
+```
+IF post is >50% non-English:
+  1. FLAG for translation verification
+  2. CODE hashtags separately (often English even in non-English posts)
+  3. NOTE language distribution in metadata
+
+IF hashtags dominate (>50% of content):
+  1. CONSIDER as CALL_TO_ACTION by default (hashtag rallying)
+  2. EXTRACT any text for separate coding
+  3. FLAG as "hashtag-heavy" for analysis
+```
+
+### Hashtag-Heavy Posts
+
+Posts that are primarily hashtags (#MahsaAmini #WomanLifeFreedom #OpIran):
+
+- Code frame from hashtag content/context
+- Default arousal to MEDIUM (rallying but not explicit emotion)
+- Note in metadata: "hashtag-heavy, limited text"

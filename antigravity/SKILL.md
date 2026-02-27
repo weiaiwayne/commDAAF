@@ -95,6 +95,7 @@ If expert, fast-track: "✅ Parameters complete. Proceeding."
 | Content Analysis | `references/methods/content-analysis.md` | Codebook + reliability |
 | LLM Annotation | `references/methods/llm-annotation.md` | Human validation |
 | TextNets | `references/methods/textnets.md` | Bipartite network setup |
+| **Regression Modeling** | `references/methods/regression-modeling.md` | **Distribution diagnostics** |
 
 ## Probing Questions Quick Reference
 
@@ -128,6 +129,21 @@ If expert, fast-track: "✅ Parameters complete. Proceeding."
 3. What conclusions will you draw? (Never "bots" from timing alone)
 4. False positive tolerance?
 5. Validation approach?
+
+### Regression Modeling (REQUIRED DIAGNOSTICS)
+1. **What is your DV?** (counts, proportions, continuous?)
+2. **Have you run distribution diagnostics?** (skewness, % zeros, variance/mean ratio)
+3. **What model will you use and WHY?** (OLS on engagement data = automatic flag)
+4. **How will you report effect sizes?** (IRR for count models, OR for logistic)
+
+**Decision tree:**
+- Engagement/count data → Negative Binomial (NOT OLS)
+- >15% zeros → Zero-inflated or Hurdle model
+- Overdispersed (var/mean > 1.5) → NB over Poisson
+- Proportions → Beta regression
+- Only use OLS if residuals approximately normal
+
+**Never run OLS on skewed engagement data without justification.**
 
 ## Constraints
 
@@ -228,9 +244,49 @@ If time range >30 days OR includes major events:
 
 Multi-model agreement does NOT substitute for human validation at 🔴 tier.
 
+## Subskills (v0.5)
+
+CommDAAF now includes specialized subskills for common tasks:
+
+| Subskill | Location | Description |
+|----------|----------|-------------|
+| **Codebook Generator** | `../codebook-generator/` | Generate operational coding schemes from theory |
+| **Effect Size Interpreter** | `../effect-size-interpreter/` | Calculate, benchmark, and interpret effect sizes |
+| **Sampling Strategist** | `../sampling-strategist/` | Design stratified/tiered sampling strategies |
+
+### Using Subskills
+
+```python
+from commdaaf import CodebookGenerator, EffectSizeInterpreter, SamplingStrategist
+
+# Generate codebook from theory
+codebook = CodebookGenerator().generate(
+    construct="injustice frame",
+    theory="Gamson 1992"
+)
+
+# Interpret regression results
+effects = EffectSizeInterpreter().interpret_irr(
+    irr=2.72, ci_lower=1.52, ci_upper=4.87, p_value=0.001,
+    predictor_name="INFORMATIONAL", reference_name="SOLIDARITY"
+)
+
+# Design stratified sample
+sample = SamplingStrategist().engagement_tiers(
+    data=tweets,
+    tiers={"viral": (95,100), "high": (75,95), "medium": (25,75), "low": (0,25)},
+    n_per_tier=100
+)
+```
+
+See individual subskill SKILL.md files for full documentation.
+
 ## Version
 
 - Name: CommDAAF
-- Version: 0.4.0
+- Version: 0.5.0
 - Based on: DAAF (Data Analyst Augmentation Framework)
-- Changelog: Added mandatory tier declaration, multi-label frame coding, valence dimension, deduplication protocol, temporal segmentation, single vs multi-model QC distinction
+- Changelog: 
+  - v0.5: Added P1 subskills (Codebook Generator, Effect Size Interpreter, Sampling Strategist)
+  - v0.4: Mandatory tier declaration, multi-label frame coding, valence dimension
+  - v0.3: Tiered validation, nudge system
