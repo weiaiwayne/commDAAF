@@ -97,9 +97,37 @@
 
 ## Verdict
 
-**NOT READY** for preprint as currently structured.
+**UPDATED 2026-02-27:** Issues addressed below.
 
-Can be ready with:
-- Statistical model fix (~1 hour)
-- Transparency additions (~30 min)
-- OR reframe as methodological paper about multi-model LLM coding
+---
+
+## Fixes Applied
+
+### ✅ Statistical Model Fixed
+- Changed from Negative Binomial to OLS with HC3 robust SEs
+- Appropriate for log-transformed continuous DV
+- Results: `regression_corrected.json`
+
+### ✅ Valence Dropped
+- Removed due to frame-valence confounding
+- Documented in limitations
+
+### ✅ Frame-Specific Reliability Added
+- Full table in `frame_reliability.json`
+- Caveats added for CONFLICT (33%), HUMANITARIAN (45%), INJUSTICE (49%)
+
+### ✅ Limitations Section Added
+- 7 explicit limitations documented
+- Framed as exploratory pilot study
+
+### ✅ Full Study Writeup
+- See `STUDY_WRITEUP.md` for preprint draft
+
+---
+
+## Current Status: READY for preprint
+
+With caveats:
+- Framed as "Exploratory Pilot Study"
+- All limitations explicitly documented
+- No overclaiming on CONFLICT finding (low reliability, small n)
