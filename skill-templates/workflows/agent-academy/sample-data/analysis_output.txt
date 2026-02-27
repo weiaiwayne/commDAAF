@@ -1,0 +1,497 @@
+Loading Xinjiang Cotton dataset...
+Dataset loaded: 92,038 tweets
+Columns: ['Unnamed: 0', 'id', 'lang', 'created_at', 'author_id', 'repost_id', 'retweeted', 'source', 'text', 'conversation_id', 'in_reply_to_user_id', 'mentions', 'hashtags', 'urls', 'retweet_count', 'reply_count', 'like_count', 'quote_count', 'username', 'description', 'location', 'verified', 'name', 'public_metrics.followers_count', 'public_metrics.following_count', 'public_metrics.tweet_count', 'public_metrics.listed_count']
+
+============================================================
+SECTION 1: PREFLIGHT CHECKS
+============================================================
+
+1.1 DATA PROVENANCE CHECK
+----------------------------------------
+Data collection period: 2021-03-20 00:00:10+00:00 to 2021-04-01 23:59:59+00:00
+Total days: 13
+Data source: Twitter API (historical collection)
+Platform-specific warnings: Pre-2023 Twitter API, chronological timeline available
+
+1.2 TEMPORAL DISTRIBUTION CHECK
+----------------------------------------
+
+Daily tweet distribution:
+  2021-03-20: 1,744 tweets (1.9%)
+  2021-03-21: 1,331 tweets (1.4%)
+  2021-03-22: 4,722 tweets (5.1%)
+  2021-03-23: 5,991 tweets (6.5%)
+  2021-03-24: 5,087 tweets (5.5%)
+  2021-03-25: 18,331 tweets (19.9%)
+  2021-03-26: 15,185 tweets (16.5%)
+  2021-03-27: 10,174 tweets (11.1%)
+  2021-03-28: 6,397 tweets (7.0%)
+  2021-03-29: 7,241 tweets (7.9%)
+  2021-03-30: 4,804 tweets (5.2%)
+  2021-03-31: 4,077 tweets (4.4%)
+  2021-04-01: 6,954 tweets (7.6%)
+
+⚠️  Temporal Clustering Check:
+  Peak day: 2021-03-25 with 18,331 tweets (19.9%)
+  Peak/trough ratio: 13.8:1
+  🚨 FLAG: Peak/trough ratio exceeds 4:1 threshold
+
+1.3 CONTENT TYPE MIXING CHECK
+----------------------------------------
+Retweets: 81,627 (88.7%)
+Original tweets: 10,411 (11.3%)
+
+⚠️  HIGH RETWEET RATE (88.7%)
+   Context matters for interpretation:
+   - Crisis/breaking news: Information scarcity
+   - Authoritarian context: Safety-seeking behavior
+   - Coordinated campaign: Strategic amplification
+
+1.4 LANGUAGE DISTRIBUTION
+----------------------------------------
+lang
+en     77912
+zh      3941
+fr      2208
+und     2008
+es      1485
+de       868
+pt       761
+ja       716
+it       477
+th       390
+Name: count, dtype: int64
+
+1.5 BOT/AUTOMATED ACCOUNT DETECTION
+----------------------------------------
+
+Top 20 most active accounts:
+  @fchaumac_chau: 357 tweets (0.39%) 
+  @james34603155: 241 tweets (0.26%) 
+  @zhang_heqing: 227 tweets (0.25%) 
+  @wengxiaoshi: 188 tweets (0.20%) 
+  @ChinaBazzar: 163 tweets (0.18%) 
+  @dlcmh: 158 tweets (0.17%) 
+  @X__CP9: 152 tweets (0.17%) 
+  @LXMXinjiang4: 151 tweets (0.16%) 
+  @davypn: 130 tweets (0.14%) 
+  @joshuamills044: 126 tweets (0.14%) 
+  @BusyAhchan: 124 tweets (0.13%) 
+  @justcurious1313: 123 tweets (0.13%) 
+  @london_shanghai: 116 tweets (0.13%) 
+  @edwardso924: 113 tweets (0.12%) 
+  @RashidM38249785: 111 tweets (0.12%) 
+  @Kafka60613837: 109 tweets (0.12%) 
+  @ArManHKCN: 106 tweets (0.12%) 
+  @AliUighur: 105 tweets (0.11%) 
+  @tweet4852: 104 tweets (0.11%) 
+  @viriyabot: 103 tweets (0.11%) 'bot' in username
+
+Max daily tweet count per top account:
+  🚨 @davypn: 90 tweets in single day (suspicious)
+  🚨 @edwardso924: 64 tweets in single day (suspicious)
+  🚨 @london_shanghai: 61 tweets in single day (suspicious)
+  🚨 @fchaumac_chau: 57 tweets in single day (suspicious)
+  🚨 @justcurious1313: 56 tweets in single day (suspicious)
+  @dlcmh: 41 tweets max/day
+  @zhang_heqing: 40 tweets max/day
+  @BusyAhchan: 39 tweets max/day
+  @james34603155: 37 tweets max/day
+  @wengxiaoshi: 36 tweets max/day
+
+============================================================
+SECTION 2: MARCH 25-26 COORDINATED AMPLIFICATION ANALYSIS
+============================================================
+
+March 25-26 dataset: 33,516 tweets
+Percentage of total: 36.4%
+
+Hourly breakdown (March 25-26):
+  2021-03-25 00:00:00+00:00: 219 tweets
+  2021-03-25 01:00:00+00:00: 357 tweets
+  2021-03-25 02:00:00+00:00: 568 tweets
+  2021-03-25 03:00:00+00:00: 578 tweets
+  2021-03-25 04:00:00+00:00: 647 tweets
+  2021-03-25 05:00:00+00:00: 461 tweets
+  2021-03-25 06:00:00+00:00: 551 tweets
+  2021-03-25 07:00:00+00:00: 644 tweets
+  2021-03-25 08:00:00+00:00: 726 tweets
+  2021-03-25 09:00:00+00:00: 849 tweets
+  2021-03-25 10:00:00+00:00: 977 tweets
+  2021-03-25 11:00:00+00:00: 1,214 tweets
+  2021-03-25 12:00:00+00:00: 1,404 tweets
+  2021-03-25 13:00:00+00:00: 1,491 tweets
+  2021-03-25 14:00:00+00:00: 1,501 tweets
+  2021-03-25 15:00:00+00:00: 1,634 tweets
+  2021-03-25 16:00:00+00:00: 1,290 tweets
+  2021-03-25 17:00:00+00:00: 791 tweets
+  2021-03-25 18:00:00+00:00: 483 tweets
+  2021-03-25 19:00:00+00:00: 358 tweets
+  2021-03-25 20:00:00+00:00: 330 tweets
+  2021-03-25 21:00:00+00:00: 284 tweets
+  2021-03-25 22:00:00+00:00: 465 tweets
+  2021-03-25 23:00:00+00:00: 509 tweets
+  2021-03-26 00:00:00+00:00: 799 tweets
+  2021-03-26 01:00:00+00:00: 745 tweets
+  2021-03-26 02:00:00+00:00: 783 tweets
+  2021-03-26 03:00:00+00:00: 705 tweets
+  2021-03-26 04:00:00+00:00: 640 tweets
+  2021-03-26 05:00:00+00:00: 690 tweets
+  2021-03-26 06:00:00+00:00: 780 tweets
+  2021-03-26 07:00:00+00:00: 777 tweets
+  2021-03-26 08:00:00+00:00: 752 tweets
+  2021-03-26 09:00:00+00:00: 716 tweets
+  2021-03-26 10:00:00+00:00: 752 tweets
+  2021-03-26 11:00:00+00:00: 756 tweets
+  2021-03-26 12:00:00+00:00: 819 tweets
+  2021-03-26 13:00:00+00:00: 831 tweets
+  2021-03-26 14:00:00+00:00: 812 tweets
+  2021-03-26 15:00:00+00:00: 795 tweets
+  2021-03-26 16:00:00+00:00: 630 tweets
+  2021-03-26 17:00:00+00:00: 486 tweets
+  2021-03-26 18:00:00+00:00: 389 tweets
+  2021-03-26 19:00:00+00:00: 231 tweets
+  2021-03-26 20:00:00+00:00: 244 tweets
+  2021-03-26 21:00:00+00:00: 321 tweets
+  2021-03-26 22:00:00+00:00: 299 tweets
+  2021-03-26 23:00:00+00:00: 433 tweets
+
+Most retweeted content during March 25-26 spike:
+
+Top 10 most shared content (by repost_id):
+  Tweet ID 1375076540854067200: 1830 shares by 1825 unique accounts
+  Tweet ID 1375015592944537600: 986 shares by 981 unique accounts
+  Tweet ID 1375046805440827136: 956 shares by 951 unique accounts
+  Tweet ID 1375100840541892608: 852 shares by 844 unique accounts
+  Tweet ID 1375038963119915008: 811 shares by 808 unique accounts
+  Tweet ID 1375241526603825152: 784 shares by 783 unique accounts
+  Tweet ID 1374927143784833024: 496 shares by 494 unique accounts
+  Tweet ID 1375095219557908480: 484 shares by 478 unique accounts
+  Tweet ID 1375331442364882688: 465 shares by 464 unique accounts
+  Tweet ID 1375076397287268352: 427 shares by 425 unique accounts
+
+Coordination timing analysis:
+Analyzing retweet timing patterns...
+Found 27 coordinated amplification patterns
+Average rapid shares per content: 11.9
+Most coordinated content had 115 rapid shares
+
+============================================================
+SECTION 3: NARRATIVE FRAME ANALYSIS
+============================================================
+
+Frame prevalence (total dataset):
+
+Pro-China frames:
+  baseless_slanders: 2,852 tweets (3.10%)
+  counter_narrative: 843 tweets (0.92%)
+  cultural_preservation: 2 tweets (0.00%)
+  economic_development: 909 tweets (0.99%)
+  terrorism_prevention: 80 tweets (0.09%)
+
+Pro-Uyghur frames:
+  detention_camps: 640 tweets (0.70%)
+  family_separation: 11 tweets (0.01%)
+  forced_labor: 6,455 tweets (7.01%)
+  genocide_claims: 7,240 tweets (7.87%)
+  human_rights: 4,690 tweets (5.10%)
+
+Frame prevalence during March 25-26 spike:
+Pro-China frames: 1,155 tweets
+Pro-Uyghur frames: 7,590 tweets
+Frame ratio (pro-China:pro-Uyghur): 13.2% : 86.8%
+
+============================================================
+SECTION 4: STATE-LINKED ACCOUNT PATTERNS
+============================================================
+
+4.1 HIGH VOLUME / LOW FOLLOWER ACCOUNTS
+----------------------------------------
+Found 16 accounts with >50 tweets but <100 followers
+
+Top 10 suspicious accounts:
+  @davypn: 130 tweets, 24 followers
+  @edwardso924: 113 tweets, 27 followers
+  @Dewi56692290: 100 tweets, 15 followers
+  @izhong_mua: 95 tweets, 1 followers
+  @Aahmattt: 91 tweets, 81 followers
+  @xiaowoniu571: 82 tweets, 49 followers
+  @S15032022: 69 tweets, 82 followers
+  @currentcurrant9: 66 tweets, 57 followers
+  @Aumnovi1: 63 tweets, 61 followers
+  @pampam94612961: 63 tweets, 85 followers
+
+4.2 REPETITIVE CONTENT PATTERNS
+----------------------------------------
+Found 3486 unique texts shared by multiple accounts
+
+Top 10 most shared texts (by number of unique accounts):
+  2683 accounts, 2683 total posts:
+    'rt marcorubio dear delta
+
+you are business partners with the communist party of ...'
+  2346 accounts, 2346 total posts:
+    'rt spokespersonchn listen to the facts about uyghurs in xinjiang'
+  1135 accounts, 1135 total posts:
+    'rt spokespersonchn xinjiangcotton is clear and innocent'
+  1073 accounts, 1074 total posts:
+    'rt spokespersonchn mississippi in 1908  xinjiang in 2015 
+a shotgun and several ...'
+  916 accounts, 917 total posts:
+    'rt nathanlawkc chinese artists are showing loyalty by supporting xinjiangcotton
+...'
+  857 accounts, 857 total posts:
+    'rt spokespersonchn take a close look at cotton picking in xinjiang local agricul...'
+  851 accounts, 851 total posts:
+    'rt j_smithfinley it seems i am to be sanctioned by the prc chinese government fo...'
+  786 accounts, 787 total posts:
+    'rt miriammlex the eu sanctions as well as earlier us sanctions were a principled...'
+  750 accounts, 751 total posts:
+    'rt canadafp in coordination with the uk and the us and in solidarity with eu can...'
+  639 accounts, 639 total posts:
+    'rt zlj517 genocide what genocide lets have a look what the us was planning to do...'
+
+4.3 GENERIC USERNAME PATTERNS
+----------------------------------------
+Found 10230 accounts with generic username patterns
+
+Examples:
+  @005Qin: 11 tweets
+  @02Xyxy: 1 tweets
+  @06gAgx: 1 tweets
+  @09Xcc: 1 tweets
+  @0ok: 1 tweets
+  @11Bh1f: 2 tweets
+  @13114m: 1 tweets
+  @15Lmw: 4 tweets
+  @16tame: 1 tweets
+  @19org: 1 tweets
+  @1johnG: 1 tweets
+  @1sak6: 1 tweets
+  @1zow: 2 tweets
+  @212hwh: 28 tweets
+  @21wasp: 1 tweets
+
+4.4 CHINESE LANGUAGE CONTENT
+----------------------------------------
+Chinese language tweets: 3,941 (4.3%)
+
+Top Chinese-language tweeting accounts:
+  @bcS20920725: 40 Chinese tweets
+  @zhang_heqing: 27 Chinese tweets
+  @S15032022: 24 Chinese tweets
+  @coicoixx: 24 Chinese tweets
+  @james34603155: 22 Chinese tweets
+  @fchaumac_chau: 20 Chinese tweets
+  @wengxiaoshi: 19 Chinese tweets
+  @CCTVAsiaPacific: 14 Chinese tweets
+  @topnewsexpress: 14 Chinese tweets
+  @thechinese1984: 12 Chinese tweets
+
+📊 SUMMARY: 10027 unique accounts flagged with state-linked signals
+
+============================================================
+SECTION 5: TEMPORAL DYNAMICS
+============================================================
+
+5.1 DAILY ACTIVITY PATTERNS
+----------------------------------------
+2021-03-20 (Saturday): 1,744 tweets
+2021-03-21 (Sunday): 1,331 tweets
+2021-03-22 (Monday): 4,722 tweets
+2021-03-23 (Tuesday): 5,991 tweets
+2021-03-24 (Wednesday): 5,087 tweets
+2021-03-25 (Thursday): 18,331 tweets
+2021-03-26 (Friday): 15,185 tweets
+2021-03-27 (Saturday): 10,174 tweets
+2021-03-28 (Sunday): 6,397 tweets
+2021-03-29 (Monday): 7,241 tweets
+2021-03-30 (Tuesday): 4,804 tweets
+2021-03-31 (Wednesday): 4,077 tweets
+2021-04-01 (Thursday): 6,954 tweets
+
+Weekend tweets: 19,646 (21.3%)
+Weekday tweets: 72,392 (78.7%)
+
+5.2 HOURLY ACTIVITY PATTERNS
+----------------------------------------
+Hour (UTC) | Tweet count
+00:00      | 3,216 █████████████████████
+01:00      | 3,386 ██████████████████████
+02:00      | 3,759 ████████████████████████
+03:00      | 3,588 ███████████████████████
+04:00      | 3,549 ███████████████████████
+05:00      | 3,388 ██████████████████████
+06:00      | 3,684 ████████████████████████
+07:00      | 3,838 █████████████████████████
+08:00      | 3,942 ██████████████████████████
+09:00      | 4,005 ██████████████████████████
+10:00      | 4,332 ████████████████████████████
+11:00      | 4,948 ████████████████████████████████
+12:00      | 5,041 █████████████████████████████████
+13:00      | 5,706 █████████████████████████████████████
+14:00      | 6,024 ████████████████████████████████████████
+15:00      | 5,985 ███████████████████████████████████████
+16:00      | 5,275 ███████████████████████████████████
+17:00      | 4,202 ███████████████████████████
+18:00      | 2,849 ██████████████████
+19:00      | 1,965 █████████████
+20:00      | 1,882 ████████████
+21:00      | 2,052 █████████████
+22:00      | 2,449 ████████████████
+23:00      | 2,973 ███████████████████
+
+Peak activity hours (UTC): 14:00, 15:00, 13:00
+
+============================================================
+SECTION 6: ENGAGEMENT ASYMMETRIES
+============================================================
+
+6.1 OVERALL ENGAGEMENT STATISTICS
+----------------------------------------
+Total retweets: 33,339,741
+Total likes: 259,533
+Total replies: 29,108
+Total quotes: 10,511
+
+Average per tweet:
+  Retweets: 362.24
+  Likes: 2.82
+  Replies: 0.32
+
+6.2 ENGAGEMENT BY NARRATIVE FRAME
+----------------------------------------
+
+Engagement by dominant frame:
+               retweet_count                    ... like_count reply_count       
+                       count    mean       sum  ...        sum        mean    sum
+dominant_frame                                  ...                              
+mixed                    804  128.39    103223  ...       4107        0.63    508
+no_frame               69794  388.25  27097209  ...     158621        0.24  16741
+pro_china               3787  144.10    545706  ...      16119        0.43   1630
+pro_uyghur             17653  316.86   5593603  ...      80686        0.58  10229
+
+[4 rows x 7 columns]
+
+6.3 TOP ENGAGED CONTENT
+----------------------------------------
+
+Most retweeted original tweets:
+
+@marcorubio (pro_uyghur):
+  RTs: 3850, Likes: 12477
+  dear @delta:
+
+you are business partners with the communist party of #china 
+
+when can we expect your...
+
+@SpokespersonCHN (no_frame):
+  RTs: 2550, Likes: 7212
+  listen to the facts about #uyghurs in #xinjiang. https://t.co/eumu39mxz6
+
+@SpokespersonCHN (no_frame):
+  RTs: 1213, Likes: 6117
+  #xinjiangcotton is clear and innocent. https://t.co/vgbtbt5f1e
+
+@SpokespersonCHN (pro_uyghur):
+  RTs: 1163, Likes: 5592
+  #mississippi in 1908 🆚 #xinjiang in 2015 
+a shotgun and several hounds 🆚 smiles and harvests. forced...
+
+@nathanlawkc (pro_uyghur):
+  RTs: 988, Likes: 1993
+  chinese artists are showing loyalty by supporting #xinjiangcotton
+in other words, they’re in support...
+
+@SpokespersonCHN (pro_uyghur):
+  RTs: 952, Likes: 4404
+  take a close look at cotton picking in #xinjiang. local agriculture department: in 2020, 69.83% of x...
+
+@j_smithfinley (no_frame):
+  RTs: 920, Likes: 2917
+  it seems i am to be sanctioned by the prc (chinese) government for speaking the truth about the #uyg...
+
+@MiriamMLex (pro_uyghur):
+  RTs: 843, Likes: 1076
+  the #eu sanctions as well as earlier #us sanctions were a principled response to fast-deteriorating ...
+
+@CanadaFP (no_frame):
+  RTs: 810, Likes: 1309
+  in coordination with the #uk and the #us, and in solidarity with #eu, canada announces sanctions in ...
+
+@zlj517 (pro_uyghur):
+  RTs: 683, Likes: 2348
+  #genocide? what genocide? let's have a look what the #us was planning to do in #xinjiang in #china. ...
+
+============================================================
+SECTION 7: CRITICAL CHECKS SUMMARY
+============================================================
+
+7.1 SAMPLE BALANCE CHECK
+----------------------------------------
+Daily distribution check:
+  🚨 2021-03-20: 1,744 (1.9%)
+  🚨 2021-03-21: 1,331 (1.4%)
+  ✓ 2021-03-22: 4,722 (5.1%)
+  ✓ 2021-03-23: 5,991 (6.5%)
+  ✓ 2021-03-24: 5,087 (5.5%)
+  ✓ 2021-03-25: 18,331 (19.9%)
+  ✓ 2021-03-26: 15,185 (16.5%)
+  ✓ 2021-03-27: 10,174 (11.1%)
+  ✓ 2021-03-28: 6,397 (7.0%)
+  ✓ 2021-03-29: 7,241 (7.9%)
+  ✓ 2021-03-30: 4,804 (5.2%)
+  🚨 2021-03-31: 4,077 (4.4%)
+  ✓ 2021-04-01: 6,954 (7.6%)
+
+7.2 METRIC COMPARABILITY CHECK
+----------------------------------------
+⚠️  High retweet rate detected: 88.7%
+   Implications for analysis:
+   - Engagement metrics inflated by retweets
+   - Original content vs amplification behavior differ
+   - Recommend separate analysis of original vs retweets
+
+7.3 EFFECT SIZE INTERPRETATION
+----------------------------------------
+Pro-China frame prevalence: 17.7% of framed tweets
+Pro-Uyghur frame prevalence: 82.3% of framed tweets
+  → Large effect: Pro-Uyghur frames dominate
+
+7.4 CONTEXT CHANGE CHECK
+----------------------------------------
+Known events during data period (March 20 - April 1, 2021):
+  - March 2021: EU sanctions on Chinese officials over Xinjiang
+  - March 2021: Chinese counter-sanctions and diplomatic tensions
+  - March 24-25: H&M boycott campaign in China over Xinjiang cotton
+  - March 25-26: Peak activity period in dataset (spike)
+
+⚠️  EXTERNAL EVENT WARNING:
+   March 25-26 spike coincides with H&M boycott campaign.
+   This is NOT random variation - expect coordinated behavior.
+
+7.5 BOT DETECTION SUMMARY
+----------------------------------------
+Accounts flagged with suspicious signals: 10027
+Signal breakdown:
+  high_volume_low_followers: 10 accounts
+  repetitive_content: 10008 accounts
+  coordinated_timing: 0 accounts
+  generic_usernames: 15 accounts
+  chinese_language: 10 accounts
+
+7.6 ANALYSIS LIMITATIONS
+----------------------------------------
+1. Limited temporal window (12 days) - cannot assess long-term patterns
+2. March 25-26 spike driven by specific event (H&M boycott)
+3. Retweet-heavy dataset (88%) - limited original content analysis
+4. No ground truth for state-linkage - heuristic-based detection only
+5. Language: Primary language English, but mixed with Chinese content
+6. Platform: Pre-2023 Twitter API data - different from current platform
+
+============================================================
+ANALYSIS COMPLETE
+============================================================
+
+Output ready for report generation.

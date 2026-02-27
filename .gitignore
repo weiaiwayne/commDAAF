@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.env
+
+# Zotero personalization output (user-specific)
+skill-templates/zotero/output/
+skill-templates/zotero/test-output/
+**/MEMORY.md
+**/commdaaf_profile.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Research data (don't commit data)
+data/raw/
+data/processed/
+*.csv
+*.json
+!manifest.json
+!config.json
+!analysis.json
+!opencode.json
+*.rda
+*.pkl
+*.graphml
+*.xlsx

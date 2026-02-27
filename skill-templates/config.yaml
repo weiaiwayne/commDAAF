@@ -1,0 +1,199 @@
+# CommDAAF - User Configuration
+# Computational Communication Research Framework
+# Edit these parameters to match YOUR research context
+# Version: 0.2.0
+
+# =============================================================================
+# RESEARCHER PROFILE
+# =============================================================================
+researcher:
+  name: ""                          # Your name
+  institution: ""                   # For documentation
+  zotero_user_id: ""               # If using Zotero adapter
+  primary_subfield: ""             # political_comm | health_comm | journalism | science_comm
+  
+  # Engagement tier: novice | intermediate | expert
+  # - novice: Full probing questions, all explanations
+  # - intermediate: Spot-check key decisions, fewer prompts
+  # - expert: Fast-track mode, skip basic questions
+  engagement_tier: intermediate
+  
+  # Methods you've demonstrated competence in (skip probing for these)
+  verified_competence: []
+  # Example: [sentiment_analysis, network_analysis, topic_modeling]
+
+# =============================================================================
+# DATA ACCESS STRATEGY (Post-API Era)
+# =============================================================================
+data_access:
+  # Prefer existing datasets over new collection?
+  prefer_existing_datasets: true
+  
+  # Platforms you have access to (honest assessment)
+  available_access:
+    bluesky: true          # Open, no auth needed
+    telegram: true         # Need account, but works
+    youtube: true          # API key needed, quotas
+    reddit: false          # Limited unless you have paid access
+    twitter: false         # $5K/mo+, likely unavailable
+    tiktok: false          # Need research API approval
+    meta: false            # Need Content Library approval
+  
+  # Do you have institutional access to any?
+  institutional_access:
+    meta_content_library: false
+    tiktok_research_api: false
+    twitter_academic: false
+
+# =============================================================================
+# DATA COLLECTION DEFAULTS
+# =============================================================================
+collection:
+  # Which platforms do you primarily study?
+  # NOTE: Should match what you actually have access to above
+  primary_platforms:
+    - bluesky
+    - telegram
+  
+  # Default date range for collection (days back from today)
+  default_lookback_days: 30
+  
+  # Rate limiting (requests per second)
+  rate_limit: 1.0
+
+# =============================================================================
+# COORDINATED BEHAVIOR DETECTION
+# =============================================================================
+coordinated_behavior:
+  # Time window for co-sharing detection (seconds)
+  # - Fast platforms (Twitter): 30-60 seconds
+  # - Slower platforms (Telegram, Facebook): 300-3600 seconds
+  # - Cross-platform studies: 3600+ seconds
+  time_threshold_seconds: 60
+  
+  # Minimum co-shares to establish edge
+  # - High-volume data: 3-5
+  # - Low-volume data: 2
+  min_edge_weight: 2
+  
+  # Minimum cluster size to report
+  min_cluster_size: 3
+  
+  # What counts as "content"?
+  content_signals:
+    - urls                # Shared links (most reliable)
+    - hashtags            # Shared hashtags
+    - text_fingerprint    # Near-identical text
+
+# =============================================================================
+# NETWORK ANALYSIS
+# =============================================================================
+network_analysis:
+  # Community detection algorithm
+  # - louvain: Fast, good for large networks
+  # - infomap: Better for information flow
+  # - label_propagation: Fast, less stable
+  algorithm: louvain
+  
+  # Resolution parameter (higher = more smaller communities)
+  resolution: 1.0
+  
+  # Centrality measures to compute
+  centrality_measures:
+    - degree
+    - betweenness
+    - eigenvector
+
+# =============================================================================
+# LLM ANNOTATION
+# =============================================================================
+llm_annotation:
+  # Model for bulk annotation (cost-sensitive)
+  bulk_model: google/gemini-2.0-flash
+  
+  # Model for complex/ambiguous cases
+  complex_model: anthropic/claude-sonnet-4
+  
+  # Model for adversarial review (should differ from annotator)
+  review_model: openai/gpt-4o
+  
+  # Confidence threshold for auto-accept
+  confidence_threshold: 0.85
+  
+  # Sample size for human validation
+  validation_sample_size: 200
+  
+  # Your custom categories (edit for your research)
+  categories:
+    - label: "political"
+      description: "Content about politics, elections, government"
+    - label: "commercial" 
+      description: "Advertising, product promotion, spam"
+    - label: "personal"
+      description: "Personal updates, opinions, daily life"
+    - label: "news"
+      description: "News reporting, journalism"
+
+# =============================================================================
+# TOPIC MODELING
+# =============================================================================
+topic_modeling:
+  # Number of topics (0 = auto-detect)
+  num_topics: 0
+  
+  # Algorithm: lda | bertopic | nmf
+  algorithm: bertopic
+  
+  # Minimum documents per topic
+  min_topic_size: 10
+  
+  # Language for stopwords
+  language: english
+
+# =============================================================================
+# OUTPUT & REPORTING
+# =============================================================================
+output:
+  # Where to save outputs
+  output_dir: ./research_output
+  
+  # Formats to generate
+  formats:
+    - markdown
+    - csv
+    - json
+  
+  # Include visualizations?
+  generate_figures: true
+  
+  # Figure format: png | svg | pdf
+  figure_format: png
+
+# =============================================================================
+# HUMAN CHECKPOINTS
+# =============================================================================
+checkpoints:
+  # When to pause and ask for human review
+  pause_after_plan: true
+  pause_after_collection: true
+  pause_after_analysis: true
+  pause_before_interpretation: true
+  
+  # How to notify (if using OpenClaw messaging)
+  notification_channel: telegram  # or slack, email
+
+# =============================================================================
+# ETHICAL SAFEGUARDS
+# =============================================================================
+ethics:
+  # Anonymize individual accounts in output?
+  anonymize_accounts: true
+  
+  # Minimum account size to name (followers/members)
+  min_account_size_to_name: 10000
+  
+  # Require human approval before "inauthentic" label?
+  require_human_for_inauthenticity: true
+  
+  # Data retention (days, 0 = indefinite)
+  data_retention_days: 365
