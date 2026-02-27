@@ -13,51 +13,59 @@
     "three_way_agreement": 0.582,
     "majority_agreement": 0.945
   },
-  "frame_anova": {
-    "F": 2.05,
-    "df": [
-      6,
-      373
-    ],
-    "p": 0.0584,
-    "eta_squared": 0.0319,
-    "interpretation": "Marginally significant, small effect"
+  "distribution_diagnostics": {
+    "skewness": 1.727,
+    "pct_zeros": 20.8,
+    "variance_mean_ratio": 2.792,
+    "note": "Highly skewed, zero-inflated, overdispersed - requires NB/hurdle"
   },
-  "arousal_anova": {
-    "F": 5.176,
-    "df": [
-      2,
-      377
-    ],
-    "p": 0.0061,
-    "interpretation": "Significant"
-  },
-  "key_findings": [
-    "CONFLICT frame highest engagement (M=3.48), +1.75 vs SOLIDARITY",
-    "High arousal \u2192 higher engagement (M=2.60 vs 1.56, p=.013)",
-    "SOLIDARITY most common (32%) but lowest engagement",
-    "Frame effect marginal (p=.058), arousal effect significant (p=.006)"
-  ],
-  "regression": {
-    "R2": 0.0592,
-    "adj_R2": 0.031,
-    "significant_predictors": [
-      "INFORMATIONAL (p=.026)",
-      "arousal:high (p=.071)"
-    ]
-  },
-  "effect_sizes": {
-    "CONFLICT_vs_SOLIDARITY": {
-      "d": 0.663,
-      "interpretation": "medium"
+  "negative_binomial_regression": {
+    "note": "Correct model for skewed count/engagement data",
+    "significant_effects": {
+      "INFORMATIONAL": {
+        "IRR": 2.72,
+        "p": 0.0001,
+        "interpretation": "2.7x more engagement than SOLIDARITY"
+      },
+      "high_arousal": {
+        "IRR": 1.58,
+        "p": 0.038,
+        "interpretation": "58% more engagement than low arousal"
+      },
+      "neutral_valence": {
+        "IRR": 0.51,
+        "p": 0.005,
+        "interpretation": "Half the engagement of negative valence"
+      }
     },
-    "INJUSTICE_vs_SOLIDARITY": {
-      "d": 0.292,
-      "interpretation": "small"
-    },
-    "HOPE_vs_SOLIDARITY": {
-      "d": 0.273,
-      "interpretation": "small"
+    "marginal_effects": {
+      "CONFLICT": {
+        "IRR": 1.71,
+        "p": 0.1
+      }
     }
-  }
+  },
+  "hurdle_model": {
+    "part1_logistic": {
+      "note": "P(engagement > 0)",
+      "INFORMATIONAL_OR": 3.69,
+      "INFORMATIONAL_p": 0.06
+    },
+    "part2_ols_log": {
+      "note": "E[log(engagement) | engagement > 0]",
+      "R2": 0.0709,
+      "INFORMATIONAL_mult": 1.59,
+      "INFORMATIONAL_p": 0.049,
+      "high_arousal_mult": 1.43,
+      "high_arousal_p": 0.074
+    }
+  },
+  "key_findings_revised": [
+    "INFORMATIONAL frame drives highest engagement (IRR=2.72, p<.001)",
+    "CONFLICT effect overstated by OLS; NB shows IRR=1.71, p=.10 (marginal)",
+    "High arousal significant: IRR=1.58, p=.038",
+    "Neutral valence penalized: IRR=0.51, p=.005 (half the engagement)",
+    "SOLIDARITY most common (32%) but not engagement driver"
+  ],
+  "methodological_note": "OLS inappropriate for skewed engagement data. Negative binomial regression preferred. Results differ substantively from naive OLS."
 }
