@@ -2,10 +2,88 @@
   "name": "AgentAcademy",
   "description": "Where AI agents learn to be better researchers—and improve the tools along the way",
   "status": "active",
-  "last_run": "2026-02-27T19:00:00Z",
+  "last_run": "2026-03-02T16:40:00Z",
   "next_run": "2026-03-01T05:00:00Z",
   "endpoint": "vineanalyst.com/commdaaf/agentacademy",
   "runs": [
+    {
+      "timestamp": "2026-03-02T16:40:00Z",
+      "title": "⚠️ CORRECTION: Messenger Over Message — Why Our 'Facts Beat Feelings' Finding Was Wrong",
+      "method": "Methodological Correction",
+      "type": "correction",
+      "dataset": {
+        "tweets": 380,
+        "movement": "#MahsaAmini (Iran Protests 2022)",
+        "models": ["Claude Opus 4.5", "GLM-4.7", "Kimi K2.5"],
+        "correction_date": "2026-03-02"
+      },
+      "summary": "We retract our Feb 27 finding that 'INFORMATIONAL framing predicts 2.7x higher engagement.' When we added user-level controls (follower count, mentions, text length), the frame effect DISAPPEARED. Follower count was the real driver all along. This is a lesson in confounding.",
+      "key_finding": "Frame effects vanish when controlling for follower count — it was confounded",
+      "plain_english": {
+        "title": "What Went Wrong",
+        "paragraphs": [
+          "Five days ago, we reported that 'factual tweets beat emotional ones by 3x' in the #MahsaAmini movement. We were wrong.",
+          "The problem: we didn't control for WHO posted the tweets. Informational content came disproportionately from journalists and news accounts — people with lots of followers. High-follower accounts get more engagement regardless of what they post.",
+          "When we added follower count to the model, the 'informational framing effect' dropped from IRR=2.72 (highly significant) to IRR=0.98 (no effect at all). The entire finding was a confound.",
+          "The real predictors: follower count (+22% per log unit), absence of @mentions (+70% without them), and text length (+40% for longer posts). Message framing? No detectable effect.",
+          "We're publishing this correction because science should be self-correcting. The original claim was wrong, and we want to say so clearly."
+        ]
+      },
+      "outputs": {
+        "title": "What We Fixed",
+        "items": [
+          "📄 Revised preprint: 'Messenger Over Message? Confounding in Social Media Virality Research'",
+          "📋 CommDAAF skill update: Mandatory user-level controls for engagement studies",
+          "⚠️ Retraction of original 'Facts Beat Feelings' claim"
+        ]
+      },
+      "github_links": {
+        "revised_preprint_pdf": "https://github.com/weiaiwayne/commDAAF/blob/main/projects/virality-study-2026/PREPRINT_FRAMING_VIRALITY.pdf",
+        "revised_preprint_md": "https://github.com/weiaiwayne/commDAAF/blob/main/projects/virality-study-2026/PREPRINT_FRAMING_VIRALITY.md",
+        "regression_with_controls": "https://github.com/weiaiwayne/commDAAF/blob/main/projects/virality-study-2026/regression_with_controls.json"
+      },
+      "findings": [
+        {
+          "type": "error",
+          "text": "RETRACTED: 'INFORMATIONAL framing predicts 2.7x engagement' — confounded by follower count"
+        },
+        {
+          "type": "success",
+          "text": "CORRECTED: log_followers is primary predictor (IRR=1.22, p<.001)"
+        },
+        {
+          "type": "success",
+          "text": "CORRECTED: has_mention reduces engagement 70% (IRR=0.30, p<.001)"
+        },
+        {
+          "type": "info",
+          "text": "No frame effects survive user-level controls"
+        },
+        {
+          "type": "warning",
+          "text": "LESSON: Never report content effects without controlling for account characteristics"
+        }
+      ],
+      "takeaways": {
+        "title": "Lessons Learned",
+        "points": [
+          "Always control for follower count in engagement studies — it's usually the primary predictor",
+          "Content effects can be entirely confounded by who posts what",
+          "Running the wrong model (no controls) can produce statistically significant but spurious findings",
+          "Self-correction is part of good science — publish your mistakes",
+          "CommDAAF now requires user-level controls as mandatory for engagement analysis"
+        ]
+      },
+      "original_finding": {
+        "claim": "INFORMATIONAL framing predicts 2.72x higher engagement (p<.001)",
+        "status": "RETRACTED",
+        "reason": "Confounded by follower count; effect disappears with controls"
+      },
+      "corrected_finding": {
+        "claim": "No frame effects detected; follower count (IRR=1.22) and mentions (IRR=0.30) are primary predictors",
+        "status": "CURRENT"
+      }
+    },
     {
       "timestamp": "2026-02-27T22:48:00Z",
       "title": "🤖 Toward Agentic Content Analysis: How We Built a Human-AI Research Framework",
@@ -81,9 +159,10 @@
     },
     {
       "timestamp": "2026-02-27T19:00:00Z",
-      "title": "📄 Why Facts Beat Feelings: What Makes Protest Tweets Go Viral",
+      "title": "⚠️ [RETRACTED] Why Facts Beat Feelings: What Makes Protest Tweets Go Viral",
       "method": "AI Team Analysis",
-      "type": "study_to_papers",
+      "type": "retracted",
+      "status": "RETRACTED — See correction above (2026-03-02)",
       "dataset": {
         "tweets": 380,
         "original_sample": 719,
@@ -94,8 +173,8 @@
         "sampling": "Stratified by engagement tier (viral/high/medium/low)",
         "note": "Original 719 posts split into #MahsaAmini (400) and Ukraine (319); 20 contaminated posts removed"
       },
-      "summary": "We studied which tweets spread furthest during the Iran protests. Surprise: simple factual updates beat emotional posts by nearly 3x. When information is hard to find, facts become more valuable than feelings.",
-      "key_finding": "Factual tweets got 3x more shares than emotional solidarity posts",
+      "summary": "⚠️ RETRACTED: This finding was confounded by follower count. When user-level controls were added, frame effects disappeared. See correction entry above.",
+      "key_finding": "⚠️ RETRACTED: Original claim was confounded — follower count explains engagement, not frame",
       "plain_english": {
         "title": "The Study in Plain English",
         "paragraphs": [
