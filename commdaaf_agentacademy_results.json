@@ -7,14 +7,92 @@
   "endpoint": "vineanalyst.com/commdaaf/agentacademy",
   "runs": [
     {
+      "timestamp": "2026-02-27T22:48:00Z",
+      "title": "🤖 Toward Agentic Content Analysis: How We Built a Human-AI Research Framework",
+      "method": "Reflexive Methodology Documentation",
+      "type": "methods_paper",
+      "dataset": {
+        "basis": "Same 380 #MahsaAmini tweets as companion study",
+        "models": ["Claude Opus 4.5 (Anthropic)", "GLM-4.7 (Zhipu AI)", "Kimi K2.5 (Moonshot AI)"],
+        "reliability": "Fleiss' κ = 0.633 (substantial agreement)"
+      },
+      "summary": "We documented everything that went wrong while building CommDAAF — data contamination, oversimplified prompts, wrong statistical models, batch size failures. Then we turned those failures into a framework others can use. This paper is the honest story of how agentic content analysis actually works.",
+      "key_finding": "Agentic AI doesn't eliminate human judgment — it transforms it from coding to orchestrating",
+      "plain_english": {
+        "title": "The Paper in Plain English",
+        "paragraphs": [
+          "AI can now code thousands of social media posts in hours instead of weeks. But how do you actually do it right? We wrote down everything we learned — including everything we got wrong.",
+          "We mixed up two different datasets (Iran and Ukraine). We used prompts that were too simple. We ran the wrong statistical model. We trusted aggregate reliability when some frames were unreliable. Each mistake taught us something.",
+          "The result is CommDAAF — a framework that tells you: use multiple AI models, report reliability by category, build diagnostic checkpoints, and match your claims to your validation level.",
+          "The key insight: AI doesn't replace researchers — it changes what researchers do. Instead of coding individual tweets, you design systems that code tweets. That requires different skills: prompt engineering, model selection, quality control.",
+          "We cataloged our failures because that's where the real lessons are. Anyone can report success; documenting what went wrong helps others avoid the same mistakes."
+        ]
+      },
+      "outputs": {
+        "title": "What We Made",
+        "items": [
+          "📄 Methods paper: Full reflexive account of building CommDAAF",
+          "📋 10 concrete practices for agentic content analysis",
+          "🔧 Failure taxonomy: Data, Prompt, Technical, Analytical failures",
+          "✅ Quick-start checklist for future studies"
+        ]
+      },
+      "github_links": {
+        "methods_preprint_pdf": "https://github.com/weiaiwayne/commDAAF/blob/main/projects/virality-study-2026/PREPRINT_AGENTIC_METHODS.pdf",
+        "methods_preprint_md": "https://github.com/weiaiwayne/commDAAF/blob/main/projects/virality-study-2026/PREPRINT_AGENTIC_METHODS.md",
+        "framing_preprint_pdf": "https://github.com/weiaiwayne/commDAAF/blob/main/projects/virality-study-2026/PREPRINT_FRAMING_VIRALITY.pdf"
+      },
+      "findings": [
+        {
+          "type": "success",
+          "text": "Full failure taxonomy: 11 documented mistakes → 11 lessons"
+        },
+        {
+          "type": "success",
+          "text": "10 concrete practices for agentic research"
+        },
+        {
+          "type": "success",
+          "text": "CommDAAF framework: prompts, validation tiers, checkpoints"
+        },
+        {
+          "type": "info",
+          "text": "Human role shifts from coder → orchestrator"
+        },
+        {
+          "type": "info",
+          "text": "Inter-model agreement = reliability, NOT validity"
+        },
+        {
+          "type": "warning",
+          "text": "When NOT to use: high-stakes, novel constructs, interpretive traditions"
+        }
+      ],
+      "takeaways": {
+        "title": "So What?",
+        "points": [
+          "AI content analysis is real, but it requires new skills — not less expertise",
+          "Document your failures — that's where the methodology lives",
+          "Use multiple models (3+) — single-model coding has no reliability check",
+          "Match claims to validation: exploratory (AI-only) vs confirmatory (human-validated)",
+          "This is a companion to the framing paper — same data, different focus"
+        ]
+      }
+    },
+    {
       "timestamp": "2026-02-27T19:00:00Z",
       "title": "📄 Why Facts Beat Feelings: What Makes Protest Tweets Go Viral",
       "method": "AI Team Analysis",
       "type": "study_to_papers",
       "dataset": {
         "tweets": 380,
+        "original_sample": 719,
         "movement": "#MahsaAmini (Iran Protests 2022)",
-        "languages": "Mostly Persian, some English and Arabic"
+        "period": "September 21 - October 3, 2022",
+        "collection": "Twitter Academic Research API",
+        "languages": "Persian (69%), English (23%), Arabic (5%)",
+        "sampling": "Stratified by engagement tier (viral/high/medium/low)",
+        "note": "Original 719 posts split into #MahsaAmini (400) and Ukraine (319); 20 contaminated posts removed"
       },
       "summary": "We studied which tweets spread furthest during the Iran protests. Surprise: simple factual updates beat emotional posts by nearly 3x. When information is hard to find, facts become more valuable than feelings.",
       "key_finding": "Factual tweets got 3x more shares than emotional solidarity posts",
@@ -35,6 +113,12 @@
           "📄 Methods paper: How to do AI-assisted research properly",
           "📋 Step-by-step guide for future studies"
         ]
+      },
+      "github_links": {
+        "framing_preprint_pdf": "https://github.com/weiaiwayne/commDAAF/blob/main/projects/virality-study-2026/PREPRINT_FRAMING_VIRALITY.pdf",
+        "framing_preprint_md": "https://github.com/weiaiwayne/commDAAF/blob/main/projects/virality-study-2026/PREPRINT_FRAMING_VIRALITY.md",
+        "methods_preprint_pdf": "https://github.com/weiaiwayne/commDAAF/blob/main/projects/virality-study-2026/PREPRINT_AGENTIC_METHODS.pdf",
+        "methods_preprint_md": "https://github.com/weiaiwayne/commDAAF/blob/main/projects/virality-study-2026/PREPRINT_AGENTIC_METHODS.md"
       },
       "findings": [
         {

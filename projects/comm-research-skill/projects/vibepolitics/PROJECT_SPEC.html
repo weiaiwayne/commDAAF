@@ -1,0 +1,601 @@
+<h1>VibePolitics: Agentic Unconventional Polling System</h1>
+<p><strong>Project Codename:</strong> VibePolitics<br><strong>Version:</strong> 0.1 (MVP Specification)<br><strong>Date:</strong> February 4, 2026<br><strong>Location:</strong> Boston, MA  </p>
+<hr>
+<h2>Executive Summary</h2>
+<p>VibePolitics is an autonomous multi-agent system designed to poll American public opinion through unconventional data sources. Rather than traditional surveys, the system analyzes revealed preferences via prediction markets and search behavior patterns. The goal is to provide a novel, continuous survey of public sentiment regarding the 2026 midterm elections and the Trump presidency.</p>
+<p>This project is designed with academic rigor, aiming for publication in peer-reviewed scientific journals.</p>
+<hr>
+<h2>Part 1: Theoretical Foundation</h2>
+<h3>1.1 The Problem with Traditional Polling</h3>
+<p>Traditional polling faces several well-documented challenges:</p>
+<ol>
+<li><strong>Response bias</strong> — People say what they think pollsters want to hear</li>
+<li><strong>Social desirability bias</strong> — Reluctance to express controversial views</li>
+<li><strong>Nonresponse bias</strong> — Who answers polls ≠ who votes</li>
+<li><strong>Timing</strong> — Polls are snapshots; attitudes are continuous</li>
+<li><strong>Cost</strong> — High-quality polls are expensive and infrequent</li>
+<li><strong>2016/2020 misses</strong> — Systematic underestimation of Trump support</li>
+</ol>
+<h3>1.2 Revealed vs. Stated Preferences</h3>
+<p>The core insight: <strong>When people put money on an outcome, they reveal their true beliefs.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Stated Preferences (Polls)</th>
+<th>Revealed Preferences (Markets)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>&quot;Who will you vote for?&quot;</td>
+<td>&quot;Where is your money?&quot;</td>
+</tr>
+<tr>
+<td>Subject to social pressure</td>
+<td>Financial incentive for accuracy</td>
+</tr>
+<tr>
+<td>Periodic snapshots</td>
+<td>Continuous real-time data</td>
+</tr>
+<tr>
+<td>Self-reported</td>
+<td>Behaviorally observed</td>
+</tr>
+</tbody></table>
+<h3>1.3 Prediction Markets as Polls</h3>
+<p>Prediction markets aggregate distributed information. Each trade represents someone&#39;s updated belief given their private information. The market price thus reflects the crowd&#39;s aggregated probability assessment.</p>
+<p><strong>Key advantages:</strong></p>
+<ul>
+<li>Continuous updating (24/7)</li>
+<li>Financial incentives align with truthfulness</li>
+<li>Skin in the game reduces cheap talk</li>
+<li>Historical accuracy often exceeds polls (especially for elections)</li>
+</ul>
+<h3>1.4 Search Behavior as Sentiment</h3>
+<p>Google Trends data reveals what people are <em>actually curious about</em>, not what they claim to care about. Search volume for politically relevant terms can predict:</p>
+<ul>
+<li>Issue salience (what&#39;s top of mind)</li>
+<li>Information-seeking behavior (uncertainty, curiosity)</li>
+<li>Grassroots interest vs. media-driven attention</li>
+<li>Regional variation in concerns</li>
+</ul>
+<hr>
+<h2>Part 2: System Architecture</h2>
+<h3>2.1 Framing</h3>
+<p>We are an <strong>agentic research team based in Boston, MA</strong>, tasked with polling American public opinion using unconventional methodologies. The team consists of four autonomous AI agents, each with specialized expertise and the ability to collaborate, debate, and reason transparently.</p>
+<h3>2.2 The Four Agents</h3>
+<table>
+<thead>
+<tr>
+<th>Agent</th>
+<th>Domain</th>
+<th>Role</th>
+<th>Personality</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>PolAgent-A</strong></td>
+<td>Political Analysis</td>
+<td>Tracks political markets, candidate dynamics, party movements</td>
+<td>Analytical, data-driven</td>
+</tr>
+<tr>
+<td><strong>PolAgent-B</strong></td>
+<td>Political Analysis</td>
+<td>Counter-analyst, challenges PolAgent-A&#39;s interpretations</td>
+<td>Skeptical, contrarian</td>
+</tr>
+<tr>
+<td><strong>EconAgent-A</strong></td>
+<td>Economic Analysis</td>
+<td>Monitors economic policy markets, Fed, fiscal policy</td>
+<td>Macro-focused, quantitative</td>
+</tr>
+<tr>
+<td><strong>EconAgent-B</strong></td>
+<td>Economic Analysis</td>
+<td>Counter-analyst, alternative economic interpretations</td>
+<td>Heterodox, considers second-order effects</td>
+</tr>
+</tbody></table>
+<h3>2.3 Agent Behaviors</h3>
+<p>Each agent is fully autonomous and can:</p>
+<ol>
+<li><strong>Analyze data sources</strong> — Pull from Polymarket, Kalshi, Google Trends</li>
+<li><strong>Search for context</strong> — Use AI APIs to research news, historical context, academic literature</li>
+<li><strong>Decide to act or not act</strong> — Evaluate whether a signal warrants attention</li>
+<li><strong>Choose keywords</strong> — Autonomously decide what to query in Google Trends</li>
+<li><strong>Engage other agents</strong> — Initiate debates, request peer review, casual discussion</li>
+<li><strong>Abstain from engagement</strong> — Choose not to respond if they have nothing to add</li>
+</ol>
+<h3>2.4 Agent Interaction Modes</h3>
+<table>
+<thead>
+<tr>
+<th>Mode</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Debate</strong></td>
+<td>Structured disagreement on interpretation of signals</td>
+</tr>
+<tr>
+<td><strong>Peer Review</strong></td>
+<td>One agent reviews another&#39;s analysis for errors/blind spots</td>
+</tr>
+<tr>
+<td><strong>Casual Chat</strong></td>
+<td>Informal discussion, hypothesis generation, brainstorming</td>
+</tr>
+<tr>
+<td><strong>Solo Analysis</strong></td>
+<td>Independent deep-dive without collaboration</td>
+</tr>
+<tr>
+<td><strong>Consensus Building</strong></td>
+<td>Attempt to synthesize views into unified assessment</td>
+</tr>
+</tbody></table>
+<h3>2.5 Data Sources</h3>
+<h4>Primary: Prediction Markets</h4>
+<table>
+<thead>
+<tr>
+<th>Source</th>
+<th>API</th>
+<th>Coverage</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Polymarket</strong></td>
+<td><code>gamma-api.polymarket.com</code></td>
+<td>Political events, policy outcomes, elections</td>
+</tr>
+<tr>
+<td><strong>Kalshi</strong></td>
+<td><code>api.elections.kalshi.com</code></td>
+<td>CFTC-regulated, US-focused, economic events</td>
+</tr>
+</tbody></table>
+<p><strong>Key metrics extracted:</strong></p>
+<ul>
+<li>Current prices (probability estimates)</li>
+<li>Price velocity &amp; acceleration</li>
+<li>Volume (conviction signal)</li>
+<li>Liquidity depth</li>
+<li>Bid-ask spread (uncertainty)</li>
+<li>24h/1wk/1mo price changes</li>
+</ul>
+<h4>Secondary: Search Behavior</h4>
+<table>
+<thead>
+<tr>
+<th>Source</th>
+<th>Access</th>
+<th>Coverage</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Google Trends</strong></td>
+<td>PyTrends / API</td>
+<td>Search interest over time, regional breakdown, related queries</td>
+</tr>
+</tbody></table>
+<p><strong>Key metrics extracted:</strong></p>
+<ul>
+<li>Relative search volume (0-100 index)</li>
+<li>Geographic distribution (state-level)</li>
+<li>Temporal patterns (when do people search)</li>
+<li>Related queries (what else are they curious about)</li>
+<li>Rising vs. top queries (emerging vs. established interests)</li>
+</ul>
+<h3>2.6 Transparency &amp; Reasoning</h3>
+<p>All agent reasoning is logged and made transparent:</p>
+<pre><code>┌─────────────────────────────────────────────────────────────┐
+│ [2026-02-04 14:32:17] PolAgent-A                            │
+│ SIGNAL: Polymarket &quot;Trump approval Q2 2026&quot; moved +3.2%     │
+│ CONTEXT: Searched news → Found: deportation numbers released│
+│ REASONING: Market responding to ICE report showing 450k     │
+│            deportations in Jan, exceeding expectations.     │
+│ CONFIDENCE: 0.78                                            │
+│ ACTION: Flag for daily digest, request EconAgent-A review   │
+│         on economic implications of labor supply change.    │
+└─────────────────────────────────────────────────────────────┘
+</code></pre>
+<hr>
+<h2>Part 3: Signal Detection Framework</h2>
+<h3>3.1 Attitude Shift Indicators</h3>
+<p>Based on our earlier analysis, the system monitors:</p>
+<h4>Price-Based Signals</h4>
+<table>
+<thead>
+<tr>
+<th>Signal</th>
+<th>Detection</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Conviction Flip</td>
+<td>Price crosses 50% with high volume</td>
+<td>Majority belief reversed</td>
+</tr>
+<tr>
+<td>Momentum Shift</td>
+<td>3+ days same direction, acceleration increasing</td>
+<td>Trend forming</td>
+</tr>
+<tr>
+<td>Velocity Spike</td>
+<td>&gt;2σ daily price change</td>
+<td>Rapid belief updating</td>
+</tr>
+</tbody></table>
+<h4>Volume-Based Signals</h4>
+<table>
+<thead>
+<tr>
+<th>Signal</th>
+<th>Detection</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Volume Surge</td>
+<td>Volume/liquidity ratio &gt;3σ</td>
+<td>Unusual activity</td>
+</tr>
+<tr>
+<td>Volume Without Movement</td>
+<td>High volume, stable price</td>
+<td>Disagreement, uncertainty</td>
+</tr>
+<tr>
+<td>Smart Money</td>
+<td>Volume spike precedes price move</td>
+<td>Informed traders active</td>
+</tr>
+</tbody></table>
+<h4>Market Health Signals</h4>
+<table>
+<thead>
+<tr>
+<th>Signal</th>
+<th>Detection</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Spread Blowout</td>
+<td>Spread doubles in &lt;24h</td>
+<td>Extreme uncertainty</td>
+</tr>
+<tr>
+<td>Liquidity Drain</td>
+<td>Liquidity drops &gt;20%</td>
+<td>Market makers retreating</td>
+</tr>
+<tr>
+<td>Coherence Break</td>
+<td>Correlated markets diverge &gt;10%</td>
+<td>Belief fragmentation</td>
+</tr>
+</tbody></table>
+<h3>3.2 Cross-Source Validation</h3>
+<p>Agents cross-reference signals across sources:</p>
+<pre><code>If Polymarket shows rising probability for X
+AND Google Trends shows rising searches for X
+AND Kalshi confirms with similar movement
+→ High-confidence signal
+
+If sources diverge:
+→ Flag for debate between agents
+→ Investigate cause of divergence
+</code></pre>
+<h3>3.3 Composite Metrics</h3>
+<p><strong>Attitude Shift Score (ASS):</strong></p>
+<pre><code>ASS = (
+    0.30 × normalized_price_velocity +
+    0.25 × volume_surge_ratio +
+    0.20 × cross_market_divergence +
+    0.15 × spread_change +
+    0.10 × search_trend_correlation
+)
+</code></pre>
+<p><strong>Cascade Probability:</strong></p>
+<ul>
+<li>Track how often movement in market A predicts movement in related markets B, C, D</li>
+<li>High cascade = fluid attitudes, domino effects</li>
+<li>Low cascade = isolated event</li>
+</ul>
+<hr>
+<h2>Part 4: Research Focus</h2>
+<h3>4.1 Primary Research Questions</h3>
+<ol>
+<li><p><strong>Can prediction market data serve as a valid continuous poll of public opinion?</strong></p>
+<ul>
+<li>How do market movements correlate with subsequent poll shifts?</li>
+<li>What is the lead time (if any) of markets over polls?</li>
+</ul>
+</li>
+<li><p><strong>What patterns in market data indicate genuine attitude change vs. noise?</strong></p>
+<ul>
+<li>Volume, velocity, cross-market coherence as quality signals</li>
+<li>Distinguishing information shocks from market manipulation</li>
+</ul>
+</li>
+<li><p><strong>How can multi-agent debate improve interpretation accuracy?</strong></p>
+<ul>
+<li>Does adversarial review catch errors?</li>
+<li>Do heterogeneous perspectives reduce blind spots?</li>
+</ul>
+</li>
+<li><p><strong>Can this methodology predict 2026 midterm outcomes?</strong></p>
+<ul>
+<li>Benchmark against traditional polling aggregators</li>
+<li>Post-hoc accuracy assessment</li>
+</ul>
+</li>
+</ol>
+<h3>4.2 Target Outcomes (2026 Midterms)</h3>
+<table>
+<thead>
+<tr>
+<th>Outcome</th>
+<th>Data Sources</th>
+<th>Agents</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Senate control</td>
+<td>Polymarket, Kalshi</td>
+<td>PolAgent-A/B</td>
+</tr>
+<tr>
+<td>House control</td>
+<td>Polymarket, Kalshi</td>
+<td>PolAgent-A/B</td>
+</tr>
+<tr>
+<td>Trump approval trajectory</td>
+<td>Polymarket, Google Trends</td>
+<td>All</td>
+</tr>
+<tr>
+<td>Key policy sentiment (immigration, economy)</td>
+<td>All sources</td>
+<td>All</td>
+</tr>
+<tr>
+<td>Swing state dynamics</td>
+<td>Regional Google Trends</td>
+<td>PolAgent-A/B</td>
+</tr>
+</tbody></table>
+<h3>4.3 Academic Publication Strategy</h3>
+<p><strong>Target venues:</strong></p>
+<ul>
+<li><em>Political Analysis</em> (Cambridge)</li>
+<li><em>Public Opinion Quarterly</em></li>
+<li><em>Journal of Politics</em></li>
+<li><em>American Political Science Review</em> (ambitious)</li>
+<li><em>PNAS</em> (if findings are significant)</li>
+<li>Conference: APSA, MPSA, PolMeth</li>
+</ul>
+<p><strong>Paper structure:</strong></p>
+<ol>
+<li>Literature review: prediction markets, collective intelligence, AI agents in research</li>
+<li>Methodology: agent architecture, data sources, signal detection</li>
+<li>Validation: comparison with traditional polls, accuracy metrics</li>
+<li>Results: 2026 midterm tracking and predictions</li>
+<li>Discussion: implications for polling methodology</li>
+</ol>
+<hr>
+<h2>Part 5: Technical Implementation</h2>
+<h3>5.1 MVP Architecture</h3>
+<pre><code>┌─────────────────────────────────────────────────────────────────┐
+│                        FRONTEND                                  │
+│              (Kalshi-inspired dashboard)                         │
+│  ┌─────────┐ ┌─────────┐ ┌─────────┐ ┌─────────┐                │
+│  │ Markets │ │ Agents  │ │ Debates │ │ Reports │                │
+│  │  View   │ │  Feed   │ │   Log   │ │  (PDF)  │                │
+│  └─────────┘ └─────────┘ └─────────┘ └─────────┘                │
+└─────────────────────────────────────────────────────────────────┘
+                              │
+                              ▼
+┌─────────────────────────────────────────────────────────────────┐
+│                         BACKEND                                  │
+│  ┌──────────────────────────────────────────────────────────┐   │
+│  │                    AGENT ORCHESTRATOR                     │   │
+│  │  ┌────────────┐  ┌────────────┐                          │   │
+│  │  │ PolAgent-A │◄─┤ PolAgent-B │  (Debate/Review)         │   │
+│  │  └────────────┘  └────────────┘                          │   │
+│  │         │                │                                │   │
+│  │         └───────┬────────┘                                │   │
+│  │                 │                                         │   │
+│  │  ┌────────────┐ │ ┌────────────┐                          │   │
+│  │  │EconAgent-A │◄┴─┤EconAgent-B │  (Debate/Review)         │   │
+│  │  └────────────┘   └────────────┘                          │   │
+│  └──────────────────────────────────────────────────────────┘   │
+│                              │                                   │
+│  ┌───────────────────────────┴───────────────────────────────┐  │
+│  │                     DATA LAYER                             │  │
+│  │  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐   │  │
+│  │  │Polymarket│  │  Kalshi  │  │  Google  │  │   News   │   │  │
+│  │  │   API    │  │   API    │  │  Trends  │  │   APIs   │   │  │
+│  │  └──────────┘  └──────────┘  └──────────┘  └──────────┘   │  │
+│  └───────────────────────────────────────────────────────────┘  │
+│                              │                                   │
+│  ┌───────────────────────────┴───────────────────────────────┐  │
+│  │                   STORAGE (SQLite/Postgres)                │  │
+│  │  • Market snapshots (5-min intervals)                      │  │
+│  │  • Agent reasoning logs                                    │  │
+│  │  • Debate transcripts                                      │  │
+│  │  • Generated reports                                       │  │
+│  └───────────────────────────────────────────────────────────┘  │
+└─────────────────────────────────────────────────────────────────┘
+</code></pre>
+<h3>5.2 Technology Stack (Proposed)</h3>
+<table>
+<thead>
+<tr>
+<th>Component</th>
+<th>Technology</th>
+<th>Rationale</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Agent Framework</td>
+<td>LangGraph / CrewAI</td>
+<td>Multi-agent orchestration</td>
+</tr>
+<tr>
+<td>LLM Backend</td>
+<td>Claude API / GPT-4</td>
+<td>Reasoning, debate, analysis</td>
+</tr>
+<tr>
+<td>Database</td>
+<td>PostgreSQL + TimescaleDB</td>
+<td>Time-series market data</td>
+</tr>
+<tr>
+<td>Frontend</td>
+<td>Next.js + Tailwind</td>
+<td>Kalshi-inspired UI</td>
+</tr>
+<tr>
+<td>API Layer</td>
+<td>FastAPI</td>
+<td>Python ecosystem, async</td>
+</tr>
+<tr>
+<td>Scheduling</td>
+<td>APScheduler / Celery</td>
+<td>Data collection, agent runs</td>
+</tr>
+</tbody></table>
+<h3>5.3 MVP Timeline</h3>
+<table>
+<thead>
+<tr>
+<th>Phase</th>
+<th>Duration</th>
+<th>Deliverables</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Phase 1: Data Pipeline</strong></td>
+<td>2 weeks</td>
+<td>Polymarket + Kalshi + Trends collection</td>
+</tr>
+<tr>
+<td><strong>Phase 2: Single Agent</strong></td>
+<td>2 weeks</td>
+<td>One working analyst agent</td>
+</tr>
+<tr>
+<td><strong>Phase 3: Multi-Agent</strong></td>
+<td>3 weeks</td>
+<td>Four agents with debate capability</td>
+</tr>
+<tr>
+<td><strong>Phase 4: Frontend</strong></td>
+<td>2 weeks</td>
+<td>Basic dashboard</td>
+</tr>
+<tr>
+<td><strong>Phase 5: Validation</strong></td>
+<td>Ongoing</td>
+<td>Compare to polls, refine</td>
+</tr>
+</tbody></table>
+<hr>
+<h2>Part 6: Appendix</h2>
+<h3>6.1 Polymarket API Reference</h3>
+<p><strong>Base URL:</strong> <code>https://gamma-api.polymarket.com</code></p>
+<p><strong>Key Endpoints:</strong></p>
+<ul>
+<li><code>GET /markets</code> — List markets with filters</li>
+<li><code>GET /markets?slug={slug}</code> — Specific market by slug</li>
+<li><code>GET /events</code> — Event groupings</li>
+</ul>
+<p><strong>Key Fields:</strong></p>
+<pre><code class="language-json">{
+  &quot;question&quot;: &quot;Market question&quot;,
+  &quot;outcomePrices&quot;: &quot;[\&quot;0.65\&quot;, \&quot;0.35\&quot;]&quot;,
+  &quot;volume&quot;: &quot;1234567.89&quot;,
+  &quot;volume24hr&quot;: &quot;12345.67&quot;,
+  &quot;liquidity&quot;: &quot;50000.00&quot;,
+  &quot;bestBid&quot;: 0.64,
+  &quot;bestAsk&quot;: 0.66,
+  &quot;oneDayPriceChange&quot;: 0.02,
+  &quot;oneWeekPriceChange&quot;: -0.05
+}
+</code></pre>
+<h3>6.2 Sample Market Data (Feb 4, 2026)</h3>
+<table>
+<thead>
+<tr>
+<th>Market</th>
+<th>Yes Price</th>
+<th>24h Volume</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Trump nominates Warsh as Fed Chair</td>
+<td>97%</td>
+<td>$1.67M</td>
+<td>Near-certain</td>
+</tr>
+<tr>
+<td>Fed rate cut March 2026</td>
+<td>2%</td>
+<td>$2.0M</td>
+<td>Unlikely</td>
+</tr>
+<tr>
+<td>Trump deportations &gt;1M in 2025</td>
+<td>68%</td>
+<td>$110K</td>
+<td>Lean yes</td>
+</tr>
+</tbody></table>
+<h3>6.3 Google Trends Keywords (Initial Set)</h3>
+<p><strong>Political:</strong></p>
+<ul>
+<li>&quot;Trump approval&quot;</li>
+<li>&quot;2026 midterm elections&quot;</li>
+<li>&quot;Republican congress&quot;</li>
+<li>&quot;Democrat senate&quot;</li>
+<li>&quot;immigration policy&quot;</li>
+</ul>
+<p><strong>Economic:</strong></p>
+<ul>
+<li>&quot;inflation 2026&quot;</li>
+<li>&quot;interest rates&quot;</li>
+<li>&quot;federal reserve&quot;</li>
+<li>&quot;tariffs&quot;</li>
+<li>&quot;job market&quot;</li>
+</ul>
+<hr>
+<h2>Document History</h2>
+<table>
+<thead>
+<tr>
+<th>Version</th>
+<th>Date</th>
+<th>Changes</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>0.1</td>
+<td>2026-02-04</td>
+<td>Initial specification</td>
+</tr>
+</tbody></table>
+<hr>
+<p><em>VibePolitics — Polling the vibe, not just the vote.</em></p>
+

@@ -1,4 +1,4 @@
-# Information Over Emotion? Frame Effects on Viral Engagement in the #MahsaAmini Movement
+# Messenger Over Message? Confounding in Social Media Virality Research
 
 **Authors:** [To be determined]
 
@@ -11,9 +11,9 @@
 
 ## Abstract
 
-What makes protest content go viral? While prior research emphasizes emotional and moral content as drivers of online diffusion, we find that informational framing outperforms emotionally charged frames in predicting viral engagement during the 2022 #MahsaAmini movement. Analyzing 380 Twitter posts from the first two weeks of protests following Mahsa Amini's death, we employ multi-model content analysis to code seven theoretically derived frames. Contrary to expectations from moral contagion theory, INFORMATIONAL framing—neutral updates and factual reporting—showed the strongest association with engagement (IRR = 2.72, p < .001), followed by high emotional arousal (IRR = 1.58, p = .038). SOLIDARITY framing, despite being most prevalent (32%), showed baseline engagement levels. These findings suggest that in information-scarce crisis environments, audiences may prioritize factual orientation over emotional mobilization, with implications for understanding protest dynamics and platform-mediated collective action.
+What makes protest content go viral? While prior research emphasizes emotional and moral content as drivers of online diffusion, we examine frame effects on engagement during the 2022 #MahsaAmini movement using multi-model content analysis of 380 Twitter posts. Initial analysis suggested INFORMATIONAL framing outperformed emotional frames (IRR = 2.72, p < .001). However, this finding did not survive controls for user and content characteristics. When we controlled for follower count, mention presence, and text length, **no frame significantly predicted engagement**. Instead, follower count (IRR = 1.22, p < .001) and absence of @ mentions (IRR = 0.30, p < .001) emerged as the primary predictors. These findings suggest that apparent content effects on virality may be substantially confounded by account characteristics—a methodological caution for research on moral contagion and message effects in social media contexts.
 
-**Keywords:** framing, virality, social movements, #MahsaAmini, Twitter, content analysis, emotional contagion
+**Keywords:** framing, virality, social movements, #MahsaAmini, Twitter, content analysis, confounding
 
 **Word count:** ~6,500
 
@@ -142,15 +142,28 @@ Frame-specific reliability varied: SOLIDARITY (66% three-way agreement), HOPE (6
 
 ### 2.6 Analytical Strategy
 
-We employed negative binomial regression given overdispersion in the engagement distribution (variance/mean = 2.79). The model specification:
+We employed negative binomial regression given overdispersion in the engagement distribution (variance/mean = 2.79). We estimated two models to examine the role of confounding:
 
+**Model 1 (Frame + Arousal only)**:
 ```
 Engagement ~ Frame + Arousal + ε
 ```
 
-With SOLIDARITY (most prevalent frame) and low arousal as reference categories. We report incidence rate ratios (IRR) for interpretability: an IRR of 2.0 indicates that posts with a given frame receive twice the engagement of the reference category, holding other variables constant.
+**Model 2 (With user and content controls)**:
+```
+Engagement ~ Frame + Arousal + log_followers + has_mention + has_url + verified + text_length + ε
+```
 
-Supplementary OLS regression with HC3 robust standard errors yielded consistent substantive conclusions.
+Control variables were operationalized as follows:
+- **log_followers**: Natural log of follower count plus one (log1p transformation)
+- **has_mention**: Binary indicator for presence of @ mentions
+- **has_url**: Binary indicator for presence of URLs
+- **verified**: Binary indicator for verified account status
+- **text_length**: Character count divided by 100 (scaled)
+
+Note: has_hashtag was not included as all posts contained the #MahsaAmini hashtag by design.
+
+SOLIDARITY (most prevalent frame) and low arousal served as reference categories. We report incidence rate ratios (IRR) for interpretability: an IRR of 2.0 indicates posts receive twice the engagement of the reference category, holding other variables constant.
 
 ---
 
@@ -172,35 +185,47 @@ SOLIDARITY was the modal frame, comprising nearly one-third of coded posts (32.1
 
 ### 3.2 Regression Results
 
-Table 1 presents negative binomial regression results predicting composite engagement.
+Table 1 presents negative binomial regression results from two models: Model 1 (frame and arousal only) and Model 2 (with user and content controls).
 
 **Table 1. Negative Binomial Regression Predicting Viral Engagement**
 
-| Predictor | IRR | 95% CI | z | p |
-|-----------|-----|--------|---|---|
-| (Intercept) | 1.24 | [0.89, 1.72] | 1.31 | .189 |
-| HOPE | 1.51 | [0.87, 2.62] | 1.48 | .140 |
-| CONFLICT | 1.89 | [0.84, 4.25] | 1.54 | .124 |
-| HUMANITARIAN | 0.92 | [0.53, 1.59] | -0.29 | .773 |
-| INJUSTICE | 1.38 | [0.79, 2.41] | 1.13 | .259 |
-| **INFORMATIONAL** | **2.72** | **[1.52, 4.87]** | **3.42** | **<.001** |
-| CALL_TO_ACTION | 0.89 | [0.53, 1.48] | -0.44 | .659 |
-| Arousal: Medium | 1.35 | [0.94, 1.94] | 1.64 | .101 |
-| **Arousal: High** | **1.58** | **[1.03, 2.43]** | **2.08** | **.038** |
+| Predictor | Model 1 IRR | Model 1 p | Model 2 IRR | Model 2 p |
+|-----------|-------------|-----------|-------------|-----------|
+| **Frame (ref: SOLIDARITY)** | | | | |
+| CALL_TO_ACTION | 0.89 | .659 | 0.89 | .599 |
+| CONFLICT | 1.89 | .124 | 1.59 | .165 |
+| HOPE | 1.51 | .140 | 1.05 | .825 |
+| HUMANITARIAN | 0.92 | .773 | 0.67 | .103 |
+| INFORMATIONAL | **2.72** | **<.001** | 0.98 | .942 |
+| INJUSTICE | 1.38 | .259 | 0.79 | .331 |
+| **Arousal (ref: low)** | | | | |
+| Medium | 1.35 | .101 | 1.19 | .509 |
+| High | **1.58** | **.038** | 1.01 | .976 |
+| **Controls** | | | | |
+| log_followers | — | — | **1.22** | **<.001** |
+| has_mention | — | — | **0.30** | **<.001** |
+| has_url | — | — | 1.11 | .498 |
+| verified | — | — | 1.14 | .804 |
+| text_length | — | — | **1.40** | **.002** |
+| | | | | |
+| N | 380 | | 380 | |
+| AIC | 1379.2 | | 1342.0 | |
 
-*Note.* Reference categories: SOLIDARITY, low arousal. IRR = incidence rate ratio. N = 380.
+*Note.* IRR = incidence rate ratio. Bold indicates p < .05.
 
 **Key findings:**
 
-1. **INFORMATIONAL framing showed the strongest effect** (IRR = 2.72, p < .001). Posts with informational framing received 2.72 times the engagement of SOLIDARITY posts, controlling for arousal. This contradicts H1 (emotional contagion hypothesis).
+1. **The INFORMATIONAL effect disappears with controls.** In Model 1, INFORMATIONAL framing showed the strongest effect (IRR = 2.72, p < .001). However, in Model 2 with user and content controls, this effect vanishes entirely (IRR = 0.98, p = .942). This suggests the apparent frame effect was confounded by account characteristics.
 
-2. **High arousal predicted higher engagement** (IRR = 1.58, p = .038), supporting H2. Emotionally intense content spread more readily regardless of frame.
+2. **Follower count is the strongest predictor** (IRR = 1.22, p < .001). Each unit increase in log-transformed followers corresponds to 22% higher engagement. This likely explains the INFORMATIONAL finding: informational posts disproportionately came from high-follower accounts (journalists, news organizations).
 
-3. **SOLIDARITY showed baseline engagement**, supporting H3. Despite being the most prevalent frame, solidarity content did not exhibit elevated virality.
+3. **Mentions substantially reduce engagement** (IRR = 0.30, p < .001). Posts with @ mentions received only 30% of the engagement of posts without mentions, possibly due to platform algorithms deprioritizing reply-like content.
 
-4. **CONFLICT showed a large but non-significant effect** (IRR = 1.89, p = .124). However, this estimate is unreliable due to small cell size (n = 18) and poor inter-model agreement (33% three-way). We report this for completeness but advise against substantive interpretation; the CONFLICT frame should be considered unmeasured in this study.
+4. **Text length predicts engagement** (IRR = 1.40, p = .002). Longer posts received higher engagement, perhaps signaling substantive content worth engaging with.
 
-5. **Emotionally charged frames (INJUSTICE, HUMANITARIAN) did not outperform neutral content**, contrary to H1. HUMANITARIAN framing showed engagement indistinguishable from SOLIDARITY (IRR = 0.92, ns).
+5. **No frame effects survive controls.** Contrary to both H1 (emotional contagion) and our initial finding favoring INFORMATIONAL frames, no frame significantly predicted engagement once account-level and content-level confounds were controlled.
+
+6. **Arousal effects also disappear.** The Model 1 finding that high arousal predicted engagement (IRR = 1.58, p = .038) does not replicate in Model 2 (IRR = 1.01, p = .976).
 
 ### 3.3 Effect Sizes
 
@@ -221,37 +246,46 @@ CONFLICT showed the largest effect size but unreliable estimation; INFORMATIONAL
 
 ## 4. Discussion
 
-### 4.1 Information Over Emotion?
+### 4.1 The Confounding Problem: Account Size Trumps Content
 
-Our central finding challenges prevailing assumptions from moral contagion research: in the #MahsaAmini movement, informational framing—not emotional appeals—most strongly predicted viral engagement. Posts providing factual updates, contextual information, and neutral reporting received nearly three times the engagement of solidarity-focused content, controlling for emotional arousal.
+Our most important finding is methodological: the apparent effect of INFORMATIONAL framing on engagement (Model 1: IRR = 2.72, p < .001) completely disappears when controlling for follower count and content features (Model 2: IRR = 0.98, ns). This suggests that **account characteristics, not message frames, drive viral engagement in this context.**
 
-This finding does not contradict emotional contagion theory but rather specifies its boundary conditions. Brady et al.'s (2017) moral contagion effects were observed in routine political communication where information is abundant and attention is scarce. The #MahsaAmini context inverted this dynamic: information was scarce (due to censorship and disinformation) while attention was abundant (due to dramatic events and emotional investment). In such contexts, informational content may acquire heightened sharing value precisely because it serves orientation functions that emotional content cannot.
+The likely explanation is straightforward: informational content disproportionately came from journalists, news organizations, and high-profile commentators—accounts with large follower bases. These accounts receive high engagement regardless of what they post. Attributing their engagement to "informational framing" commits a classic ecological fallacy.
 
-We propose an **information-scarcity hypothesis**: in crisis contexts marked by censorship, disinformation, and rapid evolution, informational framing will outperform emotional framing because audiences prioritize orientation over expression. Users share informational content not to signal their emotions but to help their networks understand what is happening—a fundamentally different social function.
+This finding carries a cautionary lesson for content analysis research on social media virality. Studies examining "what content goes viral" routinely analyze message features without controlling for who posted the message. Our results suggest this approach may systematically confound content effects with account effects. **Follower count is not a nuisance variable to control away—it may be the primary driver of engagement.**
 
-This interpretation aligns with research on information seeking during crises (Spence et al., 2007) and instrumental motivations for social media sharing (Lee & Ma, 2012). It also resonates with Tufekci's (2017) observation that networked movements face "attention" and "capacity" challenges—the abundance of emotional content may create demand for factual grounding.
+### 4.2 What Actually Predicts Engagement
 
-### 4.2 Arousal Still Matters
+With controls included, three factors significantly predicted engagement:
 
-While frames showed unexpected patterns, emotional arousal operated as theory predicts: high-arousal content spread more readily than low-arousal content (IRR = 1.58). This suggests a nuanced picture in which *what* is said (frame) and *how* it is said (arousal) exert independent effects.
+**1. Follower count (IRR = 1.22, p < .001)**: Each unit increase in log-followers corresponded to 22% higher engagement. This is unsurprising but underscores that visibility begets visibility—a Matthew effect where accounts with large audiences accumulate further attention regardless of content.
 
-Importantly, informational framing is not synonymous with low arousal. A post can provide factual information while conveying urgency and intensity—indeed, this combination may be particularly effective. The highest-engagement posts in our sample often combined informational content with high arousal: urgent updates about spreading protests, verified reports of violence, breaking news about international responses.
+**2. Absence of mentions (IRR = 0.30, p < .001)**: Posts with @ mentions received only 30% of the engagement of posts without mentions. This may reflect platform algorithms deprioritizing reply-like content, or it may indicate that mention-heavy posts are conversational rather than broadcast-oriented. Either way, this is a strong content-level predictor that prior studies should have controlled.
 
-### 4.3 The Solidarity Paradox
+**3. Text length (IRR = 1.40, p = .002)**: Longer posts received higher engagement. This may reflect substantive content, effort signaling, or simply more keywords for platform algorithms to index.
 
-SOLIDARITY framing was most prevalent (32%) yet showed only baseline engagement. This "solidarity paradox" has several possible explanations:
+### 4.3 Implications for Moral Contagion Theory
 
-1. **Saturation effects**: In a protest context saturated with solidarity expression, individual solidarity posts may not stand out. The marginal value of another "We stand with Iranian women" post declines as such content becomes ubiquitous.
+Brady et al.'s (2017) moral contagion findings suggested that emotional and moral content spreads more readily on social media. Our Model 1 results appeared to contradict this—informational content outperformed emotional content. Our Model 2 results suggest a different interpretation: **we cannot detect frame effects at all once account characteristics are controlled.**
 
-2. **Preaching to the choir**: Solidarity content may circulate within sympathetic networks but fail to bridge to new audiences. Informational content, by contrast, may appeal to information-seekers regardless of prior political orientation.
+This does not necessarily refute moral contagion theory. It may be that:
+- Frame effects exist but are small relative to account effects
+- Frame effects operate through account selection (emotional accounts attract followers who share emotional content)
+- Our frame typology does not capture the moral-emotional features Brady et al. identified
 
-3. **Instrumentality**: Users may share solidarity content to express identity but share informational content to *do* something—help others understand events. The latter motivation may drive more active sharing behavior.
+What we can conclude is that **frame effects, if they exist, are substantially confounded by who posts what.** Future research on moral contagion should control for account characteristics or use within-account designs.
 
-### 4.4 Implications for Social Movement Communication
+### 4.4 The Solidarity Paradox Reconsidered
 
-These findings have practical implications for movement communicators. The emotional contagion literature might suggest that maximizing outrage, suffering, or solidarity would maximize spread. Our results suggest a more nuanced strategy: informational content that helps audiences understand rapidly evolving events may spread furthest, particularly when combined with high emotional arousal.
+Our initial "solidarity paradox"—why did the most prevalent frame show only baseline engagement?—may have a simpler explanation. SOLIDARITY content came disproportionately from ordinary users with small followings, while INFORMATIONAL content came from high-follower journalists and news accounts. The apparent frame difference was actually an account difference.
 
-This does not mean movements should abandon emotional appeals—arousal remains a significant predictor. Rather, it suggests that emotional framing works best when grounded in factual reporting. The movement's iconic slogan "Woman, Life, Freedom" succeeded not by maximizing outrage but by articulating values with emotional resonance *and* clear meaning.
+### 4.5 Implications for Movement Communication
+
+Our revised findings complicate advice for movement communicators. The original implication—"lead with facts, not feelings"—was based on confounded estimates. The controlled estimates suggest that **message framing may matter less than messenger reach.**
+
+This has sobering implications. If engagement is driven primarily by follower count, then movement success depends heavily on whether high-reach accounts amplify movement messages. Framing strategy may matter less than coalition strategy—recruiting journalists, celebrities, and established accounts to the cause.
+
+That said, our null findings for frame effects should not be over-interpreted. We may lack statistical power to detect real but modest frame effects. Content may still matter for *which* high-follower accounts choose to engage with a movement, even if it doesn't independently drive engagement.
 
 ### 4.5 Limitations
 
@@ -287,9 +321,13 @@ These findings open several productive research directions:
 
 ## 5. Conclusion
 
-In the #MahsaAmini movement, informational framing predicted viral engagement more strongly than emotionally charged frames, challenging assumptions from moral contagion research. We propose that crisis contexts marked by information scarcity invert typical virality dynamics, elevating the sharing value of factual content. Emotional arousal remains important, but as a feature of *how* content is presented rather than *what* it says.
+Our central contribution is methodological: apparent frame effects on social media engagement may be substantially confounded by account characteristics. In the #MahsaAmini movement, an initial analysis suggested INFORMATIONAL framing strongly predicted engagement (IRR = 2.72). This finding disappeared entirely when we controlled for follower count, mention presence, and text length. The "informational advantage" was actually a "journalist advantage"—high-follower accounts posting informational content.
 
-These findings contribute to framing theory by specifying boundary conditions for emotional contagion effects, and to social movement research by identifying conditions under which informational rather than emotional frames may mobilize attention. For movement practitioners, the implication is clear: in information-scarce environments, being a reliable source may matter more than being an emotional one.
+This finding carries implications for research on moral contagion and message effects in digital contexts. Studies examining "what content goes viral" without controlling for who posted the content may systematically misattribute account effects to content effects. Our results suggest that follower count alone explains substantial variance in engagement, potentially dwarfing frame effects.
+
+For movement practitioners, the implications are sobering. If engagement is driven primarily by account reach rather than message framing, then strategic communication matters less than coalition building—recruiting high-reach accounts to amplify movement messages may be more effective than optimizing message frames.
+
+We emphasize that null findings for frame effects should be interpreted cautiously. Our controlled models may lack power to detect real but modest effects. Frame choices may still matter for attracting high-reach amplifiers, even if they don't independently drive engagement. What we can conclude with confidence is that **any study of social media virality that does not control for account characteristics risks substantial confounding**.
 
 ---
 

@@ -1,0 +1,266 @@
+You are analyzing news coverage of the Christian-Fulani conflict in Nigeria.
+
+## Dataset
+304 news article titles from various sources (GDELT + MediaCloud, Nov 2025 - Feb 2026).
+
+## Research Questions
+1. **Problem Definition**: How is the conflict framed? (religious persecution, ethnic conflict, resource competition, state failure, criminal violence)
+2. **Causal Attribution**: Who/what is blamed? (Fulani actors, Islamic ideology, climate/environment, government failure)
+3. **Actor Portrayal**: How are Christians vs Fulani portrayed? (victims, aggressors, communities)
+4. **Solution Framing**: What remedies are implied? (military, legislative, dialogue, international, none)
+5. **Source Patterns**: Do framing patterns differ by source type?
+
+## Hypotheses to Test
+- H1: Religious framing dominates over economic/structural framing
+- H2: Fulani receive more blame than structural factors
+- H3: Christians portrayed as victims more than Fulani
+- H4: Conservative/religious sources show stronger religious framing
+- H5: Nigerian sources show more diverse framing
+
+## Article Titles by Source
+
+### breitbart.com (30 articles)
+- Republicans Debut 'Nigeria Religious Freedom' Act
+- Potentially 200+ Killed in Suspected ISIS-Linked Attacks in Nigeria
+- U.S. Confirms Deployment of ‘Small Team’ to Nigeria
+- Bloody Weekend in Nigeria as Boko Haram Stages Deadliest Attack Since Christmas
+- Exclusive – Aid Group: Nigeria Has Ranked at Maximum Violence Against Christians for 8 Years Straight
+- Nigerians Flee for Their Lives After Gang Leader Threatens Mass Murder
+- Nigerian Ethnic Leader Asks Trump for More U.S. Troop Action After Airstrikes Against Jihadists
+- WaPo: Trump's 'Righteous' Strike on ISIS in Nigeria a 'Welcome Change'
+- Trump Hits ISIS in Nigeria on Christmas, Citing Mass Christian Killings
+- Nigerians: Jihadists Seek Christian 'Obliteration,' Government 'Window-Dressing' Situation
+- ... and 20 more
+
+### foxnews.com (21 articles)
+- After Trump strikes Islamist terrorists, US general travels to Nigeria with militants 'on the run'
+- Another Christian community at risk in Africa as extremists and war take their toll
+- 62 Nigerian hostages rescued, 2 militants killed, army says
+- Gunmen abduct dozens of worshippers from multiple Nigerian churches using sophisticated weapons
+- Watchdog highlights nations where Christians face persecution around the globe
+- Nigeria named epicenter of global killings of Christians over faith in 2025, report says
+- Pope Leo XIV calls out jihadist violence, warns ‘Orwellian-style’ ideology is eroding free speech in the West
+- Americans can’t close our eyes to the murder of Christians in Nigeria
+- Christian author confesses years-long extramarital affair, declaring he 'disqualified' himself from ministry
+- Left-wing groups mobilize protests after fatal ICE shooting in Minneapolis and more top headlines
+- ... and 11 more
+
+### newsweek.com (13 articles)
+- Are US boots on ground in Nigeria? What we know
+- Nearly 200 Christians kidnapped from church
+- Map shows countries where Christian persecution growing
+- Nigeria's Christian persecution score rises
+- ISIS tells Christians they can "spare their blood" if they convert
+- Nigeria reacts to US ISIS attack as new video shows airstrike
+- A Major Shift in Trump Policy—Protecting Nigeria’s Christians
+- Nicki Minaj working with Trump admin on plight of Christians in Nigeria
+- Advancing in Ukraine, Russia troops are losing ground to Al-Qaeda in Africa
+- Trump's military threats spark "fear and hope" for Nigeria's Christians
+- ... and 3 more
+
+### saharareporters.com (12 articles)
+-   I Have 13 Siblings , All Currently In IDPs Camp  – Nigerian Lawyer Tells US Congress Tinubu Govt Is Downplaying Genocide
+- U . S . Congressman Says Fulani Militants Carrying Out  Genocidal Campaign  Against Christians After Nigeria Visit , To Report To Trump
+- President Tinubu : Lying Isnt Leading , By Bayo Oluwasanmi
+- Did The New York Times Screw The Onitsha Screwdriver Salesman ? By Rudolf Ogoo Okonkwo
+- Bandits Demand N28 . 9Million For  Lost  Motorcycles Before Ransom Talks For 166 Abducted Christian Worshippers In Kaduna
+- Jihadist Bandits Account For More Than 70 % Violent Attacks On Nigerian Communities , Worship Places In 2025 – Report
+- Ohanaeze Youth President Calls Christian Killings In Nigeria Coordinated Jihad , Urges Nationwide Referendum
+- Tinubu and The Big Toes Behind Insecurity In Nigeria , By SKC Ogbonnia
+- Kidnapping Schoolchildren Is A  Lesser Evil  Than Killing Soldiers , Says Sheikh Gumi
+-   Nigerian Military Cant Win War Against Bandits , Says Sheikh Gumi
+- ... and 2 more
+
+### punchng.com (12 articles)
+- US officials to brief Trump on Nigeria killings fact - finding
+- 166 Worshippers Kidnapped in Kaduna ; Bandits Demand N29m
+- Gumi : Kidnapping Schoolchildren a  Lesser Evil  Than Killing
+- Why Nigeria Must Immediately Transition to Modern Ranching
+- US Airstrikes in Nigeria : Implications for Sovereignty
+- Sunday Igboho Return : Monarchs Secure Presidential Pardon
+- Olubadan Hosts Sunday Igboho as He Returns From Exile
+- Nigeria News Today : US Aid , Kano Gov , Alison - Madueke Trial
+- Buhari Legacy : A Spartan Soldier Soul in Politics
+- Police Withdrawal : Why Tinubu Must Not Waver on VIPs
+- ... and 2 more
+
+### dailysignal.com (9 articles)
+- US Troops Begin to Arrive in Nigeria
+- Running Into the 'Fire': How One Man Brings Hope to Persecuted Christians in Nigeria
+- ‘We're Watching’: Members of Congress Travel 5,000 Miles to Send Clear Message to Nigeria’s Leaders
+- Little-Known Issue Contributing to Deadly Muslim Attacks on Christians in Nigeria
+- ‘We Must Act Quickly’: Hill Leaders Push for Immediate Action on Nigeria
+- WARNING: Attacks on Nigerian Christians Expected on Christmas, Source Says
+- Rubio Announces Visa Restrictions on Anyone Carrying Out ‘Violations of Religious Freedom’
+- What Trump Is Doing to End the Slaughter of Christians in Nigeria
+- Trump Put a Spotlight on Persecution of Christians in Nigeria. What Happens Now?
+
+### townhall.com (8 articles)
+- Over 150 Nigerian Christians Kidnapped by Islamic Militants During Sunday Services
+- Congressman Riley Moore Just Saved a Nigerian Christian From a Death Sentence
+- Will We Have a Christmas Day Massacre in Nigeria?
+- Trump's 'Save the Christians' Battle Cry: It Is Heroic, but Dodges Nigeria's Deeper Divisions
+- Persecution: The Situation for Christians in Nigeria
+- Tanzanian Agricultural Student Joshua Mollel’s Body Still Held Hostage by Hamas in Gaza
+- Trump Seeks Investigation into Killing of Christians in Nigeria
+- Trump Threatens to Send Troops, Slash Aid to Nigeria if Government Won't Stop Christian Killing
+
+### dailycaller.com (7 articles)
+- EXCLUSIVE: GOP Reps Unveil Bill To Tackle Heart Of Christian Persecution In Country
+- US Moves Troops Into Nigeria Amid Escalating Violence Against Christians
+- Is Trump Being Used By The Nigerian Government?
+- Legacy Media Downplays Christian Persecution In Nigeria After Trump Admin Strikes
+- Trump Strikes Anti-Christian Nigerian Terrorists On Christmas
+- REPORT: US Surveils Islamic Terrorists In Country Rife With Christian Persecution
+- Islamic Extremists Prepare To Slaughter Hundreds On Christmas, Local Intel Warns
+
+### allafrica.com (7 articles)
+- Nigeria : Did the US Military Strikes in Nigeria Hit the Right Target ? 
+- Nigeria : Anxiety As U . S . Vows More Airstrikes On Terrorist Camps in Nigeria
+- Nigeria : Fresh X Spat Drags El - Rufai Sons Back Into Vulgar Online Exchanges
+- Nigeria : A Mirage of Extraversion - The Political Cost of Nigeria Lobbying Deal
+- Nigeria : Ignore Old , Fake Claim That Nigeria Abia State Government Stopped Financial Crimes Commission Convoy and Demanded Release of Arrested Youths
+- Nigeria : SAN to Nasarawa Govt - Your Silence On Mass Killing of Tiv Indigenes Dangerous
+- Nigeria : Time , Tragedy , Nigeria - Looking Ahead Into 2026
+
+### pjmedia.com (6 articles)
+- They Burned the Church With the Pastor Inside — and the World Moved On
+- Iran, Nigeria, DRC, and Kenya: Deadly Persecution of Christians Goes On
+- Washington State: Man Asks Another Man His Religion, and Then Things Get Crazy
+- Good News: 50 Kidnapped Nigerian Kids Escape Jihadists
+- Jihadis Kidnap 300+ Catholic Kids in Nigeria
+- Trump Designates Genocidally Anti-Christian Nigeria a Country of Concern
+
+### inquirer.com (6 articles)
+- Nine arraigned for deadly attack in Nigeria that killed over 150
+- The US will restrict visas for Nigerians and their families involved in violence against Christians
+- US to restrict visas of Nigerians responsible for violence against Christians
+- UPDATE 2-Gunmen attack church in Nigeria, killing two and kidnapping others
+- Gunmen attack church in Nigeria, killing two and kidnapping others
+- One of 25 abducted Nigerian girls escapes captivity
+
+### ncregister.com (6 articles)
+- Peace for Nigerian Christians Remains Uncertain After US Intervention
+- Nigeria Accounts for 72% of Christian Killings Worldwide, New Report Finds
+- Armed Attackers Kidnap Children From Catholic Elementary School in Nigeria
+- Pope Leo XIV On Nigeria: ‘Christians and Muslims Have Been Slaughtered’
+- Nigeria’s Christians Are Dying — and Both the US and the Vatican Are Right About Why
+- Trump’s Remarks Ignite Hope for Nigerian Christians — but Reality on Ground Remains Deeply Complex
+
+### spectator.org (6 articles)
+- The New York Times Keeps Getting It Wrong on Nigeria – The American Spectator
+- Protecting Nigeria’s Christians: Trump’s Strike Against ISIS – The American Spectator
+- Expert Raises Grave Fears of a ‘Christmas Massacre’ in Nigeria – The American Spectator
+- Shepherds Without Swords – The American Spectator
+- Defending Nigeria’s Christians from Islamist Genocide – The American Spectator
+- Media Denies Christian Genocide in Response to Trump’s Threat of Military Action in Nigeria – The American Spectator
+
+### christianpost.com (6 articles)
+- Massacre of Christians ongoing in Nigeria as Fulani kill 13
+- Can we blame the Nigerian govt now ? 160 Christians kidnapped
+- Nigerian expert warns of another  Christmas massacre  
+- Top story of 2025 : Persecution in Nigeria
+- Nigerian : 100 kidnapped Catholic school children released
+- Nigerian Christian sentenced to death by hanging granted pardon
+
+### seattletimes.com (5 articles)
+- Nine arraigned for deadly attack in Nigeria that killed over 150
+- The Screwdriver Salesperson Behind Trump’s Airstrikes in Nigeria
+- US to restrict visas of Nigerians responsible for violence against Christians
+- Schoolgirl escapes as search continues for 24 others abducted in Nigeria
+- What to know about Trump’s threat of military action in Nigeria
+
+### nypost.com (5 articles)
+- Nicki Minaj shames the callous ‘human rights’ elite — and stands up for Christians
+- Schoolgirl abducted from dorm with 24 other students escapes after gunmen attacked Nigerian school
+- Rep. Riley Moore pushes resolution condemning slaughter of Nigerian Christians after Trump threatens to go in ‘guns a-blazing’
+- Nicki Minaj causes uproar among lefty fans after she praises Trump for addressing persecution of Christians in Nigeria
+- Gunmen abduct dozens of worshippers from Nigerian churches
+
+### abcnews.go.com (4 articles)
+- Nine arraigned for deadly attack in Nigeria that killed over 150
+- US to restrict visas of Nigerians responsible for violence against Christians
+- One of 25 abducted Nigerian girls escapes captivity
+- US designates Nigeria 'Country of Particular Concern' after Trump threat over alleged attacks on Christians
+
+### christiandaily.com (4 articles)
+- Fulani herdsmen kill 12 Christians in central Nigeria
+- Pastor , daughter and son - in - law slain in Plateau state , Nigeria
+- Beyond the headlines : What the vidence shows about anti - Christian violence in Nigeria
+- World Watch List 2026 : Syria again among 10 worst countries for Christians
+
+### thisdaylive.com (4 articles)
+- Welcoming The American Troops – THISDAYLIVE
+- DENIAL , DERELICTION AND MASS DISTRESS – THISDAYLIVE
+- Time , Tragedy , Nigeria : Looking Ahead into 2026 – THISDAYLIVE
+- Of Orchestrated Insecurity And Intentional Governance – THISDAYLIVE
+
+### dailypost.ng (4 articles)
+- Major terrorists attacks that shook Nigeria in 2025
+-   Every tribe in Plateau has local militias against Fulani people  - Group alleges
+- MACBAN lists series of alleged attacks against herdsmen in Plateau
+- Nnamdi Kanu not only one to call for self defence , court did not evaluate evidence - Lawyer
+
+### dailytrust.com (4 articles)
+- The security threats testing Nigeria Fourth Republic
+- NEC Sets Up Committee To Fast - track Livestock Development
+- Pastoral Challenges And The Misunderstood Conversation
+- A Region In Crisis Demands More Than Promises
+
+### opinionnigeria.com (4 articles)
+- Escalating Tension : The Farmer Herder Clash in Nigeria - By longbakwa Kevin Maiyaki
+- Tinubu and The Big Toes Behind Insecurity In Nigeria - By SKC Ogbonnia
+- Denial , Dereliction And Mass Distress - By Kene Obiezu
+- Couple Killed as Suspected Fulani Herdsmen Storm Church in Niger
+
+### reuters.com (3 articles)
+- In Nigeria, a deadly bandit attack exposes fragile local peace efforts
+- Gunmen attack church in Nigeria, killing two and kidnapping others
+- Nigeria's bonds slip after Trump threat of military action
+
+### realclearpolitics.com (3 articles)
+- Waltz, Brownback Praise Action in Nigeria, Press for Sustained Pressure
+- Catholic Bishops Issue Call to Action in Nigeria
+- Nigeria ;s Christian Killings Test Trump ;s Promise of Action
+
+### theconversation.com (3 articles)
+- Nigeria has a high poverty rate – what this has to do with ethnic conflicts
+- How Nigeria’s grazing law also shapes land divisions and violence
+- Nigeria’s violent conflicts are about more than just religion – despite what Trump says
+
+### theguardian.com (3 articles)
+- US strikes on IS targets in Nigeria may only fan the flames of insurgent violence
+- Trump supporters hail US strikes in Nigeria as ‘amazing Christmas present’
+- ‘Ignoring minorities is our original sin’: the complex roots of Nigeria’s security crisis
+
+### premiumtimesng.com (3 articles)
+- Profiling , systemic inequity and lessons in history , By Auwal Gonga
+- Genocide in Nigeria : An open challenge to Bishop Matthew Kukah , By Ibanga Isine
+- Five killed , many missing as terrorists attack Benue community
+
+### catholicworldreport.com (3 articles)
+- Nigerian government urged to secure release of 167 worshippers abducted from churches
+- Rights group criticizes Bishop Kukah over comments about genocide in Nigeria
+- Nigerian Christians again face threats of deadly attacks during Christmas
+
+### hallmarknews.com (3 articles)
+- US lawmakers return from Nigeria , to brief Trump on  shocking , harrowing  accounts of killings – Business Hallmark
+- Claims , counter claims as row over alleged abduction of 177 Christians in Kaduna deepens
+- Insecurity casts dark shadows on Christmas celebrations
+
+### thecable.ng (3 articles)
+- Did the New York Times screw the Onitsha screwdriver salesman ? 
+- In memory of Imam Abdullahi Abubakar
+- REWIND : In 2020 , Makinde , Gani Adams warned of bandits crossing into Oyo from Mali
+
+
+## Task
+Analyze this dataset and provide:
+
+1. **Frame Prevalence Estimates**: For each frame type, estimate percentage of coverage
+2. **Hypothesis Assessment**: For each H1-H5, assess whether supported/unsupported with evidence
+3. **Source Comparison**: Compare framing across source types (conservative US, mainstream, Nigerian, religious)
+4. **Key Patterns**: Notable patterns, anomalies, or insights
+5. **Limitations**: Caveats about your analysis
+
+Format your response with clear sections and quantitative estimates where possible.

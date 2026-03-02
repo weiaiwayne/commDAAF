@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "instructions": [
+    "SKILL.md",
+    "workflows/critical-checks.md",
+    "workflows/preflight.md",
+    "workflows/tiered-validation.md",
+    "workflows/nudge-system.md"
+  ]
+}

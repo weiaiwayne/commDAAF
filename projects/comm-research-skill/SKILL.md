@@ -54,6 +54,51 @@ Three mandatory questions before any analysis:
 - Platform algorithm effects
 - Bot/coordination contamination
 
+## Engagement Analysis Requirements (MANDATORY)
+
+When studying **what predicts online engagement** (likes, shares, virality), you MUST control for:
+
+### User-Level Controls
+| Variable | Why Required | Typical Effect |
+|----------|--------------|----------------|
+| **log_followers** | High-follower accounts get more engagement by default | IRR ≈ 1.2-1.5 per log unit |
+| **verified** | Verification badge signals credibility | Often significant |
+| **account_age** | Older accounts have established audiences | May interact with followers |
+
+### Content-Level Controls
+| Variable | Why Required | Typical Effect |
+|----------|--------------|----------------|
+| **has_media** | Images/videos get more engagement | IRR ≈ 1.5-3.0 |
+| **has_hashtag** | Hashtags increase discoverability | Context-dependent |
+| **has_mention** | @mentions can reduce or increase reach | Often negative (IRR < 1) |
+| **text_length** | Longer posts may signal effort/value | Often positive |
+| **has_url** | Links may reduce engagement (platform penalty) | Platform-dependent |
+
+### Statistical Requirements
+1. **Distribution check**: Engagement data is almost always right-skewed with excess zeros
+2. **Model choice**: Use Negative Binomial (not OLS) for overdispersed count data
+3. **Transform followers**: Always log-transform (log1p) follower counts
+4. **Report both**: Show model WITH and WITHOUT controls to demonstrate confounding
+
+### Example: The INFORMATIONAL Frame Confound (Feb 2026)
+
+**Without controls**: INFORMATIONAL frame → IRR = 2.72 (p < .001) — "Facts beat feelings!"
+
+**With controls**: INFORMATIONAL frame → IRR = 0.98 (ns) — Frame effect disappears
+
+**What happened**: Informational posts came from high-follower journalists. Follower count (IRR = 1.22***) explained the engagement, not frame.
+
+**Lesson**: Never report content-effect findings without user-level controls. Confounding by account size is the default assumption.
+
+### Minimum Control Checklist
+- [ ] log_followers included
+- [ ] verified status included (if available)
+- [ ] has_media included (if available)
+- [ ] has_mention included
+- [ ] Distribution diagnostics run
+- [ ] Negative Binomial (or appropriate count model) used
+- [ ] Both controlled and uncontrolled models reported
+
 ## AgentAcademy Workflow
 
 Multi-model peer review process:
