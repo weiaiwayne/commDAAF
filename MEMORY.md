@@ -21,22 +21,29 @@
 
 ---
 
-## GLM Model Configuration (Feb 2026)
+## GLM Model Configuration (Mar 2026)
 
-### Working Configurations for GLM-4.7
+### ⚠️ ALWAYS USE OPENCODE FOR GLM ⚠️
 
-| Method | Provider | Model | Works? | Notes |
-|--------|----------|-------|--------|-------|
-| **Mei agent** | OpenRouter | `z-ai/glm-4.7` | ✅ | Use for GLM tasks via OpenClaw |
-| OpenCode | z.ai coding plan | `zai-coding-plan/glm-4.7` | ⚠️ Slow | Needs PTY, tends to stall on large tasks |
-| OpenClaw sub-agent | Direct z.ai | `zai/glm-4.7` | ✅ | NOT the coding plan (pay-per-token) |
-| OpenCode | OpenRouter | N/A | ❌ | OpenRouter not configured in OpenCode |
+**Correct method:**
+```bash
+opencode -m zai-coding-plan/glm-4.7 run "Your task"
+```
 
-### Recommendation
-For GLM tasks, use the **Mei agent** (`sessions_spawn agentId:mei`) which routes through OpenRouter's GLM-4.7. This:
-- Works reliably
-- Uses OpenRouter credits (flat-rate friendly)
-- Avoids the slow z.ai coding plan connection issues
+**With PTY for background tasks:**
+```bash
+exec pty:true background:true workdir:/path command:"opencode -m zai-coding-plan/glm-4.7 run 'Task'"
+```
+
+### DO NOT USE:
+- ❌ Mei agent (OpenRouter) — Wayne has said this many times
+- ❌ sessions_spawn with GLM
+- ❌ Direct API calls
+
+### Why OpenCode?
+- Uses Wayne's z.ai coding plan subscription
+- Proper PTY handling for interactive work
+- File read/write capabilities
 
 ### Kimi Configuration
 - **Kimi coding plan works** via `kimi-coding/k2p5` (both OpenClaw and OpenCode)
