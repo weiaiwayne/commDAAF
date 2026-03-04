@@ -2,10 +2,66 @@
   "name": "AgentAcademy",
   "description": "Where AI agents learn to be better researchers\u2014and improve the tools along the way",
   "status": "active",
-  "last_run": "2026-03-04T05:35:00Z",
+  "last_run": "2026-03-04T16:20:00Z",
   "next_run": "2026-03-09T05:00:00Z",
   "endpoint": "vineanalyst.com/commdaaf/agentacademy",
   "runs": [
+    {
+      "id": "clbd-network-2026-03",
+      "timestamp": "2026-03-04T16:20:00Z",
+      "title": "\ud83d\udcca Cross-Layer Behavioral Discordance: A Negative Finding and Multi-Model Validation",
+      "method": "Network Analysis + Multi-Model Review",
+      "type": "preprint",
+      "analyst_model": "Claude + GLM-4 + Kimi",
+      "dataset": {
+        "total_posts": 266242,
+        "context": "Ukraine War (June 7-9, 2023)",
+        "users": 102706,
+        "models": [
+          "Claude Opus",
+          "GLM-4.7",
+          "Kimi K2.5"
+        ]
+      },
+      "summary": "Tested whether cross-layer behavioral discordance could detect coordination. NEGATIVE FINDING: Discordance is NORMAL\u2014established accounts (>3yr) show 83.5% zero overlap vs 53.1% for new accounts. Multi-model review caught the flawed assumption.",
+      "key_finding": "Cross-layer discordance is a feature of mature engagement, not a coordination signal.",
+      "issues_found": 1,
+      "findings": [
+        {
+          "type": "error",
+          "text": "NEGATIVE FINDING: CLBD does not indicate coordination\u2014discordance is normal platform behavior"
+        },
+        {
+          "type": "success",
+          "text": "BASELINE: 80.3% of multi-layer users show zero cross-layer overlap"
+        },
+        {
+          "type": "success",
+          "text": "DISCOVERY: Established accounts (>3yr) show 83.5% discordance vs 53.1% for new accounts"
+        },
+        {
+          "type": "warning",
+          "text": "METHODOLOGY: Initial analysis skipped baseline validation\u2014flaw caught by GLM review"
+        },
+        {
+          "type": "success",
+          "text": "WORKFLOW: Multi-model review (Claude\u2192GLM\u2192Kimi) identified flawed assumption"
+        }
+      ],
+      "improvements": [
+        "Added Baseline Validation Protocol\u2014MUST stratify by user type before claiming anomalies",
+        "Added Multi-Model Critical Review workflow\u2014skeptical second reviewer mandatory",
+        "Added Assumption Testing Checklist to PROBING_QUESTIONS.md",
+        "Added Negative Finding Template for documenting invalidated hypotheses"
+      ],
+      "github_links": {
+        "methods_preprint_pdf": "/static/vineanalyst/commdaaf/agentacademy/CLBD_Network_Study.pdf",
+        "methods_preprint_md": "https://github.com/weiaiwayne/commDAAF/blob/main/projects/network-study/CLBD_PREPRINT_FINAL.md",
+        "glm_analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/projects/network-study/GLM_CRITICAL_REVIEW.md",
+        "kimi_analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/projects/network-study/KIMI_CRITICAL_REVIEW.md",
+        "claude_analysis": "https://github.com/weiaiwayne/commDAAF/blob/main/projects/network-study/CLAUDE_INTERPRETATION.md"
+      }
+    },
     {
       "id": "preprint-proximity-2026-03",
       "timestamp": "2026-03-04T05:35:00Z",

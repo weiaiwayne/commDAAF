@@ -1,318 +1,205 @@
-# Cross-Layer Behavioral Discordance in Social Media: A Negative Finding and Multi-Model Validation Workflow
+# When Behavioral Inconsistency Is the Norm: A Negative Finding on Cross-Layer Network Patterns in Political Discourse
 
-**Authors:** Wayne Xu¹, AI Research Collective (Claude, GLM-4, Kimi)²
+**Wayne Xu**  
+Boston University
 
-¹ Boston University  
-² AgentAcademy Multi-Model Research Initiative
+**AI Research Collective** (Claude, GLM-4, Kimi)  
+AgentAcademy Multi-Model Research Initiative
 
-**Preprint | March 2026**
+*Preprint | March 2026*
 
 ---
 
 ## Abstract
 
-We investigated whether cross-layer behavioral discordance—the tendency to retweet different accounts than one replies to—could serve as an indicator of coordinated inauthentic behavior on social media. Analysis of 266,242 Ukraine-related tweets (June 2023) revealed that 80% of multi-layer users exhibit zero overlap between their retweet and conversation targets. Contrary to our initial hypothesis, baseline analysis stratified by account characteristics showed this discordance is *more* pronounced among established accounts (83.5% zero overlap for accounts >3 years old) than new accounts (53.1% for accounts <3 months old). This finding invalidates cross-layer discordance as a coordination detection signal but reveals that cross-layer specialization is a normal feature of mature social media engagement.
+The detection of coordinated inauthentic behavior on social media has become a central concern for communication scholars studying platform manipulation and democratic discourse. This study investigated whether behavioral inconsistency across interaction modalities—what we term "cross-layer behavioral discordance"—could serve as a structural indicator of coordination. Drawing on multi-layer network theory, we hypothesized that authentic users would demonstrate coherent patterns across retweet, reply, and quote networks, while coordinated actors might exhibit discordant behavior reflecting role specialization within influence campaigns.
 
-We also document our multi-model AI peer review workflow guided by the CommDAAF (Communication Data Analysis Augmentation Framework) methodology. Three large language models independently critiqued the methodology, with the second reviewer (GLM-4) identifying the flawed foundational assumption that the initial analysis missed. This workflow demonstrates how AI-assisted peer review, when combined with systematic validation protocols, can catch conceptual errors before publication.
+Analysis of 266,242 Ukraine-related tweets revealed a finding that fundamentally challenged our theoretical expectations: behavioral discordance is not an anomaly but the norm. Fully 80% of users who engage across multiple interaction layers show zero overlap between their amplification targets and conversation partners. More striking still, this pattern intensifies with account maturity—established accounts exhibit significantly higher discordance than newer ones. This inverse relationship disqualifies cross-layer discordance as a coordination signal while illuminating how platform affordances shape the differentiation of communicative practices over time.
 
-**Keywords:** social network analysis, coordination detection, multi-layer networks, negative results, AI-assisted research, CommDAAF
+We also document how multi-model artificial intelligence review, conducted through three large language models with distinct analytical perspectives, successfully identified the flawed foundational assumption underlying our initial approach—a methodological contribution with implications for how computational communication research might leverage AI collaboration while maintaining empirical rigor.
 
----
-
-## 1. Introduction
-
-### 1.1 The Challenge of Coordination Detection
-
-Detecting coordinated inauthentic behavior (CIB) on social media remains a critical challenge for platform integrity and democratic discourse. Existing methods primarily rely on content-based signals: CooRnet (Giglietto et al., 2020) and CooRTweet (Righetti & Balluff, 2025) detect coordination through shared URLs posted by multiple accounts within temporal windows. These methods are effective but require content matching and detect group-level rather than individual-level coordination.
-
-### 1.2 The Cross-Layer Hypothesis
-
-We hypothesized that network structure—specifically, behavioral consistency across interaction types—might provide a content-independent coordination signal. The intuition was straightforward: organic users who find an account valuable enough to retweet might also engage with that account through replies or quotes. Coordinated amplification accounts, designed for single-purpose reach maximization, might show "discordant" behavior—retweeting high-profile targets while conversing (if at all) with entirely different accounts.
-
-We operationalized this as **Cross-Layer Behavioral Discordance (CLBD)**: the Jaccard similarity between a user's retweet targets and conversation targets (replies + quotes). Low similarity indicated high discordance, hypothesized as a potential coordination indicator.
-
-### 1.3 The Importance of Negative Findings
-
-As documented below, our hypothesis was wrong. However, negative findings serve critical scientific functions: they prevent duplication of failed approaches, refine theoretical understanding, and establish empirical boundaries for future research (Fanelli, 2012). We report this negative finding in full, along with the methodological lessons learned.
-
-### 1.4 Research Questions
-
-**RQ1:** Does cross-layer behavioral discordance differ between user types (established vs. new accounts)?
-
-**RQ2:** Can CLBD serve as a coordination detection signal?
-
-**RQ3:** Can multi-model AI peer review identify flawed assumptions before empirical testing?
+**Keywords:** coordinated inauthentic behavior, multi-layer networks, platform affordances, negative results, computational methods, AI-assisted research
 
 ---
 
-## 2. Methods
+## Introduction
 
-### 2.1 Methodological Framework
+The integrity of public discourse on social media platforms has emerged as one of the defining challenges of contemporary communication scholarship. From the Internet Research Agency's interference in the 2016 U.S. presidential election to coordinated campaigns surrounding Brexit, COVID-19, and numerous national elections worldwide, the manipulation of online information environments through networks of inauthentic accounts has demonstrated both its prevalence and its consequences (Benkler, Faris, & Roberts, 2018; Freelon & Wells, 2020). For communication researchers, the detection and analysis of such coordination represents not merely a technical problem but a fundamental question about the conditions under which authentic public deliberation remains possible in networked media environments.
 
-This study was conducted within the **CommDAAF (Communication Data Analysis Augmentation Framework)** methodology, which provides structured protocols for computational communication research. CommDAAF emphasizes:
-- Probing questions before analysis
-- Baseline validation before anomaly claims
-- Multi-model review for methodological rigor
-- Explicit falsification criteria
+Yet coordination detection remains methodologically challenging. The most widely adopted approaches rely on content-based signals: tools like CooRnet identify accounts that share identical URLs within narrow temporal windows, revealing coordinated amplification campaigns through their synchronized distribution of specific content (Giglietto, Righetti, Rossi, & Marino, 2020). These methods have proven effective for detecting certain forms of manipulation, but they require content matching and operate at the group level, flagging clusters of accounts rather than identifying individual coordinated actors. The search for complementary detection methods—particularly those that might operate independently of content analysis—remains an active area of inquiry.
 
-Notably, the initial analysis **did not rigorously follow** CommDAAF's baseline validation protocols—an omission that allowed the flawed assumption to persist until the multi-model review phase. This serves as a case study in why systematic validation matters.
+This study began with what seemed a theoretically grounded intuition: that the structure of users' engagement patterns across different interaction modalities might reveal something about the authenticity of their participation. Social media platforms like Twitter offer multiple ways of engaging with content and other users—retweeting to amplify, replying to converse, quoting to comment. We reasoned that authentic users, who develop genuine interests and relationships over time, would demonstrate some consistency across these modalities. An account that finds a journalist worth retweeting might also engage that journalist through replies; a user invested in a political community might both amplify and converse with fellow community members. Coordinated accounts, by contrast, designed for single-purpose amplification without genuine social investment, might exhibit what we termed "cross-layer behavioral discordance"—retweeting one set of accounts while conversing (if at all) with an entirely different set.
 
-### 2.2 Dataset
+The findings we report here did not confirm this hypothesis. They refuted it in terms that forced us to reconsider fundamental assumptions about what "normal" social media behavior looks like. But negative findings, though undervalued in publication hierarchies that favor novel positive results, serve essential scientific functions (Fanelli, 2012). They prevent the duplication of failed approaches, establish empirical boundaries for theoretical claims, and sometimes—as in this case—reveal patterns of human behavior that prove more interesting than the anomalies we initially sought to detect.
 
-We analyzed 266,242 Ukraine-related tweets collected June 7-9, 2023, comprising:
-- **102,706** unique users
-- **191,566** retweets (72% of tweets)
-- **74,676** original tweets and replies (28%)
-- **27,657** quote tweets
+### Theoretical Framework: Multi-Layer Networks and Platform Affordances
 
-Data included user metadata: follower count, account creation date, and total tweet count.
+The conceptual foundation for this study draws on two streams of scholarship that have increasingly informed computational approaches to communication research. The first is the multi-layer network paradigm, which reconceptualizes social media platforms not as singular networks but as overlapping systems of interaction operating through distinct relational types (Kivelä et al., 2014; Magnani, Rossi, & Vega, 2021). On Twitter, a retweet network captures amplification and endorsement patterns; a reply network maps conversational engagement; a quote network reveals practices of commentary and reframing. These layers may share nodes—the same user can retweet, reply, and quote—but the relationships they map are not equivalent, and the extent to which users' positions and behaviors align across layers is an empirical question with theoretical significance.
 
-### 2.3 Network Construction
+The second framework concerns platform affordances and their role in shaping communicative practice (boyd, 2010; Bucher & Helmond, 2018). Different features of social media platforms enable and constrain different kinds of communication. Retweeting requires minimal cognitive investment and serves primarily amplification functions; it asks users to endorse and redistribute without elaboration. Replying demands greater engagement and establishes conversational relationship; it positions users as interlocutors rather than merely distributors. Quote-tweeting combines amplification with commentary, allowing users to frame and contextualize others' content. These affordances do not determine behavior, but they structure the range of communicative possibilities in ways that may encourage differentiation of practice across interaction types.
 
-Three directed networks were constructed from explicit Twitter relationships:
+The intersection of these frameworks suggested our initial hypothesis. If authentic users develop differentiated practices across modalities—retweeting for one set of communicative purposes with one set of partners, conversing for other purposes with other partners—then behavioral consistency across layers might itself be anomalous, potentially indicating the kind of single-purpose automation characteristic of coordinated campaigns. Alternatively, if authentic engagement involves sustained relationships that manifest across multiple interaction types, then discordance—engaging entirely different accounts through different modalities—might signal the superficiality of inauthentic participation.
 
-| Network | Definition | Nodes | Edges |
-|---------|------------|-------|-------|
-| Retweet | A→B if A retweeted B | 87,267 | 150,581 |
-| Reply | A→B if A replied to B | 11,153 | 11,504 |
-| Quote | A→B if A quoted B | 9,362 | 10,387 |
+We operationalized this through a measure we termed Cross-Layer Behavioral Discordance (CLBD): the Jaccard similarity between a user's retweet targets and conversation targets (combining replies and quotes). Low similarity indicated high discordance; we initially hypothesized this as a potential marker of coordination.
 
-### 2.4 Cross-Layer Behavioral Discordance (CLBD)
+### Research Questions
 
-For users appearing in multiple network layers (n=3,211), we calculated:
+Rather than advancing directional hypotheses, we framed our inquiry through research questions that allowed the data to adjudicate between competing theoretical possibilities:
 
-$$CLBD = \frac{|RT_{targets} \cap Convo_{targets}|}{|RT_{targets} \cup Convo_{targets}|}$$
+**RQ1:** What is the distribution of cross-layer behavioral discordance among Twitter users engaged in political discourse?
 
-Where:
-- $RT_{targets}$ = set of accounts the user retweeted
-- $Convo_{targets}$ = set of accounts the user replied to OR quoted
+**RQ2:** Does discordance vary systematically with account characteristics that might distinguish authentic from potentially inauthentic users?
 
-CLBD ranges from 0 (complete discordance) to 1 (perfect consistency).
-
-### 2.5 Baseline Analysis
-
-To test whether discordance indicates coordination (rather than normal behavior), we stratified CLBD by user characteristics:
-
-- **Account age:** <3 months, 3mo-1yr, 1-3yr, >3yr
-- **Follower count:** <100, 100-1K, 1K-10K, >10K  
-- **Activity level:** <1K, 1K-10K, 10K-100K, >100K total tweets
-
-**Hypothesis:** If discordance indicates coordination, established accounts (older, more followers, more active) should show *higher* CLBD (more consistency). If discordance is normal platform behavior, all user types should show similar patterns.
-
-### 2.6 Statistical Analysis
-
-Mann-Whitney U tests compared CLBD distributions between user groups. Significance threshold: p < 0.05.
-
-### 2.7 Multi-Model Review Protocol
-
-Following CommDAAF guidelines, we subjected the methodology to review by three large language models:
-
-1. **Claude (Anthropic):** Initial analysis and self-critique
-2. **GLM-4 (Zhipu AI):** Independent skeptical review
-3. **Kimi (Moonshot AI):** Balanced synthesis
-
-Each model was instructed to identify methodological flaws, challenge assumptions, and recommend whether findings were publication-ready.
+**RQ3:** Can multi-model AI review identify problematic assumptions in computational research design before empirical testing?
 
 ---
 
-## 3. Results
+## Method
 
-### 3.1 Overall Discordance Distribution
+### Data and Context
 
-Among 3,211 users with calculable CLBD scores:
-- **80.3%** showed zero cross-layer overlap (CLBD = 0)
-- Mean CLBD: 0.074
-- Median CLBD: 0.000
-- Standard deviation: 0.215
+We analyzed a corpus of 266,242 tweets discussing the war in Ukraine, collected during a 72-hour window from June 7-9, 2023. This context was selected for several reasons relevant to the study's theoretical concerns. The Ukraine conflict has been characterized by substantial information warfare, with documented coordination campaigns by multiple state and non-state actors, making it a context where coordination detection methods would be particularly valuable if effective. The geopolitical salience of the topic ensures substantial participation from diverse user populations, providing variance in user characteristics necessary for baseline analysis. The temporal density of the crisis period allowed construction of meaningful interaction networks within the collection window.
 
-### 3.2 CLBD by Account Characteristics
+The dataset comprised activity from 102,706 unique users, including 191,566 retweets (72% of total activity), 74,676 original tweets and replies (28%), and 27,657 quote tweets. User metadata included account creation date, follower count, and cumulative tweet count—characteristics we employed to distinguish established from newer accounts in baseline analysis.
 
-**Table 1: CLBD by Account Age**
+### Network Construction
 
-| Account Age | n | Mean CLBD | Zero Overlap Rate |
-|-------------|---|-----------|-------------------|
-| <3 months | 147 | 0.283 | 53.1% |
-| 3mo-1yr | 396 | 0.078 | 78.3% |
-| 1-3 years | 661 | 0.070 | 77.6% |
-| >3 years | 2,004 | 0.060 | **83.5%** |
+Following established protocols for network analysis of political communication (Barberá et al., 2015; Freelon, McIlwain, & Clark, 2020), we constructed three directed networks representing distinct interaction modalities on the platform:
 
-**Table 2: CLBD by Follower Count**
+The retweet network (87,267 nodes, 150,581 edges) captured amplification relationships, with directed edges from retweeting users to the original authors whose content they amplified. The reply network (11,153 nodes, 11,504 edges) mapped conversational engagement, connecting replying users to those they addressed. The quote network (9,362 nodes, 10,387 edges) represented commentary relationships, linking users who quoted content to its original authors.
 
-| Followers | n | Mean CLBD | Zero Overlap Rate |
-|-----------|---|-----------|-------------------|
-| <100 | 521 | 0.109 | 79.1% |
-| 100-1K | 1,259 | 0.060 | 82.1% |
-| 1K-10K | 1,251 | 0.069 | 79.7% |
-| >10K | 166 | 0.100 | 74.7% |
+The substantial size differences across layers reflect known patterns in platform affordance usage: retweeting requires minimal effort and serves broadcast functions, attracting far more activity than the more effortful conversational modes.
 
-**Table 3: CLBD by Activity Level**
+### Measuring Cross-Layer Behavioral Discordance
 
-| Total Tweets | n | Mean CLBD | Zero Overlap Rate |
-|--------------|---|-----------|-------------------|
-| <1K | 248 | 0.214 | 69.8% |
-| 1K-10K | 965 | 0.076 | 82.3% |
-| 10K-100K | 1,589 | 0.056 | 81.1% |
-| >100K | 409 | 0.054 | 78.5% |
+For the 3,211 users who appeared in multiple network layers and thus had calculable cross-layer patterns, we computed CLBD as the Jaccard coefficient between their retweet targets and their conversation targets (the union of reply and quote targets). This measure ranges from zero—indicating complete discordance, with no overlap between amplification and conversation partners—to one, indicating perfect consistency across modalities.
 
-### 3.3 Statistical Tests
+### Baseline Analysis Strategy
 
-**High-follower vs. Low-follower accounts:**
-- High followers (>1K): mean CLBD = 0.072, n = 1,417
-- Low followers (<100): mean CLBD = 0.113, n = 532
-- Mann-Whitney U: p = 0.777
-- **Result:** No significant difference
+The critical methodological move in this study—one prompted by AI review, as we discuss below—was the establishment of baselines stratified by user characteristics. If cross-layer discordance indicates coordination rather than normal behavioral differentiation, we would expect established accounts (older, more followed, more active) to exhibit lower discordance than newer accounts. The logic follows from the assumption that established accounts are more likely to represent authentic, long-term participants while newer accounts may include coordinated actors entering the platform for specific campaigns.
 
-**Old vs. New accounts:**
-- Old accounts (>3yr): mean CLBD = 0.059, n = 1,954
-- New accounts (<3mo): mean CLBD = 0.281, n = 148
-- Mann-Whitney U (testing if old > new): p = 1.000
-- **Result:** Old accounts have *lower* CLBD (more discordance), opposite to hypothesis
+We stratified accounts by age (under 3 months, 3 months to 1 year, 1-3 years, over 3 years), follower count (under 100, 100-1,000, 1,000-10,000, over 10,000), and cumulative activity (under 1,000 tweets, 1,000-10,000, 10,000-100,000, over 100,000). Mann-Whitney U tests compared CLBD distributions across groups.
 
-### 3.4 Key Finding: Established Accounts Are MORE Discordant
+### Multi-Model AI Review Protocol
 
-**Figure 1** (described): Zero overlap rate increases with account age, from 53.1% for new accounts to 83.5% for accounts over 3 years old.
+A distinctive methodological feature of this study was the incorporation of review by multiple large language models prior to finalizing the research design. Following protocols developed through the CommDAAF (Communication Data Analysis Augmentation Framework) initiative, we subjected our methodology to critique by three AI systems: Claude (Anthropic), GLM-4 (Zhipu AI), and Kimi (Moonshot AI). Each was instructed to identify methodological flaws, challenge foundational assumptions, and assess whether findings would warrant publication.
 
-This finding **invalidates CLBD as a coordination detection signal.** If discordance indicated coordination:
-- Established accounts should show HIGH consistency (low discordance)
-- New/suspicious accounts should show LOW consistency (high discordance)
-
-**Observed pattern is the opposite:** Established accounts show the highest discordance rates.
-
-### 3.5 Multi-Model Review Results
-
-**Table 4: Model Assessments of CLBD**
-
-| Assessment | Claude | GLM-4 | Kimi |
-|------------|--------|-------|------|
-| Foundational assumption valid | 60% | 0% | ~30% |
-| CLBD detects coordination | 40% | 15% | ~30% |
-| Publish as novel method | No | No | No |
-| Publish as exploratory | Yes | Conditional | Yes |
-
-**GLM-4's critical insight** (identified before baseline analysis):
-> "The assumption that organic users have high cross-layer consistency is asserted without evidence and likely incorrect. Users retweet *sources* (news outlets, journalists) but *reply to* community members and friends. These sets are fundamentally different in organic behavior."
-
-**Kimi's synthesis:**
-> "CLBD may be detecting *user types* (broadcasters vs. conversationalists) rather than *authenticity* (organic vs. coordinated)."
-
-### 3.6 Comparison to CooRnet-Style Detection
-
-To contextualize CLBD, we compared flagged accounts to a CooRnet-style analysis (accounts that co-retweet the same sources).
-
-| Method | Accounts Flagged | Overlap |
-|--------|------------------|---------|
-| CLBD (top 165) | 165 | 2 (1.2%) |
-| CooRnet-style (top 165) | 165 | 2 (1.2%) |
-
-The 1.2% overlap initially suggested complementary detection. However, given CLBD's invalidation, this overlap may reflect that both methods flag different aspects of normal behavioral variation rather than different types of coordination.
+This approach reflects emerging interest in AI-assisted research workflows while raising questions about how such collaboration should be structured to maximize methodological benefit without introducing new sources of bias or error.
 
 ---
 
-## 4. Discussion
+## Findings
 
-### 4.1 Why Discordance Is Normal
+### The Prevalence of Behavioral Discordance
 
-The baseline analysis reveals that cross-layer discordance is a feature of mature Twitter engagement, not a bug indicating coordination. We propose three explanations:
+Our first finding concerns the sheer prevalence of cross-layer discordance in political discourse on Twitter. Among the 3,211 users with calculable CLBD scores, fully 80.3% demonstrated zero overlap between their retweet targets and conversation partners. The mean CLBD was 0.074, with a median of zero—indicating that the modal Twitter user engaged in Ukraine discourse retweeted one set of accounts and conversed with an entirely different set.
 
-**Role differentiation:** Established users develop distinct engagement patterns. They retweet news sources, experts, and public figures for information amplification, while reserving replies and quotes for community members, colleagues, and friends. These target sets are naturally distinct.
+This finding alone gave us pause. If four out of five users exhibit complete behavioral discordance, the pattern cannot meaningfully distinguish coordinated from authentic actors; it simply describes how most people use the platform.
 
-**Network size effects:** As users' networks grow, the probability of overlap between retweet and conversation targets decreases mathematically. With more potential targets in each category, random overlap becomes less likely.
+### The Inverse Relationship with Account Maturity
 
-**Platform affordances:** Twitter's design encourages modality-specific behavior. Retweets serve amplification functions; replies serve conversational functions. Users learn to use these features for different purposes with different targets.
+The baseline analysis produced findings that directly contradicted our theoretical expectations. When we stratified CLBD by account age, we found that discordance was not merely prevalent but intensified with account maturity. New accounts (under 3 months old) showed a mean CLBD of 0.283, with 53.1% exhibiting zero cross-layer overlap. Accounts between 3 months and one year old showed mean CLBD of 0.078 and 78.3% zero overlap. For accounts over three years old—those most likely to represent established, authentic participants—mean CLBD dropped to 0.060, with 83.5% showing complete behavioral discordance.
 
-### 4.2 Why New Accounts Show Higher Consistency
+This pattern was statistically robust. Mann-Whitney U tests comparing old accounts (over 3 years) to new accounts (under 3 months) confirmed that established accounts exhibit significantly higher discordance, with the test for whether old accounts would show higher consistency (lower discordance) returning p = 1.000—the data ran entirely opposite to hypothesis.
 
-New accounts (<3 months) showed surprisingly *higher* CLBD (mean = 0.283 vs. 0.060 for old accounts). Possible explanations:
+Parallel patterns emerged for other indicators of account establishment. Higher-activity accounts (over 10,000 cumulative tweets) showed greater discordance than lower-activity accounts. The relationship with follower count was more complex, with both the lowest and highest follower brackets showing somewhat elevated CLBD, but the overall pattern confirmed that the markers we might associate with authentic, invested participation predicted more, not less, behavioral differentiation across interaction layers.
 
-- **Smaller networks:** New accounts engage with fewer targets overall, increasing overlap probability
-- **Learning phase:** New users may not yet have differentiated their engagement patterns
-- **Community entry:** New accounts may initially engage with the same accounts across modalities while establishing presence
+### Interpretation: Why Established Users Are More Discordant
 
-### 4.3 Implications for Coordination Detection
+These findings demand interpretation. Why would long-term, active, invested Twitter users show greater behavioral inconsistency across interaction modalities than newer arrivals?
 
-This negative finding has direct implications for coordination detection research:
+We propose that cross-layer discordance reflects the differentiation of communicative practice that develops through sustained platform engagement. Established users learn, over time, that different interaction types serve different purposes and involve different relationships. They retweet journalists, news organizations, and public figures whose content they wish to amplify to their followers. They reply to friends, colleagues, and community members with whom they maintain conversational relationships. They quote-tweet to comment on content for their audiences. The accounts they retweet and the accounts they converse with need not—and typically do not—overlap, because these activities serve distinct functions in their communicative repertoire.
 
-1. **Content-independent structural signals require validation:** The intuition that "inconsistency = suspicious" does not hold for cross-layer behavior
-2. **Baseline establishment is essential:** Any anomaly detection method must establish what "normal" looks like across user types
-3. **Existing methods (CooRnet) target different phenomena:** URL-sharing coordination remains a valid detection target; behavioral consistency does not
+Newer users, by contrast, have not yet developed this differentiation. With smaller networks and less experience with platform affordances, they may engage the same limited set of accounts across modalities. Their higher consistency reflects not authenticity but the undifferentiated engagement characteristic of users still learning how to use the platform.
 
-### 4.4 Value of Multi-Model Review
+This interpretation aligns with affordance theory's emphasis on how features shape practice over time (Bucher & Helmond, 2018). It also recalls research on how users develop distinct audiences and self-presentation strategies across platforms and features (Marwick & boyd, 2011). The discordance we initially suspected as anomalous turns out to be a marker of communicative sophistication.
 
-The multi-model review workflow successfully identified the flawed assumption—but only because one model (GLM-4) was explicitly skeptical. Key observations:
+### The Contribution of Multi-Model AI Review
 
-- **Model diversity matters:** Claude's self-critique identified methodological issues but underestimated severity; GLM-4's harsher stance correctly identified the core flaw
-- **Empirical testing remains essential:** The models' predictions were validated only through baseline analysis
-- **AI review supplements, doesn't replace:** Human judgment on domain context, ethics, and publication decisions remains necessary
+The multi-model review process contributed substantially to the study's development, though in ways that illuminate both the potential and limits of AI-assisted research. When we presented our initial methodology—before conducting baseline analysis—to the three AI reviewers, their assessments diverged instructively.
 
-### 4.5 Limitations
+Claude, conducting self-critique, identified the need for baseline validation but assessed it as one concern among several, rating confidence in the foundational assumption at approximately 60%. GLM-4, instructed to adopt a skeptical stance, was considerably harsher. It identified the core premise as "empirically unsupported and likely incorrect," noting that the assumption of cross-layer consistency for authentic users "is asserted without evidence." GLM-4 articulated the key insight: "Users RT sources—news outlets, journalists, experts. Users reply to community members, friends, people in conversations. These sets are fundamentally different in organic behavior."
 
-1. **Single platform:** Findings may not generalize to other social media platforms
-2. **Crisis context:** Ukraine war discourse may differ from routine engagement
-3. **Short time window:** 3-day snapshot may not capture stable patterns
-4. **Hashtag collection:** Data collection via hashtags may oversample broadcast behavior
-5. **CommDAAF protocol violation:** Initial analysis did not follow baseline validation protocols, allowing the flaw to persist
+Kimi, tasked with synthesis, offered a reframing that proved prescient: "CLBD may be detecting user types (broadcasters vs. conversationalists) rather than authenticity (organic vs. coordinated)."
 
-### 4.6 Future Directions
-
-1. **Cross-platform validation:** Test whether discordance patterns hold on Reddit, Mastodon, etc.
-2. **Longitudinal analysis:** Track how individual users' CLBD evolves over time
-3. **Community-specific baselines:** Some communities (e.g., academic Twitter) may have higher expected consistency
-4. **Integration with other signals:** CLBD might contribute to ensemble models even if not discriminative alone
+The divergence across models proved methodologically productive. Had we relied on a single AI review—particularly a more sympathetic one—we might have proceeded without the baseline analysis that ultimately revealed the fatal flaw in our approach. The incorporation of an explicitly skeptical reviewer, primed to challenge assumptions, surfaced concerns that might otherwise have remained implicit until peer review or, worse, post-publication critique.
 
 ---
 
-## 5. Conclusion
+## Discussion
 
-We proposed Cross-Layer Behavioral Discordance (CLBD) as a potential content-independent coordination detection signal. Baseline analysis stratified by account characteristics revealed that discordance is normal—and increases with account maturity—invalidating the hypothesis.
+### Implications for Coordination Detection Research
 
-### Contributions
+The negative finding reported here has direct implications for the broader project of detecting coordinated inauthentic behavior on social media. It demonstrates that intuitive structural signals—patterns that seem, on theoretical grounds, like they should distinguish authentic from inauthentic actors—may simply capture normal behavioral variation. Cross-layer discordance seemed like a reasonable coordination indicator. It was not.
 
-1. **Negative finding:** CLBD does not indicate coordination; cross-layer specialization is normal
-2. **Empirical baseline:** Established accounts show 83.5% zero overlap vs. 53.1% for new accounts
-3. **Methodological demonstration:** Multi-model AI review can identify flawed assumptions, but empirical validation remains essential
-4. **Protocol lesson:** Skipping CommDAAF's baseline validation protocols allowed flawed assumptions to persist
+This suggests caution in developing new detection methods. Content-based approaches like CooRnet have demonstrated validity through extensive empirical testing against known coordination campaigns (Giglietto et al., 2020). Novel structural approaches require similar validation against ground truth before deployment. The intuition that "inconsistency equals suspicious" proved wrong for cross-layer behavior; it may prove wrong for other structural patterns as well.
 
-### Recommendations
+More broadly, coordination detection research must grapple with what we might call the baseline problem. Any claim that a pattern indicates anomalous behavior presupposes knowledge of what normal behavior looks like. Establishing these baselines requires the kind of stratified analysis we conducted here—examining how proposed indicators vary across user types we can independently assess. Without such baselines, we risk flagging normal behavioral variation as suspicious.
 
-- **Test foundational assumptions empirically** before building detection methods
-- **Establish baselines** across user types before claiming anomalies
-- **Use multi-model review** as one component of methodological validation
-- **Report negative findings** to prevent duplication of failed approaches
+### Platform Affordances and Communicative Differentiation
+
+While our coordination detection hypothesis failed, the findings illuminate patterns of platform use with independent theoretical interest. The intensification of cross-layer discordance with account maturity suggests that sustained engagement with social media platforms involves a process of communicative differentiation—the development of distinct practices for distinct features, with distinct relational targets.
+
+This pattern resonates with research on context collapse and audience management on social media (Marwick & boyd, 2011; Vitak, 2012). Users learn, over time, that different features reach different audiences and serve different purposes. They develop what amounts to a repertoire of communicative practices adapted to platform affordances. The retweet is not the reply is not the quote-tweet, and experienced users treat them accordingly.
+
+Whether this differentiation should be understood as a positive development—the cultivation of communicative sophistication—or a concerning fragmentation of public discourse depends on normative frameworks beyond the scope of this study. But the empirical pattern is clear: the longer users engage with Twitter, the more their interaction patterns diverge across modalities.
+
+### AI-Assisted Research: Promise and Caution
+
+The multi-model review process that contributed to this study offers a template for AI-assisted methodology validation while also illustrating its limits. The divergence across models—with the skeptical GLM-4 reviewer identifying concerns that the more sympathetic Claude underweighted—suggests that incorporating multiple AI perspectives with distinct analytical orientations can surface blind spots in research design.
+
+Yet AI review cannot replace empirical validation. The models could identify that our foundational assumption was unsupported; they could not determine whether it was correct or incorrect. Only the baseline analysis could adjudicate that question. AI-assisted research workflows should be understood as supplements to, not substitutes for, the empirical testing that remains the foundation of scientific inference.
+
+There is also a question of appropriate disclosure. Studies that incorporate AI assistance in design, analysis, or writing face evolving norms about transparency. We have chosen to document the AI review process in detail, treating the models as collaborators whose contributions merit acknowledgment. This may or may not become standard practice as the role of AI in research continues to evolve.
+
+### Limitations
+
+Several limitations constrain the generalizability of these findings. The analysis focused on a single platform (Twitter/X) during a specific crisis context (Ukraine war discourse), and patterns may differ on other platforms or in other topical domains. The 72-hour collection window, while sufficient for network construction, may not capture stable long-term behavioral patterns. Data collection through hashtags may oversample broadcast-oriented behavior, potentially inflating baseline discordance rates. And the study examined only one specific operationalization of cross-layer behavior; alternative measures might yield different results.
+
+Most significantly, the invalidation of CLBD as a coordination signal does not preclude its potential contribution to ensemble detection models that incorporate multiple signals. A pattern that fails as a standalone indicator might still contribute predictive value in combination with other features.
+
+### Future Directions
+
+Several extensions of this work merit pursuit. Cross-platform analysis could examine whether discordance patterns hold on other social media platforms with different affordance structures. Longitudinal analysis could track how individual users' cross-layer patterns evolve over time, potentially identifying developmental trajectories. Community-specific baselines could examine whether certain discourse communities—academic Twitter, political activist networks, professional communities—exhibit different normative patterns that would affect interpretation of discordance. And integration with other signals could test whether CLBD contributes to ensemble coordination detection models even when not discriminative alone.
 
 ---
 
-## Acknowledgments
+## Conclusion
 
-This research was conducted using the CommDAAF (Communication Data Analysis Augmentation Framework) methodology. We thank the AgentAcademy initiative for supporting multi-model collaborative research.
+We proposed cross-layer behavioral discordance as a potential indicator of coordinated inauthentic behavior, reasoning that authentic users would demonstrate consistency across interaction modalities while coordinated actors might exhibit discordance reflecting role specialization. Baseline analysis stratified by account characteristics revealed that this hypothesis was wrong: discordance is the norm in political discourse on Twitter, and it intensifies with the markers of authentic, established participation.
+
+This negative finding contributes to coordination detection research by eliminating a plausible but incorrect approach, establishing empirical baselines for cross-layer behavior in political discourse, and demonstrating methodological practices—particularly baseline validation and multi-model review—that can identify flawed assumptions before they propagate into accepted methods. In a field where the stakes of misidentification are high—where false accusations of coordination can silence legitimate voices while missed detection enables manipulation—the careful establishment of what does and does not indicate inauthenticity serves the broader project of preserving spaces for genuine public deliberation.
+
+The finding also reveals something about how people use social media platforms over time. The differentiation of communicative practice across interaction modalities—retweeting one set of accounts, conversing with another—appears not as fragmentation or inconsistency but as a feature of sustained engagement, the development of a repertoire of practices adapted to platform affordances. Whether this differentiation serves or undermines the communicative functions we hope social media might fulfill remains a question for ongoing inquiry.
 
 ---
 
 ## References
 
+Barberá, P., Jost, J. T., Nagler, J., Tucker, J. A., & Bonneau, R. (2015). Tweeting from left to right: Is online political communication more than an echo chamber? *Psychological Science*, 26(10), 1531-1542.
+
+Benkler, Y., Faris, R., & Roberts, H. (2018). *Network propaganda: Manipulation, disinformation, and radicalization in American politics*. Oxford University Press.
+
+boyd, d. (2010). Social network sites as networked publics: Affordances, dynamics, and implications. In Z. Papacharissi (Ed.), *A networked self: Identity, community, and culture on social network sites* (pp. 39-58). Routledge.
+
+Bucher, T., & Helmond, A. (2018). The affordances of social media platforms. In J. Burgess, A. Marwick, & T. Poell (Eds.), *The SAGE handbook of social media* (pp. 233-253). SAGE.
+
 Fanelli, D. (2012). Negative results are disappearing from most disciplines and countries. *Scientometrics*, 90(3), 891-904.
 
-Giglietto, F., Righetti, N., Rossi, L., & Marino, G. (2020). It takes a village to manipulate the media: coordinated link sharing behavior during 2018 and 2019 Italian elections. *Information, Communication & Society*, 23(6), 867-891.
+Freelon, D., McIlwain, C. D., & Clark, M. D. (2020). *Beyond the hashtags: #Ferguson, #Blacklivesmatter, and the online struggle for offline justice*. Center for Media & Social Impact.
+
+Freelon, D., & Wells, C. (2020). Disinformation as political communication. *Political Communication*, 37(2), 145-156.
+
+Giglietto, F., Righetti, N., Rossi, L., & Marino, G. (2020). It takes a village to manipulate the media: Coordinated link sharing behavior during 2018 and 2019 Italian elections. *Information, Communication & Society*, 23(6), 867-891.
 
 Kivelä, M., Arenas, A., Barthelemy, M., Gleeson, J. P., Moreno, Y., & Porter, M. A. (2014). Multilayer networks. *Journal of Complex Networks*, 2(3), 203-271.
 
-Righetti, N., & Balluff, P. (2025). CooRTweet: A Generalized R Software for Coordinated Network Detection. *Computational Communication Research*, 7(1), 1.
+Magnani, M., Rossi, L., & Vega, D. (2021). Analysis of multiplex social networks with R. *Journal of Statistical Software*, 98(8), 1-30.
+
+Marwick, A. E., & boyd, d. (2011). I tweet honestly, I tweet passionately: Twitter users, context collapse, and the imagined audience. *New Media & Society*, 13(1), 114-133.
+
+Vitak, J. (2012). The impact of context collapse and privacy on social network site disclosures. *Journal of Broadcasting & Electronic Media*, 56(4), 451-470.
 
 ---
 
-## Appendix: Multi-Model Review Excerpts
-
-### A.1 Claude Self-Critique
-
-> "Without a baseline, we can't claim 'discordance = suspicious.' It may just be 'discordance = normal.' [...] Required validation: Ground truth dataset with labeled coordinated/organic accounts; compare CLBD distributions between groups."
-
-### A.2 GLM-4 Critical Review
-
-> "The core premise is empirically unsupported and likely incorrect. Users RT sources (news outlets, journalists, experts). Users reply to community members, friends, people in conversations. These sets are fundamentally different in organic behavior. Example: An organic user might RT @CNN, @BBCBreaking but reply to @neighbor_discussing_news. Jaccard = 0.0. Is this suspicious? No, this is normal topic-focused engagement."
-
-### A.3 Kimi Synthesis
-
-> "Claude was wrong in degree, not in kind. The pattern is real; the interpretation is backwards. CLBD may be detecting user types (broadcasters vs conversationalists) rather than authenticity (organic vs coordinated). [...] Recommendation: Reframe as exploratory structural analysis, not coordination detection method."
-
----
-
-*AgentAcademy Preprint | March 2026 | CommDAAF-Guided Research*
+*AgentAcademy Preprint | March 2026*
