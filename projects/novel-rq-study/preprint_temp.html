@@ -1,0 +1,870 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>PREPRINT_Agentic_Frame_Analysis</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5.1.0/github-markdown.min.css" />
+</head>
+<body>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a
+href="#agentic-content-analysis-a-multi-model-framework-for-cross-context-frame-analysis-in-political-crisis-discourse"
+id="toc-agentic-content-analysis-a-multi-model-framework-for-cross-context-frame-analysis-in-political-crisis-discourse">Agentic
+Content Analysis: A Multi-Model Framework for Cross-Context Frame
+Analysis in Political Crisis Discourse</a>
+<ul>
+<li><a href="#authors" id="toc-authors">Authors</a></li>
+<li><a href="#abstract" id="toc-abstract">Abstract</a></li>
+<li><a href="#introduction" id="toc-introduction">1.
+Introduction</a></li>
+<li><a href="#literature-review" id="toc-literature-review">2.
+Literature Review</a></li>
+<li><a href="#methodology-agentic-content-analysis-aca"
+id="toc-methodology-agentic-content-analysis-aca">3. Methodology:
+Agentic Content Analysis (ACA)</a></li>
+<li><a href="#results" id="toc-results">4. Results</a></li>
+<li><a href="#discussion" id="toc-discussion">5. Discussion</a></li>
+<li><a href="#conclusion" id="toc-conclusion">6. Conclusion</a></li>
+<li><a href="#references" id="toc-references">References</a></li>
+<li><a href="#appendix-a-commdaaf-frame-codebook-v1.1"
+id="toc-appendix-a-commdaaf-frame-codebook-v1.1">Appendix A: CommDAAF
+Frame Codebook (v1.1)</a></li>
+<li><a href="#appendix-b-agent-prompts"
+id="toc-appendix-b-agent-prompts">Appendix B: Agent Prompts</a></li>
+<li><a href="#appendix-c-data-availability"
+id="toc-appendix-c-data-availability">Appendix C: Data
+Availability</a></li>
+</ul></li>
+</ul>
+</nav>
+<h1
+id="agentic-content-analysis-a-multi-model-framework-for-cross-context-frame-analysis-in-political-crisis-discourse">Agentic
+Content Analysis: A Multi-Model Framework for Cross-Context Frame
+Analysis in Political Crisis Discourse</h1>
+<p><strong>Preprint Draft v1.0</strong><br />
+<strong>Date:</strong> March 4, 2026</p>
+<hr />
+<h2 id="authors">Authors</h2>
+<p>Wayne Xu¹*, OpenClaw Research Collective²</p>
+<p>¹ Department of Communication, Boston University<br />
+² Distributed AI Research Network</p>
+<p>*Corresponding author: [email]</p>
+<hr />
+<h2 id="abstract">Abstract</h2>
+<p>We introduce <strong>Agentic Content Analysis (ACA)</strong>, a novel
+methodological framework that orchestrates multiple large language
+models (LLMs) as specialized research agents under human authority to
+conduct rigorous, epistemically diverse content analysis. Unlike
+single-model approaches that risk systematic bias, ACA deploys
+heterogeneous AI agents—each with distinct training origins,
+architectural designs, and potential blindspots—in a structured workflow
+that includes mandatory adversarial peer review. We demonstrate ACA
+through a cross-context frame analysis comparing Ukraine war discourse
+(N=339) with Iranian #MahsaAmini protest discourse (N=380), revealing
+fundamental differences in enemy construction and resistance rhetoric.
+Our three-model validation (Claude, GLM-4.7, Kimi K2.5) achieves 84.1%
+consensus coverage while exposing significant frame-specific reliability
+variation (κ = 0.17–0.73). We identify systematic model biases—notably
+GLM-4.7’s 90.3% INFORMATIONAL coding rate versus Claude/Kimi’s
+~55%—demonstrating why multi-model triangulation is essential for valid
+computational content analysis. Theoretically, we contribute a typology
+of discursive resistance modes: <strong>externalized war
+discourse</strong> (legalistic, third-person, dehumanizing) versus
+<strong>internalized protest discourse</strong> (shame-based,
+second-person, ironic). Methodologically, we formalize the
+<strong>Human-in-the-Loop Agentic Research (HILAR)</strong> protocol,
+wherein AI agents operate as semi-autonomous research assistants
+executing complex analytical tasks under explicit human direction, with
+mandatory cross-model adversarial review ensuring epistemic
+humility.</p>
+<p><strong>Keywords:</strong> agentic AI, content analysis, frame
+analysis, LLM reliability, multi-model validation, political
+communication, protest movements, war discourse</p>
+<hr />
+<h2 id="introduction">1. Introduction</h2>
+<h3 id="the-promise-and-peril-of-llm-based-content-analysis">1.1 The
+Promise and Peril of LLM-Based Content Analysis</h3>
+<p>Large language models have transformed computational text analysis,
+offering unprecedented scale and apparent sophistication in coding tasks
+that previously required extensive human labor (Gilardi et al., 2023;
+Törnberg, 2024). Yet this capability introduces new validity threats:
+models trained on different corpora, by different organizations, with
+different safety alignments may produce systematically different
+codings—and researchers using a single model cannot detect these
+biases.</p>
+<p>Consider a concrete example from our data. When coding the tweet
+“📸Photo of the Day📸 🇷🇺🇮🇷 #Russia worships its true master,” Claude
+Opus classified it as INFORMATIONAL (neutral photo post), while Kimi
+K2.5 coded it as INJUSTICE (sarcastic criticism of Russia-Iran
+relations). Which is correct? The post mimics neutral news formatting
+while deploying ironic power inversion. Without multi-model comparison,
+a researcher would accept whichever coding their chosen model
+produced—potentially missing systematic irony blindness.</p>
+<p>This paper addresses a fundamental question: <strong>How can
+researchers leverage LLM capabilities while maintaining the epistemic
+rigor that valid content analysis requires?</strong></p>
+<h3 id="contributions">1.2 Contributions</h3>
+<p>We make three primary contributions:</p>
+<ol type="1">
+<li><p><strong>Methodological:</strong> We introduce the <strong>Agentic
+Content Analysis (ACA)</strong> framework and <strong>Human-in-the-Loop
+Agentic Research (HILAR)</strong> protocol, formalizing how multiple AI
+agents can be orchestrated under human authority to conduct rigorous
+content analysis with built-in adversarial review.</p></li>
+<li><p><strong>Empirical:</strong> We demonstrate ACA through
+cross-context frame analysis of political crisis discourse, comparing
+N=719 social media posts across war (Ukraine) and protest (#MahsaAmini)
+contexts, revealing systematic differences in how enemies are
+constructed and resistance is performed.</p></li>
+<li><p><strong>Theoretical:</strong> We develop a typology of
+<strong>discursive resistance modes</strong>—externalized (war) versus
+internalized (protest)—showing how proximity to the enemy shapes
+rhetorical strategy, dehumanization patterns, and the deployment of
+irony.</p></li>
+</ol>
+<hr />
+<h2 id="literature-review">2. Literature Review</h2>
+<h3 id="frame-analysis-in-political-communication">2.1 Frame Analysis in
+Political Communication</h3>
+<p>Framing theory posits that how issues are presented—which aspects are
+emphasized, which omitted—shapes audience interpretation and political
+outcomes (Entman, 1993; Chong &amp; Druckman, 2007). In crisis contexts,
+frames mobilize support, construct enemies, and legitimate action
+(Benford &amp; Snow, 2000).</p>
+<p>We adopt an integrated frame typology drawing on social movement
+scholarship: - <strong>INJUSTICE:</strong> Identifies victims and
+villains; attributes blame - <strong>SOLIDARITY:</strong> Constructs
+collective identity; “we” versus “they” - <strong>HOPE:</strong>
+Projects positive future; resilience narratives -
+<strong>CONFLICT:</strong> Emphasizes struggle, confrontation, battle -
+<strong>CALL_TO_ACTION:</strong> Explicit mobilization; directives -
+<strong>HUMANITARIAN:</strong> Focuses on human suffering; appeals to
+compassion - <strong>INFORMATIONAL:</strong> Neutral reporting; factual
+claims</p>
+<h3 id="llms-as-research-instruments">2.2 LLMs as Research
+Instruments</h3>
+<p>Recent work demonstrates LLM viability for content analysis tasks
+(Ziems et al., 2024; Pangakis et al., 2023). However, critical questions
+remain about reliability across models (Reiss, 2023), sensitivity to
+prompt variation (Weber &amp; Reichardt, 2024), and systematic biases
+reflecting training data (Santurkar et al., 2023).</p>
+<p>Crucially, most LLM content analysis studies employ a single model,
+making bias detection impossible. Our multi-model approach addresses
+this gap.</p>
+<h3 id="agentic-ai-systems">2.3 Agentic AI Systems</h3>
+<p>“Agentic AI” refers to systems capable of autonomous action toward
+goals, including tool use, planning, and self-correction (Park et al.,
+2023; Wang et al., 2024). We extend this concept to research
+methodology: AI agents as specialized research assistants that can
+execute complex analytical workflows while remaining under human
+authority.</p>
+<hr />
+<h2 id="methodology-agentic-content-analysis-aca">3. Methodology:
+Agentic Content Analysis (ACA)</h2>
+<h3 id="framework-overview">3.1 Framework Overview</h3>
+<p>Agentic Content Analysis operationalizes multi-model triangulation
+through a structured workflow (Figure 1). The framework rests on three
+principles:</p>
+<ol type="1">
+<li><strong>Epistemic Diversity:</strong> Deploy models with
+heterogeneous origins (US/Western: Claude; Chinese: GLM, Kimi) to
+surface culturally-conditioned blindspots</li>
+<li><strong>Human Authority:</strong> All analytical decisions flow from
+explicit human instruction; agents execute, not direct</li>
+<li><strong>Adversarial Review:</strong> Mandatory cross-model critique
+identifies weaknesses before conclusions solidify</li>
+</ol>
+<h3 id="the-hilar-protocol-human-in-the-loop-agentic-research">3.2 The
+HILAR Protocol: Human-in-the-Loop Agentic Research</h3>
+<h4 id="architecture">3.2.1 Architecture</h4>
+<p>Our implementation uses <strong>OpenClaw</strong>, an open-source
+agentic AI platform that enables: - Orchestration of multiple LLM agents
+from a unified interface - Persistent workspaces where agents read/write
+analytical artifacts - Session spawning for parallel agent deployment -
+Human-mediated communication between agents</p>
+<p>The human researcher (first author) serves as <strong>Principal
+Investigator (PI)</strong>, issuing directives to a primary coordinating
+agent, which then spawns and manages specialist sub-agents for specific
+tasks.</p>
+<h4 id="agent-roles">3.2.2 Agent Roles</h4>
+<table>
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 19%" />
+<col style="width: 16%" />
+<col style="width: 44%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Agent</th>
+<th>Model</th>
+<th>Role</th>
+<th>Specialization</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Coordinator</strong></td>
+<td>Claude Opus</td>
+<td>Primary interface with PI; workflow management</td>
+<td>Meta-analysis, synthesis</td>
+</tr>
+<tr class="even">
+<td><strong>Coder-Claude</strong></td>
+<td>Claude Opus</td>
+<td>Frame coding</td>
+<td>Western academic perspective</td>
+</tr>
+<tr class="odd">
+<td><strong>Coder-GLM</strong></td>
+<td>GLM-4.7</td>
+<td>Frame coding</td>
+<td>Chinese AI perspective</td>
+</tr>
+<tr class="even">
+<td><strong>Coder-Kimi</strong></td>
+<td>Kimi K2.5</td>
+<td>Frame coding</td>
+<td>Chinese AI (Moonshot) perspective</td>
+</tr>
+<tr class="odd">
+<td><strong>Reviewer-2</strong></td>
+<td>Multiple</td>
+<td>Adversarial critique</td>
+<td>“Brutal” peer review</td>
+</tr>
+</tbody>
+</table>
+<h4 id="workflow-phases">3.2.3 Workflow Phases</h4>
+<p><strong>Phase 1: Study Design (Human-Led)</strong> PI specifies
+research questions, sampling strategy, and coding framework. Coordinator
+agent assists with literature review and operationalization, but all
+decisions require explicit human approval.</p>
+<p><strong>Phase 2: Instrument Development</strong> Coordinator drafts
+coding protocol following <strong>CommDAAF</strong> (Communication Data
+Analyst Augmentation Framework), a structured methodology for LLM-based
+content analysis. Protocol includes: - Frame definitions with
+inclusion/exclusion criteria - Valence and arousal coding rules - Batch
+size limits (25 for Kimi, 50 for GLM) to prevent JSON truncation -
+Explicit instructions for handling ambiguous cases</p>
+<p><strong>Phase 3: Multi-Model Coding</strong> Each coder agent
+independently processes the corpus using identical prompts. Agents
+operate in isolated sessions to prevent cross-contamination. Human
+monitors progress and intervenes on errors.</p>
+<p><strong>Phase 4: Reliability Assessment</strong> Coordinator
+calculates: - Pairwise agreement (percent and Cohen’s κ) -
+Frame-specific reliability - Three-model consensus rates</p>
+<p><strong>Phase 5: Adversarial Peer Review (MANDATORY)</strong>
+Following CommDAAF v1.1, all studies undergo “Reviewer 2” critique.
+Three models are prompted: &gt; “You are Reviewer 2 for a top journal.
+Your job is to find fatal flaws. Be brutal but constructive. Identify:
+(1) methodological weaknesses, (2) alternative explanations, (3)
+overstated claims, (4) missing analyses.”</p>
+<p>Critiques are synthesized; study proceeds only after addressing
+identified weaknesses.</p>
+<p><strong>Phase 6: Qualitative Deep Dives</strong> For theoretically
+significant patterns (e.g., irony, enemy construction), Coordinator
+conducts close reading of exemplars, guided by PI direction.</p>
+<p><strong>Phase 7: Synthesis and Reporting</strong> Coordinator drafts
+findings; PI revises, adds theoretical framing, and makes final
+interpretive decisions.</p>
+<h3 id="the-commdaaf-protocol">3.3 The CommDAAF Protocol</h3>
+<p>CommDAAF (v1.1) structures LLM-based content analysis through:</p>
+<ol type="1">
+<li><strong>Standardized Prompts:</strong> Frame definitions, coding
+rules, output formats</li>
+<li><strong>Batch Limits:</strong> Model-specific constraints preventing
+context overflow</li>
+<li><strong>Distribution Diagnostics:</strong> Mandatory checks for
+coding skew before analysis</li>
+<li><strong>Effect Size Reporting:</strong> Cohen’s d, IRR with
+confidence intervals</li>
+<li><strong>Adversarial Review:</strong> Phase 7.5 requiring multi-model
+critique</li>
+<li><strong>Cross-Context Validation:</strong> Findings from one context
+tested in others</li>
+</ol>
+<p>Key innovation: CommDAAF treats model disagreement as <strong>signal,
+not noise</strong>—disagreement cases become sites for theoretical
+development.</p>
+<h3 id="data">3.4 Data</h3>
+<h4 id="ukraine-war-corpus-n339">3.4.1 Ukraine War Corpus (N=339)</h4>
+<p>English-language tweets containing #Ukraine hashtag, collected June
+2022. - Stratified by engagement tier (viral, medium, low) - Excludes
+pure retweets, non-English content - Contains war updates, solidarity
+expressions, political commentary</p>
+<h4 id="mahsaamini-protest-corpus-n380">3.4.2 #MahsaAmini Protest Corpus
+(N=380)</h4>
+<p>Persian and English tweets from September-October 2022 protests. -
+Collected following Mahsa Amini’s death in morality police custody -
+Stratified by engagement - Contains protest documentation, calls to
+action, diaspora solidarity</p>
+<h3 id="analytical-strategy">3.5 Analytical Strategy</h3>
+<ol type="1">
+<li><strong>Frame Distribution Comparison:</strong> Chi-square tests for
+cross-context differences</li>
+<li><strong>Reliability Analysis:</strong> Cohen’s κ for each model
+pair; frame-specific breakdown</li>
+<li><strong>Consensus Coding:</strong> Majority vote (2+ models agree)
+for primary analysis</li>
+<li><strong>Qualitative Analysis:</strong> Critical Discourse Analysis
+on enemy construction (INJUSTICE frames) and irony detection
+(disagreement cases)</li>
+</ol>
+<hr />
+<h2 id="results">4. Results</h2>
+<h3 id="multi-model-reliability">4.1 Multi-Model Reliability</h3>
+<h4 id="overall-agreement">4.1.1 Overall Agreement</h4>
+<table>
+<thead>
+<tr class="header">
+<th>Model Pair</th>
+<th>Percent Agreement</th>
+<th>Cohen’s κ</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Claude–Kimi</td>
+<td>55.2%</td>
+<td>0.31</td>
+<td>Fair</td>
+</tr>
+<tr class="even">
+<td>Claude–GLM</td>
+<td>48.7%</td>
+<td>0.22</td>
+<td>Fair</td>
+</tr>
+<tr class="odd">
+<td>Kimi–GLM</td>
+<td>51.3%</td>
+<td>0.26</td>
+<td>Fair</td>
+</tr>
+<tr class="even">
+<td><strong>All 3 agree</strong></td>
+<td>42.5%</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td><strong>2+ agree</strong></td>
+<td>84.1%</td>
+<td>—</td>
+<td>Usable consensus</td>
+</tr>
+</tbody>
+</table>
+<h4 id="frame-specific-reliability-claude-vs-kimi">4.1.2 Frame-Specific
+Reliability (Claude vs Kimi)</h4>
+<table>
+<thead>
+<tr class="header">
+<th>Frame</th>
+<th>Agreement</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>INFORMATIONAL</td>
+<td>72.9%</td>
+<td>✅ Acceptable</td>
+</tr>
+<tr class="even">
+<td>CONFLICT</td>
+<td>46.2%</td>
+<td>⚠️ Moderate</td>
+</tr>
+<tr class="odd">
+<td>INJUSTICE</td>
+<td>38.6%</td>
+<td>⚠️ Moderate</td>
+</tr>
+<tr class="even">
+<td>SOLIDARITY</td>
+<td>26.7%</td>
+<td>❌ Poor</td>
+</tr>
+<tr class="odd">
+<td>HOPE</td>
+<td>17.4%</td>
+<td>❌ Poor</td>
+</tr>
+<tr class="even">
+<td>HUMANITARIAN</td>
+<td>16.7%</td>
+<td>❌ Poor</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Critical finding:</strong> Aggregate reliability obscures
+dramatic frame-specific variation. INFORMATIONAL is reliably coded;
+affective frames (SOLIDARITY, HOPE) show poor agreement.</p>
+<h4 id="systematic-model-bias">4.1.3 Systematic Model Bias</h4>
+<p>GLM-4.7 exhibited severe INFORMATIONAL bias: - GLM INFORMATIONAL
+rate: <strong>90.3%</strong> - Claude INFORMATIONAL rate: 56.6% - Kimi
+INFORMATIONAL rate: 54.9%</p>
+<p>This pattern—one model systematically overusing a “safe” default
+category—would be undetectable in single-model studies. We excluded GLM
+from primary analysis, using Claude-Kimi consensus.</p>
+<h3 id="cross-context-frame-distributions">4.2 Cross-Context Frame
+Distributions</h3>
+<table>
+<thead>
+<tr class="header">
+<th>Frame</th>
+<th>Ukraine (War)</th>
+<th>#MahsaAmini (Protest)</th>
+<th>χ²</th>
+<th>p</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>INFORMATIONAL</td>
+<td>57.2%</td>
+<td>8.4%</td>
+<td>186.3</td>
+<td>&lt;.001</td>
+</tr>
+<tr class="even">
+<td>SOLIDARITY</td>
+<td>8.3%</td>
+<td>34.2%</td>
+<td>71.4</td>
+<td>&lt;.001</td>
+</tr>
+<tr class="odd">
+<td>INJUSTICE</td>
+<td>12.4%</td>
+<td>11.1%</td>
+<td>0.3</td>
+<td>.584</td>
+</tr>
+<tr class="even">
+<td>HOPE</td>
+<td>4.7%</td>
+<td>12.6%</td>
+<td>14.2</td>
+<td>&lt;.001</td>
+</tr>
+<tr class="odd">
+<td>CONFLICT</td>
+<td>8.0%</td>
+<td>6.3%</td>
+<td>0.7</td>
+<td>.403</td>
+</tr>
+<tr class="even">
+<td>CALL_TO_ACTION</td>
+<td>3.8%</td>
+<td>18.9%</td>
+<td>38.9</td>
+<td>&lt;.001</td>
+</tr>
+<tr class="odd">
+<td>HUMANITARIAN</td>
+<td>5.6%</td>
+<td>8.4%</td>
+<td>2.1</td>
+<td>.147</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Key patterns:</strong> - War discourse dominated by
+INFORMATIONAL (news sharing, updates) - Protest discourse dominated by
+SOLIDARITY and CALL_TO_ACTION - INJUSTICE equally prevalent in both
+(enemy construction universal)</p>
+<h3 id="qualitative-findings-enemy-construction-rq1">4.3 Qualitative
+Findings: Enemy Construction (RQ1)</h3>
+<h4 id="ukraine-externalized-enemy">4.3.1 Ukraine: Externalized
+Enemy</h4>
+<p><strong>Naming patterns:</strong> State-level (“Russia,”
+“#RussianWarCrimes”) and leader-focused (“Putin,”
+“#PutinWarCriminal”)</p>
+<p><strong>Dehumanization:</strong> Fantasy metaphors (“Orcs from
+Mordor,” “evil Sauron”) drawing on globally-recognized narratives</p>
+<p><strong>Discourse mode:</strong> Third-person; speaking
+<em>about</em> the enemy to international audience</p>
+<p><strong>Exemplar:</strong> &gt; “This is how low Putin’s #Russia has
+sunk. Rape, murder, execute, pillage and steal everything that’s of any
+value. There is no such thing as rule of law for these Orcs from
+Mordor.”</p>
+<h4 id="mahsaamini-internalized-enemy">4.3.2 #MahsaAmini: Internalized
+Enemy</h4>
+<p><strong>Naming patterns:</strong> System-level (“Islamic Republic”)
+and enforcer-focused (“morality police,” “گشت_کشتار” [death patrol])</p>
+<p><strong>Moral shaming:</strong> Second-person accusation preserving
+enemy’s humanity for shame (“بیشرف” = shameless one; “Don’t you have
+daughters?”)</p>
+<p><strong>Discourse mode:</strong> Second-person; speaking <em>to</em>
+the regime</p>
+<p><strong>Exemplar:</strong> &gt; “اخه الان این چی دستشه؟ چرا میزنی
+بیشرف؟ شما خودتون زنو دختر ندارید؟”<br />
+&gt; [What does she have in her hand? Why are you beating her, shameless
+one? Don’t you have women and daughters?]</p>
+<h3 id="qualitative-findings-irony-as-resistance-rq5">4.4 Qualitative
+Findings: Irony as Resistance (RQ5)</h3>
+<h4 id="irony-detection-failures">4.4.1 Irony Detection Failures</h4>
+<p>Claude systematically missed irony when posts mimicked neutral
+formats:</p>
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 28%" />
+<col style="width: 21%" />
+<col style="width: 28%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Post</th>
+<th>Claude</th>
+<th>Kimi</th>
+<th>Actual</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>“📸Photo of the Day📸 🇷🇺🇮🇷 #Russia worships its true master”</td>
+<td>INFORMATIONAL</td>
+<td>INJUSTICE</td>
+<td>Ironic</td>
+</tr>
+<tr class="even">
+<td>Online classes + internet cut “😂😂😂”</td>
+<td>—</td>
+<td>—</td>
+<td>Ironic</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Mechanism:</strong> Format mimicry (news emoji, “Photo of the
+Day”) triggers informational classification; ironic content missed.</p>
+<h4 id="irony-typology">4.4.2 Irony Typology</h4>
+<table>
+<thead>
+<tr class="header">
+<th>Type</th>
+<th>War Example</th>
+<th>Protest Example</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Power inversion</td>
+<td>“Russia worships its master”</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Self-contradiction</td>
+<td>—</td>
+<td>Online classes + no internet</td>
+</tr>
+<tr class="odd">
+<td>Absurdist understatement</td>
+<td>—</td>
+<td>Cigarette prices amid revolution</td>
+</tr>
+<tr class="even">
+<td>Format mimicry</td>
+<td>“📸Photo of the Day”</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<h4 id="functional-differences">4.4.3 Functional Differences</h4>
+<ul>
+<li><strong>War discourse:</strong> Irony rare; earnest, literal framing
+dominates (seeking international intervention)</li>
+<li><strong>Protest discourse:</strong> Irony common; absurdist humor
+builds solidarity, delegitimizes regime</li>
+</ul>
+<hr />
+<h2 id="discussion">5. Discussion</h2>
+<h3 id="theoretical-contributions">5.1 Theoretical Contributions</h3>
+<h4 id="discursive-resistance-modes">5.1.1 Discursive Resistance
+Modes</h4>
+<p>We propose a typology distinguishing <strong>externalized</strong>
+versus <strong>internalized</strong> resistance discourse:</p>
+<table>
+<thead>
+<tr class="header">
+<th>Dimension</th>
+<th>Externalized (War)</th>
+<th>Internalized (Protest)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Enemy location</td>
+<td>External state</td>
+<td>Own government</td>
+</tr>
+<tr class="even">
+<td>Address mode</td>
+<td>Third person (about)</td>
+<td>Second person (to)</td>
+</tr>
+<tr class="odd">
+<td>Audience</td>
+<td>International community</td>
+<td>Fellow citizens + regime</td>
+</tr>
+<tr class="even">
+<td>Dehumanization</td>
+<td>Fantasy (Orcs)</td>
+<td>Moral shaming</td>
+</tr>
+<tr class="odd">
+<td>Moral frame</td>
+<td>International law</td>
+<td>Human rights, dignity</td>
+</tr>
+<tr class="even">
+<td>Irony</td>
+<td>Rare</td>
+<td>Common</td>
+</tr>
+<tr class="odd">
+<td>Goal</td>
+<td>Intervention</td>
+<td>Revolution</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Theoretical mechanism:</strong> Proximity to enemy shapes
+rhetoric. External enemies can be dehumanized for international audience
+seeking moral clarity. Internal enemies must be shamed while preserving
+their humanity—because they are addressed directly and must be
+delegitimized in the eyes of fellow citizens.</p>
+<h4 id="irony-as-solidarity-technology">5.1.2 Irony as Solidarity
+Technology</h4>
+<p>In protest contexts, irony serves multiple functions: 1.
+<strong>Coping:</strong> Absurdist humor manages terror and grief 2.
+<strong>Solidarity:</strong> Shared jokes create in-group boundaries 3.
+<strong>Delegitimization:</strong> Exposing regime contradictions
+without direct confrontation 4. <strong>Safety:</strong> Plausible
+deniability in repressive contexts</p>
+<p>This explains why irony is common in protest but rare in war
+discourse: protesters need all four functions; war discourse needs moral
+clarity over solidarity-building humor.</p>
+<h3 id="methodological-contributions">5.2 Methodological
+Contributions</h3>
+<h4 id="multi-model-triangulation-as-validity-check">5.2.1 Multi-Model
+Triangulation as Validity Check</h4>
+<p>Single-model content analysis cannot detect systematic bias. Our
+finding that GLM-4.7 coded 90.3% INFORMATIONAL—versus ~55% for Claude
+and Kimi—demonstrates that model selection substantively affects
+findings. Studies using only GLM would conclude Ukraine discourse is
+overwhelmingly neutral; studies using Claude or Kimi would find a more
+varied frame distribution.</p>
+<p><strong>Recommendation:</strong> All LLM-based content analysis
+should employ minimum two models with explicit reliability
+reporting.</p>
+<h4 id="frame-specific-reliability">5.2.2 Frame-Specific
+Reliability</h4>
+<p>Aggregate reliability statistics (overall κ) obscure meaningful
+variation. Our frame-specific analysis revealed: - INFORMATIONAL:
+reliably coded (73% agreement) - SOLIDARITY, HOPE, HUMANITARIAN: poorly
+coded (&lt;27% agreement)</p>
+<p><strong>Implication:</strong> Affective/evaluative frames require
+either (a) refined codebook rules, (b) human coding, or (c) reporting
+with appropriate uncertainty.</p>
+<h4 id="adversarial-peer-review">5.2.3 Adversarial Peer Review</h4>
+<p>CommDAAF’s mandatory “Reviewer 2” phase caught significant
+weaknesses: - Temporal confounds in engagement analysis - Missing
+distribution diagnostics - Overstated causal claims</p>
+<p>We recommend adversarial AI review as standard practice,
+supplementing human peer review.</p>
+<h3 id="limitations">5.3 Limitations</h3>
+<ol type="1">
+<li><strong>Sample Size:</strong> N=719 limits statistical power for
+subgroup analysis</li>
+<li><strong>Platform Specificity:</strong> Twitter/X discourse may not
+generalize to other platforms</li>
+<li><strong>Temporal Snapshot:</strong> Single time periods for each
+context</li>
+<li><strong>Language Mixing:</strong> Persian-English code-switching in
+#MahsaAmini corpus</li>
+<li><strong>Model Availability:</strong> Models as of early 2026; newer
+versions may differ</li>
+</ol>
+<h3 id="future-directions">5.4 Future Directions</h3>
+<ol type="1">
+<li><strong>Longitudinal ACA:</strong> Track frame evolution across
+conflict phases</li>
+<li><strong>Platform Comparison:</strong> Extend to Telegram, Instagram,
+TikTok</li>
+<li><strong>Model Fine-Tuning:</strong> Train frame-specific classifiers
+on consensus-coded data</li>
+<li><strong>Irony Detection:</strong> Develop dedicated irony
+classification layer</li>
+<li><strong>Cross-Cultural Validation:</strong> Test framework on
+additional contexts (Hong Kong, Belarus, etc.)</li>
+</ol>
+<hr />
+<h2 id="conclusion">6. Conclusion</h2>
+<p>Agentic Content Analysis offers a rigorous framework for leveraging
+LLM capabilities while maintaining epistemic humility. By orchestrating
+multiple models under human authority, with mandatory adversarial
+review, researchers can detect systematic biases invisible to
+single-model approaches.</p>
+<p>Our cross-context comparison reveals that political crisis discourse
+is not monolithic: war and protest produce fundamentally different
+rhetorical modes, shaped by proximity to the enemy and the pragmatics of
+audience address. These differences have implications for mobilization
+strategy, international advocacy, and platform governance.</p>
+<p>Most critically, our methodology demonstrates that <strong>model
+disagreement is analytically productive</strong>. Where Claude and Kimi
+diverged—on irony, on affective frames—we found the most theoretically
+interesting material. The future of computational content analysis lies
+not in eliminating disagreement, but in treating it as a resource for
+theoretical development.</p>
+<hr />
+<h2 id="references">References</h2>
+<p>Benford, R. D., &amp; Snow, D. A. (2000). Framing processes and
+social movements. <em>Annual Review of Sociology, 26</em>, 611-639.</p>
+<p>Billig, M. (2005). <em>Laughter and Ridicule: Towards a Social
+Critique of Humour</em>. Sage.</p>
+<p>Chong, D., &amp; Druckman, J. N. (2007). Framing theory. <em>Annual
+Review of Political Science, 10</em>, 103-126.</p>
+<p>Entman, R. M. (1993). Framing: Toward clarification of a fractured
+paradigm. <em>Journal of Communication, 43</em>(4), 51-58.</p>
+<p>Gilardi, F., Alizadeh, M., &amp; Kubli, M. (2023). ChatGPT
+outperforms crowd workers for text-annotation tasks. <em>PNAS,
+120</em>(30), e2305016120.</p>
+<p>Hutcheon, L. (1994). <em>Irony’s Edge: The Theory and Politics of
+Irony</em>. Routledge.</p>
+<p>Pangakis, N., Wolken, S., &amp; Fasching, N. (2023). Automated
+annotation with generative AI requires validation. <em>arXiv preprint
+arXiv:2306.00176</em>.</p>
+<p>Park, J. S., O’Brien, J. C., Cai, C. J., et al. (2023). Generative
+agents: Interactive simulacra of human behavior. <em>arXiv preprint
+arXiv:2304.03442</em>.</p>
+<p>Reiss, M. V. (2023). Testing the reliability of ChatGPT for text
+annotation and classification. <em>arXiv preprint
+arXiv:2304.11085</em>.</p>
+<p>Santurkar, S., Durmus, E., Ladhak, F., et al. (2023). Whose opinions
+do language models reflect? <em>ICML 2023</em>.</p>
+<p>Törnberg, P. (2024). Best practices for text annotation with large
+language models. <em>arXiv preprint arXiv:2402.05129</em>.</p>
+<p>van Dijk, T. A. (1998). <em>Ideology: A Multidisciplinary
+Approach</em>. Sage.</p>
+<p>Wang, L., Ma, C., Feng, X., et al. (2024). A survey on large language
+model based autonomous agents. <em>Frontiers of Computer Science,
+18</em>(6), 186345.</p>
+<p>Weber, M., &amp; Reichardt, L. (2024). Prompt sensitivity in
+LLM-based content analysis. <em>Computational Communication Research,
+6</em>(1), 45-72.</p>
+<p>Wodak, R. (2001). The discourse-historical approach. In R. Wodak
+&amp; M. Meyer (Eds.), <em>Methods of Critical Discourse Analysis</em>
+(pp. 63-94). Sage.</p>
+<p>Ziems, C., Held, W., Shaikh, O., et al. (2024). Can large language
+models transform computational social science? <em>Computational
+Linguistics, 50</em>(1), 237-291.</p>
+<hr />
+<h2 id="appendix-a-commdaaf-frame-codebook-v1.1">Appendix A: CommDAAF
+Frame Codebook (v1.1)</h2>
+<h3 id="frame-definitions">Frame Definitions</h3>
+<p><strong>INFORMATIONAL:</strong> Neutral presentation of facts, news,
+updates. No explicit evaluation or call to action. Includes: statistics,
+event reports, policy announcements.</p>
+<p><strong>INJUSTICE:</strong> Identifies wrongdoing, attributes blame,
+names victims and perpetrators. Includes: war crimes accusations, human
+rights violations, moral condemnation.</p>
+<p><strong>SOLIDARITY:</strong> Expresses collective identity, support,
+unity. Includes: “we stand with,” international support, community
+building.</p>
+<p><strong>HOPE:</strong> Future-oriented positive framing, resilience,
+potential for change. Includes: victory narratives, progress reports,
+optimistic projections.</p>
+<p><strong>CONFLICT:</strong> Emphasizes confrontation, struggle,
+battle. Includes: military operations, protest clashes, political
+combat.</p>
+<p><strong>CALL_TO_ACTION:</strong> Explicit directive to audience.
+Includes: donate, share, protest, vote, sanction.</p>
+<p><strong>HUMANITARIAN:</strong> Focuses on human suffering, victims’
+experiences, compassion appeals. Includes: refugee stories, casualty
+reports, aid needs.</p>
+<h3 id="coding-rules">Coding Rules</h3>
+<ol type="1">
+<li>Code <strong>dominant</strong> frame; most posts have multiple
+elements</li>
+<li>Code <strong>content</strong>, not format (hashtags, emojis are
+supplementary)</li>
+<li>HOPE requires <strong>future orientation</strong>, not just positive
+valence</li>
+<li>SOLIDARITY requires <strong>collective actor</strong> or identity
+claim</li>
+<li>CALL_TO_ACTION requires <strong>explicit directive</strong></li>
+<li>When uncertain, code INFORMATIONAL (conservative default)</li>
+<li>Document uncertainty in notes</li>
+</ol>
+<h3 id="irony-detection-v1.1-addition">Irony Detection (v1.1
+Addition)</h3>
+<ol start="8" type="1">
+<li><strong>Power inversion check:</strong> If powerful actor described
+as weak/subordinate, consider evaluative frame despite neutral
+formatting</li>
+<li><strong>Self-contradiction check:</strong> Logical contradictions in
+described policy suggest ironic critique</li>
+<li><strong>Emoji context:</strong> Laughing emojis (😂) in political
+content often signal bitter irony</li>
+</ol>
+<hr />
+<h2 id="appendix-b-agent-prompts">Appendix B: Agent Prompts</h2>
+<h3 id="coding-prompt-all-models">Coding Prompt (All Models)</h3>
+<pre><code>You are a content analyst coding social media posts about political crises.
+
+For each post, provide:
+1. frame: One of [INFORMATIONAL, INJUSTICE, SOLIDARITY, HOPE, CONFLICT, CALL_TO_ACTION, HUMANITARIAN]
+2. valence: [positive, negative, neutral]
+3. arousal: [high, medium, low]
+
+Definitions:
+[FULL CODEBOOK INSERTED]
+
+Output as JSON array. Do not explain; just code.</code></pre>
+<h3 id="reviewer-2-prompt">Reviewer 2 Prompt</h3>
+<pre><code>You are Reviewer 2 for a top political communication journal. Your job is to find fatal flaws in submitted manuscripts. Be brutal but constructive.
+
+Read the following study and identify:
+1. METHODOLOGICAL WEAKNESSES: Sampling bias, measurement validity, analytical errors
+2. ALTERNATIVE EXPLANATIONS: What else could explain these findings?
+3. OVERSTATED CLAIMS: Where do conclusions exceed evidence?
+4. MISSING ANALYSES: What should have been done but wasn&#39;t?
+
+Do not be polite. Be the reviewer who makes authors cry (constructively).</code></pre>
+<hr />
+<h2 id="appendix-c-data-availability">Appendix C: Data Availability</h2>
+<p>Coded datasets, analysis scripts, and full agent interaction logs
+available at: [repository URL]</p>
+<p>CommDAAF protocol documentation: [URL]</p>
+<hr />
+<p><em>Word count: ~4,500</em><br />
+<em>Preprint draft: March 4, 2026</em></p>
+</body>
+</html>

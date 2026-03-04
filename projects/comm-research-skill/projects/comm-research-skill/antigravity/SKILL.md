@@ -333,12 +333,63 @@ video = coder.analyze_video("tiktok.mp4", max_keyframes=5)
 
 See individual subskill SKILL.md files for full documentation.
 
+## What's New in v1.0 (March 2026)
+
+### 🔥 Adversarial Peer Review (MANDATORY)
+
+Before finalizing ANY study at 🟡 or 🔴 tier:
+
+1. **Multi-Model Critique**: Each participating model writes a "Reviewer 2" critique
+2. **Independent Reviews**: No cross-reading between reviewers
+3. **Brutal Standards**: Critiques must identify:
+   - ≥3 methodological concerns
+   - ≥2 alternative explanations  
+   - ≥1 confounding variable
+   - Specific claims that outrun evidence
+
+**Response Protocol:**
+| Critique | Response | Action Taken |
+
+**Verdict Thresholds:**
+- "Accept" from all → Proceed
+- "Minor revision" majority → Fix and proceed
+- "Major revision" from any → Must revise
+- "Reject" from any → Retract or redesign
+
+See Phase 7.5 in `../agent-academy-study-protocol.md`
+
+### 🤖 HILAR Protocol (Human-in-the-Loop Agentic Research)
+
+Formalizes how AI agents operate under human authority:
+- Human PI issues directives
+- Coordinator agent manages specialist sub-agents
+- All analytical decisions require explicit human approval
+- Cross-model adversarial review before conclusions
+
+### 📊 Frame-Specific Reliability Reporting
+
+Report agreement for EACH frame, not just aggregate κ:
+- INFORMATIONAL: typically reliable (>70%)
+- SOLIDARITY, HOPE: typically poor (<30%)
+- Flag frames with <50% agreement
+
+### 🎯 Model Bias Detection
+
+Multi-model triangulation required to detect systematic bias:
+- Single-model studies cannot detect model-specific bias
+- Deploy heterogeneous models (US + Chinese recommended)
+- Report per-model frame distributions
+- Flag >15% deviation from mean as potential bias
+
+---
+
 ## Version
 
 - Name: CommDAAF
-- Version: 0.6.0
+- Version: 1.0.0
 - Based on: DAAF (Data Analyst Augmentation Framework)
 - Changelog: 
+  - v1.0: HILAR protocol, mandatory adversarial review, frame-specific reliability, model bias detection
   - v0.6: Added P2 subskills (Literature Synthesis, Multimodal Coder)
   - v0.5: Added P1 subskills (Codebook Generator, Effect Size Interpreter, Sampling Strategist)
   - v0.4: Mandatory tier declaration, multi-label frame coding, valence dimension
