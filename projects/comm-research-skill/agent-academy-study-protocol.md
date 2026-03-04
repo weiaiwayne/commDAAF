@@ -778,6 +778,72 @@ Create `STUDY_REPORT.md` with:
 
 ---
 
+## 8.5 Phase 7.5: Adversarial Peer Review (REQUIRED)
+
+**MANDATORY for all studies before claiming conclusions.**
+
+Every study MUST undergo harsh adversarial peer review by at least one independent model/agent. This simulates "Reviewer 2" — the tough, skeptical reviewer who finds all the holes.
+
+### 8.5.1 What to Include in Review Request
+
+Send the reviewer:
+1. **Full study report** (methodology, results, conclusions)
+2. **Raw reliability metrics** (overall κ, frame-specific)
+3. **Sample size information**
+4. **Key statistical outputs**
+
+### 8.5.2 Reviewer 2 Prompt Template
+
+```markdown
+You are Reviewer 2 — the harsh but constructive peer reviewer. 
+Your job is to find every flaw, every overclaim, every methodological weakness.
+
+Review this study and identify:
+1. **Methodological flaws** — What's wrong with the design/analysis?
+2. **Alternative explanations** — What else could explain the findings?
+3. **Confounding variables** — What wasn't controlled?
+4. **Overclaims relative to evidence** — Where do conclusions exceed data?
+5. **Missing analyses** — What should have been done but wasn't?
+6. **Additional RQs** — What questions emerge from this work?
+
+Be specific. Cite evidence. Recommend fixes. Be brutal but constructive.
+```
+
+### 8.5.3 Required Actions Based on Review
+
+| Reviewer Finding | Required Action |
+|------------------|-----------------|
+| Fatal methodological flaw | **STOP.** Redesign study or retract claims. |
+| Overclaim identified | Revise language, add hedging |
+| Missing analysis | Run the analysis or justify exclusion |
+| Low-reliability frame | Note in limitations, consider exclusion |
+| Alternative explanation | Address in discussion, or run follow-up |
+
+### 8.5.4 Documentation
+
+Save reviewer output to: `REVIEWER_2_[MODEL].md`
+
+Add to study report:
+```markdown
+## Adversarial Review Summary
+- Reviewer: [model used]
+- Major issues identified: [count]
+- Issues addressed: [count]
+- Issues acknowledged in limitations: [count]
+- Issues requiring future work: [count]
+```
+
+### 8.5.5 When to Use Multiple Reviewers
+
+For 🔴 PUBLICATION tier, use **3 independent models** as reviewers:
+1. Claude (if not used for coding)
+2. GLM-4.7
+3. Kimi K2.5
+
+Synthesize critiques and address ALL major concerns before claiming publication-ready.
+
+---
+
 ## 9. Common Failures & Solutions
 
 ### Data Failures
@@ -870,9 +936,18 @@ Create `STUDY_REPORT.md` with:
 - [ ] Effect sizes reported (IRR or d)
 - [ ] Limitations documented
 
+### After Analysis (Before Conclusions)
+- [ ] **Adversarial peer review completed** (MANDATORY)
+- [ ] Reviewer issues documented in REVIEWER_2_*.md
+- [ ] Fatal flaws addressed (not just acknowledged)
+- [ ] Overclaims identified and language revised
+- [ ] Limitations section includes reviewer concerns
+
 ### Before Publication
 - [ ] Validation tier declared and appropriate
 - [ ] Human validation completed (if 🟡 or 🔴 tier)
+- [ ] Multiple reviewer models used (for 🔴 tier)
+- [ ] All reviewer issues addressed or justified
 - [ ] All files saved and version controlled
 - [ ] Results reproducible from saved files
 
@@ -932,6 +1007,9 @@ projects/[study-name]/
 | Version | Date | Changes |
 |---------|------|---------|
 | 1.0 | 2026-02-27 | Initial protocol based on #MahsaAmini study |
+| 1.1 | 2026-03-04 | Added Phase 7.5: Adversarial Peer Review (REQUIRED) |
+| | | Added peer review to Quality Control checklist |
+| | | Learned from Ukraine cross-context study reliability issues |
 
 ---
 
