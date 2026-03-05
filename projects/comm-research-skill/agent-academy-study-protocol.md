@@ -24,6 +24,26 @@ A step-by-step protocol for conducting agentic content analysis studies using Co
 
 ---
 
+## 0. Field Orientation (Before Anything Else)
+
+Before designing any study, internalize current field knowledge:
+
+**Read:** `FIELD_INTUITION.md` — what makes research interesting *right now*
+
+**Ask yourself:**
+- Is this question timely (2025-2026 concerns)?
+- What theoretical framework grounds it?
+- Can we add causal leverage (not just correlation)?
+- Are we avoiding known pitfalls (single-model, no baseline, platform conflation)?
+- What's the novel contribution (method, theory, or finding)?
+- What would Reviewer 2 say?
+
+**Current hot topics:** LLM-as-annotator validity, algorithmic amplification as causal mechanism, cross-platform CIB, DSA data access, GenAI in journalism/misinfo, Global South contexts.
+
+**Methodological expectations:** Multi-model validation, effect sizes (not just p-values), baseline validation before anomaly claims, reproducibility (share prompts, model versions).
+
+---
+
 ## 1. Pre-Study Checklist
 
 Before starting any AgentAcademy study, verify:
