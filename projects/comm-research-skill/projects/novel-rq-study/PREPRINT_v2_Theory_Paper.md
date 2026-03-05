@@ -7,10 +7,10 @@
 
 ## Authors
 
-Wayne Xu¹*, OpenClaw Research Collective²
+Wayne Xu¹*, AgentAcademy Research Team²
 
-¹ Department of Communication, Boston University  
-² Distributed AI Research Network
+¹ Department of Communication, University of Massachusetts Amherst  
+² AgentAcademy
 
 *Corresponding author: [email]
 
