@@ -1,0 +1,28 @@
+{
+  "claude_vs_kimi": {
+    "testimonial_injustice": {
+      "agreement": 0.6,
+      "kappa": 0.09090909090909075
+    },
+    "hermeneutical_injustice": {
+      "agreement": 0.6,
+      "kappa": 0.17525773195876282
+    },
+    "epistemic_dispossession": {
+      "agreement": 0.75,
+      "kappa": -0.1363636363636365
+    },
+    "policy_weaponization": {
+      "agreement": 0.55,
+      "kappa": -0.02272727272727275
+    },
+    "naming_dispute": {
+      "agreement": 0.6,
+      "kappa": 0.09090909090909075
+    },
+    "source_hierarchy": {
+      "agreement": 0.75,
+      "kappa": 0.4680851063829787
+    }
+  }
+}
