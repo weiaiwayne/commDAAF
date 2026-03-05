@@ -1,0 +1,149 @@
+{
+  "title": "7 October attacks",
+  "revisions": [
+    {
+      "revid": 1292342529,
+      "parentid": 1266242184,
+      "minor": false,
+      "user": "CoconutOctopus",
+      "userid": 33608611,
+      "timestamp": "2025-05-26T13:48:24Z",
+      "size": 87,
+      "comment": "cleanup post move"
+    },
+    {
+      "revid": 1266242184,
+      "parentid": 1256902512,
+      "minor": true,
+      "user": "EmausBot",
+      "userid": 11292982,
+      "timestamp": "2024-12-30T19:33:20Z",
+      "size": 106,
+      "comment": "Bot: Fixing double redirect from [[7 October Hamas-led attack on Israel]] to [[October 7 Hamas-led attack on Israel]]"
+    },
+    {
+      "revid": 1256902512,
+      "parentid": 1256902134,
+      "minor": true,
+      "user": "Discospinster",
+      "userid": 82432,
+      "timestamp": "2024-11-12T03:36:06Z",
+      "size": 106,
+      "comment": "Reverted edits by [[Special:Contributions/99.148.100.210|99.148.100.210]] ([[User talk:99.148.100.210|talk]]) ([[WP:HG|HG]]) (3.4.12)"
+    },
+    {
+      "revid": 1256902134,
+      "parentid": 1256902095,
+      "minor": false,
+      "user": "99.148.100.210",
+      "anon": true,
+      "userid": 0,
+      "timestamp": "2024-11-12T03:33:03Z",
+      "size": 137,
+      "comment": "[[WP:AES|\u2190]]Changed redirect target from [[7 October Hamas-led attack on Israel todo es mentira]] to [[7 October Hamas-led attack on Israel todo es mentira seg\u00fan el Vete]]"
+    },
+    {
+      "revid": 1256902095,
+      "parentid": 1252133553,
+      "minor": false,
+      "user": "99.148.100.210",
+      "anon": true,
+      "userid": 0,
+      "timestamp": "2024-11-12T03:32:43Z",
+      "size": 122,
+      "comment": "[[WP:AES|\u2190]]Changed redirect target from [[7 October Hamas-led attack on Israel]] to [[7 October Hamas-led attack on Israel todo es mentira]]"
+    },
+    {
+      "revid": 1252133553,
+      "parentid": 1250499367,
+      "minor": false,
+      "user": "NeoSyria",
+      "userid": 48576020,
+      "timestamp": "2024-10-19T23:27:41Z",
+      "size": 106,
+      "comment": "Adding template"
+    },
+    {
+      "revid": 1250499367,
+      "parentid": 1233519106,
+      "minor": true,
+      "user": "SilverLocust",
+      "userid": 26937909,
+      "timestamp": "2024-10-10T19:55:06Z",
+      "size": 79,
+      "comment": "fix double redirect (via [[WP:JWB]])"
+    },
+    {
+      "revid": 1233519106,
+      "parentid": 1233518977,
+      "minor": false,
+      "user": "Amakuru",
+      "userid": 985645,
+      "timestamp": "2024-07-09T14:15:23Z",
+      "size": 74,
+      "comment": "flip redirect following page swap"
+    },
+    {
+      "revid": 1233518977,
+      "parentid": 1233518597,
+      "minor": true,
+      "user": "Amakuru",
+      "userid": 985645,
+      "timestamp": "2024-07-09T14:14:46Z",
+      "size": 31,
+      "comment": "Amakuru moved page [[Draft:7 October attacks]] to [[7 October attacks]] without leaving a redirect: Swap two pages ([[WP:SWAP]]): complete round robin page-swap"
+    },
+    {
+      "revid": 1233518597,
+      "parentid": 1230422490,
+      "minor": true,
+      "user": "Amakuru",
+      "userid": 985645,
+      "timestamp": "2024-07-09T14:12:36Z",
+      "size": 31,
+      "comment": "Amakuru moved page [[2023 Hamas-led attack on Israel]] to [[Draft:7 October attacks]] without leaving a redirect: Swap two pages ([[WP:SWAP]])"
+    },
+    {
+      "revid": 1230422490,
+      "parentid": 1230422481,
+      "minor": false,
+      "user": "CFA",
+      "userid": 41294494,
+      "timestamp": "2024-06-22T16:35:49Z",
+      "size": 31,
+      "comment": "Retarget redirect to [[7 October attacks]] using [[:en:User:Ahecht/Scripts/pageswap.js|pageswap]]"
+    },
+    {
+      "revid": 1230422481,
+      "parentid": 1230422407,
+      "minor": true,
+      "user": "CFA",
+      "userid": 41294494,
+      "timestamp": "2024-06-22T16:35:46Z",
+      "size": 45,
+      "comment": "Clearfrienda moved page [[Draft:Move/2023 Hamas-led attack on Israel]] to [[2023 Hamas-led attack on Israel]] without leaving a redirect: [[WP:Page mover#4|Round-robin history swap]] step 3 using [[:en:User:Ahecht/Scripts/pageswap.js|pageswap]]"
+    },
+    {
+      "revid": 1230422407,
+      "parentid": 1200000446,
+      "minor": true,
+      "user": "CFA",
+      "userid": 41294494,
+      "timestamp": "2024-06-22T16:35:22Z",
+      "size": 45,
+      "comment": "Clearfrienda moved page [[7 October attacks]] to [[Draft:Move/2023 Hamas-led attack on Israel]] without leaving a redirect: [[WP:Page mover#4|Round-robin history swap]] step 1 using [[:en:User:Ahecht/Scripts/pageswap.js|pageswap]]"
+    },
+    {
+      "revid": 1200000446,
+      "parentid": 0,
+      "minor": false,
+      "user": "BilledMammal",
+      "userid": 36387381,
+      "timestamp": "2024-01-28T13:26:40Z",
+      "size": 45,
+      "comment": "[[WP:AES|\u2190]]Redirected page to [[2023 Hamas-led attack on Israel]]"
+    }
+  ],
+  "total_revisions": 14,
+  "collected_at": "2026-03-05T20:58:12.787596"
+}

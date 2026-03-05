@@ -1,0 +1,394 @@
+{
+  "cluster": "iran_cluster",
+  "started": "2026-03-05T20:59:38.555143+00:00",
+  "articles": [
+    {
+      "title": "2026 Iran war",
+      "safe_name": "2026_Iran_war",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 207074,
+      "talk_sections": 82
+    },
+    {
+      "title": "Prelude to the 2026 Iran war",
+      "safe_name": "Prelude_to_the_2026_Iran_war",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 39132,
+      "talk_sections": 37
+    },
+    {
+      "title": "Timeline of the 2026 Iran war",
+      "safe_name": "Timeline_of_the_2026_Iran_war",
+      "status": "success",
+      "revisions": 367,
+      "talk_chars": 6749,
+      "talk_sections": 5
+    },
+    {
+      "title": "Reactions to the 2026 Iran war",
+      "safe_name": "Reactions_to_the_2026_Iran_war",
+      "status": "success",
+      "revisions": 373,
+      "talk_chars": 14835,
+      "talk_sections": 17
+    },
+    {
+      "title": "List of attacks during the 2026 Iran war",
+      "safe_name": "List_of_attacks_during_the_2026_Iran_war",
+      "status": "success",
+      "revisions": 169,
+      "talk_chars": 1438,
+      "talk_sections": 2
+    },
+    {
+      "title": "Economic impact of the 2026 Iran war",
+      "safe_name": "Economic_impact_of_the_2026_Iran_war",
+      "status": "success",
+      "revisions": 70,
+      "talk_chars": 263,
+      "talk_sections": 0
+    },
+    {
+      "title": "2026 United States military buildup in the Middle East",
+      "safe_name": "2026_United_States_military_buildup_in_the_Middle_East",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 5056,
+      "talk_sections": 4
+    },
+    {
+      "title": "Iran\u2013Israel war",
+      "safe_name": "Iran-Israel_war",
+      "status": "success",
+      "revisions": 11,
+      "talk_chars": 66,
+      "talk_sections": 0
+    },
+    {
+      "title": "Twelve-Day War",
+      "safe_name": "Twelve-Day_War",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 45445,
+      "talk_sections": 16
+    },
+    {
+      "title": "2025\u20132026 Iranian protests",
+      "safe_name": "2025-2026_Iranian_protests",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 48664,
+      "talk_sections": 5
+    },
+    {
+      "title": "2026 Israeli\u2013United States strikes on Iran",
+      "safe_name": "2026_Israeli-United_States_strikes_on_Iran",
+      "status": "success",
+      "revisions": 10,
+      "talk_chars": 32,
+      "talk_sections": 0
+    },
+    {
+      "title": "Assassination of Ali Khamenei",
+      "safe_name": "Assassination_of_Ali_Khamenei",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 128230,
+      "talk_sections": 8
+    },
+    {
+      "title": "2026 Iranian strikes on Israel",
+      "safe_name": "2026_Iranian_strikes_on_Israel",
+      "status": "success"
+    },
+    {
+      "title": "2026 Iranian strikes on the United Arab Emirates",
+      "safe_name": "2026_Iranian_strikes_on_the_United_Arab_Emirates",
+      "status": "success",
+      "revisions": 133,
+      "talk_chars": 1969,
+      "talk_sections": 1
+    },
+    {
+      "title": "2026 Iranian strikes on Qatar",
+      "safe_name": "2026_Iranian_strikes_on_Qatar",
+      "status": "success",
+      "revisions": 63,
+      "talk_chars": 1288,
+      "talk_sections": 1
+    },
+    {
+      "title": "2026 Iranian strikes on Oman",
+      "safe_name": "2026_Iranian_strikes_on_Oman",
+      "status": "success",
+      "revisions": 36,
+      "talk_chars": 313,
+      "talk_sections": 0
+    },
+    {
+      "title": "2026 Iranian strikes on Akrotiri and Dhekelia",
+      "safe_name": "2026_Iranian_strikes_on_Akrotiri_and_Dhekelia",
+      "status": "success",
+      "revisions": 152,
+      "talk_chars": 4112,
+      "talk_sections": 4
+    },
+    {
+      "title": "2026 Iranian strikes on Bahrain",
+      "safe_name": "2026_Iranian_strikes_on_Bahrain",
+      "status": "success",
+      "revisions": 78,
+      "talk_chars": 864,
+      "talk_sections": 1
+    },
+    {
+      "title": "2026 Iranian strikes on Kuwait",
+      "safe_name": "2026_Iranian_strikes_on_Kuwait",
+      "status": "success",
+      "revisions": 50,
+      "talk_chars": 4051,
+      "talk_sections": 6
+    },
+    {
+      "title": "2026 Iranian strikes on Saudi Arabia",
+      "safe_name": "2026_Iranian_strikes_on_Saudi_Arabia",
+      "status": "success",
+      "revisions": 55,
+      "talk_chars": 420,
+      "talk_sections": 0
+    },
+    {
+      "title": "2026 Iranian strikes on Jordan",
+      "safe_name": "2026_Iranian_strikes_on_Jordan",
+      "status": "success"
+    },
+    {
+      "title": "2026 Iranian strikes on Iraq",
+      "safe_name": "2026_Iranian_strikes_on_Iraq",
+      "status": "success",
+      "revisions": 2
+    },
+    {
+      "title": "Cyberwarfare during the 2026 Iran war",
+      "safe_name": "Cyberwarfare_during_the_2026_Iran_war",
+      "status": "success",
+      "revisions": 27,
+      "talk_chars": 124,
+      "talk_sections": 0
+    },
+    {
+      "title": "List of Iranian officials killed during the 2026 Iran war",
+      "safe_name": "List_of_Iranian_officials_killed_during_the_2026_Iran_war",
+      "status": "success",
+      "revisions": 137,
+      "talk_chars": 5859,
+      "talk_sections": 7
+    },
+    {
+      "title": "2026 Iran massacres",
+      "safe_name": "2026_Iran_massacres",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 47647,
+      "talk_sections": 10
+    },
+    {
+      "title": "Ali Khamenei",
+      "safe_name": "Ali_Khamenei",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 77445,
+      "talk_sections": 35
+    },
+    {
+      "title": "Aziz Nasirzadeh",
+      "safe_name": "Aziz_Nasirzadeh",
+      "status": "success",
+      "revisions": 273,
+      "talk_chars": 1634,
+      "talk_sections": 1
+    },
+    {
+      "title": "Mohammad Pakpour",
+      "safe_name": "Mohammad_Pakpour",
+      "status": "success",
+      "revisions": 303,
+      "talk_chars": 6719,
+      "talk_sections": 4
+    },
+    {
+      "title": "Ali Shamkhani",
+      "safe_name": "Ali_Shamkhani",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 19720,
+      "talk_sections": 22
+    },
+    {
+      "title": "Abdolrahim Mousavi",
+      "safe_name": "Abdolrahim_Mousavi",
+      "status": "success",
+      "revisions": 304,
+      "talk_chars": 1070,
+      "talk_sections": 2
+    },
+    {
+      "title": "Islamic Revolutionary Guard Corps",
+      "safe_name": "Islamic_Revolutionary_Guard_Corps",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 23236,
+      "talk_sections": 20
+    },
+    {
+      "title": "Islamic Republic of Iran Army",
+      "safe_name": "Islamic_Republic_of_Iran_Army",
+      "status": "success",
+      "revisions": 453,
+      "talk_chars": 7541,
+      "talk_sections": 3
+    },
+    {
+      "title": "United States Central Command",
+      "safe_name": "United_States_Central_Command",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 17864,
+      "talk_sections": 14
+    },
+    {
+      "title": "Israel Defense Forces",
+      "safe_name": "Israel_Defense_Forces",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 6425,
+      "talk_sections": 6
+    },
+    {
+      "title": "Donald Trump",
+      "safe_name": "Donald_Trump",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 275788,
+      "talk_sections": 23
+    },
+    {
+      "title": "Evacuations during the 2026 Iran war",
+      "safe_name": "Evacuations_during_the_2026_Iran_war",
+      "status": "success",
+      "revisions": 14
+    },
+    {
+      "title": "Iranian rial",
+      "safe_name": "Iranian_rial",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 5667,
+      "talk_sections": 4
+    },
+    {
+      "title": "International reactions to the 2026 Iran war",
+      "safe_name": "International_reactions_to_the_2026_Iran_war",
+      "status": "success"
+    },
+    {
+      "title": "Iran\u2013United States relations",
+      "safe_name": "Iran-United_States_relations",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 3404,
+      "talk_sections": 5
+    },
+    {
+      "title": "Iran\u2013Israel proxy conflict",
+      "safe_name": "Iran-Israel_proxy_conflict",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 13488,
+      "talk_sections": 4
+    },
+    {
+      "title": "Iranian nuclear program",
+      "safe_name": "Iranian_nuclear_program",
+      "status": "success",
+      "revisions": 12
+    },
+    {
+      "title": "2024 Iran\u2013Israel conflict",
+      "safe_name": "2024_Iran-Israel_conflict",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 42415,
+      "talk_sections": 4
+    },
+    {
+      "title": "Middle Eastern crisis (2023\u2013present)",
+      "safe_name": "Middle_Eastern_crisis_(2023-present)",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 6974,
+      "talk_sections": 3
+    },
+    {
+      "title": "Iran\u2013Israel relations",
+      "safe_name": "Iran-Israel_relations",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 9782,
+      "talk_sections": 2
+    },
+    {
+      "title": "Iran and state-sponsored terrorism",
+      "safe_name": "Iran_and_state-sponsored_terrorism",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 1496,
+      "talk_sections": 2
+    },
+    {
+      "title": "Nuclear program of Iran",
+      "safe_name": "Nuclear_program_of_Iran",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 13049,
+      "talk_sections": 8
+    },
+    {
+      "title": "Axis of Resistance",
+      "safe_name": "Axis_of_Resistance",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 4518,
+      "talk_sections": 6
+    },
+    {
+      "title": "Houthis",
+      "safe_name": "Houthis",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 6346,
+      "talk_sections": 4
+    },
+    {
+      "title": "Hezbollah",
+      "safe_name": "Hezbollah",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 7452,
+      "talk_sections": 5
+    },
+    {
+      "title": "Benjamin Netanyahu",
+      "safe_name": "Benjamin_Netanyahu",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 7999,
+      "talk_sections": 5
+    }
+  ],
+  "successful": 50,
+  "failed": 0,
+  "finished": "2026-03-05T21:02:10.611873+00:00"
+}

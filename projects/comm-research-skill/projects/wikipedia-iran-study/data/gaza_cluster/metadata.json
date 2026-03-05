@@ -1,0 +1,366 @@
+{
+  "cluster": "gaza_cluster",
+  "started": "2026-03-05T21:02:10.613172+00:00",
+  "articles": [
+    {
+      "title": "Gaza war",
+      "safe_name": "Gaza_war",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 73894,
+      "talk_sections": 4
+    },
+    {
+      "title": "2023 Hamas-led attack on Israel",
+      "safe_name": "2023_Hamas-led_attack_on_Israel",
+      "status": "success",
+      "revisions": 10,
+      "talk_chars": 83,
+      "talk_sections": 0
+    },
+    {
+      "title": "Israeli invasion of the Gaza Strip (2023\u2013present)",
+      "safe_name": "Israeli_invasion_of_the_Gaza_Strip_(2023-present)",
+      "status": "success",
+      "revisions": 2,
+      "talk_chars": 74,
+      "talk_sections": 0
+    },
+    {
+      "title": "Timeline of the Gaza war",
+      "safe_name": "Timeline_of_the_Gaza_war",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 7322,
+      "talk_sections": 4
+    },
+    {
+      "title": "International reactions to the 2023 Hamas-led attack on Israel",
+      "safe_name": "International_reactions_to_the_2023_Hamas-led_attack_on_Israel",
+      "status": "success"
+    },
+    {
+      "title": "Gaza genocide",
+      "safe_name": "Gaza_genocide",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 54268,
+      "talk_sections": 2
+    },
+    {
+      "title": "List of military engagements during the Gaza war",
+      "safe_name": "List_of_military_engagements_during_the_Gaza_war",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 2976,
+      "talk_sections": 1
+    },
+    {
+      "title": "Outline of the Gaza war",
+      "safe_name": "Outline_of_the_Gaza_war",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 1812,
+      "talk_sections": 2
+    },
+    {
+      "title": "International reactions to the Israeli invasion of the Gaza Strip",
+      "safe_name": "International_reactions_to_the_Israeli_invasion_of_the_Gaza_Strip",
+      "status": "success"
+    },
+    {
+      "title": "Middle Eastern crisis (2023\u2013present)",
+      "safe_name": "Middle_Eastern_crisis_(2023-present)",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 6974,
+      "talk_sections": 3
+    },
+    {
+      "title": "Al-Ahli Arab Hospital explosion",
+      "safe_name": "Al-Ahli_Arab_Hospital_explosion",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 8126,
+      "talk_sections": 3
+    },
+    {
+      "title": "Flour Massacre",
+      "safe_name": "Flour_Massacre",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 37688,
+      "talk_sections": 15
+    },
+    {
+      "title": "Nuseirat rescue and massacre",
+      "safe_name": "Nuseirat_rescue_and_massacre",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 16214,
+      "talk_sections": 2
+    },
+    {
+      "title": "Israeli siege of Gaza",
+      "safe_name": "Israeli_siege_of_Gaza",
+      "status": "success"
+    },
+    {
+      "title": "2025 Gaza City offensive",
+      "safe_name": "2025_Gaza_City_offensive",
+      "status": "success",
+      "revisions": 294,
+      "talk_chars": 20230,
+      "talk_sections": 8
+    },
+    {
+      "title": "2024 Iran\u2013Israel conflict",
+      "safe_name": "2024_Iran-Israel_conflict",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 42415,
+      "talk_sections": 4
+    },
+    {
+      "title": "2024 Israeli military operation in the West Bank",
+      "safe_name": "2024_Israeli_military_operation_in_the_West_Bank",
+      "status": "success",
+      "revisions": 365,
+      "talk_chars": 19377,
+      "talk_sections": 12
+    },
+    {
+      "title": "Israeli invasion of Rafah",
+      "safe_name": "Israeli_invasion_of_Rafah",
+      "status": "success",
+      "revisions": 16,
+      "talk_chars": 387,
+      "talk_sections": 1
+    },
+    {
+      "title": "2024 Nuseirat refugee camp hostage rescue",
+      "safe_name": "2024_Nuseirat_refugee_camp_hostage_rescue",
+      "status": "success"
+    },
+    {
+      "title": "2024 Lebanon pager attacks",
+      "safe_name": "2024_Lebanon_pager_attacks",
+      "status": "success",
+      "revisions": 2
+    },
+    {
+      "title": "Israel\u2013Hezbollah conflict (2023\u2013present)",
+      "safe_name": "Israel-Hezbollah_conflict_(2023-present)",
+      "status": "success",
+      "revisions": 1,
+      "talk_chars": 106,
+      "talk_sections": 0
+    },
+    {
+      "title": "2025 Gaza aid convoy killings",
+      "safe_name": "2025_Gaza_aid_convoy_killings",
+      "status": "success"
+    },
+    {
+      "title": "Blockade of the Gaza Strip",
+      "safe_name": "Blockade_of_the_Gaza_Strip",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 18593,
+      "talk_sections": 6
+    },
+    {
+      "title": "Gaza Pier",
+      "safe_name": "Gaza_Pier",
+      "status": "success"
+    },
+    {
+      "title": "Battle of Gaza (2023\u2013present)",
+      "safe_name": "Battle_of_Gaza_(2023-present)",
+      "status": "success"
+    },
+    {
+      "title": "Hamas",
+      "safe_name": "Hamas",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 34092,
+      "talk_sections": 7
+    },
+    {
+      "title": "Izz ad-Din al-Qassam Brigades",
+      "safe_name": "Izz_ad-Din_al-Qassam_Brigades",
+      "status": "success",
+      "revisions": 8,
+      "talk_chars": 92,
+      "talk_sections": 0
+    },
+    {
+      "title": "Benjamin Netanyahu",
+      "safe_name": "Benjamin_Netanyahu",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 7999,
+      "talk_sections": 5
+    },
+    {
+      "title": "Yoav Gallant",
+      "safe_name": "Yoav_Gallant",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 23404,
+      "talk_sections": 18
+    },
+    {
+      "title": "Yahya Sinwar",
+      "safe_name": "Yahya_Sinwar",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 10279,
+      "talk_sections": 5
+    },
+    {
+      "title": "Ismail Haniyeh",
+      "safe_name": "Ismail_Haniyeh",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 1392,
+      "talk_sections": 2
+    },
+    {
+      "title": "Israel Defense Forces",
+      "safe_name": "Israel_Defense_Forces",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 6425,
+      "talk_sections": 6
+    },
+    {
+      "title": "Palestinian Islamic Jihad",
+      "safe_name": "Palestinian_Islamic_Jihad",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 13815,
+      "talk_sections": 12
+    },
+    {
+      "title": "Hezbollah",
+      "safe_name": "Hezbollah",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 7452,
+      "talk_sections": 5
+    },
+    {
+      "title": "Houthis",
+      "safe_name": "Houthis",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 6346,
+      "talk_sections": 4
+    },
+    {
+      "title": "Gaza humanitarian crisis",
+      "safe_name": "Gaza_humanitarian_crisis",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 3729,
+      "talk_sections": 1
+    },
+    {
+      "title": "Impact of the Gaza war on children",
+      "safe_name": "Impact_of_the_Gaza_war_on_children",
+      "status": "success"
+    },
+    {
+      "title": "Environmental impact of the Gaza war",
+      "safe_name": "Environmental_impact_of_the_Gaza_war",
+      "status": "success",
+      "revisions": 236,
+      "talk_chars": 12771,
+      "talk_sections": 5
+    },
+    {
+      "title": "South Africa v. Israel (Genocide Convention)",
+      "safe_name": "South_Africa_v._Israel_(Genocide_Convention)",
+      "status": "success",
+      "revisions": 3,
+      "talk_chars": 109,
+      "talk_sections": 0
+    },
+    {
+      "title": "Nicaragua v. Germany (Genocide Convention)",
+      "safe_name": "Nicaragua_v._Germany_(Genocide_Convention)",
+      "status": "success"
+    },
+    {
+      "title": "Allegations of genocide in the 2023 Israeli attack on Gaza",
+      "safe_name": "Allegations_of_genocide_in_the_2023_Israeli_attack_on_Gaza",
+      "status": "success",
+      "revisions": 1,
+      "talk_chars": 79,
+      "talk_sections": 0
+    },
+    {
+      "title": "Human shield",
+      "safe_name": "Human_shield",
+      "status": "success",
+      "revisions": 500,
+      "talk_chars": 5836,
+      "talk_sections": 5
+    },
+    {
+      "title": "Israeli\u2013Palestinian conflict hostages",
+      "safe_name": "Israeli-Palestinian_conflict_hostages",
+      "status": "success"
+    },
+    {
+      "title": "2023 Israel\u2013Hamas ceasefire",
+      "safe_name": "2023_Israel-Hamas_ceasefire",
+      "status": "success",
+      "revisions": 2,
+      "talk_chars": 89,
+      "talk_sections": 0
+    },
+    {
+      "title": "Sde Teiman",
+      "safe_name": "Sde_Teiman",
+      "status": "success",
+      "revisions": 1
+    },
+    {
+      "title": "Misinformation in the Israel\u2013Hamas war",
+      "safe_name": "Misinformation_in_the_Israel-Hamas_war",
+      "status": "success",
+      "revisions": 1,
+      "talk_chars": 96,
+      "talk_sections": 0
+    },
+    {
+      "title": "Journalists killed in the Israel\u2013Hamas war",
+      "safe_name": "Journalists_killed_in_the_Israel-Hamas_war",
+      "status": "success"
+    },
+    {
+      "title": "Ministry of Health (Gaza Strip)",
+      "safe_name": "Ministry_of_Health_(Gaza_Strip)",
+      "status": "success"
+    },
+    {
+      "title": "Wikipedia and the Israeli\u2013Palestinian conflict",
+      "safe_name": "Wikipedia_and_the_Israeli-Palestinian_conflict",
+      "status": "success",
+      "revisions": 472,
+      "talk_chars": 10604,
+      "talk_sections": 5
+    },
+    {
+      "title": "Protests against the Israeli invasion of the Gaza Strip",
+      "safe_name": "Protests_against_the_Israeli_invasion_of_the_Gaza_Strip",
+      "status": "success"
+    }
+  ],
+  "successful": 50,
+  "failed": 0,
+  "finished": "2026-03-05T21:04:33.266101+00:00"
+}
