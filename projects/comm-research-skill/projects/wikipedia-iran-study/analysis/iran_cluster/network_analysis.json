@@ -1,0 +1,374 @@
+{
+  "cluster": "iran_cluster",
+  "network_stats": {
+    "edges": 506,
+    "nodes": 3157,
+    "conflict_pairs": 506
+  },
+  "top_conflict_pairs": [
+    {
+      "editor1": "Contributions/Space4Time3Continuum2x",
+      "editor2": "Space4Time3Continuum2x",
+      "mutual_reverts": 22
+    },
+    {
+      "editor1": "Contributions/47.63.235.56",
+      "editor2": "Pahlevun",
+      "mutual_reverts": 16
+    },
+    {
+      "editor1": "Contributions/Pachu Kannan",
+      "editor2": "Pachu Kannan",
+      "mutual_reverts": 10
+    },
+    {
+      "editor1": "Cattenion",
+      "editor2": "Contributions/Cattenion",
+      "mutual_reverts": 8
+    },
+    {
+      "editor1": "Contributions/ErnestKrause",
+      "editor2": "Space4Time3Continuum2x",
+      "mutual_reverts": 8
+    },
+    {
+      "editor1": "Contribs/Pachu Kannan",
+      "editor2": "Pachu Kannan",
+      "mutual_reverts": 6
+    },
+    {
+      "editor1": "Contributions/Space4Time3Continuum2x",
+      "editor2": "Mandruss",
+      "mutual_reverts": 6
+    },
+    {
+      "editor1": "82.112.144.10",
+      "editor2": "Contributions/David in DC",
+      "mutual_reverts": 6
+    },
+    {
+      "editor1": "Contributions/Boston Mayflower",
+      "editor2": "Knightoftheswords281",
+      "mutual_reverts": 6
+    },
+    {
+      "editor1": "Annh07",
+      "editor2": "Contribs/197.29.107.138",
+      "mutual_reverts": 6
+    },
+    {
+      "editor1": "Contributions/Thegreatrebellion",
+      "editor2": "Thegreatrebellion",
+      "mutual_reverts": 4
+    },
+    {
+      "editor1": "DuncanHill",
+      "editor2": "and",
+      "mutual_reverts": 4
+    },
+    {
+      "editor1": "Contributions/NeoSyria",
+      "editor2": "NeoSyria",
+      "mutual_reverts": 4
+    },
+    {
+      "editor1": "Contributions/PLMandarynka",
+      "editor2": "DiodotusNicator",
+      "mutual_reverts": 4
+    },
+    {
+      "editor1": "Contributions/Gorgonopsi",
+      "editor2": "DiodotusNicator",
+      "mutual_reverts": 4
+    },
+    {
+      "editor1": "Contributions/Montblamc1",
+      "editor2": "DiodotusNicator",
+      "mutual_reverts": 4
+    },
+    {
+      "editor1": "Boud",
+      "editor2": "Contributions/Ronnnaldo7",
+      "mutual_reverts": 4
+    },
+    {
+      "editor1": "Contributions/PolishHamster",
+      "editor2": "Mandruss",
+      "mutual_reverts": 4
+    },
+    {
+      "editor1": "Contributions/ErnestKrause",
+      "editor2": "Mandruss",
+      "mutual_reverts": 4
+    },
+    {
+      "editor1": "Contributions/Golem08",
+      "editor2": "Mandruss",
+      "mutual_reverts": 4
+    }
+  ],
+  "top_reverters": [
+    {
+      "user": "Mandruss",
+      "reverts_made": 31,
+      "total_edits": 88,
+      "articles_edited": 1,
+      "revert_ratio": 0.3522727272727273
+    },
+    {
+      "user": "Space4Time3Continuum2x",
+      "reverts_made": 30,
+      "total_edits": 114,
+      "articles_edited": 1,
+      "revert_ratio": 0.2631578947368421
+    },
+    {
+      "user": "Pahlevun",
+      "reverts_made": 16,
+      "total_edits": 145,
+      "articles_edited": 8,
+      "revert_ratio": 0.1103448275862069
+    },
+    {
+      "user": "Materialscientist",
+      "reverts_made": 15,
+      "total_edits": 16,
+      "articles_edited": 11,
+      "revert_ratio": 0.9375
+    },
+    {
+      "user": "Abo Yemen",
+      "reverts_made": 12,
+      "total_edits": 75,
+      "articles_edited": 5,
+      "revert_ratio": 0.16
+    },
+    {
+      "user": "Retired User 44052",
+      "reverts_made": 11,
+      "total_edits": 35,
+      "articles_edited": 2,
+      "revert_ratio": 0.3142857142857143
+    },
+    {
+      "user": "NPguy",
+      "reverts_made": 10,
+      "total_edits": 41,
+      "articles_edited": 1,
+      "revert_ratio": 0.24390243902439024
+    },
+    {
+      "user": "DiodotusNicator",
+      "reverts_made": 9,
+      "total_edits": 21,
+      "articles_edited": 2,
+      "revert_ratio": 0.42857142857142855
+    },
+    {
+      "user": "Pachu Kannan",
+      "reverts_made": 8,
+      "total_edits": 235,
+      "articles_edited": 18,
+      "revert_ratio": 0.03404255319148936
+    },
+    {
+      "user": "NeoSyria",
+      "reverts_made": 7,
+      "total_edits": 52,
+      "articles_edited": 11,
+      "revert_ratio": 0.1346153846153846
+    },
+    {
+      "user": "BilCat",
+      "reverts_made": 7,
+      "total_edits": 10,
+      "articles_edited": 1,
+      "revert_ratio": 0.7
+    },
+    {
+      "user": "Buckshot06",
+      "reverts_made": 7,
+      "total_edits": 56,
+      "articles_edited": 2,
+      "revert_ratio": 0.125
+    },
+    {
+      "user": "TheTimesAreAChanging",
+      "reverts_made": 7,
+      "total_edits": 13,
+      "articles_edited": 1,
+      "revert_ratio": 0.5384615384615384
+    },
+    {
+      "user": "Baratiiman",
+      "reverts_made": 6,
+      "total_edits": 42,
+      "articles_edited": 7,
+      "revert_ratio": 0.14285714285714285
+    },
+    {
+      "user": "AlexBobCharles",
+      "reverts_made": 5,
+      "total_edits": 25,
+      "articles_edited": 7,
+      "revert_ratio": 0.2
+    },
+    {
+      "user": "82.112.144.10",
+      "reverts_made": 5,
+      "total_edits": 11,
+      "articles_edited": 1,
+      "revert_ratio": 0.45454545454545453
+    },
+    {
+      "user": "\u05d9\u05e0\u05d9\u05d1 \u05d4\u05d5\u05e8\u05d5\u05df",
+      "reverts_made": 5,
+      "total_edits": 18,
+      "articles_edited": 2,
+      "revert_ratio": 0.2777777777777778
+    },
+    {
+      "user": "BasselHarfouch",
+      "reverts_made": 4,
+      "total_edits": 152,
+      "articles_edited": 19,
+      "revert_ratio": 0.02631578947368421
+    },
+    {
+      "user": "Cattenion",
+      "reverts_made": 4,
+      "total_edits": 62,
+      "articles_edited": 3,
+      "revert_ratio": 0.06451612903225806
+    },
+    {
+      "user": "Ecrusized",
+      "reverts_made": 4,
+      "total_edits": 21,
+      "articles_edited": 6,
+      "revert_ratio": 0.19047619047619047
+    }
+  ],
+  "most_reverted": [
+    {
+      "user": "Contributions/Space4Time3Continuum2x",
+      "times_reverted": 17,
+      "total_edits": 0,
+      "reverted_ratio": 17.0
+    },
+    {
+      "user": "revision",
+      "times_reverted": 12,
+      "total_edits": 0,
+      "reverted_ratio": 12.0
+    },
+    {
+      "user": "Contributions/47.63.235.56",
+      "times_reverted": 11,
+      "total_edits": 0,
+      "reverted_ratio": 11.0
+    },
+    {
+      "user": "Contributions/ErnestKrause",
+      "times_reverted": 7,
+      "total_edits": 0,
+      "reverted_ratio": 7.0
+    },
+    {
+      "user": "Contributions/Pachu Kannan",
+      "times_reverted": 5,
+      "total_edits": 0,
+      "reverted_ratio": 5.0
+    },
+    {
+      "user": "Contributions/Cattenion",
+      "times_reverted": 4,
+      "total_edits": 0,
+      "reverted_ratio": 4.0
+    },
+    {
+      "user": "Contributions/PolishHamster",
+      "times_reverted": 4,
+      "total_edits": 0,
+      "reverted_ratio": 4.0
+    },
+    {
+      "user": "Contributions/Contributer232312",
+      "times_reverted": 4,
+      "total_edits": 0,
+      "reverted_ratio": 4.0
+    },
+    {
+      "user": "Contributions/Rafi Chazon",
+      "times_reverted": 4,
+      "total_edits": 0,
+      "reverted_ratio": 4.0
+    },
+    {
+      "user": "Contributions/~2025-43301-50",
+      "times_reverted": 4,
+      "total_edits": 0,
+      "reverted_ratio": 4.0
+    },
+    {
+      "user": "Contributions/AlexBobCharles",
+      "times_reverted": 3,
+      "total_edits": 0,
+      "reverted_ratio": 3.0
+    },
+    {
+      "user": "Contributions/BasselHarfouch",
+      "times_reverted": 3,
+      "total_edits": 0,
+      "reverted_ratio": 3.0
+    },
+    {
+      "user": "and",
+      "times_reverted": 3,
+      "total_edits": 0,
+      "reverted_ratio": 3.0
+    },
+    {
+      "user": "Contributions/Lova Falk",
+      "times_reverted": 3,
+      "total_edits": 0,
+      "reverted_ratio": 3.0
+    },
+    {
+      "user": "Contributions/Mox La Push",
+      "times_reverted": 3,
+      "total_edits": 0,
+      "reverted_ratio": 3.0
+    },
+    {
+      "user": "Contributions/Montblamc1",
+      "times_reverted": 3,
+      "total_edits": 0,
+      "reverted_ratio": 3.0
+    },
+    {
+      "user": "Contribs/Pachu Kannan",
+      "times_reverted": 3,
+      "total_edits": 0,
+      "reverted_ratio": 3.0
+    },
+    {
+      "user": "Contributions/Golem08",
+      "times_reverted": 3,
+      "total_edits": 0,
+      "reverted_ratio": 3.0
+    },
+    {
+      "user": "Contributions/Pahlevun",
+      "times_reverted": 3,
+      "total_edits": 0,
+      "reverted_ratio": 3.0
+    },
+    {
+      "user": "Contributions/82.33.72.42",
+      "times_reverted": 3,
+      "total_edits": 0,
+      "reverted_ratio": 3.0
+    }
+  ]
+}

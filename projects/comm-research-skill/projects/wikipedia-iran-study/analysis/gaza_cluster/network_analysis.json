@@ -1,0 +1,374 @@
+{
+  "cluster": "gaza_cluster",
+  "network_stats": {
+    "edges": 330,
+    "nodes": 1909,
+    "conflict_pairs": 330
+  },
+  "top_conflict_pairs": [
+    {
+      "editor1": "Contributions/Pachu Kannan",
+      "editor2": "Pachu Kannan",
+      "mutual_reverts": 18
+    },
+    {
+      "editor1": "Contributions/Alaexis",
+      "editor2": "Raskolnikov.Rev",
+      "mutual_reverts": 14
+    },
+    {
+      "editor1": "DuncanHill",
+      "editor2": "and",
+      "mutual_reverts": 12
+    },
+    {
+      "editor1": "Contributions/Evaporation123",
+      "editor2": "Evaporation123",
+      "mutual_reverts": 8
+    },
+    {
+      "editor1": "Contributions/2601:140:9481:5100:B1:88F7:564B:8180",
+      "editor2": "Yoshi24517",
+      "mutual_reverts": 8
+    },
+    {
+      "editor1": "-",
+      "editor2": "Iskandar323",
+      "mutual_reverts": 8
+    },
+    {
+      "editor1": "Closetside",
+      "editor2": "Contributions/Closetside",
+      "mutual_reverts": 8
+    },
+    {
+      "editor1": "Contributions/XDanielx",
+      "editor2": "Raskolnikov.Rev",
+      "mutual_reverts": 6
+    },
+    {
+      "editor1": "Contributions/M.Bitton",
+      "editor2": "The Mountain of Eden",
+      "mutual_reverts": 6
+    },
+    {
+      "editor1": "Contributions/Genabab",
+      "editor2": "Genabab",
+      "mutual_reverts": 4
+    },
+    {
+      "editor1": "Arp242",
+      "editor2": "Contributions/50.219.18.10",
+      "mutual_reverts": 4
+    },
+    {
+      "editor1": "Contributions/2A0D:6FC0:691:6700:45E9:7537:C39B:B53E",
+      "editor2": "Materialscientist",
+      "mutual_reverts": 4
+    },
+    {
+      "editor1": "Contributions/Helpfulguy101",
+      "editor2": "Totalstgamer",
+      "mutual_reverts": 4
+    },
+    {
+      "editor1": "Contributions/Closetside",
+      "editor2": "Raskolnikov.Rev",
+      "mutual_reverts": 4
+    },
+    {
+      "editor1": "Contributions/Raskolnikov.Rev",
+      "editor2": "PhotogenicScientist",
+      "mutual_reverts": 4
+    },
+    {
+      "editor1": "Contributions/Urip74",
+      "editor2": "Nableezy",
+      "mutual_reverts": 4
+    },
+    {
+      "editor1": "Contributions/Alaexis",
+      "editor2": "Nableezy",
+      "mutual_reverts": 4
+    },
+    {
+      "editor1": "Contributions/Space4Time3Continuum2x",
+      "editor2": "Space4Time3Continuum2x",
+      "mutual_reverts": 4
+    },
+    {
+      "editor1": "Cinaroot",
+      "editor2": "Contributions/Cinaroot",
+      "mutual_reverts": 4
+    },
+    {
+      "editor1": "Cinaroot",
+      "editor2": "Contributions/FourPi",
+      "mutual_reverts": 4
+    }
+  ],
+  "top_reverters": [
+    {
+      "user": "Raskolnikov.Rev",
+      "reverts_made": 21,
+      "total_edits": 80,
+      "articles_edited": 7,
+      "revert_ratio": 0.2625
+    },
+    {
+      "user": "Abo Yemen",
+      "reverts_made": 19,
+      "total_edits": 89,
+      "articles_edited": 7,
+      "revert_ratio": 0.21348314606741572
+    },
+    {
+      "user": "Nableezy",
+      "reverts_made": 17,
+      "total_edits": 42,
+      "articles_edited": 8,
+      "revert_ratio": 0.40476190476190477
+    },
+    {
+      "user": "Pachu Kannan",
+      "reverts_made": 11,
+      "total_edits": 332,
+      "articles_edited": 15,
+      "revert_ratio": 0.03313253012048193
+    },
+    {
+      "user": "Cinaroot",
+      "reverts_made": 9,
+      "total_edits": 72,
+      "articles_edited": 9,
+      "revert_ratio": 0.125
+    },
+    {
+      "user": "Alaexis",
+      "reverts_made": 7,
+      "total_edits": 90,
+      "articles_edited": 10,
+      "revert_ratio": 0.07777777777777778
+    },
+    {
+      "user": "Genabab",
+      "reverts_made": 6,
+      "total_edits": 64,
+      "articles_edited": 9,
+      "revert_ratio": 0.09375
+    },
+    {
+      "user": "Totalstgamer",
+      "reverts_made": 6,
+      "total_edits": 30,
+      "articles_edited": 2,
+      "revert_ratio": 0.2
+    },
+    {
+      "user": "DuncanHill",
+      "reverts_made": 6,
+      "total_edits": 11,
+      "articles_edited": 3,
+      "revert_ratio": 0.5454545454545454
+    },
+    {
+      "user": "M.Bitton",
+      "reverts_made": 6,
+      "total_edits": 28,
+      "articles_edited": 7,
+      "revert_ratio": 0.21428571428571427
+    },
+    {
+      "user": "Evaporation123",
+      "reverts_made": 5,
+      "total_edits": 305,
+      "articles_edited": 8,
+      "revert_ratio": 0.01639344262295082
+    },
+    {
+      "user": "Bluethricecreamman",
+      "reverts_made": 5,
+      "total_edits": 9,
+      "articles_edited": 3,
+      "revert_ratio": 0.5555555555555556
+    },
+    {
+      "user": "\u00cfvana",
+      "reverts_made": 5,
+      "total_edits": 17,
+      "articles_edited": 3,
+      "revert_ratio": 0.29411764705882354
+    },
+    {
+      "user": "Iskandar323",
+      "reverts_made": 5,
+      "total_edits": 135,
+      "articles_edited": 9,
+      "revert_ratio": 0.037037037037037035
+    },
+    {
+      "user": "Closetside",
+      "reverts_made": 5,
+      "total_edits": 24,
+      "articles_edited": 4,
+      "revert_ratio": 0.20833333333333334
+    },
+    {
+      "user": "The Mountain of Eden",
+      "reverts_made": 5,
+      "total_edits": 26,
+      "articles_edited": 4,
+      "revert_ratio": 0.19230769230769232
+    },
+    {
+      "user": "Gr\u00e5bergs Gr\u00e5a S\u00e5ng",
+      "reverts_made": 5,
+      "total_edits": 123,
+      "articles_edited": 3,
+      "revert_ratio": 0.04065040650406504
+    },
+    {
+      "user": "Materialscientist",
+      "reverts_made": 4,
+      "total_edits": 4,
+      "articles_edited": 2,
+      "revert_ratio": 1.0
+    },
+    {
+      "user": "Yoshi24517",
+      "reverts_made": 4,
+      "total_edits": 4,
+      "articles_edited": 1,
+      "revert_ratio": 1.0
+    },
+    {
+      "user": "Number 57",
+      "reverts_made": 4,
+      "total_edits": 33,
+      "articles_edited": 2,
+      "revert_ratio": 0.12121212121212122
+    }
+  ],
+  "most_reverted": [
+    {
+      "user": "Contributions/Alaexis",
+      "times_reverted": 14,
+      "total_edits": 0,
+      "reverted_ratio": 14.0
+    },
+    {
+      "user": "Contributions/Pachu Kannan",
+      "times_reverted": 11,
+      "total_edits": 0,
+      "reverted_ratio": 11.0
+    },
+    {
+      "user": "and",
+      "times_reverted": 7,
+      "total_edits": 0,
+      "reverted_ratio": 7.0
+    },
+    {
+      "user": "Contributions/Closetside",
+      "times_reverted": 7,
+      "total_edits": 0,
+      "reverted_ratio": 7.0
+    },
+    {
+      "user": "Contributions/Abo Yemen",
+      "times_reverted": 6,
+      "total_edits": 0,
+      "reverted_ratio": 6.0
+    },
+    {
+      "user": "Contributions/Evaporation123",
+      "times_reverted": 4,
+      "total_edits": 0,
+      "reverted_ratio": 4.0
+    },
+    {
+      "user": "Contributions/2601:140:9481:5100:B1:88F7:564B:8180",
+      "times_reverted": 4,
+      "total_edits": 0,
+      "reverted_ratio": 4.0
+    },
+    {
+      "user": "Contributions/Raskolnikov.Rev",
+      "times_reverted": 4,
+      "total_edits": 0,
+      "reverted_ratio": 4.0
+    },
+    {
+      "user": "Contributions/XDanielx",
+      "times_reverted": 4,
+      "total_edits": 0,
+      "reverted_ratio": 4.0
+    },
+    {
+      "user": "-",
+      "times_reverted": 4,
+      "total_edits": 0,
+      "reverted_ratio": 4.0
+    },
+    {
+      "user": "Contributions/Nehushtani",
+      "times_reverted": 4,
+      "total_edits": 0,
+      "reverted_ratio": 4.0
+    },
+    {
+      "user": "Contributions/Makeandtoss",
+      "times_reverted": 4,
+      "total_edits": 0,
+      "reverted_ratio": 4.0
+    },
+    {
+      "user": "Contributions/Davefelmer",
+      "times_reverted": 4,
+      "total_edits": 0,
+      "reverted_ratio": 4.0
+    },
+    {
+      "user": "Contributions/\u05d8\u05d1\u05e2\u05ea-\u05d6\u05e8\u05dd",
+      "times_reverted": 3,
+      "total_edits": 0,
+      "reverted_ratio": 3.0
+    },
+    {
+      "user": "Contributions/Utilisateur19911",
+      "times_reverted": 3,
+      "total_edits": 0,
+      "reverted_ratio": 3.0
+    },
+    {
+      "user": "Contributions/BilledMammal",
+      "times_reverted": 3,
+      "total_edits": 0,
+      "reverted_ratio": 3.0
+    },
+    {
+      "user": "Contributions/Ali Ahwazi",
+      "times_reverted": 3,
+      "total_edits": 0,
+      "reverted_ratio": 3.0
+    },
+    {
+      "user": "Contributions/Iskandar323",
+      "times_reverted": 3,
+      "total_edits": 0,
+      "reverted_ratio": 3.0
+    },
+    {
+      "user": "Contributions/Cinaroot",
+      "times_reverted": 3,
+      "total_edits": 0,
+      "reverted_ratio": 3.0
+    },
+    {
+      "user": "Contributions/Mox La Push",
+      "times_reverted": 3,
+      "total_edits": 0,
+      "reverted_ratio": 3.0
+    }
+  ]
+}

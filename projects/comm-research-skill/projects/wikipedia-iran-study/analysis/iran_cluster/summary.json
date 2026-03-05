@@ -1,0 +1,133 @@
+{
+  "cluster": "iran_cluster",
+  "total_revisions": 15592,
+  "total_reverts": 575,
+  "unique_editors": 3157,
+  "network_edges": 506,
+  "top_reverters": [
+    [
+      "Mandruss",
+      31
+    ],
+    [
+      "Space4Time3Continuum2x",
+      30
+    ],
+    [
+      "Pahlevun",
+      16
+    ],
+    [
+      "Materialscientist",
+      15
+    ],
+    [
+      "Abo Yemen",
+      12
+    ],
+    [
+      "Retired User 44052",
+      11
+    ],
+    [
+      "NPguy",
+      10
+    ],
+    [
+      "DiodotusNicator",
+      9
+    ],
+    [
+      "Pachu Kannan",
+      8
+    ],
+    [
+      "NeoSyria",
+      7
+    ]
+  ],
+  "most_reverted": [
+    [
+      "Maxwhollymoralground",
+      1
+    ],
+    [
+      "184.153.21.19",
+      1
+    ],
+    [
+      "Catfurball",
+      0
+    ],
+    [
+      "Davide King",
+      0
+    ],
+    [
+      "MarioProtIV",
+      0
+    ],
+    [
+      "Masktapeisawesome",
+      0
+    ],
+    [
+      "XTheBedrockX",
+      0
+    ],
+    [
+      "Lightoil",
+      0
+    ],
+    [
+      "Mr. Lechkar",
+      0
+    ],
+    [
+      "Farolif",
+      0
+    ]
+  ],
+  "most_active": [
+    [
+      "Lova Falk",
+      397
+    ],
+    [
+      "Pachu Kannan",
+      235
+    ],
+    [
+      "Achmad Rachmani",
+      232
+    ],
+    [
+      "TechMaster360",
+      192
+    ],
+    [
+      "Skitash",
+      187
+    ],
+    [
+      "Citation bot",
+      170
+    ],
+    [
+      "Ibn Yagdhan",
+      160
+    ],
+    [
+      "Ronnnaldo7",
+      157
+    ],
+    [
+      "BasselHarfouch",
+      152
+    ],
+    [
+      "Pahlevun",
+      145
+    ]
+  ]
+}

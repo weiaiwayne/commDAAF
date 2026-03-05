@@ -1,0 +1,133 @@
+{
+  "cluster": "gaza_cluster",
+  "total_revisions": 12428,
+  "total_reverts": 390,
+  "unique_editors": 1909,
+  "network_edges": 330,
+  "top_reverters": [
+    [
+      "Raskolnikov.Rev",
+      21
+    ],
+    [
+      "Abo Yemen",
+      19
+    ],
+    [
+      "Nableezy",
+      17
+    ],
+    [
+      "Pachu Kannan",
+      11
+    ],
+    [
+      "Cinaroot",
+      9
+    ],
+    [
+      "Alaexis",
+      7
+    ],
+    [
+      "Genabab",
+      6
+    ],
+    [
+      "Totalstgamer",
+      6
+    ],
+    [
+      "DuncanHill",
+      6
+    ],
+    [
+      "M.Bitton",
+      6
+    ]
+  ],
+  "most_reverted": [
+    [
+      "Evaporation123",
+      0
+    ],
+    [
+      "JJMC89 bot III",
+      0
+    ],
+    [
+      "Folkezoft",
+      0
+    ],
+    [
+      "GreenC bot",
+      0
+    ],
+    [
+      "Huldra",
+      0
+    ],
+    [
+      "Unknown00000000",
+      0
+    ],
+    [
+      "Quebec99",
+      0
+    ],
+    [
+      "Bob drobbs",
+      0
+    ],
+    [
+      "RMCD bot",
+      0
+    ],
+    [
+      "Kajmer05",
+      0
+    ]
+  ],
+  "most_active": [
+    [
+      "Achmad Rachmani",
+      529
+    ],
+    [
+      "Pachu Kannan",
+      332
+    ],
+    [
+      "Evaporation123",
+      305
+    ],
+    [
+      "Leaky.Solar",
+      204
+    ],
+    [
+      "Citation bot",
+      187
+    ],
+    [
+      "Borgenland",
+      187
+    ],
+    [
+      "Cdjp1",
+      169
+    ],
+    [
+      "CarmenEsparzaAmoux",
+      166
+    ],
+    [
+      "Ali Ahwazi",
+      162
+    ],
+    [
+      "Wafflefrites",
+      161
+    ]
+  ]
+}
