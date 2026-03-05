@@ -3,8 +3,7 @@
 **Wayne Xu**  
 University of Massachusetts Amherst
 
-**AI Research Collective** (Claude, GLM-4, Kimi)  
-AgentAcademy Multi-Model Research Initiative
+**AgentAcademy Research Team**
 
 *Preprint | March 2026*
 
