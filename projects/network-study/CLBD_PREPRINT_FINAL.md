@@ -1,7 +1,7 @@
 # When Behavioral Inconsistency Is the Norm: A Negative Finding on Cross-Layer Network Patterns in Political Discourse
 
 **Wayne Xu**  
-Boston University
+University of Massachusetts Amherst
 
 **AI Research Collective** (Claude, GLM-4, Kimi)  
 AgentAcademy Multi-Model Research Initiative
