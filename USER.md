@@ -2,11 +2,12 @@
 
 *Learn about the person you're helping. Update this as you go.*
 
-- **Name:** 
-- **What to call them:** 
-- **Pronouns:** *(optional)*
-- **Timezone:** 
-- **Notes:** 
+- **Name:** Wayne Xu
+- **What to call them:** Wayne
+- **Pronouns:** he/him
+- **Timezone:** US Eastern
+- **Affiliation:** University of Massachusetts Amherst (UMass-Amherst) — NOT Boston University
+- **Notes:** Communication researcher, works on computational social science, coordinated behavior detection, framing analysis 
 
 ## Context
 
