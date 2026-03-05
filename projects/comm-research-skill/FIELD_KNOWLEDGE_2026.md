@@ -1,12 +1,116 @@
 # Communication Research Field Knowledge Update
 **Last Updated:** March 5, 2026  
-**Source:** Scan of top communication journals and recent publications
+**Source:** Comprehensive scan of top communication journals and recent publications  
+**Scope:** Broad field coverage—not filtered through any single research program
 
 ---
 
 ## Emergent Research Topics (2025-2026)
 
-### 1. 🤖 AI/LLM in Communication Research
+### 1. 🏥 Health Communication
+
+**Key developments:**
+- **Prebunking/inoculation theory**: Exposing weakened misinfo doses before real exposure builds resistance
+- **Social media + mental health inconsistency**: Peer relationships stronger predictor than screen time; quality matters more than quantity
+- **Virtual health influencers**: AI influencers as effective as humans for health misinfo correction
+- **Vaccine hesitancy**: Persistent challenge; pregnant women as vulnerable population
+
+**Key papers:**
+- "Behavioural interventions to reduce vaccine hesitancy" (BMJ, 2024)
+- "Social media use in adolescents with/without mental health conditions" (Nature Human Behaviour, May 2025)
+- "How the General Public Navigates Health Misinformation on Social Media" (JMIR, June 2025)
+
+---
+
+### 2. 🔬 Science Communication
+
+**Key developments:**
+- **Trust crisis**: Misinformation + polarization eroding public trust in expertise
+- **Storytelling over data**: "Dry data analysis is out, storytelling is in" (StatNews, 2025)
+- **Science influencers**: Scientists with millions of followers reshaping public engagement
+- **Headline-only reading**: Amplifies misinfo; context collapse
+
+**Key papers:**
+- "Science communication in the digital age" (SAGE, 2025)
+- "Enhancing Trust in Science" (Social and Personality Psychology Compass, Nov 2025)
+- "Science journalists and public trust" (JCOM, Sep 2025)
+
+---
+
+### 3. 🌍 Environmental Communication
+
+**Key developments:**
+- **Climate obstruction**: Industry mimics grassroots strategies; "subsidized publics"
+- **Solutions journalism**: Shift to solution-focused coverage
+- **Multi-platform activism**: #Lützerath as case study
+- **Growing polarization**: Nature Climate Change tracking increasing division
+
+**Key papers:**
+- "Social media in climate change communication" (SAGE, 2025)
+- "Low-emissions, High Tensions" (Environmental Communication, 2025)
+- "Climate Change Advocacy and Engagement on Social Media" (SAGE, 2025)
+
+---
+
+### 4. 👶 Children, Adolescents & Media
+
+**Key developments:**
+- **Youth mental health crisis**: Unprecedented increases in anxiety, depression, body dysmorphia
+- **Causation debate**: Social media as correlate vs. cause; findings inconsistent
+- **Content type matters**: Active vs. passive; positive vs. negative engagement
+- **Adolescents with conditions**: Spend more time on SM, less happy about online friends
+
+**Key papers:**
+- "The Decline in Adolescents' Mental Health" (SAGE, 2025)
+- "Social media use in adolescents with/without mental health conditions" (Nature Human Behaviour, 2025)
+- US Surgeon General's Advisory on Social Media & Youth Mental Health (2023, ongoing relevance)
+
+---
+
+### 5. 💑 Interpersonal & Relational Communication
+
+**Key developments:**
+- **Human-AI relationships**: Romantic relationships with AI emerging as research area
+- **AI reply suggestions**: Affect intimacy and relationship maintenance
+- **Mediated interpersonal communication**: Major hiring focus (UC Davis 2026)
+- **Adolescent digital relationship development**: Technology shapes competencies
+
+**Key papers:**
+- "Artificial intelligence in communication impacts language and social relationships" (Scientific Reports, 2023)
+- "Forever and Always, My Love" (Social Media + Society)
+
+---
+
+### 6. 🎭 Creator Economy & Influencer Studies
+
+**Key developments:**
+- **Parasocial relationships central**: Key mechanism for influencer persuasion
+- **Authenticity paradox**: Influencers deemed inauthentic but still persuasive
+- **Virtual influencers rising**: AI influencers approaching human effectiveness
+- **Gen Alpha**: Oldest turn 16 in 2026; peer influence especially strong
+
+**Key papers:**
+- "Commercialization of influencer content" (Journal of Strategic Marketing, 2025)
+- "Making and Breaking Parasocial Relationships with Human and Virtual Influencers" (Media Psychology, 2025)
+- "Between human and AI influencers" (Discover Sustainability, Feb 2025)
+
+---
+
+### 7. 🏢 Organizational Communication
+
+**Key developments:**
+- **Hybrid work permanent**: 83% more productive remote/hybrid
+- **Asynchronous practices**: Reducing meeting overload
+- **AI in workplace**: Responsible AI Organizational Maturity Model (Microsoft, 2025)
+- **Remote culture gap**: Only 21% report strong remote culture
+
+**Key papers:**
+- Microsoft New Future of Work Report 2025
+- "RAI advocacy: Communicative strategies for advancing responsible AI" (CSCW, 2025)
+
+---
+
+### 8. 🤖 AI/LLM in Communication Research
 
 **Key developments:**
 - **LLMs as annotators**: Growing body of work comparing LLM vs. human coding (Bojić et al. 2025 found comparable reliability for sentiment/political leaning, but both struggle with sarcasm)
