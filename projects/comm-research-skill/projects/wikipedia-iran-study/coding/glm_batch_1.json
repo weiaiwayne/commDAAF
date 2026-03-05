@@ -1,0 +1,57 @@
+[
+  {
+    "id": "iran_001",
+    "testimonial_injustice": 1,
+    "hermeneutical_injustice": 0,
+    "epistemic_dispossession": 0,
+    "policy_weaponization": 0,
+    "naming_dispute": 0,
+    "source_hierarchy": 1,
+    "primary_form": "testimonial_injustice",
+    "reasoning": "Editors discount each other's credibility as 'propagandists' and dispute source reliability of Iran International"
+  },
+  {
+    "id": "iran_002",
+    "testimonial_injustice": 0,
+    "hermeneutical_injustice": 1,
+    "epistemic_dispossession": 0,
+    "policy_weaponization": 1,
+    "naming_dispute": 1,
+    "source_hierarchy": 0,
+    "primary_form": "policy_weaponization",
+    "reasoning": "WP:BLP invoked to block categorization, dispute over appropriate terminology for Netanyahu"
+  },
+  {
+    "id": "iran_003",
+    "testimonial_injustice": 0,
+    "hermeneutical_injustice": 0,
+    "epistemic_dispossession": 0,
+    "policy_weaponization": 1,
+    "naming_dispute": 0,
+    "source_hierarchy": 1,
+    "primary_form": "source_hierarchy",
+    "reasoning": "WP:RS and RSN invoked in dispute over Long War Journal reliability"
+  },
+  {
+    "id": "iran_004",
+    "testimonial_injustice": 1,
+    "hermeneutical_injustice": 1,
+    "epistemic_dispossession": 0,
+    "policy_weaponization": 1,
+    "naming_dispute": 1,
+    "source_hierarchy": 0,
+    "primary_form": "policy_weaponization",
+    "reasoning": "Editor accused of 'pushing views' for calling CENTCOM 'terror organization', dispute over terminology"
+  },
+  {
+    "id": "gaza_001",
+    "testimonial_injustice": 1,
+    "hermeneutical_injustice": 1,
+    "epistemic_dispossession": 0,
+    "policy_weaponization": 1,
+    "naming_dispute": 0,
+    "source_hierarchy": 0,
+    "primary_form": "policy_weaponization",
+    "reasoning": "POV-pushing accusations used to delegitimize editors applying 'genocide' terminology"
+  }
+]

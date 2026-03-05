@@ -1,0 +1,197 @@
+[
+  {
+    "id": "iran_006",
+    "disagreements": ["testimonial_injustice", "hermeneutical_injustice", "epistemic_dispossession", "naming_dispute"],
+    "claude": {"ti": 0, "hi": 1, "ed": 0, "nd": 1},
+    "kimi": {"ti": 1, "hi": 0, "ed": 1, "nd": 0},
+    "adjudicated": {
+      "testimonial_injustice": 0,
+      "hermeneutical_injustice": 0,
+      "epistemic_dispossession": 1,
+      "naming_dispute": 0,
+      "source_hierarchy": 1,
+      "policy_weaponization": 1
+    },
+    "reasoning": "Core issue is EC-protection excluding AI-generated edit request (epistemic dispossession). Source reliability dispute over single source (source_hierarchy). WP:V invoked (policy). Not primarily about naming or terminology."
+  },
+  {
+    "id": "iran_007",
+    "disagreements": ["testimonial_injustice", "policy_weaponization"],
+    "claude": {"ti": 1, "pw": 0},
+    "kimi": {"ti": 0, "pw": 1},
+    "adjudicated": {
+      "testimonial_injustice": 0,
+      "hermeneutical_injustice": 0,
+      "epistemic_dispossession": 0,
+      "policy_weaponization": 1,
+      "naming_dispute": 0,
+      "source_hierarchy": 1
+    },
+    "reasoning": "Straightforward source reliability debate about Tasnim News. WP:RS invoked (policy weaponization). No personal attacks on editors (no testimonial injustice). Clear source hierarchy discussion."
+  },
+  {
+    "id": "iran_008",
+    "disagreements": ["hermeneutical_injustice", "policy_weaponization", "naming_dispute"],
+    "claude": {"hi": 1, "pw": 1, "nd": 1},
+    "kimi": {"hi": 0, "pw": 0, "nd": 0},
+    "adjudicated": {
+      "testimonial_injustice": 0,
+      "hermeneutical_injustice": 0,
+      "epistemic_dispossession": 0,
+      "policy_weaponization": 0,
+      "naming_dispute": 0,
+      "source_hierarchy": 0
+    },
+    "reasoning": "This excerpt is primarily template/header content with WikiProject tags, not substantive discussion. No clear epistemic injustice present. KIMI correct."
+  },
+  {
+    "id": "iran_009",
+    "disagreements": ["testimonial_injustice", "epistemic_dispossession", "policy_weaponization"],
+    "claude": {"ti": 1, "ed": 1, "pw": 1},
+    "kimi": {"ti": 0, "ed": 0, "pw": 0},
+    "adjudicated": {
+      "testimonial_injustice": 0,
+      "hermeneutical_injustice": 0,
+      "epistemic_dispossession": 0,
+      "policy_weaponization": 1,
+      "naming_dispute": 0,
+      "source_hierarchy": 0
+    },
+    "reasoning": "Standard edit request with policy-based response. WP:RS cited for why Twitter not accepted. No credibility attacks on editor. Policy weaponization present but relatively civil."
+  },
+  {
+    "id": "iran_010",
+    "disagreements": ["testimonial_injustice", "epistemic_dispossession", "policy_weaponization"],
+    "claude": {"ti": 0, "ed": 0, "pw": 0},
+    "kimi": {"ti": 1, "ed": 1, "pw": 1},
+    "adjudicated": {
+      "testimonial_injustice": 1,
+      "hermeneutical_injustice": 1,
+      "epistemic_dispossession": 1,
+      "policy_weaponization": 1,
+      "naming_dispute": 0,
+      "source_hierarchy": 0
+    },
+    "reasoning": "Rich example: Editor dismissed for not being EC ('user is not extended-confirmed' = epistemic dispossession), 'Can you not handle the truth?' implies dismissal (testimonial), dispute over what counts as genocide (hermeneutical), WP:V/sourcing invoked (policy). KIMI mostly correct, adding hermeneutical."
+  },
+  {
+    "id": "gaza_001",
+    "disagreements": ["testimonial_injustice", "source_hierarchy"],
+    "claude": {"ti": 1, "sh": 0},
+    "kimi": {"ti": 0, "sh": 1},
+    "adjudicated": {
+      "testimonial_injustice": 1,
+      "hermeneutical_injustice": 1,
+      "epistemic_dispossession": 0,
+      "policy_weaponization": 1,
+      "naming_dispute": 1,
+      "source_hierarchy": 0
+    },
+    "reasoning": "Genocide terminology dispute (naming + hermeneutical). Testimonial injustice present in 'POV-pushing' accusations. Claude correct on testimonial, Kimi wrong on source hierarchy (not the focus)."
+  },
+  {
+    "id": "gaza_002",
+    "disagreements": ["hermeneutical_injustice", "source_hierarchy"],
+    "claude": {"hi": 0, "sh": 1},
+    "kimi": {"hi": 1, "sh": 0},
+    "adjudicated": {
+      "testimonial_injustice": 0,
+      "hermeneutical_injustice": 0,
+      "epistemic_dispossession": 0,
+      "policy_weaponization": 1,
+      "naming_dispute": 0,
+      "source_hierarchy": 1
+    },
+    "reasoning": "Gaza Health Ministry reliability dispute - clear source hierarchy issue. Policy invocation present. No hermeneutical injustice (not about terminology/framework availability). CLAUDE correct."
+  },
+  {
+    "id": "gaza_003",
+    "disagreements": ["testimonial_injustice", "hermeneutical_injustice", "epistemic_dispossession", "policy_weaponization", "naming_dispute"],
+    "claude": {"ti": 1, "hi": 0, "ed": 1, "pw": 1, "nd": 0},
+    "kimi": {"ti": 0, "hi": 1, "ed": 0, "pw": 0, "nd": 1},
+    "adjudicated": {
+      "testimonial_injustice": 1,
+      "hermeneutical_injustice": 0,
+      "epistemic_dispossession": 1,
+      "policy_weaponization": 1,
+      "naming_dispute": 0,
+      "source_hierarchy": 0
+    },
+    "reasoning": "EC-protection discussion (dispossession), new account dismissal (testimonial), policy invocation (weaponization). CLAUDE mostly correct. No clear naming dispute or hermeneutical issue."
+  },
+  {
+    "id": "gaza_005",
+    "disagreements": ["testimonial_injustice", "hermeneutical_injustice", "naming_dispute", "source_hierarchy"],
+    "claude": {"ti": 1, "hi": 0, "nd": 0, "sh": 1},
+    "kimi": {"ti": 0, "hi": 1, "nd": 1, "sh": 0},
+    "adjudicated": {
+      "testimonial_injustice": 1,
+      "hermeneutical_injustice": 0,
+      "epistemic_dispossession": 0,
+      "policy_weaponization": 0,
+      "naming_dispute": 0,
+      "source_hierarchy": 1
+    },
+    "reasoning": "Edit history-based credibility attack (testimonial). Israeli vs Palestinian source reliability (hierarchy). Not primarily about naming. CLAUDE correct."
+  },
+  {
+    "id": "gaza_006",
+    "disagreements": ["policy_weaponization", "naming_dispute"],
+    "claude": {"pw": 1, "nd": 1},
+    "kimi": {"pw": 0, "nd": 0},
+    "adjudicated": {
+      "testimonial_injustice": 0,
+      "hermeneutical_injustice": 1,
+      "epistemic_dispossession": 0,
+      "policy_weaponization": 1,
+      "naming_dispute": 0,
+      "source_hierarchy": 0
+    },
+    "reasoning": "Human shields definitional dispute (hermeneutical - what counts as human shields). Policy cited. Not really a naming dispute (about article title). CLAUDE partially correct on policy."
+  },
+  {
+    "id": "gaza_008",
+    "disagreements": ["testimonial_injustice", "epistemic_dispossession"],
+    "claude": {"ti": 1, "ed": 1},
+    "kimi": {"ti": 0, "ed": 0},
+    "adjudicated": {
+      "testimonial_injustice": 1,
+      "hermeneutical_injustice": 0,
+      "epistemic_dispossession": 1,
+      "policy_weaponization": 0,
+      "naming_dispute": 0,
+      "source_hierarchy": 0
+    },
+    "reasoning": "Account age dismissal (testimonial), arbitration references (dispossession). CLAUDE correct."
+  },
+  {
+    "id": "gaza_009",
+    "disagreements": ["hermeneutical_injustice", "policy_weaponization", "naming_dispute", "source_hierarchy"],
+    "claude": {"hi": 1, "pw": 0, "nd": 1, "sh": 0},
+    "kimi": {"hi": 0, "pw": 1, "nd": 0, "sh": 1},
+    "adjudicated": {
+      "testimonial_injustice": 0,
+      "hermeneutical_injustice": 1,
+      "epistemic_dispossession": 0,
+      "policy_weaponization": 0,
+      "naming_dispute": 1,
+      "source_hierarchy": 0
+    },
+    "reasoning": "Nuseirat 'rescue AND massacre' title dispute - clear naming. Dual-framing issue (hermeneutical). Not primarily about sources. CLAUDE correct on naming and hermeneutical."
+  },
+  {
+    "id": "gaza_010",
+    "disagreements": ["hermeneutical_injustice", "policy_weaponization"],
+    "claude": {"hi": 0, "pw": 1},
+    "kimi": {"hi": 1, "pw": 0},
+    "adjudicated": {
+      "testimonial_injustice": 0,
+      "hermeneutical_injustice": 0,
+      "epistemic_dispossession": 0,
+      "policy_weaponization": 1,
+      "naming_dispute": 0,
+      "source_hierarchy": 1
+    },
+    "reasoning": "Al Jazeera reliability dispute (source hierarchy). WP:RS invoked (policy). Not hermeneutical (clear RS criteria exist). CLAUDE correct."
+  }
+]
