@@ -10,7 +10,7 @@
       "id": "wikipedia-epistemic-2026-03",
       "timestamp": "2026-03-06T01:30:00Z",
       "title": "\ud83d\udcd6 Whose History? Credential-Based Epistemic Authority in Wikipedia",
-      "method": "Mixed Methods: Network Analysis + Multi-Model Discourse Coding",
+      "method": "Mixed Methods: Network Analysis + Critical Discourse Analysis (Foucault/Bourdieu)",
       "type": "theory_paper",
       "analyst_model": "Claude + GLM-4.7 + Kimi K2.5",
       "dataset": {
@@ -28,40 +28,40 @@
           "Kimi K2.5"
         ]
       },
-      "summary": "When Iran struck Israel in 2026, Wikipedia editors immediately began fighting\u2014not with bombs, but with reverts. This mixed-methods study examines 100 Wikipedia articles to understand WHO gets to tell history. We found a small elite (41%) who do all the reverting while the majority get reverted. Source hierarchy debates\u2014battles over whether Al Jazeera or Times of Israel can be trusted\u2014emerged as the main battleground. We propose 'credential-based epistemic authority' as a new way to understand platform power: your edit count matters more than who you are.",
+      "summary": "A mixed-methods study of Wikipedia's coverage of the 2026 Iran war and Israel-Hamas conflict. Drawing on Foucault and Bourdieu, we analyze 28,006 revisions and 276 talk page debates. Network analysis reveals a 41% 'reverter elite' whose edits stand while others are overturned. Through thick description, we show how 'source hierarchy' debates\u2014fights over Al Jazeera vs. Israeli media, IRGC vs. Western sources\u2014encode geopolitical positioning as technical disputes. We introduce CREDENTIAL-BASED EPISTEMIC AUTHORITY as a framework for understanding platform power.",
       "key_finding": "Wikipedia authority is based on credentials (edit count, policy fluency) not identity\u2014creating a different kind of exclusion than traditional prejudice",
       "issues_found": 0,
       "findings": [
         {
           "type": "success",
-          "text": "41% REVERTER ELITE: Small minority controls all the gatekeeping; never get reverted themselves"
+          "text": "STRUCTURAL: 41% reverter elite whose edits are never reverted\u2014de facto gatekeepers"
         },
         {
           "type": "success",
-          "text": "SOURCE WARS: Fights over Al Jazeera vs. Israeli media, IRGC vs. Western sources are the main battle"
+          "text": "SOURCE WARS: Tasnim/Al Jazeera/ToI debates show 'reliability' encodes geopolitics"
         },
         {
           "type": "info",
-          "text": "POLICY ALPHABET SOUP: Fluency in WP:RS, WP:NPOV, WP:BLP functions as insider credential"
+          "text": "FOUCAULT: Wikipedia policies (WP:RS, WP:NPOV) as 'regimes of truth'"
+        },
+        {
+          "type": "info",
+          "text": "BOURDIEU: Edit count + policy fluency as convertible 'cultural capital'"
+        },
+        {
+          "type": "success",
+          "text": "CROSS-CULTURAL: Source hierarchy \u03ba=0.47 across US/China AI models"
         },
         {
           "type": "warning",
-          "text": "CREDENTIAL BARRIER: 500-edit threshold excludes potential experts who lack Wikipedia tenure"
-        },
-        {
-          "type": "success",
-          "text": "CROSS-CULTURAL: Source hierarchy debates recognized by all 3 AI models (US + China)"
-        },
-        {
-          "type": "info",
-          "text": "QUALITATIVE: Rich talk page excerpts show HOW editors fight over 'whose history'"
+          "text": "CREDENTIAL BARRIER: AI-written edit rejected despite valid substance"
         }
       ],
       "improvements": [
-        "Theoretical: Credential-based epistemic authority framework (vs. identity-based)",
+        "Theoretical: Credential-based epistemic authority framework (vs. Fricker's identity-based)",
         "Theoretical: Governance-injustice continuum for platform epistemics",
-        "Methodological: Multi-model \u03ba as construct validation criterion",
-        "Methodological: Integration of network + discourse analysis"
+        "Methodological: Multi-model \u03ba as cross-cultural construct validation",
+        "Methodological: Thick description of talk page discourse dynamics"
       ],
       "plain_english": {
         "title": "The Study in Plain English",
