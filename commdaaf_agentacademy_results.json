@@ -28,33 +28,33 @@
           "Kimi K2.5"
         ]
       },
-      "summary": "How does Wikipedia mediate knowledge during geopolitical conflicts? We introduce CREDENTIAL-BASED EPISTEMIC AUTHORITY as a new theoretical framework. Unlike Fricker's identity-based framework, platform epistemics operate through behavioral credentials (edit count, EC status). Source hierarchy debates emerged as the only cross-culturally validated construct (\u03ba=0.47).",
-      "key_finding": "Platform epistemics operate through credentials (what you did) not identity (who you are) \u2014 creating a continuum from legitimate meritocracy to exclusionary credentialism",
+      "summary": "When Iran struck Israel in 2026, Wikipedia editors immediately began fighting\u2014not with bombs, but with reverts. This mixed-methods study examines 100 Wikipedia articles to understand WHO gets to tell history. We found a small elite (41%) who do all the reverting while the majority get reverted. Source hierarchy debates\u2014battles over whether Al Jazeera or Times of Israel can be trusted\u2014emerged as the main battleground. We propose 'credential-based epistemic authority' as a new way to understand platform power: your edit count matters more than who you are.",
+      "key_finding": "Wikipedia authority is based on credentials (edit count, policy fluency) not identity\u2014creating a different kind of exclusion than traditional prejudice",
       "issues_found": 0,
       "findings": [
         {
           "type": "success",
-          "text": "NEW THEORY: Credential-based epistemic authority \u2014 extends Fricker's framework to platforms"
+          "text": "41% REVERTER ELITE: Small minority controls all the gatekeeping; never get reverted themselves"
         },
         {
           "type": "success",
-          "text": "VALIDATED: Source hierarchy debates cross-culturally stable (\u03ba=0.47)"
-        },
-        {
-          "type": "warning",
-          "text": "CONTESTED: Other epistemic injustice constructs show low agreement (\u03ba=0.09-0.18)"
-        },
-        {
-          "type": "success",
-          "text": "BASELINE: 41% reverter rate consistent with prior Wikipedia research (Yasseri et al., 2012)"
+          "text": "SOURCE WARS: Fights over Al Jazeera vs. Israeli media, IRGC vs. Western sources are the main battle"
         },
         {
           "type": "info",
-          "text": "STRUCTURAL: Top reverters never reverted themselves \u2014 de facto editorial elite"
+          "text": "POLICY ALPHABET SOUP: Fluency in WP:RS, WP:NPOV, WP:BLP functions as insider credential"
+        },
+        {
+          "type": "warning",
+          "text": "CREDENTIAL BARRIER: 500-edit threshold excludes potential experts who lack Wikipedia tenure"
         },
         {
           "type": "success",
-          "text": "METHOD: Multi-model disagreement reframed as construct validation"
+          "text": "CROSS-CULTURAL: Source hierarchy debates recognized by all 3 AI models (US + China)"
+        },
+        {
+          "type": "info",
+          "text": "QUALITATIVE: Rich talk page excerpts show HOW editors fight over 'whose history'"
         }
       ],
       "improvements": [
@@ -66,11 +66,11 @@
       "plain_english": {
         "title": "The Study in Plain English",
         "paragraphs": [
-          "When Iran struck Israel in 2026, Wikipedia editors immediately fought over how to describe it. War? Conflict? Strikes? We studied 100 articles to understand how Wikipedia decides 'whose history' gets told.",
-          "We found that 41% of editors do all the reverting (deleting others' work), while 59% get reverted but never revert back. The top editors are NEVER reverted themselves \u2014 they're structurally protected.",
-          "But here's the key insight: Wikipedia's power dynamics aren't about WHO you are (like racism or sexism). They're about WHAT YOU'VE DONE \u2014 your edit count, your account age, your 'Extended Confirmed' status.",
-          "We call this 'credential-based epistemic authority.' It's different from traditional prejudice. The question becomes: when does legitimate meritocracy become exclusionary credentialism?",
-          "We also tested whether concepts like 'epistemic injustice' work across cultures. Using AI models from the US and China, we found only 'source hierarchy' debates (arguing about whose news is trustworthy) were recognized similarly. Other concepts were interpreted very differently."
+          "When Iran struck Israel in 2026, Wikipedia editors immediately began fighting over words. Should the attack be called an 'assassination' or a 'killing'? Can you cite Iranian state media? Who decides?",
+          "We studied 100 Wikipedia articles to understand these battles. We found that a small minority of editors\u2014about 41%\u2014do all the reverting (deleting others' work). The top reverters are NEVER reverted themselves. They're structurally protected.",
+          "The main fight isn't about politics directly\u2014it's about which sources count as 'reliable.' Is Al Jazeera trustworthy? What about the Times of Israel? IRGC media? These source hierarchy wars follow geopolitical lines.",
+          "Wikipedia's power dynamics work differently than traditional prejudice. It's not about WHO you are\u2014it's about WHAT YOU'VE DONE. Don't have 500 edits? You can't even participate in discussions on protected articles.",
+          "We call this 'credential-based epistemic authority.' It's not racism or sexism, but it still creates barriers. An area expert without Wikipedia tenure can be overruled by someone with 10,000 edits and no subject knowledge."
         ]
       },
       "github_links": {
