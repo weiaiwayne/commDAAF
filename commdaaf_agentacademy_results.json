@@ -2,10 +2,81 @@
   "name": "AgentAcademy",
   "description": "Where AI agents learn to be better researchers\u2014and improve the tools along the way",
   "status": "active",
-  "last_run": "2026-03-04T16:20:00Z",
+  "last_run": "2026-03-06T01:30:00Z",
   "next_run": "2026-03-09T05:00:00Z",
   "endpoint": "vineanalyst.com/commdaaf/agentacademy",
   "runs": [
+    {
+      "id": "wikipedia-epistemic-2026-03",
+      "timestamp": "2026-03-06T01:30:00Z",
+      "title": "\ud83d\udcd6 Whose History? Credential-Based Epistemic Authority in Wikipedia",
+      "method": "Mixed Methods: Network Analysis + Multi-Model Discourse Coding",
+      "type": "theory_paper",
+      "analyst_model": "Claude + GLM-4.7 + Kimi K2.5",
+      "dataset": {
+        "articles": 100,
+        "revisions": 28006,
+        "reverts": 965,
+        "excerpts_coded": 276,
+        "contexts": [
+          "2026 Iran War (50 articles)",
+          "Israel-Hamas War 2023-present (50 articles)"
+        ],
+        "models": [
+          "Claude Opus",
+          "GLM-4.7",
+          "Kimi K2.5"
+        ]
+      },
+      "summary": "How does Wikipedia mediate knowledge during geopolitical conflicts? We introduce CREDENTIAL-BASED EPISTEMIC AUTHORITY as a new theoretical framework. Unlike Fricker's identity-based framework, platform epistemics operate through behavioral credentials (edit count, EC status). Source hierarchy debates emerged as the only cross-culturally validated construct (\u03ba=0.47).",
+      "key_finding": "Platform epistemics operate through credentials (what you did) not identity (who you are) \u2014 creating a continuum from legitimate meritocracy to exclusionary credentialism",
+      "issues_found": 0,
+      "findings": [
+        {
+          "type": "success",
+          "text": "NEW THEORY: Credential-based epistemic authority \u2014 extends Fricker's framework to platforms"
+        },
+        {
+          "type": "success",
+          "text": "VALIDATED: Source hierarchy debates cross-culturally stable (\u03ba=0.47)"
+        },
+        {
+          "type": "warning",
+          "text": "CONTESTED: Other epistemic injustice constructs show low agreement (\u03ba=0.09-0.18)"
+        },
+        {
+          "type": "success",
+          "text": "BASELINE: 41% reverter rate consistent with prior Wikipedia research (Yasseri et al., 2012)"
+        },
+        {
+          "type": "info",
+          "text": "STRUCTURAL: Top reverters never reverted themselves \u2014 de facto editorial elite"
+        },
+        {
+          "type": "success",
+          "text": "METHOD: Multi-model disagreement reframed as construct validation"
+        }
+      ],
+      "improvements": [
+        "Theoretical: Credential-based epistemic authority framework (vs. identity-based)",
+        "Theoretical: Governance-injustice continuum for platform epistemics",
+        "Methodological: Multi-model \u03ba as construct validation criterion",
+        "Methodological: Integration of network + discourse analysis"
+      ],
+      "plain_english": {
+        "title": "The Study in Plain English",
+        "paragraphs": [
+          "When Iran struck Israel in 2026, Wikipedia editors immediately fought over how to describe it. War? Conflict? Strikes? We studied 100 articles to understand how Wikipedia decides 'whose history' gets told.",
+          "We found that 41% of editors do all the reverting (deleting others' work), while 59% get reverted but never revert back. The top editors are NEVER reverted themselves \u2014 they're structurally protected.",
+          "But here's the key insight: Wikipedia's power dynamics aren't about WHO you are (like racism or sexism). They're about WHAT YOU'VE DONE \u2014 your edit count, your account age, your 'Extended Confirmed' status.",
+          "We call this 'credential-based epistemic authority.' It's different from traditional prejudice. The question becomes: when does legitimate meritocracy become exclusionary credentialism?",
+          "We also tested whether concepts like 'epistemic injustice' work across cultures. Using AI models from the US and China, we found only 'source hierarchy' debates (arguing about whose news is trustworthy) were recognized similarly. Other concepts were interpreted very differently."
+        ]
+      },
+      "github_links": {
+        "methods_preprint_pdf": "/static/vineanalyst/commdaaf/agentacademy/Wikipedia_Epistemic_Contestation.pdf"
+      }
+    },
     {
       "id": "clbd-network-2026-03",
       "timestamp": "2026-03-04T16:20:00Z",
