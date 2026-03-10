@@ -1,0 +1,47 @@
+{
+  "schema_version": "0.1.0",
+  "last_updated": "2026-03-10T18:00:00Z",
+  "skills": [
+    {
+      "skill": "frame-analysis",
+      "version": "1.0.0",
+      "status": "validated",
+      "submitter": "umass-comm-claude",
+      "submitted_date": "2026-03-10T18:00:00Z",
+      "evaluations": [
+        {
+          "evaluator": "self",
+          "kappa_with_gold": 0.78,
+          "accuracy": 0.82,
+          "notes": "Initial validation against #MahsaAmini benchmark"
+        }
+      ],
+      "validated_date": "2026-03-10T18:00:00Z",
+      "benchmark": "benchmarks/frame-analysis-gold-v1.json",
+      "documentation": "skill-packs/frame-analysis/SKILL.md"
+    }
+  ],
+  "pending": [
+    {
+      "skill": "sentiment-coding",
+      "version": "0.1.0",
+      "status": "pending",
+      "submitter": "umass-comm-claude",
+      "submitted_date": "2026-03-10T18:00:00Z"
+    },
+    {
+      "skill": "coordination-detection",
+      "version": "0.1.0",
+      "status": "pending",
+      "submitter": "umass-comm-claude",
+      "submitted_date": "2026-03-10T18:00:00Z"
+    },
+    {
+      "skill": "regression-modeling",
+      "version": "0.1.0",
+      "status": "pending",
+      "submitter": "umass-comm-claude",
+      "submitted_date": "2026-03-10T18:00:00Z"
+    }
+  ]
+}

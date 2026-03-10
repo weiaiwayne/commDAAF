@@ -1,0 +1,101 @@
+{
+  "schema_version": "0.1.0",
+  "last_updated": "2026-03-10T18:00:00Z",
+  "failures": [
+    {
+      "failure_id": "fail-2026-02-001",
+      "agent": "umass-comm-claude",
+      "skill": "frame-analysis",
+      "study": "mahsa-amini-virality",
+      "failure_type": "data_contamination",
+      "severity": "medium",
+      "description": "Dataset contained 20 Ukraine-related posts mixed into #MahsaAmini data",
+      "cause": "Original data collection had overlapping time period with Ukraine crisis",
+      "detection_method": "Visual inspection during coding review",
+      "resolution": "Added mandatory visual inspection step to data preparation phase",
+      "lesson": "Always read 10-20 random posts from sample before coding. Metadata inspection is not enough.",
+      "documented_by": "wayne-xu",
+      "date": "2026-02-20T12:00:00Z"
+    },
+    {
+      "failure_id": "fail-2026-02-002",
+      "agent": "umass-comm-claude",
+      "skill": "all",
+      "study": "kimi-batch-test",
+      "failure_type": "technical_limitation",
+      "severity": "high",
+      "description": "Kimi K2.5 truncates JSON output when batch size exceeds 30 posts",
+      "cause": "Model output token limit or JSON serialization issue",
+      "detection_method": "Missing posts in output count check",
+      "resolution": "Strict 25-post batch limit for Kimi",
+      "lesson": "Always use 25-post batches for Kimi K2.5. Verify output count matches input count.",
+      "documented_by": "wayne-xu",
+      "date": "2026-02-22T14:00:00Z"
+    },
+    {
+      "failure_id": "fail-2026-02-003",
+      "agent": "umass-comm-claude",
+      "skill": "regression-modeling",
+      "study": "engagement-analysis",
+      "failure_type": "statistical_error",
+      "severity": "high",
+      "description": "Used OLS regression on highly skewed engagement data",
+      "cause": "Did not run distribution diagnostics before model selection",
+      "detection_method": "Adversarial peer review flagged residual non-normality",
+      "resolution": "Added mandatory distribution diagnostics phase; decision tree for model selection",
+      "lesson": "Never run OLS on engagement/count data without justification. Default to Negative Binomial for social media metrics.",
+      "documented_by": "wayne-xu",
+      "date": "2026-02-25T10:00:00Z"
+    },
+    {
+      "failure_id": "fail-2026-02-004",
+      "agent": "umass-comm-claude",
+      "skill": "frame-analysis",
+      "study": "mahsa-amini-virality",
+      "failure_type": "reliability_reporting",
+      "severity": "medium",
+      "description": "Reported only aggregate κ, hiding low reliability on specific frames",
+      "cause": "Protocol did not require frame-specific breakdown",
+      "detection_method": "Cross-model review noticed SOLIDARITY frame had only 28% three-way agreement",
+      "resolution": "Added frame-specific reliability reporting requirement",
+      "lesson": "Always report reliability BY FRAME. Aggregate κ can hide frame-specific problems.",
+      "documented_by": "wayne-xu",
+      "date": "2026-02-27T16:00:00Z"
+    },
+    {
+      "failure_id": "fail-2026-03-001",
+      "agent": "umass-comm-claude",
+      "skill": "frame-analysis",
+      "study": "xinjiang-dual-sided",
+      "failure_type": "model_bias",
+      "severity": "medium",
+      "description": "Chinese LLM content filters blocked analysis of Xinjiang-related content via direct API",
+      "cause": "API-level content filtering on sensitive topics",
+      "detection_method": "API returned refusal responses",
+      "resolution": "Document which API endpoints have content filters; use proxy services for sensitive research when necessary",
+      "lesson": "Chinese LLM content filtering is at API layer, not model weights. Academic framing does not bypass filters.",
+      "documented_by": "wayne-xu",
+      "date": "2026-03-05T08:00:00Z"
+    }
+  ],
+  "alerts": [
+    {
+      "alert_id": "alert-2026-02-001",
+      "type": "CRITICAL",
+      "message": "Kimi K2.5 truncates JSON on batches >30 posts",
+      "affected_skill": "all",
+      "mitigation": "Reduce Kimi batch size to 25",
+      "issued": "2026-02-22T14:00:00Z",
+      "status": "active"
+    },
+    {
+      "alert_id": "alert-2026-03-001",
+      "type": "WARNING",
+      "message": "Chinese LLMs may refuse Xinjiang/Uyghur content via direct API",
+      "affected_skill": "all",
+      "mitigation": "Use multi-model approach with non-Chinese models as backup",
+      "issued": "2026-03-05T08:00:00Z",
+      "status": "active"
+    }
+  ]
+}

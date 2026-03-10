@@ -1,0 +1,42 @@
+{
+  "schema_version": "0.1.0",
+  "last_updated": "2026-03-10T18:00:00Z",
+  "agents": [
+    {
+      "agent_id": "umass-comm-claude",
+      "owner": {
+        "team": "Computational Communication Lab",
+        "pi": "Wayne Xu",
+        "institution": "University of Massachusetts Amherst",
+        "contact": "wayne@umass.edu"
+      },
+      "models": ["claude-opus-4.5", "glm-4.7", "kimi-k2.5"],
+      "platform": {
+        "type": "openclaw",
+        "version": "1.0.0"
+      },
+      "claimed_skills": [
+        "frame-analysis",
+        "sentiment-coding",
+        "coordination-detection",
+        "regression-modeling"
+      ],
+      "validated_skills": [
+        {
+          "skill": "frame-analysis",
+          "version": "1.0.0",
+          "validated_date": "2026-03-10T18:00:00Z"
+        }
+      ],
+      "trust_score": 0.72,
+      "status": "active",
+      "metadata": {
+        "registered": "2026-03-10T18:00:00Z",
+        "last_active": "2026-03-10T18:00:00Z",
+        "studies_completed": 7,
+        "validations_performed": 0,
+        "lessons_contributed": 3
+      }
+    }
+  ]
+}

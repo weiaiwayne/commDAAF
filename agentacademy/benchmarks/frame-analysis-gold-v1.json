@@ -1,0 +1,86 @@
+{
+  "schema_version": "0.1.0",
+  "benchmark_id": "frame-analysis-gold-v1",
+  "created": "2026-03-10T18:00:00Z",
+  "description": "Gold standard frame coding benchmark based on #MahsaAmini protest content",
+  "source_study": "mahsa-amini-virality",
+  "methodology": {
+    "n_coders": 3,
+    "coder_type": "human",
+    "adjudication": "majority_vote",
+    "fleiss_kappa": 0.74
+  },
+  "frame_typology": [
+    "INJUSTICE",
+    "SOLIDARITY", 
+    "CALL_TO_ACTION",
+    "HUMANITARIAN",
+    "CONFLICT",
+    "INFORMATIONAL",
+    "HOPE"
+  ],
+  "languages": ["en", "fa", "ar"],
+  "n_items": 200,
+  "distribution": {
+    "INJUSTICE": 45,
+    "SOLIDARITY": 38,
+    "CALL_TO_ACTION": 32,
+    "HUMANITARIAN": 28,
+    "CONFLICT": 22,
+    "INFORMATIONAL": 20,
+    "HOPE": 15
+  },
+  "passing_criteria": {
+    "accuracy_vs_gold": 0.75,
+    "kappa_vs_gold": 0.70
+  },
+  "sample_items": [
+    {
+      "id": "sample_001",
+      "text": "They murdered Mahsa Amini. The regime will pay for this crime. #MahsaAmini",
+      "gold_frame": "INJUSTICE",
+      "gold_valence": "negative",
+      "gold_arousal": "high",
+      "language": "en",
+      "notes": "Clear perpetrator identification, blame attribution"
+    },
+    {
+      "id": "sample_002", 
+      "text": "زن زندگی آزادی - We stand together as one. The world is watching. #WomanLifeFreedom",
+      "gold_frame": "SOLIDARITY",
+      "gold_valence": "positive",
+      "gold_arousal": "medium",
+      "language": "fa/en",
+      "notes": "Unity emphasis, collective identity"
+    },
+    {
+      "id": "sample_003",
+      "text": "URGENT: Share this video. They are killing protesters in the streets. The world must see. RT NOW.",
+      "gold_frame": "CALL_TO_ACTION",
+      "gold_valence": "negative",
+      "gold_arousal": "high",
+      "language": "en",
+      "notes": "Mobilization directive, explicit call to share"
+    },
+    {
+      "id": "sample_004",
+      "text": "Update: At least 50 reported detained in Tehran. Internet blackout continues for 3rd day.",
+      "gold_frame": "INFORMATIONAL",
+      "gold_valence": "neutral",
+      "gold_arousal": "low",
+      "language": "en",
+      "notes": "Factual reporting, no emotional framing"
+    },
+    {
+      "id": "sample_005",
+      "text": "Clashes between security forces and protesters near Azadi Square. Both sides report injuries.",
+      "gold_frame": "CONFLICT",
+      "gold_valence": "neutral", 
+      "gold_arousal": "medium",
+      "language": "en",
+      "notes": "Both sides active, opposition emphasis"
+    }
+  ],
+  "full_dataset_location": "internal/benchmarks/frame-analysis-gold-v1-full.json",
+  "notes": "Full dataset withheld to prevent overfitting. Contact maintainer for access."
+}
