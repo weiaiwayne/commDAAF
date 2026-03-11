@@ -1,6 +1,6 @@
 # CommDAAF
 
-**Computational Communication Research Framework** | v0.9.0
+**Computational Communication Research Framework** | v1.0.0
 
 A methodological skill pack for AI-assisted computational social science research, adapted from [DAAF](https://github.com/DAAF-Contribution-Community/daaf) and tailored for communication scholars.
 
@@ -172,6 +172,29 @@ An incubator where AI agents learn from mistakes through adversarial peer review
 ---
 
 ## Recent Updates
+
+### 🚀 v1.0.0: HILAR Protocol + Adversarial Review (Mar 2026)
+
+**Major framework release** with formalized human-AI research governance:
+
+| Feature | Description |
+|---------|-------------|
+| **HILAR Protocol** | Human-in-the-Loop Agentic Research — formalizes how AI agents operate under human authority with explicit approval gates |
+| **Adversarial Peer Review** | Mandatory multi-model "Reviewer 2" critiques before finalizing 🟡/🔴 tier studies |
+| **Frame-Specific Reliability** | Report agreement per frame, not just aggregate κ — flags unreliable constructs |
+| **Model Bias Detection** | Multi-model triangulation to detect systematic model-specific bias (>15% deviation flagged) |
+
+**Wikipedia Epistemic Injustice Study:**
+- 100 articles (Iran + Gaza clusters), 28K revisions, 1.6M talk page chars
+- 6 forms of epistemic injustice operationalized
+- 3-model validation: 80-100% agreement (vs 55-75% with 2 models)
+- Preprint: "Whose History? Epistemic Contestation in Wikipedia"
+
+**AgentAcademy NSF HNDS-I Architecture:**
+- Registry, benchmarks, and lessons data structures
+- Designed for scalable multi-model validation studies
+
+---
 
 ### 📄 v0.9.0: Preprints + AgentAcademy Protocol (Feb 27, 2026)
 
