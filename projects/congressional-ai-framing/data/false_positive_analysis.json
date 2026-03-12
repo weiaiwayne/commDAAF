@@ -1,0 +1,198 @@
+{
+  "total_false_positives": 363,
+  "topic_distribution": {
+    "financial_economic": 98,
+    "workforce_education": 20,
+    "national_security_defense": 116,
+    "technology_cyber": 25,
+    "energy_environment": 40,
+    "healthcare_medical": 27,
+    "china_foreign": 17,
+    "uncategorized": 13,
+    "consumer_protection": 4,
+    "appropriations_oversight": 3
+  },
+  "topic_examples": {
+    "financial_economic": [
+      {
+        "id": "CHRG-118shrg58678",
+        "title": "THE CONSUMER FINANCIAL PROTECTION BUREAU'S SEMIANNUAL REPORT",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-119hhrg59659",
+        "title": "IRS RETURN ON INVESTMENT AND THE NEED FOR MODERNIZATION",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-119hhrg59912",
+        "title": "SCALING FOR GROWTH: MEETING THE DEMAND FOR RELIABLE, AFFORDA",
+        "ai_context": "No AI mention found in excerpt"
+      }
+    ],
+    "workforce_education": [
+      {
+        "id": "CHRG-118hhrg56414",
+        "title": "PROTECTING MISSING AND EXPLOITED CHILDREN",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-118hhrg56082",
+        "title": "OVERSIGHT OF OFFICE OF THE CLERK",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-118hhrg54909",
+        "title": ". INVESTIGATING PANDEMIC FRAUD: PREVENTING HISTORY FROM REPE",
+        "ai_context": "No AI mention found in excerpt"
+      }
+    ],
+    "national_security_defense": [
+      {
+        "id": "CHRG-118shrg55975",
+        "title": "EXAMINING THE FINDINGS AND RECOMMENDATIONS OF GAO'S 2024 REP",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-119shrg61633",
+        "title": "PROTECTING OLDER AMERICANS: LEVELING THE PLAYING FIELD FOR O",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-119hhrg61149",
+        "title": "EXAMINING VA EFFORTS TO DECREASE DELAYS IN VETERANS' DISABIL",
+        "ai_context": "No AI mention found in excerpt"
+      }
+    ],
+    "technology_cyber": [
+      {
+        "id": "CHRG-119hhrg60197",
+        "title": "UNLOCKING GOVERNMENT EFFICIENCY THROUGH IT MODERNIZATION",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-118hhrg52954",
+        "title": "FIVE YEARS LATER: THE MUSIC MODERNIZATION ACT",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-118hhrg53367",
+        "title": "FULL COMMITTEE BUSINESS MEETING: MARK-UP OF SEVERAL BILLS AN",
+        "ai_context": "* h.r. 4503, ai training expansion act"
+      }
+    ],
+    "energy_environment": [
+      {
+        "id": "CHRG-118hhrg55914",
+        "title": "LEGISLATIVE BRANCH ADVANCEMENT: GAO MODERNIZATION",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-118shrg54370",
+        "title": "OVERSIGHT OF THE UNITED STATES GOVERNMENT PUBLISHING OFFICE",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-118hhrg54517",
+        "title": "A YEAR IN REVIEW: THE STATE OF SMALL BUSINESS IN AMERICA",
+        "ai_context": "No AI mention found in excerpt"
+      }
+    ],
+    "healthcare_medical": [
+      {
+        "id": "CHRG-118shrg58738",
+        "title": "NOMINATION OF HON. PATRICE H. KUNESH TO BE CHAIRMAN OF THE N",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-118shrg57243",
+        "title": "DIGGING DEEPER: BUILDING OUR CRITICAL MINERALS WORKFORCE",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-119shrg61468",
+        "title": "PROTECTING FLORIDA'S SENIORS: FIGHTING FRAUD AND FINANCIAL E",
+        "ai_context": "No AI mention found in excerpt"
+      }
+    ],
+    "china_foreign": [
+      {
+        "id": "CHRG-118hhrg53506",
+        "title": "CHILDREN ARE NOT FOR SALE: EXAMINING THE EXPLOITATION OF CHI",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-118hhrg56596",
+        "title": "MANAGEMENT SUCCESSES AND FAILURES: ASSESSING THE U.S. AGENCY",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-118shrg58679",
+        "title": "STRATEGIC COMPETITION WITH THE PRC: ASSESSING U.S. COMPETITI",
+        "ai_context": "No AI mention found in excerpt"
+      }
+    ],
+    "uncategorized": [
+      {
+        "id": "CHRG-119hhrg59733",
+        "title": "AMERICA BUILDS: MARITIME INFRASTRUCTURE",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-118shrg56020",
+        "title": "CONFIRMATION HEARING ON FEDERAL APPOINTMENTS",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-119hhrg59680",
+        "title": "AMERICA BUILDS: EXAMINING AMERICA'S FREIGHT AND PASSENGER RA",
+        "ai_context": "No AI mention found in excerpt"
+      }
+    ],
+    "consumer_protection": [
+      {
+        "id": "CHRG-119shrg61467",
+        "title": "AWARENESS TO ACTION: COMBATING ELDER ABUSE AND NEGLECT",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-118shrg58371",
+        "title": "THE RIGHT SIDE OF HISTORY: PROTECTING VOTING RIGHTS IN AMERI",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-118hhrg53334",
+        "title": "ACTION THROUGH INNOVATION: PRIVATE SECTOR SOLUTIONS TO RECOU",
+        "ai_context": "No AI mention found in excerpt"
+      }
+    ],
+    "appropriations_oversight": [
+      {
+        "id": "CHRG-118hhrg57719",
+        "title": "OVERSIGHT OF THE U.S. CENSUS BUREAU",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-118hhrg57048",
+        "title": "IT ALL DEPENDS ON WATER: EXAMINING EFFORTS TO IMPROVE AND PR",
+        "ai_context": "No AI mention found in excerpt"
+      },
+      {
+        "id": "CHRG-118hhrg57075",
+        "title": "OVERSIGHT AND EXAMINATION OF RAILROAD GRADE CROSSING ELIMINA",
+        "ai_context": "No AI mention found in excerpt"
+      }
+    ]
+  },
+  "interpretation": {
+    "national_security_defense": "AI mentioned in context of military applications, veteran services, or national security threats",
+    "healthcare_medical": "AI mentioned in context of medical research, healthcare delivery, or FDA approvals",
+    "financial_economic": "AI mentioned in context of fintech, banking oversight, or economic policy",
+    "technology_cyber": "AI mentioned alongside cybersecurity, telecom, or general tech policy",
+    "workforce_education": "AI mentioned in context of job training, automation concerns, or education",
+    "china_foreign": "AI mentioned in context of China competition or foreign policy",
+    "consumer_protection": "AI mentioned in context of fraud, privacy, or consumer safety",
+    "energy_environment": "AI mentioned in context of energy policy or environmental monitoring",
+    "appropriations_oversight": "AI mentioned in budget hearings or general oversight"
+  }
+}

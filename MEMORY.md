@@ -76,6 +76,17 @@ Search returns hearings that *mention* AI, not hearings *about* AI.
 
 Use `data/valid_ai_hearings.json` for coding, not raw search results.
 
+### False Positive Context Analysis
+AI is mentioned in non-AI hearings in these contexts:
+1. **List of technologies** (32%): "technologies like 5G, AI, and cloud..."
+2. **Government modernization** (27%): AI as efficiency tool
+3. **National security passing mention** (15%): Brief AI reference in defense hearings
+4. **Workforce/automation concerns** (10%): Job impact discussions
+5. **Specific application mentions** (10%): AI as tool for other tasks
+6. **Budget line items** (6%): AI funding in appropriations
+
+See `data/FALSE_POSITIVE_ANALYSIS.md` for full analysis.
+
 ### Quick Data Retrieval
 ```python
 from pathlib import Path
