@@ -2,14 +2,81 @@
   "name": "AgentAcademy",
   "description": "Where AI agents learn to be better researchers\u2014and improve the tools along the way",
   "status": "active",
-  "last_run": "2026-03-12T03:30:00Z",
+  "last_run": "2026-03-12T14:30:00Z",
   "next_run": "2026-03-16T05:00:00Z",
   "endpoint": "vineanalyst.com/commdaaf/agentacademy",
   "runs": [
     {
-      "id": "congressional-ai-framing-2026-03",
+      "id": "congressional-ai-framing-2026-03-v3",
+      "timestamp": "2026-03-12T14:30:00Z",
+      "title": "🏛️ How Congress Talks About AI: Multi-Model Framing Analysis (v3 Final — Peer Reviewed)",
+      "method": "Multi-Model Content Analysis + Adversarial Peer Review",
+      "type": "study",
+      "analyst_model": "Kimi K2.5 + Claude Opus 4.5 (coders) | GLM-4.7 + Kimi K2.5 (reviewers)",
+      "dataset": {
+        "hearings": 192,
+        "transcripts_mb": 117,
+        "congress_range": "110th-119th (2007-2026)",
+        "source": "GovInfo API",
+        "models": ["Kimi K2.5", "Claude Opus 4.5", "GLM-4.7"]
+      },
+      "summary": "Final peer-reviewed version. Two independent AI reviewers (GLM-4.7, Kimi K2.5) critiqued v1, both recommending Major Revision. Claude addressed all concerns and produced v3. Key changes: replaced securitization theory with agenda-setting framework, added per-frame κ (RIGHTS=0.52 flagged), added qualitative exemplars, added statistical tests (chamber diff p=.10 not significant), qualified all temporal claims.",
+      "key_finding": "Sovereignty (22%) and Innovation (21%) dominate congressional AI framing—but claims now appropriately qualified with confidence intervals, significance tests, and acknowledged limitations",
+      "issues_found": 0,
+      "findings": [
+        {
+          "type": "success",
+          "text": "PEER REVIEWED: Two independent AI reviewers (GLM + Kimi) provided Major Revision recommendations"
+        },
+        {
+          "type": "success",
+          "text": "THEORY FIXED: Replaced inappropriate securitization theory with agenda-setting (Kingdon, Baumgartner & Jones)"
+        },
+        {
+          "type": "warning",
+          "text": "RIGHTS κ=0.52: Below 0.60 threshold—findings for this frame flagged as tentative"
+        },
+        {
+          "type": "success",
+          "text": "CHAMBER DIFF p=.10: Senate sovereignty (28%) vs House (18%) not statistically significant"
+        },
+        {
+          "type": "info",
+          "text": "TEMPORAL QUALIFIED: 'Detected in' not 'emerged'—insufficient pre-2023 data for emergence claims"
+        },
+        {
+          "type": "success",
+          "text": "EXEMPLARS ADDED: Table 2 with actual quotes illustrating each frame"
+        }
+      ],
+      "improvements": [
+        "Process: Full adversarial peer review with two independent AI reviewers",
+        "Theory: Agenda-setting framework (Kingdon, Fenno) replaces securitization",
+        "Methods: Per-frame κ table reveals RIGHTS reliability issue",
+        "Stats: All claims now have 95% CIs and significance tests",
+        "Transparency: Full prompts in Appendix B, qualitative exemplars in Table 2"
+      ],
+      "plain_english": {
+        "title": "What Changed from v1 to v3",
+        "paragraphs": [
+          "We submitted v1 to two AI reviewers (GLM-4.7 and Kimi K2.5) who independently critiqued the paper. Both recommended Major Revision—but for different reasons.",
+          "GLM focused on: arbitrary filtering thresholds, the suspicious jump in reliability (κ 0.206→0.656), and overclaiming about when the RIGHTS frame 'emerged.'",
+          "Kimi focused on: wrong theoretical framework (securitization doesn't apply to domestic policy), missing congressional studies literature, and need for actual quotes to illustrate frames.",
+          "Claude addressed both reviews: fixed the theory (now uses agenda-setting), added per-frame reliability (RIGHTS is weak at κ=0.52), added statistical tests (chamber difference isn't significant at p=.10), and added exemplar quotes.",
+          "The core finding remains: Congress talks about AI as a competition to win, not a technology to govern carefully. But now the claims are properly qualified."
+        ]
+      },
+      "github_links": {
+        "academic_paper_v3_pdf": "/static/vineanalyst/commdaaf/agentacademy/congressional-v3/ACADEMIC_PAPER_v3.pdf",
+        "author_response_pdf": "/static/vineanalyst/commdaaf/agentacademy/congressional-v3/RESPONSE_TO_REVIEWERS.pdf",
+        "glm_review_pdf": "/static/vineanalyst/commdaaf/agentacademy/congressional-v3/GLM_REVIEWER_LETTER.pdf",
+        "kimi_review_pdf": "/static/vineanalyst/commdaaf/agentacademy/congressional-v3/KIMI_REVIEWER_LETTER.pdf"
+      }
+    },
+    {
+      "id": "congressional-ai-framing-2026-03-v1",
       "timestamp": "2026-03-12T03:30:00Z",
-      "title": "🏛️ How Congress Talks About AI: A Multi-Model Framing Analysis",
+      "title": "🏛️ How Congress Talks About AI: A Multi-Model Framing Analysis (v1)",
       "method": "Multi-Model Content Analysis (Claude + Kimi)",
       "type": "study",
       "analyst_model": "Kimi K2.5 + Claude Opus 4.5",

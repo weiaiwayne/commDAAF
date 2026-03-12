@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>GLM_REVIEWER_LETTER</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<p><strong>Peer Review Report</strong></p>
+<p><strong>Manuscript:</strong> The Framing of Artificial Intelligence
+in U.S. Congressional Discourse: A Multi-Model Content Analysis</p>
+<p><strong>Reviewer Recommendation:</strong> Major Revision</p>
+<hr />
+<p>Dear Editor and Authors,</p>
+<p>Thank you for the opportunity to review this manuscript, which
+addresses an important and timely question: how artificial intelligence
+is framed in U.S. Congressional discourse. The authors present a
+multi-model content analysis of 192 hearings, employing both human and
+LLM-based coding to identify dominant frames. The research question is
+both theoretically and practically significant, particularly given AI’s
+rapidly growing role in policy discourse.</p>
+<p>I commend the authors for their transparency regarding methodological
+challenges and their ambitious sample size. The inter-rater reliability
+framework is well-structured, and the manuscript addresses a genuine gap
+in our understanding of AI’s evolving framing in political contexts.
+However, several substantive concerns—particularly regarding data
+integrity, methodological arbitrariness, and statistical rigor—must be
+addressed before this work can be considered for publication.</p>
+<p>Below, I outline my concerns organized by severity.</p>
+<hr />
+<h3 id="fatal-concerns">FATAL CONCERNS</h3>
+<p><strong>1. GLM Dropout and Survivorship Bias</strong></p>
+<p>The manuscript reports dropping 8 batches during GLM processing but
+provides no disclosure of what occurred or whether these deletions were
+systematic. This creates a substantial survivorship bias that
+fundamentally undermines the integrity of the findings. The authors
+must:</p>
+<ul>
+<li>Detail precisely which batches were dropped, when, and why</li>
+<li>Demonstrate that deletions were not systematic (e.g., not correlated
+with particular committees, time periods, or frame distributions)</li>
+<li>Consider sensitivity analyses or re-analysis with retained
+batches</li>
+</ul>
+<p>Without full disclosure, readers cannot assess whether the patterns
+reported reflect genuine discourse trends or data culling artifacts.</p>
+<p><strong>2. Overclaimed Temporal Emergence (“RIGHTS”
+Frame)</strong></p>
+<p>The manuscript claims the “RIGHTS” frame emerged only after 2023, yet
+approximately 90% of the data is post-2023. This constitutes
+insufficient pre-2023 data to support such a strong temporal claim. The
+authors should:</p>
+<ul>
+<li>Report the exact proportion of data pre- versus post-2023</li>
+<li>Refine temporal claims to reflect data limitations</li>
+<li>Consider whether “emerged” is appropriate given the limited
+baseline</li>
+<li>If possible, expand pre-2023 coverage to enable robust temporal
+comparison</li>
+</ul>
+<hr />
+<h3 id="major-concerns">MAJOR CONCERNS</h3>
+<p><strong>3. Arbitrary AI Density Filtering Threshold</strong></p>
+<p>The AI density filtering process removed 64% of hearings using
+thresholds of ≥5 or 20+ AI-related terms. This threshold appears
+entirely arbitrary, with no justification, validation, or human
+reliability assessment. To address this:</p>
+<ul>
+<li>Provide theoretical or empirical justification for the chosen
+thresholds</li>
+<li>Report how results vary across alternative thresholds (robustness
+checks)</li>
+<li>Conduct human validation on a subsample of excluded hearings to
+confirm they are substantively AI-irrelevant</li>
+<li>Consider whether a graded inclusion scheme (rather than binary
+filtering) might be more appropriate</li>
+</ul>
+<p><strong>4. HARKing Concerns in Kappa Improvement</strong></p>
+<p>The manuscript reports kappa improving dramatically from 0.206 to
+0.656 via “prompt refinement,” with no disclosure of how many prompt
+versions were tested. This raises substantial HARKing (Hypothesizing
+After Results are Known) concerns. The authors must:</p>
+<ul>
+<li>Disclose the full sequence of prompt versions tested and their
+performance metrics</li>
+<li>Explain the criteria for stopping iteration</li>
+<li>Consider pre-registering or explicitly acknowledging this iterative
+exploration</li>
+<li>Distinguish between a priori design choices and post-hoc
+refinements</li>
+</ul>
+<p><strong>5. Unsubstantiated Quantitative Claims</strong></p>
+<p>The finding of “+55% Senate sovereignty” is reported without
+confidence intervals or significance tests, making it impossible to
+assess whether this represents a genuine effect or sampling variability.
+This is particularly problematic given:</p>
+<ul>
+<li>The sample size may not support such precise percentage
+estimates</li>
+<li>No standard errors are reported for any proportional claims</li>
+<li>Statistical significance is not addressed for key findings</li>
+</ul>
+<p>All quantitative claims should be accompanied by appropriate
+uncertainty estimates and significance tests where applicable.</p>
+<p><strong>6. LLM-LLM Agreement as Validation</strong></p>
+<p>The manuscript uses agreement between different LLMs (GLM and GPT-4)
+as validation, but this may simply reflect shared training biases rather
+than true coding accuracy. LLMs trained on similar corpora may
+systematically encode the same misconceptions or framing assumptions.
+The authors should:</p>
+<ul>
+<li>Acknowledge this limitation explicitly</li>
+<li>Compare LLM coding to human coding on a validation subsample (not
+just reliability testing)</li>
+<li>Consider whether convergence between LLMs provides meaningful
+independent validation</li>
+</ul>
+<p><strong>7. Signal-to-Noise Issues in Full Transcript
+Coding</strong></p>
+<p>Coding full transcripts averaging 100+ pages introduces substantial
+signal-to-noise problems. Congressional hearings contain lengthy
+procedural content, constituent testimony, and irrelevant digressions
+that may dilute frame signals. The authors should:</p>
+<ul>
+<li>Justify why full transcripts are necessary versus, for example,
+prepared statements or question-and-answer periods</li>
+<li>Report the proportion of content that is procedurally or
+substantively irrelevant</li>
+<li>Consider whether coding focused sections would improve measurement
+precision</li>
+</ul>
+<hr />
+<h3 id="minor-concerns">MINOR CONCERNS</h3>
+<p><strong>8. Missing Confidence Intervals</strong></p>
+<p>Confidence intervals are absent from all percentage-based results.
+Given the sample sizes involved, readers need to understand the
+precision of these estimates.</p>
+<p><strong>9. Insufficient Frame Operationalization</strong></p>
+<p>The manuscript does not specify how frames were operationalized for
+coding. What specific words, phrases, or semantic patterns indicate each
+frame? This is essential for reproducibility and theoretical
+clarity.</p>
+<p><strong>10. Absence of Committee-Level Analysis</strong></p>
+<p>No analysis is presented at the committee level, despite substantial
+theoretical reasons to expect frame variation across committees with
+different jurisdictions and constituencies.</p>
+<p><strong>11. Alternative Explanations Not Considered</strong></p>
+<p>The manuscript does not discuss the AI hype cycle as an alternative
+explanation for observed temporal patterns. Media and public attention
+to AI surged dramatically in 2022-2023, which could independently drive
+framing changes. This alternative explanation should be engaged.</p>
+<hr />
+<h3 id="strengths">STRENGTHS</h3>
+<ul>
+<li>The research question is both important and timely</li>
+<li>The sample size (N=192) is substantial and provides a strong
+foundation for analysis</li>
+<li>The inter-rater reliability framework is conceptually sound</li>
+<li>The authors display commendable transparency about methodological
+challenges and failures</li>
+<li>The multi-model approach (human + LLM coding) is innovative and
+worthy of further development</li>
+</ul>
+<hr />
+<h3 id="recommendation">RECOMMENDATION</h3>
+<p><strong>I recommend Major Revision.</strong></p>
+<p>The manuscript addresses a significant research question with
+ambitious methodology and substantial data. However, the fatal
+concerns—particularly the undisclosed GLM batch deletions and the
+overclaimed temporal emergence—must be fully resolved before
+reconsideration. The major concerns require substantial clarification,
+revision, and in some cases re-analysis.</p>
+<p>The following conditions should be met for reconsideration:</p>
+<ol type="1">
+<li>Complete disclosure of GLM batch deletions with systematicity
+assessment</li>
+<li>Revision of temporal claims to reflect data limitations or pre-2023
+data expansion</li>
+<li>Justification and robustness testing of AI density filtering
+thresholds</li>
+<li>Full disclosure of prompt iteration process to address HARKing
+concerns</li>
+<li>Addition of confidence intervals and significance tests to all
+quantitative claims</li>
+<li>Clarification of LLM validation strategy, ideally with human
+benchmarking</li>
+<li>Justification for full-transcript coding approach or alternative
+methods</li>
+</ol>
+<p>If the authors can address these concerns thoroughly, this manuscript
+has the potential to make a meaningful contribution to the literature on
+AI framing in political discourse. The methodological innovation, if
+rigorously validated, could serve as a model for future computational
+communication research.</p>
+<p>Thank you again for the opportunity to review this work.</p>
+<hr />
+<p>Sincerely,</p>
+<p>[Reviewer Name] [Institution] [Date]</p>
+</body>
+</html>
