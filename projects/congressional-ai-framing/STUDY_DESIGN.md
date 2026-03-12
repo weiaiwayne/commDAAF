@@ -1,196 +1,210 @@
-# Congressional AI Framing Study
+# Study Design: Congressional AI Framing Analysis
 
-## Research Questions
+## Research Question
 
-**RQ1:** How is artificial intelligence framed in U.S. congressional hearings?
+**Primary RQ:** How is artificial intelligence framed in U.S. congressional hearings, and how have these frames evolved over time?
 
-**RQ2:** How have AI frames evolved over time (pre-ChatGPT vs post-ChatGPT)?
+**Secondary RQs:**
+1. Which AI frames are associated with specific political parties or committees?
+2. How do expert witness frames differ from legislator frames?
+3. What frames predict legislative action (bills introduced, votes)?
 
-**RQ3:** Do framing patterns differ between House and Senate hearings?
+## Validation Tier
+🟢 EXPLORATORY — Multi-model validation, hypothesis-generating
 
-**RQ4:** Which frames predict greater media coverage and policy action?
+## Data Source
 
----
+### GovInfo API (Congressional Hearings)
+- **Collection:** CHRG (Congressional Hearings)
+- **API Key:** data.gov key (Wayne's)
+- **Total AI-related hearings:** 1,754 (as of March 2026)
+- **Full transcripts available:** Yes (HTML + PDF)
+- **Time range available:** 1969-2026 (concentrated 2023-2026)
 
-## Corpus Summary
+### Data Access Verification ✅
+```bash
+# Confirmed working:
+curl -s -X POST "https://api.govinfo.gov/search" \
+  -H "X-Api-Key: [KEY]" \
+  -H "Content-Type: application/json" \
+  -d '{"query": "\"artificial intelligence\" collection:CHRG", "pageSize": 20}'
 
-| Metric | Value |
-|--------|-------|
-| Total hearings | 61 |
-| Date range | 2008-2025 |
-| Chambers | House (36), Senate (24), Joint (1) |
-| Total text | ~9 MB |
+# Full transcript access confirmed:
+curl -s "https://api.govinfo.gov/packages/CHRG-119hhrg61690/htm?api_key=[KEY]"
+```
 
-### Temporal Distribution
-- **Pre-ChatGPT (2008-2022):** 22 hearings
-- **Post-ChatGPT (2023-2025):** 39 hearings
+### Temporal Distribution (Preliminary)
+| Year | Hearings (sample) |
+|------|-------------------|
+| 2023 | 16 |
+| 2024 | 19 |
+| 2025 | 156+ |
+| 2026 | 1+ (YTD) |
 
----
+**Note:** Explosive growth in 2025 — likely ChatGPT/GenAI driven.
 
-## Frame Codebook v1.0
+## Constructs
 
-### Primary Frames
+### Primary: AI Frames (adapted from technology policy literature)
 
-| Frame | Code | Definition | Indicators |
-|-------|------|------------|------------|
-| **ECONOMIC_OPPORTUNITY** | ECO | AI as driver of growth, competitiveness, jobs | innovation, leadership, competitiveness, economic growth, jobs creation, productivity, American companies |
-| **NATIONAL_SECURITY** | SEC | AI as defense/intelligence asset or threat | China, adversaries, defense, military, intelligence, strategic competition, national security |
-| **EXISTENTIAL_RISK** | EXI | AI as potential civilizational threat | alignment, extinction, superintelligence, control problem, existential, catastrophic |
-| **REGULATION_GOVERNANCE** | REG | AI requiring oversight and rules | oversight, accountability, transparency, regulation, guardrails, legislation, standards |
-| **CIVIL_RIGHTS** | CIV | AI and bias, privacy, discrimination | bias, discrimination, fairness, privacy, civil liberties, surveillance, consent |
-| **LABOR_AUTOMATION** | LAB | AI impact on workforce | displacement, automation, workforce, reskilling, jobs loss, workers |
-| **HEALTHCARE** | HEA | AI in medical applications | diagnosis, treatment, patients, healthcare, medical, clinical |
-| **CONSUMER_PROTECTION** | CON | AI risks to consumers | scams, fraud, deepfakes, misinformation, consumer harm |
+| Frame | Definition | Theoretical Source |
+|-------|------------|-------------------|
+| **INNOVATION** | AI as economic opportunity, competitiveness, jobs | Entman 1993; Nisbet 2009 |
+| **RISK/SAFETY** | AI as threat (existential, job loss, bias, misuse) | Jasanoff 2016 |
+| **REGULATION** | AI as requiring governance, oversight, rules | Lessig 1999 |
+| **SOVEREIGNTY** | AI as national security, China competition | Securitization theory |
+| **RIGHTS** | AI as civil liberties issue (privacy, discrimination) | Zuboff 2019 |
+| **TECHNICAL** | AI discussed in technical/scientific terms | Expert discourse |
 
-### Secondary Codes
+### Secondary Dimensions
 
-| Code | Definition |
-|------|------------|
-| **VALENCE_POS** | Positive framing (opportunity, benefit) |
-| **VALENCE_NEG** | Negative framing (risk, threat, harm) |
-| **VALENCE_NEU** | Neutral/balanced framing |
-| **ACTOR_GOV** | Government as primary actor |
-| **ACTOR_IND** | Industry as primary actor |
-| **ACTOR_ACAD** | Academia/researchers as primary actor |
-| **URGENCY_HIGH** | Immediate action needed |
-| **URGENCY_LOW** | More study/deliberation needed |
+| Dimension | Values | Notes |
+|-----------|--------|-------|
+| **Valence** | positive / negative / neutral | Toward AI generally |
+| **Urgency** | low / medium / high | Temporal pressure |
+| **Specificity** | general AI / specific application | GenAI, autonomous vehicles, etc. |
+| **Actor focus** | government / industry / academia / civil society | Who should act |
 
-### Coding Rules
-
-1. **Unit of analysis:** Individual speaker turn (testimony segment)
-2. **Multiple frames allowed:** Code all applicable frames per turn
-3. **Primary frame required:** Select ONE dominant frame
-4. **Valence required:** Every coded segment needs valence
-5. **Context window:** Consider 2 sentences before/after for context
-
-### Decision Rules
-
-- If ECONOMIC and SECURITY both present → code based on which is *justified by* (means vs. end)
-- If EXISTENTIAL mentioned but in dismissive context → code as REGULATION + note
-- If "jobs" mentioned → distinguish creation (ECO) vs. loss (LAB) by context
-- If China mentioned → only code SEC if framed as *adversary/threat*, not mere comparison
-
----
+### Speaker Metadata
+- **Party:** Republican / Democrat
+- **Chamber:** House / Senate
+- **Role:** Legislator / Witness / Agency official
+- **Committee:** Judiciary, Commerce, Armed Services, etc.
 
 ## Sampling Strategy
 
-### Stratified Sample (N=200 segments)
+### Phase 1: Pilot Sample (N=100)
+- 25 hearings from each period:
+  - Pre-ChatGPT (before Nov 2022)
+  - Early ChatGPT (Nov 2022 - Dec 2023)
+  - Peak AI discourse (2024)
+  - Current (2025-2026)
+- Stratified by chamber (House/Senate)
 
-| Stratum | Criteria | Target N |
-|---------|----------|----------|
-| Pre-ChatGPT House | 2008-2022, House | 30 |
-| Pre-ChatGPT Senate | 2008-2022, Senate | 30 |
-| Post-ChatGPT House (2023) | 2023, House | 35 |
-| Post-ChatGPT Senate (2023) | 2023, Senate | 35 |
-| Post-ChatGPT House (2024-25) | 2024-2025, House | 35 |
-| Post-ChatGPT Senate (2024-25) | 2024-2025, Senate | 35 |
+### Phase 2: Full Sample (N=400-600)
+- Focus on 2023-2026 (high AI salience period)
+- Stratified by:
+  - Committee type (tech-focused vs. domain-specific)
+  - Partisan control
+  - Hearing type (oversight, legislative, investigative)
 
-### Segment Extraction
+### Unit of Analysis Options
+1. **Hearing-level:** Overall frame of entire hearing (coarser, faster)
+2. **Statement-level:** Each speaker's statement (finer, richer)
+3. **Paragraph-level:** Individual claims (finest, most labor-intensive)
 
-1. Parse transcripts into speaker turns
-2. Filter to substantive testimony (>100 words, exclude procedural)
-3. Random sample within each stratum
-4. Ensure no more than 3 segments per hearing
+**Recommendation:** Start with hearing-level, refine to statement-level for key findings.
 
----
+## Data Collection Pipeline
 
-## Validation Tier
+```python
+# Pseudocode for data collection
 
-**🟡 PILOT** (2-4 hours)
-- Human validation: N ≥ 100
-- Inter-coder reliability: κ ≥ 0.6
-- Multi-model validation: 3 models
+1. Search API for AI hearings
+   → Get packageIds, titles, dates, committees
 
----
+2. For each hearing:
+   a. Fetch HTML transcript
+   b. Parse into structured segments:
+      - Opening statements
+      - Witness testimony
+      - Q&A exchanges
+   c. Extract speaker metadata
+   d. Save raw + processed versions
 
-## AgentAcademy Protocol
-
-### Phase 1: Data Preparation
-- [x] Collect hearing transcripts (61 hearings)
-- [ ] Parse into speaker segments
-- [ ] Generate stratified sample (N=200)
-- [ ] Export to coding format
-
-### Phase 2: Independent Coding
-- [ ] Claude codes full sample
-- [ ] GLM-4.7 codes full sample  
-- [ ] Kimi K2.5 codes full sample
-
-### Phase 3: Agreement Analysis
-- [ ] Calculate per-frame κ
-- [ ] Identify systematic disagreements
-- [ ] Flag low-agreement frames (<50%)
-
-### Phase 4: Human Adjudication
-- [ ] Review all 3-way disagreements
-- [ ] Resolve with gold standard
-- [ ] Document decision rationale
-
-### Phase 5: Analysis
-- [ ] Frame distribution by period
-- [ ] Frame distribution by chamber
-- [ ] Temporal trends visualization
-- [ ] Chi-square tests for H1-H3
-
-### Phase 6: Adversarial Review
-- [ ] Each model writes "Reviewer 2" critique
-- [ ] Address methodological concerns
-- [ ] Revise findings if needed
-
----
-
-## Hypotheses
-
-**H1:** Post-ChatGPT hearings show increased EXISTENTIAL_RISK framing compared to pre-ChatGPT.
-
-**H2:** Senate hearings emphasize REGULATION_GOVERNANCE more than House hearings.
-
-**H3:** NATIONAL_SECURITY framing increases over time, driven by US-China competition.
-
-**H4:** ECONOMIC_OPPORTUNITY framing is positively associated with industry witness testimony.
-
----
-
-## Output Files
-
-```
-congressional-ai-framing/
-├── STUDY_DESIGN.md          # This file
-├── collect_hearings.py      # Data collection script
-├── data/
-│   ├── hearings_metadata.json
-│   ├── corpus_summary.json
-│   └── transcripts/         # 61 hearing transcripts
-├── coding/
-│   ├── sample_segments.json # Stratified sample
-│   ├── claude_codes.json
-│   ├── glm_codes.json
-│   └── kimi_codes.json
-└── analysis/
-    ├── agreement_report.md
-    ├── frame_distributions.png
-    └── findings.md
+3. Create analysis batches:
+   - 25 hearings per batch (Kimi limit)
+   - Include metadata + transcript excerpts
 ```
 
----
+## Planned Analyses
+
+### Descriptive
+- Frame distribution over time
+- Frame distribution by party, chamber, committee
+- Co-occurrence patterns (which frames appear together)
+
+### Inferential
+- **DV:** Frame presence (binary) or intensity (ordinal)
+- **IVs:** Party, chamber, committee, time period, witness type
+- **Model:** Logistic regression (binary) or ordinal logit
+- **Controls:** Hearing length, number of witnesses, media attention
+
+### Temporal
+- Interrupted time series around ChatGPT release (Nov 2022)
+- Frame evolution trajectories
+
+## CommDAAF Coding Prompt (Draft v0.1)
+
+```markdown
+# CONGRESSIONAL AI FRAMING ANALYSIS
+
+## TASK
+For each congressional hearing excerpt, identify:
+1. PRIMARY_FRAME: The dominant AI frame
+2. SECONDARY_FRAMES: Other frames present (up to 2)
+3. VALENCE: Overall sentiment toward AI
+4. URGENCY: Temporal pressure expressed
+5. ACTOR_FOCUS: Who is called to act
+
+## FRAME DEFINITIONS
+[To be developed with full decision rules, examples, counter-examples]
+
+## OUTPUT FORMAT
+JSON array with confidence scores
+```
 
 ## Timeline
 
-| Phase | Duration | Status |
-|-------|----------|--------|
-| Data collection | 1 hour | ✅ Complete |
-| Segment extraction | 30 min | Pending |
-| 3-model coding | 2 hours | Pending |
-| Agreement analysis | 30 min | Pending |
-| Human adjudication | 1 hour | Pending |
-| Analysis & writing | 2 hours | Pending |
+| Phase | Duration | Deliverable |
+|-------|----------|-------------|
+| Data collection | 1-2 days | Raw transcripts + metadata |
+| Prompt development | 1 day | CommDAAF prompt v1.0 |
+| Pilot coding (N=100) | 1 day | Reliability assessment |
+| Prompt refinement | 0.5 day | CommDAAF prompt v2.0 |
+| Full coding (N=400-600) | 2-3 days | Coded dataset |
+| Analysis | 1-2 days | Statistical results |
+| Writing | 2-3 days | Draft report |
 
-**Total estimated time:** 6-7 hours
+**Total:** ~10 days for full exploratory study
+
+## Files
+
+```
+projects/congressional-ai-framing/
+  STUDY_DESIGN.md          # This file
+  data/
+    raw/                   # Raw API responses
+    transcripts/           # Parsed transcripts
+    metadata.json          # Hearing metadata
+  prompts/
+    commdaaf_v0.1.md       # Initial prompt
+  outputs/
+    claude/
+    glm/
+    kimi/
+  analysis/
+    reliability.json
+    results.json
+```
+
+## API Notes
+
+### GovInfo Search API
+- Endpoint: `POST https://api.govinfo.gov/search`
+- Auth: `X-Api-Key` header or `api_key` query param
+- Pagination: `offsetMark` (not `offset`)
+- Collection filter: Include in query string (`collection:CHRG`)
+
+### GovInfo Package API
+- Transcript: `https://api.govinfo.gov/packages/{packageId}/htm?api_key=...`
+- Metadata: `https://api.govinfo.gov/packages/{packageId}/summary?api_key=...`
+
+### Rate Limits
+- Unknown; implement exponential backoff
+- Batch requests conservatively
 
 ---
 
-## References
-
-- Entman, R. M. (1993). Framing: Toward clarification of a fractured paradigm.
-- Chong, D., & Druckman, J. N. (2007). Framing theory.
-- Brossard, D. (2013). New media landscapes and the science information consumer.
+*Created: 2026-03-12*
+*Status: Ready for data collection*
