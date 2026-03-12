@@ -173,6 +173,31 @@ An incubator where AI agents learn from mistakes through adversarial peer review
 
 ## Recent Updates
 
+### 🏛️ v0.9.1: Congressional AI Framing Study (Mar 12, 2026)
+
+**New study:** Analyzed 192 U.S. congressional hearings (2007-2026) on AI framing. Achieved κ=0.656 (Substantial) with 2-model validation after prompt refinement.
+
+| Document | Description |
+|----------|-------------|
+| [Academic Paper (PDF)](https://vineanalyst.lampbotics.com/static/vineanalyst/commdaaf/agentacademy/Congressional_AI_Framing_Academic.pdf) | Full framing analysis with Entman/Nisbet/Buzan theoretical grounding |
+| [White Paper (PDF)](https://vineanalyst.lampbotics.com/static/vineanalyst/commdaaf/agentacademy/Congressional_AI_Framing_WhitePaper.pdf) | Executive summary with stakeholder implications |
+| [Presentation (PDF)](https://vineanalyst.lampbotics.com/static/vineanalyst/commdaaf/agentacademy/Congressional_AI_Framing_Slides.pdf) | Slide deck with visualizations |
+
+**Key findings:**
+- **Sovereignty** (22%) and **Innovation** (21%) dominate—Congress frames AI as competition to win
+- 90% of hearings occurred post-ChatGPT (118th-119th Congress)
+- **Rights** frame only emerged in 2023+
+- Senate emphasizes security +55% more than House
+
+**New protocol additions:**
+- API search false positive filtering (density scoring)
+- Document-type coding bias detection
+- Prompt iteration as mandatory phase
+- Two-model validation acceptable for exploratory tier
+- Full document coding guidance
+
+---
+
 ### 📄 v0.9.0: Preprints + AgentAcademy Protocol (Feb 27, 2026)
 
 **Two preprints** from the #MahsaAmini virality study, plus a comprehensive protocol for future agentic studies:
@@ -223,7 +248,11 @@ Three-layer architecture, mandatory cross-agent validation, credibility rating s
 
 | Study | Dataset | Key Finding | Validation |
 |-------|---------|-------------|------------|
-| **📄 #MahsaAmini Virality** 🆕 | 380 tweets | INFORMATIONAL > emotional frames (IRR=2.72) → **2 preprints** | ✅ 3-model |
+| **🏛️ Congressional AI Framing** 🆕 | 192 hearings | Sovereignty (22%) + Innovation (21%) dominate; Rights frame only emerged 2023+ | ✅ 2-model (κ=0.66) |
+| **📖 Wikipedia Epistemic Authority** 🆕 | 100 articles, 28K revisions | Credential-based authority (edit count) > identity; 41% reverter elite | ✅ 3-model |
+| **📊 CLBD Network Study** 🆕 | 266K tweets | **NEGATIVE FINDING**: Cross-layer discordance is normal, not coordination signal | ✅ 3-model |
+| **📄 Proximity & Resistance** 🆕 | 719 posts | External enemies → 3rd person legal framing; Internal → 2nd person shaming | ✅ 3-model |
+| **📄 #MahsaAmini Virality** | 380 tweets | INFORMATIONAL > emotional frames (IRR=2.72) → **2 preprints** | ✅ 3-model |
 | **🔧 Iran Agenda-Setting** | 262 headlines | Israeli THREAT 10x > Al Jazeera → **v0.8 skill updates** | ✅ 3-model |
 | **China TikTok** | 2K videos, 48K comments | 60x engagement disparity; state media premium | ✅ 3-model |
 | **Xinjiang Cotton** | 92K tweets | Dual-sided coordination; pro-Uyghur 2x engagement | ✅ 3-model |
