@@ -1,0 +1,149 @@
+Title: Dam safety, status of tailing dams & eradication of dam safety evaluation backlog; Closure of Lesotho Highlands Water Project for maintenance and impact on Gauteng; with Ministry
+Date: 03 Sep 2024
+Committee: 
+URL: https://pmg.org.za/committee-meeting/39387/
+============================================================
+
+Meeting Summary
+In an in-person meeting, the Portfolio Committee on Water and Sanitation convened a session where the Department of Water and Sanitation (DWS) provided a briefing on several critical issues. The meeting included an overview of dam safety, the status of tailing dams in the country, and a progress report on eliminating the backlog of dam safety evaluations. The impact of the Lesotho Highlands Water Project's maintenance closure on water provision to Gauteng Province was also discussed. The current state of the dams was highlighted, and it was noted that a significant 79% of dams are privately owned, primarily in the agricultural sector, with most dams located in the Western Cape. Additionally, the Department emphasised the importance of effective dam safety and management, ensuring reliable water supply to key regions such as Gauteng, and being cognizant of the role of private ownership in the water sector.
+Following the two presentations, Committee Members expressed concerns regarding dam ownership, unregistered dams in the Western Cape, safety risks, skills development, project delays, and the impact of these issues on water supply.
+Meeting report
+Minister’s opening remarks
+Ms Pemmy Majodina, Minister of Water and Sanitation, spoke about the progression of a significant water-related act, now passed into law, which establishes an agency to tackle the issue of inadequate funding for national water infrastructure. She highlighted the current reliance on the Trans-Caledon Tunnel Authority (TCTA) to raise funds, indicating that the TCTA lacked substantial assets. She added that the entity could only secure funding through national credit guarantees, which face limitations due to the current fiscal environment.
+The Minister referenced a recent incident involving dam inspections and raised concerns about compliance with the National Water Act. She mentioned that five dams on a property sold to an agricultural company were not properly assessed for compliance. A police investigation revealed failure to conduct due diligence in ensuring the dams met legal requirements and were registered with the Department of Water and Sanitation (DWS). Minister Majodina also emphasised that over 5 700 dams are currently monitored by the DWS to prevent potential risks to human life, settlements, and infrastructure. She noted that dam owners were given a timeline from October 2024 to March 2025, to facilitate inspections and important maintenance work.
+Joining the Minister at the briefing were DWS officials, including Mr Wally Ramokgopa, Head:  Specialist Unit, Dam Safety Regulation (Office) Management, DWS, and experts from the DWS and TCTA who were introduced by Dr Sean Phillips, Director-General, DWS.
+Dam Safety Report
+The presentation provided an overview of DWS’s role in dam safety regulation under the National Water Act, including classification, licensing, and compliance monitoring. The presentation looked at Dam Safety Evaluations (DSEs), requirements for regular evaluations of dams (every five years) and the backlog eradication project aimed at reviewing 518 DSE reports by 2026. The presentation outlined Dams Under Construction and Rehabilitation: Status of dams under construction, rehabilitation efforts for DWS-owned dams, and budget allocation for these projects. The presentation also addressed Mine Residue and Tailings Dams: Risks and management challenges associated with mine residue deposit (tailings) dams, including proposed solutions for improved oversight and compliance.
+Key Responsibilities of the DWS
+Dam Classification and Licensing: DWS is responsible for registering and classifying all dams with safety risks under the National Water Act. The classification depends on the dam's size and hazard potential, which affects the safety regulations applied.
+Licensing Types: DWS issues several licenses for dam safety, including those for constructing, altering, enlarging, and decommissioning dams. It also monitors the compliance of dam owners with dam safety regulations.
+Dam Safety Evaluations (DSE)
+DSEs must be submitted by dam owners for Category II and III dams every five years to ensure their safety. Reports are prepared by Approved Professional Persons (APPs), and based on these, DWS assigns a condition rating for each dam.
+Condition Ratings range from "Good" (A) to "Unsafe" (F), determining whether maintenance, rehabilitation, or upgrading is required. The Department actively monitors compliance and takes action based on DSE findings.
+Backlog in DSE Reports
+There is a significant backlog of DSE reports, with 518 dams pending assessment as of 2023. The DWS initiated a backlog eradication project, with plans to complete the remaining reviews by March 2026. The Department needs approximately R71 million to address the backlog.
+A pilot project was conducted to evaluate 42 DSEs within six months at a cost of R917 000. The results will help guide future budget allocations.
+Challenges
+Capacity Issues: DWS faces human resource limitations, particularly a shortage of APPs, with only four currently in place. This impacts its ability to manage dam safety regulations efficiently. There is also a national shortage of APPs, most of whom are over 60 years old.
+Compliance Levels: Compliance rates for dam owners are low, with an overall compliance rate of only 33%. Municipalities (18%) and agricultural sectors (26%) are among the worst offenders in submitting dam safety reports.
+Tailings Dams and Residue Deposit Dams (RDD)
+In response to the 2022 Jagersfontein Dam failure, the DWS is collaborating with other entities to conduct broader investigations into tailings dams. RDDs, including tailings and industrial residue dams, are complex due to their dynamic nature, and pose high safety risks if poorly managed.
+Tailings dams with a saturation level exceeding 70% are considered dams with a safety risk, even if they do not meet traditional classification thresholds.
+Rehabilitation Programme
+The DWS Dam Rehabilitation Programme focuses on 82 dams requiring detailed assessment or rehabilitation. To date, 43 dams have been fully rehabilitated, funded by the Water Trading Entity (WTE) with a 2024/25 budget allocation of R124 million.
+Proposed Solutions
+DWS has approved a new dam safety structure to improve dam safety compliance and is recruiting more personnel. Amendments to the National Water Act are proposed to ensure stronger enforcement of safety regulations.
+Two options are being considered for addressing the safety of RDDs: appointing a Professional Service Provider (PSP) to verify all RDDs or establishing a National Task Team to conduct audits and maintain an updated database of these dams.
+The report highlighted the importance of addressing the dam safety backlog, improving compliance, and ensuring that DWS is adequately resourced to fulfil its regulatory functions effectively.
+See attached for full presentation
+Lesotho Highlands Water Project
+The presentation touched on:
+Lesotho Highlands Water Project (LHWP): Overview of the project, its phases, and its importance in augmenting the Integrated Vaal River System (IVRS).
+Tunnel Maintenance: Planned maintenance work on the LHWP tunnels from October 2024 to March 2025, its necessity, and the scope of repairs.
+Impact on Water Supply: Minimal impact on water availability in the IVRS and water users in Gauteng and the Free State during the shutdown.
+Stakeholder Consultations: Engagement with municipalities, irrigators, and affected communities to ensure smooth implementation of the maintenance plan.
+The Lesotho Highlands Water Project (LHWP), a joint initiative between Lesotho and South Africa, is crucial for transferring water from Lesotho to the Integrated Vaal River System (IVRS), which supplies water to Gauteng and surrounding areas. The project includes multiple dams and tunnels, which generate electricity for Lesotho. Phase 1, completed in 2003, transfers 780 million cubic meters of water annually, while Phase 2, currently under construction, will add 490 million cubic meters per year.
+Tunnel Maintenance Overview
+The LHWP transfer and delivery tunnels require scheduled maintenance every 5-10 years. The last maintenance was done in 2019, and inspections revealed urgent work is needed on the steel linings of the tunnels.
+Planned maintenance from 1 October 2024 to 31 March 2025 will include grit-blasting, reapplying corrosion protection, and other essential repairs to safeguard the tunnels for the next 20-30 years.
+Impact on the Integrated Vaal River System (IVRS)
+Due to the maintenance, the water transfer will decrease by 80 million cubic meters in 2024. However, the Department’s analysis suggests that this will not significantly affect water availability for Rand Water or municipalities in Gauteng, as key dams, such as the Sterkfontein Dam, remain full.
+No significant disruption is expected in water supply for towns along the Liebenbergsvlei River or irrigators in the Free State. The Saulspoort Dam will ensure sufficient water levels for these areas during the shutdown.
+Stakeholder Engagement
+Ongoing consultations with affected municipalities and water users began in 2021. Plans have been developed to mitigate any potential issues, and communities have been urged to conserve water during the maintenance period.
+Licensed irrigators in the Free State will be notified of restrictions to ensure sustainable water abstraction during the tunnel closure.
+The presentation emphasised the importance of the planned maintenance to prevent tunnel failure, while outlining efforts to minimise the impact on water supply and stakeholders.
+See attached for full presentation
+Discussion
+Mr M Dlelanga (ANC) asked about the implications of unregistered dams, especially those in the agricultural sector that were hurriedly built during the drought period. He stressed the importance of bringing these dams under the DWS regulatory framework.
+His concerns were acknowledged and addressed by Mr Ramokgopa who mentioned that a public awareness campaign would be launched to encourage registration and further mentioned that the Department is investigating ways to implement stricter regulations and penalties for non-compliance.
+In addition, Mr Isaac Seitlholo, Deputy Minister of Water and Sanitation, emphasised the importance of leveraging social media and digital platforms to involve communities in identifying and reporting dams across the country. During a recent press briefing, he proposed a dedicated social media campaign aimed at encouraging citizens to report dams they come across, whether known or previously undocumented. He mentioned that this collaborative effort with the public would help the Department build a comprehensive database of dams, including those not yet registered.
+Deputy Minister Seitlholo pointed out that the Department would follow up on all reports received and ensure prompt action is taken on critical issues. He stressed the importance of a proactive approach to managing dam safety, particularly in light of recent dam bursts and water infrastructure crises. The campaign would enhance the Department’s capacity to regulate, enforce compliance, and maintain the country's water infrastructure. By engaging the public in this process, he believed the DWS would take greater responsibility for ensuring the safety and sustainability of water resources, infrastructure, and compliance with relevant regulations. This collective effort, he added, would enable faster and more effective responses to potential risks associated with dam failures.
+Dr Phillips further added that although the Department has a shortage of Approved Professional Persons (APPs), it does have other engineers who do regular inspections of the dams.
+Ms M Kobe (Action SA) expressed concerns about how the maintenance work on key infrastructure would affect water supply, especially in rural and farming communities. She inquired whether the Department had taken measures to ensure that communities relying on water from affected dams were informed and prepared for disruptions. She highlighted that the Department mentioned that it was aware of potential disruptions and had taken proactive steps to communicate with affected municipalities and communities. She inquired if alternative water sources, including backup reservoirs, were being explored to mitigate the impact of the shutdowns.
+A representative from the TCTA added that they were working closely with local municipalities to ensure that maintenance activities are completed as swiftly as possible, with contingency plans to supply water from other systems during the six-month maintenance period.
+Mr S Dithebe (ANC) raised a critical question about water over-extraction by farmers, particularly in areas where water shortages are more acute. He asked what mechanisms were in place to monitor illegal water use and whether penalties had been enforced for non-compliance.
+A delegate from the DWS acknowledged that over-extraction was an ongoing issue, particularly in the agricultural sector. The emphasis put forward was that the Department started working with water user associations and municipalities to better track water usage and enforce regulations. It was mentioned that a new system using advanced technology and artificial intelligence (AI) would be implemented to monitor dam usage and water extraction more efficiently.
+Minister Majodina also highlighted that water user associations and regional offices would be instrumental in identifying and addressing cases of illegal water extraction. She acknowledged the backlog of safety evaluations but reassured the Committee that the Department was working to address this.
+Mr K Ramaila (ANC) asked whether the Department had considered using AI and modern technology to monitor dam safety more effectively. He expressed concerns that relying solely on manual inspections could lead to delays in identifying potential hazards.
+A delegate from the Department responded that while AI and technology were being explored, however, the current technology still required some level of manual intervention, especially for physical inspections and repairs. It was mentioned that drones and satellite imagery were being used to monitor large dams, and further advancements in AI were being integrated to improve overall monitoring.
+Mr S Mahlangu (ANC) raised concerns about the lack of APPs available to conduct safety inspections, asking what the Department was doing to address this skills shortage, especially as many of the current APPs were over the age of 60.
+Minister Majodina acknowledged the shortage and outlined their strategy to recruit and train more APPs. According to the Minister, the Department had engaged with engineering institutions and universities to create a pipeline of young professionals who could be trained in dam safety regulations. She stated that the process of becoming an APP is lengthy, but the Department was working to fast-track the qualification process where possible.
+Ms R Mohlala (EFF) voiced concern over the projected cost of R7.1 million to clear the backlog of safety evaluations for dams. She asked how the Department planned to manage the budget and ensure that the funds were used effectively to address urgent safety concerns.
+Dr Phillips confirmed that budgetary constraints had been a challenge but assured the Committee that an open tender process had been initiated to address the backlog. Additionally, he mentioned that the backlog was largely due to a lack of APPs qualified to inspect the dams, but efforts were underway to increase the pool of qualified engineers.
+Mr N Nxumalo (MK) raised concerns regarding DWS’s proactive measures in addressing staff shortages, particularly in the APP for engineers. He questioned when the DWS recognised the need for APPs, noting that it appeared reactive rather than proactive, as many current APP participants are over 60 years old. Given the length of time it takes to train an engineer, which is about seven to eight years, he expressed worry that the Department had not planned sufficiently in advance.
+Mr Nxumalo further highlighted the lack of communication between government departments and the communities they serve. He pointed out that many ordinary citizens are unaware of the work being done by departments like Water and Sanitation, which creates a disconnect between government efforts and public understanding. He emphasised the importance of establishing strong communication channels with citizens to enhance public engagement and transparency.
+He also expressed concern about the public perception during water shortages, where people often assume no water is available in the dams. However, he learned from the discussion that the issue often occurs with municipalities that fail to distribute water efficiently despite there being enough water in reservoirs. Mr Nxumalo called for better coordination between the DWS and municipalities to resolve water distribution issues.
+Another point raised by Mr Nxumalo was the lack of black ownership of dams. He urged the Department to create programmes to encourage black South Africans to own and manage dams, pointing to available land that could be used for this purpose.
+Lastly, he questioned why longstanding issues with water distribution, particularly in his region, have not yet been resolved despite repeated promises. He then called for urgent action to address these delays.
+Minister Majodina addressed concerns about water access and infrastructure, emphasising that while catchment dams are available, the issue lies with the lack of agility from municipalities in distributing water. She acknowledged that although there is a shortage of APP engineers, this does not equate to a lack of water supply from national water resources.
+She also touched on funding constraints, explaining that although water sources are available, there is insufficient funding to collect and circulate water effectively. The Minister pointed out that many existing dams are privately owned and often by white farmers, but she refrained from making broad statements about ownership. She indicated that the Department is working on a detailed plan to address these issues.
+Looking forward, the Minister announced a new initiative aimed at encouraging broader ownership of dams. She mentioned that this initiative would invite individuals interested in building or owning dams to register and the government would provide clear guidelines on how to do so. She added that the Department would share information on the registration process, making it easier for people to engage in dam ownership and management.
+Mr Ramaila asked if the Department had considered offering incentives to private dam owners, particularly those in the agricultural sector, to ensure their compliance with safety regulations and help with water management during shortages.
+A delegate acknowledged this suggestion and agreed that working closely with private dam owners was essential for ensuring national water security. It was highlighted that incentives could be explored, although the current focus was on ensuring compliance through regulation and support. The Department also engaged with agricultural associations to promote better water management practices.
+Ms Kobe questioned the role of the newly established National Water Resource Infrastructure Agency (NWRIA) and how its creation would affect the Department’s responsibilities, particularly in managing large infrastructure projects like dams.
+Dr Phillips explained that the new agency would take over the management and financing of major water infrastructure projects such as dams and reservoirs, while the Department would focus on water resource management, planning, and regulation. This division of responsibilities was intended to improve efficiency and oversight of national water projects.
+Deputy Minister’s concluding response
+Deputy Minister Seitlholo emphasised the historical issue of illegal water extraction by farmers, noting that many farmers continue to access water sources unlawfully. He highlighted the need for the DWS to put mechanisms in place to monitor and regulate water extraction, as it is a growing concern that needs to be addressed. He compared these illegal connections to an "invisible" problem that requires close scrutiny.
+He assured the Committee that DWS is collaborating with water use associations to address over-extraction and illegal connections. He acknowledged specific concerns raised by regions such as the North West, where farmers are allegedly illegally connected to water sources. He mentioned that the Department also worked with entities to resolve these issues. Deputy Minister Seitlholo indicated that DWS plans to handle these situations on a case-by-case basis, conducting investigations and following up through its provincial branches.
+He encouraged Committee Members to submit individual cases from their constituencies to the Department, as these cannot be fully addressed in broader discussions. He said the Department would assign such cases for proper investigation and provide briefing documents to the relevant officials. He stressed that DWS is committed to resolving long-standing issues, particularly in collaboration with municipalities, and ensuring that communication with stakeholders, such as municipalities and water authorities, is strengthened.
+In conclusion, Deputy Minister Seitlholo reaffirmed that DWS is working diligently to address both the illegal water extractions and broader water and sanitation services issues, as outlined by its constitutional mandate.
+Committee business
+The meeting concluded with a brief review of the minutes from previous meetings, particularly the sessions held on 23 July and 27 August. Some Members noted that they had not received certain documents, prompting a quick clarification regarding the distribution of materials.
+The Committee discussed a petition that had been previously raised, with Members agreeing to write to the petitioner to confirm whether the issue persists. If so, the Committee would invite the petitioner to present their concerns. Members also agreed to consult the relevant municipality for updates on progress related to the problem raised in the petition, particularly concerning water supply issues. One particular concern was raised regarding the need for further clarification from the municipality, particularly the City of Ekurhuleni, as the problem may be more related to municipal communication issues rather than Rand Water. The Committee agreed to invite all relevant stakeholders, including Rand Water and the City of Ekurhuleni, to address the matter in a future session.
+The meeting was adjourned.
+Follow this committee
+Follow this committee and get
+free email alerts
+whenever we get new information about it.
+Write to this committee
+Audio
+Dam safety, status of tailing dams & eradication of dam safety evaluation backlog; Closure of Lesotho Highlands Water Project for maintenance and impact on Gauteng; with Ministry
+Documents
+DWS: Lesotho Highlands Water Project Tunnel Closure
+DWS: Dam Safety Report
+Present
+Basson, Mr LJ
+Chairperson
+DA
+Dithebe, Mr SL
+ANC
+Dlelanga, Mr M
+ANC
+Kobe, Ms MP
+Action SA
+Mahlangu, Mr S
+ANC
+Majodina, Ms PC
+ANC
+Mohlala, Ms MR
+EFF
+Moore, Mr S J
+DA
+Mosikatsi, Ms S
+ANC
+Mthethwa, Mr ZE
+MKP
+Nxumalo, Mr NI
+MKP
+Ramaila, Mr KS
+ANC
+Seitlholo, Mr IS
+DA
+Download as PDF
+You can download this page as a PDF using your browser's print functionality.
+          Click on the "Print" button below and select the "PDF" option under destinations/printers.
+See detailed instructions for your browser
+here
+.
+Print
+Correct this page
+Disclaimer & Copyright
+Share this page:
+×
+What's wrong with this page?
+How we can improve this page?
+If you'd like us to get back to you, please enter your email address.
+Thank you for your feedback, your message has been sent.
+Close
+Send your feedback

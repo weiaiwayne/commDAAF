@@ -1,0 +1,250 @@
+Title: GPW Turnaround Strategy; Political Party Funding Motion; Immigration A/B; BMA follow-up responses; with Minister
+Date: 18 Mar 2025
+Committee: 
+URL: https://pmg.org.za/committee-meeting/40397/
+============================================================
+
+Meeting Summary
+The Minister of Home Affairs and the Government Printing Works (GPW) briefed the Committee on the entity's turnaround strategy. Other agenda items included deliberations on the upper limits and disclosure threshold to fund political parties, consideration of the motion of desirability (MOD) on the Immigration Amendment Bill, and responses from the Border Management Authority (BMA) to questions posed at last week’s Committee meeting.
+The GPW's presentation covered its response to the Auditor-General's recommendations, as well as progress on the recommendations of the ministerial review. The Minister made it clear that the entity had to adapt to the technological advances in the printing industry, or face a bleak future. He said the GPW faced risks as the world became more paperless, and repositioning the organisation and addressing long-standing issues could unlock value and create opportunities. His view was backed by the GPW management, which highlighted its recent progress, including manufacturing 3.6 million identity documents in the past year against a target of 2.6 million. Its plans included relocating and upgrading its facilities, improving the organisational culture, and taking a firm stance against corruption.
+The BMA responded to the Committee's questions as to how they were dealing with the illicit trade in cigarettes; travellers who did not have travel documentation to cross the country's borders; and their level of capability from an advanced technology viewpoint to deal with the current breed of technologically advanced criminals. Members expressed disappointment at the responses, stating that they were lacking in meaningful detail.
+The Committee considered the draft resolution on the spending threshold and limit to fund political parties. The current recommendation was to keep the upper limit of donations at R15 million and the lowest threshold at R100 000.
+The motion of desirability on the Immigration Amendment Bill aimed to amend sections of the Immigration Act, address the arrest and detention of illegal foreigners for deportation, align with constitutional principles, and provide related measures. However, there was disagreement on the amendment's scope -- another unrelated aspect had been introduced -- so further public consultation was required.
+Meeting report
+The Chairperson welcomed attendees to what was, for the Committee, a continuation of last week’s
+meeting
+. Some issues from the previous meeting had had to be deferred because they needed the Minister of Home Affairs, Dr Leon Schreiber, as well as the Government Printing Works (GPW) to come back and respond to questions that had not been answered. He listed items on the agenda, including the Motion of Desirability (MOD) regarding the Immigration Amendment Bill, as well as deliberations on upper limits to fund political parties. He said the meeting could start with the Border Management Authority (BMA) and their responses from last week’s meeting.
+Apologies for Ms L Ngubeni (Action SA) and Mr J Ngubane (MK) were noted.
+The Chairperson asked the Minister to introduce the BMA delegation.
+Dr Schreiber said the BMA would be briefly answering questions from last month’s meeting. He handed over to Mr
+David
+Chilembe, Deputy Commissioner, BMA, who went over three questions that had been asked previously.
+Mr Ngubane had asked whether the problem of farmers who owned part of the borderline and had erected a gate or a fence that made it impossible for the border guards to patrol had been resolved.
+Mr Chilembe said the matter was before the courts, led by the Department of Public Works and Infrastructure (DPWI). In the interim, the BMA was working with the Transport Research Activity Centre (TRAC), the N4 route concessionaire, to utilise part of the land called KM7. TRAC was renting directly from the alleged owner, not the DPWI, so that there was a smooth passage of traffic to the Lebombo port of entry as part of their 30-year contract with the two governments of South Africa and Mozambique.
+As the BMA worked with the Defence Force, they were able to engage with the farmer, and he allowed law enforcement authorities to conduct patrols on that route. He had erected the boom to control the movement of small vans that moved illicit goods from his farm. The BMA had partnered with the farmer and worked with him to deter and intercept some smugglers trying to move goods in and out of South Africa.
+Mr Ngubane’s second question had been about measures put in place for travellers who travel between Lesotho and South Africa without the necessary travel documentation, making use of a bridge to cross over to another country.
+Mr Chilembe responded that the BMA had deployed border law enforcement officers to address the Lesotho/RSA vulnerable segments of the borderline at Ficksburg, Maseru, Van Rooyen, and Caledonspoort. Joint operations and collaboration with the South African National Defence Force (SANDF) were taking place as well. However, the resources were not adequate since the BMA did not have a footprint at all the ports of entry and vulnerable segments between the two countries.
+Mr T Mogale (EFF) had asked what the BMA was doing about the illicit trade in cigarettes, and whether they were engaging with other jurisdictions that were believed to be producing these cigarettes?
+Mr Chilembe said criminal cases had been opened with the South African Police Service (SAPS) and investigations were ongoing. Manufacturers from neighbouring countries were yet not known.
+Mr Mogale’s second question asked if the 35 vehicle "hits" had been stolen.
+Mr Chilembe said these were vehicles that had been stolen and detected through the SAPS database, or through physical inspections and verifications with the Electronic National Administration Traffic Information System (e-NaTIS).
+Mr Mogale also asked how the BMA was dealing with the conveyors/ transporters of travellers who did not have travel documentation and what the names of these companies were.
+Mr Chilembe said that airlines and bus companies that transport illegal travellers were issued with fines in terms of the Immigration Act 2002, section 50 (3) and (4). The BMA had entered into a multi-agency memorandum of understanding (MOU) on cooperation in respect of the administrative fines and penalties levied against conveyors issued in terms of the Immigration Act, 2002 (Act No.13 of 2002) with the Department of Home Affairs (DHA); the Department of Transport (DoT); the Airports Company of South Africa (ACSA) and the Cross-Border Road Transport Agency (C-BRTA).
+He added that a third question had been asked by Ms F Muthambi (ANC), who had pointed out that within the border environment, they were dealing with technologically advanced criminals, some of whom moved guns, so the BMA also needed to rely on technology to address these problems. How was the BMA implementing the national cybersecurity policy framework?
+Mr Chilembe said the BMA oversees both strategic and operational information communication technology (ICT) risks through its enterprise risk management framework, which includes cybersecurity risks. High-level risks had mitigations applied to them. The effectiveness and adequacy of these risk mitigations were assessed. A risk register was maintained, monitored, and updated regularly. For information security, the BMA has implemented network security devices, access control management tools, anti-malware, and encryption to safeguard against threats and ensure confidentiality, integrity, and availability of sensitive information. The BMA continuously monitors its ICT assets for potential vulnerabilities, whether external or internal. Identified vulnerabilities were addressed, and 30% of the budget received would be allocated to IT provision.
+see attached
+Discussion
+Mr Mogale said that he had expected better details. For example, he had requested that the Committee be provided with the names of the companies that were allowing illegal immigrants into the country, as they needed to be named and shamed. The fines imposed on these companies must also be increased. Secondly, at which point had cases against people smuggling cigarettes been opened? It could not have been in December 2024. This had been an ongoing problem for many years. What had been the work of the police in terms of engaging Interpol to deal with and address these syndicates?
+Ms Muthambi said that the response did not adequately answer her question either. How was the BMA implementing the national cybersecurity policy framework? Did the BMA have a cybersecurity strategy? The response had been all over -- the information given had been general. There were no vulnerabilities mentioned as an entity, and it was alarming to hear that the BMA uses its own intelligence in dealing with technologically advanced criminals. The more the BMA did not prioritise investing in technology, the bigger the problem.
+BMA's response
+Mr Chilembe responded to Ms Muthambi that as part of the BMA’s capacity building, they were looking at having a cyber security component. IT was something that was going to be looked at.
+He asked Mr Mogale if it would be possible to provide the response in writing.
+The Chairperson said that these were two simple questions that were not being answered. When it came to the permit issue at the DHA, an investigation being led by Dr Cassius Lubisi, had identified a syndicate, and this information had been brought forward to the Committee in detail. This was the same expectation that this Committee had. What were the details around the illegal cigarette trading? If there was no clear information, this needed to be made clear so that the Committee could help. Time could not be wasted on the matter if there was no information.
+Mr Chilembe said the BMA had a cybersecurity strategy. The only challenge was its implementation. In the new financial year, they were going to be looking at its implementation.
+Regarding the issue of the names of the companies involved in illicit cigarette trading and the fines being imposed, the BMA did indeed have that information for the three modalities -- land, sea and air. In the air environment, it was Qatar Airways and Emirates that had received a large number of fines because of transporting illegal people into the country. The exact amount of those fines, as well as the amount that had already been paid into an account, was what the BMA did not have at the moment, and he asked if they could be given 40 minutes to retrieve that data.
+Regarding illicit smuggling, the BMA detects but it does not investigate. If a case is detected, the BMA hands it over to the SAPS. If there is no owner of an illegal case, they hand it over to the South African Revenue Service (SARS). As for Interpol, the BMA had filed a memorandum with them that they should be interfacing with their 24/7 system, so that if any person was detected on this system, a "hit" would be sent out to all entry ports so the BMA could deal with it.
+The Chairperson said that the Committee did not appreciate the BMA not being fully informed and needing 40 minutes to retrieve data. When attending a meeting, need to have all the information available so that they do not need another meeting to address what should have been addressed in the present meeting.
+Ms Muthambi agreed with the Chairperson and asked for the document to be shared with the Committee.
+Minister Schreiber agreed as well, and said that a certain level of detail was required from the BMA. The general point was well made that the names were what the Committee was looking for.
+Government Printing Works' turnaround strategy
+The Minister said the Government Printing Works (GPW) would brief the Committee on the turnaround strategy. The presentation would cover Auditor-General's (AG's) recommendations, as well as progress on the recommendations of the ministerial review. It would include the names of executives and managers who were members of the union, the impact of downtime, the cost of machines, when the machines were purchased, and how many. He would provide an assessment of the situation and outline the way forward.
+Manufacture of Smart identity documents (IDs)
+The target of 3.6 million smart IDs manufactured this year has been met. This was the highest number ever, as the target had been 2.5 or 2.6 million. There were roughly 18 million South Africans who still had the green ID book, which was vulnerable to fraud. The GPW needed to significantly improve performance to potentially issue millions -- even 10 million -- IDs on an annual basis.
+External review of GPW
+The GPW was actively working on the Committee's recommendation for a broader,
+external look into the entity. There was a need to draw up terms of reference and find appropriate people. The goal was to pull together experts with clear terms of reference, and avoid repeating existing
+investigations. A broader strategic assessment of where the organisation was going and how it would
+function in the digital future was needed.
+Challenges and opportunities
+There was a need to address current challenges and focus on strategic questions. Positioning the GPW to benefit from the digital transformation of government was important. The President envisioned "government at a touch" and a single platform for government services. Confirming user identity was crucial.
+Minister Schreiber commented on the future of the GPW, and said "it's either going to be an opportunity or a threat if we don't get out of the mud." The GPW faced risks as the world became more paperless, and repositioning the organisation and addressing long-standing issues could unlock value and create opportunities.
+GPW's strategic repositioning and turnaround of operations
+Ms Alinah Fosi, Chief Executive Officer (CEO), Government Print Works, said that the presentation was aligned with the contents of the letter received from the Portfolio Committee on 12 March. She started by focusing on the strategic repositioning and turnaround strategy for operations at the GPW.
+Alignment to priorities
+She said the strategy was aligned to the medium-term development plan (MTDP) priorities as stated by the President on last year:
+Drive inclusive growth and job creation;
+Reduce poverty and tackle high cost of living;
+Build a capable, ethical and developmental state.
+GPW's actions
+The organisation had developed a tax plan for 2025 to 2030, and an annual performance plan (APP) 2025/26 to support the ministerial priorities of digital transformation. Documents would reflect its repositioning as an entity for authenticating and certifying secured digital products and services using E-Government platforms.
+Vision and priorities
+The revised vision was its role as a "safe, mandated security document enabler and digital trust centre."
+Its priorities were to transform into a digital trust centre through digital products and services, reposition operations as an enabler and verifier of digital products for viability and sustainability, and improve customer experience through timely services, quality, and quantity via hybrid digital offerings.
+Organisational strategy
+The GPW's focus was on national identity management, now including digital products, and data protection. There was a strong focus on cybersecurity and anti-fraud measures for E-passport certificates and national ID verification. In the area of expansion and capacity building, it was investing in G cell printing presses for increased operational efficiencies. It was also collaborating with the DHA to revise and upgrade the ePassport into the new ePassport series.
+E-government integration
+E-government integration would function across all government departments to certify and verify documents. The GPW would verify services for citizens on one side, using e-government platforms. Efficiency and automation of business processes would be central, with a focus on optimisation.
+Strategic pillars
+There would be a revised business and operating model, and asset recapitalisation would remain key to determine the use of existing buildings and equipment. There would be a focus on local businesses, as well as those in African countries.
+HR development
+Training and retraining/upskilling/reskilling of officials were needed as the GPW embraces
+technology. "No one was going to lose their jobs," and a hybrid model of coexistence between people
+and technology was planned. There was a plan to train 80% of officials to build an agile workforce that could respond to digitisation challenges.
+Infrastructure and relocation
+The focus would be on ICT, safety and the environment as a manufacturing and printing entity. Officials would be moved out of the "dilapidated postmaster's office." The Development Bank of Southern Africa (DBSA) had promised that officials would gradually start moving into the new headquarters
+building in Visagie Street. Officials would also move to the new commercial printing facility, vacating the old building.
+GPW business model
+Digital identity management would be key. Revenue management would focus on printing services and sales. The market would be local and international.
+Performance analysis
+Audited performance data from the Auditor-General of South Africa (AGSA) was being used. Organisational performance has averaged around 70% since 2019, ending at 78% in
+2023/24. The goal was to improve performance and demonstrate an upward projection.
+ID production
+The GPW had printed a total of 3.6 million IDs to date, exceeding the set target. Since October 2013, it has printed a total of 28.4 million ID Smart cards. Production would be ramped up to prepare for the 18 million citizens still to be printed for. A total of 12.6 million passports had been printed since 2009.
+Statistics and future plan
+Statistics from 2019 to today showed an upward trajectory. The organisation had plans to ramp up and
+improve ID documents, and move more into the E-examination space to service more customers with printing.
+Addressing critical areas
+This section of the presentation addressed two critical areas:
+Strategic level: Ensuring the organisation was responsible and positioned for digital transformation.
+Operational level: Turning around operations to deal with culture change and implement change management.
+Strategic level: situation analysis
+The history of the GPW's performance showed it was not an ailing organisation on the verge of collapse. It was a sustainable government entity that had performed through difficult periods, including COVID-19 and data loss. It had been contributing to the National Revenue Fund (NRF) through its surplus, which had been used to bail out other entities.
+Operational level: internal challenges
+The GPW would be focusing its energies on internal operational challenges to ensure stability. Its challenges included:
+Turning around the organisational culture through the implementation of a change
+management strategy.
+Redefining the organisation's role to adapt to new technological investments and reposition operations for digitalisation.
+Investing in people, creating high-performance teams, and managing performance through performance management and development system (PMDS) processes.
+Reward and recognition strategies aimed at encouraging officials to continue to do better in the organisation.
+Ms Fosi concluded by stating that officials would be held accountable and responsible for acts of misconduct in order to avoid a recurrence of such acts.
+(
+See attached presentation for further details)
+Discussion
+The Chairperson opened the floor to responses, but Ms Fosi asked if it was possible to address a set of questions that had been asked in the previous meeting before Committee Members responded to the presentation at hand.
+The Chairperson felt it was not a good idea to respond to a different presentation so as to not complicate the meeting.
+Ms Mthambi referred to slide 13, where she noted the absence of digital transformation in the GPW's business model, considering its vulnerability to artificial intelligence. Referring to slide 15, she asked for an update on the financial performance, considering the financial year was almost over. On slide 25, she mentioned the repositioning of the GPW and the need for a digital transformation strategy, relating it to cybersecurity. On slide 26, she expressed concern about the lack of a clear timeline for developing a business case on digital identity in collaboration with DHA. On slide 27, she questioned the low-hanging fruits and quick wins in the medium-term (three to seven years) turnaround strategy. On slide 30, she referred to the chief financial officer's (CFO's) indication of data losses as a reason for disqualification. She inquired about the nature of the losses and how they were being addressed, linking it to the digital transformation strategy and response to cyber-attacks. On slide 35, she addressed the outsourcing strategy and asked about the contributing factors to outsourcing and whether this indicated a lack of internal capacity. Regarding the audit action plan (slides 41-47), she sought the AG's comments on the progress and implementation. She asked if the AG was happy with the implementation of the audit action
+plan and, in the same breath, noted the absence of timelines and cost implications in the short and
+medium-term strategies on slide 61. She lastly questioned whether there was the requisite human resource capacity to deal with this.
+Ms M Modise-Mpya (ANC) said that the presentation had covered many aspects, but had not directly responded to the specifics of the previous meeting. In 2024 there had been an advertisement regarding establishing a board, and there was a need to check with the Minister on the progress of the board's formation. Regarding the GPW report, they had to check with the CEO on the plans to effect the findings and recommendations from that report. What had been the delays with regard to challenges with the GPW being unable to print security documents like visa labels?
+Ms Modise-Mpya recommended that the Minister establish an investigation team to look into the challenges at the GPW, and consider requesting the President for a proclamation on the Special Investigating Unit (SIU) intervention. Concerns had been raised previously regarding operations at the workshop, particularly involving the leadership and the conditions experienced by the workforce, as there were workers with no functions or roles, and machines that were not functioning. The report had cited moving to the head office, but it was unclear if this would address the conditions of the current workshop. Were they going to move the entire workshop into the new building, or were there any interventions they would make to change the conditions in that workshop? The report indicated engagements with the DPWI, but it lacked specific time frames. It would be difficult to evaluate or monitor the process without timelines.
+Ms Modise-Mpya referred to an expired supplier contract, and wanted to know what would happen to the maintenance of the equipment now that the contract had expired. She said there were machines that lacked the capacity to deal with the overloads, and asked what the plan was for the machines that were sitting on the floor and not functioning. What were their capabilities, and what had they been procured to do? The report did not mention a maintenance strategy or plans for those machines.
+The presentation mentioned supplying the workforce with personal protective equipment (PPE).
+When was that going to take place? Nothing had been mentioned about a turnaround strategy. How was that going to be monitored and evaluated? She requested details on specific recommendations and actions taken for implementation, rather than general numbers.
+Mr Mogale referred to the R600 million returned to National Treasury, and asked if it was a legislative imperative to surrender profits. How did this impact the entity's operations and investment in new equipment? He requested information on the irregular expenditure of R700 million, such as the outcomes of the determination testing, the plans to address the issues, and if criminal cases had been opened against involved officials. He also wanted to know the timelines for enhancing internal capacity to avoid
+outsourcing.
+Mr A Roos (DA) said the presentation had shown high-level strategic intent, which the Ministerial Review Panel should extend to include timelines. There was pride in the staff's skills and knowledge, but a disconnection from senior leadership and values existed. He questioned whether the CEO had seen the environment in which people were working.
+He sought clarity on the surrender of funds to National Treasury, noting that in 2023/24, the GPW had
+surrendered R499 million (32% of revenue), and in 2022/23, it had been R695 million (50% of
+revenue). He questioned why such a high amount was not reinvested, and asked what the high-security certificates were and their growth potential. He noted that the AG had said that the GPW had failed to obtain sufficient audit evidence, and that disciplinary steps must be taken against officials who incurred irregular expenditure. He asked if there had been any progress in taking these disciplinary steps.
+Mr Roos also asked how the law firm hired to collect from debtors had performed, and whether it had been profitable. He asked if there was an implementable IT governance framework now. He emphasised the importance of real-time verification and e-verification for dealing with foreign nationals.
+Ms B Machi (IFP) said the CEO's and team's responses raised hope. Working conditions must be conducive, and capacity building and team building are important. Each employee should "own the entity" and work towards a common goal. Unions should support management and ensure employees are working correctly. She asked what measures were in place to ensure the upgraded printing infrastructure remained adaptable to evolving security and technological needs. What key revenue-generating streams were being prioritised to ensure the GPW's financial sustainability? What new security features were being incorporated into state security documents to prevent fraud and counterfeiting?
+The Chairperson put emphasis on executive members who were union members. Management had indicated that the director contributed to stabilising the institution. He requested the director's position, not the name, and called for the GPW to respond.
+GPW's response
+Ms Fosi asked the managers to indicate which questions they would like to address.
+Regarding digital transformation in the business model, she acknowledged the need to be more explicit, and referred to digital identity management, e-government services, authentication, and verification. She would review slide five and the one to seven-year plan to incorporate digital transformation more deliberately. Targets related to digital transformation had already been included in the 2025/26 plan, particularly for manufacturing and operations.
+She said Mr Zwelibanzi Gwiba, Chief Information Officer, GPW, was driving the digital transformation and cyber security strategies, and would respond to related questions.
+Mr
+Kuben
+Moodley,
+General Manager: Manufacturing and Engineering, would discuss the digital ID journey, including where they were starting and where they would end up. He was also asked to address the "low hanging fruit" issue discussed at the Expo. Mr Ian van Der Merwe, CFO, would address data qualification issues resulting from data loss and cyber-attacks. He would also discuss the future in line with the ERC system, while Mr Sihle Ngubane, General Manager: Operations and Production, would discuss the issue of capacity enhancement through outsourcing.
+Ms Fosi wanted to clarify the reasons for outsourcing, stating that there were a myriad of reasons for outsourcing, and referred to the entity's capacity challenges.
+She said the management team had been having "sleepless nights" about the condition of the building. The CEO mentioned having an office in Bosman Street but had had to give it to a colleague due to
+accommodation challenges. The building was not habitable, and the focus was on making officials comfortable while they were there. Officials would be moving to the new headquarters building and the new commercial printing factory.
+A decision had also been made to repurpose the service line, focusing on commercial printing, high-security printing, and the administration block. The DBSA had adjudicated on the procurement tender for the new commercial printing factory, with finalisation was expected soon. The executive committee (EXCO) would conduct a walkabout before moving equipment to the new facility. Gradual movement out of Bosman Street would occur in April, with some going to Bosman Street and others to the new commercial printing facility.
+With regard to the Ubuntu contract and maintenance strategy, Ms Fosi remembered signing a contract with Ubuntu and believed there should be service level agreement (SLA). The strategy focuses on preventative maintenance, which Mr Moodley would discuss. The goal was to demonstrate confidence in the GPW's readiness for massive printing requirements, such as exam papers, IDs, and passports.
+She had met with a service provider regarding PPE. Recommendations had been made to provide overalls with buttons instead of pants and tops, to accommodate body weight changes. PPE was being issued to staff, with a turnaround time of 46 weeks.
+The issue of surrendering funds to Treasury due to legislation had been a "painful one". The GPW had had meetings with Treasury to request retaining revenue for reinvestment in future. Permission had been granted to retain funds from the previous financial year, and there was hope for future retention.
+The strategic intention was clear -- the GPW must move with technology or become irrelevant. It would work with entities like the Reserve Bank, SARS, and the DHA to exploit digital platforms. The goal was to reposition the GPW to avoid obsolescence. Regarding employee engagement, a leader was as good as their people, and engagement with employees was crucial. Management should visit the shop floor, talk to employees, and bring relevant issues to the EXCO, which meets twice a month to discuss challenges and improvements.
+Ms Fosi said that GPW had a digital strategy under review with Theta, and oversight from Gartner. They were working with the Department of Public Service and Administration (DPSA) on governance frameworks, especially for cybersecurity and cloud adoption. The cybersecurity strategy had been audited, and the GPW had not received alarming feedback. It had adequate controls, including firewalls and multi-factor authentication, and had not reported any cyber attack incidents.
+The general ledger and sub-ledgers had been lost, requiring a rebuild and impacting balances for debtors, payables, PPE, cash flow, and work in progress.
+She said the GPW declares surpluses annually to National Treasury, and makes requests to retain them. The issue was that Treasury was laying claim to surpluses accumulated in previous financial years -- 2018 and 2019. It had split out its operational profits from losses in the income statement to address this issue.
+Minister's closing remarks
+Dr Schreiber said that the GPW had experienced a "catastrophic event" with the data loss, and was in the phase of rebuilding. The data loss shaped the environment, including audit issues and disclaimed audit
+opinions. It was a "deep hole to climb out of."  The improvement on the audit opinion had been meaningful, but the organisation would be challenged by changes in the environment. The aim was to go from recovery to fulfilling the potential.
+He said that the GPW's building used to be a gallows, which was not conducive to a healthy organisational culture, so the staff should be moved out of that environment. The EXCO should be the last ones out of the building, and this moment should be meaningful and symbolise a break with the past.
+He touched on the financial side of the GPW, saying the DHA was GPW's biggest client. Money comes from the DHA budget to the GPW, the GPW makes a profit, and Treasury takes the money again. The Minister agreed that the cycle did not make sense. Treasury had agreed that the GPW could retain its surplus for the latest financial year. The CFO wanted a three-year runway for better financial planning.
+Minister Schreiber suggested that Treasury needed to understand that raiding the DHA budget through this process made no sense, and that they should not break the financial backbone of a money-making entity. He feared the GPW would become like the Post Office if the organisation was not incentivised to make a profit. There needed to be a watertight solution to stop the leaking of revenue.
+The Chairperson said that the Committee would draw up a plan on how to further interact with government principals on key issues, and would engage with the Auditor-General regarding recommendations and other issues. It agrees on strengthening governance and ensuring the boards complement government's work. They had taken note of the possibility of establishing a multidisciplinary team. The Committee would consult with their legal team on how to move forward and would communicate with the Minister and Deputy Minister.
+Committee deliberation on upper limits to fund political parties
+The Committee considered the draft resolution on the spending threshold and limit. The resolution included a brief history of the issue. The current recommendation was to keep the upper limit of donations at R15 million and the lowest threshold at R100 000. Members could insert a new amount for either or both of the upper and lower limits, and the report would be sent out with the amounts.
+The Chairperson had invited the Members to comment on the draft resolution, and had formally written to present the draft resolution to Parliament for consideration.
+Immigration Amendment
+Bill
+Consideration of the motion of desirability (MOD)
+For Members new to legislation, a motion of desirability was a technical requirement for a
+Committee before processin legislation. Submissions, discussions, and answers on the immigration amendment were complete, allowing bill revision and progress.
+The Committee, with a quorum, needed to adopt the motion of desirability to proceed with
+deliberations and various bill versions. The motion of desirability on the Immigration Amendment Bill aimed to amend sections of the Immigration Act, address the arrest and detention of illegal foreigners for deportation, align with constitutional principles, and provide related measures.
+The parliamentary legal team, the DHA, and the chief state law advisor addressed a few matters outside the meeting to formulate input and outline the next steps. After adopting the motion of desirability, the Committee would review the bill's content, aligning with bylaws. Public hearings had taken place, and the bill had been published for comments. The Committee had been briefed on responses from the
+Department and advisors, and the next step was to deliberate on the bill.
+The Office of Legal Services had met with the Department and the state law advisor. They had tried to find middle ground, but disagreements remained. They wanted to brief the Chairperson and meet with stakeholders again.
+Disagreement on amendment scope
+The disagreement was that the amendment was solely about the provision of that section, but other aspects not related to that section were being brought in, and bringing in another matter required another process. Public consultation was also required.
+The purpose of the bill was to address the constitutional court judgment and cure the constitutional defect.
+Public comments had identified gaps in the legislation, such as:
+The input of the justice factor.
+The issue of children.
+The issue of section 35 rights.
+The issue of children was not dealt with in the judgment, but came from the public participation process. Parliament was obliged to meaningfully consider public input. Recommendations from the public hearing had been brought to the Committee's attention for consideration.
+The court had provided guidance, but did not want to step on the principle of the separation of powers. The legislature could amend or cure the defect as they see fit, and the Committee could expand on the board if it deems it fit.
+Amendments that were material and not in the public domain may require the bill to be re
+advertised. Introducing new elements that deviate from the Constitutional Court's mandate could
+affect the timeframe.
+Focusing on the Constitutional Court mandate
+The DG mentioned a separate process (White Paper) to address broader issues.
+The Chairperson suggested focusing on the Constitutional Court's specific requirements and
+addressing other matters through the White Paper process.
+A meeting with the Chairperson and the team would be scheduled to bring clarity on what needed to
+be done.
+The meeting was adjourned.
+Follow this committee
+Follow this committee and get
+free email alerts
+whenever we get new information about it.
+Write to this committee
+Audio
+GPW Turnaround Strategy; Political Party Funding Motion; Immigration A/B: Motion of desirability
+Documents
+BMA: 2024/25 Outstanding Responses
+GPW: Turnaround Strategy Presentation
+Bills
+B8-2024 - Immigration Amendment Bill
+Present
+Chabane, Mr MS
+Chairperson
+ANC
+Bollman, Ms NJ
+DA
+Hala, Mr MM
+ANC
+Machi, Ms BE
+IFP
+Mathopa, Ms M L
+PA
+Modise-Mpya, Ms M
+ANC
+Mogale, Mr T
+EFF
+Msezane, Mr MP
+MKP
+Mtolo, Ms NE
+ANC
+Muhammad, Ms MB
+MKP
+Muthambi, Ms AF
+ANC
+Myburgh, Mr NG
+DA
+Nzuza, Mr NB
+ANC
+Roos, Mr AC
+DA
+Schreiber, Dr LA
+DA
+Download as PDF
+You can download this page as a PDF using your browser's print functionality.
+          Click on the "Print" button below and select the "PDF" option under destinations/printers.
+See detailed instructions for your browser
+here
+.
+Print
+Correct this page
+Disclaimer & Copyright
+Share this page:
+×
+What's wrong with this page?
+How we can improve this page?
+If you'd like us to get back to you, please enter your email address.
+Thank you for your feedback, your message has been sent.
+Close
+Send your feedback

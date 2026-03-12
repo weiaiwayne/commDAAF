@@ -1,0 +1,123 @@
+Title: Implementation of Broadcast Digital Migration policy; Draft Performance Management System for ICASA; with Deputy Minister
+Date: 04 Feb 2020
+Committee: 
+URL: https://pmg.org.za/committee-meeting/29643/
+============================================================
+
+Meeting Summary
+The Committee received presentations from the Department of Communications on the Broadcasting Digital Migration programme and on the Performance Management System for the Independent Communications Authority of South Africa [ICASA].
+The Department reported that the deadline for digital migration has been moved to 2021 after Cabinet approval. The programme remains five years behind schedule. Approximately 3.6 million indigent households still need to register to receive assistance to migrate. To fast track the process, the Department has partnered with the Department of Cooperative Governance and Traditional Affairs so that workers in municipalities who are part of the Community Work Programme may assist in the registration process across the country. Casual workers were also being recruited to assist where there was a shortage of Community Work Programme participants.
+Sentech will take over the digital migration programme from the Universal Service and Access Agency of South Africa. A draft Memorandum of Understanding in this regard is in its final stages but is still being considered.
+Members asked whether funding has been secured and whether Sentech has capacity to meet the target of over three million indigent household registrations by 2021. They asked about local installers and making use of local Small Enterprises; implementation of regulations on internet privacy and digital technologies; details and challenges of working with the Community Work Programme; and the total budget required to complete the programme and meet deadlines.
+The Department tabled a first draft of a complex Performance Management System for ICASA, for which the Committee has a joint responsibility with the Department. The presentation provided an overview of the legislative context as well as proposed roles and responsibilities of the Minister, ICASA Councillors and Chairperson, National Assembly and the Department. The Committee agreed to consider the proposals. Future engagements will take place to deliberate further on the Performance Management System.
+Members considered and adopted the First Term Programme for the work of the Portfolio Committee.
+Meeting report
+The Chairperson welcomed everyone present and acknowledged the presence of the Deputy Minister.
+Deputy Minister Remarks
+Ms Pinky Kekana, Deputy Minister of Communications (DoC) said that the reviewed timelines of the Broadcasting Digital Migration (BDM) programme were tabled by Ms Stella Ndabeni-Abrahams, Minister of Communications and Digital Technologies, after it was approved by Cabinet. The new approved date is 2021.
+Briefing by the DoC on the Implementation of Broadcasting Digital Migration (BDM)
+Ms Nomvuyisi Bhatyi, Acting Director General: DoC, took the Members through the presentation. The the high level summary was that the conclusion of BDM is five years behind schedule. Realising high demand spectrum in the 700- and 800MHz spectrum bands is a key ingredient for the country’s growth plans through future investments in International Mobile Telephony network infrastructure and services. Household migration to digital is the final remaining hurdle to conclude BDM.
+Progress towards finalising BDM since the last Portfolio Committee (PC) update had been very slow, primarily due to the poor pace of household migration to digital platforms. At the last meeting the Committee was apprised of the proposed BDM delivery model review.
+In September 2018, Cabinet was apprised on the progress of the implementation of the BDM programme, the proposed revised delivery model and implementation plan to accelerate the pace of BDM. In March and July 2019, Cabinet approved the request to further review the delivery model in order to enhance efforts aimed at expediting Analogue Switch Off (ASO) in order to realise the early release of high demand spectrum.
+Most recently, in December 2019, Cabinet approved the new migration delivery model in order to expedite the ASO and subsequently realise a release of High Demand Spectrum. Cabinet further approved 2021 as the switch off year in order for the unsubsidized market to have time to acquire digital devices.
+As for the current status of the indigent household registrations, of the total 4.7 million households, 1 109 065 household registrations have been recorded. Approximately 3.6 million indigent households still need to register to receive assistance to migrate. The interventions considered to fast-track the registration process were:
+-A Memorandum of Agreement (MoA) was entered into with COGTA (Department of Cooperative Governance and Traditional Affairs) to make use of Community Workers Programme (CWP) participants in assisting indigent households to register;
+-CWP participants would be drawn from the poorest families, child headed households and the unemployed. There are on average 1 000 CWP participants per municipality and they have an existing execution structure which the Project Management Office (PMO) will tap into.
+-Casual workers were being recruited where there is a shortage of CWP participants
+-A daily rate of R138 is paid to the casual workers
+The Universal Service and Access Agency of South Africa (USAASA) has procured 1.5 million decoders for government subsidy (1 million Terrestrial and 500 000 Satellite oriented). Of the 1.5 million ordered, 1.39 million decoders from the consignment have been delivered to South African Post Office (SAPO) warehouses. The delivery of all the aerials and satellite dishes has been completed. At least 110 000 decoders still need to be delivered by end of March 2020. Of the 1.1 million registered indigent households, 511 368 installations have been completed leaving at least 600 000 registered households still to be connected.
+See the document distributed on BDM for details of the required interventions.
+Discussion
+Ms P Van Damme (DA) was pleased about the progress made by the Department so far on the BDM programme. She hoped that the deadline set would be achieved. However, she was concerned about the funding and asked whether funding has been secured already. She also wanted to know what the total budget would be.
+She shared some views on digital technologies regarding Artificial Intelligence and internet privacy. Digital technologies are way advanced in other countries and it is no secret that South Africa has been left far behind, even with digital migration. South Africa is still far behind in implementing stringent regulations on internet use. She wanted to know whether the Department has either considered implementing regulations in that space or developed any.
+Mr L Molala (ANC) agreed that Sentech should manage the programme; however, he was concerned about the 3.6 million indigent households not yet registered in relation to the deadline. He was not confident about whether the deadline would be met. He asked the Department to clarify, on average, how many households would be covered in this financial year leading to the following year. He also wanted to know whether Sentech has confirmed that it has capacity to push the work through to meet the deadline.
+He enquired about whether the definition of an indigent household has remained constant over the years or if it changes. If it changes, it would affect the figures (over 3.2 million) and subsequently the deadline might not be met.
+Funding requirements need to be aligned with the National Treasury and he was uncertain how Cabinet approved a programme and not fund it. Lastly, he enquired about the technology or the boxes and whether they were still relevant as technology constantly evolves.
+Ms M Gumede (ANC) wanted to know whether a formal agreement or contract or a Memorandum of Understanding (MoU) has been signed since USAASA has agreed to hand over the project to Sentech. A formal agreement will clearly stipulate the obligations and responsibilities of who will be doing what, timeliness and other relevant information pertaining to the implementation and completion of the project.
+She asked whether Sentech has indicated if it will be able to meet the target and when it will complete the programme. Lastly, the technology or the boxes that required were said to not be on the market as yet, is this not going to cause some serious hurdles to complete the project?
+Mr W Madisha (COPE) said he was happy about the progress made thus far. However, he questioned whether there were adequate plans in place to unlock more opportunities for South African small businesses. More importantly, he stressed the point of job creation, particularly job creation and employment for South Africans specifically.
+Ms P Faku (ANC) said that she thought the Department implemented a good partnership with COGTA  but the agreements must be airtight to ensure that the turnaround time is achieved. She was happy with the utilisation of local installers which will foster job creation within communities where the project is taking place.
+Responses
+The Deputy Minister said that consequence management for non-implementation has been an issue and it has been a cause for concern for the President and Minister Ndabeni-Abrahams. There is an alliance between the Department of Economic Development and Small Business Development to deal with the issues of local production. The Department of Science and Technology will ensure that what has been produced speaks to the specifications of the product.
+The use of CWP participants was to ensure that the project makes an impact and that local people benefit from the project. There is also a programme where local people will be trained to do this kind of work. Local installers will be used, as well as for repairs and maintenance. There were important lessons learned from the Free State; hence, local installers and local people for repairs and maintenance will now be used.
+In the Cabinet meeting with the President growth drivers were identified. The digital economy was identified as one of the key drivers. So it is top of the agenda. Now Treasury has to reorder priorities to ensure that some of the issues that can inject growth in the economy will be prioritised and funded accordingly. Hence, there will be a funding reorganisation because it is within that context that digital economy will be funded.
+Ms Bhatyi added that on artificial intelligence, the Department is waiting for the final report on 4IR (Fourth Industrial Revolution). The work is still internal and for now the Department will wait for that process.
+As for the changing number and the definition of indigent households, the numbers of the indigent households has remained the same although the number of unemployed people has increased. The unemployed is not the primary target.
+With regards to the relevance of set-top boxes (STBs), they are still relevant and their lifespan is between five to 10 years.
+There will be contracts signed across the entities and the Department will be relooking at some of the existing contracts as well. In any day now the agreement will be in place. The Department also still needs to conclude other contracts with other entities.
+The [subsidised] set-top box product [provided to registered indigent households by government] is not available for reselling at retail stores.
+On the assessment of installers [of subsidised set-top boxes], due processes and certain levels of percentages will be taken into account. If it is a company applying to be an installer, that company must adhere to the regulations and Black Economic Empowerment accreditation.
+Mr T Gumbu (ANC) sought clarity on the CWP participants and how they are assisting on the rollout of the process. In addition, he asked the Department to share some light on on-the-ground challenges that are faced or might be faced by the CWP.
+The Chairperson suggested that on the way forward timelines need to be put in place and they must be very clear. He highlighted the importance of repairs and maintenance being carried out after the installations.
+He noted that the lack of funding continues to be a serious concern for the programme to be implemented. The lack thereof will affect the deadline. Therefore, it is crucial that both government and the private sector partnered to leverage available resources to ensure that migration is fully implemented within the set targeted timeliness.
+He suggested that when the Department comes back to update the Committee, the timelines and the estimated budget are advised so that Members could get a sense of whether the targets would be met within the deadline.
+Ms Van Damme asked sternly how much is the digital migration going to cost and is the money available to rollout the programme or not. The Department needs to be nimble about the implementation of the project and the new technologies are going to come all the time and the department needs to be nimble to that.
+Ms Mthembu suggested that Sentech should come up with a project plan and ensure that the service level agreements amongst the stakeholders are finalised.
+The Deputy Minister responded that the 4IR Commission will come to Parliament to present on how far it is gone through the National Development Plan (NDP) process. The main question is deducing a 4IR that is for South African and its citizens. Good work has been done so far but part of the biggest issues in that report is the alignment of legislation. For example, the Department of Justice is the primary initiator on combatting child pornography but the Department, through the Films and Publications Board, is responsible for controlling certain areas of pornography. However, cyber-bullying and infringement of privacy on the internet happens in private spaces. This is why it is important that government departments align in responding to these issues.
+For now, the Department is saying there are one million set-top boxes [for indigent households] in the South African Post Office (SAPO) warehouses and they must be cleared. SAPO has R240 million that must be used to register indigents; hence, with the R138 per person [per day allowed,] that money can be used for registration. The money is already available and SAPO is already being paid for its warehouse facilities. In the MTSF (Medium-Term Strategic Framework), the Department allocated R1.6 billion for the 3.2 million households. This is why it is important to align with Treasury to ensure the 2021 target is met [because] with the current budget the target will not be met. So the clearance needs to happen before the end of the 2019/2020 financial year so that the available funding can be utilised as soon as possible.
+Ms Bhatyi assured Members that there were no challenges with the CWP participants because the Department partnered with municipalities and ward councillors in terms of identification. As for the maintenance of the network, Sentech will go into detail on this and it will determine the amount required for that. There has not been a set-top box that is not working due to technical issues.
+When government departments contract, they do so with South African companies which must adhere to government regulations and standards. Checks and balances are in place but there will be a few bad apples trying their luck.
+Mr Mlamli Booi, Chief Executive Officer from Sentech said it has started developing the MoU with USAASA but it is still in the draft process which will be finalised before the end of the current financial year. SAPO will be coming on board and it is currently perusing the draft of the MoU.
+In terms of installations, there is capacity across the country for installers and Sentech has delivered on the core network side of things using internal processes and governance. The model placed before the Committee is more elastic and it will include local installers and local SMMEs (Small Medium and Micro Enterprises). The elasticity can be taken up depending on the number of installations that need to be done.
+From a signal point of view, the country is covered with digital services some households that have been covered in the Northern Cape adhere to the Square Kilometre Array (SKA) requirements. The project is in the Free State at the moment.
+The big towns are not excluded. The process will move from outside, in trying to comply with the cross border interference. The International Telecommunications Union (ITU) has requested that Sentech clear the signal across the borders. The big towns will be tackled last.
+The Chairperson said that more updates will come in the follow up engagements.
+Briefing by the Department on Performance Management System of ICASA
+Ms Bhatyi presented the Performance Management System (PMS) of ICASA which is informed by and has been developed based on the ICASA Act.
+[See the document distributed on the Performance Management System for information on the legislative context]
+The draft PMS of ICASA is based on the following fundamental principles: - independence, transparency and public interest. ICASA operates on a principle of collective decision-making. This means that the PMS must seek to evaluate the performance of each Councillor within the context of the Council as a whole. This principle is further strengthened by Section 3(2) read with Section 4(4) of ICASA Act which emphasizes the centrality of collective decision-making by the Council in executing its functions.
+The purpose of the PMS is to ensure that performance of the Chairperson and other Councillors of ICASA is monitored and evaluated and that the Authority performs in accordance with set goals and targets as contained in both the Strategic Plan and Annual Performance Plan. It is also to integrate individual performance with organisational performance with the objectives of ensuring that individuals achieve organisational objectives or targets, thus rewarding good performance on one hand and correcting poor performance on the other. Therefore, it is imperative that the Chairperson and other Councillors’ performance are linked to performance of ICASA as an organization.
+[See the document handed out, for the details presented to the PC]
+The Deputy Minister said that the Committee should be aware that this was a draft and its finalisation is a joint responsibility between the Department and the Committee. The responsibility for the whole process lies with the Committee. This may be considered as the first or draft tabling and there should be future engagements on the matter.
+Discussion
+Mr Molala commented on the draft and said that there was some contradiction in terms of the law because on page four it says that ICASA is independent but on page 13, the role of the Minister as the custodian of the PMS.
+Mr Madisha suggested that the Committee note the presentation. Further deliberations and engagements are yet to take place.
+Adoption of the First Term Programme
+Members considered and adopted the First Term Programme
+The meeting was adjourned.
+Follow this committee
+Follow this committee and get
+free email alerts
+whenever we get new information about it.
+Write to this committee
+Audio
+Implementation of Broadcast Digital Migration policy; Draft Performance Management System for ICASA; with Deputy Minister
+Documents
+Media Statement: Committee on Communications Calls for Acceleration of  Implementation of Broadcasting Digital Migration
+DOC - Implementation of the Broadcasting Digital Migration Policy
+DOC - Performance Management System for ICASA
+Present
+Maneli, Mr BM
+Chairperson
+ANC
+Faku, Ms P
+ANC
+Gumbu, Mr TT
+ANC
+Kekana, Ms PS
+ANC
+Madisha, Mr WM
+COPE
+Molala, Mr LE
+ANC
+Mthembu, Ms AH
+ANC
+Van Damme, Ms PT
+DA
+Download as PDF
+You can download this page as a PDF using your browser's print functionality.
+          Click on the "Print" button below and select the "PDF" option under destinations/printers.
+See detailed instructions for your browser
+here
+.
+Print
+Correct this page
+Disclaimer & Copyright
+Share this page:
+×
+What's wrong with this page?
+How we can improve this page?
+If you'd like us to get back to you, please enter your email address.
+Thank you for your feedback, your message has been sent.
+Close
+Send your feedback

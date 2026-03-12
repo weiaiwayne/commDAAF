@@ -1,0 +1,106 @@
+Title: DPSA Monitoring Tool
+Date: 20 Mar 2024
+Committee: 
+URL: https://pmg.org.za/committee-meeting/38675/
+============================================================
+
+Meeting Summary
+Video
+In a virtual meeting, the Department of Public Service and Administration (DPSA) briefed the Portfolio Committee on the introduction of a monitoring tool, similar to a management performance assessment tool, to ensure the enforceability and adherence of the Department's policies.
+The presentation provided the background and progress made since the operationalisation of the Office of Standards and Compliance (OSC), and an update on the development of the early warning system (EWS) for the DPSA. The OSC evaluates the appropriateness of norms and standards, and advises the Minister on the execution of his or her duties concerning the determination of minimum norms and standards contemplated in section 16, and the enforcement of compliance with the minimum norms and standards. The Office reports in writing at least once every quarter to the Minister on the performance of the OSC's functions and, as directed by the Minister, on the progress made in the investigation and finalisation of matters brought before the Office. The OSC conducts capacity and functionality audits of skills, systems and processes, and advises on capacity-building initiatives. It was also responsible for developing and implementing an early warning system to detect public administration non-compliance.
+The EWS had key indicators of norms and standards that support the capacity and capabilities of institutions. Once the early warning system was developed, it would identify national and provincial departments with high levels of non-compliance. Reports of non-compliance would be generated, and the OSC would then start the enforcement process to ensure compliance. The OSC would use an advice and persuasion strategy which would be characterised by negotiation, information provision and education. The threat of enforcement remained as far as possible in the background, and was to be invoked only in extreme cases where the regulated Department remained uncooperative and inflexible.
+During the discussion, the Committee asked what the compliance monitoring processes would be regarding the negotiations, labour relations and remuneration management programme. Did the process include a desire by government to reduce the wage bill? If so, what were the details? Did full and unrestricted access at all reasonable times to any employee by the OSC mean that even after working hours, the OSC could show up at officials’ private homes? If so, was this constitutionally lawful? What has the overall impact of the OSC been since its establishment? What measures would be undertaken to ensure the system's interoperability? What gaps had been identified, and what was the remedial intervention? Had the OSC reported to the Minister on the progress of its performance since it was established? How often was it reported to the Minister, and what kind of feedback did it receive? Would the tool spread throughout all spheres of government? Was the success of the proposed system dependent on a government-wide adoption of optimisation, or would the system link with other manually inputted data? What were the data points and key focus areas of compliance that this system would monitor?
+Meeting report
+Progress Towards Development of the Early Warning System and Enforcing of Compliance
+The Chairperson said the Department of Public Service and Administration's (DPSA's) delegation was led by Ms Yoliswa Makhasi, Director General (DG), as the Minister was attending a meeting in Sandton.
+Ms Makhasi said Mr Nyiko Mabunda, Acting Deputy Director-General (DDG), would make the presentation. Colleagues who were familiar with the technical aspects of the monitoring tool were present at the meeting, and would assist in responding to questions.
+Mr Mabunda said the presentation sought to provide a background and progress made since the operationalisation of the Office of Standards and Compliance (OSC), and to provide a progress update on the development of the early warning system (EWS) for the DPSA.
+With effect from 1 April 2019, through a proclamation issued by the President in terms of section 17 of the Public Administration and Management Act (Act 11 of 2014), the Office of Standards and Compliance was established. The Office became operational as a Chief Directorate through a restructuring of the Department from 1 April 2020, in the midst of the Covid 19 pandemic. The Office is therefore almost four years old. The Office has a Chief Director (vacant), three Directors (one vacant), three deputy directors, one assistant director and an administrator (nine officials)
+The presentation took Members through an overview of the OSC, the value chain of the Office, the OSC compliance monitoring model and the compliance monitoring theory of change – see attached for details.
+Progress Towards Development of the Early Warning System
+The presentation took Members through the project budget over the Medium Term Expenditure Framework (MTEF), phase of the project, project scope and achievements, heatmap, target state for the DPSA, implementation progress and targets for 2024/25.
+Way forward
+The development of the Early Warning System (EWS) will continue as a key project for the 2024/25 Financial Year (FY) with a prototype of the system developed by the end of the financial year
+Specifications for the project were drafted to guide finalisation of the Terms of Reference (TOR) and discussed by the Bid specification committee (User requirements; Functionality requirements and Technical Requirements Specifications)
+Proposal to utilise the Existing SAS system to avoid duplications & wastage
+The presentation took Members through enforcement of compliance – see attached
+Key achievements for OSC
+The development of the three frameworks to operationalise the work of the Office of Standards and Compliance. The frameworks aim to ensure that the work of the Office is implemented in a systematic way and acceptable standards within the public service.
+Development of a concept note on promotion and awareness
+The development of the 2020/2021, 2021/2022, 2022/2023 Annual Reports On Compliance With Public Service Legislative and Regulatory Prescripts.
+Business Process Mapping of DPSA processes was done in preparation for the early warning system. A report with recommendations towards the system specifications was approved by MPSA in February 2024
+Hosting of a Colloquium on norms and standards
+Reports on OSC national and provincial visits and promotion and awareness campaigns with non-complying departments.
+Two reports on evaluating the appropriateness of norms and standards with a focus on Precautionary Suspensions and Sick Leave. Both contribute to high costs to the state
+Concept Document on Enforcement and Compliance
+Conclusion
+It is proposed that the Parliamentary Committee:
+Take note of the report and work concluded in the preparation of the development of the EWS over the MTEF
+Note the recommendations emanating from the first phase of the project
+Note the enforcement of compliance and the process that will be followed as per OSC regulations, 2022
+Note the progress of work done by the Office of Standards and Compliance
+See attached for full presentation
+Discussion
+Ms M Kibi (ANC) asked what the compliance monitoring processes would be regarding the negotiations, labour relations and remuneration management program. Did the process include the desire by government to reduce the wage bill? If yes, what were the details? Did full and unrestricted access at all reasonable times to any employee by the OSC mean that even after working hours, the OSC could show up at officials’ private homes? If so, was this constitutionally lawful? What has been the overall impact of the OSC since its establishment? What measures would be undertaken to ensure the system's interoperability?
+Ms R Komane (EFF) asked what gaps had been identified during the gap analysis of the early warning system, and what had been the remedial intervention. Had the OSC reported to the Minister on the progress of its performance since it was established? How often had it reported to the Minister, and what kind of feedback had it received?
+Ms M Ntuli (ANC) said the development of this tool was the DPSA's fulfilment of a recommendation made by the Committee. Monitoring and compliance were crucial. This new tool was one of the pillars that made the public service stand firm on the ground. She commended the Department for exploring all avenues to make things happen. She asked if the tool would spread throughout all spheres of government.
+Dr J Nothnagel (ANC) asked if the success of the proposed system depended on a government-wide adoption of optimisation, or whether the system would link with other manual inputting of data.
+Ms S Maneli (ANC) asked what the data points were, and key focus areas of compliance that this system would monitor.
+DPSA’s response
+Mr Kuben Govender, Director: OSC, responded to the question regarding the involvement of all spheres of government. He said that the OSC was presently responsible for leading the project on the development of the EWS, which was based on a compliance monitoring system at a national and provincial level. The intervention bill passed by the Department of Cooperative Governance and Traditional Affairs (COGTA) gave the responsibility to COGTA to start a similar system for the local level of government. Both the OSC and COGTA would work closely in the new financial year to bridge the gap between the two systems so that eventually, there would be rationalisation of all three spheres of government data, especially on key indicators such as the capacity and capability of the institutions. The idea of having this system was to ensure that the DPSA could be proactive and intervene where there were red flags warning of possible worrying factors indicating an institution was not able to manage itself to its full capabilities.
+In response to the question on the impact of the OSC, Mr Govender said one of the first functions was to evaluate the appropriateness of norms and standards. The DPSA had started looking at two areas within the Department that could lead to non-compliance. It had done a study on existing systems in government, and those existing systems would be considered to be built into the EWS unless they had significant security issues. This would ensure conformity in the use of the system, where security would be paramount. Data verification, collection, and capturing in terms of validity would be important when considering the use of existing systems.
+Ms Ivy Matloga, OSC, said that the system would also be able to collect sources in addition to the linkages they were looking into at departments. The EWS would still be able to issue alerts and notifications. Data points of compliance that the system would monitor were the areas that the Minister determined. Reports from the OSC currently focus on areas such as ethics, delegations management, and the vacancy rate in government.
+In response to the question on interoperability, she said the OSC had done the mapping of business processes and developed strategies to promote compliance with the minimum norms and standards.
+She said the gap analysis had shown that institutions were manually based, with no automation. The processes were found to be labour-intensive and repetitive, so the intervention would be to consolidate the data to avoid duplication.
+Mr Mabunda said the main focus was to improve compliance and relations with organised labour and productivity. The EWS was not related to the wage bill, but was related to improvement in the productivity of public servants as well as the public service, and to addressing the issue of improving the way in which service was delivered. The system would not lead to a loss of jobs.
+He said reasonable access did not mean the OSC could show up at officials' private homes unless they had been placed there for work purposes. Reasonable access dealt with the work environment, or the world of work during office hours, and therefore there would not be any violation of constitutional rights. The biggest gap found in the gap analysis was the lack of reliable data that could be used to make decisions, and improve governance and service delivery. Closing these gaps would prevent the manipulation of data. The e-signature allowed the DPSA to see if there was any data manipulation.
+A number of reports had been shared with the Minister quarterly, including the annual state of the public service report. The Minister gave feedback that the Department should improve its interaction with public servants and institutions. This was to ensure that when the report was published, they would be able to understand the methodology used and the recommendations, thereby encouraging public servants and institutions to participate and express their views on how they would improve their work. The other feedback from the Minister involved improving time frames. When the DPSA advises public servants and institutions to improve, they should inform them as to how they could improve and give them time to improve.
+Ms Makhasi said she was quite excited about the possibilities this system brought to ensure efficiency. There were many areas that the Department had to monitor in terms of compliance. Possibilities were endless with technology, and once the system had been stabilised, artificial intelligence (AI) would be introduced to assist with monitoring departments.
+The Chairperson thanked the Department for their participation in the meeting.
+Consideration and adoption of minutes
+The minutes of the meeting on 20 February were reviewed, and Ms Ntuli moved their adoption. She was seconded by Ms Kibi.
+The minutes of the meeting on 28 February were reviewed, and Ms Maneli moved their adoption on condition that the secretary made changes to the name of the Chairperson, as it was incorrect. Ms Ntuli seconded.
+Lastly, the minutes of the meeting on 6 March were reviewed. Ms Kibi moved their adoption, and Ms Ntuli seconded.
+The meeting was adjourned.
+Follow this committee
+Follow this committee and get
+free email alerts
+whenever we get new information about it.
+Write to this committee
+Audio
+No related
+Documents
+DPSA Presentation
+Present
+Mgweba, Ms T
+Chairperson
+ANC
+Kibi, Ms MT
+ANC
+Komane, Ms RN
+EFF
+Maneli, Ms ST
+ANC
+Nkgweng, Mr G N
+ANC
+Nothnagel, Dr J
+ANC
+Ntuli, Ms M M
+ANC
+Download as PDF
+You can download this page as a PDF using your browser's print functionality.
+          Click on the "Print" button below and select the "PDF" option under destinations/printers.
+See detailed instructions for your browser
+here
+.
+Print
+Correct this page
+Disclaimer & Copyright
+Share this page:
+×
+What's wrong with this page?
+How we can improve this page?
+If you'd like us to get back to you, please enter your email address.
+Thank you for your feedback, your message has been sent.
+Close
+Send your feedback

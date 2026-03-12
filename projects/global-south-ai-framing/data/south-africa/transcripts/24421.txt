@@ -1,0 +1,143 @@
+Title: ICT White Paper Policy: Department briefing, with Minister
+Date: 23 May 2017
+Committee: 
+URL: https://pmg.org.za/committee-meeting/24421/
+============================================================
+
+Meeting Summary
+The Committee received a briefing from the Department of Telecommunications and Postal Services on the ICT White Paper Policy.
+In his preliminary remarks, the Minister said that the White Paper had been approved by Cabinet in September 2016 and gazetted. It replaced previous versions of the White Paper and was informed by non-discrimination and inclusivity and made citizens active determinants. It would be the first time that a measurement of progress had been introduced which would be done in conjunction with Stats SA. The White Paper introduced the Digital Fund which was broader than the existing USAF. The White Paper dealt with issues of innovation and fair competition. The White Paper was an important charter as it dealt with the internet which was
+the
+economy.
+The Department spoke to the Policy Review Process and what was covered in the White Paper which sought to develop an inclusive, innovative Digital Society through universal service and access to ICT networks, platforms and services. The policy covered the supply side, infrastructure roll out, the demand side, spectrum, the postal services sector, frameworks to increase ICT growth and transformation in the sector and institutional frameworks to facilitate the realisation of the new policy approaches. USAASA would be dissolved and the USAF Fund would be transformed into the Digital Development Fund. Spectrum would be used as a tool to open the market. All high demand spectrum would be assigned on an open access basis and non-high demand spectrum would be tradeable. The role of the Post Bank would be expanded to include the payment of social grants.
+There were a number of challenges it sought to address amongst which were:
+The unequal access to ICT services
+Frameworks and definitions for universal service and access was not extended to cover access to high quality broadband
+There was a duplication and lack of alignment in institutional frameworks and roles
+Changing technologies had affected market structure with more vertically integrated companies
+There was vertical and horizontal integration between content and telecommunication providers.
+There was a need for an integrated approach to internet governance at the national and international level
+Policies should be in line with that set out in the World Summit on The Information Society
+There was an ineffective regulatory regime
+There was a concentrated broadband infrastructure market
+The high cost of communication
+Unclear roles and responsibilities in the area of Radio Frequency Spectrum
+Gaps in the spectrum management regime
+The current exclusive spectrum regime favoured a few market players at the expense of broader socio economic development.
+There were no nationwide uniform requirements for the granting of permits and authorisations for the rollout of infrastructure such as towers
+Balancing the rights of licensees to enter premises
+The duplication of infrastructure
+The lack of coordination between stakeholders in different sectors
+A lack of synchronisation in approaches to digital transformation adopted by government departments
+Uneven capacity in government to roll out digital solutions and services
+Uneven access across society to access skills and services
+Internet content and services were predominantly in English and produced outside South Africa.
+The Post Office required a full restructuring to play a leading role in the provision of universal access to converged services
+There was a lack of coordination between different public entities, duplication of resources, and inefficient and ineffective regulation
+There was a need for whole-of-government commitment to digital transformation
+The regulation of the ICT sector was currently spread across different entities
+Members asked what authority the White Paper had over social services and the payment of social grants. How realistic was it that the Post Bank would get the job to do the social grant payments and would this be exclusively for the Post Bank or would it be in conjunction with other agencies? Was there any timeline for the takeover of the payment of social grants by the Post Bank. Members said there was no mention made in the White Paper of the fourth industrial revolution.   Members said the White Paper should include something on educating people on social media and cybercrime in a school based program. Members asked to what extent cyber security could be ensured. Members complained about the loss of prepaid data after an expiry date as this affected the poor. What timeline was envisaged for the legislation, especially for USAASA and the Digital Development Fund. Members said Wireless Open Access Networks (WOAN), which had not been opened for public participation. What was the expected costs of establishing WOAN and what was the economic value of its establishment? Would pension funds be involved? Why was there no report back on the Mexico study tour?
+Members said there was no mention of the prioritising of rapid deployment. What levy would be imposed on network companies and would the levy be affordable to companies? What assurances were given to Vodafone regarding its investments? What were the settlement terms of the ICASA case? Members wanted to know how the Department would fulfil all its recommendations given the current financial constraints. How successful had USAF been? Members asked what would happen to ICASA? Members asked how the Minister would ensure the transition to the new policy framework. How would the White Paper ensure that all people would have access to the market? Where would the money come from to fund the BEE Council?
+Meeting report
+Opening Remarks by Minister
+Mr Siyabonga Cwele, Minister of Telecommunications and Postal Services (DTPS), said that the White Paper had been approved by Cabinet in September 2016 and gazetted. It replaced previous versions of the White Paper. The White Paper was informed by non-discrimination and inclusivity and made citizens active determinants. It would be the first time that a measurement of progress had been introduced which would be done in conjunction with Stats SA. The White Paper introduced the Digital Fund which was broader than the existing Universal Service and Access Fund (USAF). There was rapid change and growth in the sector and it was now considered even bigger than the agricultural sector.
+The White Paper dealt with issues of innovation and fair competition. The White Paper was an important charter as it dealt with the internet which was
+the
+economy. Industry was taking a leading role in establishing international internet points to reduce reliance on overseas access points.  The issue of domain names was becoming important and Africa, as a continent, wanted a domain name ‘. Africa’ and people could apply as from July for this domain name. The Internet of Things (IoT) was also becoming important and a company had approached the government to pilot a smart village project. On the Rapid Deployment Policy, the Department was speaking to municipalities not to see rapid deployment as a revenue generating opportunity but rather to look at it as a development opportunity. The White Paper dealt with spectrum issues. Apart from supply side measures it also dealt with demand side measures, because on the demand side, the country was lacking. The digital strategy was another issue and the Department was looking at SMMME support in this sector. The White Paper contained new approaches to the postal sector and institutional arrangements. The Department continued to engage with policy makers and stakeholders.
+Briefing on ICT White Paper Policy
+Mr Robert Nkuna, Director General, DTPS, spoke to the Policy Review Process and what was covered in the White Paper which sought to develop an inclusive, innovative Digital Society through universal service and access to ICT networks, platforms and services. The policy covered the supply side, infrastructure roll out, the demand side, spectrum, the postal services sector, frameworks to increase ICT growth and transformation in the sector and institutional frameworks to facilitate the realisation of the new policy approaches. There were a number of challenges it sought to address.
+In Universal Service and Access the challenges were that there was unequal access to ICT services, especially the internet, frameworks and definitions for universal service and access was not extended to cover access to high quality broadband and there was a duplication and lack of alignment in institutional frameworks and roles. USAASA would be dissolved and the USAF Fund would be transformed into the Digital Development Fund.
+In the area of Innovation and Fair Competition the challenges were that changing technologies had affected market structure with more vertically integrated companies and the vertical and horizontal integration between content and telecommunication providers.
+In the area of the Internet the challenges were that there was a need for an integrated approach to internet governance at the national and international level and policies should be in line with that set out in the World Summit on The Information Society and the internet had to be available for all.
+In the area of Open Access the challenges were an ineffective regulatory regime, a concentrated broadband infrastructure market and a high cost to communicate.
+In the area of Radio Frequency Spectrum, the challenges were unclear roles and responsibilities, gaps in the spectrum management regime and the current exclusive spectrum regime which favoured a few market players at the expense of broader socio economic development. Spectrum would be used as a tool to open the market. All high demand spectrum would be assigned on an open access basis and non-high demand spectrum would be tradeable.
+In the area of Rapid Deployment, there were no nationwide uniform requirements for the granting of permits and authorisations for the rollout of infrastructure such as towers. The challenges were balancing the rights of licensees to enter premises, the duplication of infrastructure and the lack of coordination between stakeholders in different sectors.
+In a Digital Society, the challenges were a lack of synchronisation in approaches to digital transformation adopted by government departments resulting in overlaps, duplication and unnecessary expenses, uneven capacity in government to roll out digital solutions and services, uneven access across society to access skills and services, and internet content and services were predominantly in English and produced outside South Africa.
+In the area of the Postal sector the Post Office had a big role to play. The challenges were that the Post Office required a full restructuring to play a leading role in the provision of universal access to converged services. The Post Offices’ 2400 outlets could be used to promote universal access to ICT. The role of the Post Bank would be expanded to include the payment of social grants.
+Under Institutional Frameworks, the challenges were that there was a lack of coordination between different public entities, duplication of resources, and inefficient and ineffective regulation; there was a need for whole-of-government commitment to digital transformation; the regulation of the ICT sector was currently spread across different entities.
+Discussion
+Mr N Koornhof (ANC) asked if there was any timeline for the takeover of the payment of social grants by the Post Bank. There was no mention made in the White Paper of the fourth industrial revolution and that it could not be allowed, that rural South Africa was not part of the fourth industrial revolution. The White Paper should include something on educating people on social media and cybercrime in a school based programme. He added that when one bought one Gigabyte of data it could expire at the end of a month and this affected the poor.
+Mr C Mackenzie (DA) asked what authority the White Paper had over social services and the payment of social grants. How realistic was it that the Post Bank would get the job to do the social grant payments and would this be exclusively for the Post Bank or would it be in conjunction with other agencies? What timeline was envisaged for the legislation, especially for USAASA and the Digital Development Fund?
+Ms M Shinn (DA) said there had been a lot of public input into the White Paper but the surprise was Wireless Open Access Networks (WOAN), which had not been opened for public participation. Why was there no report back on the Mexico study tour which had been taken to look at the role of regulations and public private partnerships? What were the expected costs of establishing WOAN and what was the economic value of its establishment? Would pension funds be involved? There was no mention of the prioritisation of rapid deployment. What levy would be imposed on network companies and would the levy be affordable to companies? What assurances were given to Vodafone regarding its investments? What were the settlement terms of the ICASA case?
+Mr K Siwela (ANC) wanted to know how the Department would fulfil all its recommendations given the current financial constraints. How successful had USAF been? He said that two forms of regulators were envisaged in the White Paper, what would happen to ICASA?
+Ms N Ndongeni (ANC) asked how the Minister would ensure the transition to the new policy framework.
+The Acting Chairperson asked to what extent cyber security could be ensured. Concerns had always been raised regarding the growth of SMMMEs that had difficulty accessing markets. How would the White Paper ensure that all people would have access to the market?
+Minister Cwele said the issue of enabling the Post Bank to make social grant payments was just a policy. The questions by the Members, however were more about the current situation and that had been decided on by the High Court. The key was for SASSA, which was the body entrusted with making the social grant payments, to arrange for payments to be made through the Post Bank or to sort out the payments in another way. SAPO was engaging on the payments issue with SASSA and was ready to assist.
+With regard to the fourth industrial revolution, he said that while no overt mention had been made of the term, the White Paper did embrace what the fourth industrial revolution stood for. The government, as a whole, was engaging to prepare the country for the fourth industrial revolution.
+Regarding protection from cybercrime, he said that the benefits of the internet far outweighed its disadvantages.
+Responding to Mr Koornhof’s question, he said the policy was not to regulate social media. The key challenge was to educate citizens that had been wronged. The regulations had been corrected to deal with the issue of the loss of data after an expiry date had been reached. However, he this needed monitoring to ensure that companies were compliant with the regulations. Contracts had to be clearly explained upfront to consumers. The 30% that the government sets aside to the Post Office was a policy not just for the Post Office, but for the whole of government.
+Minister Cwele said that SASSA procured vendors to do the social grant payments and the Post Office was working to demonstrate to SASSA and the Court that it had the capability to do the social grant payments.
+On the legislative process, he said officials had produced draft bills and circulated them to other government departments for comment and the Department still had to do socio-economic impact studies. These matters would conclude between December 2017 and March 2018. Industry too was awaiting the details and the Department was working flat out.
+Minister Cwele said there was no report on the trip to Mexico because the trip occurred months after the policy had been completed and so the trip was not done to inform policy. The Mexico trip was done as being part of the Africa group for the International Government Forum. This trip was regarded as an opportunity to piggy back being there for the forum with interacting with the Mexican government on WOAN. The Department had been informed by the Mexicans that the Mexican system was working. It had reduced costs and more players had entered the market. The Mexican system however was different to the South African system in that the Mexican system was driven by citizens who had complained of a lack of services in rural areas and their constitution had a provision to allow them to drive the process. The Department had also consulted with the Rwandan government.
+He said the Department had not done an impact study, but he knew that SMMMEs were very excited. They saw this as their last hope to be part of the market.
+On the Rapid Deployment guidelines, he said that the implementation plan needed to be finalised first and he hoped that it would be finalised soon.
+He had met with the CEO of Vodacom regarding their investments. He had interacted with CEOs of all the companies on a regular basis, not just with Vodacom, because it was important to listen. What was key regarding his meeting was that it had occurred after a major political event and before the downgrade by some ratings agencies. Vodacom was a company that looked at the long term. They had offered some proposals and appealed, like all the companies, for spectrum.
+In reply to Mr Siwela, the Minister said the Department was small but had to implement the policy. National forums, that had been established, assisted in the implementation of the policy. There had been an increased awareness of cybersecurity and an increase in awareness campaigns to the public.
+Minister Cwele said he was looking at reviving the Broadband Advisory Council because it would assist in rapid deployment and because of the need for knowledge regarding the fourth industrial revolution. He appealed to companies to co-fund the re-establishment of the Broadband Advisory Council. There had been extensive discussion on having the two regulators; the Economic Regulator, which was a fully fledged, resourced and responsive Regulator while the Content Regulator dealt with issues such as freedom of expression issues.
+Minister Cwele said enterprise development was critical. He was happy that operators had been on the side-lines at WEF – Durban. Here entrepreneurs had showed their gadgets to him and to the local operators who had responded positively to the gadgets.  Smart Africa initiative was trying to develop and create one digital African market.
+Regarding education programs at school, Mr Nkuna said that the Department had started on the implementation of SA Connect and the majority of connections would be to schools. There would be engagements with the DBE and one of the programmes it would have to engage on would be on social media platforms. The focus though would be on connectivity and infrastructure
+Minister Cwele added that the President had launched ICT in Education at the launch of Operation Phakisa and the DBE had done a lot on digitization and the Deputy Minister of Education was very active on this project.
+Mr Nkuna addressed the question concerning the expiration of data, and said ICASA could explain in detail, but the Department saw this as part of the work that still needed to be done on the regulations of data and broadband. The Minister had given policy direction to ICASA to go beyond the issue of transparency mechanisms.
+On the Post Office failing to get government business, he said that the Post Office had to bid and compete against private companies for the past two years. When the Post Office Act was amended, this would be dealt with because the mandate of the Post Office would be expanded beyond just focusing on letters and it would not have to bid like any other company for business.
+On legislative changes regarding USAASA and the sector regulator, he said the Department envisaged separate laws. One would deal with the Digital Development Fund and the other with the regulator.
+On the Mexico issue, he said he Department had its own internal report.
+On the cost of expanding the WOAN, he said this was not a state-owned enterprise where there would be normally a business case which would flow approval processes. The ones who would be running and operating this network would be putting together business cases and therefore government could not impose on industry to say this was how they should spend. The departments focus was on the regulatory regime that would be required for the network. He did not know at this stage whether DFI would be interested.
+He said the rapid deployment was in the APP. What the Department was doing in their engagements with industry was looking at long term legislative instruments. The law in its current form allowed them to run the programme.
+On the calculation of the contribution to the Digital Development Fund, he said the Department did not want to bankrupt industry and industry was contributing to the Universal Services Access Fund currently. What the Department was doing was subtracting the cost of providing the service. This model had shown it worked in South Africa.
+On implementing the White Paper on limited resources, he said the APP had been presented and the Department was doing a lot of the work themselves instead of using consultants. The bulk of the drafting was being done internally. USAASA would be more of a fund and play a role beyond just infrastructure support. And look at the demand side issues.
+On cybersecurity, he said the most important challenge currently was awareness creation. Within government there was a mechanism to talk to other government departments in monitoring what was happening and the big challenge was how to involve citizens.
+A Department official said that at the two-day hearing the previous year on the cost to communicate there had been several representations made which lamented the fact that one bought prepaid data which disappeared at the end of a month. This had had an impact on vulnerable sectors such as students.
+This needed to be juxtaposed with an ICASA report released in March 2017. The report showed that that mobile data traffic had increased by 55% between 2015 and 2016. In the same period, mobile data revenue had increased from R30b to R38b in the same period.
+Following the parliamentary hearings, a task team was established to investigate the business rules regarding the expiry of data and the high cost of Out of Bundle data. The task team had been meeting and would be holding industry meetings this month to find solutions. After this meeting a report would be given to the Minister and the Department and then to Parliament.
+Mr Nkuna said the cyber security hub was currently operational and was linked to the banking systems and it was linked to the Cyber Security Committee. What was missing was industry, which was the platform which should have its own kind of response mechanism in place. There was also the Cyber Security Advisory Council in place, which advised the Minister.
+Minister Cwele said one could draw one’s own conclusion on the fact that mobile traffic had increased and the mobile revenue had increased but the cost remained the same.
+Regarding the Mexico trip, Ms Shinn asked what the impact of the findings was on South Africa’s approach. What did the Minister learn which could inform the approach to WOAN? Why were the mobile network operators so excited as no concession on spectrum had been advanced? Where would the money come from to fund the BEE Council? Regarding the gadgets presented on the side-lines of WEF, she asked if the gadgets had been SABS and ICASA approved.
+The Acting Chairperson said everyone had the right to not have their privacy infringed and the right not to be treated in a cruel or degrading manner. In terms of the internet what had been done on this front?
+Minister Cwele said that in Mexico, they had learnt that the network had been working and independent reviews showed that there had been price decreases.
+Regarding the excitement, he said that all network operators had been excited. The only challenge had been the implementation of WOAN and spectrum because the operators’ networks were congested and they were appealing for spectrum. The operators were excited about the rapid deployment. There was a large cost involved in laying out new infrastructure and this cost made up a large part of the cost of data and therefore the cost to the public. Therefore, municipalities should not see operators as cash cows to be milked as this would kill the operators. The initiative should be seen from a development perspective.
+He said the ICT BEE Council would be funded from government money. The BEE Act specified that government: business funding should be 50:50 but currently only government was paying and industry was waiting to see if the Council was functional.  Half the BEE Council was made up of industry representatives.
+He had not received documentation that the gadgets had been SABS or ICASA approved, but they had received international grading and compliance certification. He said it was the Department’s responsibility to assist them and to reduce their burdens. Industry had responded positively to entrepreneurs.
+A Department official said the issue of privacy was about a balance between a person’s rights and constitutional issues within the electronic environment. It was a complex question that no one could claim to have an answer to. Online legislation could not cater for all kinds of crimes. There were specific laws in various sectors. The Department of Justice dealt with cybersecurity legislation and strengthened the regulations on crime related to online crime. The Film and Publications Board was updating their legislation to deal with online films. The content Regulations would be strengthened. The White Paper dealt with the issue under the digital society chapter on the digital access pillar where the promotion of trust and security was dealt with. The White Paper said the Department should empower users and run awareness campaigns. The Department needed to look at citizens and their needs; what basic skills did citizens need to participate and the integration of digital skills in the formal, primary, secondary and tertiary institutions. Thereafter amendments would have to be brought to deal with these issues and to have specific mechanisms to protect school children, to prevent unauthorised personal data storage and to enable citizens to be able to remove information from the internet that unfairly stigmatised them. These were some of the new progressive policy in the White Paper that addressed the Chairperson’s question.
+Minister Cwele said that another element was the partnering with the University of Pretoria and the funding of research into the ethics around artificial intelligence. At the moment industry was doing self regulation. One of their key challenges was the ethical issues. For the Department, the question was who would benefit from the fourth industrial revolution, the super rich or the poor.
+The meeting was adjourned
+Audio
+ICT White Paper Policy: Department briefing, with Minister
+Documents
+The National Integrated ICT Policy White Paper
+Present
+Matshobeni, Ms A
+Chairperson
+EFF
+Cwele, Dr SC
+ANC
+Kilian, Ms JD
+ANC
+Koornhof, Mr NC
+ANC
+Mackenzie, Mr C
+DA
+Manyoni, Mr T M
+ANC
+Ndongeni, Ms N
+ANC
+Shinn, Ms MR
+DA
+Tsotetsi, Ms D
+ANC
+Download as PDF
+You can download this page as a PDF using your browser's print functionality.
+          Click on the "Print" button below and select the "PDF" option under destinations/printers.
+See detailed instructions for your browser
+here
+.
+Print
+Correct this page
+Disclaimer & Copyright
+Share this page:
+×
+What's wrong with this page?
+How we can improve this page?
+If you'd like us to get back to you, please enter your email address.
+Thank you for your feedback, your message has been sent.
+Close
+Send your feedback

@@ -1,0 +1,155 @@
+Title: BER overview of economic growth trends, fiscal constraints, and sectoral priorities affecting 2026/27 DoRA and related matters
+Date: 28 Nov 2025
+Committee: 
+URL: https://pmg.org.za/committee-meeting/42175/
+============================================================
+
+Meeting Summary
+Video
+The Budget Committee of the Western Cape Provincial Parliament met in a hybrid format to receive a briefing from the Bureau for Economic Research (BER) on growth trends, fiscal pressures, and sectoral priorities affecting the upcoming 2026/27 Division of Revenue Act.
+The BER outlined South Africa's protracted economic slowdown, linking weak productivity and unproductive past investment to stagnant per capita growth and a sharp decline in potential growth. It noted that a more supportive global environment with lower inflation was allowing for domestic interest rate cuts.
+The BER proposed that the fiscal position of provinces could be improved by growing the national revenue pool through structural reform and improved spending efficiency in order to shift more allocations to provinces. The Western Cape Government could leverage its powers and mandates to improve education and municipal governance. It should enhance provincial spending efficiency and own-revenue sources.
+Members raised questions concerning the adequacy of the Western Cape’s growth relative to its 2035 target, the constraint of high energy costs on expansion, and the province’s limited ability to influence national spending priorities. Members also focused on the realism of the provincial Growth for Jobs (G4J) strategy, the challenge of attracting investment to smaller municipalities, and the equitable distribution of funds to local government. Members stressed the importance of export agility, industrialisation, SMME growth, and the quality of jobs being created.
+The BER endorsed the strategic focus on enabling growth through infrastructure and resilience, arguing that government’s core role was to provide efficient basic services to allow the economy to grow organically. The BER confirmed the province was the fastest-growing in the country with the lowest unemployment rate and that economic growth remained the primary long-term driver of job creation. It was suggested that the Committee engage with national reform initiatives on municipal issues.
+Meeting report
+The Chairperson welcomed Members and Dr Roy Havemann, Senior Economist, Bureau for Economic Research (BER). He stated that Dr Havemann had been invited to provide the Committee with additional input on the provincial budget and the economic and fiscal challenges faced nationally and provincially. The briefing was timed to align with the recent Medium-Term Budget Policy Statement (MTBPS) and the upcoming adjustment appropriation process.
+Briefing: Factors affecting the Division of Revenue Act
+Dr Havemann remarked that it was a curious experience to return, having previously been Head of the Provincial Budget Office from 2020 to 2023.
+He said the BER was South Africa’s oldest macroeconomic research organisation, having celebrated its 80th anniversary the previous year. It served as a virtual in-house economics department for about 90 clients. It maintained strong relationships with provincial and national governments and the Presidency. He emphasised the value of an independent research unit providing analysis free of ideological bias in the current political environment. The BER’s Impumelelo Economic Growth Lab aimed to produce policy-relevant research and build capacity to achieve economic success. The national structural reform agenda, while slow, remained a critical priority for economic growth. As an independent team, the BER could provide ideas focused purely on improving economic performance.
+Dr Havemann stated that he had been asked to provide an overview of economic growth trends, fiscal constraints, and sectoral priorities affecting the 2026/27 Division of Revenue Act (DoRA), to assist the Committee in formulating recommendations following the MTBPS. His presentation covered the following areas:
+Structural trends
+Economic growth had collapsed over the past decade. While growth averaged 3.6 percent in the 2000s and peaked above 6 percent in 2005/06, it averaged only 1 percent between 2015 and 2019, one of the weakest five-year periods on record. Historical analysis showed the last decade was among the worst for per-capita growth. The post-2008 global financial crisis was not a sufficient explanation, as South Africa had underperformed relative to peer upper-middle-income countries, which were now significantly richer.
+Potential growth
+Dr Havemann explained potential growth as the maximum sustainable rate without causing instability, using the analogy of a highway speed limit constrained by road conditions. South Africa’s potential growth had fallen dramatically, with estimates showing it dropping to near zero before the COVID-19 pandemic and reaching only about 1 percent in 2025, which was insufficient to address unemployment or fiscal pressures.
+Sources of weak growth
+Using a Solow decomposition, he said strong total factor productivity (TFP) drove growth in the early post-apartheid period. After 2004, job creation increased but TFP gains slowed. Following the global financial crisis, TFP collapsed. Investment continued but was often unproductive, exemplified by the electricity sector where the capital stock doubled but productivity plunged due to the poor performance of the Medupi and Kusile power stations, a period linked to state capture.
+Global environment
+Global forecasts had stabilised. The United States government shutdown had been resolved, tariff-induced inflation had not yet materialised significantly, and monetary policy was easing internationally, with a weak US dollar supporting the rand. Geopolitical risks remained, including conflicts in Gaza and Ukraine, and rising global defence spending. Strong commodity prices benefited South Africa’s exports and fiscal revenue.
+Domestic environment
+The Rand was supported by global risk appetite, commodity prices, and dollar weakness. National Treasury had collected approximately R20 billion above forecasts. Inflation had moderated due to strong harvests and lower oil prices, though electricity tariffs remained a concern. The new 3 percent inflation target had enhanced credibility and enabled earlier interest rate cuts by the South African Reserve Bank (SARB).
+National Treasury was still expected to meet medium-term fiscal targets, though outer-year risks persisted. Lower inflation reduced nominal Gross Domestic Product (GDP), which mechanically increased the debt-to-GDP ratio.
+Dr Havemann said investment remained the primary concern, as business confidence was low. Consumer spending had been resilient, supported by the two-pot retirement system, the Social Relief of Distress (SRD) grant, and exports. Improvements in Eskom’s operational performance had reduced load-shedding. Consumer finances were improving with interest rate cuts, and vehicle sales had risen due to better availability and lower prices.
+(See attached for full presentation)
+Discussion
+The Chairperson noted that the presentation had given the Committee a fair amount to consider. He reflected on the Western Cape’s economic growth, noting that the province had experienced an influx of population, often comprising wealthier individuals from other provinces. He suggested that the Western Cape had been relatively quicker in adopting renewable energy, that its agriculture sector was robust, and that it was seeing significant international tourism.
+Given these factors and the provincial target of becoming a trillion-rand economy by 2035, he asked whether the province should have seen greater growth traction already. Alternatively, he questioned whether the Western Cape was in fact performing relatively well against a weak national backdrop. His core question was how the province could accelerate its growth rate and what specific policy interventions within its control could be implemented to move faster. He acknowledged that Dr Havemann had already indicated several areas for consideration.
+Mr T Walters (DA) said he was particularly interested in the energy component of the presentation. He referenced the highway analogy for potential growth, noting that the cost of energy was a critical constraint. He understood that the real cost of energy in South Africa had increased roughly fivefold since the 1980s.
+Had the BER conducted any studies on the potential impact of reliable energy supply on growth in the Western Cape? He noted that the presentation highlighted the province’s limited direct levers. Significant influence was largely confined to municipal performance and education, while it remained highly dependent on the national budgeting process. He questioned whether the national budget-setting process, in its current form, optimally supported service delivery from the "coalface up."
+Mr Walters asked if there were opportunities for a province to influence the national budgetary cycle to better prioritise frontline service delivery over sustaining what he viewed as failing, expensive systems at the national level.
+Mr N Masipa (DA
+)
+noted that the economy was growing below inflation, reducing consumers' purchasing power and particularly affecting grant recipients. While inflation targeting had lowered the official rate, he observed that the cost of services like medical aid, water, sanitation, and Eskom electricity often increased above 7 percent. Reduced interest rates, while beneficial in some areas, negatively impacted returns for pensioners and investors.
+He acknowledged strong national revenue collection but stated that provincial allocations were insufficient to provide a full suite of services. He believed the Western Cape performed well on its chosen priorities, but this left gaps in addressing core constitutional mandates like comprehensive food security, health, and education. His question was how the province could make better budgetary choices going forward, and whether the BER's research could advise on additional priorities to better serve residents. How could the Budget Committee conduct proper oversight to ensure accountability to voters? What future economic shocks had the BER identified? How could municipalities, particularly those in coalition governments in rural areas, be prepared to deal with them from a corporate governance perspective?
+Ms N Nkondlo (ANC) referred to slide 57 of the presentation which illustrated the split of funds between national departments, provinces, and local government over a period. She observed that the shares of the three spheres had not been equitable and asked how local government could be brought more effectively into conversations about the equitable share formula. She highlighted the issue of unfunded mandates raised by the South African Local Government Association (SALGA), where municipalities at the coalface of service delivery lacked sufficient funding.
+The provincial sphere often acted as project manager, allocating funds and functions to municipalities for implementation, a model with mixed results that could create red tape. She cited housing provision and general development as examples, where lengthy municipal processes for needs registration and plan approval frustrated private sector developers. She argued for budgeting that recognised local government as a crucial partner in policy implementation, not a junior one, and that considered the necessary capacity and sophistication. Municipalities often lacked the capability to develop investment plans for local projects. She referred to efforts by the Western Cape Economic Development Department (Wesgro) to build this capacity.
+A municipal economic review showed economic potential in many municipalities was undermined by poor outcomes on indices like the Human Development Index and the Gini Coefficient, especially for poor residents. Her core question was how shifts in public financing could more effectively include local government in the equitable share conversation.
+Her second issue concerned the provincial Growth for Jobs (G4J) strategy. Given global dynamics, particularly recent US tariffs, she questioned the realism of its targets. While noting positive news about finding alternative markets for citrus, she pointed out that shifting exports to markets in Africa or the East was hampered by logistical and infrastructure constraints. She asked what role the Committee should play in annually overseeing whether growth projections were being met amidst uncontrollable global and domestic dynamics, to avoid future shocks.
+Thirdly, she requested comment on currency issues, specifically concerning the devaluation of the rand in global trade and what could be expected.
+She raised concerns about the quality of jobs created. While job numbers might grow, income levels for labour were not necessarily rising, which limited consumption capacity and perpetuated inequality. Was there any evidence that workers in sectors like agriculture, which were meeting export targets, were seeing increases in their incomes? The broader economy depended on their consumption spending.
+Mr D Bryant (DA) said he was interested in the comments made about reducing interest rates and reducing inflation, because after the COVID-19 crisis many global financial institutions had raised interest rates specifically to drive inflation down. This had been the standard policy explanation communicated for a long time. Was a different approach now being applied?
+Secondly he referred to the discussion about coalitions. He noted the positive reception by business of the Government of National Unity (GNU), but he had also heard concerns about certain local government coalitions. Was there any kind of formula or approach one could use to understand the impact of local-level coalitions on the economic outlook, in contrast to single-party governments?
+Responses
+Western Cape economic performance
+Dr Havemann noted that the Western Cape economy appeared to be performing relatively better than other provinces. Builders, manufacturers and retailers in the province expressed higher confidence levels than their national counterparts. Vehicle sales had grown faster locally over the previous two years. He acknowledged the difficulty in obtaining precise provincial data due to lags in Statistics South Africa's GDP releases, but stated that available indicators suggested faster growth. There had been significant in-migration from other provinces, which placed additional pressure on provincial systems and services.
+Energy costs and municipal power
+Dr Havemann said
+this was a critical factor. The slower-than-expected rollout of municipal Independent Power Producer (IPP) programmes was increasingly due to high electricity costs rather than security-of-supply concerns, as municipalities were reluctant to pass costs to consumers. He suggested that renewables like solar offered cost advantages that could alleviate tariff pressure.
+Provincial influence on national spending
+Dr Havemann stated that parliaments existed to authorise taxation and that the budget was a key oversight tool. Provincial and national legislatures could influence expenditure through budget discipline, the mandating process, and hearings. The changing political landscape had created opportunities to reform spending, such as reducing allocations to ineffective Sector Education and Training Authorities (SETAs) or state-owned enterprises (SOEs).
+Impact of interest rates and inflation
+Dr Havemann acknowledged that lower interest rates reduced interest income for pensioners. However, high inflation disproportionately harmed pensioners and poorer households who could not adjust their incomes. Lower inflation, even with lower interest rates, tended to have a more favourable overall impact on vulnerable groups.
+Provincial spending choices and oversight
+Dr Havemann declined to comment on specific decisions, noting that he no longer worked for the province and that the BER was apolitical. He emphasised the Committee’s critical oversight role over provincial own-revenue sources like gambling and motor vehicle licences.
+Growth for Jobs strategy and exports
+Dr Havemann noted that using education as a driver of growth appeared to be a central theme. The strategy was less about targeting specific markets and more about ensuring functional ports and logistics. He observed that South Africa’s exports were increasingly going to China and India, and that tourism from these markets held untapped potential.
+Municipal coalitions and service delivery
+BER surveys showed business was most concerned with policy uncertainty, which was exacerbated by frequent coalition changes. Consistent service delivery – water, electricity, roads – was what mattered most to the private sector, regardless of political arrangements.
+Division of Revenue and local government funding
+Dr Havemann reiterated that national-level cost-cutting, such as through SETA or SOE reform, could create fiscal space for provinces and municipalities. He acknowledged the challenge of unfunded mandates and noted that conditional grants were often insufficient, requiring work at both municipal and national levels to improve efficiency.
+Global inflation and interest rates
+On global economic trends, Dr Havemann explained that the post-COVID-19 inflation surge had prompted central banks to raise interest rates aggressively. South Africa’s inflation spike was lower than in the US and UK. Inflation had since moderated, allowing central banks to begin cutting rates. He declined to comment further on coalition politics, noting it fell outside his expertise as an economist.
+Further discussion
+Mr Walters asked whether the BER had conducted any studies or projections on the impact of artificial intelligence (AI), digital connectivity, and Fourth Industrial Revolution (4IR) technologies on job creation and government efficiency in the Western Cape, noting that the province viewed these as key strategic pillars. He emphasised that while job creation was essential, the goal was to create stable, permanent jobs that allowed people to build futures.
+Mr M Booysen (DA
+)
+asked whether a view that the earlier period of 6 percent economic growth was not "ideal growth" – as it generated limited meaningful employment and was driven largely by increased company tax revenue – was an accurate reflection. He added that South Africa was not beneficiating its raw materials sufficiently. Increased beneficiation would create more jobs and grow the economy. He referred to US President Donald Trump’s domestic value chain policies. He agreed that education mattered, though it was sometimes politically contentious. Lower education levels made people more easily manipulated.
+Mr Booysen referred to a debate about whether gambling taxes should accrue to the province where the gambler resided rather than to the national government. He mentioned past instances of vehicle licence fee arbitrage. Regarding local government, large businesses were willing to pay for value, but dysfunction in municipal systems – such as poor communication between planning and billing departments – undermined revenue collection. There was a need for integrated municipal systems to ensure seamless inter-departmental communication.
+The Chairperson referred to slide 34 on Operation Vulindlela, which listed key projects like strengthening local government and improving basic services. These were critical issues for all government spheres. Were there specific areas where the province could play a more accentuated role?
+Mr Masipa returned to his earlier questions, stating that political choices informed economic analysis. He clarified that his question specifically concerned the Western Cape government’s strategic choice – the Growth for Jobs (G4J) strategy – and the multiplier effect of that choice in addressing persistent challenges. Had the BER conducted a deeper analysis of this strategy to assess its suitability for the province’s economic problems?
+He asked whether the BER had performed a deep dive into the Western Cape’s economic structure to understand its resilience against potential future shocks, and what those potential shocks might be. He reiterated his question about attracting investors to poorly-rated municipalities, such as those in the Central Karoo, which lacked the credit rating to borrow like the City of Cape Town. How could such municipalities be supported through strategic choices to sustain their local economies?
+Ms Nkondlo followed up on trade diversification. Her question focused on the agility of the domestic market and export capacity to swiftly meet growing demand in new markets. She stressed that timing was critical for realistic growth projections. Did the assumptions within Operation Vulindlela and the G4J strategy account for the requisite pace of industrialisation to seize these opportunities?
+She cited ongoing work on port logistics as an example, but questioned the extent to which domestic industrial capacity was actually expanding. She referred to stagnant-to-negative gross fixed capital formation and asked what within the mentioned strategies indicated an increase in this area.
+Ms Nkondlo further highlighted poor performance in Small, Medium and Micro Enterprise (SMME) growth, noting an over-reliance on a few large corporations and an under-researched informal economy.
+She concluded by asking what specific indicators the Committee should monitor within the budgets and strategies to ensure the province was building new capabilities and businesses capable of absorbing employment and driving domestic economic growth.
+Growth for Jobs strategy and economic choices
+Dr Havemann said he believed the G4J strategy was the correct approach for driving economic growth. He noted that not all provinces prioritised growth to the same degree and commended the strategy's focus. Having been involved in the Provincial Treasury at its launch, he supported its key pillars: driving investment, building energy resilience, and stimulating growth through exports. The strategy aimed to make the economy resilient to shocks like energy and water shortages, which would enable exporters to be agile and reorient towards new markets.
+Government's role in enabling growth
+Dr Havemann suggested that government's primary role was to create conditions where any business could succeed, rather than championing specific industries. He argued for focusing on making foundational services – like ports and electricity – reliable and efficient, thereby "getting out of the way" to allow the economy to grow organically. He contrasted this with a strategy of "vertical" beneficiation, using the historical example of Telkom and Vodacom to illustrate how unpredictable successful industries could be.
+Beneficiation and diversification:
+Dr Havemann proposed the concept of "horizontal diversification." Using the example of a cattle farmer, he argued that forcing vertical integration – for example, into leather goods – was often inefficient. Instead, he suggested developing capabilities in related fields, such as South Africa's expertise in mining engineering, as a more sustainable form of value addition.
+Western Cape economic analysis
+Dr Havemann confirmed that the BER closely monitored the Western Cape economy. The province contributed 14.3 percent to the national GDP. It was smaller than Gauteng and KwaZulu-Natal, but was the fastest-growing province between 2019 and 2023, with an average growth rate of 2 percent. It had the lowest unemployment rate in the country, partly due to job-absorbing sectors like agriculture.
+Relationship between growth and job creation:
+Analysis showed that, over the long term, economic growth was the most significant driver of job creation. The BER estimated that a one percentage point increase in growth led to approximately an 0.7 percentage point increase in employment.
+Artificial Intelligence and job creation
+Dr Havemann acknowledged that AI could threaten jobs in some sectors, including research. However, he advised against isolationist policies, advocating instead for "leaning into" technological progress. He praised provincial initiatives to use AI for improving service delivery in health and education through e-learning and data analytics.
+Operation Vulindlela and municipal reform
+Strengthening local government – a key component of Operation Vulindlela – was critical for growth, as business functionality depended on municipal services. He suggested the Committee invite the Operation Vulindlela team to present, as the reforms increasingly touched on provincial competencies in municipal oversight.
+Gambling taxes and inter-provincial competition
+Dr Havemann agreed with concerns about inter-provincial competition, citing the example of motor vehicle licence fees. A "race to the bottom" could occur with online gambling licences. He mentioned a National Treasury proposal to consider a minimum gambling tax to ensure national coordination and prevent revenue loss for provinces like the Western Cape.
+Closing remarks
+The Chairperson thanked Dr Havemann for his presentation, stating it was very important for the Budget Committee in the current environment to consider how to reshape the economy, restore growth, and get back onto an employment path. The insights provided would stimulate thought and discussion and help the Committee consider reprioritising expenditure and finding additional revenue streams. He reflected on the challenges of municipal budgeting and stressed the importance of the national debate. He thanked Dr Havemann for his work with the Impumelelo Growth Lab and for his attendance, noting the Committee would deliberate on his input during the upcoming adjustment, appropriation and Division of Revenue Act processes.
+Dr Havemann thanked the Committee for the invitation.
+Further business
+The Chairperson reported that a research report from the Western Cape Provincial Parliament (WCPP) research unit, compiling departmental needs and priorities from budget documents, was expected later that day and would be circulated. He advised Members to digest Dr Havemann’s presentation alongside other key documents, including the earlier briefing from the Financial and Fiscal Commission (FFC) and the documentation from the MTBPS process, which would also be circulated by the Procedural Officer.
+The Chairperson announced that the adjustment appropriation process would begin on Thursday of the following week after the Minister’s speech in the Chamber. There would be virtual meetings with the NCOP and National Treasury on Friday. The week after would involve continued work to formulate recommendations on the Adjustment Appropriation Bill.
+The meeting was adjourned.
+Follow this committee
+Follow this committee and get
+free email alerts
+whenever we get new information about it.
+Audio
+No related
+Documents
+BER Presentation
+Present
+Van Wyk, Mr L
+Chairperson
+DA
+Booysen, Mr M
+DA
+Bryant, Mr D W
+DA
+Johnson, Mr P
+DA
+Kaizer-Philander, Ms W
+DA
+Masipa, Mr NP
+DA
+Nkondlo, Ms ND
+ANC
+Petrus, Mr B
+PA
+Van Minnen, Ms BM
+DA
+Walters, Mr TC
+DA
+Wessels, Mr D
+DA
+Download as PDF
+You can download this page as a PDF using your browser's print functionality.
+          Click on the "Print" button below and select the "PDF" option under destinations/printers.
+See detailed instructions for your browser
+here
+.
+Print
+Correct this page
+Disclaimer & Copyright
+Share this page:
+×
+What's wrong with this page?
+How we can improve this page?
+If you'd like us to get back to you, please enter your email address.
+Thank you for your feedback, your message has been sent.
+Close
+Send your feedback

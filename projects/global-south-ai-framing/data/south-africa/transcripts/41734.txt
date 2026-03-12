@@ -1,0 +1,305 @@
+Title: Department of Home Affairs & BMA 2024/25 Annual Reports; DHA ICT rollout of self-service kiosks; One-Stop Border Post Bill; with Minister
+Date: 10 Oct 2025
+Committee: 
+URL: https://pmg.org.za/committee-meeting/41734/
+============================================================
+
+Meeting Summary
+Video
+Annual Reports 2024/25
+The Portfolio Committee convened virtually to receive briefings on the annual performance reports of the Department of Home Affairs (DHA) and the Border Management Authority (BMA) for the 2024/25 financial year, and to receive clarification on legislative matters pertaining to the One-Stop Border Post (OSBP) Bill.
+National Treasury clarified the revised clause six of the OSBP Bill, confirming that the movement of goods or money by officials for official purposes within the common control zone was not subject to the import or export laws of South Africa or the adjoining state. Treasury submitted that there was no revenue implication that required a money bill in terms of section 77 of the Constitution. The matter was settled, and the item was deferred for deliberation and A-list consideration at the next meeting.
+The DHA reported achieving 83% of its targets, representing a 12% increase in performance from the previous financial year. Significant achievements included the over-issuance of Smart ID Cards (3.6 million issued against a 2.5 million target) and a dramatic improvement in immigration services, such as general work visas processed on time rising to 98%. Key unmet targets included automated birth functionality, e-Visa prototype development -- which was now shifting to Electronic Travel Authorisation (ETA) -- and digitisation volume, which had fallen short of the 14.8 million target.
+The Department had received a qualified audit opinion, with material findings on compliance. Qualification areas were related to understated contingent liabilities and immovable assets being overstated by R101 million. The Department committed to achieving an unqualified audit outcome for 2025/26, and had established an audit oversight committee chaired by the Director-General.
+The DHA described a strategic shift away from the "brick and mortar approach" towards digital transformation. Priority was being given to integration with the banking platform over kiosk integration. R20.63 million had been spent on 91 kiosks before the integration partner was terminated due to underperformance. The new strategy, secured by master agreements with seven banks, aimed to expand the footprint into hundreds of locations at no cost to the DHA. This expansion was designed to accelerate the phase-out of the 16 million remaining green ID books. The Department affirmed that data security was paramount, and the model ensured biometric data remained under state control via secure application programming interface integration, protecting Home Affairs data from third-party misuse.
+The BMA reported achieving 81% of its 16 annual targets, improving from 60% in the previous year. Achievements included increased joint law enforcement operations, and 100% refusal of entry/deportation of illegal foreigners detected (24 299 persons). Targets not met included full installation of network connectivity due to challenging port locations and verifiable processing of time data due to movement control system instability. The Authority had incurred a R90.5 million deficit, resulting in a qualified audit opinion. The Commissioner stated that the BMA remained grossly underfunded, with 85% of the budget allocated to compensation of employees. The transfer of South African Police Service policing functions had remained stalled due to administrative resistance, despite legal clarity and a decision by the Justice, Crime Prevention and Security cluster. The Minister confirmed there had been direct engagement with the Minister of Finance, and asserted that Parliament must use its power to appropriate funds adequately for the BMA, given its critical mandate.
+The Committee adopted the fourth term programme for 2025 with amendments, and concluded the meeting by adopting outstanding minutes.
+Meeting report
+The Chairperson welcomed all stakeholders, including Dr Leon Schreiber, Minister: Department of Home Affairs (DHA), the Department's executive team, Commissioner Dr Nakampe Masiapato of the Border Management Agency (BMA), officials from National Treasury (NT), the South African Revenue Service (SARS), the Parliamentary Legal Services, the Chief State Advisor, and the Auditor-General of South Africa (AGSA).
+He noted that the Committee was starting to interface with the annual reports of the institutions under its oversight, incorporating details informed by the AGSA audit outcome, and said the Committee had decided to invite NT to comment on a matter raised by the Parliamentary Legal Services.
+National Treasury briefing on the One-Stop Border Post
+Bill
+– clause six
+Adv Empie van Schoor, Chief Director: Legislation, NT, presented the clarification on Clause six of the One-Stop Border Post (OSBP) Bill [B12-2024], which had been introduced by the Minister of Home Affairs.
+The purpose of the Bill was to regulate the establishment of one-stop border posts between South Africa and its adjoining states and common control zones. The proposed revised clause six stipulates that the movement of goods and money by officials for official purposes within the common control zone is not subject to entry or exit import or export laws of the Republic or the adjoining state.
+Adv Van Schoor explained that:
+The application of Clause six was limited in scope to movement "within the common control zone," and only "for official purpose".
+The common control zone was effectively regarded as being in South Africa, even if it may be partially or fully located in the adjoining state (for example, Botswana or Zimbabwe).
+If officials move goods or money for official purposes between South Africa and a neighbouring country within a shared border zone, those items are not subject to imports or exports in the Republic or the adjoining state.
+Officials may freely use and transfer necessary equipment within the zone for official purposes, provided that proper records and declarations are made.
+NT submitted that there was no revenue implication on the revised formulation of clause six that required a money Bill in terms of section 77 of the Constitution.
+See attached for further details
+Discussion on Clause Six
+The Chairperson invited comments from the Chief State Advisor, SARS, and the DHA.
+SARS stated they had nothing to add to the NT submission. The Chief State Advisor confirmed they fully understood the explanation provided by NT.
+Minister Schreiber said that he felt the Department could "get over this particular hurdle".
+Mr Tommy Mokhode, Director-General, (DHA) agreed, stating that Adv Van Schoor had settled the matter, allowing them to progress. Parliamentary Legal Services also confirmed that the areas of concern had been settled, and they were ready to proceed.
+The Chairperson concluded that since the matter had been clarified and there were no further comments from Members, the item would be stood off for deliberation and the presentation of the A-list next Tuesday.
+DHA briefing on its annual report and ICT footprint
+Minister’s overview
+Minister Schreiber acknowledged the importance of the discussion, particularly the focus on the audit and performance outcomes.
+He provided context for the 2024/2025 annual performance report (APR), stating that it had been a challenging year due to the scale of transitions. He noted the first four months of the reporting period were under the sixth administration, and the last eight were under the seventh, which had impacted the acceleration of modernisation efforts and the focus on digital transformation. He highlighted that Cabinet-adopted digital transformation roadmap placed a big and exciting emphasis on technology, which required adjusting plans and fundamentally looking at strategies for both the DHA and the BMA.
+Despite the transition, there were good signs and progress had been built upon previous performance. Minister Schreiber acknowledged, however, that the audit outcome was not good enough, and opportunities were missed, particularly regarding low-hanging fruit that should have been addressed. He stressed that the capability and commitment were present, and they must now focus on enforcing changes, addressing repeat findings, and building on the foundation provided by strategic planning revisions completed during the period.
+The Minister addressed the two agenda items relating to digital services:
+Kiosk project
+This project required reassessment because the strategy was shifting from the traditional "brick and mortar approach" to digital service channels. Minister Schreiber explained that kiosks were designed for the period which focused on physical infrastructure investment. With the whole-of-government digital roadmap promoting digital and virtual services -- such as drivers’ licences, digital identification documents (IDs), and banking apps -- they needed to reassess where kiosks fit into to avoid overinvesting in infrastructure that might quickly become redundant.
+Bank expansion/partnership
+The uptake on the digital partnership had been "encouraging". The biggest public complaint was the limited number of booking slots on the BAP system, caused by the constrained footprint of only 30 pilot bank branches. The new approach seeks to remove constraints, allowing them to expand presence dramatically into hundreds of locations, including rural communities, by moving processes onto digital channels, avoiding duplication of infrastructure and costs.
+Verification Service
+This existing integration with banks and insurers allowed them to check a person’s identity (e.g., via fingerprints when opening an account) to prevent identity theft. The fee structure had been corrected because these institutions were not previously paying enough for the valuable state service. This correction had allowed the DHA to invest in maintenance, reducing turnaround times from 24 hours to milliseconds, and lowering the error rate to below one per cent. This improved and secure verification pipeline was crucial for integrating Smart ID and passport services into other channels.
+DHA 2024/25 annual performance report
+DG Mokhode presented the DHA’s annual performance report, and confirmed the Department’s vision to deliver Home Affairs @home, a digitally transformed organisation. He referred to the recent culture change launch on 23 September, which reminded staff members of the DHA's values -- ethical conduct, courageous action, innovative thinking, caring interactions, and solutions-oriented approaches.
+He presented the Department’s performance over the last 11 years. The DHA had recorded an 83% achievement rate for 2024/25, achieving 24 out of 29 planned targets. This reflected a 12% increase from the 71% achieved in 2023/24. He listed the remaining five targets which were not achieved:
+One health facility with automated birth functionality;
+e-Visa prototype developed: AI-enabled adjudication process for the tourist visa;
+8 million civic records digitised;
+730 500 births registered within 30 calendar days per year; and
+95% of critical skills visa applications adjudicated within four weeks for applications processed within the RSA per year.
+Mr Mokhode summarised the DHA's performance by programme:
+Programme 1 (Administration): 14 targets achieved out of 17 (82%).
+Programme 2 (Citizen Affairs): Three targets achieved out of four (75%).
+Programme 3 (Immigration Affairs): Seven targets achieved out of eight (87.5%) -- a "huge improvement" for immigration services over previous years.
+Please see attached document for performance details.
+Financial information and audit outcomes
+Mr Gordon Hollamby, Chief Financial Officer (CFO), DHA, presented the financial performance and audit outcomes.
+Expenditure
+R11.831 billion was spent, equating to 97.8% of the R12.095 billion final budget. The underspending of R263 million was attributed to the Department's inability to collect the full revenue target. Transfers and subsidies to the Independent Electoral Commission (IEC), the BMA and political parties, amounted to R4.052 billion. The surplus for the year was R1.583 billion.
+Financial position
+Total assets were R629.7 million and total liabilities R610.6 million, leaving a net asset value of R19.066 million. The decrease in the financial position was primarily due to the voted fund of R263 million surrendered, relating to the previous financial year.
+Audit outcome
+The DHA had received a qualified audit opinion, with material findings on compliance with laws and regulations.
+Qualification areas
+Immovable tangible capital assets were overstated by R101 million because assets no longer under the Department’s control were not derecognised. This was a repeat finding. Contingent liabilities were understated due to inadequate controls to identify and account for all legal cases. The CFO noted that three prior-year qualification areas had been resolved.
+Matter of emphasis
+R244.7 million of accrued departmental revenue (fines and penalties) had been impaired due to non-recovery. This finding was linked to the material irregularity.
+Non-compliance
+Findings were related to:
+material misstatements in financial statements/APR;
+not paying all invoices within 30 days (97% achieved, missing 100% compliance);
+non-collection of accrued departmental revenue;
+unfinalised Section 42 of the Public Finance Management Act (PFMA) transfers (BMA); and
+irregular, fruitless, and wasteful expenditure.
+Irregular expenditure
+The DHA’s irregular expenditure balance amounted to R202.3 million. This consisted mainly of the old security tender (R199.971 million, 2014/15 to 2017/18) and R2.671 million due to a compensation of employees (COE) budget increase condoned in May 2025.
+Performance information
+Material misstatements were noted on performance information in Programme 1 (e.g., e-visa prototype, fraud cases, online birth registrations); Programme 2 (Smart ID cards issued); and Programme 3 (Critical skills, law enforcement operations, deportations).
+Audit remedial actions and way forward
+Mr Hollamby said that management had developed an eight-point plan. Following a meeting with the Minister on 7 August, the Minister had expressed "utter dissatisfaction" with the audit outcomes and put management on terms.
+Financial strategy
+The DHA had agreed to increase the self-financing revenue target to R2.5 billion for 2025/26, earmarking R1 billion for digital transformation.
+Audit oversight committee (AOC):
+An AOC had been established as a specialised audit monitoring team, chaired by the DG, with outside experts, to monitor the audit action plan (AAP). This structure was advised by the IEC as a best practice. The AAP was verified by internal audit against SMART (specific, measurable, achievable, relevant and time-bound) criteria.
+Ministerial commitment
+Minister Schreiber committed to an unqualified audit outcome for the 2025/26 financial year.
+DG Mokhode outlined the strategic way forward:
+Finalising the digital identity policy and the National Identification Registration Bill.
+Finalising the revised White Paper on Citizenship, Immigration and Refugee Protection.
+Accelerating the replacement of 16 million green ID books through footprint expansion.
+Upskilling and reskilling staff to adapt to artificial intelligence (AI) and new technologies.
+Implementing continuous development, quarterly refresher training, and effecting consequence management.
+Conducting interim financial statement audits for Quarter 2 and Quarter 3.
+Kiosks and DHA footprint expansions into banks
+Mr Leon du Preez, Acting Chief Information Officer (CIO), provided the briefing on the information communication technology (ICT) strategy shift.
+Outlining the kiosk project status, he said DHA had contracted 91 virtual interactive self-service kiosks from Commerce Africa in November 2022. The contract period was three years (2022–2025). The scope was to provide a live capture platform integrated into the national population register (NPR), the Home Affairs National Identification System (HANIS), and the Automated Biometric Identification System (ABIS) for Smart ID cards, passports, and certificate reprints, aiming to accelerate the phase-out of the green ID book. The integration partner services were terminated on 12 March 2025 due to underperformance. The total cost spent on the 91 contracted units was R20.63 million.
+Mr Du Preez said the new strategy prioritised integration with banking platform (Priority 2) over kiosk integration (Priority 7). The shift was driven by the need to limit DHA-funded brick-and-mortar expansion, leverage strategic partnerships -- banks, SARS and SA Reserve Bank (SARB)-- reduce cost structures (bank model offers a lower total cost of ownership), and accelerate time-to-market.
+Master services agreements had been concluded with seven banks: ABSA, Nedbank, Tyme Bank, FNB, Capitec, Discovery, and African Bank. The current phase involved developing an Application Programming Interface (API) integration platform based on new technology (facial recognition + fingerprint). Development and testing were underway and were expected to conclude by the end of November. Pilot testing was scheduled from January to March 2026. The expansion aimed to eventually target 1 000 bank branches.
+Recommendation
+The DHA recommended pausing kiosk installations pending a life-cycle cost and feasibility assessment (capex + opex + time-to-value). Kiosks remained a potential interim channel in non-modernised offices while the bank model was implemented.
+See attached for further details
+Discussion
+Ms N Bollman (DA) asked what the key milestones and risk mitigation plans were to ensure the electronic travel authorisation (ETA) system went live in the 2025/26 FY as projected. She asked what collaboration existed between the DHA, the Department of Tourism and the Department of Trade, Industry and Competition (DTIC), to coordinate visa reforms with broader economic growth initiatives. She asked how the reconstitution of the Immigration Advisory Board would be integrated. Given the link between tourism and jobs, she asked how the Trusted Tour Operator Scheme (TTOS) would be scaled to new markets beyond China and India. On the expansion into banks, she emphasised the massive deficit in accessibility in rural areas, and asked what practical routes were being put into service to expand digital services to underserved areas for first-time ID and grant applicants, and when these sites would go live.
+Mr A Roos (DA) welcomed the significant improvement of the APR target achievements, noting the increase from 71% to 83%. He congratulated the Department on the dramatic improvement in visa processing within Immigration Affairs, providing specific metrics: critical skills visa processing on time had risen from 52% to 89%; business visas from 61% to 97%; and general work visas from 10% to 98%.
+He asked how the DHA ensured that adequate IT training, change management, and performance incentives were being given so that the workforce could come along with the technology development. He asked if the Department would monitor impact data on the TTOS and the upcoming electronic travel authorisation (ETA) system, including tourism inflows, job creation, and revenue gains, to measure the economic contribution of these migration reforms.
+Regarding the R130 million irregular expenditure on digitisation, he asked what safeguards and project management improvements were being implemented to ensure clean procurement. He questioned the difference between the new audit oversight committee and previous audit committees that had failed to prevent repeat audit findings. He asked what measures were strengthening revenue collection from new streams such as the NPR verification fee regulations, to ensure sustainable funding. He wanted to know what progress had been made with the State Information Technology Agency (SITA) and private sector partners to stabilise core systems. Finally, on the kiosks, he asked about the security expenses for the physical machines and how the business model made financial sense for national technical support for only 91 devices across the country. He concluded by welcoming the overall positive picture.
+Ms N Mtolo (ANC) acknowledged the progress, but raised concerns that key targets such as digitisation, the e-visa system, and birth registration had not been achieved, noting these were crucial for improving service delivery. She welcomed the plan to expand services through banks, but asked how the kiosks would be prevented from becoming wasted assets. She questioned how data would be protected when working with banks.
+Ms L Ngobeni (Action SA) requested clarity on the 91 self-service kiosks, asking how much had been spent to date, what value had been realised, and if taxpayers were now funding assets that were stranded and idling. She asked for guarantees that the bank-based service delivery model would not exclude the millions of unbanked South Africans, especially those living far from the formal banking infrastructure, stressing the constitutional duty to serve every South African. Ms Ngobeni questioned the outsourcing of state services to private entities, and sought an absolute declaration on binding safeguards to ensure that biometric and personal data remained under state control. She asked for confirmation that the model had been cleared by the Information Regulator, the Protection of Personal Information Act (POPIA) and national security standards. She asked for an assurance that the Department was not outsourcing all of the nation's data to the cloud. She requested whether a complete comparative cost-benefit analysis between kiosks and banks was available, and when the three-year implementation pipeline would be tabled. She also asked for a categorical response on why citizens' documents and passports were withheld for security checks without providing reasons to the applicants, calling it a contemporary issue affecting the public, particularly elderly people.
+Ms B Machi (IFP) appreciated the massive improvement in the presentations. She noted that despite the 83% achievement rate, the Department had failed to meet key digitisation and e-visa milestones. She asked what specific constraints -- financial, technical, or capacity related -- were hindering full digital transformation. Given that 82% of the portfolio’s irregular expenditure balance related to the DHA, she asked for concrete steps on procurement compliance and consequence management. She asked for timelines and stakeholder consultation processes for finalising the digital identity policy and revised white paper on citizenship, immigration, and refugee protection. She asked for the specific, measurable strategic drivers -- cost reduction percentages, service time improvements -- that made the bank expansion model more favourable than the kiosk project. She asked which specific kiosk locations were most at risk of becoming stranded assets, and what the estimated financial value of these potential stranded assets was. Furthermore, she asked for the key milestones, targeted number of new bank branches, and projected citizen cover for the first year of the three-year pipeline.
+Mr T Mogale (EFF) raised the issue of two specific anti-corruption cases that had been brought to the attention of the DHA. He asked if the Department could run a campaign about fake marriages to inform the public how to report such cases. He requested the status of two specific anti-corruption cases involving fraudulent ID acquisition -- the case of Mrs Dineo Mokwele, a senior official within the South African Police Service (SAPS), and the case of Ms Nthateng Maoke, the former mayor of Ficksburg. Given the AG’s concerns about reliability, he asked what steps ensured that all recorded achievements were backed by credible evidence.
+He asked if the bank rollout would be limited to the big five banks or if there was an intention to also include the Post Bank and Ithala Bank, and requested the financial details of these agreements indicating how much the Department was spending. Regarding the digital ID, he asked how the Department would deal with issues raised during protests in the UK and Europe, and whether the digital ID would be mandatory or if citizens could retain their Smart cards or green ID books. In addition, he asked what action had been taken against officials involved in continuous non-compliance with audit findings.
+The Chairperson noted the AG’s concern regarding legislative non-compliance, particularly in strengthening controls, and requested elaboration on the legislative areas which constituted weaknesses caused by officials. He asked for expansion on the immovable assets causing the audit qualification, asking which portfolio they belonged to. On the non-recovery of revenue, the Chairperson questioned the CFO's confidence in resolving the matter within this month (October), and asked what weaknesses had contributed to the delay. He asked why the 30-day payment compliance target had been missed, asking if the failure was due to budget allocation, non-completion of services, or planning changes. He requested a demonstration of the category of services provided to women-owned businesses (100% procurement achievement), and why there was no highlight on people living with disabilities and youth in procurement percentages. He sought an update on the public-private-partnership (PPP) initiative for one-stop border post (OSBP) implementation at three ports of entry.
+The Chairperson asked if the Department still struggled with a high rate of uncollected Smart ID cards. He raised concerns about critical vacancies, such as the Deputy Director General positions in human resources and information management systems, and the chief information officer. He requested a plan and timeframe for filling them.
+He noted the change of tone from the Minister and the acting CIO regarding kiosks, noting that previously the kiosk intervention was appreciated as a significant expansion initiative alongside mobile trucks and banks. He requested clarification on whether the Department intended to abandon the initiative. He requested cost implications and budget details for replaced IT service providers within the IT environment. He also requested a firm time frame for the life cycle assessment of the kiosks. He questioned if the system for booking was currently working, noting challenges raised in the past three days.
+DHA's response
+Mr Mokhode provided the following responses to the Committee:
+OSBP PPP initiative
+The process had progressed well. Negotiations with prospective service providers were underway, and Nest and Young, including Bowmans, were assisting in crafting the final agreements. The final agreements with the bidders were expected to be finalised by 31 March 2026.
+Consequence management
+For the second quarter of 2025, 17 misconduct cases were dealt with, with 13 requiring conclusion within 90 days. Four dismissals and three written warnings were outcomes from the 27 cases finalised between April and September, primarily related to the irregular processing of IDs.
+Bank partnership/data protection
+The Department was working with the current banks and additional ones. Master agreements had been signed with seven banks: ABSA, Nedbank, Tyme Bank, FNB, Capitec, Discovery, and African Bank. The DG emphasised they only worked with banks that adhered to the strictest security standards and the POPIA. Compliance was tightly monitored by the Information Regulator, and there had been no breaches since the 2016 agreement.
+Kiosks
+The Department was not abandoning the kiosks, but the strategy had changed. He confirmed R20.63 million had been spent on the 91 contracted units. The Department would engage internally on managing these assets.
+ETA/TTOS
+The ETA was progressing well, with two applications successfully finalised this morning from non-visa exemption countries. Applications were checked against a hit list to prevent undesirable persons from entering. The success of TTOS (close to 40 000 tourists enrolled) was due to close collaboration with the Departments of Tourism, Foreign Affairs, Transport, and State Security, who comprised the adjudicating committee.
+Inclusion of rural areas (bank expansion)
+Banks such as FNB (660 branches) and Capitec (880 branches) had indicated a bias towards communities in rural areas. There were no cost implications for the DHA, as the banks were purchasing the IT equipment and reskilling their staff.
+New applications at banks
+Mr Mokhode clarified that the bank service was for reissuing documents (Smart IDs/passports) to a person who already existed in the NPR, because their birth would have been registered at a health facility. They dealt with enabling documents, not founding documents.
+Data control:
+The DHA ensured that anyone transacting signed an agreement to adhere to POPIA, stating they had reclaimed Home Affairs from the streets by controlling data access from third-party service providers.
+Revenue/skills
+Revenue from the verification service was strengthening. R167 million had been billed in September, and R100 million had been collected to date. An agreement with the University of Pretoria and SITA on skills assessment was ongoing, with preliminary findings shared.
+SAPS fraud case (Mrs Mogale)
+The investigation was almost complete -- the senior SAPS official was cooperating.
+Withheld documents/booking system
+Documents were withheld only if the applicant was under investigation by law enforcement or to counter corruption. A substantial backlog of applications "stuck in the system" (70 000 to 80 000 remaining) following the previous service provider termination was being cleared via tri-weekly meetings with the Government Printing Works (GPW) and Skynet. The booking system was working, but was oversubscribed.
+Vacancies
+The DDG HR had resigned after two months, requiring a recruitment restart. The DDG IMS selection panel could not find a suitable candidate.
+Digitisation irregular expenditure rationale
+The irregularity had arisen because the specification included aspects like training, HR management, and record-keeping for recruited graduates, which the DHA argued were outside the SITA procurement mandate.
+Financial issues
+Mr Holomby responded to the financial issues raised by the Committee
+Digitisation irregular expenditure
+The DHA was now following the SITA procurement route diligently. The contract was ending, so the expenditure should be reduced.
+Audit Oversight Committee
+The key difference was that the committee supported the DG, not just the CFO. This decision was adopted from the IEC best practice to escalate ownership of the audit action plan beyond the finance level.
+Revenue target:
+New revenue streams included ETA, TTOS, TEES, and potential increases in visa fees.
+Legislative non-compliance
+This primarily involved non-compliance with the PFMA (material misstatements, 30-day payments, irregular expenditure, revenue management) and the Public Procurement Act.
+Material irregularity (MI) resolution (non-recovery of revenue)
+This was expected to be concluded in October. The non-collection was related to a past issue, as the function had been transferred to the BMA in 2023. The confidence was based on obtaining the required legal opinion, confirming fines mostly prescribed before 2013, and finalising calculations with the service provider.
+Immovable assets:
+The R101 million overstatement was related to renovations the DHA made at Ports of Entry which belonged to the Department of Public Works (DPW). The transfer to the BMA (Section 42) was complicated by the DPW's ownership and different accounting standards.
+30-day payments
+The DHA had achieved 97% payment compliance, but the failure to reach 100% constituted PFMA non-compliance. Challenges included travel invoices and system conversions (BAS Version five to six).
+Chief Information Officer's responses
+Mr Du Preez responded to three issues:
+System stability/funding
+Stability and redundancy issues were covered under the three-year digital transformation roadmap, funded by self-financing revenue (Priority 5).
+Data security/cloud:
+The DHA was not moving data to the cloud. Banks authenticated users via an API gateway connecting to DHA systems -- the DHA controls the authentication process.
+Kiosk feasibility
+A pragmatic approach was necessary to conduct a life-cycle cost analysis to avoid stranded assets when banks expand services nearby.
+Minister's comments
+The Minister Schreiber dismissed concerns related to the UK digital ID debate, commenting that the UK lacked South Africa's foundational population register. Digital ID was seen as the secure foundation for services, comparable to online banking. The Smart ID card would continue to exist. The critical step was replacing the 16 million green ID books (a major fraud risk). Digital ID would be complementary initially. The core was upgrading the population register.
+He argued that the DHA's current physical model was an exclusionary one, forcing people to travel huge distances. The new model -- Home Affairs at Home -- aimed to deliver services closer to people's doorsteps. Engagement with the banks suggested that the unbanked may also be able to access services, given the scale of the expanded footprint.
+Addressing concerns over security and data control, Minister Schreiber said the DHA controlled the "back door" - the verification pipeline. Security was massively upgraded by removing human discretion, which was the source of most fraud and corruption risks.
+He said the TTOS had been highly successful, with about 40 000 visas processed, but the ETA system, once fully functional, should eventually make the demand for TTOS redundant, freeing up resources.
+Finally, the Minister confirmed his office was looking into the Ms Maoke fraud allegation issue, and a verification process was underway, asking for concrete evidence to be presented.
+AGSA's comments
+Ms Tsholofelo Thobakgale, Senior Audit Manager, AGSA, acknowledged the positive steps taken by the DHA, but noted continuing issues with the reliability of reported performance information and the "smartness" of indicators such as measurability and relevance. She stressed the need for effective project management and IT system oversight to ensure that reported achievements aligned with audited achievements.
+Border Management Authority briefing on its annual report
+Commissioner Masiapato presented the Border Management Authority's (BMA's) second annual report covering the 2024/25 financial year.
+He said the BMA had implemented over 27 pieces of legislation, managing the legitimate movement of persons and goods. Overall, it had achieved 81% of its 16 annual targets (13 achieved), a noticeable shift to the positive side from 60% in the previous year.
+Programme 1: Corporate Services
+Three targets achieved -- standardised communications framework, updated disaster management plan, and rollout of BMA business continuity management plan to 13 ports of entry (PoE).
+One target not achieved -- installation and connection of local area network/wide area network (LAN/WAN) connectivity at 13 PoEs (zero achieved). Deviation was due to non-responsive bids, largely because of challenging, high-altitude locations (e.g. Sani Pass) which necessitated satellite solutions, making suppliers struggle to respond.
+Programme 2: BMA operations
+Ten targets achieved/over-achieved. Signed four agreements for the National Targeting Centre (NTC) analytical capacity -- Cross-Border Road Transport Agency (C-BRTA), Road Traffic Management Corporation (RTMC), SARS and SAPS. Over-achieved community crossing points and joint law enforcement operations due to increased suspected criminal activity. Achieved 100% refusal of entry and deportation of illegal foreigners detected (24 299 persons). Over-achieved compliant port health services. All specialised consignment processing targets achieved.
+Two targets not achieved
+100% of legitimate travellers processed within five minutes through the movement control system (MCS). Conceded failure, as accurate statistics were unavailable due to MCS instability and log challenges.
+Bid adjudication for redevelopment of the six priority land PoEs not concluded in 2024/25 due to capacity challenges.
+Financial information and audit outcomes
+Ms Zamachonco Chonco
+, CFO, reported on the BMA’s financial status.
+Financial loss
+The BMA reported a R90.5 million deficit for the financial year, compared to a restated surplus of R198.5 million in 2023/24. The deficit was attributed to insufficient funding (shortfalls in the goods and services budget), and the transfer of operational costs such as property leases without corresponding budget allocations.
+Revenue
+The R1.41 billion budget allocated -- a 5.2% increase from the previous year -- was mainly transfer funds, with 85% committed to compensation of employees. Service revenue declined to R49.8 million due to capacity constraints.
+Human resource capacity
+Total staff amounted to 2 606, with a 76.6% vacancy rate. Corporate services operated with only 2% of total staff (56 officials), which hindered assurance. Finance had only four officials managing a R1.7 billion budget. The BMA remained grossly underfunded.
+CARA funding
+R89.24 million was spent from the approved R150 million received from the Criminal Assets Recovery Account (CARA) on essential tools of trade. A new application for R3.4 billion had been submitted.
+Audit outcome
+The BMA had received a qualified audit opinion, reduced from four to two qualifying paragraphs. The qualification areas were receivables from non-exchange transactions and accruals.
+(Please see attached document for details)
+Discussion
+Mr Mogale asked for feedback on the funding engagement with National Treasury. He asked for confirmation on the single operational scanner at Durban port of entry, and what was being done to increase capacity. He also asked for clear timeframes on the policing functions transfer from SAPS, and about the internal audit capacity.
+Mr Roos praised the BMA's 81% achievement against targets despite being severely under-resourced. He asked for the status and completion timeline of the LAN/WAN connectivity project. He wanted to know which Department was responsible for property leases transferred without a corresponding budget allocation, and requested an update on the engagement with NT for further funding. He confirmed the Committee’s determination to support BMA funding and the integration of SAPS functions.
+Ms Machi expressed concern about the R90.5 million deficit, and asked what discussions had been held with NT on securing sustainable funding. She asked what specific internal control improvements had been made that had resulted in the reduction of qualifying audit paragraphs from four to two. She requested measurable data on the interception, arrest, or seizure impact of the joint operations conducted with SAPS and SARS.
+The Chairperson thanked the BMA team for the briefing. Given the challenges, he asked the Minister, as Executive Authority, to elevate the funding difficulty to the President. He noted AGSA's concerns about manual systems, and asked the Commissioner for an interim plan to mitigate the severe staffing challenges, such as one person facilitating both exit and entry at borders. He asked about the plan regarding drones, and how the BMA would fund the R9 million cost gap for lifestyle audits, and what funds it could shift from limited resources. What was the status of the DHA's asset transfer to the BMA and the transfer of police functions? He asked the Commissioner about engagement with the DPW on mending the 4 750 km border fence and the short/long-term plan, as well as the current engagement status with neighbouring countries on border control challenges.
+BMA's response
+Commissioner Masiapato responded to the comments and questions raised by Members.
+Funding engagement
+The Minister would reflect on engagement with National Treasury. The BMA appreciated the Committee’s engagement with the Select Committee on Appropriations. Following this, the Parliamentary Budget Office (PBO) was tasked with conducting a scientific assessment to juxtapose transferred operational budgets against the BMA's responsibilities, checking if the budget transferred was commensurate. This was vital, as the BMA had been forced to start paying rental costs for offices previously covered by other departments.
+Single scanner at Durban port
+He confirmed that the single SARS-owned scanner at Durban Harbour operated at 0.05% scanning capability, focusing mainly on customs duties. Most containers, especially transit containers moving to the Democratic Republic of Congo (DRC) or Tanzania, entered the country untouched. The BMA had identified areas where static scanners could be installed as containers exited the harbour, but this required funding.
+SAPS transfer:
+The Justice, Crime Prevention and Security (JCPS) DG’s cluster had resolved to proceed politically. The Chief State Law Advisor had provided a clear legal opinion confirming the BMA's exclusive mandate for border law enforcement. However, SAPS officials had resisted administratively, refusing to provide the necessary technical details such as payroll and assets, to finalise the transfer.
+Border fence/DPW
+The R40 million Beitbridge fence contract had been cancelled after the Special Investigating Unit (SIU) investigation, and the money was being returned to the DPW to restart procurement. The DPW had provided R281 million for the repair and maintenance of land port infrastructure, not the border fence. Drones were assisting in border minding as an interim measure.
+Lifestyle audits
+The BMA was ready for lifestyle audits of its top 100 officials, including the executive, by the SIU, but the R9 million funding required was unavailable. It was relying on the State Security Agency (SSA) for vetting in the interim.
+Neighbouring countries
+Engagements started this year with Zimbabwe, Mozambique, and Lesotho. Botswana wanted 24-hour borders, but the BMA could not reciprocate due to capacity issues. Joint action plans had reduced truck waiting time on the N7 corridor at Oshikango from three hours to 20 minutes.
+Financial information and audit outcomes
+Ms Chonco said the BMA's
+audit capacity amounted to three internal officials, augmented by outsourcing. She responded to the Committee's comments and questions on the following issues:
+Lease budgets transferred
+These budgets were mostly held in Agriculture (R62 million balance). A meeting was scheduled for 30 October.
+COE budget
+The budget split had been inherited (85% COE), and required an injection into the goods and services budget to resolve.
+Reduction in audit findings
+The reduction from four to two qualifying paragraphs was achieved due to receiving new staff in 2024/25, and focused work on the AGSA recommendations.
+Funding shifts
+Shifting limited funds was difficult because all needs were critical. The BMA had prioritised operations.
+CARA
+The R3.4 billion application submitted included non-recurring costs like scanners and drones.
+DHA asset transfer
+The majority of assets, such as desks and vehicles, had been transferred. Technical items/improvements required BMA assessment to meet generally recognised accounting principles (GRAP) standards before Section 42 transfer. This was expected to be resolved by the end of the third quarter.
+Minister's comments
+Minister Schreiber confirmed that the JCPS resolution on the SAPS transfer provided legal clarity. He had sent a formal letter to the acting Police Minister this week after an informal engagement. He stressed that the SAPS must comply with the BMA Act.
+He confirmed direct engagement with the Minister of Finance regarding funding elevation, and the submission of a comprehensive request to NT and CARA. He also offered to write a formal letter to the President if required. He asserted that Parliament ultimately appropriated funds and had to assert its power to budget adequately for the BMA, which he viewed as a necessary, wise investment for economic and security reasons.
+AGSA comments
+Ms Thobakgale repeated the concern shared by the DHA, emphasising the need for the BMA to strengthen its internal processes to ensure sufficient and appropriate evidence supported reported performance achievements, and addressed the reliability findings.
+Chairperson’s closing remarks
+The Chairperson appreciated the BMA's achievements, despite limited resources. He affirmed the need to monitor the audit action plan and consequence management. The Committee would interact with the Portfolio Committee on Police regarding the transfer of functions. He noted the importance of monitoring the work of the DG and the Minister on funding.
+Committee matters
+Follow this committee
+Follow this committee and get
+free email alerts
+whenever we get new information about it.
+Write to this committee
+Audio
+No related
+Documents
+NT: One-Stop Border Post Bill Presentation
+DHA: Kiosks & Footprint Expansions into Banks
+BMA: 2024/25 Annual Report
+DHA: 2024/25 Annual Report
+Bills
+B12-2024 - One-Stop Border Post Bill
+Present
+Chabane, Mr MS
+Chairperson
+ANC
+Bollman, Ms NJ
+DA
+Jama, Ms SP
+ANC
+Machi, Ms BE
+IFP
+Modise-Mpya, Ms M
+ANC
+Mogale, Mr T
+EFF
+Mtolo, Ms NE
+ANC
+Muhammad, Ms MB
+MKP
+Ngobeni, Ms LM
+Action SA
+Ngubane, Mr JS
+MKP
+Roos, Mr AC
+DA
+Schreiber, Dr LA
+DA
+Download as PDF
+You can download this page as a PDF using your browser's print functionality.
+          Click on the "Print" button below and select the "PDF" option under destinations/printers.
+See detailed instructions for your browser
+here
+.
+Print
+Correct this page
+Disclaimer & Copyright
+Share this page:
+×
+What's wrong with this page?
+How we can improve this page?
+If you'd like us to get back to you, please enter your email address.
+Thank you for your feedback, your message has been sent.
+Close
+Send your feedback

@@ -1,0 +1,212 @@
+Title: City of Cape Town sewage disposal and wastewater treatment; with Ministry
+Date: 18 Feb 2025
+Committee: 
+URL: https://pmg.org.za/committee-meeting/40240/
+============================================================
+
+Meeting Summary
+Minister Majodina expressed concern over declining municipal wastewater performance due to poor governance, unqualified personnel, and low prioritisation. The DWS presentation focused on compliance, enforcement actions, and CoCT’s response to a pollution notice, emphasising stricter regulatory measures to prevent further water pollution.
+The Department of Water and Sanitation (DWS) outlined municipal responsibilities, sewage pollution risks, and national wastewater performance declines. Despite Cape Town’s strong 88% Green Drop score, some WWTWs exceed capacity. Stricter regulations under the Water Services Amendment Bill will enforce compliance.
+City of Cape Town (CoCT) officials detailed operations, challenges like sewer blockages and pump failures, and an R6.1 billion investment in infrastructure upgrades. Marine outfalls show minimal impact, and potable reuse projects aim to enhance water security. Long-term plans focus on resilience, compliance, and sustainability.
+The committee raised concerns about the frequency and transparency of CoCT reports on water quality, the status of a Memorandum of Understanding (MoU) between the DWS and the Department of Forestry, Fisheries, and the Environment (DFFE), and whether CoCT was using artificial intelligence for monitoring. CoCT representatives confirmed regular reporting, ongoing monitoring, and plans to integrate AI.
+The CoCT highlighted challenges in wastewater infrastructure, including ageing systems, system failures, and security issues due to gang activity. CoCT outlined plans to upgrade wastewater treatment facilities, replace ageing infrastructure, and allocate significant funding for improvements. There were concerns about sewage spillages in townships, particularly in winter, and the long-term effects of chemicals in water sources. CoCT noted difficulties in filtering certain chemicals and the need for accredited local laboratories for testing.
+The committee discussed issues of legal and compliance issues, particularly regarding marine outfalls, pollution enforcement, and non-compliance in certain areas. The committee questioned whether authorities were holding polluting companies accountable and whether penalties were being enforced. CoCT confirmed that marine outfall refurbishments were budgeted for and that feasibility studies were ongoing.
+The committee discussed broader environmental and economic concerns, including the need for a circular economy approach to wastewater treatment, sludge reuse, and public education on pollution. Concerns about plastic pollution and its impact on water quality were raised, with calls for greater government intervention. The meeting concluded with assurances from officials that efforts were being made to address infrastructure challenges, improve monitoring, and ensure compliance with environmental standards.
+Meeting report
+Ms P Majodina, Minister, Department of Water and Sanitation, opened by noting the situation in the CoCT was dire as there had been a decline in performance in municipalities. She said that the decline was due to poor governance, the appointment of incorrectly trained personnel and low prioritisation of municipal water waste. She was disappointed that the Department of Forestry, Fishing and Environment (DFFE) was not there as they oversaw the monitoring of discharge activities into oceans and freshwater bodies.
+She explained that the presentation by the DWS would focus on compliance, monitoring and enforcement actions of the department and the response by CoCT to the department’s notice of a pollution incident. She said that the report written after the incident indicated that the situation in CoCT was serious.
+She noted that the department would highlight the measures to increase their regulatory action to prevent further pollution of water sources.
+Presentations
+Anet Murir, Chief Director: Water Use, Compliance and Enforcement, DWS, presented on the CoCT’s wastewater management performance, regulatory compliance, environmental impact, and national efforts to improve sanitation services.
+The Domestic Water Cycle & Legal Responsibilities
+Water Treatment Process: Raw water is treated, supplied for domestic use, and then returned to rivers after wastewater treatment.
+Legal Framework:
+Municipalities manage wastewater and sewage disposal.
+DWS ensures compliance with water quality regulations.
+Sewage pollution is a criminal offence, with penalties up to R10 million in fines or 10 years in prison for non-compliance.
+Personal liability extends to municipal managers and mayors.
+Impact of Sewage Pollution:
+Health Risks: Increased cases of diarrhoea, cholera, and meningitis, especially in vulnerable communities.
+Environmental Damage: Pollution leads to fish kills, contaminated groundwater, and damaged ecosystems.
+Economic Consequences: Tourism and agriculture suffer due to contaminated water.
+Worsening Trends: The 2022 and 2023 Green Drop Reports indicate a decline in municipal wastewater treatment performance nationwide.
+Wastewater Management in Cape Town:
+Performance Overview:
+CoCT operates 26 wastewater treatment works (WWTWs).
+2022 Green Drop Score: 88% (one of the highest in South Africa).
+4 WWTWs achieved Green Drop status (above 90%), while 8 others scored 89%.
+Capacity Challenges: 3 WWTWs (Gordon’s Bay, Zandvliet, Klipheuwel) are exceeding design capacity.
+Discharge & Compliance:
+9 WWTWs discharge into the sea.
+15 discharges into rivers, wetlands, or estuaries.
+2 use evaporation ponds.
+6 WWTWs are non-compliant with microbiological, chemical, or physical standards.
+DWS has issued notices, but CoCT has been responsive with corrective action plans.
+Marine Outfalls & Coastal Water Discharges
+Prior to 2009, DWS issued discharge permits under the National Water Act.
+With the Integrated Coastal Management Act (2008), all marine outfalls now require Coastal Water Discharge Permits issued by the Department of Forestry, Fisheries, and Environment (DFFE).
+CoCT has applied for these permits, and compliance monitoring is ongoing.
+Regulatory Actions & Enforcement:
+Pollution Incident Monitoring: CoCT reports sewage spills, which DWS investigates.
+Regulatory Measures:
+Green Drop Programme: Annual wastewater system audits.
+Enforcement Actions: DWS can issue directives, fines, and legal action if municipalities fail to comply.
+Future Regulations & Water Services Amendment Bill
+The Water Services Amendment Bill (2023) introduces:
+Mandatory licensing for Water Service Providers (WSPs).
+Stronger enforcement measures, including penalties for non-compliance.
+Expanded monitoring and intervention powers for DWS.
+Conclusion
+The City of Cape Town is one of the better-performing municipalities in wastewater management but faces challenges in capacity, compliance, and marine outfall regulations. Nationally, sewage pollution is worsening, prompting stricter enforcement and legislative changes.
+See full presentation attached
+The CoCT’s presentation was given by the following people:
+Dr Zaid Badroodien, Mayoral Committee Member for Water, CoCT
+Mr Leonardo Manus, Executive Director: Water and Sanitation, CoCT
+Mr Michael Killick, Director: Bulk Services, CoCT
+Mr Greg Oelofse, Coastal Manager, CoCT
+The presentation addresses key issues related to the City of Cape Town’s (CoCT) Wastewater Treatment and Disposal, covering compliance, challenges, capital investment, and future strategies. It also highlights the city’s engagement with stakeholders and regulatory bodies.
+Wastewater Treatment Works (WWTW) Overview
+The CoCT Wastewater Branch operates 26 treatment facilities, with a total budget of R1.96 billion (FY 24/25) for operations and R1.79 billion for capital investments.
+Treatment facilities include 16 Activated Sludge Works, 4 Rotating Bio-contactors, 3 Marine Outfalls, 1 Trickling Filter Works, and 2 Pond Systems.
+Challenges in Sewer Network & Wastewater Treatment Works
+Sewer Blockages & Infrastructure Deterioration: Blockages caused by foreign objects and sand ingress impact sewer performance.
+Pump Failures: Due to debris and sand accumulation, requiring frequent maintenance.
+Compliance Issues: WWTWs must meet Regulation 991 standards, and licensing amendments are ongoing.
+Capital Investment & Infrastructure Development
+10-Year Investment Plan: R6.1 billion allocated to infrastructure upgrades, focusing on increasing pipeline replacements to 1.5% annually.
+20-Year Horizon Programme: Includes major WWTW upgrades to reduce overload conditions and improve effluent quality.
+Treated Effluent Reuse: Expansion of non-potable water use for industrial, irrigation, and construction purposes.
+Marine Outfalls & Environmental Monitoring
+Marine Outfalls Compliance: CoCT operates three outfalls (Green Point, Camps Bay, Hout Bay), which dispose of 5% of the city’s wastewater.
+Monitoring & Studies: Multiple studies confirm no significant environmental impact from outfalls.
+Stakeholder Engagement: Public participation and advisory forums have been established to address concerns.
+Potable Reuse & Water Security Initiatives
+Faure New Water Scheme (Direct Reuse): A planned R3.2 billion project to supply 70-100 ML/day by FY 2030/31.
+Cape Flats Managed Aquifer Recharge (Indirect Reuse): Exploring feasibility for aquifer recharge with a 40-60 ML/day capacity, expected completion FY 32/33.
+Compliance & Green Drop Performance
+Green Drop Assessment: CoCT maintained an 88% rating for wastewater treatment compliance, demonstrating strong operational management.
+Key Compliance Measures: Investments in environmental monitoring, sludge treatment, and licensing updates are ongoing.
+Future Strategies & Long-Term Planning
+Pipe Replacement & Infrastructure Upgrades: Aiming for 100 km of sewer pipes replaced annually to improve resilience.
+WWTW Expansions: Projects to increase capacity, introduce new technologies, and ensure long-term compliance.
+Regulatory Engagement: Continuous collaboration with the Department of Water and Sanitation (DWS) and Department of Forestry, Fisheries, and the Environment (DFFE).
+Conclusion
+The CoCT is actively addressing wastewater treatment challenges through capital investments, infrastructure improvements, compliance monitoring, and public engagement. Plans emphasise sustainability, potable reuse, and enhanced treatment processes to secure Cape Town’s long-term water needs.
+Summary of the Department of Water and Sanitation (DWS) Presentation on Wastewater Management in Cape Town (18 February 2025)
+See full presentation attached
+Discussion
+Mr SL Dithebe (ANC) asked the CoCT how frequently they released reports and whether they shared the reports with the DWS. He inquired when the DWS and DFFE would complete their Memorandum of Understanding (MoU) regarding the shared responsibilities of the departments in relation to water pollution. He also asked if the CoCT was using AI and whether it could enhance their monitoring mechanisms.
+Mr Oelofse noted that the CoCT reported on marine outfalls annually, with the report running on a three-year cycle. They also reported publicly every quarter and provided an annual report on the performance of marine output from an environmental perspective. After the three-year cycle, they issued a marine impact report. He stated that all reports were available to the public and that the report from the current monitoring cycle would be available in July. He added that they were not currently using AI but were likely to integrate it as the technology developed.
+Mr Xolani Zwane, Provincial Head, DWS, stated that the department had a draft MoU in progress with the DFFE. He explained that the MoU addressed issues of water regulation, compliance monitoring, and enforcement, and they hoped to complete a draft by the end of March.
+Mr M Dlelanga (ANC) pointed out contradictions between the Minister's opening statement and the presentations, questioning why there was such a discrepancy. He asked about the root causes of the problem and how they were being addressed.
+Mr Badroodien speculated that the Minister might have been referring to the country as a whole rather than just the CoCT. He noted that the CoCT had been awarded the second-highest Green Drop certification, as measured by the DWS’s standards. He stated that the CoCT was working to improve its wastewater works and planned to invest R120 billion in infrastructure improvements over the coming years.
+Mr MD Mahlobo, Deputy Minister of DWS, argued that within the CoCT, there were areas of excellence and areas of mediocrity. He pointed out that slides 37-42 of the presentation demonstrated non-compliance issues and noted that compliance had declined. He asserted that the standards were higher than what the department had set for the CoCT and emphasised that the CoCT should compare itself to the law rather than other municipalities. He expressed his disapproval of any insinuation that the Minister had misspoken.
+Ms MS Khawula (EFF) interjected and requested that officials refrain from conversing while the Deputy Minister was addressing the committee.
+Mr Mahlobo emphasised the need to acknowledge areas of concern while recognising areas of good performance.
+Mr NI Nxumalo (MK) expressed confusion, as the department had highlighted challenges while the CoCT’s presentation suggested there were none. He thanked the Deputy Minister for emphasising the challenges the CoCT was facing.
+He referred to page 18 of the department’s presentation, which detailed the breakdown of the main pipeline at the Racecourse Station. He asked about the cause of the collapse and what measures were being taken to prevent similar incidents at other stations.
+Mr Manus acknowledged the challenges but noted that the CoCT had plans in place to address them. He stated that they were working on improving the weak points in the system.
+Ettienne Hugo, Director of Distribution, CoCT, explained that surcharges in the system caused pressure buildup, leading to wear and potential collapses. He added that ageing infrastructure contributed to this issue, as was the case at the Racecourse Station, which caused the burst. He mentioned that the CoCT had conducted a provisional assessment of 40 pump stations and had developed a rollout plan for their upgrades.
+Mr Badroodien highlighted another challenge: staff delays in accessing stations due to safety concerns. He stated that the CoCT needed to employ private security to accompany staff. He noted that gang activity and extortion were significant issues and that bodies being dumped in certain areas also impacted wastewater treatment operations.
+Mr Nxumalo asked if the ageing infrastructure had been identified and how the CoCT planned to address it.
+Mr Hugo explained that the CoCT replaced 100 km of infrastructure annually, targeting ageing systems. He noted that the department had an ageing infrastructure pipeline model.
+Mr KS Ramaila (ANC) noted that sewage spillages frequently occurred in townships during the rainy season and asked how the CoCT planned to address this. He also inquired about the long-term mechanisms in place to deal with the negative health effects of chemicals consumed by fish.
+Mr Manus explained that the sewer system in the Cape Flats was shallower and flatter than other systems, which meant there was less gravity to assist with flow. He stated that teams were on standby during winter to address spillages and that the system would be cleared of sand before the rains. He noted that R1.2 billion had been allocated to improve the sewer and wastewater systems in the Cape Flats and Philippi, which would also positively impact Zeekoevlei.
+Mr Hugo mentioned that the CoCT had a winter readiness plan to mitigate the impact of the rainy season.
+Mr Oelofse responded to the question on toxicity, explaining that there was a term called chemicals of emerging concern. These chemicals were not yet fully understood globally regarding their potential harm. He stated that the wastewater system could not remove all chemicals, as they came from everyday household products. He explained that the CoCT collected seawater samples and sent them to overseas laboratories for analysis and that monitoring was the best course of action at present.
+Mr Ramaila highlighted the R2.6 billion budget and asked if funds were allocated to marine outfall refurbishment.
+Mr Killick confirmed that the budget included marine outfall refurbishment and that they hoped to issue a tender soon.
+Ms F Mbiko (DA) stated that other municipalities could learn from the CoCT.
+Ms Khawula questioned why no companies had been fined or arrested for pumping wastewater into the ocean. She asked if people were warned when E. coli was detected in the water and whether penguins were affected by wastewater pollution.
+Mr Manus confirmed that warnings were issued when spillages occurred, with notices sent out and signage put up.
+Mr Oelofse stated that the penguin population at Boulders Beach was stable and that overfishing, rather than wastewater, was the primary issue affecting them.
+Ms Majodina noted that warnings had been issued in four areas—Potsdam, Micasa Stand, Borcherd’s Quarry, and the Cape Flats—and that remedial action had been taken, preventing legal action.
+Ms MP Kobe (ActionSA) raised concerns about non-compliance by the three coastal authorities in Camps Bay, Hout Bay, and Green Point. She inquired about the legal action taken against Hout Bay and its outcome.
+Mr Manus explained that there had been a suspension due to disputes over new regulations. He stated that the DFFE had proposed a reduced capacity flow for Hout Bay, which the CoCT could not comply with, and that the matter was still under discussion.
+Mr Killick stated that the CoCT had presented its case to the DFFE and that ongoing discussions with stakeholders were taking place.
+Mr Badroodien noted that ActionSA had filed the charge, but the NPA had decided not to pursue the case, effectively ending it.
+The Chairperson asked about the feasibility study for improving marine outfalls.
+Mr Killick responded that the study was still in its early stages and that various options were being considered.
+Mr Mahlobo emphasised the importance of the circular economy, advocating for water reuse and sludge management to produce electricity and byproducts.
+Mr Manus said that they were looking at Cape Flats wastewater works to see how they could use the sludge there and that process was underway.
+Mr Dithebe noted the areas the Minister drew attention to and asked the CoCT if they purposefully included those people in the economic activity that comes from creating that infrastructure. He said that the economy needs to be transformed and assist people who have been marginalised.
+He asked the CoCT if they considered working the Centre for Scientific and Industrial Research (CSIR) instead of sending samples overseas to be tested. He asked if, in the long term, these tests could be done locally.
+He wanted a timeline for when the improvement of infrastructure would be completed.
+He referred to the marine outfalls and asked if the CoCT could work with other stakeholders to address the issue of emerging chemicals of concern.
+Mr Manus agreed that the economy should benefit all people and noted that they operate within the National Supply Chain Management Policy applied to the CoCT and they comply when they do local procurement. He said that with the work that Mr Hugo was doing a lot of local contractors were being used. He said that they try to rotate contracts so that many different households can benefit from employment.
+He said that the city was investing in educating people about how to contact the city so that they could attend to an issue and know about an issue sooner.
+He said that densification did create pressure on the system and was a problem the city was facing. He said that they were looking at areas where densification could happen to see how that would affect their infrastructure improvement pipeline.
+Mr Killick said that there was more information included at the end of the presentation for the committee.
+He explained that laboratories were being established in South Africa to be able to test for these chemicals.
+Mr Oelofse added that the laboratories were not accredited yet in the country and that was why they sent samples overseas. He said once local laboratories were accredited the city would use them.
+He said that it would be beneficial to find ways to reduce these chemicals. He noted that overseas some of these chemicals were being banned. He said that as technology improved hopefully, they would be able to find a way to remove these chemicals.
+Mr Nxumalo noted that the conditions of the meeting were not bearable.
+He inquired if the CoCT considered extending the marine outfalls to be further from the shore.
+Mr Killick said that they had considered extending the pipes. He noted that legislation prohibited them from working in marine protected areas and therefore that was not feasible.
+Ms Khawula asked the minister if the companies that produced plastics should be closed.
+She said that in Cape Town there was unclean water that was making people sick. She noted that people could not afford to buy water.
+She asked if drains could be opened to prevent blockages.
+She inquired if the city went into communities to educate people about the dangers of polluting water.
+She wanted to know why the country was not working with universities to use what they had learnt overseas so that samples did not have to be sent away to be studied.
+Ms Majodina said that the issue of plastics companies was a complex one. She said that there were standards that were set by the Department of Trade Industry and Competition and DFFE. [3:15:44] Comments not in English.
+Mr Mahlobo said that the DWS was working with CSRI and universities to research chemicals of emerging concern and that South Africa was leading the research. He said that South Africa was treating the wastewater and sludge, and that the country did not need to look to overseas countries.
+He emphasised that Cape Town’s water was safe to drink and had passed the Green Drop test. He said that private infrastructure could be affecting the water.
+Mr Badroodien agreed that the city’s water was drinkable and met standards. He said water was tested along the network to ensure it was meeting the standard and to see if there was a failure in the system.
+He said there was an issue with grey and black water overflows which when exposed could make people sick. He said that the CoCT was trying to fix those overflows so that people were not exposed.
+He said that dumping was a challenge and ideally would like to stop the dumping at the source.
+The meeting was adjourned.
+Follow this committee
+Follow this committee and get
+free email alerts
+whenever we get new information about it.
+Write to this committee
+Audio
+City of Cape Town sewage disposal and wastewater treatment
+Documents
+Media Statement: Municipalities In South Africa Should Use The City Of Cape Town As Benchmark For Wastewater Management
+CoCT: Wastewater Treatment & Disposal
+DWS: City of CT Wastewater Management
+DWS: City of CT Wastewater Management
+Present
+Basson, Mr LJ
+Chairperson
+DA
+Dithebe, Mr SL
+ANC
+Dlelanga, Mr M
+ANC
+Khawula, Ms MS
+EFF
+Kobe, Ms MP
+Action SA
+Mahlobo, Mr MD
+ANC
+Majodina, Ms PC
+ANC
+Mbiko, Ms F
+DA
+Mosikatsi, Ms S
+ANC
+Nxumalo, Mr NI
+MKP
+Ramaila, Mr KS
+ANC
+Seitlholo, Mr IS
+DA
+Download as PDF
+You can download this page as a PDF using your browser's print functionality.
+          Click on the "Print" button below and select the "PDF" option under destinations/printers.
+See detailed instructions for your browser
+here
+.
+Print
+Correct this page
+Disclaimer & Copyright
+Share this page:
+×
+What's wrong with this page?
+How we can improve this page?
+If you'd like us to get back to you, please enter your email address.
+Thank you for your feedback, your message has been sent.
+Close
+Send your feedback

@@ -1,0 +1,252 @@
+Title: Investigations concerning vulnerabilities in SRD grant application and payment system; Court judgment on constitutional validity of SRD regulations; with Minister and Deputy Minister
+Date: 26 Feb 2025
+Committee: 
+URL: https://pmg.org.za/committee-meeting/40287/
+============================================================
+
+Meeting Summary
+Video
+Court Judgement: Constitutional Validity of SRD Grant Regulations
+The Portfolio Committee on Social Development convened to address critical vulnerabilities in the SASSA social relief of distress (SRD) grant system of the South African Social Security Agency (SASSA). This followed concerns raised by cybersecurity researchers and widespread reports of fraud, unauthorised access, and inefficiencies in the grant distribution process. The Minister of Social Development and senior officials from SASSA and the Department of Social Development (DSD) presented their findings and proposed mitigation measures.
+Investigations have led to four main findings:
+Cybersecurity threats and system weaknesses
+The SRD system was vulnerable to brute force login attacks, weak encryption, and unauthorised API queries.
+Multiple applications using the same phone number indicate potential fraud.
+Unencrypted data backups expose beneficiary information to security breaches.
+Fraudulent websites exploiting beneficiaries
+Unauthorised sites mimicking SASSA’s official platform were discovered, collecting personal information from unsuspecting users.
+These sites posed risks of identity theft, financial fraud, and misinformation.
+Legal action and cybersecurity takedown efforts were urgently required.
+Beneficiary Payment Disruptions & System Failures
+Cases of identity theft led to wrongful grant denials.
+Many beneficiaries experienced delays in payments, with some losing out on several months’ worth of grants due to verification issues.
+There were disruptions at Postbank, causing distress among beneficiaries who struggled to access their funds.
+Governance and accountability concerns
+The visibility and leadership of the Chief Information Officer (CIO) in addressing cybersecurity concerns were questioned.
+The slow response in implementing security upgrades raised concerns about accountability and oversight.
+The key recommendations were that SASSA must strengthen its authentication and cybersecurity measures, take immediate action against fraudulent websites, improve beneficiary verification and payment security, and enhance its information technology governance and accountability. The Committee decided that the Minister must confirm whether an independent forensic investigator would be appointed to further probe the system's vulnerabilities, and SASSA had to provide a timeline for implementing biometric authentication and other security upgrades.
+The Portfolio Committee would conduct regular reviews to track the progress of cybersecurity enhancements and fraud prevention measures.
+Meeting report
+Opening Remarks
+The Chairperson said the Minister had been delayed due to an accident, but was en route, and acknowledged the presence of the Deputy Minister, the Acting Director-General, the Acting CEO of the South African Social Security Agency (SASSA), and senior leadership of the Department of Social Development (DSD) and SASSA.
+The agenda was adopted as proposed by Mr T Munyai (ANC) and seconded by Ms M Makgato (ANC).
+The Chairperson expressed concern over Postbank’s failure to submit requested information for oversight purposes. She emphasised that the Committee relied on such data to monitor service delivery to vulnerable South Africans.
+Mr Munyai supported the call for Postbank to be summoned to explain their role and accountability for social relief of distress (SRD) grant payment delays. If Postbank fails to provide satisfactory responses, further action must be taken.
+Committee Members’ observations from oversight visits
+Rev N Gcwabaza (MK) reported witnessing severe delays in SRD grant payments on the ground. Some beneficiaries arrived as early as 1:00 a.m. and were not assisted by 11:00 a.m. He observed that Postbank had no technical representatives available at collection points and expressed concern over the financial burden on the poor, who had to borrow money to reach payment sites. She fully supported the call for the Postbank to account before the Committee.
+Ms P Marais (EFF) related the case of an elderly woman with dementia and her husband with cancer, both of whom were struggling to access their grants. She said Postbank employees were rude and dismissive to beneficiaries. She expressed scepticism about Postbank's claim that the new cards' issue would be resolved by 20 March, citing slow processing rates, and highlighted the health risks due to long queues, noting that some elderly people had fainted. She called for clear plans to assist bedridden and frail beneficiaries who could not travel to collection points.
+The Committee resolved to call Postbank to account for the payment failures and lack of responsiveness, and Members committed to continuing visits to payment sites to monitor the situation firsthand. The Committee would work with SASSA and the DSD to explore alternative solutions to mitigate the delays and systemic failures in grant disbursement.
+The Chairperson reiterated the importance of ensuring timely grant payments to vulnerable South Africans. She emphasised that the Committee would continue to hold all stakeholders accountable and ensure urgent intervention where needed.
+Minister’s overview
+Ms Sisisi Tolashe, Minister of Social Development, acknowledged the crisis and confirmed that the DSD and SASSA were working tirelessly to mitigate the impact on beneficiaries. However, she stressed that Postbank had failed to provide a workable plan.
+Key points from the Minister’s address were that:
+The 20 March deadline was unachievable. Given the current inefficiencies, it was impossible to meet this target.
+The Minister conducted site visits in Paarl, Grabouw, and Athlone and confirmed that the service at Postbank points was severely lacking. In some locations, only 12 new payment cards were issued in four hours.
+Beneficiaries were at risk. The lack of organisation has exposed elderly beneficiaries to crime, exploitation, and extreme distress.
+There had been mitigation efforts by the DSD and SASSA, with efforts including the provision of chairs and water at payment centres, but these were not sustainable solutions.
+The DSD and SASSA launched an independent investigation into cybersecurity risks following concerns raised by Stellenbosch University students regarding vulnerabilities in the SRD system.
+The Minister reiterated the urgent need for Postbank to appear before the Committee with a comprehensive, practical plan to address the crisis.
+Independent cybersecurity investigation findings
+SASSA and DSD officials presented findings from an independent assessment conducted by Masegare & Associates Inc. The investigation had focused on vulnerabilities in the SRD grant application and payment system.
+Key findings were:
+Cybersecurity weaknesses
+The SRD system was found to have significant vulnerabilities, including weak encryption, outdated software, and misconfigured servers.
+Unauthorised third-party websites were harvesting beneficiaries' personal data.
+Operational inefficiencies
+Postbank’s payment system was found to be slow and unreliable, causing major delays for beneficiaries.
+Lack of real-time monitoring exposed the system to cyber threats.
+Identity theft risks
+Cases of beneficiaries' IDs being fraudulently used to apply for grants were reported.
+Several fraudulent transactions were identified and referred for investigation.
+Recommendations for improvement
+Strengthen cybersecurity protocols.
+Increase biometric verification to prevent fraud.
+Improve access control and system monitoring.
+Conduct regular penetration testing.
+Take legal action against fraudulent third-party websites posing as SASSA.
+Mr Themba Matlou, Acting CEO, SASSA, confirmed that an implementation plan was being developed to address these vulnerabilities, and that an internal audit team would oversee progress.
+Committee’s response to Postbank crisis
+The Committee adopted the following resolutions as a response to the Postbank crisis:
+Summon Postbank to account: The Committee resolved to formally summon Postbank to explain the ongoing crisis and their lack of responsiveness.
+Alternative payment options: The Committee urged SASSA to prioritise capturing beneficiaries’ preferred payment methods.
+Clarification on the new Postbank cards: The Committee recommended exploring ways to issue a confirmation letter or digital proof for SASSA beneficiaries.
+Improved communication: The Committee requested clearer public communication to prevent confusion among beneficiaries regarding payment changes.
+Follow-up actions on cybersecurity and SRD system issues
+Strengthen internal oversight: SASSA’s internal audit team was tasked with tracking and ensuring the implementation of recommendations.
+Monitor cybersecurity measures: The Committee would conduct regular oversight to ensure security upgrades were implemented.
+Investigate further legal action: The Committee urged SASSA and DSD to pursue legal action against third-party websites harvesting personal data.
+The Committee acknowledged the urgency of the current challenges and committed to intensified oversight to ensure that beneficiaries receive their grants without further delay.
+Minister Tolashe reaffirmed the Department’s commitment to working with the Committee to resolve these issues.
+The next steps would be for the Postbank to appear before the Committee at the earliest available date; SASSA to provide a detailed timeline for implementing cybersecurity measures; and regular updates from the DSD and SASSA on grant payment progress.
+Independent investigation findings
+Following allegations raised by Stellenbosch University students, Mr Joel Cedras and Mr Veer Gosai, regarding security vulnerabilities in the SASSA SRD grant system, the Portfolio Committee had mandated a full investigation into the matter. The investigation was extended beyond SRD grants to assess the security and integrity of all social grant systems administered by SASSA, including child support, disability, old-age pension, and foster child grants.
+The DSD was required to finalise the investigation within 30 days and present its findings to Parliament. Masegare & Associates Incorporated was appointed to conduct an independent cybersecurity assessment of the SRD application and payment system.
+Key findings from Cedras and Gosai’s research
+The Stellenbosch students had identified significant security flaws in the SRD system, including:
+Application programming interface (API) vulnerabilities. The system lacked rate limiting, allowing unlimited queries. This vulnerability enabled mass checking of application statuses using randomly generated identity document (ID) numbers.
+The API inadvertently revealed whether an ID number was linked to an SRD application. This allowed unauthorised parties to access applicants' personal details.
+Anomalous application rates. The students had observed unusually high application rates for individuals born between 2003 and 2006, as well as in February 2005. This suggested possible fraudulent applications or identity misuse.
+Potential payments to non-beneficiaries. Grants were found to be linked to ID numbers that had never applied, raising concerns about unauthorised applications and potential misallocation of funds.
+In a follow-up interview on 29 November 2024, Cedras and Gosai explained that they conducted this research after their own SRD applications were rejected due to their ID numbers already being in use, signalling possible identity theft.
+Cybersecurity assessment by Masegare & Associates
+The investigation conducted by Masegare & Associates focused on the security risks of the SRD system before and after 26 November 2024.
+The findings on cybersecurity risks identified the following:
+Weak authentication measures. The system relied heavily on one-time-pin (OTP)-based authentication, making it vulnerable to SIM swap fraud. The lack of biometric verification for all transactions increased the fraud risk.
+Server misconfigurations. Internal system settings were found to be improperly configured, allowing unauthorised access. Weak encryption exposed sensitive data to potential breaches.
+Lack of fraud detection mechanisms. The absence of real-time fraud monitoring allowed fraudulent transactions to occur undetected.
+Emerging threats from third-party platforms. Fake websites mimicking SASSA’s online portal were found to be harvesting beneficiaries’ personal information. These sites misled beneficiaries into unknowingly exposing sensitive data.
+Findings on external threats
+The investigation identified several unauthorised websites posing as official SASSA portals. These fraudulent platforms collected personal details from unsuspecting beneficiaries, claiming to offer grant status updates, but were actually data-harvesting operations.
+The presence of these sites raised concerns over potential identity theft and unauthorised access to grant payments.
+Recommendations and remediation plan
+Based on the investigation findings, Masegare & Associates proposed the following actions:
+Strengthen authentication and access control
+Introduce biometric verification for all SRD applicants.
+Implement multi-factor authentication beyond OTPs.
+Enhance system security
+Regularly audit system configurations to ensure compliance with security best practices.
+Encrypt all sensitive data both in transit and at rest.
+Real-time fraud detection and monitoring
+Implement fraud detection systems capable of identifying anomalies in application and payment patterns.
+Take legal action against fraudulent websites
+Collaborate with cybersecurity authorities to shut down fake websites.
+Strengthen public awareness campaigns to educate beneficiaries about official SASSA communication channels.
+Improve transparency and public communication
+Create an official e-verification service for beneficiaries to confirm their status.
+Provide beneficiaries with clear guidelines on alternative banking options to receive grant payments.
+SASSA’s implementation plan
+Following the presentation of the independent investigation findings, Mr Matlou outlined SASSA's response and remediation plan.
+Short-term measures (0-6 months) would involve immediate software patching to fix vulnerabilities, stricter authentication policies, including increased OTP security, and enhanced fraud detection capabilities.
+Medium-term measures (6-18 months) would require expansion of biometric verification for all new applications, strengthening encryption measures across all digital platforms, and continuous monitoring and penetration testing to detect new threats.
+In the long term (beyond 18 months), there must be full integration of artificial intelligence (AI)-powered fraud detection, the establishment of a dedicated cybersecurity task force within SASSA, and ongoing collaboration with cybersecurity agencies to safeguard the grant system.
+SASSA’s internal audit division would monitor the implementation of these measures, and provide regular progress reports to the Portfolio Committee.
+Discussion
+Ms A Abrahams (DA) raised concerns about the lack of specific dates in the implementation plan. She requested clarification on whether the six-month action plan began in November 2024, or if it starts only now, in March 2025. She also questioned the timeline for removing fraudulent websites, which was estimated at six to eight months, without a clear indication of when this period starts.
+She inquired about the deadline for finalising the task team's terms of reference and when they would be presented to the Minister. She also asked whether the Minister would appoint an independent service provider to investigate social grant fraud and whether this recommendation had been formally considered.
+She sought clarity on whether the issues in the SRD system were due to negligence, incompetence, or technical oversight. She also questioned whether a private sector team would have made the same mistakes when designing the system. Had any officials faced disciplinary action, and what accountability measures were in place?
+She sought details on identity fraud cases, specifically whether the fraud cases had been confirmed, whether they were isolated incidents or widespread, and which provinces were most affected.
+Ms Abrahams asked who was responsible for managing the SRD system, whether it fell under the Chief Information Officer (CIO) or grant administration, and who was on the steering committee overseeing the system.
+Mr Munyai emphasised that cybersecurity was now a global security risk and that continuous monitoring was required to prevent attacks. He said that consequence management should extend to all stakeholders responsible for information technology (IT) security.
+Ms K Tlhong (ANC) expressed confidence in the Department’s response and urged immediate implementation of the cybersecurity recommendations. She emphasised the need for modern digital solutions to improve grant service delivery and called for closer oversight of the implementation phase.
+Ms M Makgato (ANC) emphasised the need for modern digital solutions to improve grant service delivery. She called for closer oversight of the implementation phase.
+Rev N Gcwabaza (MK) raised concerns about the real-world impact on beneficiaries. He requested a clear assessment of how many beneficiaries were affected and what measures were being taken to rectify the situation. He also called for an investigation into possible corruption related to these issues, and for clear accountability for those responsible. He stressed the need for better coordination between SASSA, the DSD and service providers.
+Ms Marais questioned how internal staff were being monitored to prevent fraud. She raised concerns about beneficiaries missing payments due to delayed identity documents.
+Members commended the investigation team for their detailed assessment and urged swift action to mitigate risks.
+Key concerns raised included:
+Ensuring consequence management: Members questioned whether disciplinary action would be taken against officials responsible for the system’s vulnerabilities.
+Clarifying financial implications: The Committee requested a breakdown of the costs associated with implementing the proposed security measures.
+Tracking Postbank’s compliance: Members emphasised the need to hold Postbank accountable for ongoing inefficiencies in the grant payment process.
+The Committee resolved that:
+Postbank must appear before the Committee to present a concrete plan to resolve payment delays.
+SASSA must submit a timeline for implementing cybersecurity upgrades, with quarterly progress reports.
+The DSD must engage with law enforcement agencies to take down fraudulent websites posing as SASSA.
+An independent forensic investigation into suspected fraudulent payments must be initiated.
+The Chairperson emphasised that the Committee would closely monitor the situation and hold all responsible entities accountable for the security and efficiency of the social grant system.
+The Chairperson thanked the Minister, Committee Members and the investigation team for their contributions.
+The Committee reaffirmed its commitment to ensuring that social grants were delivered efficiently and securely to all beneficiaries.
+SASSA's response
+Mr Matlou acknowledged that fraud detection measures had identified several cases in 2023 and 2024. He highlighted the role of internal audits in tracking and strengthening accountability and emphasised the risk mitigation process to analyse, review, and update security strategies. He appealed to the Committee to note the progress made and ensure ongoing collaboration with oversight bodies.
+Chairperson’s comments
+The Chairperson acknowledged SASSA’s efforts, but raised concerns over the potential impact on vulnerable beneficiaries, the delays in implementation despite the urgency of cybersecurity risks.
+and ensuring that governance processes did not slow critical security improvements.
+She said the Committee would monitor whether SASSA adheres to its implementation timelines.
+She reiterated that the Committee expects clear timelines for all recommendations, the Postbank must still account for its failures in handling payments, and a follow-up meeting would be scheduled to review SASSA’s progress on implementing security measures and improving the system.
+Further discussion
+A Member raised concerns about the potential for insider fraud within SASSA, as internal staff across various departments became familiar with the system over time. The question focused on how SASSA ensures that employees do not exploit system vulnerabilities for fraudulent activities.
+SASSA responded that it had implemented continuous monitoring and internal auditing mechanisms to track employee activity. Access to sensitive data was based on the principle of least privilege, meaning only authorised personnel could access critical information. A zero-trust security model was being developed to strengthen internal controls and prevent insider threats.
+A case was highlighted in which an individual waited six months to receive their grant but was only paid for two months. This raised concerns about how SASSA ensures that rightful beneficiaries receive their full entitlements.
+SASSA responded that if a beneficiary did not receive their grant due to verification delays, back payments should be processed for all missed months. Investigations were underway to determine whether these missing payments resulted from fraud or system errors. Efforts were being made to enhance beneficiary verification, particularly for those using mobile money services.
+Concerns were raised regarding the lack of communication with beneficiaries when their payments were delayed due to missing documents or verification issues. Members asked whether individuals were actively notified.
+SASSA said its online portal was being improved to provide real-time status updates for beneficiaries. Beneficiaries would receive SMS notifications if payments were delayed due to missing documents. It was working on a self-service system, where users could upload required documents online.
+Questions were raised about the use of multiple phone numbers in applications, particularly in cases where beneficiaries shared numbers with family members or political organisations. Members sought clarity on how SASSA ensures that grants are not fraudulently accessed using unauthorised numbers.
+SASSA said it was implementing stricter validation rules, linking one applicant’s ID to a single registered phone number. Exceptions would be made only in verified cases where shared numbers were necessary. A new fraud detection system would flag suspicious multiple applications from a single phone number.
+Concerns were raised about beneficiaries who frequently change their phone numbers. Members asked how SASSA ensures they continue to receive grants despite this challenge.
+SASSA said it was developing a phone number revalidation process, requiring beneficiaries to confirm ownership every six months. Automated alerts would notify users when a new application was tied to their number. Beneficiaries who changed their phone numbers must update their details through an identity-linked process to prevent fraud.
+The Chairperson inquired about whether there were significant financial implications linked to these security and verification concerns. The issue of phone numbers being used fraudulently for grant claims was also raised, including whether this was a network provider issue or a flaw within SASSA’s system.
+SASSA replied that the financial impact of fraud was still being quantified, but preliminary findings suggested substantial losses due to unauthorised applications. Investigations indicated that some cases involved SIM swap fraud, where criminals take over beneficiaries’ phone numbers. SASSA engaged with mobile network operators to track and prevent fraudulent SIM swaps.
+Members requested an update on cases in the Eastern Cape, where a large number of people could not access their grants due to verification failures.
+SASSA said the majority of affected beneficiaries had now been verified and paid. The remaining cases were being processed manually, with priority given to elderly and disabled recipients. Future verification would incorporate biometric authentication to reduce reliance on manual ID verification.
+The Chairperson expressed support for biometric verification, stating that past reports suggested biometrics as a way to reduce fraud, but no action had been taken. The question was whether biometrics were now officially being introduced.
+SASSA responded that biometrics would be introduced as part of the 2025–2026 financial year strategy. The first phase would focus on high-risk transactions, such as changes to beneficiary banking details. A pilot project would be rolled out before full implementation.
+A Member raised concerns about financial management, stating that 25% of allocated grant funds remained in banks. Further investigation was requested to understand whether this was due to unclaimed grants, or delays in disbursement.
+SASSA said a full audit was being conducted to track unclaimed grant funds. Some beneficiaries may not have withdrawn funds due to banking verification delays. SASSA was working to speed up disbursements and ensure funds reached the intended recipients.
+The Chairperson emphasised that while progress was being made, several unresolved issues still required urgent attention. The following next steps were outlined:
+Follow-up on timelines. SASSA must provide a detailed timeline for all security measures, including fraud mitigation, biometric authentication, and verification improvements.
+Resolution of phone number fraud cases. A report was required on the extent of fraudulent phone number use and corrective actions taken.
+Finalisation of independent investigation. The Minister must confirm whether an external forensic investigator would be appointed.
+Progress on biometric implementation. A follow-up report on the timeline for a biometric verification rollout was needed.
+Engagement with mobile network operators. SASSA must provide updates on its collaboration with telecom providers to prevent SIM swap fraud.
+Monitoring and oversight. The Portfolio Committee would schedule a follow-up session to review the implementation of security recommendations.
+The Chairperson said the Portfolio Committee awaits written responses from SASSA and thr DSD on outstanding issues. A progress review meeting would be scheduled to track the implementation of security improvements. Further engagement with Postbank was necessary to ensure reliable grant payments.
+Further discussion
+A Member inquired whether international security systems or best practices could be leveraged to improve the security of the SASSA SRD system.
+SASSA said it was exploring collaborations with global cybersecurity organisations to strengthen its system protections. Benchmarks were being conducted against international social security models to identify best practices in digital grant distribution and fraud prevention.
+Concerns were raised about the limited visibility of the chief information officer (CIO) in the discussions, given the technical nature of the issues being addressed.
+SASSA responded that the CIO was actively involved in all governance structures overseeing IT security. The ICT steering committee, which includes the CIO, meets regularly to review security updates and ensure compliance with evolving standards. The Committee also includes external experts to provide broader oversight of cybersecurity risks.
+A request was made for a specific timeline for the implementation of biometric verification to prevent fraud.
+SASSA replied that biometric authentication was set to begin in the 2025/26 financial year. A pilot programme would be launched before full implementation, focusing on high-risk transactions. The rollout strategy included stakeholder consultations and engagement with mobile service providers for secure biometric integration.
+Members emphasised the importance of continuous monitoring and adaptation as cybersecurity threats evolve.
+SASSA said a dedicated cybersecurity operations team would oversee ongoing security enhancements. Real-time fraud detection systems were being introduced to prevent unauthorised access. System configuration updates and penetration tests would be conducted regularly to identify vulnerabilities before they were exploited.
+Chairperson’s closing remarks
+The Chairperson acknowledged the progress made, but emphasised the need for swift action in implementing security improvements. She outlined the following next steps:
+Follow-up on biometric implementation. A detailed project timeline must be submitted to the Portfolio Committee, specifying key milestones and expected completion dates.
+Finalisation of the independent cybersecurity investigation. The Minister must confirm whether an external forensic investigator would be appointed to oversee further investigations.
+Strengthening IT governance and visibility of key officials. The role of the CIO in security discussions must be better communicated to ensure full transparency.
+Progress report on fraudulent website takedown. An update was required on efforts to remove unauthorised websites collecting SASSA beneficiary information.
+Monitoring of cybersecurity measures. The Portfolio Committee would schedule a follow-up review to track the implementation of security enhancements.
+She said SASSA and the DSD must submit written responses addressing outstanding issues, including financial risks and fraud mitigation. A progress review meeting would be scheduled to assess the implementation of the security measures and biometric verification plan. Further engagement with Postbank remained necessary to resolve ongoing payment system concerns.
+The meeting was adjourned.
+Follow this committee
+Follow this committee and get
+free email alerts
+whenever we get new information about it.
+Write to this committee
+Audio
+Investigations concerning vulnerabilities in SRD grant application and payment system; Court judgment on constitutional validity of SRD regulations; with Minister and Deputy Minister
+Documents
+Minister's Remarks
+Media Statement: Committee Welcomes Findings On SASSA's SRD Grant Payment System
+Media Statement: Committee Wants Accountability From Postbank On Slow Card Replacement Process
+DSD: COVID-19 SRD Court Challenge
+SASSA: SRD Findings & Remediation Plan
+Present
+Masango, Ms B
+Chairperson
+DA
+Abrahams, Ms ALA
+DA
+Gcwabaza, Rev NB
+MKP
+Hendricks, Mr MGE
+Al Jama-ah
+Makgato, Ms MP
+ANC
+Marais, Ms P
+EFF
+Mtshweni, Ms NA
+MKP
+Munyai, Mr TB
+ANC
+Tagodien, Ms R
+PA
+Tlhong, Ms KC
+ANC
+Tolashe, Ms N G
+ANC
+Download as PDF
+You can download this page as a PDF using your browser's print functionality.
+          Click on the "Print" button below and select the "PDF" option under destinations/printers.
+See detailed instructions for your browser
+here
+.
+Print
+Correct this page
+Disclaimer & Copyright
+Share this page:
+×
+What's wrong with this page?
+How we can improve this page?
+If you'd like us to get back to you, please enter your email address.
+Thank you for your feedback, your message has been sent.
+Close
+Send your feedback

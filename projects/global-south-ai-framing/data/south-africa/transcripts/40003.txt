@@ -1,0 +1,767 @@
+Title: Consideration of Western Cape Adjustments Appropriation Bill 2024, Budget Vote 1: Premier
+Date: 28 Nov 2024
+Committee: 
+URL: https://pmg.org.za/committee-meeting/40003/
+============================================================
+
+Meeting Summary
+Video
+Premier Alan Winde addressed South Africa's financial and economic challenges,
+emphasising
+prudent resource management and an adjusted budget of R2.1 billion.
+The
+p
+rovince allocated funds for energy projects, achieving savings through cost management and external support. Efforts include
+d
+recruiting specialists and advancing independent power initiatives to address the energy crisis.
+Key reallocations include
+d
+R2.3 million to the Department of Infrastructure for training, R9.3 million for cyber-security, and R29 million for public Wi-Fi under the Broadband 2.0 contract. Negotiations
+we
+re ongoing to manage rising Microsoft licensing costs. Challenges with the Children’s Commission, including unspent funds and accommodation delays,
+had
+prompted
+a saving of
+R4.3 million.
+Members
+highlighted concerns about
+non-profit
+funding, ICT infrastructure and public service
+professionalisation
+. The
+y asked questions about the role of the
+Centre
+for
+E
+-Innovation,
+ongoing delays in furnishing the Commissioner of Children with office space, and ways of managing high software licensing costs.
+The
+Committee R
+eport
+reflecting the Committee’s support for the Budget Vote and the ANC’s minority view
+was adopted.
+The Committee considered meeting with and conducting an oversight visit to the Province’s Centre for E-Innovation.
+Meeting report
+Opening Remarks by the Premier
+Mr Alan Winde,
+Premier, Western Cape Provincial Government, emphasised
+the challenges South Africa faces with a very low
+gross domestic product (
+GDP
+)
+growth rate, which
+had
+increased slightly from 0.2% to 0.4%.
+T
+he financial environment
+was problematic
+at both national and provincial levels, necessitating frugal management of resources. Efforts
+we
+re under way to save funds, prevent overspending, and identify alternative income sources. Notably, the budget
+had
+seen an upward adjustment of R95 million, bringing it to R2.103 billion,
+with the increase
+largely allocated
+to
+energy projects and related realignments.
+The Premier
+observed that a
+lthough load shedding has been temporarily alleviated, South Africa
+remained
+in a precarious energy situation.
+Some predictions
+indicate
+d
+the possibility of load shedding resuming,
+due to the country’s continued
+reliance on
+an ageing
+coal power fleet.
+E
+nergy plans
+we
+re being actively pursued, with a realignment of R3.78 million within energy funding. Savings of R10 million
+had been
+achieved
+through
+load-shedding
+packs
+, while
+another
+R6 million
+in savings had come
+from demand-side management
+programmes
+, particularly in water heating control across three municipalities, supported by
+the United States Agency for International Development (USAID)
+. The
+I
+ntegrated
+R
+esource
+P
+lan
+had
+yielded another R11 million in savings.
+The
+p
+rovince
+had
+managed to secure alternative funding sources, including a World Bank contribution to independent power producer auctions and
+USAID
+support for various
+programmes
+. Further, unfilled scarce-skills posts
+had
+returned R9 million to the revenue fund. Adjustments
+had also seen
+shifts between votes,
+totalling
+R34.8 million.
+There were changes to yearly
+Microsoft licensing
+fees,
+driven by inflation and exchange rate
+fluctuations
+.
+The
+information and communication technology (
+ICT
+)
+team and the
+Director-General
+(DG)
+had
+been actively engaged in discussions with Microsoft to secure
+a
+better costing structure, given the
+province’s
+significant expenditure in this area. These funds also cover
+ed
+ICT services for education,
+the Microsoft
+Azure
+C
+loud
+C
+omputing
+Service
+, and technical services for health and transversal electronic content management systems.
+R2.3 million
+had been
+shifted to the Department of Infrastructure for the Provincial Training Institute (PTI) and local government forensic investigative support. A rollover of R9.3 million was included
+to address
+shortfalls in the
+Centre
+for e-Innovation, with R9 million allocated for cyber-security and R2 million for public Wi-Fi services for residents. Treasury
+had
+allocated R77.5 million in provincial funding to address growth and inflationary pressures, with
+a
+significant portion directed towards Microsoft licensing
+costs
+.
+Under the new Broadband 2.0 contract, R29 million
+had been
+moved to enhance public Wi-Fi services. The contract also enabled an additional saving of R46 million over two years. Compensation for employees included absorbing a wage agreement amounting to R26 million, which
+put
+pressure on departments
+and necessitated
+meticulous budget adjustments. The
+Commissioner for
+Children
+had seen
+ongoing financial planning, with R4.3 million remaining in the provincial revenue fund to support staff capacitation and secure permanent office accommodation
+for the Commission.
+Dr Harry Malila,
+DG
+, D
+epartment of the Premier, noted
+the
+D
+epartment's innovative cost-saving strategies,
+which included
+R26 million in savings within energy projects funded by external sources. Engagements with Microsoft regarding licensing costs aim
+ed
+to mitigate dollar-denominated expenses and
+optimise
+license procurement. The transition to Broadband 2.0
+had
+proven cost-effective,
+and plans were in place
+to expand service delivery to more sites while maintaining public Wi-Fi access.
+Discussion
+Mr B Herron (GOOD) asked whether the province had taken forward cover to mitigate the impact of fluctuations in the rand-dollar exchange rate on the cost of Microsoft licenses. Secondly, in relation to the R9 million surrendered due to unfilled posts, what did the term “core energy team” mean, and which positions had not been filled?
+Premier Winde replied that the province did not currently take forward cover to mitigate currency fluctuations, but the DG or a team member could elaborate on the discussions with Microsoft. Stricter management systems were being put in place to minimise waste, such as unused licenses. The “core energy team” was a team established to bring together essential skills in the energy sector. It was led by Mr Alwie Lester, Special Advisor on Energy, Office of the Premier, and a budget to recruit specialists in areas like solar, wind, batteries, and green hydrogen had been allocated. Although some team members had been sourced from various departments, recruitment had been cautious to ensure funds were used effectively.
+Mr K Sayed (ANC)
+echoed the Premier's remarks about the adjustments and focus on the Commission
+er for Children
+.
+He asked for
+an update on the progress of the
+C
+ommission
+er’s office
+, particularly its resources and budget.
+Mr T Walters (DA)
+added to Mr Sayed's comments regarding the Commissioner
+for
+Children. How
+did
+the Premier envision the
+C
+ommissioner’s office functioning in the future, and what
+we
+re the plans for its capacitation?
+Premier Winde explained that
+i
+nitially, the
+C
+ommissioner
+had been
+housed within
+the Premier’s
+office space as a temporary arrangement. This structure
+wa
+s being reviewed, as the
+C
+ommissioner
+did
+not report directly to the Premier but rather to Parliament. Discussions about identifying a suitable property for the
+C
+ommissioner’s office
+were
+ongoing. At one point, a provincially owned building
+had been
+proposed, but the process
+had been delayed
+due to changes in preferences and logistical considerations.
+A
+review process
+was
+under way
+that offered
+an opportunity for engagement from a political perspective, from the
+S
+tanding
+C
+ommittee, and through external evaluations to consider potential adjustments to the legislation or other necessary changes.
+He noted that the
+Commission
+er for Children was
+relatively new
+and was still
+in the process of establishing itself.
+Dr Malila added
+that an independent review
+wa
+s being conducted to evaluate the office's effectiveness since its inception.
+It considered
+the office itself,
+which included
+staff employed by the Western Cape Government, and the Commissioner
+of
+Children,
+who was
+appointed by law as an independent functionary. External stakeholders, key figures in government departments such as education and social development, and members of Parliament
+we
+re all part of the evaluation process.
+He emphasised
+that
+it wa
+s a unique entity
+insofar as
+accountability for its staff and budget
+fell
+under the DG,
+while the
+Commissioner operate
+d
+independently. Importantly,
+unspent
+funds allocated to the Commissioner
+had
+not been redirected; savings
+we
+re either returned to the
+provincial
+revenue fund or kept in reserve for future reallocation. Accommodation challenges
+have
+been a significant issue. The Commissioner
+had
+declined
+one building, and although an
+acceptable
+alternative building
+had been
+identified, delays in securing an eviction order for the current tenants
+had
+stalled progress. In the interim, the Commissioner and staff
+were
+operat
+ing
+from an office in St. George’s Mall, which
+wa
+s functional
+if
+less than ideal. Unused funds amounting to R4.3 million
+had
+been surrendered to the provincial revenue fund for reallocation toward staff and accommodation needs in future years. Staffing
+had
+been another challenge. As a new institution, recruiting appropriate personnel
+was difficult, and the difficulties were
+compounded by some staff exits. Efforts
+we
+re under way to address these issues, including forming a dedicated team to focus on staffing.
+Dr Malila explained that
+the government
+did
+not
+generally
+take forward cover or insurance as it could result in fruitless expenditure
+in the event of favourable
+currency fluctuations. Instead,
+it
+conduct
+ed
+financial market analyses, consult
+ed
+with banks, and coordinate
+d
+with the
+T
+reasury to determine optimal payment times for expenses like licenses.
+O
+n
+the topic of
+energy initiatives,
+t
+he focus
+wa
+s on recruiting skilled personnel to address energy challenges.
+Relevant
+expertise
+had
+admittedly
+been difficult to source, particularly during periods of heavy load shedding. Funds
+had
+been allocated for these resources, and internal staff
+had
+been reassigned to support energy projects where possible. The coordinating role of the
+D
+epartment
+of the Premier
+and its energy advisor
+wa
+s pivotal in advancing the energy plan.
+Dr Malila said that lowering the cost of
+Microsoft licenses
+required
+a whole-of-government strategy. Departments
+we
+re provided with an upper limit for license
+costs
+, and measures
+we
+re being implemented to recoup funds if departments exceed
+ed
+this limit due to new staff appointments. The importance of matching license types to user needs was also stressed, as purchasing a full Microsoft suite for users who only use
+d
+basic functions like Excel or PowerPoint led to inefficiencies.
+Mr Drikus Basson, Chief Financial Officer
+(CFO)
+,
+Department of the Premier,
+said that the
+D
+epartment has been working on securing a 90-day payment period for
+Microsoft license fees
+to leverage better exchange rates.
+It also explored
+the use of more cost-effective licenses, such as F3 licenses, which provide
+d
+the
+necessary security features but with reduced mailbox sizes. Pilot
+programmes
+had
+already been conducted, and further negotiations with Microsoft
+we
+re under way to establish a more affordable arrangement.
+Regarding the Commissioner of Children and accommodation issues, he said that the Department had identified a suitable building for the Commissioner back in 2021, but a delay
+occurred due to
+the incumbent
+tenant's refusal to vacate
+the premises
+. The matter
+had been
+resolved only in May 2024.
+F
+urther steps, such as rezoning and refurbishment, were still required to meet the
+C
+ommissioner's unique requirements. Staffing for the
+C
+ommissioner's office
+wa
+s also under review, with a proposal being prepared to enhance resourcing over the next three years.
+Regarding core energy posts,
+Mr Basson drew attention to some
+challenges in recruiting qualified professionals. Many prospective candidates
+we
+re deterred by the short-term nature of the positions or
+found
+the salaries insufficient. This
+has
+created difficulties in adequately staffing this critical area.
+Mr Egsaan Samaai,
+a
+cting Deputy Director-General
+(DDG)
+,
+Department of the Premier,
+said that efforts
+we
+re being made to transition users, particularly in the Department of Health, to more cost-effective
+software
+licenses. This
+D
+epartment
+represented
+the largest user base, accounting for around 60% of licenses in the
+p
+rovince. Negotiations with Microsoft
+we
+re ongoing to secure even better deals to reduce costs further.
+Deliberations: Western Cape Adjustments Appropriation Bill, Vote 1
+Mr Sayed raised several questions about budget allocations on
+page 2,
+Table 1.1. He wanted clarification regarding the goods and services to be funded by
+the
+additional
+appropriation
+of R85 360
+000,
+as well as details on which
+departmental
+agencies and accounts would benefit from the 66
+000
+main appropriation.
+H
+ow many non-profit
+organisations
+(NPOs)
+would benefit from the R46 824
+000
+main appropriation, and
+what
+type of machinery and equipment
+was
+covered by the R9
+6
+50
+000
+additional appropriation? On page 4,
+under P
+rogramme 5
+: Corporate Assurance
+, regarding
+the R2.5 million shifted to Vote 14: Local Government,
+had
+there
+been an increase in cases requiring
+forensic investigations
+and the
+D
+epartment's involvement in addressing such cases?
+Were
+records
+of the Department’s involvement in these cases
+maintained? On page
+5, under Programme 5: Centre for E-Innovation, he asked how critical the Centre was. What was its tangible contribution to service delivery and the professionalisation of the public sector?
+On the
+R2.5 million
+shift to Vote 14, Dr Malila explained that a
+lthough
+legal, governance and forensic
+services
+we
+re housed within the
+D
+epartment
+of the Premier
+, a portion of the funds was allocated to the Department of Local Government to strengthen
+its
+forensic capability. The
+D
+epartment also assisted with the appointment of legal and forensic support staff. The
+reallocation represented
+a financial shift to enhance investigative capacity in local governance.
+D
+etails about specific investigations
+would be
+available from the Department of Local Government.
+Dr Malila replied
+that the
+Centre for E-Innovation
+played
+a vital role in ensuring government functionality.
+It was
+responsible for public Wi-Fi, connecting over 4 million users, and managing broadband commitments, including connectivity for schools, hospitals, and government buildings. There
+we
+re approximately 1,900 connected sites across the Western Cape, spanning both metropolitan and rural areas. With the upcoming Broadband 2.0 project, an additional 355 sites
+would
+be connected. The
+Centre
+also
+extended
+services to communities via e-centres and
+provided
+critical support for government staff, schools, and hospitals.
+The Centre’s
+contributions
+we
+re indispensable for building a capable state. Significant budget allocations
+had
+also
+been directed toward the
+P
+rovincial
+T
+raining
+I
+nstitute
+which was
+also
+central to capacity-building initiatives.
+Mr Basson clarified
+that the R60 000 main appropriation covered annual payments for the SABC television licenses across departmental offices.
+The R46.8 million allocation for NPOs primarily
+supported
+two key partnerships. The funding allocation to support Library Business Corners
+wa
+s approximately R31 million. This programme
+underpinned
+around 80 e-
+Centres
+, primarily located in rural areas,
+that offered
+ICT services to local communities. The remaining R14 million
+wa
+s allocated to the Economic Development Partnership (EDP), which the
+D
+epartment assumed responsibility for this year, providing institutional funding to bolster its activities.
+Of t
+he R9.65 million budget for machinery and equipment,
+R
+9 million
+was
+earmarked for upgrading Uninterruptible Power Supplies (UPS
+s
+) to fortify the
+Centre
+for E-Innovation's infrastructure. The
+remaining
+R650 000
+wa
+s
+budgeted for
+refreshing ICT equipment within one of the departmental programmes, such as laptops.
+Mr Herron
+asked what
+role the
+Centre
+for E-Innovation play
+ed
+in the operations of other departments.
+He observed that significant budget shifts were already adding up to around R36m to the Departments of Education, Health and Wellness and Cultural Affairs and Sport for ICT-related costs.
+Regarding
+the
+artificial intelligence (AI) initiatives mentioned in the medium-term budget policy statement,
+he asked whether they were
+funded in the current budget or in the adjustment.
+Dr Malila
+replied
+that
+the Centre
+acted
+as the governance body for ICT initiatives, ensuring compliance with terms and conditions while maintaining an adaptable and capable infrastructure for provincial governance and service delivery.
+T
+he R36 million was for the Microsoft licensing (R2.2 million), software systems for safety projects (R1.1 million), ICT services (R4 million), cloud computing in health and wellness (R21 million), and
+Electronic Content Management
+(R10.4 million).
+He said that AI tools were being integrated into various processes to an extent
+.
+The Department was
+aim
+ing
+to incorporate these innovations into
+its
+core services, particularly in corporate assurance and legal services, with the
+Centre
+for E-Innovation driving these initiatives. This
+effort aligned
+with
+the Department’s
+efficiency goals and the innovative culture
+it
+aim
+ed
+to foster
+in
+government.
+Mr Samaai elaborated on the role of the
+Centre
+for E-Innovation (CI).
+It provided
+comprehensive
+ICT
+services for the province. These include
+ICT
+governance, strategy, and planning; network infrastructure; end-user tools like Microsoft Office; cyber-security; and application systems. While the Centre managed most systems, a few
+we
+re provided by third parties, particularly those with transversal or department-specific functions such as online admissions
+systems
+in
+E
+ducation or health information systems. The
+C
+entre
+had
+been exploring AI tools as part of its provincial strategy and
+had
+initiated
+pilot programmes
+using
+technologies such as
+Microsoft Co-Pilot.
+Its
+efforts include
+d
+collaboration with national departments and other stakeholders to provide insight into AI applications, including in cloud services like Microsoft Azure and Oracle Cloud Infrastructure. Departments such as Health and Education
+have
+also invested in
+digitisation
+initiatives, funding specific enhancements tailored to their needs. Further, the Department of Cultural Affairs and Sport
+oversaw
+the Enterprise Content Management System, known as MyContent, for records and document management across the province.
+The Centre
+provided
+technical support for these
+specialised
+services.
+Dr Malila
+added
+that the integration of AI
+aligned
+with
+the province’s
+focus on future-oriented thinking and evidence-based decision-making, as outlined in the medium-term strategic framework. These initiatives
+we
+re being driven by Strategic Management and the
+Centre
+for
+E-
+Innovation, with governance tools being developed to support their implementation. AI
+wa
+s seen as a vital component in improving government efficiency.
+Follow-up
+discussion
+Regarding page 5, under Programme 4: Centre for E-Innovation,
+Mr Sayed
+asked if the amount of R77m referred to the total cost of Microsoft software licensing or the shortfall in the current year, and who were the licenses for.
+Mr Samaai
+replied
+that
+the p
+rovince
+required
+approximately 28 500
+Microsoft
+licenses. These licenses support
+ed
+tools like email, Microsoft Office (Word, PowerPoint, Excel, Teams), and IT management systems.
+They ensured
+centralised
+and efficient operations for provincial employees. This year approximately R250 million
+had been paid
+for various
+software
+licenses, including some academic ones utilised by the Western Cape Education Department and other institutions such as nursing colleges.
+The shortfall was significant this financial year, but t
+hese licenses
+we
+re essential for facilitating operations across multiple sectors.
+Consideration of
+Committee Report on
+Western Cape Adjustments Appropriation Bill, Vote 1
+Mr T Walters (DA)
+proposed
+support for the
+V
+ote.
+Ms W Kaizer-Philander
+(DA) seconded the proposal.
+Mr Sayed registered
+the ANC’s
+minority view opposing the
+V
+ote, citing concerns about policy alignment,
+centralisation
+of departments, and handling issues related to the Commissioner
+of
+Children.
+The
+Committee R
+eport
+reflecting the Committee’s support for the Vote and the ANC’s minority view
+was adopted.
+Committee Resolutions
+Mr Herron suggested a detailed briefing and
+oversight visit
+to
+the
+Centre
+for
+E
+-Innovation.
+The meeting was adjourned.
+Follow this committee
+Follow this committee and get
+free email alerts
+whenever we get new information about it.
+Audio
+No related
+Documents
+WCG: Adjusted Estimates Presentation
+[B2—2024] WCAAB
+Present
+Van Minnen, Ms BM
+Chairperson
+DA
+Herron, Mr BN
+GOOD
+Kaizer-Philander, Ms W
+DA
+Sayed, Mr MK
+ANC
+Stephens, Ms DR
+PA
+Walters, Mr TC
+DA
+Winde, Mr AR
+DA
+Download as PDF
+You can download this page as a PDF using your browser's print functionality.
+          Click on the "Print" button below and select the "PDF" option under destinations/printers.
+See detailed instructions for your browser
+here
+.
+Print
+Correct this page
+Disclaimer & Copyright
+Share this page:
+×
+What's wrong with this page?
+How we can improve this page?
+If you'd like us to get back to you, please enter your email address.
+Thank you for your feedback, your message has been sent.
+Close
+Send your feedback

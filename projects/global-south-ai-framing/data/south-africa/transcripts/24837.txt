@@ -1,0 +1,173 @@
+Title: Debt relief: Subcommittee report-back; Copyright Amendment Bill: DTI & Parliamentary Legal Advisor response
+Date: 18 Aug 2017
+Committee: 
+URL: https://pmg.org.za/committee-meeting/24837/
+============================================================
+
+Meeting Summary
+The Committee received responses from the Parliamentary Legal Advisor (PLA) and the Department of Trade and Industry (DTI) on the submissions received on the Copyright Amendment Bill, as well as a report back from the sub-committee on debt relief.
+The PLA said that over 70 submissions had been received on the Copyright Amendment Bill, and each had been unique and covered a different Clause in the Bill. The majority of the concerns raised had to do with broadening the definitions of terminologies so that the Bill could be inclusive of every person.
+There were concerns over the impact on indigenous communities and copyright ownership of indigenous knowledge. Clause 10, section 12 needed to be aligned with the Indigenous Knowledge Systems (IKS) Bill, where indigenous works were being accessed in terms of ‘fair use’ and exceptions in general, as additional requirements would be applicable to indigenous works -- such as cultural clearance, research where indigenous knowledge was confidential, and a national register that would apply to ‘orphan’ indigenous works.
+The PLA proposed the creation of a B Bill due to the confusion over the terminologies and the drafting concerns with how the Bill was written, such as the lack of the use of plain language, inconsistent use of terms, consequential amendments not being done, and incoherent paragraphs. The Committee supported the proposal for the creation of a B Bill.
+The DTI said the Minister had recommended that the Department adopt a step by step approach so that they could manage it accordingly. The work had been divided into two phases, and the DTI would be focusing only on the major issues that had come out of the Farlam Commission. It was proposing to leave aside all the other issues so that they could confine themselves to prioritised ones only and deal with the rest in the second phase, so that they could have more consultation and engagements.
+The Farlam Commission had dealt with four areas: collection societies and payments to artists and composers, abuse of vulnerable groups, digitisation, and incorporating international treaties. South Africa was not a member of most of the international treaties governing intellectual property (IP) rights, and the Farlam Commission had recommended that membership to international treaties was important for setting the international standard. On the issue of local content, the DTI said that they worked in consultation with the Department of Communications, but Committee Members said that this fell within the DTI’s purview, and did not require consultation with another government department.
+The Committee was not in support of the DTI’s approach of prioritising only certain issues. The Members wanted the Bill to be pursued in its entirety. The DTI responded that they needed more consultation on other issues and it was best to adopt an approach which would result in a new piece of legislation being formed before a new administration came into office, with progress being lost.
+The Committee raised questions about who had drafted the Bill, since there were many concerns. The DTI responded that they took full ownership of drafting the Bill, since it had been compiled in-house and not by any outside firm.
+Meeting report
+Copyright Amendment Bill: Report by Parliamentary Legal Advisor
+Adv Charmaine van der Merwe, Parliamentary Legal Advisor (PLA), said she had received many submissions with regard to the Copyright Amendment Bill, and every one had been unique and not repetitive as was usually the custom with submissions.
+The DTI was trying to turn the whole area of copyright around because change was required regarding certain policies. There was confusion regarding certain terminologies used in the bill, such as “author/owner,” actions in respect of works as opposed to actions in respect of the copyright in works, copyright work versus copyrighted work, and audiovisual versus cinematographic film. There were also drafting concerns with how the Bill was written, such as the lack of use of plain language, inconsistent use of terms, consequential amendments not being done, and incoherent paragraphs. She proposed that a team of drafters consisting of herself, Adv J Strydom, Department of Trade and Industry (DTI) legal adviser, Mr G Hoon, State Law Advisor (SLA), and Ms M Padayachy, Deputy Director: Intellectual Property Law and Policy, DTI, should prepare a B Bill addressing those technical drafting matters.
+The definition of ‘audiovisual fixation’ needed to be looked at separately from ‘cinematographic film’.  There was a need to bring the definition contained in the Performers’ Protection Amendment Bill into the definition for audiovisual fixation so that the two bills could be passed separately. No other amendments were required to pass the Copyright A Bill before the Performers’ Protection Amendment Bill.
+Definitions needed to be amended under Clause one, Section one. A proposal was that neutral laws were needed which included disabled persons, such as art, sound and technology, even if there was no technology available to accommodate such disabled persons.
+Section five of Clause three needed to be amended in terms of copyright in relation to the state and certain international organizations, so that there was no conflict of laws.
+Clause four to seven dealing with the practical implications of equal portions of royalty raised a concern that there could be abuse, and the DTI needed to cognizant of that fact. Copyright owners would have the right to claim an equal portion of the royalty payable for the use of such copyright work.
+There was an insertion of sub-section (ss) 9B to 9F, dealing with the resale of a royalty right. There were concerns about the practical implementation of the clause, since it was very broad and therefore difficult to implement. There was a recommendation to put a limitation in order to ensure certainty in law. The author of an artistic work in which copyright rested would enjoy an inalienable right to receive royalties, meaning that someone could not sell that right.
+There was a concern with Clause nine, Section 9F dealing with the transmission of a resale royalty. The Department of Science and technology (DST) had raised a concern in respect of indigenous communities because they would now be required to provide for individual artists dying intestate, or with invalid wills.
+Under Clause 11, there was an insertion of sub-sections 12A and 12B. The Committee was asked to consider including quasi-judicial proceedings under general exceptions from copyright protection when preparing a report of judicial proceedings.
+There was an insertion of sub-sections 13A and 13B under Clause 12. Sub-section 13A stated that there was no exception made for permanent copies that were still incidental, such as internet searches that relied on permanent copies. Machine learning and artificial intelligence relied on large numbers of incidental copying. Sub-section 13B included the reproduction for educational and academic activities, since students and authors needed to reference every piece of work they produced. Sub-section 13B(4)(a) and section 19C(14) and 39B(2) were the only sections in the Bill and principal Act where the phrase “public license” or “public and open license” were used and needed to be defined.
+In Clause 17, Section 19B, regarding general exceptions to protection of computer programs, alternative wording needed to be proposed to broaden the section so that interoperable hardware (software) and repairing products that were subject to copyright software could also be included.
+Clause 19, Section 20 dealing with moral rights needed to be amended so that any infringement of the provisions of that section could be treated as an infringement of copyright under Chapter two.
+There was an amendment to section 21 of Clause 20 dealing with ownership of copyright, so as to include commissioned work as well. There was also an amending of section 22 with regard to the assignment and licences in respect of copyright. Schedule two provided that the assignment of copyright would be valid for a period of 25 years from the date of agreement of such an assignment. A question arose whether 25 years was the right period to wait before copyright could be sold.
+There was an insertion of section 22A dealing with the assignment and licences in respect of orphan works under clause 22. The concern was that the process required to obtain a licence was quite involved, expensive and steeped in red tape. A number of submitters had proposed that it rather be included as a “fair use” exception, because the by time authorisation was obtained, the work would have passed by.
+There had been an insertion of Chapter 1A (collecting societies: 22B, registration). The Commission would register only one collecting society for each right or related right granted under copyright. The DST had recommended that registration requirements should be made strict and difficult for collecting societies to register, but that more than one collecting society should be allowed. This would solve the challenge posed by joint collective societies straddling more than one category. Where there was no collecting society for a right or related right granted under copyright, the user, performer, owner, producer, or author could enter into contractual arrangements as may be prescribed. No provisions were made for collecting societies that did not apply to register, or those that were denied registration by the Companies and Intellectual Property Commission (CIPC).
+Clause 25, section 27 regarding penalties and proceedings in respect of dealings which infringed copyright, needed to be amended. There was a recommendation to consider criminalising copyright violations.
+There was an insertion of sub-section 28O to 28S. Sub-section 28O prohibited conduct in respect of technological protection measures. The University of Cape Town had proposed wording to include repairing products that were subject to copyrighted software.
+There was an insertion of 29B under Clause 30 dealing with the appointment of members of the Tribunal. A concern was that at least 11 members with varied experience needed to be appointed. Section 29G (1) (a) allowed for matters to be referred to one member for consideration, and this could result in the law being applied inconsistently. A recommendation was that where a matter was allocated to one member of the Tribunal, such a member needed to have the legal qualification and experience in dealing with such an issue.
+The wording needed to be looked at under Clause 30, section 29N. No basis was given for the tribunal to exercise authority under the Companies Act. It was a different body and needed to have its own functions. The wording under section 29O could cause interpretation challenges, and therefore needed to be redrafted. The rights guaranteed in section 35 of the Constitution applied only to arrested and accused persons. Wording needed to be looked at so as to ensure the clause was not infringing on the right not to incriminate oneself.
+Clause 32 needed amending regarding the section 39 regulations, which referred to consultation with the Minister responsible for Communication, prescribing the local music content for television and radio broadcasting. The requirement for “consultation” was already an indication that this was not the correct placing of the matter. There was supposed to be agreement between the DTI and the Department of Communications. Sufficient provision was provided under Chapter three of the Constitution for cooperation between departments, and therefore the DTI needed to be consulted when the Minister of Communications considered local content issues.
+There was an insertion of section 39B under Clause 33 dealing with unenforceable contractual terms. Contractual freedom needed to be balanced with the protection of rights, as envisaged in the clause. An alternative would be to identify the category of artist or author that was protected by sub-section one, and limit the application to that grouping.
+Additional amendments had been added to the incidental/panorama right, copyright levy, technology-neutral enforcement legislation that would enable intermediaries to take action against online infringement, and perpetual copyright on unpublished works so that all works could fall within the copyright period of the author’s life, plus 50 years after he had passed on so that proper acknowledgment could be given to the original source.
+The DST had submitted that whenever an indigenous community was mentioned, reference needed to be made to their representative in accordance with the Intellectual Property Laws Amendment Act (IPLAA). In respect of Clauses four to seven, copyright owners had the right to claim an equal portion of the royalty payable for the use of such copyright work. Clause eight, section 9B, needed to be clear in respect of indigenous communities, so that the author could benefit from that right. Clause eight, section 9D was problematic in respect of indigenous communities. Clause 10, section 12, needed to be aligned with the Indigenous Knowledge Systems (IKS) Bill, where indigenous works were being accessed in terms of fair use and exceptions in general as additional requirements would be applicable to indigenous works such as cultural clearance, research where indigenous knowledge was confidential, and a national register that applied to orphan indigenous works.
+There were concerns whether the Tribunal replaced the institutions envisaged in section 8B inserted by the IPLAA. The IKS Bill created an arbitration committee which could be more favorable to indigenous communities. The IPLAA and Copyright Acts needed to be aligned so that they could work hand in hand. The DST proposed that drafting considerations should be taken into account, and the sub-committees meet with the DST once a B Bill was ready, to ensure that no conflict would exist in respect of laws related to indigenous works and indigenous knowledge in general.
+Given the significant policy shift proposed in the Copyright Bill, it was recommended that the Committee consider, as each Clause was deliberated on, whether any transitional provisions were necessary in order to ensure a smooth transition. The DTI needed to assist the Committee to understand the impact of the changes in respect to each Clause.
+Discussion
+Mr A Williams (ANC) asked who “We” was being referred to in the Clauses.
+Ms P Mantashe (ANC) asked Adv Van der Merwe to clarify Clause 3, which referred to indigenous people.
+Mr D Macpherson (DA) said that he would like to support the idea of proposing a B bill, but had issues with how the proposed bill had been drafted
+The Chairperson interjected while Mr Macpherson was speaking and said that he should rather ask his question later, since this first round of questioning was purely for clarification.
+The Chairperson asked what was meant by “public” and “open” licences.
+Mr Williams asked why the “fair use” clause had not been mentioned in the presentation.
+PLA’s Response
+Adv van der Merwe said that she was not saying that all the submissions should be used, but rather that they should be considered.
+She said Clause 4 dealt with the equal proportions of royalties, and indigenous works operated differently from how other normal works operated. Indigenous works did not transfer their copyrights because the works remained within the community, whereas with normal works, once rights had been sold, royalties were paid and that would conclude the contract.
+She was not quite sure herself what differentiated “open” and “public” licences. It was perhaps a question that the DTI could answer better.
+Department of Trade and Industry: Presentation
+Mr Lionel October, Director General (DG), DTI, said that the Department appreciated all the submissions. The issue of Intellectual Property (IP) rights was crucial in the current global trade environment.
+In 2013, the DTI had released an intellectual property policy. The Minister had recommended that the DTI adopt a step by step approach so that they could manage it accordingly. The work had been divided into two phases, and the DTI would be focusing only on the major issues that had come out of the Farlam Commission.
+The Farlam Commission had dealt with four areas; collection society and payments to artists and composers, abuse of vulnerable groups, digitisation, and incorporating international treaties. The treaties were the World Intellectual Property Organisation (WIPO) Copyright Treaty (WCT), the WIPO  Performances and Phonograms Treaty (WPPT), the Marrakesh Treaty, the Rome Convention for the Protection of Performers, Producers of Phonograms and Broadcasting Organisations Treaty, the Trade-Related Aspects of Intellectual Property Rights (TRIPS), the Beijing Treaty for Audio Visual Performances (BTAP), and the Berne Convention.
+The DTI felt that if they could make changes in these areas, then they could impact on vulnerable areas. They could add to the area of education and academic institutions of teaching. The DTI wanted to persuade the Committee and the nation at large that the American system was the best. They were innovative and used a different system to the British system which South Africa had adopted. Adopting an American system would take some time, and there needed to be a debate on that issue.
+There was a need to create a new category under fair dealings for the generation of knowledge of education. Areas where there was substantial consensus needed to be prioritized, such as the issue of disabled persons, and copyright matters.
+The DTI was proposing to leave all the other issues, so that they could confine themselves to prioritised issues only and deal with the rest in the second phase in order to allow for more consultation and engagements.
+With regard to the Tribunal, Mr October said that the DTI had from time to time created several tribunals, but the current position was that they were no longer getting additional funds for tribunals, and this needed to be funded from existing budgets. The proposal was therefore to leave out tribunals and rather give more power to the Companies and Intellectual Property Commission (CIPC). Under the current Act, the CIPC was given the same powers as the Registrar of Patents. Their powers needed to be enhanced to regulate and register the collecting societies.
+The creation of a Tribunal would occur in phase two. Phase one would be focusing only on the recommendations of the Farlam Commission. The DTI wanted to adopt an approach that ensured that they emerged with a new piece of legislation, whether the Committee called it a B Bill or new legislation.
+The DTI would be adding to their team. Adv J Strydom would be among the drafters, and he had vast experience in drafting the majority of the DTI’s Bills.
+Mr MacDonald Netshitenzhe, Acting DDG: Consumer and Corporate Regulation Division, DTI, said that Related Rights were performers’ protection. The 2013 draft IP policy was broad, and therefore the DTI had opted to tackle the process in phases.
+A task team of Deputy Directors General (DDGs) the Department of Arts and Culture, the DTI, and Communications had been set up to ensure the implementation of the recommendations of the Farlam Commission. The task team report of 2015 had been provided to the Portfolio Committee. A Presidential task team of Deputy Ministers of the creative industries had also been established and chaired by Deputy Minister Buti Manamela. The task team had worked with all the government departments and had endorsed the Farlam Commission report/recommendations and the amendment to the Copyright and Related Rights legislation.
+The Copyright Amendment Bill focused on the definition of certain words and expressions, allowance for the production of copyright work, and provision for
+the production of copyright work in artistic work;
+the accreditation and registration of collecting societies;
+allowance for the fair use of copyright work;
+access to copyright works by persons with disabilities;
+the protection of authorship of orphan works by the state;
+the establishment of an Intellectual Property Tribunal, the appointment of its members and its powers and functions;
+prohibited conduct in respect of technological protection measures and copyright management information;
+the management of digital rights;
+certain new offences.
+The Amendment Bill incorporated the the WIPO Copyright Treaty, WIPO Performances and Phonograms Treaty (WPPT), Marrakech Treaty, and the Rome Convention.
+Ms Meshendri Padayachy, Deputy Director: Intellectual Property Law and Policy, DTI said that the Copyright Amendment Bill made a recommendation that South Africa should amend its copyright laws.  It currently was not an updated version, and did not take into consideration a lot of technological improvements. It also proposed that the amendment should adopt the WIPO Copyright Treaty (WCT) and WIPO Performances and Phonograms
+Treaty
+(WPPT) rights to communicate and make available sound copies to the public. The second recommendation was that the copyright law should be amended to allow the registrar to take over the registration and regulation of collecting societies. It was important to note that the ‘needle time’ period had never been paid to any musician/artist in South Africa and therefore raised the point of bringing about a more robust and effective copyright collection management system. The third recommendation was that the registration should be amended to allow one collecting authority per set of copyright rights.
+All collecting societies needed to be regulated in terms of the new copyright legislation, and they needed to collect for all their registered members. The DTI was not going to set the terms of contracts, but was going to set the minimum threshold for payments so that a bar could be set and collecting societies were not allowed to pay below the bar. Artists could choose not be a member of a collecting society, but they would be regulated via a contract, since they needed to fall under the protection of a collecting society.
+The Copyright Act needed to be amended to allow rights holders as well as users to engage the Copyright Tribunal in disputes about the appropriate tariffs to be applied. There was a recommendation that the DTI should amend the ‘needle time’ royalty. The Farlam Commission had recommended that the recording company and the performer should share a 50/50 split of ‘needle time’ royalties. Other countries used a 60/40 split.
+Mr October said that because of the limited time of the current administration, the DTI would be focusing on the pressing core issues, making the amendments and dealing with them. The ‘fair use’ system was the best system that worked, but because there were concerns, the DTI felt that the American approach was the best model to pursue. Definitions of local music contained in the Electronic Communications Transaction Act needed to be enlarged and definitions strengthened.
+Mr Netshitenzhe said that international treaties did not become a norm on their own. South Africa needed to be members of international treaties, and these were binding commitments that a country had to adopt. South Africa was not a member of the WPPT, the Rome Convention, BTAP, WCT, Marrakesh, or the Berne Convention. The Farlam Commission, however, had recommended that South Africa needed to register for membership of the international treaties.
+Stakeholders had raised concerns about accession to international treaties, copyright in relation to the state and certain international organisations, user rights, Clauses seven, eight and nine of the Bill, commissioned works, assignment of copyrights to royalties, general exceptions from copyright protection dealing with fair use/fair dealing, the socio-economic impact assessment, and consultation with stakeholders.
+It had been suggested that the Copyright Amendment Bill would affect Foreign Direct Investment (FDI). The DTI had responded that intellectual property was not the only determinant of FDI. Other factors influenced the inflow of FDI, such as local advantage, market size, transportation costs, distance, and local demand and labour costs. Therefore the argument that limitations on exceptions would result in lower FDI did not hold.
+The impact of the copyright-based industries could be strengthened and their contribution increased by updated legislation, the structure of the economy, and incentives provided by the development and growth of the industry. The Committee needed to take note that the Bill was a coordinated approach by government, and not a bill intended to repeal any law relating to copyright and related rights.
+WIPO recommended that Statistics South Africa and the Reserve Bank should separate the statistics related to the copyright-based industries, and publish them regularly.
+Mr Netshitenzhe said that the DTI had been well directed by the Minister, and the Farlam Commission.
+Discussion
+Mr Williams said he was concerned that Mr October was telling the Committee that they should focus on only a few issues. He also asked why Mr October had not appeared before the Committee more often as he had been requested to do. He rejected Mr October’s recommendation to focus on core issues, and said that the Bill should rather be pursued in its entirety. The Committee needed to consider proposing a B Bill.
+Mr Macpherson said that when the Bill was first tabled, it had received a lot of criticism and publicity and it was therefore outrageous that Mr October was telling the Committee that the DTI would be focusing on only some issues. He asked who had created the Bill. Who had been involved in assisting the DTI to draft the Bill, and why was there now a shift in the concentration of issues? The Bill gave the DTI the power to be in control of local content, and not to be in consultation with any other government department as they were currently doing. He agreed with Mr Williams’s proposal to look at adopting a B Bill.
+Ms C Theko (ANC) said that she was not in support of the recommendations of the DTI, but the Bill was now in front of Parliament, and the Committee needed to look at all the responses to the Bill that had been submitted. She agreed with other Committee members that the Bill needed to be pursued in its entirety, and not just focus on some issues.
+Ms P Mantashe (ANC) said she was concerned about the indigenous people. The DTI should not be worrying about American examples, but should rather focus on South Africa and how the Bill would be affecting South Africans. She was also in support of proposing a B Bill.
+The Chairperson said that the Committee had been receiving a lot of presentations during the public hearings, and there were conflicting viewpoints coming out. The Bill needed to be in alignment with the Act.
+DTI’s response
+Mr October said that where there were areas of disagreement, he proposed that they refrain from the Farlam Commission’s recommendations. He respected and understood the Committee’s frustrations, but asked for their understanding because the DTI needed to produce a piece of legislation by the end of their term in office. The DTI had asked Adv Johan Strydom to join the task team that was responsible for drafting the Bill. He was the most skilled drafter in the Department, and the DTI would ensure they had skilled experts on the team. He apologised for whatever delays they had encountered, as well as for not been more frequently at Portfolio Committee meetings, and said that he would make himself more available going forward.
+Mr Netshitenzhe said that the drafters of the Bill had all been in-sourced within the DTI, with no external assistance.
+The Chairperson asked if Adv Van der Merwe had any responses to the discussion.
+Adv Van der Merwe said that Committee Members were in support of her proposal for a B bill, and therefore there were no additions she could make to critique her own suggestion.
+Mr Macpherson said that his questions with regard to who was on the team that had drafted the bill, and what had informed the big change in the turnout process, had not been answered
+The Chairperson said that DTI was claiming that they took collective responsibility and ownership for the drafting of the bill.
+Mr October said that the DTI was a transparent organisation. In the past, a firm or attorney would be used in the first drafting of any legislation. For this particular Bill, the DTI had drafted it internally. They sometimes used a hybrid system of using attorneys, as well as their own advisors and state attorneys.
+Mr B Radebe (ANC) said that the issue of intellectual property was important, so that artists were protected. There was no bill that could achieve everything, but the Committee could resolve issues as they occurred.
+The Chairperson said that the rules of Parliament established that a Portfolio Committee was in its right to establish a sub-committee, and proposed the creation of a sub-committee on the Copyright bill. The sub-committee would consist of Ms C Theko (ANC) as Chairperson, Ms J Fubbs (ANC), Ms S van Schalkwyk (ANC), Mr D Macpherson (DA), Ms N Louw (EFF) and Mr J Esterhuizen (IFP).
+Mr Macpherson proposed that the Committee adopt a B Bill in relation to the Copyright Amendment Bill.
+Ms Theko seconded the adoption, and the rest of the Committee was also in agreement.
+Debt Relief: Report back
+Mr Williams gave a report from the sub-committee on debt relief that met on 16 August 2017. There had been consideration of the input with regard to the terms of reference of National Treasury’s understanding of indebted consumers in South Africa.
+Mr Macpherson had made a recommendation to the sub-committee that there was a need:
+to consider steps that would lead to immediate debt relief for the African Bank;
+for the DTI to consider an amendment to the National Credit Act that would increase the powers of the National Credit Regulator;
+to consider looking at income groups that earned up to R30 000 to also be considered as part of the group that needed debt relief;
+to understand the financial profile of consumers that used unsecured credit, and debt counselling as a form of debt relief; and
+to understand credit life insurance and its impact on indebtedness.
+The sub-committee had resolved to accept Mr Macpherson’s submission, as long as the research did not slow down the process of the Bill. The sub-committee had also resolved that National Treasury should adopt a phased approach to include all the proposals from Mr Macpherson, especially the submissions that dealt with immediate debt relief for the African Bank, and including people who earned up to R30 000 to be considered for debt relief processes. The other outstanding proposals were to be included in the second phase of the research project. The term of reference to be adopted was the research with regard to over-indebted consumers in South Africa, taking into account Mr Macpherson’s submission on that point.
+The Chairperson thanked Mr Williams for his report, and asked if any members of the sub-committee wished to add any points that may have been overlooked.
+Mr Macpherson said that looking at the process regarding the terms of reference, would the Committee be opening up the terms of reference for the public to view and comment on them? Would it be necessary to make that process available to the stakeholders that the Committee had met with, with regards to proposed debt relief solutions?
+The Chairperson said that the terms of reference would be up to the different political parties as they put them forward. The public would have an opportunity once the Bill was out, after the 30-day period. She asked if the if the 30-day period would be enough, or if they could make it a six-week period.
+Mr Macpherson said that this would be a process that would take seven days at the very least.
+The Chairperson said the terms of reference were a Parliamentary process, and once a drafted Bill was ready, they would open it up to the public for comment.
+The Chairperson asked Members to adopt the sub-committee on debt relief’s proposal.
+Mr Radebe proposed the adoption, and Ms Mantashe seconded.
+The meeting was adjourned.
+Follow this committee
+Follow this committee and get
+free email alerts
+whenever we get new information about it.
+Write to this committee
+Audio
+Debt relief: Subcommittee report-back; Copyright Amendment Bill: DTI & Parliamentary Legal Advisor response
+Documents
+Parliamentary Legal Advisor response presentation
+Summary of Submissions for the Copyright Amendment Bill [B13-2017]
+Department of Trade and Industry (DTI) response presentation
+Bills
+B13-2017 - Copyright Amendment Bill
+X-2017 - National Credit Amendment Bill ("Debt Relief Bill")
+B30-2018 - National Credit Amendment Bill
+Present
+Fubbs, Ms JL
+Chairperson
+ANC
+Cachalia, Mr G K
+DA
+Macpherson, Mr DW
+DA
+Mantashe, Ms PT
+ANC
+Radebe, Mr BA
+ANC
+Theko, Ms L C
+ANC
+Van Schalkwyk, Ms SR
+ANC
+Williams, Mr AJ
+ANC
+Download as PDF
+You can download this page as a PDF using your browser's print functionality.
+          Click on the "Print" button below and select the "PDF" option under destinations/printers.
+See detailed instructions for your browser
+here
+.
+Print
+Correct this page
+Disclaimer & Copyright
+Share this page:
+×
+What's wrong with this page?
+How we can improve this page?
+If you'd like us to get back to you, please enter your email address.
+Thank you for your feedback, your message has been sent.
+Close
+Send your feedback

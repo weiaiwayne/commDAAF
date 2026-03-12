@@ -1,0 +1,116 @@
+Title: Copyright Amendment Bill & Performers’ Protection Amendment Bill: DTIC & NCOP delegate briefing
+Date: 02 Nov 2022
+Committee: 
+URL: https://pmg.org.za/committee-meeting/35925/
+============================================================
+
+Meeting Summary
+Video
+The Committee met virtually for a briefing by the Western Cape Permanent Delegate to the National Council of Provinces (NCOP) and the Department of Trade, Industry and Competition (DTIC) on the Performers’ Protection Amendment Bill [B 24D - 2016] and the Copyright Amendment Bill [B 13D 2017]. The bills had been introduced in 2018 as Section 75 bills, but had since been retagged as Section 76 bills, as they affected the provinces.
+Members raised questions on the Copyright Bill and the powers the amendment would offer to the provinces. They sought more information on the technological protection measures -- the specific technologies they contained and how this would reduce infringements. The need for audiobooks and artificial intelligence (AI) literary works to be covered by the legislation was highlighted. The Committee heard that the legislation was being updated to change certain terms to reflect audio and visual works.
+Members expressed concern about whether the Performers' Protection Bill protected TikTokers, Bloggers, YouTubers and other online content creators, and whether it needed to be amended to include this. There was also some concern over whether the bills complied with the International Treaties to which South Africa was a signatory. The Committee resolved that the NCOP should provide it with a timeline for the Bills, as an extension had been requested.
+The Committee agreed that advertising on the public hearings for the Bills would take place in January 2023 and would be through community radio stations, community newspapers and social media. Members would work through their constituency offices, and provincial government departments would be engaged, to create awareness of the public hearings. The Committee agreed that any innovation on how public participation was done would be taken up with Legal Services, and an opinion would be sent to the Committee within two weeks.
+The Chairperson informed the Committee that a legal opinion had been received on the Western Cape Gambling and Racing Board interviews, on what it meant to be in good financial standing, which essentially meant that candidates could not be insolvent. None of the shortlisted candidates was insolvent. Members agreed that the interviews would proceed on 11 November.
+Meeting report
+Performers’ Protection Amendment
+Bill
+[B24D-2016] and Copyright Amendment
+Bill
+[B13D-2017]
+Mr J Londt (DA), Western Cape permanent delegate to the National Council of Provinces (NCOP), made brief introductory remarks. In terms of the rules, permanent delegates were required to brief the provincial legislature or the parliamentary committees on bills which affect the provinces. The bills were introduced in 2018 and 2019, and were tagged as Section 75 bills, but in 2020 the bills were returned to Parliament by the President as he had some reservations about them. The remitted bills then went through the process with the National Assembly (NA) and were finally passed by the NA plenary session earlier this year.
+One of the President's reservations was related to the tagging of the bills. He was of the view that the bills should have been tagged as Section 76 bills for provinces to participate and then be passed. The bills should be dealt with in their entirety. A virtual workshop on the bills had taken place, and copyright laws in relation to universities were discussed. Links and copies of the workshop recordings were available, and Members were encouraged to review them.
+Mr R Mackenzie (DA) asked what the timeline was for bills received from the NCOP.
+The Chairperson asked if the presentation could be done first, as it included timelines.
+Mr Mackenzie said this was fine, but Mr Londt may have been able to contribute more.
+Mr Londt said he had raised a valid point. There was a fixed timeline in which all Section 76 bills should be dealt with, but there were concerns that there would be a bottleneck towards the end of this term. The DA provincial Whip for the Western Cape, Ms C Labuschagne, had constantly raised this.
+Ms Meshendri Padayachy, Deputy Director: Intellectual Property Law and Policy, Department of Trade, Industry and Competition (DTIC), made the presentation to the Committee.
+(See attached document for details)
+Discussion
+The Chairperson referred to the Copyright Bill, and asked what powers the amendment offered to provinces, noting that it had been retagged. A few provisions were specifically allocated to the national Minister, but what could be done provincially? What did technological protection measures entail specifically, and how exactly would they reduce infringement? What technologies did it contain? To what extent did Section 19 (d), Clause 22, cover audio books or artificial intelligence (AI) literary works? Why was an edit made on "cinematic works" to rephrase it to "audio and visual works"?
+Ms Padayachy said to her knowledge, there had been no amendment, as there were no provincial bodies for the copyright currently existing. There were also no unions or bargaining councils. She would allow the rest of the team to respond to this.
+On the technological protection measures (TPMs), the World Intellectual Property Organisation (WIPO) Copyright Treaty (WCT) and the WIPO Performances and Phonograms Treaty (WPPT) were known together as the internet treaties, which state that there must be copyright laws for authors in the digital space. This was because the internet and the digital space were so vast. The TPMs aimed to reduce infringement of copyright, and control the way in which the work was used or accessed. If one went on to Google, it allowed one to read the first few pages of a book before purchasing it. This was a technological protection measure, as one could not access the entire book. This type of thing also protects a letter that come to someone, such a salary advice, and it would then have a digital lock.
+Infringement was more than a national problem, considering that the Act was very old and did not have these types of actions for the digital environment. The legislation was forward-looking in adding these measures to reduce incidents of infringement. It did not take into account format shifting. With TPMs, there was a view that it could overly restrict the exceptions, and authors would then be able to lock up a lot of work. The balancing then came into play. This had been introduced into law for the first time to see how it would curb the space of infringement and piracy, but this was a bigger dialogue.
+Artificial intelligence and audiobooks could be useful for disabled persons, and the crux of Section 19 (d) was that if one had a disability, a copyrighted work needed to be provided in an accessible format and in a way that someone could consume it. Whether this was going from a book to Braille, or an AI reading the book to someone, it would only apply to those with a disability. There was technology which made print larger or read out an email, and all of this would be encapsulated in Section 19(d). One could not really limit the form of the accessible format, as the Bill goes wider than the treaty and covers a variety of disabilities, such as dyslexia. This shows the complexity of how the technology would have to change.
+The wording was changed, because the legislation was very old and did not include actors or performers. Audio visual was the language used in the treaties and it was also updated, as this was something that could also be seen on stage. The types of work covered under this wording were wider than just a film, because ballet performances, theatrical works and different types of work appealed to those two senses, and it was more sensory. Before, films were just black and white, and one had the visual but not the audio, so it was just about moving with the Beijing Treaty. People also did not know what the terminology "phonogram" was, as it was just easier to say "sound recording," so this was updating the terminology.
+Legislation worked with definitions, and YouTubers and bloggers were not defined in terms of the definition of performers in terms of the Performers Amendment Bill and the Copyright Bill. These were seen more as users. YouTube was seen more as a platform for users and not creators, though it could be argued that YouTubers, bloggers and Tiktokers were creating content, but they were also working off and adapting current content that did exist. Bloggers would be somewhat protected in terms of computer programmes and websites, and copyright would subsist in their actual website and channels, but the legislation did not cover this category.
+Dr Evelyn Masotja, Deputy Director General (DDG): Consumer and Corporate Regulation Branch, DTIC, said she agreed with Ms Padayachy on the provinces, as the Copyright Amendment Bill and the Performers Protection Amendment Bill protected rights and provided for rights in various provisions. This was why provinces were affected in one way or the other. Given that this process was now open and the bills had been retagged as Section 76 bills, during the public participation process, they would be able to hear from the public, the committees and the provinces on how they perceived their role from a trade and cultural perspective, and provide guidance. The focus had been on the rights and the profession of intellectual property, looking at copyright and the related right of performers' protection, without looking at provincial structures. Ms Padayachy had mentioned unions and  institution’s related to the provinces. The Bill made provisions for the digital environment, but specific provisions relating to internet-type provisions were not currently included in the bills. It had been taken into consideration to upgrade the terminology of the bills in terms of the international treaty perspective.
+Mr Mackenzie said the Department should relook at how it did the presentation, because it was content-heavy, and there would be public hearings on this.
+Dr Masotja said a debate had been held with the team on packaging the bills, such as bringing in the content, the clauses, and the background. With this came content heaviness, but perhaps they should look at issues of language and accessibility and simplify the presentation. The Bill must address different categories of people, such as experts and international stakeholders, industries, the public and communities. This was a complex balance to reach without losing the gist of the issues.
+The Chairperson thanked the Department for the presentation and Mr Londt for acting as an excellent liaison.
+She excused the Department from the meeting.
+The Committee proceeded with its internal business.
+Resolutions/way forward on the Bill
+The Chairperson said the NCOP must advise the legislature on the programme for the Bills. It was previously indicated that it would take a six-week legislative cycle and an extension had been requested. Would Members support an extension?
+Mr Mackenzie asked for clarity on the extension.
+The Chairperson asked the Presiding Officer to share the details with the Committee.
+It was proposed that advertising take place in January 2023, which would be through community newspapers and social media. The Western Cape Provincial Parliament (WCPP) also had a paid social media policy which could be used to target specific areas and stakeholders. What were the preferences on advertising media, or media houses that should be engaged?
+Mr Mackenzie said the Chairperson should make her proposal, and the Committee would add to this.
+The Chairperson proposed that print media be used, but only those which received the most coverage. These would be Die Son, The Daily Voice and Die Burger. The radio platforms would be Eye Witness News (EWN) and Fine Music Radio (FMR). Perhaps TV and online platforms such as My Cape Town, would be helpful. News24 and Business Live could also be considered.
+Ms N Nkondlo (ANC) said community radio stations and newspapers should be used, particularly for local artists. A digital poster could be created which Members could share themselves through their parliamentary constituency offices (PCOs) and constituents they interact with. Through the Department of Local Government, its local economic development (LED) offices, and the Department of Arts and Culture, they could also create awareness by sharing this information with them, given that they interact with entrepreneurs. This was particularly important with non-metro constituencies, as some platforms were more linked to urban-biased constituencies. They needed to get to rural regions such as Beaufort West and the Central Karoo regions.
+Mr Mackenzie made notes in the comments section, such as using Zibolele or Umhlobe Wenene to reach out to people.
+The Chairperson said Members could put together a list of advertisements and send any other suggestions to the Presiding Officer.
+The advertisement would state that interested persons must submit comments via email and WhatsApp, which could include voice notes. Oral submissions could be made, and stakeholders would be invited to do so in person or virtually. The reason for this approach to public hearings was to work off a demand basis and streamline the process.
+Mr Mackenzie asked what was meant by demand.
+The Chairperson said the advertisement would be put out, and people would have the option to make suggestions via texts or decide that they wanted an in-person meeting.
+Mr Mackenzie said public hearings did not work this way. The Committee should agree on which areas it would go to, as hundreds of thousands of rands would be wasted on advertising just to ascertain who wanted to come to hearings and who did not. The Committee must decide which region it wants to go to and then advertise in those regions with a date for the hearings.
+The Presiding Officer said in the past, the route followed for public hearings was to ask the public if they would like to make oral submissions. Then the Committee would base its number of public hearings and their location on this information. Sometimes they would go to places and only one or two people would come. This approach was to figure out where the demand was.
+Mr Mackenzie said it was his first time hearing about this new approach.
+The Presiding Officer said it was to give people the option for written or oral submissions.
+Ms Lizette Cloete, Senior Procedural Officer, said this was correct and how public participation was dealt with. She said the Committee should bear in mind that working with a Section 76 bill had deadlines imposed by the NCOP, and public participation had to be ensured. There were different ways of ensuring public participation. Cost-saving measures which might restrict public participation were not desired, but they were looking at it from a different angle, with different ways of doing it. In the interim, the Committee could place adverts and then make arrangements.
+A public hearing could be held in Cape Town. Public hearings did not mean they needed to go out on buses and planes in hordes. For example, they could get people from George to attend a public hearing in Cape Town, and pay for those people to come to Cape Town and address them. They should compare what was cheaper in terms of costs. Given the economic climate, they should consider other ways of ensuring public participation that are not costly.
+Mr Mackenzie said he just wanted to know the process going forward. There was already a Constitutional Court judgment on what public participation was. He did not understand how public hearings could be held only where people were interested. He would send an email for further guidance. This was bizarre.
+The Chairperson said once she received Mr Mackenzie’s email, she would forward it to Legal Services for legal advice.
+Ms Nkondlo said she agreed with Mr Mackenzie. Any innovation on how public participation was done must be taken up with Legal Services. Effective public participation and its scope were broad. The platforms where it was advertised may not reach everyone. Broadband connectivity in urban settings could reach many, but venturing out, it may not reach many people. They needed to ensure that they were legally protected in their methods.
+The Chairperson said a legal opinion would be sought on the proper process of public participation.
+Mr Mackenzie said a legal opinion was unnecessary, but he wanted to know where this was applied for consistency.
+The Chairperson said she thought a legal opinion was necessary, and two weeks would be given for this. Thereafter the Committee could chart its media strategy and whether it must have a set number of hearings, or if this should be decided on a needs basis.
+Mr Mackenzie said this had already been done, and it must be ascertained how and where.
+The Chairperson said the legal team would be best suited to provide this information.
+Ms Cloete said this did not need to go to the Chairperson’s Forum. When public participation was decided on, it was an internal process discussed and decided on by the Committee. Every Committee could choose their own way of doing things.
+Public hearings could be held between February and March 2023.
+The Chairperson asked if Members had any further resolutions or actions.
+Ms Nkondlo said the DTIC should share both regulatory impact assessment studies they had done with the Committee, including the socio-economic impact assessment of the Department of Performance Monitoring and Evaluation (DPME). The platforms of performers and industries that were engaged in this process must also be submitted to the Committee.
+The Chairperson wanted to understand more about the President’s comment that the Bill may be in conflict with any obligations in international treaties that South Africa was a signatory to. The Committee could then unpack this.
+The Members supported this.
+Gambling and Racing Board interviews
+The Chairperson wanted to resume the discussion on the WC Gambling and Racing Board interviews.
+A legal opinion had been received and focused on what it meant to be in good financial standing. This meant that a candidate could not be insolvent. None of the candidates was insolvent. She wanted to know if Members were happy to proceed with the interviews on 11 November.
+The Chairperson thanked all present in the meeting and acknowledged that such engagements could be hair-raising at times, but said robust debates were needed as the Committee had a job to do.
+The meeting was adjourned.
+Follow this committee
+Follow this committee and get
+free email alerts
+whenever we get new information about it.
+Audio
+No related
+Documents
+DTIC Briefing Presentation
+[B24D—2016] Performers’ Protection Amendment Bill
+[B13D—2017] Copyright Amendment Bill
+Present
+Murray, Ms C
+Chairperson
+DA
+Mackenzie, Mr R
+DA
+Nkondlo, Ms ND
+ANC
+Van der Westhuizen, Mr AP
+DA
+Download as PDF
+You can download this page as a PDF using your browser's print functionality.
+          Click on the "Print" button below and select the "PDF" option under destinations/printers.
+See detailed instructions for your browser
+here
+.
+Print
+Correct this page
+Disclaimer & Copyright
+Share this page:
+×
+What's wrong with this page?
+How we can improve this page?
+If you'd like us to get back to you, please enter your email address.
+Thank you for your feedback, your message has been sent.
+Close
+Send your feedback

@@ -1,0 +1,235 @@
+Title: Science and Technology Innovation Decadal Plan; Evaluation of Alternative Telecommunication Technologies for Karoo Central Astronomy Advantage Area; with Minister
+Date: 02 Feb 2022
+Committee: 
+URL: https://pmg.org.za/committee-meeting/34193/
+============================================================
+
+Meeting Summary
+Video
+In a virtual meeting, the Portfolio Committee on Higher Education, Science and Technology was briefed by the Department of Science and Innovation (DSI) on the progress and developments of the science and technology innovation (STI) decadal plan. The Academy of Science of South Africa (ASSAf) reported to the Committee on the evaluation of alternative telecommunication technologies for the Karoo Central Astronomy Advantage Area. The South African Radio Astronomy Observatory also briefed the Committee on the protection of radio astronomy through the Astronomy Geographic Advantage Act and responded to the ASSAf's study on alternative communication.
+The Minister said that a lot of activity had taken place to finalise the decadal plan. There was an ongoing review of the new strategic management model, coupled with restructuring and strengthening of the National Advisory Council on Innovation. A National Treasury/DSI task team was currently working out the details of integrating an STI budget coordination mechanism into government budgeting via the medium-term expenditure framework. The Department was close to finalising the report of the Ministerial Review Committee on the higher education, science, technology and innovation institutional landscape for integration into the final plan.
+The DSI told the Committee that adaptation beforehand was necessary, especially for the automobile industry. If plans were not made before changes, then jobs would be lost, and society would be in distress. It was therefore important to anticipate what these changes would be. Members of the Committee expressed concern about the job security of petrol attendants because of hybrid and electric cars, and also the impact of load-shedding on transport based on electric-powered vehicles.
+There was a science and innovation inter-ministerial committee that looked at how government departments could work together to drive innovation.
+Members suggested that the Northern Cape had not benefited as much from the Square Kilometre Array as it should have. They were concerned that school facilities in the area were not geared to prepare learners for relevant scientific careers. The lack of internet connectivity was also highlighted as a challenge.
+The South African Radio Astronomy Observatory said that the Square Kilometre Array was a global endeavour. There were over 1 000 scientists and engineers from 20 countries involved in the project. There were partnerships with local rural safety and disaster management stakeholders. It had established a single platform for all stakeholders to improve telecommunication access to emergency services.
+Meeting report
+Department of Science and Innovation (DSI) briefing
+Dr Blade Nzimande, Minister of Higher Education, Science and Innovation, said that the decadal plan involved the implementation of South Africa's new White Paper on Science, Technology and Innovation. It sought to achieve five system goals:
+to ensure South Africa becomes a more enabling environment for innovation for translating research outputs into new products and services;
+to expand and improve human capabilities;
+to expand and transform the country's search system;
+to build a more inclusive and coordinated national system of innovation; and
+to find ways to increase funding and make its processes more efficient.
+When the was approved by Cabinet last year, it had approved the broad direction and thrusts of the 2021 draft plan for 2021-2031 for further consultation with business, academia, civil society and the National Economic Development and Labour Council (NEDLAC). The Minister had also engaged his Cabinet counterparts on the establishment of an inter-ministerial committee (IMC) on science, technology and innovation, co-funding for the decadal plan priorities, and an innovation compact for South Africa.
+To finalise the plan, there was an ongoing review of the new strategic management model, and restructuring and strengthening of the National Advisory Council on Innovation (NACI). A National Treasury/DSI task team was currently working out the details of integrating a science, technology and innovation (STI) budget coordination mechanism into government budgeting via the medium-term expenditure framework (MTEF). The Department was nearly finalising the report of the Ministerial Review Committee on the Higher Education, Science, Technology and Innovation institutional landscape for integration into the final decadal plan.
+Minister Nzimande said the outline of the presentation was the philosophy underlying the plan, the need to adapt to rapid technological change, the STI priorities and societal challenges, systemic enablers of the plan, progress highlights to date, feedback from the inaugural Science and Innovation IMC, and the next steps in the implementation of the plan.
+Philosophy underlying the Decadal Plan
+Dr Phil Mjwara, Director-General (DG), Department of Science and Innovation (DSI), said the 2019 White Paper signalled a shift in focus from building the National System Innovation (NSI), to deriving maximum impact from the NSI to help address South Africa's challenges. The NSI contained a lot of excellence, and therefore the intention was to further its development. The social sciences would be mainstreamed in all of the programmes and projects to address the complexity of the challenges facing South Africa and the world. There was a deliberate focus on just transitions. He used health, education and energy as an example.
+The need to adapt to rapid technological change
+He said that the adaptation to rapid technological change was clear in the name of the White Paper. It said science, technology and innovation would enable inclusive sustainable South African development in a changing world. Therefore developing tools to learn how to address this change was extremely important.
+Adaptation beforehand was necessary, especially for the automobile industry. If plans were not made before changes then jobs would be lost, and society would be in distress. It was therefore important to anticipate what these changes were.
+(See presentation attached for details of examples).
+The STI priorities and social grand challenges
+The NACI foresight study had identified the STI priorities. These included climate change and the circular economy, education for the future, the future of society, information communication technology (ICT) and smart systems, high-technology industrialisation, nutrition security, water security, health innovation and sustainable energy.
+(See table on slide 11-13)
+Governance principles for the STI thematic priorities include:
+Using a multi-disciplinary management structure comprising government, industry, academia, and civil society.
+Taking guidance from the resolutions of the science and innovation IMC.
+Working in synergy with existing structures.
+STI-intensive line departments to lead on the development of sector strategies, roadmaps, etc.
+The DSI to lead on the development of STI capabilities to support the relevant master plans and mandates/strategies of the sectoral lead departments.
+Involving the STI entities across government, as appropriate, in the governance and implementation.
+The principal STI governance instrument would be a Research Development and Innovation (RDI) plan, which could also guide monitoring and evaluation (M&E) indicators.
+Systematic enablers of the Decadal Plan
+There was a science and innovation IMC that looked at how government could work together to drive innovation. It was hoped that society and the plenary of the presidency would be convening soon. There was a science and innovation compact on innovation enabling programmes that had to be funded and implemented collectively across departmental boundaries. Budget coordination was therefore important.
+(See further details on slide 19)
+The purpose of the science and Innovation compact on innovation was:
+- Ensuring policy coherence and certainty related to innovation, the absence of which would negatively impact business and foreign investment in South Africa.
+- Ensuring synergy among, rather than the duplication of, initiatives and incentives, which wasted resources and negatively influenced the contribution of innovation to addressing South Africa's priorities.
+- Ensuring commitment from the relevant NSI actors to work together to enhance innovation performance, and therefore also to pool their resources (funding, knowledge and systems).
+The proposed priorities were:
+- Specifically targeted education and skills to support innovation.
+- Arresting intellectual property (IP) leakage from publicly funded research and development (R&D) through increased support for commercialisation.
+- Public procurement of locally developed technologies.
+- Improving the capabilities across government to support innovation, as well as to increase the spatial footprint of innovation in SA, in line with the District Development Model (DDM).
+- The development of an artificial intelligence (AI) strategy and ethics framework.
+The STI budget coordination process was a mechanism to improve the allocation of funds for STI. The funds cut across all spheres of government, to assist departments to implement their STI programmes. It was there to improve the productivity and competitiveness of key sectors of the South African economy, and to contribute to higher gross domestic product (GDP) growth rates overall. The national funding would be used for RDI plans to support societal challenges, for provinces to support growth and development strategies, and for local government to support innovation for local economic development priorities.
+(Details of the budget coordination are shown on slide 22-25)
+Progress highlights and commitments to date
+- Cabinet had approved the decadal plan for further consultation with government partners, the private sector, and social partners (e.g. NEDLAC) in March 2021.
+- The DG had hosted follow-up meetings to get commitments from government departments on the implementation of the decadal plan, e.g. with the National Treasury.
+- A major milestone was reached when the National Treasury agreed to the principle of STI budget coordination to ensure that public funding for STI was distributed based on expert analysis across departmental boundaries, and committed to a working arrangement that saw the DSI play a significant role in the process. This work was ongoing.
+- The DSI had started working with its entities to discuss and plan the implementation of the decadal plan priorities and to align its annual performance plans (APPs) to the plan.
+- A high-level well-attended workshop had been held between the DSI and the Council for Scientific and Industrial Research (CSIR) to discuss their alignment to the decadal plan, and subsequent planning documents reflected the CSIR's commitment to such a shift.
+- A draft framework for the innovation compact had been developed.
+- The inaugural meeting of the science and innovation IMC took place on 25 November 2021.
+Feedback from inaugural Science and Innovation IMC
+Issues raised by the IMC Ministers included:
+- Sharpening the focus on supporting commercialisation of SA's IP to support industrialisation.
+- Highlighting the importance of building local capabilities.
+- Stressing the role of logistics and infrastructure to link to the African Free Trade Area (AFTA).
+- Including the focus areas of the decadal plan in the terms of reference (TORs).
+- The Department of Employment and Labour (DEL) should be a standing member of the IMC, as innovation could both create and reduce employment, and labour strategies would be needed.
+- The importance of integrating STI into the long-term planning of the government was clear and should be highlighted.
+- South Africa needed a skills development and training master plan. It was necessary to quantify the skills needed per area, develop realistic quantitative targets, and assign responsibilities to appropriate departments and role players. However, skills development was a cross-cutting priority, so all government departments needed to contribute to the targets as appropriate.
+- There was a need to create learning opportunities for South Africans through study tours of high-performing STI-intensive countries.
+- The core team of the IMC should include the Department of Public Service and Administration (DPSA) to assist with engendering an innovation mindset and skills across government.
+- The role of the Centre for Public Service Innovation (CPSI) could also have a role to play in creating an innovation-enabled state.
+- The objectives of the IMC should also include reference to how STI could contribute to South Africa meeting its international obligations -- for example, on the sustainable development goals (SDGs).
+- A central repository was needed where government could collect all the STI-related learning it derives from international visits. This input was made in support of Minister Dlamini-Zuma's input on making provision for learning from international partners.
+- The Department of Transport was pivotal to an innovation-enabling environment, such as to ensure access to markets and functioning ports for international trade, and would be included in IMC.
+- Similarly, the DPSA would be included in the IMC.
+The next steps in the implementation of the decadal plan with regard to the IMC and its programme of work would be
+- Updating the TORs, as discussed in the meeting.
+- Institutionalising the DG's technical committee and work programme.
+- Finalising the innovation compact and confirming the priority projects with government partners.
+- Starting work on the STI Presidential Plenary.
+- Conducting follow-up engagements with industry, social partners and NEDLAC to ensure their continued commitment to the priorities, and discuss potential contributions with them.
+- Deepening the work of integrating STI into long-term government planning and budgeting with the National Treasury and the Department of Performance Monitoring and Evaluation (DPME).
+Academy of Science of South Africa (ASSAf) briefing
+Prof Stephanie Burton, Vice President, ASSAf, introduced the presentation, which covered the evaluation of alternative telecommunication technologies for the Karoo Central Astronomy Advantage Area.
+Prof Himla Soodyall, Executive Officer, explained what the Academy was all about.
+Prof Francesco Petruccione, Research Chair, introduced all the members and provided an overview and the objectives of the study. He said the report covered the introduction, legislative framework, the Square Kilometre Array (SKA), ICT access, and social dynamics in the Karoo area, alternative telecommunications technologies, conclusions, and recommendations.
+(See attached report for further details)
+ICT access and social dynamics
+Dr Michael Gastrow, Acting Director, Human Sciences Research Council (HSRC), said stated that the findings showed that:
+- There was uncertainty about access to universal ICT services, and in some instances, the curtailment of services negatively impacted local communities, both socially and economically.
+- There was inconsistent messaging, and limited public engagement had undermined the trust of some local communities.
+- There was civil society opposition to the SKA project, including its ICT impact, which had emerged, posing a risk to the SKA's social contract in the Karoo.
+ASSAf had made the following recommendations:
+- A fully-fledged communication and engagement strategy for ICT interventions in the Karoo must be developed.
+- Engagement processes must be open and inclusive throughout. He added that it should not exclude any stakeholders or any members of the public. Afrikaans should be the primary language of engagement.
+- All messaging must be valid and consistent.
+- There was a need to more closely coordinate with the National Research Foundation (NRF) and the DSI to align messaging, particularly in the political arena
+- Previous failures to meet valid expectations and to communicate consistently must be surfaced, acknowledged and remedied. He acknowledged that this might cause short-term discomfort to the South African Radio Astronomy Observatory (SARAO), but it was necessary for the long-term healing of damaged local relationships.
+- SARAO should reflect on its organisational culture and build closer partnerships between the natural and social sciences to better address the social challenges associated with scientific infrastructure.
+Alternative Telecommunication Technologies
+Prof Riaan Wolhuter, of Stellenbosch University, introduced the discussion on alternative telecommunication technologies. ASSAf had made the following findings:
+- A hybrid fibre-wireless solution, which could be set up according to relevant specifications of power, radiated power and distance.
+- Conventional cell-based mobile coverage was ideal, but was problematic in terms of radio frequency interference (RFI), except in a few specific locations.
+- Data access via microwave and fibre connectivity (Option A) was technically excellent but would be very expensive to install and maintain.
+- Very Small Aperture Terminal (VSAT) data connectivity (Option B) was a feasible and economical option.
+- It was possible to have a combination of Options A and B.
+- A very high frequency (VHF) low band digital mobile radio (DMR) emergency communications network was feasible and could be implemented to provide good coverage over a sufficiently wide area.
+The following recommendations were made:
+- Internet connectivity should be provided to all priority farms/user locations by means of VSAT in the short term at least.
+- A subsidy model should be investigated for the installation and data cost.
+- The proposed VHF low band DMR emergency communications network should be implemented as a priority, and already initiated.
+- As for VSAT, a subsidy model should be investigated for obtaining the radios, system operations and maintenance.
+- An 'operational, management and control centre' should be established for safety and operational reasons, and network monitoring and management.
+- A section 21 company (e.g. public-private-partnership) should be formed to oversee and undertake monitoring, administration and maintenance of these networks.
+- SARAO should be approached for financing of the infrastructure, as recommended.
+Prof Petruccione said that all of this had been reviewed by national and international reviewers.
+SARAO briefing
+Dr Rob Adam, Director, Square Kilometre Array (SKA), introduced SARAO's presentation, which covered the protection of radio astronomy, the SKA, the Astronomy Geographic Advantage Act, the ASSAf study, and a response to the ASSAf study recommendations.
+He explained what had led to the ASSAf study. At a meeting with farmers in Carnarvon, a question had been asked as to whether SARAO had fully investigated all the options for alternative communications. It was proposed that SARAO use the services of a particular individual who would help to reach a conclusion. Having a report by an individual was not nearly as valuable as having a report by a statutory body, which worked in a methodologically valid way, with checks and balances and having access to experts. The meeting had been in English, but there were interpreters to translate it into Afrikaans. This was proposed, and the NRF had accepted it, and therefore ASSAf had approached SARAO for the study.
+Protection of radio astronomy: South Africa's astronomical advantage
+Dr Adrian Tiplady, Deputy Managing Director: Strategy & Partnerships, SARAO, said that radio telescopes were extremely sensitive radio receivers, detecting cosmic radio emissions. Scientific observations were interfered with by unwanted man-made radio signals (RFI), which consisted of weak and strong radio signals. The mission was to protect radio telescopes and therefore they were built in remote, sparsely populated areas. Population density was an excellent indicator for the presence of RFI. It had been established that the Northern Cape Province was one of the best locations in the world for international investment in radio astronomy research infrastructure.
+The SKA was a global endeavour. There were over 1 000 scientists and engineers involved from 20 countries already. SKA observatory had been launched in January 2021 as an inter-governmental organisation. The members included Australia, the United Kingdom, South Africa, the Netherlands, China, Portugal, Italy, France and Switzerland. Future members included Germany, Sweden, India, Japan and South Korea.
+Astronomy Geographic Advantage (AGA) Act
+The Act empowered the Minister of Science and Technology to declare and protect areas around strategic astronomy sites -'astronomy advantage areas.' The objective of the Act was to create an 'optimised' radio frequency environment, not an absolute 'radio quiet' environment. There were three tiers of protected areas -- the core area, central area and coordination area.
+The use of radiofrequency spectrum within declared areas was restricted, and subject to permit applications to the Astronomy Management Authority. The permit application process considered (a) the risk of specific use, and available mitigation measures; (b) whether the use was for an essential service; and (c) highly consultative with the applicant, to collaborate on technical solutions. Permits that were issued may include technical restrictions to limit risk.
+Background to ASSAf study
+The background to the study included:
+- Ongoing stakeholder engagement with the Karoo community, which would co-exist with the SKA telescope under the protection measures (AGA Act).
+- Implementation of protection measures resulting in the optimisation of the radio frequency environment, and technical change in accessible telecommunication services.
+- A history of the establishment of 'radio astronomy friendly' telecommunication services by SARAO and other third parties (ie. satellite television).
+The purpose of the study was for SARAO to establish a common, independent point of departure for stakeholders within the Karoo, to inform long-term programmes implemented by SARAO and other third parties for the roll-out of appropriate telecommunication solutions in the area.
+Existing programmes involving alternative telecommunications -- satellite internet (VSAT) and WiFi -- had seen 300 VSATs already deployed since 2015, with a further 150 VSATs and 350 WiFi installations through new contracts signed in 2021. The capital costs were fully subsidised by SARAO. It also enabled the utilisation of existing smartphones without cell phone signals from traditional base stations.
+For existing programmes involving alternative telecommunications -- mobile trunk radio --, there were partnerships with local rural safety and disaster management stakeholders. It established a single platform for all stakeholders, improving coverage of telecommunication access to emergency services. The testing phase was underway. A total of 250 devices had been deployed. The capital costs were fully subsidised, and the operational costs were partially subsidised.
+(Responses to the ASSAf study recommendations can be found on slide 14 of the presentation)
+Discussion
+Ms J Mananiso (ANC) was impressed with the DSI) for providing feedback on their programmes. It showed that females would now be part of mainstreaming. Science, technology and innovation (STI) was a mainstreaming and cost-cutting function, and no department or individual should be left behind especially communities. Technology instruments were used to collect data for Census 2022. She asked what the involvement of the DSI was for Census 2022.
+Ms D Sibiya (ANC) acknowledged the great work that the DSI had done.
+The Chairperson asked the Members of the Committee to provide input. She asked which Department was leading in the science and technology initiatives and the contributions that had been made. The budget coordination mechanism had to be discussed in greater detail on what and when it would be achieved. When was the Inter-Ministerial Committee (IMC) due to sit? How often would it sit?
+She suggested that the decadal plan should involve the Department of Basic Education (DBE) and the Department of Higher Education (DHE) working together. She recalled that there had been instances where the NRF and DSI had worked together and made investments in communities. It showed that the DSI was taking responsibility that was not part of its core mandate. She emphasised that certain foundations were meant to be implemented by a particular department. The DSI was there only for support. The decadal plan must be there to ensure that departments play their part.
+The Sol Plaatjie University had allowed the Committee to understand the needs of the SARAO, and any other astronomical activity that was taking place. This could assist the Northern Cape with any academic programmes that were available at the university. This was a key example of how the decadal plan could come to life.
+The DSI should ask provincial departments and municipalities what their roles were in supporting the work of science and innovation in their respective provinces. This would help the DSI to enhance the work that they were already doing. Transport for astronomy tourism must be strengthened, especially in Sutherland. Departments should understand the importance of focusing on science and innovation.
+Dr W Boshoff (FF+) was impressed with the coherence of the decadal plan. He suggested that it be coordinated across different departments. Each department should identify their needs for relevant solutions to be provided.
+Ms N Tarabella-Marchesi (DA) felt that the Northern Cape had not benefited from the STI developments. She agreed that different departments should work together. Matters such as high schools with a boarding establishment were something that should be looked at and should be discussed at meetings. This was to see how the Northern Cape could benefit from all of the science and technology that was happening. She noticed that very few scientists came from the Northern Cape. Only one percent of the population of students that were finishing high school was applying for National Student Financial Aid Scheme (NSFAS) support. This was a concern because it showed that not many young students were getting into higher education, and therefore they were not part of the development that was available.
+She asked what plans were in place for petrol attendants who would lose their jobs because of hybrid technology and electric cars. South Africa had a problem of unemployment, and this would increase the unemployment rate. Furthermore, Eskom had not been moving forward, and load-shedding was still a problem. With electric vehicles, load-shedding would then not only make the country standstill in terms of its homes and factories but its mobility as well. She asked what plans the government had in place to ensure that while STI was moving, South Africa was also moving and catching up. It was the responsibility of the DBE to make sure there were teachers. Money must be used to invest in more science, innovation and development. Money must be used to boost the shortfalls of basic education in the country.
+The Chairperson recalled that when oversight was being done, there had been an expression that departments should not operate in silos, but it had been said it was difficult for various departments to support the work of the DSI. She asked why it was so difficult for other departments to work with the DSI.
+Dr Boshoff commended ASSAf for having the whole group participate in a peer review. He appreciated the comprehensive and honest expression of how the SARAO had been rolled out. It was clear that the SKA was not likely to cause any kind of harm to the community, whether economic or social. He appreciated the list that the Committee had received of all the advantages and investments done by the SKA, or for the SKA. He asked what the solution was for travellers in areas where there was no cell phone connectivity.
+Ms Tarabella-Marchesi commended the entities for the work that had been done, not only in Sutherland but Carnarvon as well, and how they had identified the pertinent issues. She asked whether there have been discussions with different departments concerning these issues. The Committee had noticed the challenges of not only the issue of language but also accessibility -- to health and education in particular. The issues included not having a physics teacher in primary school in Sutherland, the prevalence of foetal alcohol syndrome and the limitations of transport and telecommunications as well. Would the VSAT that ASSAf was considering be affordable? How much did it cost? Did one have to pay, or was it free? Would the citizens of Sutherland and Carnarvon be able to access the internet? There was a connectivity issue. When would VSAT be rolled out? She recalled that challenges identified in the report came from 2007, which meant they had not been dealt with as soon as possible. It was 2022 -- there could not be a report of 2007. She mentioned Elon Musk's Starlink that would be accessible around the world and affordable. She asked whether this was something that the entities and the Department should look at.
+The Chairperson referred to the challenges of inconsistent messaging and public engagement. Furthermore, she noticed the position of the SKA projects and the impact around them, as well as the project itself. She asked the Department to look at the presentations of ASSAf and SARAO and see where they complemented or contradicted each other. She suggested this because when oversight had been being done at stakeholders' meetings, the Committee had noticed that when they visited a particular location, not everyone was on the same page as to what had happened or could have happened.
+There needed to be a holistic understanding of what the communities in affected areas were feeling --for example, where 70% of the members agreed and 30% did not agree. She suggested that a two-column table be made that spoke directly to the synergies of the two presentations and the contradictions therein. She recalled that one of the challenges mentioned was that engagements in Sutherland were done in English and people there predominantly spoke Afrikaans. However, it had been stated that there were interpreters.
+She asked how much landmass was needed to protect the work the SKA had already done in terms of geographic advantage. It was important to know the population size of the people who were being affected. Although alternative telecommunication was not necessarily needed in the town itself, it was worrisome for the safety of people travelling that they did not have access to these alternative telecommunication devices. She suggested that a sign be put up notifying travellers that they would lose network connectivity.
+She asked for the history of the ICT infrastructure in the area before the SKA. She recalled that SARAO was financing the infrastructure of this particular project. Did it have the financial capacity to finance it? Had there been engagements with other departments about the work that was being done -- departments such as the Department of Communications and Information Technology? She asked whether the packages of other networks had been proposed in monetary value to the community. She commented that some of the presentations had been wordy, and suggested that there needed to be a balance between having too few or too many words.
+She asked Members to appreciate the sensitivity of technology and suggested that the Committee, the Department and its entities work with the surrounding areas. They should go beyond the surrounding areas and speak to the citizens of South Africa as a whole.
+She emphasised the importance of the two-column table that compared the contradictions and synergies of ASSAf and SARAO, and suggested that the South African Agency for Scientific & Technology Advancement (SAASTA) should present their work to the Committee, the Department, and its entities to see what they were doing, and provided details on their outreach programmes. The shortcomings of the stakeholder relations should be looked at.
+DSI's response
+Dr Mjwara said that there had been no direct involvement of the Department with Census 2022. It would not be possible to provide an answer as to which department was leading, because the STI report was not available. It could be made available, and he suggested that there be another session to allow them to analyse it.
+He envisaged that when the IMC negotiated the actual percentage that each department needed to put together, it would take about two to three years to get the full intention of the budget coordination processes. He confirmed that the next sitting of the IMC would be informed by the consultations with NEDLAC and civil society, which would likely be in June/July.
+In the next few months, a meeting would be held to consider the challenges that the Northern Cape faced. The challenges went beyond the Northern Cape. The challenges involving the DSI working with other departments was because this was not done in a structured way that demanded that they work together. The biggest problem with leadership and management was that it was not done organically. It was based on what got done was what got measured. He asked how to create incentives and mechanisms to allow collaboration between departments.
+The Chairperson asked the DSI to provide an update on stabilising the National Advisory Council on Innovation. There were concerns regarding the budget mechanisms and the monitoring and evaluation of the decadal plan.
+Dr Mjwara emphasised that the DSI was in the process of amending legislation based on the recommendations given. Further, human resources were in the process of readvertising the post of Chief Executive Officer (CEO), due to technical issues the first time around. Once this process was completed, the NACI would operate in the best way possible.
+Dr Nzimande said that the DSI simply acted as a support for what was called the science pipeline. The DSI did everything it could to support the science pipeline at the school level. The work done by the DSI was not a substitute for what the DBE had to do. He said that "it was part of sponsorships that are done by the DSI and its entity, where they identify a need rather than systemic intervention, which is led by the DBE." He suggested that the two Portfolio Committees come together to report what was done to promote science at the school level. He acknowledged that the DBE was doing a lot of work.
+He used the example of the Funza Lushaka bursary, managed by NSFAS, for training science and mathematics teachers. There were centres to support the upgrading and assistance of maths and science teachers. It was also acknowledged that the DBE focused on poorer schools. A lot, however, could be done. There were too many students getting less than 60% for maths and science, and could therefore not enter higher education for medicine, animal science, etc.
+Work still needed to be done by the IMC. It was important to work with the IMC to identify common objectives on how best the STI system could support different departments of government.
+The Northern Cape could, and would, benefit from the SKA. As a result of the fact that the SKA was based in the province, they supported many schools. There was now a university in the Northern Cape. He emphasised that there needed to be a distinction between doing nothing and doing something, but it was not enough. The DSI was working with other countries to build computational capacity so that those in the Northern Cape could benefit.
+The Chairperson informed the DG that the Committee had noted further issues and would submit them in writing. She asked for a response within seven days.
+Dr Mjwara said that the decadal plan was there to address issues such as electric cars. It was important to anticipate these changes and then plan for them properly. He used the example of the CSIR's mining research, development and innovation research that was based on how to retrain mining employees due to mechanisation. The Department of Trade, Industry and Competition (DTIC) had drafted a policy document as part of what South Africa was planning to do in the space of electric cars. The document could be made available to the Committee.
+The transparency of information and community engagement processes was something that the DSI would look into. It would work together with the NRF and SARAO to figure out the best way to design a mechanism institutionally that would ensure that the different views of issues were properly packaged and managed.
+He replied to the Chairperson on how different governmental departments could work together. He recalled the time when there was a memo that had been tabled to the Cabinet to request those elements of the SKA, or the initiatives that touches upon the SKA, to set up structures on what was being done and what would be done. He suggested that it would look at those structures again to revive them to address inter-departmental and governmental issues. The issue of communication was something that the DSI was looking at internationally, especially on how to have a science engagement programme. The DSI would find a better way to enhance communication.
+ASSAf's response
+Prof Soodyall apologised for the wordy presentation. She emphasised that ASSAf had had at least three engagements with the communities. She used the example of a researcher going out to do work by individually interviewing people and capturing some other initiatives in the region.
+Prof Petruccione acknowledged the recommendations that had been made.
+Dr Gastrow said that ASSAf had been communicating and engaging with the SKA, although some engagements had not been successful. In the beginning, everyone had been excited and had not expected any negativity or resistance. The default position towards the SKA was not positive. It was clear that it would be complicated, and certain structures could have caught the institution off guard.
+SARAO's response
+Mr Fulufhelo Nelwamondo, Chief Executive Officer (CEO), National Research Foundation(NRF), acknowledged that they and the DSI should sit down to address the issues around transparency and interface with other governmental departments.
+Dr Adam said that the report Ms Tarabella-Marchesi had referred to was from last year. The Act was from 2007. He apologised for not being clear earlier.
+There was only one small instance where there was a cell phone signal problem. He emphasised that nothing had been switched off yet. If a signal could not be picked up on a road, this did not mean that something had been switched off. It simply meant that it was never there.
+Inconsistent messaging did not only mean it was inconsistent, but could also sometimes be due to communication having evolved because conditions or circumstances might have changed. He gave the example of when SARAO thought that farming and radio astronomy could co-exist, but had later realised that they were wrong.
+Dr Tiplady said that 400 farms had been identified. The loss of access depended on the outcome of the optimisation signal coverage studies that had been undertaken. There had been 300 VSAT installations, and a further 150 under a new contract. The change of service providers allowed the farmers who signed under the old contract to change to a new contract.
+SARAO went to the market to research future technology options, and VSAT was certainly much like Starlink. The issue of travel would be dealt with. SARAO tried to protect only the telescope locations themselves. There could be a signal everywhere else, as long as SARAO could ensure protection of the telescope locations.
+Mr Selaelo Matlhane, Spectrum & Alternative Telecommunications Manager, SKA , said that 170 farms were being affected. Some farms had houses, and some did not, so fewer houses might be affected.
+The Chairperson asked the DSI, ASSAf and SARAO to provide written feedback within seven days for the questions that had not been answered. When would the decadal plan be implemented?
+Dr Mjwara responded said that written feedback would be provided, and that the decadal plan would be gazetted sometime during August/September this year.
+The meeting was adjourned.
+Follow this committee
+Follow this committee and get
+free email alerts
+whenever we get new information about it.
+Write to this committee
+Audio
+No related
+Documents
+ASSAF presentation
+SARAO Presentation on ASSAF SKA Study
+STI Decadal Plan Presentation
+ASSAF Evaluation of Alternative Telecommunication Technologies for KCAAA
+Present
+Mkhatshwa, Ms NT
+Chairperson
+ANC
+Boshoff, Dr WJ
+FF+
+Lotriet, Prof  A
+DA
+Mananiso, Ms JS
+ANC
+Nzimande, Dr BE
+ANC
+Sibiya, Ms DP
+ANC
+Tarabella - Marchesi, Ms NI
+DA
+Thambo, Mr S
+EFF
+Download as PDF
+You can download this page as a PDF using your browser's print functionality.
+          Click on the "Print" button below and select the "PDF" option under destinations/printers.
+See detailed instructions for your browser
+here
+.
+Print
+Correct this page
+Disclaimer & Copyright
+Share this page:
+×
+What's wrong with this page?
+How we can improve this page?
+If you'd like us to get back to you, please enter your email address.
+Thank you for your feedback, your message has been sent.
+Close
+Send your feedback

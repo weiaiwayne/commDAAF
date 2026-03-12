@@ -1,0 +1,145 @@
+Title: SA Research Infrastructure Roadmap & Integrated Cyber Infrastructure system; South Korea/Japan study tour
+Date: 05 Sep 2018
+Committee: 
+URL: https://pmg.org.za/committee-meeting/27006/
+============================================================
+
+Meeting Summary
+The Committee was briefed by the Department of Science and Technology on the South African Research Infrastructure Roadmap and the National Integrated Cyber Infrastructure System. The Committee Report on the 2018 International Study visit to South Korea and Japan was not discussed. Members heard that Senior Officials and National Managers had formulated the definition of research infrastructure as facilities, resources and related services used by the scientific community for conducting leading edge research, knowledge transformation, knowledge exchange and knowledge conservation. Research Infrastructure included major scientific equipment and infrastructure, cyber infrastructure (ICT-based infrastructure), scientific collections, archives and structured information and entities of unique nature used by the scientific community.
+The Committee after seeing the original mandate of Research Infrastructures realised the importance of linking the Research Infrastructures with other departments. Members heard that the Department was working closely with the Department of Environmental Affairs; and had also recently established a management forum to meet with the champions of the Research Infrastructures twice a year to discuss management matters and clarify the nature of reporting. Each of the Research Infrastructures had to provide quarterly and annual reports to Department according to pre-agreed key performance areas and indicators.
+The Committee asked how involved were other departments especially the Department of Trade and Industry in Research Infrastructure and Cyber Infrastructure; given that the final system was inadequate, if there where ways to mitigate this especially in the case where the country’s e-resources had been used by the outside community who were not supposed to have access to it; if the Cybersecurity System Project and the Department of Defence could be linked; if the Department had a plan in place in terms of adjusting to the new law; how the oversight was executed on Research Infrastructure projects that had been implemented; how many dumping sites there were and their locations; and what the time frames were for implementing the scientific projects that were mentioned.
+Meeting report
+The Chairperson thanked Members and the guests present. The agenda for the meeting was the briefing by the Department of Science and Technology on the SA Research Infrastructure Roadmap and the National Integrated Cyber Infrastructure system; second item of the agenda was consideration of report on Committee’s 2018 International Study visit to South Korea and Japan. The second point was not discussed.
+Briefing by the Department of Science and Technology on the
+South African Research Infrastructure Roadmap and the National Integrated Cyber Infrastructure System
+Dr Thomas Auf der Heyde, Deputy Director-General (DDG): Research and Development briefed the Committee on the National Integrated Cyber Security Infrastructure (NICIS). He indicated that Senior Officials and National Managers had formulated the definition of research infrastructure as facilities, resources and related services used by the scientific community for conducting leading edge research, knowledge transformation, knowledge exchange and knowledge conservation. The Research Infrastructure Facilities, Resources, and related services were used by the Scientific Community for:
+Conducting leading-edge research,
+Knowledge transmission, and
+Knowledge preservation
+Research Infrastructure included major scientific equipment and infrastructure, cyber infrastructure (ICT-based infrastructure), scientific collections, archives and structured information and entities of unique nature used by the scientific community. This involved Medical Infrastructure and Institution Infrastructure. Research Infrastructure was the backbone of the country. During the process of developing Research Infrastructure, the DST enjoyed the support from a number of international experts in research infrastructure. The international team funded by the European Union supported the South African team in developing the country Research Infrastructure Roadmap.
+Research Infrastructure (RI) was a critical component part of the South African economy, because all major companies relied on it. Hence the Department was always interrogating the contribution of Research Infrastructure with the country economy. The Economic Impact of Research Infrastructure could be realised through:
+Delivering highly skilled people to the labour market;
+Creating new business: 80% local suppliers;
+Improving the performance of existing businesses;
+Improving public policy and services; and
+Attracting investment from global business
+Open national RIs were key bargaining items in international relations, for example the Square Kilometre Array (SKA) positioned South Africa as an important international player. Dr Auf der Heyde said that most of South African Research Infrastructure was of the multi-disciplinary sort and some of them cut across various departments and boundaries. Some followed within the Department of Environmental Affairs. They constituted long-time investment for capital and required funding for the establishment of physical infrastructure. Research Infrastructure required annual maintenance which needed ongoing funding.  A roadmap was a living document; it needed constant updating as new areas developed.
+The South African Council of Science was hosting Research Infrastructure because of its capability to manage Research Infrastructure resources. However, the development of Research Infrastructure involved other government departments including the National Treasury, the Research Community, Universities, and the South African Research Infrastructure Roadmap (SARIR) Steering Committee (SC) and International Experts. To effectively meet it objectives, the DST made use of experts from various fields, even those with no direct interest in the Research Infrastructure. It initiated the Steering Committee to advise the Department. The roadmap was approved by the Department.
+A bottom-up approach was followed in the process of developing the Research Infrastructure roadmap. Through the bottom up approach, about 17 proposals to develop Research Infrastructure were submitted to the DST. Out of 17 proposals, four were eliminated because their size was too big as compared to the DST Research Infrastructure Plans. Champions were appointed to prepare the RI proposals for their selection and ranking. The process was supported by the Independent Steering Committee.
+The Research Infrastructure was now in the implementation phase and would be reviewed after a certain period by the DST. The proposal for developing Research Infrastructure was based on the criterion below:
+Social-economic impact;
+Scientific excellence, novelty and Innovate;
+Management and implementation plan;
+Governance Structure;
+Financial;
+Capacity development and transformation; and
+Monitoring and Evaluation
+Selected proposals were ordered according to their implementation affordability. The run-time was based on the DST’s short, medium and long term priority plans. Also the DST was interested in proposals that cut across many sectors instead of just one. Alignment with national priorities and the extent on return on investment was another key factor.
+Dr Auf der Heyde noted that the DST was looking forward to engagements with the Treasury to increase its funding. The DST was considering improvements to its monitoring and evaluation system. There was need for actualisation around M&E because when it came to Research Infrastructure, the Department was looking at R10 million or more. A larger scale research infrastructure could cost up to R500 million and above. For example, a larger scale would be the European centre of nuclear research. Unfortunately, South Africa was not ready to implement such a kind of infrastructure. So generally the DST was looking at anything from R50 million to R500 million since Research Infrastructure needed the capacity to gather information and move data across the entire scientific community so that research could be done based on data received from information. The current budget for Research Infrastructure stood at R210 million, yet R250 million was estimated.
+13
+t
+hematic areas that were identified were as follows:
+Human and Society;
+Health Biological and Food Security;
+Earth and Environment;
+Material and Manufacturing;
+Energy; and
+Physical sciences and Engineering
+The RIs focus for 2016/17-2018/19 was on seven priorities:
+Expanded terrestrial environment observation – hosted by NRF (SA Earth Observation Network, SAEON);
+Nuclear Medicine hosted by the South African Nuclear Energy Corporation  (NECSA);
+The South African Network of Health and Demographic Surveillance hosted; by the Medical Research Council (MRC);
+National Centre for Digital Language Resource – hosted at North West University;
+Natural Science Collections – SA National Biodiversity Institute (SANB);
+Shallow Marine and Coastal Research Infrastructure – hosted by the NRF (National Research Foundation);
+Distributed Platform for “Omics” Research (DIPLOMICS) hosted by the Centre for Proteomics and Genomics Research (CPGR); and
+Biodiversity Biobanks hosted by SA National Biodiversity Institute (SANBI)
+In terms of location, most of scientific interventions were located in the National Research Council (NRC).  The NRC had a big mandate as compared to universities. The NRC worked on a national level yet universities were more focused on a local level. In terms of when the project was going be launched, some projects were scheduled for 2017-2018, and others would kick-started in 2019. Some of the projects would take one year and others five years to operate fully.
+The South African ACDIS (Africa Centre Demographic Information System) Health and Demographic Surveillance System Network of Health and Demography of Surveillance worked closely with the SA Medical Council and Statistics South Africa. This made it easier for the Medical Council to collect detailed health information from remote communities. It also enabled Statistics South Africa (Stats SA) to collect family related information.
+The National Centre for Language and Digital Resources located at North West University was informed by two key concerns namely capturing and developing South African languages. The intension was to capture the richness of South African languages. Another emerging endeavour was the connection to the 4th Industrial Revolution where artificial intelligence was used for translating into computer codes.
+The Research Infrastructure helped promote Omics research. Biobanks was a type of biorepository that stored biological samples (usually human) for use in research; and was a platform that collected and maintained South African living materials. For example at the University of Pretoria there was huge collection of fingers that infected a tree. At the moment country lacked national coordinated strategies and approaches to look at this biological sample.
+In terms of nuclear capacity, the DST had one nuclear intervention and it was in the process of establishing a research capacity in partnership with South African hospitals, universities and NECSA.
+The Extended National Terrestrial Environment Observation Network, a network of research platforms was responsible for collecting data and distributing South African (SA) terrestrial information throughout the country. This included water, rainfall, temperature, sun shine, and all kinds of local environmental conditions. These were Monitored and linked to climate change. The shallow marine intervention would do more less the same things but its focus was on shore monitoring all local conditions. It was a good project for fishing and understanding the movement of fish around the South African coast. The Extended National Terrestrial Environment was good for predicting conditions for farming.
+At the moment the country did not have a strategy for serving none living materials that were sitting in the museums. The country needed a nano-manufacturing facility for the manufacturing of very small scientific equipment used for research and development of a solar research facility.
+National Integrated Cyber System
+Dr Auf der Heyde said the Research portfolio and the scientific areas were growing to the extent that data was needed. For example, the astronomy programme, bioinformatics, climate modelling, longitudinal and social science data all required a massive data sample collection that needed to be manipulated and calculated computationally. The nature of the intense research portfolio was growing and science was changing and becoming more reliant on electronic information.
+The country needed to move fast to cope with the emergency of e-science and the concept of big data which was very important. When talking about the 4th Industrial Revolution, what could easily be left out was the impact of ICT on the public service. The question was to learn how best ICT could be used to improve the provision of service delivery through the new electronic knowledge. What kind of the demand could be anticipated for e-service in the future? The 4th Industrial Revolution was both about public service and business. Both were going to impact on cyber infrastructure and science and cyber infrastructure was going to impact on business and public services in return.
+The National Integrated Cyber system was a joint effort from different departments; it required joint planning and budgeting, good governance, visibility and accessibility of CI services, sustainability and constructive stakeholder engagement.
+The key components were:
+The South Africa National Research Network (SANReN) was to connect all the universities, the national council and all institutions involved in research, where previously the DST was the sole funder;
+The Data Intensive Research for South Africa (DIRISA), focused on establishing a network of physical data space around the country.
+Another interesting intervention was the South Africa GRID Computing (SAGRID) initiative. This project that was aimed at advancing the national capability by connecting key computers around the country so that they could coordinate each other. All these initiatives were managed at the
+CSIR Meraka Institute
+and it was responsible for the implementation of the ICT R&D roadmap.
+The NICIS work was to provide services to two big nuclear facilities in the country. NICIS was more related to SKA. NICIS and SKA were working together to design a future nuclear facility needed in South Africa.
+Dr Auf der Heyde concluded his presentation by thanking the Committee Members and the Chairperson.
+The Chairperson said that it was an interesting presentation, and it was time to give Committee Members the opportunity to participate.
+Discussion
+Ms C King (DA) thanked Dr Auf der Heyde for the insightful presentation. She indicated that she really enjoyed it and had several questions. When Research Infrastructure and Cyber Infrastructure were spoken about, how involved were other departments especially the Department of Trade and Industry and the DSTs Risk Management Department?
+Ms King said that the Committee could agree that the final system had not really been one that was adequate. She asked if there was any way that the country could mitigate this especially in the case where the country’s e-resources had been used by the outside community who were not supposed to have access to it.  She asked further if the Cybersecurity System Project and the Department of Defence could be linked.
+Ms King said that the Minister of Science and Technology had said that should the law be amended most of the property would no longer be in the DSTs hands. She asked if the Department had a plan in place in terms of adjusting to the new law.  If one looked at the path of technology in SA, was a lot really invested in Research Infrastructure? The Committee was aware of the R780million that was presented, and did it feel that that amount was enough?
+Ms King pointed out that another point to be highlighted was around the trip to South Korea. She asked if there was any discussion or engagement with universities to consider starting Master’s studies in converging science.
+Ms N Ndongeni (ANC) said she wanted to know what the time framework was for implementing these scientific projects. She asked further how the oversight was executed on Research Infrastructure projects that had been implemented.
+The Chairperson said that in South Korea robots were seen as a means to give people more time to focus on research instead of doing work that could be performed by robots. She asked if the DST could do something for South Africa to help people change their way of thinking because when speaking about the deployment of robots the first thing that came to the mind of a South African would be job losses.
+Responses
+The Chairperson said that sometimes the Committee felt that Minister Naledi Pando should have continued with the DST to complete many projects because of the issue of familiarity with the various projects. The Committee hoped the E-Science Department at the University of Witwatersrand would become a success.
+With regard to the matter of linking the project across various departments, the linkage did happen at Departmental level and at the strategic research infrastructure where links existed between people who managed infrastructures. They could report to the Department about the development. For example, one of the research outcomes that were used in the local health surveillance was the cross-relations with the Department of Health and National Medical Research Council. A relationship existed relationship between those managing these initiatives at the department level.
+The DST was very involved in university activities because of funding that it gave with regard to purchasing scientific equipment. So the DTS was always interested in knowing the type of equipment that was needed at universities. The DST and the DHET worked together on funding universities. Another key partner was the Department of Environmental Affairs.
+Dr Heyde said that the DST’s desire was to use this Research Infrastructure Roadmap to influence the National Treasury to increase its funding on Research Infrastructure. Instead of getting annual funding the DST wanted the Treasury to understand investment in Research Infrastructure as something that had to be planned for five to 10 years. It was not something that could be planned on an annual basis. The DST hoped the Treasury would establish something very quickly and in this month (September) it would present this presentation to the DDG and DG at the Treasury as part of the DST’s attempt to get them to understand that the DST needed long term budgeting plans for research Infrastructure. At a certain time the DST was just informed that the Research Infrastructure budget was cut by R200 million. The Research Infrastructure budget has been cut to R380 million over the last few periods. On an income of about R1 billion, the cut was about R350 million. The DST recently raised this matter with the Treasury who had noted the concern. The DST understood that if Treasury wanted to cut the DST budget then it should let the DST decide where best to absorb the cut.
+On the question about whether the DST got enough funding any public servant would always tell say that it did not get enough money. So to some extent it was a moot point, and to a certain extent the DST did get enough funds but it depended on how application and planning. At the moment the DST needed more funding. For example the iThemba LABS laboratory was in need of R500 million for long term maintenance.
+Dr Heyde noted that the Department had recently established a management forum where the Department committee with the champions of the Research Infrastructures like the CSIR, other research institutions and the DST team was meeting twice a year to discuss management matters and clarify the nature of reporting. Each of the Research Infrastructures had to provide quarterly and annual reports to the DST according to pre-agreed key performance indicators.
+Some of the projects ran for two to five years and ran into the future. The timeline was difficult to predict because if the circumstances changed the Department might have to close down the project.
+The Department hoped that interactions around E-Science would be a success.
+On the 4th Industry Revolution and its impact on South Africa, Dr Heyde said that there was a lot meetings going on around the country about this. Recently the Human Sciences Research Council (HSRC) held a two day conference chaired by the Deputy President. The National Science Council was preparing a seminar around the same matters, and labours union were involved in finding ways around skills development, jobs and security.
+Dr D Adams said the SANReN (South Africa National Research Network) was one of the national initiatives that involved various departments and offered support to many other institutions. It was supporting 380 FEVT (Further Education and Training Colleges) with networks, especially rural based colleges.
+Dr Daniel further noted that the NICIS was another project that was very helpful in terms of identifying missing items. For example in managing the supply chain, one could use digital codes to identify missing items. By placing the code on the item made things easier to control the items remotely. This was very good for supply chain management.
+About timeframes, Dr Daniel said these infrastructures had a 10 to 15 year life cycle. Looking at the original mandate of Research Infrastructures, the committee realised the importance of linking the Research Infrastructures with other departments hence the DST was working closely with the Department of Environmental Affairs.
+About Cyber Infrastructures Dr Daniel revealed that the DST was also looking at how the Department could work with the Department of Home Affairs. However the DST realised that the Department did not have the capacity to reengineer the programme hence everything was left to the supplier. Cyber Infrastructures could really play a big role in improving the Department.
+In terms of 3D Dr Daniel said the DST was doing well when it came to the 3D animation industry. Animation was used for education. Also massive research infrastructures were attracting many international key players wanting to learn what South Africa was doing with this kind of investment. The DST is working with the team from CIRS.
+About the SKA project, Dr Daniel said that when looking at the number of investments that countries like the USA and China had made in their Research Infrastructures, it was clear that South Africa was still far behind.
+Ms A Tuck (ANC) asked how many dumping sites there were and their locations. She also wanted to know whether the DST was investing where these sites were and the type of investment made. Waste was very dangerous and could cause harm. The community was concerned about some of these dumping sites. NECSA was situated in a very poor community. What was the DTS giving back to the community that only had one clothing store?
+Ms King noted that the DG of the Department of Postal Services (DPST) would be hosting a presentation on data policy, and one of the Committee Recommendation was on data policy. Ms King wanted to know whether the DST was going to engage the DPST around the implementation of data policy. She also wanted to know whether South Africa was ready for 5G.
+Dr Auf Heyde said that the DST could add value to the discussion on the implementation of data policy because of the infrastructure, standardisation and from a governance point view. The DST was certain that the DPST would send an invitation as the Department would certainly participate should it get one.
+About 5G Dr Auf der Heyde said that the DST was not ready because it was not the Department’s area of competence.
+On community development, Dr Auf der Heyde said that a satellite was launched and the DST had involved the community. Aunt Munita (a community representative) informed DST delegates that the Salt initiative in Sutherland was meant to uplift the community. The school’s principals, teachers and mayor were present at the launch. The Salt initiative had a positive impact on improving the community in Sutherland. In terms of accommodation there was about 40 B&BS today. This was an improvement from the four B&BS which existed earlier.  In terms of nuclear waste disposal, the DST research funding area also looked at how to dispose nuclear waste. This was an area that required Parliamentary engagement and regional partners. The department did not have much capacity in this area.
+Ms Tuck (ANC) said she did not get the answer to her questions, but she was aware why a clear answer was not given. Regrettably it was that the teachers were leaving the community because the area was very impoverished. There was hope that the committee would get more answers with regard to NECSA and Salt.
+The Chairperson was of the view that the University in Northern Cape and various partners should play a role in creating projects that would develop the area so that the DST could plough back into the community. The Department should link with relevant universities, especially the University of Northern Cape in terms of retaining the resources that had been invested there.
+She thanked the Department for the very interesting presentation. Some of the things that were presented earlier were now making sense. The Committee was done with the report and it was now time to learn and share. She had also thought about the 4th Industrial Revolution conference that was chaired by the Deputy President. The Committee was happy that the 4th Industrial Revolution conference was chaired by the Deputy President because the President had a big interest in science and technology. The conference might help the Committee in terms of increasing the DST budget when engaging the Treasury because of the kind of questions the Deputy President might have fronted at the conference. The Chairperson remarked that the DTS presentation was becoming more interesting compared to three years earlier when the Department had just started presenting. This could be because the DST delegates were new in their positions. The Chairperson thanked the delegates from DTS and Members and said that the Committee looked forward to further engagements.
+The meeting was adjourned.
+Follow this committee
+Follow this committee and get
+free email alerts
+whenever we get new information about it.
+Write to this committee
+Audio
+SA Research Infrastructure Roadmap & Integrated Cyber Infrastructure system; South Korea/Japan study tour
+Documents
+DST: South African Research Infrastructure Roadmap & National Integrated Cyberinfrastructure System
+Present
+Kekana, Mr MD
+ANC
+King, Ms C
+DA
+Koornhof, Mr NC
+ANC
+Ndongeni, Ms N
+ANC
+Tuck, Ms A
+ANC
+Download as PDF
+You can download this page as a PDF using your browser's print functionality.
+          Click on the "Print" button below and select the "PDF" option under destinations/printers.
+See detailed instructions for your browser
+here
+.
+Print
+Correct this page
+Disclaimer & Copyright
+Share this page:
+×
+What's wrong with this page?
+How we can improve this page?
+If you'd like us to get back to you, please enter your email address.
+Thank you for your feedback, your message has been sent.
+Close
+Send your feedback

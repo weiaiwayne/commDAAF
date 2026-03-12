@@ -1,0 +1,96 @@
+Title: Statistics Amendment Bill: StatsSA briefing; with Deputy Minister
+Date: 22 Sep 2023
+Committee: 
+URL: https://pmg.org.za/committee-meeting/37575/
+============================================================
+
+Meeting Summary
+Video
+The Portfolio Committee was informed by Statistics South Africa (StatsSA) in a virtual meeting that the Statistics Act No.6 of 1999 had to be amended due to a conflict with South African domestic laws. They had conducted study tours and made a comparative analysis of statistical legislation in countries like Mexico to ascertain how other national statistical systems were organised, and had begun the process of approving the bill in 2022. The bill was currently awaiting being processed in Parliament.
+The Committee was not impressed by the ten-year plan introduced for the census programme, as they felt that such a long time gap would hinder accurate planning for the future. Another contentious issue was that the race classification used by StatsSA was different from the one used in government documents, like the Z83 form, and a Member found this concerning because it was not in accordance with the rule of law, which indicated the way the races would be classified. They noted the Statistician-General's stated independence, but argued that this did not mean he could overrule Parliament, especially in matters laid down in the Constitution.
+Meeting report
+The Chairperson welcomed all the attendees to the meeting and commenced the meeting. An apology was received from Mr J McGluwa (DA) and Minister Maropene Ramokgopa.
+Statistics Amendment Bill presentation
+Mr Risenga Maluleke, Statistician-General, StatsSA, said that consultations between organs of the state and other relevant organs had been necessary to facilitate the development of the series of data collections needed to monitor the implementation of the national development plan (NDP). The consultations had revealed that StatsSA should focus on addressing the data revolution, statistical geography, coordination and compliance, state-wide statistical services, and institutional arrangements and protocols as their focal points.
+When the StatsSA laws were compared to the South African domestic laws, 22 were in conflict in respect to data privacy and data access. The amendments made to the Stats Act No.6 of 1999 were made to:
+Delete, substitute, and insert new definitions.
+Make provisions dealing with the power and duties of the Statistician General (SG).
+Empower the Minister to make regulations.
+Make provision for the establishment of statistic units by organs of state, and the submission by them of annual statistical plans and reports.
+The amended bill would retain the current configuration, serve the coordination needs of the national statistics system, and did not introduce a new body to administer the act. Cabinet had approved the bill and was waiting to be processed by Parliament.
+See attached for full presentation
+Discussion
+Mr M Manyi (EFF) commended the SG for his professionalism. He asked why StatsSA did not use the same categorisation of races like the line departments, commenting that all government departments should use a uniform system of classification. He noted his dissatisfaction at the proposal to conduct the census every ten years instead of five, pointing out the risks of doing so and how it would be a disadvantage to the planning process of government, especially in respect of planning for an unknown number of people.
+Mr K Pillay (ANC) asked if the bill would be completed before this term of Parliament ended. He urged that it be processed with speed, as it would be a recognised achievement for Parliament. He was concerned about the release of statistics after a census had been conducted, as the time of release was very close to the conduct of the next census, and that disrupted government planning. He asked how much data had been collected in the last census, and how they ensured that houses were enumerated when conducting an electronic census. Were the norms of other countries being studied in respect of using the ten-year plan for the census, to ensure that the move was going to be effective?
+Mr Z Mbhele (DA) raised his concerns about the context in which the amendments would operate, considering that the upcoming medium term budget policy statement (MTBPS) was about to be presented by the finance minister. He asked if StatsSA had thought about the operational risks that the changes in the amendment bill would bring, considering their past struggles with the loss of skilled staff and financial constraints, where various surveys had had to be put on hold. Had they thought about ways to mitigate the foreseeable risks to avoid past challenges?
+Ms C Phiri (ANC) asked how StatsSA could produce accurate reports with the help of artificial intelligence (AI), ensuring that they could assist the government with its planning for the future. Were the government systems synchronised so that they were updated when there was a newborn anywhere in the country? What was the current reach of StatsSA in harvesting digital data from various data resources, and what were the AI implications? What parameters existed for the Minister to determine the statistical needs for the nation, and what resources were required for Parliament to process the bill? She asked what the current situation on the capacity and capabilities of state organs was.
+StatsSA's response
+Mr Maluleke said that because there had been no specification of race in the population register in the 90s, they had had to do a consultation in the 1996 census and had established that different people in the same ethnic group would prefer to be classified differently, bringing about confusion as to how they should be classified. StatsSA recognised this was a national debate, but it would continue using the Black African, Coloured, Indian, Asian, and White classification.
+He noted that they were already conducting the census within the ten-year principle, and even if they wanted to go back to the five-year principle, they did not have enough funds to do so. They had put together an inter-census large-scale sample survey, called the 'community survey,' to provide population and household statistics at the municipal level to the government and private sector in order to support planning and decision-making. He was confident that with the population estimates they released annually, the planning would not be affected.
+The standard time to process census results internationally was about two years, because they needed to conduct a post-enumeration survey to ensure that they did not recount people or missed anyone.
+Mr Maluleke said that during the count, they include foreign immigrants because they use the country’s resources while they were within the borders.
+He could not share how much data had been collected before he released the report -- he could not even share it with the President -- because he had to be independent at all times. However, he gave the Committee advance warning that he would share it on 10 October at 3pm.
+When they had to conduct a census in 2020, they had used computer-assisted personal, telephone and web interviews. They had had challenges with the computer- assisted telephones and web interviews because not everyone had access to the methods, and the data captured from these methods had been low. There had also been delays caused by challenges in areas like the Western Cape where in Cape Town, the white people did not want to give access to census staff members of other races, and some staff members were afraid to go to areas like Khayelitsha because of its crime rate.
+The post-enumeration survey had been completed. The Council had been interacting with StatsSA, advising them about the limitations of the census programme, and would issue a statement to the nation about the various data units. The last Council meeting would take place on 29 September, and the SG would continue releasing the data, along with the limitations, and hoped that the data would stand the test of time.
+StatsSA had been alerted about the cut in funding, but they would try to prioritise national indicators like the gross domestic product (GDP), consumer price index (CPI), and the Quarterly Labour Force Survey, and would inform Parliament about the statistics they could not produce because of a lack of funding. He said that having sponsors did not benefit the partnerships, and in cases where there were benefits, there were conditions that hindered the independence of the SG.
+StatsSA received data about births and deaths from the Department of Home Affairs (DHA), and non-recorded births were picked up when doing the sample surveys. However, this was not enough because they had to capacitate their department and other connected state departments with artificial intelligence, deep learning, and machine learning.
+He added that bills did not need to have resources attached to them, but the processing of the bills guaranteed that they would protect the basic indicators in the entire system of the national statistics.
+Follow-up discussion
+Mr Manyi commented that he rejected the ‘Black African’ classification, as the normal classification of the government and the rule of law did not have that term, and the SG could not go around making up terms based on information from random people. He argued that it was not prudent that the ten-year plan should be implemented, and as National Treasury could cut a certain percentage from different departments to meet the financial needs of other departments, they should prioritise doing so for StatsSA, as the planning issue was urgent.
+Ms Phiri said that considering that the SG was already implementing the ten-year plan, Parliament did not have the luxury of changing the time frames, so she was expecting to receive a report on how accurate the plan would be in assisting Parliament to plan. She was also not happy with how the SG had answered the question about the resources needed to process the bill.
+The Chairperson said it would benefit StatsSA and the Committee to discuss the race classification so that both parties could reach common ground. He asked the SG to elaborate on the intermediaries that they contract before they conduct an official census consultation.
+StatsSA's response
+Mr Maluleke said that all the comments were taken seriously, adding that planning had been ongoing between 2011 and 2021, and there was enough data. With all the 250 to 270 products they covered, the census remains the most prominent one as it helps them get a sampling frame. However, previous experience showed that when National Treasury said they did not have money, there was nothing more they could do. That was why the income and expenditure survey was last conducted in 2013/2014, because they did not have enough money to update the report.
+He said that the race classification matter was an emotive one, and they chose to enumerate the members of the public using their preferred classification.
+StatsSA remained independent and would operate according to international best practice without any influence from Parliament, Ministers, or the President. They would continue to engage on the matter of resources, as the Committee had to approve their work programme early next year so that they could report their achievements. He commented that all that was done by him was out of respect and humility. He did not want the Committee to start on the wrong footing with StatsSA, but he had to keep his independence as SG.
+Mr Kenneth Morolong, Deputy Minister in the Presidency, said that the race classification was an ongoing debate and suggested they should agree on the views expressed by Members, and adopt them for future use.
+The identified weaknesses in the act had led to the amendments, as informed by best international practice, where the most popular countries in the world conducted their census every ten years. Minister Morolong agreed that the bill should be processed within the current administration, and that the completion was in Parliament’s hands. He suggested that there should be a session where StatsSA presents all their products to guide the continued engagement of the Department and the Committee.
+The Chairperson commented that this Committee was new. They intended to take their jobs seriously and maintain a good working relationship with StatsSA, as they had been sidelined in the past. They wanted to make use of the information from the StatsSA reports for the betterment of the country and its citizens. He agreed to convening a session where they could get to know about each of their products and could keep track of their processes. It should be clear that they accounted to the Committee, and the SG’s independence did not exempt them from engaging with the entity's annual reports and BRRR processes.
+Mr Julius Ngoepe, Committee Content Advisor, said a programme had been drafted and an advertisement was to be shared with the Members of the Committee. They were waiting for the certification of the bill from the state law advisors, and this meeting was for StatsSA to introduce the bill. In the next quarter, the Committee would be focused on dealing with legislation, and it was hoped that by the end of November, they would have concluded the Committee processes to complete the process.
+The meeting was adjourned.
+Follow this committee
+Follow this committee and get
+free email alerts
+whenever we get new information about it.
+Write to this committee
+Audio
+No related
+Documents
+Stats SA: Statistics A/B Presentation
+Present
+Dyantyi, Mr QR
+Chairperson
+ANC
+Graham-Maré, Ms SJ
+DA
+Manyi, Mr M
+MKP
+Mbhele, Mr ZN
+DA
+Morolong, Mr IK
+ANC
+Mothapo, Adv MR
+ANC
+Phiri, Ms CM
+ANC
+Pillay, Mr KB
+ANC
+Yabo, Mr BS
+ANC
+Download as PDF
+You can download this page as a PDF using your browser's print functionality.
+          Click on the "Print" button below and select the "PDF" option under destinations/printers.
+See detailed instructions for your browser
+here
+.
+Print
+Correct this page
+Disclaimer & Copyright
+Share this page:
+×
+What's wrong with this page?
+How we can improve this page?
+If you'd like us to get back to you, please enter your email address.
+Thank you for your feedback, your message has been sent.
+Close
+Send your feedback
