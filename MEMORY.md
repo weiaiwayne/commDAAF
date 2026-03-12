@@ -21,6 +21,81 @@
 
 ---
 
+## Congressional AI Framing Study (Mar 2026)
+
+### Overview
+Exploratory study analyzing how AI is framed in U.S. congressional hearings using CommDAAF multi-model validation.
+
+### Data Location
+```
+/root/.openclaw/workspace/projects/congressional-ai-framing/
+├── DATA_MANIFEST.md             # Full data documentation
+├── STUDY_DESIGN.md              # Research design
+├── data/
+│   ├── transcripts/             # 561 hearing transcripts (117MB)
+│   └── pilot_batch_25.json      # Pilot sample
+├── prompts/
+│   └── commdaaf_v1.0.md         # Coding scheme (8 frames)
+└── outputs/claude/              # Claude coding results
+```
+
+### Data Source
+- **API**: GovInfo (api.govinfo.gov)
+- **Collection**: CHRG (Congressional Hearings)
+- **Query**: `"artificial intelligence" collection:CHRG`
+- **API Key**: data.gov key (Wayne's)
+- **Total Available**: 1,754 AI-related hearings
+
+### Coding Scheme (8 Frames)
+| Frame | Definition |
+|-------|------------|
+| INNOVATION | Economic opportunity, competitiveness |
+| RISK_SAFETY | Existential/catastrophic threats |
+| RISK_HARM | Concrete harms (children, users) |
+| RISK_ECONOMIC | Job loss, inequality |
+| GOVERNANCE | Regulatory approaches |
+| SOVEREIGNTY | National security, China competition |
+| RIGHTS | Privacy, discrimination |
+| TECHNICAL | Scientific explanations |
+
+### Pilot Results (Claude, N=25)
+- **Valid AI hearings**: 9 (36%)
+- **False positives**: 16 (64%) ⚠️
+- **Frame distribution** (valid only):
+  - SOVEREIGNTY: 56%
+  - GOVERNANCE: 22%
+  - RISK_HARM: 22%
+
+### Key Issue
+Search returns hearings that *mention* AI, not hearings *about* AI. Need filtering step.
+
+### Quick Data Retrieval
+```python
+from pathlib import Path
+import json
+
+DATA = Path("/root/.openclaw/workspace/projects/congressional-ai-framing/data")
+
+# Load pilot batch
+with open(DATA / "pilot_batch_25.json") as f:
+    pilot = json.load(f)
+
+# Load Claude results
+with open(DATA.parent / "outputs/claude/pilot_25_claude.json") as f:
+    results = json.load(f)
+```
+
+### Status
+- [x] Data collection (561 transcripts)
+- [x] CommDAAF prompt v1.0
+- [x] Claude pilot coding
+- [ ] GLM pilot coding
+- [ ] Kimi pilot coding
+- [ ] Filter false positives
+- [ ] Full sample coding
+
+---
+
 ## GLM Model Configuration (Mar 2026)
 
 ### ⚠️ ALWAYS USE OPENCODE FOR GLM ⚠️
