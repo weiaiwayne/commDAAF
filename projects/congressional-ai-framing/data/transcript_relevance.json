@@ -1,0 +1,5612 @@
+[
+  {
+    "id": "CHRG-118shrg59704",
+    "title": "Unknown",
+    "strong_ai_mentions": 575,
+    "moderate_ai_mentions": 1446,
+    "total_words": 55471,
+    "ai_density": 46.8,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-115shrg37295",
+    "title": "Unknown",
+    "strong_ai_mentions": 361,
+    "moderate_ai_mentions": 1202,
+    "total_words": 54555,
+    "ai_density": 35.27,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg62427",
+    "title": "Unknown",
+    "strong_ai_mentions": 312,
+    "moderate_ai_mentions": 1967,
+    "total_words": 75422,
+    "ai_density": 34.35,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-117shrg59763",
+    "title": "Unknown",
+    "strong_ai_mentions": 180,
+    "moderate_ai_mentions": 499,
+    "total_words": 25558,
+    "ai_density": 33.61,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg53782",
+    "title": "Unknown",
+    "strong_ai_mentions": 178,
+    "moderate_ai_mentions": 422,
+    "total_words": 23561,
+    "ai_density": 33.02,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-117hhrg46195",
+    "title": "Unknown",
+    "strong_ai_mentions": 74,
+    "moderate_ai_mentions": 281,
+    "total_words": 13047,
+    "ai_density": 32.88,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg54392",
+    "title": "WHITE HOUSE POLICY ON AI",
+    "strong_ai_mentions": 78,
+    "moderate_ai_mentions": 310,
+    "total_words": 14411,
+    "ai_density": 32.34,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-114shrg24175",
+    "title": "Unknown",
+    "strong_ai_mentions": 244,
+    "moderate_ai_mentions": 588,
+    "total_words": 33540,
+    "ai_density": 32.08,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg56783",
+    "title": "Unknown",
+    "strong_ai_mentions": 202,
+    "moderate_ai_mentions": 764,
+    "total_words": 36708,
+    "ai_density": 31.82,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg54522",
+    "title": "Unknown",
+    "strong_ai_mentions": 175,
+    "moderate_ai_mentions": 966,
+    "total_words": 42413,
+    "ai_density": 31.03,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-116hhrg36796",
+    "title": "Unknown",
+    "strong_ai_mentions": 130,
+    "moderate_ai_mentions": 373,
+    "total_words": 21135,
+    "ai_density": 29.95,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg53382",
+    "title": "Unknown",
+    "strong_ai_mentions": 52,
+    "moderate_ai_mentions": 221,
+    "total_words": 10992,
+    "ai_density": 29.57,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-116shrg46003",
+    "title": "Unknown",
+    "strong_ai_mentions": 128,
+    "moderate_ai_mentions": 568,
+    "total_words": 28318,
+    "ai_density": 29.1,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg57363",
+    "title": "Unknown",
+    "strong_ai_mentions": 118,
+    "moderate_ai_mentions": 304,
+    "total_words": 18661,
+    "ai_density": 28.94,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg58784",
+    "title": "Unknown",
+    "strong_ai_mentions": 272,
+    "moderate_ai_mentions": 1016,
+    "total_words": 53920,
+    "ai_density": 28.93,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg55804",
+    "title": "Unknown",
+    "strong_ai_mentions": 105,
+    "moderate_ai_mentions": 404,
+    "total_words": 21799,
+    "ai_density": 28.17,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg61916",
+    "title": "ADVANCING VA CARE THROUGH ARTIFICIAL INTELLIGENCE",
+    "strong_ai_mentions": 110,
+    "moderate_ai_mentions": 274,
+    "total_words": 17887,
+    "ai_density": 27.62,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg61916",
+    "title": "Unknown",
+    "strong_ai_mentions": 110,
+    "moderate_ai_mentions": 274,
+    "total_words": 17887,
+    "ai_density": 27.62,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-117hhrg48617",
+    "title": "Unknown",
+    "strong_ai_mentions": 121,
+    "moderate_ai_mentions": 305,
+    "total_words": 19832,
+    "ai_density": 27.58,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg61951",
+    "title": "Unknown",
+    "strong_ai_mentions": 326,
+    "moderate_ai_mentions": 514,
+    "total_words": 42521,
+    "ai_density": 27.42,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg57256",
+    "title": "READING THE ROOM: PREPARING WORKERS FOR AI",
+    "strong_ai_mentions": 89,
+    "moderate_ai_mentions": 599,
+    "total_words": 28754,
+    "ai_density": 27.02,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg54521",
+    "title": "Unknown",
+    "strong_ai_mentions": 107,
+    "moderate_ai_mentions": 675,
+    "total_words": 33018,
+    "ai_density": 26.92,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg61871",
+    "title": "THE NEED TO PROTECT AMERICANS' PRIVACY AND THE AI ACCELERANT",
+    "strong_ai_mentions": 274,
+    "moderate_ai_mentions": 825,
+    "total_words": 51048,
+    "ai_density": 26.9,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg54071",
+    "title": "ADVANCES IN DEEPFAKE TECHNOLOGY",
+    "strong_ai_mentions": 101,
+    "moderate_ai_mentions": 72,
+    "total_words": 10469,
+    "ai_density": 26.17,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg53627",
+    "title": "Unknown",
+    "strong_ai_mentions": 103,
+    "moderate_ai_mentions": 230,
+    "total_words": 16705,
+    "ai_density": 26.1,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg52785",
+    "title": "Unknown",
+    "strong_ai_mentions": 74,
+    "moderate_ai_mentions": 346,
+    "total_words": 19015,
+    "ai_density": 25.98,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg54724",
+    "title": "FEDERAL SCIENCE AGENCIES AND THE PROMISE OF AI IN DRIVING SCIENTIFIC DISCOVERIES",
+    "strong_ai_mentions": 126,
+    "moderate_ai_mentions": 462,
+    "total_words": 28329,
+    "ai_density": 25.2,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg52499",
+    "title": "Unknown",
+    "strong_ai_mentions": 125,
+    "moderate_ai_mentions": 324,
+    "total_words": 22818,
+    "ai_density": 25.16,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg61182",
+    "title": "ARTIFICIAL INTELLIGENCE AND CRIMINAL EXPLOITATION: A NEW ERA OF RISK",
+    "strong_ai_mentions": 74,
+    "moderate_ai_mentions": 186,
+    "total_words": 13298,
+    "ai_density": 25.12,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg61182",
+    "title": "Unknown",
+    "strong_ai_mentions": 74,
+    "moderate_ai_mentions": 186,
+    "total_words": 13298,
+    "ai_density": 25.12,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg52483",
+    "title": "Unknown",
+    "strong_ai_mentions": 89,
+    "moderate_ai_mentions": 237,
+    "total_words": 16670,
+    "ai_density": 24.9,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg54784",
+    "title": "Unknown",
+    "strong_ai_mentions": 72,
+    "moderate_ai_mentions": 247,
+    "total_words": 16154,
+    "ai_density": 24.2,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg55186",
+    "title": "Unknown",
+    "strong_ai_mentions": 97,
+    "moderate_ai_mentions": 455,
+    "total_words": 26938,
+    "ai_density": 24.09,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg53115",
+    "title": "Unknown",
+    "strong_ai_mentions": 65,
+    "moderate_ai_mentions": 272,
+    "total_words": 16748,
+    "ai_density": 24.0,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-115hhrg30296",
+    "title": "Unknown",
+    "strong_ai_mentions": 63,
+    "moderate_ai_mentions": 235,
+    "total_words": 15265,
+    "ai_density": 23.65,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg54927",
+    "title": "Unknown",
+    "strong_ai_mentions": 55,
+    "moderate_ai_mentions": 264,
+    "total_words": 15956,
+    "ai_density": 23.44,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg60389",
+    "title": "Unknown",
+    "strong_ai_mentions": 72,
+    "moderate_ai_mentions": 286,
+    "total_words": 18540,
+    "ai_density": 23.19,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg54570",
+    "title": "TOWARD AN AI-READY WORKFORCE",
+    "strong_ai_mentions": 33,
+    "moderate_ai_mentions": 231,
+    "total_words": 12938,
+    "ai_density": 22.96,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg55220",
+    "title": "WHITE HOUSE OVERREACH ON AI",
+    "strong_ai_mentions": 68,
+    "moderate_ai_mentions": 222,
+    "total_words": 15629,
+    "ai_density": 22.91,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg60631",
+    "title": "Unknown",
+    "strong_ai_mentions": 116,
+    "moderate_ai_mentions": 370,
+    "total_words": 26291,
+    "ai_density": 22.9,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg58917",
+    "title": "OVERSIGHT OF AI: ELECTION DEEPFAKES",
+    "strong_ai_mentions": 126,
+    "moderate_ai_mentions": 92,
+    "total_words": 15458,
+    "ai_density": 22.25,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg53707",
+    "title": "GOVERNING AI THROUGH ACQUISITION AND PROCUREMENT",
+    "strong_ai_mentions": 76,
+    "moderate_ai_mentions": 308,
+    "total_words": 20730,
+    "ai_density": 22.19,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg52318",
+    "title": "Unknown",
+    "strong_ai_mentions": 139,
+    "moderate_ai_mentions": 256,
+    "total_words": 24751,
+    "ai_density": 21.57,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg53116",
+    "title": "Unknown",
+    "strong_ai_mentions": 86,
+    "moderate_ai_mentions": 186,
+    "total_words": 16979,
+    "ai_density": 21.08,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg59906",
+    "title": "ARTIFICIAL INTELLIGENCE: EXAMINING TRENDS IN INNOVATION AND COMPETITION",
+    "strong_ai_mentions": 63,
+    "moderate_ai_mentions": 255,
+    "total_words": 18103,
+    "ai_density": 21.05,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg59906",
+    "title": "Unknown",
+    "strong_ai_mentions": 63,
+    "moderate_ai_mentions": 255,
+    "total_words": 18103,
+    "ai_density": 21.05,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-115hhrg30877",
+    "title": "Unknown",
+    "strong_ai_mentions": 71,
+    "moderate_ai_mentions": 228,
+    "total_words": 17740,
+    "ai_density": 20.86,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg53503",
+    "title": "OVERSIGHT OF A.I.: PRINCIPLES FOR REGULATION",
+    "strong_ai_mentions": 118,
+    "moderate_ai_mentions": 184,
+    "total_words": 20516,
+    "ai_density": 20.47,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg61734",
+    "title": "Unknown",
+    "strong_ai_mentions": 36,
+    "moderate_ai_mentions": 239,
+    "total_words": 15504,
+    "ai_density": 20.06,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-115hhrg34978",
+    "title": "Unknown",
+    "strong_ai_mentions": 35,
+    "moderate_ai_mentions": 148,
+    "total_words": 10880,
+    "ai_density": 20.04,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg60318",
+    "title": "PROTECTING OUR EDGE: TRADE SECRETS AND THE GLOBAL AI ARMS RACE",
+    "strong_ai_mentions": 71,
+    "moderate_ai_mentions": 195,
+    "total_words": 17262,
+    "ai_density": 19.52,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg61690",
+    "title": "AI AT A CROSSROADS: A NATIONWIDE STRATEGY OR CALIFORNICATION?",
+    "strong_ai_mentions": 70,
+    "moderate_ai_mentions": 251,
+    "total_words": 20150,
+    "ai_density": 19.4,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg54677",
+    "title": "Unknown",
+    "strong_ai_mentions": 25,
+    "moderate_ai_mentions": 119,
+    "total_words": 8781,
+    "ai_density": 19.25,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg60730",
+    "title": "AI IN THE EVERYDAY: CURRENT APPLICATIONS ANDFUTURE FRONTIERS IN COMMUNICATIONS AND TECHNOLOGY",
+    "strong_ai_mentions": 59,
+    "moderate_ai_mentions": 427,
+    "total_words": 28561,
+    "ai_density": 19.08,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118jhrg56240",
+    "title": "Unknown",
+    "strong_ai_mentions": 44,
+    "moderate_ai_mentions": 170,
+    "total_words": 13632,
+    "ai_density": 18.93,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg53996",
+    "title": "THE PHILOSOPHY OF AI: LEARNING FROM HISTORY, SHAPING OUR FUTURE",
+    "strong_ai_mentions": 44,
+    "moderate_ai_mentions": 252,
+    "total_words": 17986,
+    "ai_density": 18.9,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119shrg62328",
+    "title": "EXAMINING THE HARM OF AI CHATBOTS",
+    "strong_ai_mentions": 43,
+    "moderate_ai_mentions": 226,
+    "total_words": 16570,
+    "ai_density": 18.83,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg55378",
+    "title": "Unknown",
+    "strong_ai_mentions": 55,
+    "moderate_ai_mentions": 226,
+    "total_words": 17939,
+    "ai_density": 18.73,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119shrg60836",
+    "title": "HARNESSING ARTIFICIAL INTELLIGENCE CYBER CAPABILITIES",
+    "strong_ai_mentions": 31,
+    "moderate_ai_mentions": 124,
+    "total_words": 10269,
+    "ai_density": 18.11,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119shrg60836",
+    "title": "Unknown",
+    "strong_ai_mentions": 31,
+    "moderate_ai_mentions": 124,
+    "total_words": 10269,
+    "ai_density": 18.11,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-115hhrg31118",
+    "title": "Unknown",
+    "strong_ai_mentions": 64,
+    "moderate_ai_mentions": 182,
+    "total_words": 17141,
+    "ai_density": 18.09,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-115hhrg30297",
+    "title": "Unknown",
+    "strong_ai_mentions": 33,
+    "moderate_ai_mentions": 141,
+    "total_words": 11472,
+    "ai_density": 18.04,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg52709",
+    "title": "Unknown",
+    "strong_ai_mentions": 67,
+    "moderate_ai_mentions": 155,
+    "total_words": 16094,
+    "ai_density": 17.96,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-116hhrg39737",
+    "title": "Unknown",
+    "strong_ai_mentions": 81,
+    "moderate_ai_mentions": 121,
+    "total_words": 15991,
+    "ai_density": 17.7,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119shrg61891",
+    "title": "TOO BIG TO PROSECUTE?: EXAMINING THE AI INDUSTRY'S MASS INGESTION OF COPYRIGHTED WORKS FOR AI TRAINING",
+    "strong_ai_mentions": 71,
+    "moderate_ai_mentions": 117,
+    "total_words": 14855,
+    "ai_density": 17.44,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg55181",
+    "title": "ADDRESSING REAL HARM DONE BY DEEPFAKES",
+    "strong_ai_mentions": 104,
+    "moderate_ai_mentions": 59,
+    "total_words": 15405,
+    "ai_density": 17.33,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg52706",
+    "title": "Unknown",
+    "strong_ai_mentions": 151,
+    "moderate_ai_mentions": 207,
+    "total_words": 29876,
+    "ai_density": 17.04,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg57061",
+    "title": "OVERSIGHT OF A.I.: THE FUTURE OF JOURNALISM",
+    "strong_ai_mentions": 64,
+    "moderate_ai_mentions": 118,
+    "total_words": 15276,
+    "ai_density": 16.1,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg53570",
+    "title": "Unknown",
+    "strong_ai_mentions": 78,
+    "moderate_ai_mentions": 179,
+    "total_words": 21054,
+    "ai_density": 15.91,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg53708",
+    "title": "ADVANCED TECHNOLOGY: EXAMINING THREATS TO NATIONAL SECURITY",
+    "strong_ai_mentions": 55,
+    "moderate_ai_mentions": 134,
+    "total_words": 15443,
+    "ai_density": 15.8,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg60818",
+    "title": "THE FEDERAL GOVERNMENT IN THE AGE OF ARTIFICIAL INTELLIGENCE",
+    "strong_ai_mentions": 77,
+    "moderate_ai_mentions": 480,
+    "total_words": 40171,
+    "ai_density": 15.78,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg60818",
+    "title": "Unknown",
+    "strong_ai_mentions": 77,
+    "moderate_ai_mentions": 480,
+    "total_words": 40171,
+    "ai_density": 15.78,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg53827",
+    "title": "IP AND STRATEGIC COMPETITION WITH CHINA: PART III--IP THEFT, CYBERSECURITY, AND AI",
+    "strong_ai_mentions": 67,
+    "moderate_ai_mentions": 150,
+    "total_words": 18008,
+    "ai_density": 15.77,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg53879",
+    "title": "Unknown",
+    "strong_ai_mentions": 75,
+    "moderate_ai_mentions": 195,
+    "total_words": 22438,
+    "ai_density": 15.38,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg53678",
+    "title": "AI AND THE FUTURE OF OUR ELECTIONS",
+    "strong_ai_mentions": 50,
+    "moderate_ai_mentions": 165,
+    "total_words": 17482,
+    "ai_density": 15.16,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-116hhrg42135",
+    "title": "Unknown",
+    "strong_ai_mentions": 34,
+    "moderate_ai_mentions": 184,
+    "total_words": 17124,
+    "ai_density": 14.72,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg55571",
+    "title": "Unknown",
+    "strong_ai_mentions": 51,
+    "moderate_ai_mentions": 187,
+    "total_words": 20199,
+    "ai_density": 14.31,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg58370",
+    "title": "AI IN CRIMINAL INVESTIGATIONS AND PROSECUTIONS",
+    "strong_ai_mentions": 40,
+    "moderate_ai_mentions": 142,
+    "total_words": 15520,
+    "ai_density": 14.3,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-116hhrg42322",
+    "title": "Unknown",
+    "strong_ai_mentions": 40,
+    "moderate_ai_mentions": 238,
+    "total_words": 22970,
+    "ai_density": 13.84,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-116hhrg38781",
+    "title": "Unknown",
+    "strong_ai_mentions": 92,
+    "moderate_ai_mentions": 160,
+    "total_words": 24900,
+    "ai_density": 13.82,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg54718",
+    "title": "HARNESSING AI TO IMPROVE GOVERNMENT SERVICES AND CUSTOMER EXPERIENCE",
+    "strong_ai_mentions": 17,
+    "moderate_ai_mentions": 146,
+    "total_words": 13084,
+    "ai_density": 13.76,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg56338",
+    "title": "Unknown",
+    "strong_ai_mentions": 41,
+    "moderate_ai_mentions": 159,
+    "total_words": 17684,
+    "ai_density": 13.63,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg60129",
+    "title": "CONVERTING ENERGY INTO INTELLIGENCE: THE FUTURE OF AI TECHNOLOGY, HUMAN DISCOVERY, AND AMERICAN GLOBAL COMPETITIVENESS",
+    "strong_ai_mentions": 77,
+    "moderate_ai_mentions": 489,
+    "total_words": 48097,
+    "ai_density": 13.37,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg54250",
+    "title": "Unknown",
+    "strong_ai_mentions": 34,
+    "moderate_ai_mentions": 123,
+    "total_words": 14304,
+    "ai_density": 13.35,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-116hhrg37740",
+    "title": "Unknown",
+    "strong_ai_mentions": 38,
+    "moderate_ai_mentions": 99,
+    "total_words": 14387,
+    "ai_density": 12.16,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg59655",
+    "title": "AI IN MANUFACTURING: SECURING AMERICAN LEADERSHIP IN MANUFACTURING AND THE NEXT GENERATION OF TECHNOLOGIES",
+    "strong_ai_mentions": 34,
+    "moderate_ai_mentions": 281,
+    "total_words": 28809,
+    "ai_density": 12.11,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-117hhrg44410",
+    "title": "Unknown",
+    "strong_ai_mentions": 50,
+    "moderate_ai_mentions": 209,
+    "total_words": 25811,
+    "ai_density": 11.97,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg60025",
+    "title": "AMERICA'S AI MOONSHOT: THE ECONOMICS OF AI, DATA CENTERS, AND POWER CONSUMPTION",
+    "strong_ai_mentions": 22,
+    "moderate_ai_mentions": 113,
+    "total_words": 14820,
+    "ai_density": 10.59,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg52826",
+    "title": "USING CUTTING-EDGE TECHNOLOGIES. TO KEEP AMERICA SAFE",
+    "strong_ai_mentions": 16,
+    "moderate_ai_mentions": 87,
+    "total_words": 11409,
+    "ai_density": 10.43,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg56727",
+    "title": "THE DEPARTMENT OF ENERGY'S LEAD ROLE IN CONDUCTING ADVANCED COMPUTING RESEARCH, APPLICATION, AND SECURITY",
+    "strong_ai_mentions": 44,
+    "moderate_ai_mentions": 118,
+    "total_words": 19839,
+    "ai_density": 10.38,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg54845",
+    "title": "Unknown",
+    "strong_ai_mentions": 33,
+    "moderate_ai_mentions": 134,
+    "total_words": 19627,
+    "ai_density": 10.19,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg53722",
+    "title": "OVERSIGHT OF THE U.S. COPYRIGHT OFFICE",
+    "strong_ai_mentions": 35,
+    "moderate_ai_mentions": 105,
+    "total_words": 17281,
+    "ai_density": 10.13,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119shrg62169",
+    "title": "NOMINATION OF MICHAEL KRATSIOS, NOMINEE TO BE DIRECTOR, OFFICE OF SCIENCE AND TECHNOLOGY POLICY; AND MARK MEADOR, NOMINEE TO BE A COMMISSIONER, FEDERAL TRADE COMMISSION",
+    "strong_ai_mentions": 124,
+    "moderate_ai_mentions": 309,
+    "total_words": 55416,
+    "ai_density": 10.05,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg55930",
+    "title": "IOWA: A LEADER IN VETERAN HEALTHCARE INNOVATION",
+    "strong_ai_mentions": 28,
+    "moderate_ai_mentions": 63,
+    "total_words": 13434,
+    "ai_density": 8.86,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg53915",
+    "title": "CONTENTS",
+    "strong_ai_mentions": 153,
+    "moderate_ai_mentions": 392,
+    "total_words": 79840,
+    "ai_density": 8.74,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg60822",
+    "title": "GLOBAL SECURITY CHALLENGES AND UNITED STATES STRATEGY",
+    "strong_ai_mentions": 40,
+    "moderate_ai_mentions": 84,
+    "total_words": 18972,
+    "ai_density": 8.64,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-117hhrg48653",
+    "title": "Unknown",
+    "strong_ai_mentions": 16,
+    "moderate_ai_mentions": 46,
+    "total_words": 9492,
+    "ai_density": 8.22,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg62202",
+    "title": "Unknown",
+    "strong_ai_mentions": 17,
+    "moderate_ai_mentions": 86,
+    "total_words": 15516,
+    "ai_density": 7.73,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg54719",
+    "title": "THE CYBER SAFETY REVIEW BOARD: EXPECTATIONS, OUTCOMES, AND ENDURING QUESTIONS",
+    "strong_ai_mentions": 10,
+    "moderate_ai_mentions": 65,
+    "total_words": 11179,
+    "ai_density": 7.6,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg56900",
+    "title": "THE TECHNOLOGY AND AI FIGHT FOR 21ST-CENTURY OPERATIONS IN THE DEPARTMENT OF DEFENSE",
+    "strong_ai_mentions": 16,
+    "moderate_ai_mentions": 62,
+    "total_words": 12575,
+    "ai_density": 7.48,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg52833",
+    "title": "MEMBERS' DAY HEARING: HOUSE COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY",
+    "strong_ai_mentions": 9,
+    "moderate_ai_mentions": 10,
+    "total_words": 3951,
+    "ai_density": 7.09,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119shrg61986",
+    "title": "DEPARTMENT OF DEFENSE AUTHORIZATION FOR APPROPRIATIONS FOR FISCAL YEAR 2026 AND THE FUTURE YEARS DEFENSE PROGRAM",
+    "strong_ai_mentions": 20,
+    "moderate_ai_mentions": 25,
+    "total_words": 9306,
+    "ai_density": 6.98,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg56573",
+    "title": "THE U.S. COPYRIGHT OFFICE: CUSTOMERS, COMMUNITIES, AND MODERNIZATION EF- FORTS",
+    "strong_ai_mentions": 17,
+    "moderate_ai_mentions": 57,
+    "total_words": 13114,
+    "ai_density": 6.94,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg61340",
+    "title": "INNOVATION NATION: LEVERAGING TECHNOLOGY TO SECURE CYBER SPACE AND STREAMLINE COMPLIANCE",
+    "strong_ai_mentions": 16,
+    "moderate_ai_mentions": 144,
+    "total_words": 25734,
+    "ai_density": 6.84,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg57372",
+    "title": "Unknown",
+    "strong_ai_mentions": 13,
+    "moderate_ai_mentions": 41,
+    "total_words": 11332,
+    "ai_density": 5.91,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg62435",
+    "title": "CURBING FEDERAL FRAUD: EXAMINING INNOVATIVE TOOLS TO DETECT AND PREVENT FRAUD IN FEDERAL PROGRAMS",
+    "strong_ai_mentions": 22,
+    "moderate_ai_mentions": 44,
+    "total_words": 16748,
+    "ai_density": 5.25,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg52381",
+    "title": "Unknown",
+    "strong_ai_mentions": 15,
+    "moderate_ai_mentions": 54,
+    "total_words": 16206,
+    "ai_density": 5.18,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg54869",
+    "title": "HEARING ON THE WEAPONIZATION OF THE FEDERAL GOVERNMENT",
+    "strong_ai_mentions": 25,
+    "moderate_ai_mentions": 80,
+    "total_words": 25732,
+    "ai_density": 5.05,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg62182",
+    "title": "USING MODERN TOOLS TO COUNTER HUMAN TRAFFICKING",
+    "strong_ai_mentions": 18,
+    "moderate_ai_mentions": 14,
+    "total_words": 9967,
+    "ai_density": 5.02,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-110hhrg41366",
+    "title": "Unknown",
+    "strong_ai_mentions": 61,
+    "moderate_ai_mentions": 161,
+    "total_words": 56389,
+    "ai_density": 5.02,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg60816",
+    "title": "PREPARING FOR THE QUANTUM AGE: WHEN CRYPTOGRAPHY BREAKS",
+    "strong_ai_mentions": 10,
+    "moderate_ai_mentions": 38,
+    "total_words": 11837,
+    "ai_density": 4.9,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg59423",
+    "title": "FINDING 500,000: ADDRESSING AMERICA'S CYBER WORKFORCE GAP",
+    "strong_ai_mentions": 32,
+    "moderate_ai_mentions": 103,
+    "total_words": 37524,
+    "ai_density": 4.45,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg56071",
+    "title": "[H.A.S.C. No. 118-61] TOO CRITICAL TO FAIL: GETTING SOFTWARE RIGHT IN AN AGE OF RAPID INNOVATION",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 40,
+    "total_words": 12597,
+    "ai_density": 4.29,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg59860",
+    "title": "PROTECTING AMERICANS FROM ROBOCALLS",
+    "strong_ai_mentions": 43,
+    "moderate_ai_mentions": 90,
+    "total_words": 42737,
+    "ai_density": 4.12,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg56892",
+    "title": "GLOBAL FOOD SECURITY",
+    "strong_ai_mentions": 20,
+    "moderate_ai_mentions": 59,
+    "total_words": 26143,
+    "ai_density": 3.79,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg59681",
+    "title": "SMART INVESTMENTS: TECHNOLOGY'S ROLE IN A MULTI-LAYERED BORDER SECURITY STRATEGY",
+    "strong_ai_mentions": 26,
+    "moderate_ai_mentions": 50,
+    "total_words": 27514,
+    "ai_density": 3.71,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg55889",
+    "title": "THE FEDERAL AND NON-FEDERAL ROLE OF ASSESSING CYBER THREATS TO AND VULNERABILITIES OF CRITICAL WATER INFRASTRUCTURE IN OUR ENERGY SECTOR",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 14,
+    "total_words": 8122,
+    "ai_density": 3.69,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119shrg61893",
+    "title": "PROTECTING THE VIRTUAL YOU: SAFEGUARDING AMERICANS' ONLINE DATA",
+    "strong_ai_mentions": 13,
+    "moderate_ai_mentions": 32,
+    "total_words": 15964,
+    "ai_density": 3.63,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg58902",
+    "title": "FROM TRANSFORMATIVE SCIENCE TO TECHNOLOGICAL BREAKTHROUGHS: DOE'S NATIONAL LABORATORIES",
+    "strong_ai_mentions": 16,
+    "moderate_ai_mentions": 38,
+    "total_words": 20101,
+    "ai_density": 3.48,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg60547",
+    "title": "UNCONSTRAINED ACTORS: ASSESSING GLOBAL CYBER THREATS TO THE HOMELAND",
+    "strong_ai_mentions": 41,
+    "moderate_ai_mentions": 91,
+    "total_words": 49909,
+    "ai_density": 3.47,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg59705",
+    "title": "CHIPS AND SCIENCE IMPLEMENTATION AND OVERSIGHT",
+    "strong_ai_mentions": 88,
+    "moderate_ai_mentions": 172,
+    "total_words": 100304,
+    "ai_density": 3.47,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg55099",
+    "title": "FOSTERING FINANCIAL INNOVATION: HOW AGENCIES CAN LEVERAGE TECHNOLOGY TO SHAPE THE FUTURE OF FINANCIAL SERVICES",
+    "strong_ai_mentions": 18,
+    "moderate_ai_mentions": 29,
+    "total_words": 18790,
+    "ai_density": 3.46,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg54126",
+    "title": "GROWING THE NATIONAL CYBERSECURITY TALENT PIPELINE",
+    "strong_ai_mentions": 23,
+    "moderate_ai_mentions": 65,
+    "total_words": 32519,
+    "ai_density": 3.41,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg55135",
+    "title": "ADMINISTRATION OF UPCOMING ELECTIONS",
+    "strong_ai_mentions": 13,
+    "moderate_ai_mentions": 32,
+    "total_words": 17138,
+    "ai_density": 3.38,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg55722",
+    "title": "OPEN HEARING: AN UPDATE ON FOREIGN THREATS TO THE 2024 ELECTIONS",
+    "strong_ai_mentions": 16,
+    "moderate_ai_mentions": 25,
+    "total_words": 17626,
+    "ai_density": 3.23,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg54409",
+    "title": "USE AND REGULATION OF AUTONOMOUS AND EXPERIMENTAL MARITIME TECHNOLOGIES",
+    "strong_ai_mentions": 28,
+    "moderate_ai_mentions": 59,
+    "total_words": 36252,
+    "ai_density": 3.17,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg58444",
+    "title": "ORGANIZATIONAL MEETING",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 6,
+    "total_words": 4437,
+    "ai_density": 3.16,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg60837",
+    "title": "THE DIGITAL BATTLEFIELD: HOW ON-LINE TERRORISTS USE THE INTERNET AND ON-LINE NETWORKS FOR RECRUITMENT AND RADICALIZATION",
+    "strong_ai_mentions": 29,
+    "moderate_ai_mentions": 50,
+    "total_words": 34725,
+    "ai_density": 3.11,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg55522",
+    "title": "IMPROVING EXPORT CONTROLS ENFORCEMENT",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 38,
+    "total_words": 14834,
+    "ai_density": 3.1,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg61338",
+    "title": "IN DEFENSE OF DEFENSIVE MEASURES: REAUTHORIZING CYBERSECURITY INFORMATION-SHARING ACTIVITIES THAT UNDERPIN U.S. NATIONAL CYBER DEFENSE",
+    "strong_ai_mentions": 16,
+    "moderate_ai_mentions": 81,
+    "total_words": 37013,
+    "ai_density": 3.05,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg55721",
+    "title": "OPEN HEARING: WORLDWIDE THREATS ASSESSMENT 2024",
+    "strong_ai_mentions": 10,
+    "moderate_ai_mentions": 43,
+    "total_words": 21371,
+    "ai_density": 2.95,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg57161",
+    "title": "PROTECTING AMERICAN INNOVATION BY ESTABLISHING AND ENFORCING STRONG DIGITAL TRADE RULES",
+    "strong_ai_mentions": 9,
+    "moderate_ai_mentions": 35,
+    "total_words": 18116,
+    "ai_density": 2.93,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119shrg61929",
+    "title": "NOMINATION OF HOWARD LUTNICK, NOMINEE TO BE SECRETARY, U.S. DEPARTMENT OF COMMERCE",
+    "strong_ai_mentions": 67,
+    "moderate_ai_mentions": 144,
+    "total_words": 95749,
+    "ai_density": 2.9,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg56438",
+    "title": "HELD FOR RANSOM: HOW RANSOMWARE ENDANGERS OUR FINANCIAL SYSTEM",
+    "strong_ai_mentions": 13,
+    "moderate_ai_mentions": 18,
+    "total_words": 15694,
+    "ai_density": 2.8,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg57143",
+    "title": "CYBERSPACE UNDER THREAT IN THE ERA OF RISING AUTHORITARIANISM AND GLOBAL COMPETITION",
+    "strong_ai_mentions": 26,
+    "moderate_ai_mentions": 52,
+    "total_words": 38370,
+    "ai_density": 2.71,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg60030",
+    "title": "AN OUTAGE STRIKES: ASSESSING THE GLOB- AL IMPACT OF CROWDSTRIKE'S FAULTY SOFTWARE UPDATE",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 46,
+    "total_words": 19956,
+    "ai_density": 2.71,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg56209",
+    "title": "RADIO, MUSIC, AND COPYRIGHTS: 100 YEARS OF INEQUITY FOR RECORDING ARTISTS",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 44,
+    "total_words": 22437,
+    "ai_density": 2.67,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119shrg61611",
+    "title": "DEFENSE OF THE DEPARTMENT OF DEFENSE INFORMATION NETWORK",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 11,
+    "total_words": 9663,
+    "ai_density": 2.59,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg62293",
+    "title": "AMERICA BUILDS: THE ROLE OF INNOVATION AND TECHNOLOGY IN RAIL MODERNIZATION",
+    "strong_ai_mentions": 11,
+    "moderate_ai_mentions": 101,
+    "total_words": 48132,
+    "ai_density": 2.56,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg55922",
+    "title": "EXAMINING THE FLOW OF U.S. MONEY INTO CHINA'S MILITARY MIGHT",
+    "strong_ai_mentions": 10,
+    "moderate_ai_mentions": 36,
+    "total_words": 22815,
+    "ai_density": 2.45,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg53349",
+    "title": "CHIPS ON THE TABLE: A ONE-YEAR REVIEW OF THE CHIPS AND SCIENCE ACT",
+    "strong_ai_mentions": 18,
+    "moderate_ai_mentions": 30,
+    "total_words": 26993,
+    "ai_density": 2.45,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg55873",
+    "title": "WORKERS SHOULD BENEFIT FROM NEW TECHNOLOGY AND INCREASED PRODUCTIVITY: THE NEED FOR A 32-HOUR WORK WEEK WITH NO LOSS IN PAY",
+    "strong_ai_mentions": 14,
+    "moderate_ai_mentions": 54,
+    "total_words": 34270,
+    "ai_density": 2.39,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119shrg62324",
+    "title": "NOMINATION OF PAUL DABBAR, NOMINEE TO BE DEPUTY SECRETARY, U.S. DEPARTMENT OF COMMERCE",
+    "strong_ai_mentions": 12,
+    "moderate_ai_mentions": 57,
+    "total_words": 33997,
+    "ai_density": 2.38,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg55527",
+    "title": "Unknown",
+    "strong_ai_mentions": 14,
+    "moderate_ai_mentions": 11,
+    "total_words": 16393,
+    "ai_density": 2.38,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119shrg62327",
+    "title": "HIDDEN HARMS: EXAMINING WHISTLEBLOWER ALLEGATIONS THAT META BURIED CHILD SAFETY RESEARCH",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 32,
+    "total_words": 18681,
+    "ai_density": 2.36,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg57252",
+    "title": "OVERSIGHT OF THE U.S. SECURITIES AND EXCHANGE COMMISSION",
+    "strong_ai_mentions": 16,
+    "moderate_ai_mentions": 32,
+    "total_words": 27156,
+    "ai_density": 2.36,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg55573",
+    "title": "Unknown",
+    "strong_ai_mentions": 9,
+    "moderate_ai_mentions": 15,
+    "total_words": 14233,
+    "ai_density": 2.32,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg60061",
+    "title": "A CONTINUED PATTERN OF GOVERNMENT SURVEILLANCE OF U.S. CITIZENS",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 18,
+    "total_words": 14670,
+    "ai_density": 2.32,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg62629",
+    "title": "AMERICA BUILDS: THE STATE OF THE ADVANCED AIR MOBILITY (AAM) INDUSTRY",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 82,
+    "total_words": 41542,
+    "ai_density": 2.26,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg60835",
+    "title": "WORLDWIDE THREATS",
+    "strong_ai_mentions": 18,
+    "moderate_ai_mentions": 17,
+    "total_words": 23768,
+    "ai_density": 2.23,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg57901",
+    "title": "THE FUTURE OF ARMS CONTROL AND DETERRENCE",
+    "strong_ai_mentions": 10,
+    "moderate_ai_mentions": 30,
+    "total_words": 24058,
+    "ai_density": 2.08,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg54816",
+    "title": "EVALUATING CISA'S FEDERAL CIVILIAN EXECUTIVE BRANCH CYBERSECURITY PROGRAMS",
+    "strong_ai_mentions": 12,
+    "moderate_ai_mentions": 29,
+    "total_words": 25570,
+    "ai_density": 2.07,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg56000",
+    "title": "REGULATORY WHIPLASH: EXAMINING THE IMPACT OF FSOC'S EVER-CHANGING DESIGNATION FRAMEWORK ON INNOVATION",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 21,
+    "total_words": 17011,
+    "ai_density": 2.06,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg56056",
+    "title": "OPEN HEARING: ON THE NOMINATION OF JOHN BRADFORD WIEGMANN TO BE GENERAL COUNSEL OF THE OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 4,
+    "total_words": 8967,
+    "ai_density": 2.01,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg58678",
+    "title": "THE CONSUMER FINANCIAL PROTECTION BUREAU'S SEMIANNUAL REPORT TO CONGRESS",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 23,
+    "total_words": 19760,
+    "ai_density": 1.97,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56414",
+    "title": "PROTECTING MISSING AND EXPLOITED CHILDREN",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 12,
+    "total_words": 13500,
+    "ai_density": 1.93,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55975",
+    "title": "EXAMINING THE FINDINGS AND RECOMMENDATIONS OF GAO'S 2024 REPORT ON OPPORTUNITIES TO REDUCE FRAGMENTATION, OVERLAP, AND DUPLICATION AND ACHIEVE FINANCIAL BENEFITS",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 18,
+    "total_words": 9699,
+    "ai_density": 1.86,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg61633",
+    "title": "PROTECTING OLDER AMERICANS: LEVELING THE PLAYING FIELD FOR OLDER WORKERS",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 42,
+    "total_words": 27099,
+    "ai_density": 1.85,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61303",
+    "title": "EXPLORING THE USE OF UNMANNED AIR- CRAFT SYSTEMS ACROSS THE DHS ENTER- PRISE",
+    "strong_ai_mentions": 11,
+    "moderate_ai_mentions": 22,
+    "total_words": 23927,
+    "ai_density": 1.84,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg61149",
+    "title": "EXAMINING VA EFFORTS TO DECREASE DELAYS IN VETERANS' DISABILITY COMPENSATION CLAIMS",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 16,
+    "total_words": 11941,
+    "ai_density": 1.84,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg61704",
+    "title": "SHIFTING GEARS: ISSUES IMPACTING THE TRUCKING AND COMMERCIAL BUS INDUSTRIES IN THE U.S.",
+    "strong_ai_mentions": 33,
+    "moderate_ai_mentions": 43,
+    "total_words": 59429,
+    "ai_density": 1.83,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg60687",
+    "title": "HARNESSING BIOMEDICAL INNOVATION: MODERNIZING VA HEALTHCARE FOR THE FUTURE",
+    "strong_ai_mentions": 10,
+    "moderate_ai_mentions": 31,
+    "total_words": 28059,
+    "ai_density": 1.82,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg55652",
+    "title": "INTELLECTUAL PROPERTY: ENFORCEMENT ACTIVITIES BY THE EXECUTIVE BRANCH",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 19,
+    "total_words": 19282,
+    "ai_density": 1.82,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56082",
+    "title": "OVERSIGHT OF OFFICE OF THE CLERK",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 10,
+    "total_words": 12201,
+    "ai_density": 1.8,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg53023",
+    "title": "GETTING NOWHERE: DOD'S FAILURE TO REPLACE THE DEFENSE TRAVEL SYSTEM",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 8,
+    "total_words": 9001,
+    "ai_density": 1.78,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg60197",
+    "title": "UNLOCKING GOVERNMENT EFFICIENCY THROUGH IT MODERNIZATION",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 15,
+    "total_words": 11894,
+    "ai_density": 1.77,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55914",
+    "title": "LEGISLATIVE BRANCH ADVANCEMENT: GAO MODERNIZATION",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 16,
+    "total_words": 16980,
+    "ai_density": 1.77,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg60494",
+    "title": "FINANCIAL AGGRESSION: HOW THE CHINESE COMMUNIST PARTY EXPLOITS AMERICAN RETIREES AND UNDERMINES NATIONAL SECURITY",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 37,
+    "total_words": 30333,
+    "ai_density": 1.75,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57946",
+    "title": "SURVEYING CIRCIA: SECTOR PERSPECTIVES ON THE NOTICE OF PROPOSED RULEMAKING",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 36,
+    "total_words": 29865,
+    "ai_density": 1.74,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg62821",
+    "title": "SHUT YOUR APP: HOW UNCLE SAM JAWBONED BIG TECH INTO SILENCING AMERICANS",
+    "strong_ai_mentions": 11,
+    "moderate_ai_mentions": 46,
+    "total_words": 39286,
+    "ai_density": 1.73,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg60778",
+    "title": "FISCAL ACCOUNTABILITY AND OVERSIGHT OF THE FEDERAL COURTS",
+    "strong_ai_mentions": 13,
+    "moderate_ai_mentions": 5,
+    "total_words": 18051,
+    "ai_density": 1.72,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg53995",
+    "title": "NOMINATIONS OF HARRY COKER, JR., JEFF REZMOVIC, AND SUZANNE E. SUMMERLIN",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 6,
+    "total_words": 13208,
+    "ai_density": 1.67,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg52787",
+    "title": "EXAMINING THE FINDINGS AND RECOMMENDATIONS OF GAO'S 2023 REPORT ON OPPORTUNITIES TO REDUCE FRAGMENTATION, OVERLAP, AND DUPLICATION AND ACHIEVE FINANCIAL BENEFITS",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 7,
+    "total_words": 9081,
+    "ai_density": 1.65,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55484",
+    "title": "Unknown",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 10,
+    "total_words": 15996,
+    "ai_density": 1.63,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54678",
+    "title": "SECURITY AND SAFETY IN A POST-9/11 WORLD",
+    "strong_ai_mentions": 12,
+    "moderate_ai_mentions": 19,
+    "total_words": 26455,
+    "ai_density": 1.63,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg59864",
+    "title": "FROM RESET TO ROLLOUT: CAN THE VA EHRM PROGRAM FINALLY DELIVER?",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 57,
+    "total_words": 38239,
+    "ai_density": 1.6,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118jhrg57950",
+    "title": "THE PRESERVATION OF MEMORY: COMBATING THE CCP'S HISTORICAL REVISIONISM AND ERASURE OF CULTURE",
+    "strong_ai_mentions": 18,
+    "moderate_ai_mentions": 16,
+    "total_words": 32908,
+    "ai_density": 1.58,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg56142",
+    "title": "THE ROLE OF TECHNOLOGY IN AVIATION SECURITY",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 29,
+    "total_words": 21045,
+    "ai_density": 1.57,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59601",
+    "title": "EXAMINING POLICIES TO COUNTER CHINA",
+    "strong_ai_mentions": 17,
+    "moderate_ai_mentions": 22,
+    "total_words": 35662,
+    "ai_density": 1.57,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg60821",
+    "title": "EVOLVING WORKFORCE DYNAMICS AND THE CHALLENGES FOR DEFENSE ACQUISITION AND DEFENSE INDUSTRIAL BASE",
+    "strong_ai_mentions": 5,
+    "moderate_ai_mentions": 24,
+    "total_words": 21900,
+    "ai_density": 1.55,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55311",
+    "title": "LEGISLATIVE BRANCH APPROPRIATIONS FOR FISCAL YEAR 2025",
+    "strong_ai_mentions": 17,
+    "moderate_ai_mentions": 41,
+    "total_words": 48864,
+    "ai_density": 1.53,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg56257",
+    "title": "BETTER INVESTMENT BARRIERS: STRENGTHENING CCP SANCTIONS AND EXPLORING ALTERNATIVES TO BUREAUCRATIC REGIMES",
+    "strong_ai_mentions": 11,
+    "moderate_ai_mentions": 8,
+    "total_words": 19711,
+    "ai_density": 1.52,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg56278",
+    "title": "THE ANNUAL REPORT OF THE FINANCIAL",
+    "strong_ai_mentions": 12,
+    "moderate_ai_mentions": 17,
+    "total_words": 27159,
+    "ai_density": 1.51,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg60396",
+    "title": "NOMINATION TO THE FEDERAL TRADE COMMISSION AND THE CONSUMER PRODUCT SAFETY COMMISSION",
+    "strong_ai_mentions": 44,
+    "moderate_ai_mentions": 84,
+    "total_words": 113826,
+    "ai_density": 1.51,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg53571",
+    "title": "OPEN HEARING: COUNTERING CHINA'S MALIGN INFLUENCE. OPERATIONS IN THE UNITED STATES",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 16,
+    "total_words": 19974,
+    "ai_density": 1.5,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg54370",
+    "title": "OVERSIGHT OF THE UNITED STATES GOVERNMENT PUBLISHING OFFICE",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 5,
+    "total_words": 7427,
+    "ai_density": 1.48,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59659",
+    "title": "IRS RETURN ON INVESTMENT AND THE NEED FOR MODERNIZATION",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 26,
+    "total_words": 22913,
+    "ai_density": 1.48,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55025",
+    "title": "FOUNDATION OF CARE: EXAMINING RESEARCH AT THE DEPARTMENT OF VETERANS AFFAIRS",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 12,
+    "total_words": 10776,
+    "ai_density": 1.48,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg58738",
+    "title": "NOMINATION OF HON. PATRICE H. KUNESH TO BE CHAIRMAN OF THE NATIONAL INDIAN GAMING COMMISSION",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 10,
+    "total_words": 17717,
+    "ai_density": 1.47,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59912",
+    "title": "SCALING FOR GROWTH: MEETING THE DEMAND FOR RELIABLE, AFFORDABLE ELECTRICITY",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 34,
+    "total_words": 31472,
+    "ai_density": 1.46,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg60508",
+    "title": "AMERICA BUILDS: A REVIEW OF OUR NATION'S TRANSIT POLICIES AND PROGRAMS",
+    "strong_ai_mentions": 31,
+    "moderate_ai_mentions": 16,
+    "total_words": 53620,
+    "ai_density": 1.45,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119shrg62231",
+    "title": "NOMINATION OF ARIELLE ROTH, NOMINEE TO BE ASSISTANT SECRETARY OF COMMERCE FOR COMMUNICATIONS AND INFORMATION, NATIONAL TELECOMMUNICATIONS AND INFORMATION ADMINISTRATION",
+    "strong_ai_mentions": 11,
+    "moderate_ai_mentions": 32,
+    "total_words": 37553,
+    "ai_density": 1.44,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg52954",
+    "title": "FIVE YEARS LATER: THE MUSIC MODERNIZATION ACT",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 22,
+    "total_words": 19634,
+    "ai_density": 1.43,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg53367",
+    "title": "FULL COMMITTEE BUSINESS MEETING: MARK-UP OF SEVERAL BILLS AND POSTAL-NAMING MEASURES",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 44,
+    "total_words": 40582,
+    "ai_density": 1.43,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg60185",
+    "title": "CONSUMER PROTECTION: PROTECTING WORKERS' MONEY AND FIGHTING FOR THE DIGNITY OF WORK",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 20,
+    "total_words": 22440,
+    "ai_density": 1.43,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55302",
+    "title": "DEPARTMENT OF HOMELAND SECURITY APPROPRIATIONS FOR FISCAL YEAR 2025",
+    "strong_ai_mentions": 9,
+    "moderate_ai_mentions": 29,
+    "total_words": 33333,
+    "ai_density": 1.41,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg53506",
+    "title": "CHILDREN ARE NOT FOR SALE: EXAMINING THE EXPLOITATION OF CHILDREN IN THE U.S. AND ABROAD",
+    "strong_ai_mentions": 5,
+    "moderate_ai_mentions": 16,
+    "total_words": 18403,
+    "ai_density": 1.41,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54310",
+    "title": "SAFEGUARDING THE FEDERAL SOFTWARE SUPPLY CHAIN",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 11,
+    "total_words": 10809,
+    "ai_density": 1.39,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56715",
+    "title": "IDENTITY MANAGEMENT INNOVATION: LOOKING BEYOND REAL ID",
+    "strong_ai_mentions": 12,
+    "moderate_ai_mentions": 13,
+    "total_words": 26705,
+    "ai_density": 1.39,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg59602",
+    "title": "LEVERAGING TECHNOLOGY TO STRENGTHEN IMMIGRATION ENFORCEMENT",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 5,
+    "total_words": 13805,
+    "ai_density": 1.38,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg52867",
+    "title": "REVIEW OF THE NATIONAL ACADEMY OF SCIENCES REPORT ``THE COAST GUARD'S NEXT DECADE: AN ASSESSMENT OF EMERGING CHALLENGES AND STATUTORY NEEDS''",
+    "strong_ai_mentions": 18,
+    "moderate_ai_mentions": 3,
+    "total_words": 28511,
+    "ai_density": 1.37,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg60348",
+    "title": "GLOBAL NETWORKS AT RISK: SECURING THE FUTURE OF COMMUNICATIONS INFRA- STRUCTURE",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 24,
+    "total_words": 27687,
+    "ai_density": 1.37,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54517",
+    "title": "A YEAR IN REVIEW: THE STATE OF SMALL BUSINESS IN AMERICA",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 11,
+    "total_words": 18257,
+    "ai_density": 1.37,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56607",
+    "title": "OVERSIGHT OF THE LIBRARY OF CONGRESS",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 7,
+    "total_words": 11002,
+    "ai_density": 1.36,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg52705",
+    "title": "ENHANCING FIRE WEATHER PREDICTION AND COORDINATION",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 19,
+    "total_words": 23364,
+    "ai_density": 1.33,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg61202",
+    "title": "INTERDICTING ILLICIT DRUG TRAFFICKING: A VIEW FROM THE FRONT LINES",
+    "strong_ai_mentions": 10,
+    "moderate_ai_mentions": 29,
+    "total_words": 36883,
+    "ai_density": 1.33,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg54909",
+    "title": ". INVESTIGATING PANDEMIC FRAUD: PREVENTING HISTORY FROM REPEATING ITSELF",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 6,
+    "total_words": 15093,
+    "ai_density": 1.33,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg49104034",
+    "title": "COMMERCE, JUSTICE, SCIENCE, AND RELATED AGENCIES APPROPRIATIONS FOR FISCAL YEAR 2023",
+    "strong_ai_mentions": 14,
+    "moderate_ai_mentions": 103,
+    "total_words": 98813,
+    "ai_density": 1.33,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg55050",
+    "title": "A VOICE FOR THE VOICELESS--CSAM IDENTIFICATION",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 14,
+    "total_words": 16693,
+    "ai_density": 1.32,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56222",
+    "title": "HEARING FOR THE PURPOSE OF RECEIVING TESTIMONY FROM THE HONORABLE ROSTIN BEHNAM, CHAIRMAN, COMMODITY FUTURES TRADING COMMISSION",
+    "strong_ai_mentions": 11,
+    "moderate_ai_mentions": 32,
+    "total_words": 41378,
+    "ai_density": 1.31,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg61166",
+    "title": "STRENGTHENING THE TRANSITION ASSISTANCE PROGRAM: EXPLORING OUTCOMES TO IMPROVE THE TRANSITION TO CIVILIAN LIFE",
+    "strong_ai_mentions": 9,
+    "moderate_ai_mentions": 25,
+    "total_words": 32746,
+    "ai_density": 1.31,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg60987",
+    "title": "FRAMEWORK FOR THE FUTURE: REVIEWING DATA PRIVACY IN TODAY'S FINANCIAL SYSTEM",
+    "strong_ai_mentions": 10,
+    "moderate_ai_mentions": 8,
+    "total_words": 21568,
+    "ai_density": 1.3,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg58380",
+    "title": "REVENUE, RIDERSHIP, AND POST-PANDEMIC LESSONS IN PUBLIC TRANSIT",
+    "strong_ai_mentions": 11,
+    "moderate_ai_mentions": 43,
+    "total_words": 51392,
+    "ai_density": 1.26,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg54226",
+    "title": "Unknown",
+    "strong_ai_mentions": 11,
+    "moderate_ai_mentions": 15,
+    "total_words": 29505,
+    "ai_density": 1.25,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg55290",
+    "title": "COMMERCE, JUSTICE, SCIENCE, AND RELATED AGENCIES APPROPRIATIONS FOR FISCAL YEAR 2025",
+    "strong_ai_mentions": 58,
+    "moderate_ai_mentions": 179,
+    "total_words": 236234,
+    "ai_density": 1.25,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg56072",
+    "title": "OVERSIGHT OF THE SMITHSONIAN INSTITUTION",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 7,
+    "total_words": 10506,
+    "ai_density": 1.24,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg61561",
+    "title": "THE STATE OF CONVENTIONAL SURFACE SHIPBUILDING",
+    "strong_ai_mentions": 10,
+    "moderate_ai_mentions": 18,
+    "total_words": 30955,
+    "ai_density": 1.23,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg56081",
+    "title": "NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2025 AND OVERSIGHT OF PREVIOUSLY AUTHORIZED PROGRAMS BEFORE THE COMMITTEE ON ARMED SERVICES HOUSE OF REPRESENTATIVES ONE HUNDRED EIGHTEENTH CONGRESS SECOND SESSION",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 11,
+    "total_words": 15486,
+    "ai_density": 1.23,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56394",
+    "title": "SEC OVERREACH: EXAMINING THE NEED FOR REFORM",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 16,
+    "total_words": 19822,
+    "ai_density": 1.21,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56034",
+    "title": "LEGISLATIVE BRANCH APPROPRIATIONS FOR 2025",
+    "strong_ai_mentions": 14,
+    "moderate_ai_mentions": 35,
+    "total_words": 51878,
+    "ai_density": 1.21,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg60205",
+    "title": "DESIGN VS. DEFAULT: ANALYZING SHIFTS IN CYBERSECURITY",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 26,
+    "total_words": 23361,
+    "ai_density": 1.2,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg61928",
+    "title": "NOMINATION OF HON. SEAN DUFFY, NOMINEE TO BE SECRETARY, U.S. DEPARTMENT OF TRANSPORTATION",
+    "strong_ai_mentions": 37,
+    "moderate_ai_mentions": 23,
+    "total_words": 80759,
+    "ai_density": 1.2,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg53341",
+    "title": "AN UPDATE ON THE DEPARTMENT OF ENERGY'S SCIENCE AND TECHNOLOGY PRIORITIES",
+    "strong_ai_mentions": 11,
+    "moderate_ai_mentions": 21,
+    "total_words": 36233,
+    "ai_density": 1.19,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg56463",
+    "title": "MISSION CRITICAL: RESTORING NATIONAL SECURITY AS THE FOCUS OF DEFENSE PRODUCTION ACT REAUTHORIZATION, PART II",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 9,
+    "total_words": 14333,
+    "ai_density": 1.19,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg61889",
+    "title": "23 AND YOU: THE PRIVACY AND NATIONAL SECURITY IMPLICATIONS OF THE 23ANDME BANKRUPTCY",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 11,
+    "total_words": 15907,
+    "ai_density": 1.19,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54636",
+    "title": "FROM RISK TO RESILIENCE: REAUTHORIZING THE EARTHQUAKE AND WINDSTORM HAZARDS REDUCTION PROGRAMS",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 7,
+    "total_words": 12729,
+    "ai_density": 1.18,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg57243",
+    "title": "DIGGING DEEPER: BUILDING OUR CRITICAL MINERALS WORKFORCE",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 21,
+    "total_words": 24898,
+    "ai_density": 1.16,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg58574",
+    "title": "EMPOWERING PEOPLE WITH DISABILITIES TO LIVE, WORK, LEARN, AND THRIVE",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 28,
+    "total_words": 29508,
+    "ai_density": 1.15,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg61428",
+    "title": "PIPELINE SAFETY REAUTHORIZATION: ENSURING THE SAFE AND EFFICIENT MOVEMENT OF AMERICAN ENERGY",
+    "strong_ai_mentions": 11,
+    "moderate_ai_mentions": 16,
+    "total_words": 32935,
+    "ai_density": 1.15,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg57729",
+    "title": "THE CONSUMER FINANCIAL PROTECTION BUREAU'S SEMIANNUAL REPORT TO CONGRESS",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 14,
+    "total_words": 19221,
+    "ai_density": 1.14,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg58690",
+    "title": "EXAMINING THE DEPARTMENT OF TRANSPORTATION'S REGULATORY AND ADMINISTRATIVE AGENDA",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 55,
+    "total_words": 55775,
+    "ai_density": 1.13,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg52987",
+    "title": "UNEARTHING INNOVATION: THE FUTURE OF SUBSURFACE SCIENCE AND TECHNOLOGY IN THE UNITED STATES",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 6,
+    "total_words": 16182,
+    "ai_density": 1.11,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg58529",
+    "title": "PROTECTING CONSUMERS' POCKETBOOKS: LOWERING FOOD PRICES AND COMBATTING CORPORATE PRICE GOUGING AND CONSOLIDATION",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 8,
+    "total_words": 19903,
+    "ai_density": 1.11,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55022",
+    "title": "THE FACTORS INFLUENCING THE HIGH COST OF INSURANCE FOR CONSUMERS",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 11,
+    "total_words": 21028,
+    "ai_density": 1.09,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg58876",
+    "title": "STRENGTHENING AMERICAN LEADERSHIP IN WIRELESS TECHNOLOGY",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 20,
+    "total_words": 33517,
+    "ai_density": 1.07,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg59104059",
+    "title": "FINANCIAL SERVICES AND GENERAL GOVERNMENT APPROPRIATIONS FOR FISCAL YEAR 2024",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 5,
+    "total_words": 16221,
+    "ai_density": 1.05,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg61468",
+    "title": "PROTECTING FLORIDA'S SENIORS: FIGHTING FRAUD AND FINANCIAL EXPLOITATION",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 18,
+    "total_words": 23413,
+    "ai_density": 1.03,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55699",
+    "title": "REDUCING PAPERWORK, CUTTING COSTS: ALLEVIATING ADMINISTRATIVE BURDENS IN HEALTH CARE",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 8,
+    "total_words": 11665,
+    "ai_density": 1.03,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg57430",
+    "title": "ANNUAL OVERSIGHT OF WALL STREET FIRMS",
+    "strong_ai_mentions": 10,
+    "moderate_ai_mentions": 15,
+    "total_words": 34552,
+    "ai_density": 1.01,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg55395",
+    "title": "REFORMING FEDERAL RECORDS MANAGEMENT TO IMPROVE TRANSPARENCY AND ACCOUNTABILITY",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 8,
+    "total_words": 9873,
+    "ai_density": 1.01,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg61334",
+    "title": "SAFETY FIRST: RESTORING BOEING'S STATUS AS A GREAT AMERICAN MANUFACTURER",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 21,
+    "total_words": 26817,
+    "ai_density": 1.01,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg61288",
+    "title": "NTSB PRELIMINARY REPORT: THE DCA MIDAIR COLLISION",
+    "strong_ai_mentions": 11,
+    "moderate_ai_mentions": 16,
+    "total_words": 38103,
+    "ai_density": 1.0,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg56402",
+    "title": "OVERSIGHT OF THE PERMITTING COUNCIL: IMPROVING TRANSPARENCY AND COORDINATION",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 9,
+    "total_words": 11014,
+    "ai_density": 1.0,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg58962",
+    "title": "POWERING AMERICA'S FUTURE: UNLEASHING AMERICAN ENERGY",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 20,
+    "total_words": 35967,
+    "ai_density": 1.0,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56064",
+    "title": "WHAT WE HAVE HERE IS A FAILURE TO COLLABORATE: REVIEW OF GAO'S ANNUAL DUPLICATION REPORT",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 6,
+    "total_words": 18362,
+    "ai_density": 0.98,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59733",
+    "title": "AMERICA BUILDS: MARITIME INFRASTRUCTURE",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 13,
+    "total_words": 29864,
+    "ai_density": 0.97,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg60218",
+    "title": "PERSPECTIVES ON THE FUTURE OF AGRICULTURE RESEARCH AND TECHNOLOGY",
+    "strong_ai_mentions": 9,
+    "moderate_ai_mentions": 7,
+    "total_words": 26104,
+    "ai_density": 0.96,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59941",
+    "title": "FOLLOWING THE MONEY: TOOLS AND TECHNIQUES TO COMBAT FRAUD",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 14,
+    "total_words": 18668,
+    "ai_density": 0.96,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg58905",
+    "title": "FOSTERING AMERICAN INNOVATION: INSIGHTS INTO SBIR AND STTR PROGRAMS",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 12,
+    "total_words": 20773,
+    "ai_density": 0.96,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59599",
+    "title": "A GOLDEN AGE OF DIGITAL ASSETS: CHARTING A PATH FORWARD",
+    "strong_ai_mentions": 10,
+    "moderate_ai_mentions": 5,
+    "total_words": 25927,
+    "ai_density": 0.96,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg58456",
+    "title": "UNMANNED AERIAL SYSTEMS AND EMERGENCY RESPONSE: THE IMPACT OF DRONES AND OTHER EMERGING TECHNOLOGY ON U.S. LAW ENFORCEMENT",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 30,
+    "total_words": 35454,
+    "ai_density": 0.96,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57371",
+    "title": "Unknown",
+    "strong_ai_mentions": 11,
+    "moderate_ai_mentions": 10,
+    "total_words": 33632,
+    "ai_density": 0.95,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119shrg59492",
+    "title": "NOMINATION OF LORI M. CHAVEZ-DEREMER TO SERVE AS SECRETARY OF LABOR",
+    "strong_ai_mentions": 11,
+    "moderate_ai_mentions": 19,
+    "total_words": 43815,
+    "ai_density": 0.94,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg55073",
+    "title": "HEARING ON THE WEAPONIZATION OF THE. FEDERAL GOVERNMENT",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 17,
+    "total_words": 26907,
+    "ai_density": 0.93,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55296",
+    "title": "ENERGY AND WATER DEVELOPMENT APPROPRIATIONS FOR FISCAL YEAR 2025",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 23,
+    "total_words": 42262,
+    "ai_density": 0.92,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55098",
+    "title": "THE SEMI-ANNUAL REPORT OF THE BUREAU OF CONSUMER FINANCIAL PROTECTION",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 24,
+    "total_words": 41769,
+    "ai_density": 0.91,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55248",
+    "title": "LEGISLATIVE PROPOSALS TO SUPPORT MODERNIZING THE CONGRESSIONAL RESEARCH SERVICES AND THE USE OF FEDERAL DATA",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 13,
+    "total_words": 16474,
+    "ai_density": 0.91,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56595",
+    "title": "CONGRESS IN A POST-CHEVRON WORLD",
+    "strong_ai_mentions": 5,
+    "moderate_ai_mentions": 5,
+    "total_words": 16442,
+    "ai_density": 0.91,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg59592",
+    "title": "EXAMINING SCAMS AND FRAUD IN THE BANKING SYSTEM AND THEIR IMPACT ON CONSUMERS",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 25,
+    "total_words": 32386,
+    "ai_density": 0.9,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118jhrg53719",
+    "title": "COMBATING RANSOMWARE ATTACKS",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 14,
+    "total_words": 17713,
+    "ai_density": 0.9,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg61467",
+    "title": "AWARENESS TO ACTION: COMBATING ELDER ABUSE AND NEGLECT",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 12,
+    "total_words": 27140,
+    "ai_density": 0.88,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg53504",
+    "title": "OVERSIGHT OF THE UNITED STATES PATENT AND TRADEMARK OFFICE",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 3,
+    "total_words": 10244,
+    "ai_density": 0.88,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55299",
+    "title": "FINANCIAL SERVICES AND GENERAL GOVERNMENT APPROPRIATIONS FOR FISCAL YEAR 2025",
+    "strong_ai_mentions": 12,
+    "moderate_ai_mentions": 22,
+    "total_words": 52136,
+    "ai_density": 0.88,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg57777",
+    "title": "FIGHTING FRAUD: HOW SCAMMERS ARE STEALING FROM OLDER ADULTS",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 10,
+    "total_words": 30111,
+    "ai_density": 0.86,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg59483",
+    "title": "REVIEWING THE BUREAU OF INDUSTRY AND SECURITY, PART II: U.S. EXPORT CONTROLS IN AN ERA OF STRATEGIC COMPETITION",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 5,
+    "total_words": 15053,
+    "ai_density": 0.86,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg56020",
+    "title": "CONFIRMATION HEARING ON FEDERAL APPOINTMENTS",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 14,
+    "total_words": 23253,
+    "ai_density": 0.86,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg57701",
+    "title": "AMERICAN DIPLOMACY AND GLOBAL LEADERSHIP: REVIEW OF THE FISCAL YEAR 2025 STATE DEPARTMENT BUDGET REQUEST",
+    "strong_ai_mentions": 9,
+    "moderate_ai_mentions": 18,
+    "total_words": 42581,
+    "ai_density": 0.85,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57574",
+    "title": "SECURING OUR NATION FROM WMDs: A REVIEW OF THE DEPARTMENT OF HOMELAND SECURITY'S COUNTERING WEAPONS OF MASS DESTRUCTION OFFICE",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 16,
+    "total_words": 23512,
+    "ai_density": 0.85,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61247",
+    "title": "FOREIGN ABUSE OF U.S. COURTS",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 2,
+    "total_words": 16761,
+    "ai_density": 0.84,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg58836",
+    "title": "PART 1: COMMITTEE FUNDING FOR THE 119TH CONGRESS",
+    "strong_ai_mentions": 5,
+    "moderate_ai_mentions": 18,
+    "total_words": 33520,
+    "ai_density": 0.84,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55708",
+    "title": "RED ALERT: COUNTERING THE CYBERTHREAT FROM CHINA",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 6,
+    "total_words": 11968,
+    "ai_density": 0.84,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg54498",
+    "title": "UNDERSTANDING A GROWING CRISIS: SUBSTANCE USE TRENDS AMONG OLDER ADULTS",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 8,
+    "total_words": 14580,
+    "ai_density": 0.82,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56650",
+    "title": "COUNTERING CHINA ON THE WORLD STAGE: EMPOWERING AMERICAN BUSINESSES AND DENYING CHINESE MILITARY OUR TECHNOLOGY",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 8,
+    "total_words": 24349,
+    "ai_density": 0.82,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg56754",
+    "title": "OVERSIGHT OF DIGITAL COMMODITIES",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 6,
+    "total_words": 17370,
+    "ai_density": 0.81,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg62325",
+    "title": "NOMINATION OF BRYAN BEDFORD, NOMINEE TO BE ADMINISTRATOR, FEDERAL AVIATION ADMINISTRATION",
+    "strong_ai_mentions": 9,
+    "moderate_ai_mentions": 16,
+    "total_words": 42547,
+    "ai_density": 0.8,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56596",
+    "title": "MANAGEMENT SUCCESSES AND FAILURES: ASSESSING THE U.S. AGENCY FOR GLOBAL MEDIA",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 3,
+    "total_words": 13711,
+    "ai_density": 0.8,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg58615",
+    "title": "OPEN HEARING: ON THE NOMINATION OF JOHN L. RATCLIFFE, TO BE DIRECTOR, CENTRAL INTELLIGENCE AGENCY",
+    "strong_ai_mentions": 5,
+    "moderate_ai_mentions": 5,
+    "total_words": 18949,
+    "ai_density": 0.79,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg57444",
+    "title": "BIG TECH AND THE ONLINE CHILD SEXUAL EXPLOITATION CRISIS",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 21,
+    "total_words": 33977,
+    "ai_density": 0.79,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg58679",
+    "title": "STRATEGIC COMPETITION WITH THE PRC: ASSESSING U.S. COMPETITIVENESS BEYOND THE INDO-PACIFIC",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 12,
+    "total_words": 25551,
+    "ai_density": 0.78,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54180",
+    "title": "OVERSIGHT OF THE SEC'S DIVISION OF INVESTMENT MANAGEMENT",
+    "strong_ai_mentions": 5,
+    "moderate_ai_mentions": 4,
+    "total_words": 17994,
+    "ai_density": 0.78,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56350",
+    "title": "MISSION CRITICAL: RESTORING NATIONAL SECURITY AS THE FOCUS OF DEFENSE PRODUCTION ACT REAUTHORIZATION",
+    "strong_ai_mentions": 5,
+    "moderate_ai_mentions": 1,
+    "total_words": 14082,
+    "ai_density": 0.78,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57665",
+    "title": "COMMERCE, JUSTICE, SCIENCE, AND RELATED AGENCIES APPROPRIATIONS FOR 2025",
+    "strong_ai_mentions": 15,
+    "moderate_ai_mentions": 33,
+    "total_words": 81781,
+    "ai_density": 0.77,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg58371",
+    "title": "THE RIGHT SIDE OF HISTORY: PROTECTING VOTING RIGHTS IN AMERICA",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 10,
+    "total_words": 23874,
+    "ai_density": 0.75,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg53080",
+    "title": "THE STATUS OF VA FINANCIAL MANAGEMENT BUSINESS TRANSFORMATION",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 12,
+    "total_words": 21434,
+    "ai_density": 0.75,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56361",
+    "title": "Unknown",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 19,
+    "total_words": 46789,
+    "ai_density": 0.75,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg61565",
+    "title": "NATO SUMMIT 2025: AN ASSESSMENT OF TRANSATLANTIC SECURITY COOPERATION",
+    "strong_ai_mentions": 5,
+    "moderate_ai_mentions": 11,
+    "total_words": 28065,
+    "ai_density": 0.75,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56626",
+    "title": "SOLUTIONS IN SEARCH OF A PROBLEM: CHAIR GENSLER'S EQUITY MARKET STRUCTURE REFORMS",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 5,
+    "total_words": 17261,
+    "ai_density": 0.75,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg61850",
+    "title": "THE FUTURE OF BROADBAND AFFORDABILITY",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 24,
+    "total_words": 53799,
+    "ai_density": 0.74,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55287",
+    "title": "AGRICULTURE, RURAL DEVELOPMENT, FOOD AND DRUG ADMINISTRATION, AND RELATED AGENCIES APPROPRIATIONS FOR FISCAL YEAR 2025 .",
+    "strong_ai_mentions": 14,
+    "moderate_ai_mentions": 13,
+    "total_words": 55273,
+    "ai_density": 0.74,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119shrg61336",
+    "title": "FIELD OF STREAMS: THE NEW CHANNEL GUIDE FOR SPORTS FANS",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 9,
+    "total_words": 31508,
+    "ai_density": 0.73,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56279",
+    "title": "OVERSIGHT OF THE FINANCIAL CRIMES ENFORCEMENT NETWORK (FINCEN) AND THE OFFICE OF TERRORISM AND FINANCIAL INTELLIGENCE (TFI)",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 9,
+    "total_words": 34270,
+    "ai_density": 0.73,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg52767",
+    "title": "CONTINUING U.S. LEADERSHIP IN COMMERCIAL SPACE AT HOME AND ABROAD",
+    "strong_ai_mentions": 5,
+    "moderate_ai_mentions": 11,
+    "total_words": 28913,
+    "ai_density": 0.73,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg58900",
+    "title": "THE CENSORSHIP-INDUSTRIAL COMPLEX",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 25,
+    "total_words": 45890,
+    "ai_density": 0.72,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55293",
+    "title": "DEPARTMENT OF DEFENSE APPROPRIATIONS FOR FISCAL YEAR 2025",
+    "strong_ai_mentions": 41,
+    "moderate_ai_mentions": 92,
+    "total_words": 245914,
+    "ai_density": 0.71,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-119hhrg58844",
+    "title": "PART 2: COMMITTEE FUNDING FOR THE 119TH CONGRESS",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 5,
+    "total_words": 24446,
+    "ai_density": 0.7,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59680",
+    "title": "AMERICA BUILDS: EXAMINING AMERICA'S FREIGHT AND PASSENGER RAIL NETWORK",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 33,
+    "total_words": 55885,
+    "ai_density": 0.7,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56931",
+    "title": "PROTECTING EMERGING TECHNOLOGIES FOR PEACE AND STABILITY IN THE INDO- PACIFIC",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 5,
+    "total_words": 12768,
+    "ai_density": 0.7,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54399",
+    "title": "DIGITAL COPYRIGHT PIRACY: PROTECTING AMERICAN CONSUMERS, WORKERS, AND CREATORS",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 10,
+    "total_words": 17354,
+    "ai_density": 0.69,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56066",
+    "title": "SECURITY AT STAKE: AN EXAMINATION OF DOD'S STRUGGLING BACKGROUND CHECK SYSTEM",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 4,
+    "total_words": 14464,
+    "ai_density": 0.69,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg61427",
+    "title": "FAA REAUTHORIZATION ONE YEAR LATER: AVIATION SAFETY, AIR TRAFFIC AND NEXT GENERATION TECHNOLOGY",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 15,
+    "total_words": 42617,
+    "ai_density": 0.68,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg53872",
+    "title": "OVERSIGHT OF THE COMMITTEE ON FOREIGN INVESTMENT IN THE UNITED STATES (CFIUS) AND OTHER EFFORTS TO STRENGTHEN NATIONAL SECURITY IN THE UNITED STATES",
+    "strong_ai_mentions": 5,
+    "moderate_ai_mentions": 7,
+    "total_words": 24999,
+    "ai_density": 0.68,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg61847",
+    "title": "SPECTRUM AND NATIONAL SECURITY",
+    "strong_ai_mentions": 9,
+    "moderate_ai_mentions": 20,
+    "total_words": 56526,
+    "ai_density": 0.67,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61713",
+    "title": "BID PROTEST REFORM:",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 2,
+    "total_words": 11938,
+    "ai_density": 0.67,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg58807",
+    "title": "REINING IN THE ADMINISTRATIVE STATE: REGULATORY AND ADMINISTRATIVE LAW REFORM",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 4,
+    "total_words": 17952,
+    "ai_density": 0.67,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg59596",
+    "title": "SECTOR DOWN: ENSURING CRITICAL INFRASTRUCTURE RESILIENCE",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 14,
+    "total_words": 32953,
+    "ai_density": 0.67,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg58804",
+    "title": "TRANSGENDER LAB RATS AND POISONED PUPPIES: OVERSIGHT OF TAXPAYER-FUNDED ANIMAL CRUELTY",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 5,
+    "total_words": 13700,
+    "ai_density": 0.66,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg58999",
+    "title": "LEADING THE CHARGE: OPPORTUNITIES TO STRENGTHEN AMERICA'S ENERGY RELIABILITY",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 9,
+    "total_words": 16836,
+    "ai_density": 0.65,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61538",
+    "title": "FECA REFORM AND OVERSIGHT: PRIORITIZING WORKERS, PROTECTING TAXPAYER DOLLARS",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 2,
+    "total_words": 12285,
+    "ai_density": 0.65,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg61952",
+    "title": "COMMUNICATIONS NETWORKS SAFETY AND SECURITY",
+    "strong_ai_mentions": 5,
+    "moderate_ai_mentions": 22,
+    "total_words": 49338,
+    "ai_density": 0.65,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56910",
+    "title": "CENSORSHIP LAUNDERING PART II: PREVENTING THE DEPARTMENT OF HOMELAND SECURITY'S SILENCING OF DISSENT",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 16,
+    "total_words": 42759,
+    "ai_density": 0.65,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55928",
+    "title": "HEARING WITH COMMISSIONER OF THE INTERNAL REVENUE SERVICE, DANIEL WERFEL",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 18,
+    "total_words": 40153,
+    "ai_density": 0.65,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59987",
+    "title": "AMERICAN INNOVATION AND THE FUTURE OF DIGITAL ASSETS ALIGNING THE U.S. SECURITIES LAWS FOR THE DIGITAL AGE",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 0,
+    "total_words": 21446,
+    "ai_density": 0.65,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61556",
+    "title": "EUROPE'S THREAT TO AMERICAN SPEECH AND INNOVATION",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 11,
+    "total_words": 42623,
+    "ai_density": 0.63,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg57730",
+    "title": "OVERSIGHT OF FINANCIAL REGULATORS: PROTECTING MAIN STREET NOT WALL STREET",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 10,
+    "total_words": 41309,
+    "ai_density": 0.63,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54448",
+    "title": "OVERSIGHT HEARING ON THE MINERAL SUPPLY CHAIN AND THE NEW SPACE RACE",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 21,
+    "total_words": 39639,
+    "ai_density": 0.63,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg61235",
+    "title": "DOFFERMYRE, JEREZA, AND HAUSTVEIT NOMINATIONS",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 5,
+    "total_words": 14382,
+    "ai_density": 0.63,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55694",
+    "title": "THE GLOBAL ENGAGEMENT CENTER: HELPING OR HURTING U.S. FOREIGN POLICY",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 2,
+    "total_words": 12880,
+    "ai_density": 0.62,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg53226",
+    "title": "PATHWAYS TO WOMEN'S ENTREPRENEURSHIP: UNDERSTANDING OPPORTUNITIES AND BARRIERS",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 2,
+    "total_words": 12914,
+    "ai_density": 0.62,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59375",
+    "title": "JUSTICE DELAYED: THE CRISIS OF UNDERMANNED FEDERAL COURTS",
+    "strong_ai_mentions": 5,
+    "moderate_ai_mentions": 0,
+    "total_words": 16447,
+    "ai_density": 0.61,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg58970",
+    "title": "BACK TO SCHOOL WITH THE SHOP SAFE ACT: PROTECTING OUR FAMILIES FROM UNSAFE ONLINE COUNTERFEITS",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 3,
+    "total_words": 14681,
+    "ai_density": 0.61,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57059",
+    "title": "HAVOC IN THE HEARTLAND: HOW SECRETARY MAYORKAS' FAILED LEADERSHIP HAS IMPACTED THE STATES",
+    "strong_ai_mentions": 11,
+    "moderate_ai_mentions": 24,
+    "total_words": 74873,
+    "ai_density": 0.61,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg55024",
+    "title": "MEMBER DAY",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 2,
+    "total_words": 13269,
+    "ai_density": 0.6,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg57226",
+    "title": "THE PATENT ELIGIBILITY RESTORATION ACT RESTORING CLARITY, CERTAINTY, AND PREDICTABILITY TO THE U.S. PATENT SYSTEM",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 7,
+    "total_words": 18690,
+    "ai_density": 0.59,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57808",
+    "title": "AMERICAN CONFIDENCE IN ELECTIONS: PROHIBITING FOREIGN INTERFERENCE",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 6,
+    "total_words": 17087,
+    "ai_density": 0.59,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56887",
+    "title": "DEFENDING AMERICA FROM THE CHINESE COMMUNIST PARTY'S POLITICAL WARFARE, PART III",
+    "strong_ai_mentions": 5,
+    "moderate_ai_mentions": 9,
+    "total_words": 31990,
+    "ai_density": 0.59,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55529",
+    "title": "UNDER THE MICROSCOPE: REVIEWING KEY SBA PROGRAMS WITH ASSOCIATE ADMINISTRATOR FROST",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 3,
+    "total_words": 15219,
+    "ai_density": 0.59,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56281",
+    "title": "CRYPTO CRIME IN CONTEXT PART II: EXAMINING APPROACHES TO COMBAT ILLICIT ACTIVITY",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 3,
+    "total_words": 18857,
+    "ai_density": 0.58,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg59703",
+    "title": "BUDGET OVERSIGHT OF THE NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 1,
+    "total_words": 26494,
+    "ai_density": 0.57,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56705",
+    "title": "AMERICAN CONFIDENCE IN ELECTIONS: LOOKING AHEAD TO THE 2024 GENERAL ELECTION",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 9,
+    "total_words": 19720,
+    "ai_density": 0.56,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59959",
+    "title": "MAXIMIZING OPPORTUNITIES FOR REDEVEL- OPING BROWNFIELDS SITES: ASSESSING THE POTENTIAL FOR NEW AMERICAN INNO- VATION",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 16,
+    "total_words": 28749,
+    "ai_density": 0.56,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57219",
+    "title": "SECURING OPERATIONAL TECHNOLOGY: A DEEP DIVE INTO THE WATER SECTOR",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 19,
+    "total_words": 37225,
+    "ai_density": 0.56,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61341",
+    "title": "FROM CARTELS TO COASTLINES: AN EXAMINATION OF U.S. FEDERAL EFFORTS TO CONFRONT ILLICIT MARITIME ACTIVITIES IN U.S. WATERS",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 4,
+    "total_words": 28522,
+    "ai_density": 0.56,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56884",
+    "title": "WHERE DO WE GO FROM HERE? EXAMINING A PATH FORWARD TO ASSESS AGENCIES' EFFORTS TO PREVENT IMPROPER PAYMENTS AND FRAUD",
+    "strong_ai_mentions": 5,
+    "moderate_ai_mentions": 4,
+    "total_words": 24917,
+    "ai_density": 0.56,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55848",
+    "title": "ADDRESSING LONG COVID: ADVANCING RESEARCH AND IMPROVING PATIENT CARE",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 10,
+    "total_words": 47557,
+    "ai_density": 0.55,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg61414",
+    "title": "THE RESTORE PATENT RIGHTS ACT: RESTORING AMERICA'S STATUS AS THE GLOBAL IP LEADER",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 3,
+    "total_words": 12678,
+    "ai_density": 0.55,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57566",
+    "title": "[H.A.S.C. No. 118-62] U.S. MILITARY POSTURE AND NATIONAL SECURITY CHALLENGES IN THE INDO-PACIFIC REGION",
+    "strong_ai_mentions": 5,
+    "moderate_ai_mentions": 7,
+    "total_words": 30841,
+    "ai_density": 0.55,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg59774",
+    "title": "THE MALIGN INFLUENCE OF THE PEOPLE'S REPUBLIC OF CHINA AT HOME AND ABROAD: RECOMMENDATIONS FOR POLICY MAKERS",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 4,
+    "total_words": 33639,
+    "ai_density": 0.54,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg60499",
+    "title": "INNOVATION SAVES LIVES: EVALUATING MEDICARE COVERAGE PATHWAYS FOR INNOVATIVE DRUGS, MEDICAL DEVICES, AND TECHNOLOGY",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 14,
+    "total_words": 30414,
+    "ai_density": 0.53,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg54494",
+    "title": "NOMINATION OF MONICA BERTAGNOLLI TO BE DIRECTOR OF THE NATIONAL INSTITUTES OF HEALTH",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 6,
+    "total_words": 37603,
+    "ai_density": 0.53,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg60976",
+    "title": "SHORT-CIRCUITING PROGRESS: HOW THE CLEAN AIR ACT IMPACTS BUILDING NECESSARY INFRASTRUCTURE AND ONSHORING AMERICAN INNOVATION",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 8,
+    "total_words": 26880,
+    "ai_density": 0.52,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg60988",
+    "title": "EVALUATING THE DEFENSE PRODUCTION ACT",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 1,
+    "total_words": 13428,
+    "ai_density": 0.52,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56357",
+    "title": "IP LITIGATION AND THE U.S. INTERNATIONAL TRADE COMMISSION",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 3,
+    "total_words": 13828,
+    "ai_density": 0.51,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg60819",
+    "title": "SHARED THREATS: INDO PACIFIC ALLIANCES AND BURDEN SHARING IN TODAY'S GEOPOLITICAL ENVIRONMENT",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 6,
+    "total_words": 19633,
+    "ai_density": 0.51,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg60062",
+    "title": "REVISITING THE 2024 ELECTION WITH SECRETARIES OF STATE",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 3,
+    "total_words": 13736,
+    "ai_density": 0.51,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57831",
+    "title": "IP AND STRATEGIC COMPETITION WITH CHINA: PART IV_PATENTS, STANDARDS, AND LAWFARE",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 4,
+    "total_words": 15928,
+    "ai_density": 0.5,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg60320",
+    "title": "ARMS CONTROL, INTERNATIONAL SECURITY, AND U.S. ASSISTANCE TO EUROPE: REVIEW AND REFORMS FOR THE STATE DEPARTMENT",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 3,
+    "total_words": 10081,
+    "ai_density": 0.5,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54986",
+    "title": "FEMA: THE CURRENT STATE OF DISASTER READINESS, RESPONSE, AND RECOVERY",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 8,
+    "total_words": 44071,
+    "ai_density": 0.5,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg61984",
+    "title": "DEPARTMENT OF DEFENSE AUTHORIZATION REQUEST FOR APPROPRIATIONS FOR FISCAL YEAR 2026 AND THE FUTURE YEARS DEFENSE PROGRAM",
+    "strong_ai_mentions": 5,
+    "moderate_ai_mentions": 8,
+    "total_words": 36321,
+    "ai_density": 0.5,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55308",
+    "title": "DEPARTMENTS OF LABOR, HEALTH AND HUMAN SERVICES, AND EDUCATION, AND RELATED AGENCIES APPROPRIATIONS FOR FISCAL YEAR 2025",
+    "strong_ai_mentions": 25,
+    "moderate_ai_mentions": 44,
+    "total_words": 189161,
+    "ai_density": 0.5,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg52955",
+    "title": "OVERSIGHT OF THE FEDERAL TRADE COMMISSION",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 5,
+    "total_words": 38952,
+    "ai_density": 0.49,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56460",
+    "title": "WORLDWIDE THREATS TO THE HOMELAND",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 25,
+    "total_words": 63445,
+    "ai_density": 0.49,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54756",
+    "title": "RURAL ACCESS: IS VA MEETING ALL VETERANS WHERE THEY LIVE?",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 19,
+    "total_words": 48396,
+    "ai_density": 0.48,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg60170",
+    "title": "UNITED STATES NORTHERN COMMAND AND UNITED STATES SOUTHERN COMMAND",
+    "strong_ai_mentions": 5,
+    "moderate_ai_mentions": 13,
+    "total_words": 48179,
+    "ai_density": 0.48,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61463",
+    "title": "FAA REAUTHORIZATION ACT OF 2024: STAKE- HOLDER PERSPECTIVES ON IMPLEMENTA- TION ONE YEAR LATER",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 19,
+    "total_words": 65724,
+    "ai_density": 0.47,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57719",
+    "title": "OVERSIGHT OF THE U.S. CENSUS BUREAU",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 4,
+    "total_words": 25761,
+    "ai_density": 0.47,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55618",
+    "title": "HEARING ON THE WEAPONIZATION OF THE FEDERAL GOVERNMENT",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 7,
+    "total_words": 31622,
+    "ai_density": 0.47,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57756",
+    "title": "DEPARTMENT OF THE INTERIOR, ENVIRONMENT, AND RELATED AGENCIES APPROPRIATIONS FOR 2025",
+    "strong_ai_mentions": 10,
+    "moderate_ai_mentions": 17,
+    "total_words": 79231,
+    "ai_density": 0.47,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg54722",
+    "title": "[H.A.S.C. No. 118-45] THE SUBMARINE INDUSTRIAL BASE AND ITS ABILITY TO SUPPORT THE AUKUS FRAMEWORK",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 7,
+    "total_words": 19299,
+    "ai_density": 0.47,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg62124",
+    "title": "DEPARTMENT OF DEFENSE AUTHORIZATION REQUEST FOR APPROPRIATIONS FOR FISCAL YEAR 2025 AND THE FUTURE YEARS DEFENSE PROGRAM",
+    "strong_ai_mentions": 13,
+    "moderate_ai_mentions": 15,
+    "total_words": 89761,
+    "ai_density": 0.46,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118shrg56403",
+    "title": "RISKY RESEARCH: OVERSIGHT OF U.S. TAXPAYER FUNDED HIGH RISK VIRUS RESEARCH",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 1,
+    "total_words": 19766,
+    "ai_density": 0.46,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59907",
+    "title": "JUDICIAL OVERREACH AND CONSTITUTIONAL LIMITS ON THE FEDERAL COURTS",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 3,
+    "total_words": 41584,
+    "ai_density": 0.46,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55279",
+    "title": "RECREATION AT RISK: THE NATURE OF CLIMATE COSTS",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 1,
+    "total_words": 10765,
+    "ai_density": 0.46,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59637",
+    "title": "NAVIGATING THE DIGITAL PAYMENTS ECOSYSTEM: EXAMINING A FEDERAL FRAMEWORK FOR PAYMENT STABLECOINS AND CONSEQUENCES OF A U.S. CENTRAL BANK DIGITAL CURRENCY",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 5,
+    "total_words": 37405,
+    "ai_density": 0.45,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55546",
+    "title": "A FOCUS ON MANAGEMENT: OVERSIGHT OF THE OFFICE OF MANAGEMENT AND BUDGET",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 5,
+    "total_words": 24473,
+    "ai_density": 0.45,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54525",
+    "title": "SSG FOX SUICIDE PREVENTION GRANTS: SAVING VETERANS' LIVES THROUGH COMMUNITY CONNECTION",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 3,
+    "total_words": 24414,
+    "ai_density": 0.45,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55799",
+    "title": "STRENGTHENING WIOA: IMPROVING OUTCOMES FOR JOBSEEKERS, EMPLOYERS, AND TAXPAYERS",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 6,
+    "total_words": 17798,
+    "ai_density": 0.45,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg57478",
+    "title": "Unknown",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 4,
+    "total_words": 22951,
+    "ai_density": 0.44,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg62122",
+    "title": "DEPARTMENT OF DEFENSE AUTHORIZATION FOR APPROPRIATIONS FOR FISCAL YEAR 2025 AND THE FUTURE YEARS DEFENSE PROGRAM",
+    "strong_ai_mentions": 57,
+    "moderate_ai_mentions": 105,
+    "total_words": 502739,
+    "ai_density": 0.44,
+    "relevance": "HIGH",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg55528",
+    "title": "STIFLING INNOVATION: EXAMINING THE IMPACTS OF REGULATORY BURDENS ON SMALL BUSINESSES IN HEALTHCARE",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 2,
+    "total_words": 18205,
+    "ai_density": 0.44,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56070",
+    "title": "SAFEGUARDING WORKERS' RIGHTS AND LIBERTIES",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 6,
+    "total_words": 22659,
+    "ai_density": 0.44,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg49104035",
+    "title": "DEPARTMENT OF LABOR, HEALTH AND HUMAN SERVICES, AND EDUCATION, AND RELATED AGENCIES APPROPRIATIONS FOR FISCAL YEAR 2023",
+    "strong_ai_mentions": 15,
+    "moderate_ai_mentions": 104,
+    "total_words": 309473,
+    "ai_density": 0.43,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg56310",
+    "title": "PREPARING STUDENTS FOR SUCCESS IN THE SKILLS-BASED ECONOMY",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 4,
+    "total_words": 18445,
+    "ai_density": 0.43,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57192",
+    "title": "[H.A.S.C. No. 118-65] HEARING ON NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2025 AND OVERSIGHT OF PREVIOUSLY AUTHORIZED PROGRAMS BEFORE THE COMMITTEE ON ARMED SERVICES HOUSE OF REPRESENTATIVES ONE HUNDRED EIGHTEENTH CONGRESS SECOND SESSION",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 1,
+    "total_words": 11536,
+    "ai_density": 0.43,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg53204",
+    "title": "CLOSING THE DIGITAL DIVIDE IN RURAL AMERICA",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 8,
+    "total_words": 55733,
+    "ai_density": 0.43,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg60412",
+    "title": "THE FINDINGS OF THE CONGRESSIONAL COMMISSION ON THE STRATEGIC POSTURE OF THE UNITED STATES",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 4,
+    "total_words": 23493,
+    "ai_density": 0.43,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56195",
+    "title": "ENSURING VA'S SECURITY: HOW CAN CONGRESS BEST SUPPORT VA'S LAW ENFORCEMENT?",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 6,
+    "total_words": 23663,
+    "ai_density": 0.42,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54185",
+    "title": "OVERSIGHT OF THE DEPARTMENT OF JUSTICE ANTITRUST DIVISION",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 4,
+    "total_words": 19409,
+    "ai_density": 0.41,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55545",
+    "title": "DRILLING DOWN: OVERSIGHT OF THE CHALLENGES AND OPPORTUNITIES FACING U.S. ENERGY PRODUCTION",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 4,
+    "total_words": 14687,
+    "ai_density": 0.41,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54315",
+    "title": "MODERNIZING FINANCIAL SERVICES THROUGH INNOVATION AND COMPETITION",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 3,
+    "total_words": 17188,
+    "ai_density": 0.41,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg53313",
+    "title": "OPEN HEARING: ON THE NOMINATIONS OF LT. GEN. TIMOTHY D. HAUGH TO BE DIRECTOR, NATIONAL SECURITY AGENCY, AND MICHAEL CASEY TO BE DIRECTOR, NATIONAL COUNTERINTELLIGENCE AND SECURITY CENTER",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 1,
+    "total_words": 16898,
+    "ai_density": 0.41,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg60155",
+    "title": "PROMOTING AND IMPROVING SAFETY AND EFFICIENT PIPELINE INFRASTRUCTURE",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 11,
+    "total_words": 41224,
+    "ai_density": 0.41,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59818",
+    "title": "FUELING AMERICA'S FUTURE: HOW INVESTMENT EMPOWERS SMALL-BUSINESS GROWTH",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 6,
+    "total_words": 19589,
+    "ai_density": 0.41,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg60823",
+    "title": "UPDATE OF THE STATE OF THE DEPARTMENT OF DEFENSE ACQUISITION SYSTEM",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 4,
+    "total_words": 24668,
+    "ai_density": 0.41,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg60021",
+    "title": "RESEARCH SECURITY RISKS POSED BY FOREIGN NATIONALS FROM COUNTRIES OF RISK WORKING AT THE DEPARTMENT OF ENERGY'S NATIONAL LABORATORIES AND NECESSARY MITIGATION STEPS",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 5,
+    "total_words": 17238,
+    "ai_density": 0.41,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg49104033",
+    "title": "DEPARTMENT OF THE INTERIOR, ENVIRONMENT, AND RELATED AGENCIES APPROPRIATIONS FOR FISCAL YEAR 2023",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 77,
+    "total_words": 190441,
+    "ai_density": 0.41,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg60065",
+    "title": "WRIGHT NOMINATION",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 5,
+    "total_words": 26579,
+    "ai_density": 0.41,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg62164",
+    "title": "NOMINATIONS OF EDWARD FORST, CHARLES ARRINGTON, JOHN CUONG TRUONG, ELANA S. SUTTENBERG, STEPHEN F. RICKARD, WILLIAM KIRK, HON. ANTHONY D'ESPOSITO, AND PLATTE MORING",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 3,
+    "total_words": 12122,
+    "ai_density": 0.41,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56827",
+    "title": "FROM FESTIVE CHEER TO RETAIL FEAR: ADDRESSING ORGANIZED RETAIL CRIME",
+    "strong_ai_mentions": 8,
+    "moderate_ai_mentions": 6,
+    "total_words": 55192,
+    "ai_density": 0.4,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54956",
+    "title": "THE ONE PERCENT: SUPPORTING AMERICA'S SURVIVING MILITARY FAMILY COMMUNITY",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 19,
+    "total_words": 52376,
+    "ai_density": 0.4,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg60692",
+    "title": "EXAMINING THE PRC'S STRATEGIC PORT IN- VESTMENTS IN THE WESTERN HEMISPHERE AND THE IMPLICATIONS FOR HOMELAND SECURITY, PART I",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 3,
+    "total_words": 22483,
+    "ai_density": 0.4,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56169",
+    "title": "LEGISLATIVE HEARING ON H.R. 6841, TO AMEND THE COASTAL ZONE MANAGEMENT ACT OF 1972 TO ALLOW THE SECRETARY OF COMMERCE TO ESTABLISH A COASTAL AND ESTUARINE RESILIENCE AND RESTORA- TION PROGRAM, AND FOR OTHER PUR- POSES; H.R. 7925, TO PROVIDE FOR THE STANDARDIZATION, PUBLICATION, AND ACCESSIBILITY OF DATA RELATING TO PUBLIC OUTDOOR RECREATIONAL USE OF FEDERAL WATERWAYS, AND FOR OTHER PURPOSES, \"MODERNIZING ACCESS TO OUR PUBLIC OCEANS ACT\"; H.R. 8704, TO RE- QUIRE THE SECRETARY OF COMMERCE TO ESTABLISH A GRANT PROGRAM TO FOSTER ENHANCED COEXISTENCE BETWEEN OCEAN USERS AND NORTH ATLANTIC RIGHT WHALES AND OTHER LARGE CETACEAN SPECIES; AND H.R. 8705, TO REQUIRE THE ADMINISTRATOR OF THE NATIONAL OCE- ANIC AND ATMOSPHERIC ADMINISTRATION TO REFORM THE MARINE RECREATIONAL INFORMATION PROGRAM OF THE NA- TIONAL MARINE FISHERIES SERVICE, AND FOR OTHER PURPOSES, \"FISHERIES DATA MODERNIZATION AND ACCURACY ACT OF 2024\"",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 15,
+    "total_words": 53313,
+    "ai_density": 0.39,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg60056",
+    "title": "HEARING TO CONSIDER PENDING NOMINATIONS",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 4,
+    "total_words": 20342,
+    "ai_density": 0.39,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55021",
+    "title": "EXAMINING THE SEC'S AGENDA: UNINTENDED CONSEQUENCES FOR U.S. CAPITAL MARKETS AND INVESTORS",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 3,
+    "total_words": 17904,
+    "ai_density": 0.39,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg52559",
+    "title": "PANDEMIC FRAUD ACCOUNTABILITY: REVIEWING THE SBA INSPECTOR GENERAL'S COVID-19 FRAUD REPORT",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 3,
+    "total_words": 18017,
+    "ai_density": 0.39,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg61983",
+    "title": "DEPARTMENT OF DEFENSE AUTHORIZATION REQUEST FOR APPROPRIATIONS FOR FISCAL YEAR 2026 AND THE FUTURE YEARS DEFENSE PROGRAM",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 2,
+    "total_words": 15656,
+    "ai_density": 0.38,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg61521",
+    "title": "ON THE RIGHT TRACK: MODERNIZING AMERICA'S RAIL NETWORK",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 13,
+    "total_words": 44529,
+    "ai_density": 0.38,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56391",
+    "title": "BUREAUCRATIC OVERREACH OR CONSUMER PROTECTION? EXAMINING THE CFPB'S LATEST ACTION TO RESTRICT COMPETITION IN PAYMENTS",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 3,
+    "total_words": 18308,
+    "ai_density": 0.38,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56683",
+    "title": "DEPARTMENT OF HOMELAND SECURITY APPROPRIATIONS FOR 2025",
+    "strong_ai_mentions": 12,
+    "moderate_ai_mentions": 6,
+    "total_words": 81136,
+    "ai_density": 0.37,
+    "relevance": "MEDIUM",
+    "is_ai_hearing": true
+  },
+  {
+    "id": "CHRG-118hhrg57494",
+    "title": "OVERSIGHT OF THE FEDERAL COMMUNICATIONS COMMISSION",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 6,
+    "total_words": 32862,
+    "ai_density": 0.37,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118jhrg53486",
+    "title": "CORPORATE COMPLICITY: SUBSIDIZING THE PRC'S HUMAN RIGHTS VIOLATIONS",
+    "strong_ai_mentions": 5,
+    "moderate_ai_mentions": 9,
+    "total_words": 51602,
+    "ai_density": 0.37,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg57902",
+    "title": "OVERSIGHT OF THE UNITED STATES CAPITOL POLICE",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 0,
+    "total_words": 10815,
+    "ai_density": 0.37,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59604",
+    "title": "SHIFTING GEARS: MOVING FROM RECOVERY TO PREVENTION OF IMPROPER PAYMENTS AND FRAUD",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 0,
+    "total_words": 16871,
+    "ai_density": 0.36,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg58132",
+    "title": "ALWAYS READY: A DAY IN THE LIFE OF A U.S. COAST GUARD SENTINEL",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 1,
+    "total_words": 19208,
+    "ai_density": 0.36,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56819",
+    "title": "OVERSIGHT OF HOMELAND SECURITY INVESTIGATIONS",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 3,
+    "total_words": 14040,
+    "ai_density": 0.36,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55396",
+    "title": "STRENGTHENING INTERNATIONAL COOPERATION TO STOP THE FLOW OF FENTANYL INTO THE UNITED STATES",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 3,
+    "total_words": 14050,
+    "ai_density": 0.36,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61653",
+    "title": "UNMANNED AND UNCHECKED: CONFRONTING THE RISING THREAT OF MALICIOUS DRONE USE IN AMERICA",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 3,
+    "total_words": 13885,
+    "ai_density": 0.36,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg60344",
+    "title": "STABILIZING THE MILITARY HEALTH SYSTEM TO PREPARE FOR LARGE-SCALE COMBAT OPERATIONS",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 1,
+    "total_words": 24798,
+    "ai_density": 0.36,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg60761",
+    "title": "THE CFTC AT 50: EXAMINING THE PAST AND FUTURE OF COMMODITY MARKETS",
+    "strong_ai_mentions": 5,
+    "moderate_ai_mentions": 34,
+    "total_words": 121403,
+    "ai_density": 0.36,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg53334",
+    "title": "ACTION THROUGH INNOVATION: PRIVATE SECTOR SOLUTIONS TO RECOUPING STOLEN PANDEMIC FUNDS",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 0,
+    "total_words": 16963,
+    "ai_density": 0.35,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg59383",
+    "title": "NOMINATION OF THE HONORABLE PAUL LAWRENCE TO BE DEPUTY SECRETARY OF VETERANS AFFAIRS",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 5,
+    "total_words": 20019,
+    "ai_density": 0.35,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg61877",
+    "title": "BAD MEDICINE: CLOSING LOOPHOLES THAT KILL AMERICAN PATIENTS",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 3,
+    "total_words": 20115,
+    "ai_density": 0.35,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg60649",
+    "title": "PREPARING THE PIPELINE: EXAMINING THE STATE OF AMERICA'S CYBER WORKFORCE",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 10,
+    "total_words": 47736,
+    "ai_density": 0.34,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59598",
+    "title": "OPERATION CHOKE POINT 2.0:. THE BIDEN ADMINISTRATION'S EFFORTS TO PUT CRYPTO IN THE CROSSHAIRS",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 2,
+    "total_words": 17496,
+    "ai_density": 0.34,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55259",
+    "title": "EXAMINING THE EFFECTS OF EXTREME HEAT AND WEATHER ON TRANSPORTATION",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 3,
+    "total_words": 14561,
+    "ai_density": 0.34,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56436",
+    "title": "IMPORTING GLOBAL GOVERNANCE:",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 2,
+    "total_words": 23624,
+    "ai_density": 0.34,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg62232",
+    "title": "DEPARTMENT OF DEFENSE AUTHORIZATION REQUEST FOR APPROPRIATIONS FOR FISCAL YEAR 2025 AND THE FUTURE YEARS DEFENSE PROGRAM",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 10,
+    "total_words": 47213,
+    "ai_density": 0.34,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg56459",
+    "title": "SMALL BUSINESS EXPORT OPPORTUNITIES: ACCESSING RESOURCES TO EXPAND INTERNATIONAL SALES",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 2,
+    "total_words": 12016,
+    "ai_density": 0.33,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55452",
+    "title": "OVERSIGHT OF THE U.S. FOOD AND DRUG ADMINISTRATION",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 11,
+    "total_words": 39696,
+    "ai_density": 0.33,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55314",
+    "title": "MILITARY CONSTRUCTION, VETERANS AFFAIRS, AND RELATED AGENCIES APPROPRIATIONS FOR FISCAL YEAR 2025",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 22,
+    "total_words": 73663,
+    "ai_density": 0.33,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118jhrg53099",
+    "title": "OVERSIGHT OF THE CAPITOL POLICE BOARD",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 3,
+    "total_words": 21128,
+    "ai_density": 0.33,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55305",
+    "title": "DEPARTMENT OF THE INTERIOR, ENVIRONMENT, AND RELATED AGENCIES APPROPRIATIONS FOR FISCAL YEAR 2025",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 116,
+    "total_words": 360057,
+    "ai_density": 0.33,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg60114",
+    "title": "IMPACTS OF EMERGENCY AUTHORITY CYBERSECURITY REGULATIONS ON THE TRANSPORTATION SECTOR",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 1,
+    "total_words": 27632,
+    "ai_density": 0.33,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg56458",
+    "title": "PROMOTING OPPORTUNITY: THE NEED FOR TARGETED FEDERAL BUSINESS PROGRAMS TO ADDRESS ONGOING RACIAL DISCRIMINATION",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 3,
+    "total_words": 15783,
+    "ai_density": 0.32,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55921",
+    "title": "AUKUS IMPLEMENTATION AND CHALLENGES TO INTERNATIONAL SECURITY AND ARMS CONTROL IN THE 21ST CENTURY",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 2,
+    "total_words": 24951,
+    "ai_density": 0.32,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg58631",
+    "title": "NOMINATION OF THE HONORABLE DOUGLAS A. COLLINS TO BE SECRETARY OF VETERANS AFFAIRS",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 8,
+    "total_words": 31395,
+    "ai_density": 0.32,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg57242",
+    "title": "THE WORKFORCE INNOVATION AND OPPORTUNITY ACT: SUPPORTING EFFORTS TO MEET THE NEEDS OF YOUTH, WORKERS, AND EMPLOYERS",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 5,
+    "total_words": 42035,
+    "ai_density": 0.31,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg54155",
+    "title": "ONGOING THREATS TO ELECTION ADMINISTRATION",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 3,
+    "total_words": 16451,
+    "ai_density": 0.3,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61737",
+    "title": "OPENING DOORS TO OPPORTUNITY: THE PROMISE OF EXPANDED SCHOOL CHOICE AND ALTERNATIVES TO FOUR-YEAR COLLEGE DEGREES",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 2,
+    "total_words": 13253,
+    "ai_density": 0.3,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61123",
+    "title": "LEGISLATIVE HEARING",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 3,
+    "total_words": 16920,
+    "ai_density": 0.3,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55952",
+    "title": "OVERSIGHT OF THE U.S. DEPARTMENT OF JUSTICE",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 9,
+    "total_words": 42656,
+    "ai_density": 0.3,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57048",
+    "title": "IT ALL DEPENDS ON WATER: EXAMINING EFFORTS TO IMPROVE AND PROTECT CENTRAL OREGON'S WATER SUPPLY",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 6,
+    "total_words": 26526,
+    "ai_density": 0.3,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56532",
+    "title": "EXPANDING ON THE SUCCESS OF THE 2017 TAX RELIEF TO HELP HARDWORKING AMERICANS",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 0,
+    "total_words": 40554,
+    "ai_density": 0.3,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54518",
+    "title": "MARKUP OF VARIOUS MEASURES",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 3,
+    "total_words": 16673,
+    "ai_density": 0.3,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61684",
+    "title": "FAA REAUTHORIZATION ACT OF 2024: AN UPDATE ON IMPLEMENTATION ONE YEAR LATER",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 17,
+    "total_words": 66445,
+    "ai_density": 0.29,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg60549",
+    "title": "EXPOSING THE PROXY ADVISORY CARTEL: HOW ISS & GLASS LEWIS INFLUENCE MARKETS",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 3,
+    "total_words": 16984,
+    "ai_density": 0.29,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57075",
+    "title": "OVERSIGHT AND EXAMINATION OF RAILROAD GRADE CROSSING ELIMINATION AND SAFETY",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 7,
+    "total_words": 74573,
+    "ai_density": 0.28,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57458",
+    "title": "LEGISLATIVE HEARING ON H.R. 7662, TO REQUIRE REPORTS ON CRITICAL MINERAL AND RARE EARTH ELEMENT RESOURCES AROUND THE WORLD AND A STRATEGY FOR THE DEVELOPMENT OF ADVANCED MINING, REFINING, SEPARATION, AND PROCESSING TECHNOLOGIES, \"CRITICAL MINERALS SECURITY ACT OF 2024\"; H.R. 7807, TO CREATE INTERGOVERNMENTAL COORDINATION BETWEEN STATE, LOCAL, TRIBAL, AND TERRITORIAL JURISDICTIONS, AND THE FEDERAL GOVERNMENT TO COMBAT UNITED STATES RELIANCE ON THE PEOPLE'S REPUBLIC OF CHINA AND OTHER COVERED COUNTRIES FOR CRITICAL MINERALS AND RARE EARTH METALS, AND FOR OTHER PURPOSES, \"INTERGOVERNMENTAL CRITICAL MINERALS TASK FORCE ACT\"; H.R. 8952, TO TAKE CERTAIN MINERAL INTERESTS INTO TRUST FOR THE BENEFIT OF THE CROW TRIBE OF MONTANA, AND FOR OTHER PURPOSES, \"CROW REVENUE ACT\"; AND H.R. 10005, TO ESTABLISH A PROCESS TO EXPEDITE THE REVIEW OF APPEALS OF CERTAIN DECISIONS BY THE DEPARTMENT OF THE INTERIOR, \"EXPEDITED APPEALS REVIEW ACT\", OR \"EARA\"",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 6,
+    "total_words": 36040,
+    "ai_density": 0.28,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg59702",
+    "title": "BUDGET OVERSIGHT OF THE UNITED STATES COAST GUARD",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 3,
+    "total_words": 39638,
+    "ai_density": 0.28,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61302",
+    "title": "CYBERSECURITY IS LOCAL, TOO: ASSESSING THE STATE AND LOCAL CYBERSECURITY GRANT PROGRAM",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 2,
+    "total_words": 28216,
+    "ai_density": 0.28,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57150",
+    "title": "REAUTHORIZING THE CFTC: STAKEHOLDER PERSPECTIVES",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 4,
+    "total_words": 29266,
+    "ai_density": 0.27,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59939",
+    "title": "BEYOND SILICON VALLEY: EXPANDING ACCESS TO CAPITAL ACROSS AMERICA",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 7,
+    "total_words": 40198,
+    "ai_density": 0.27,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg60394",
+    "title": "NOMINATION TO THE FEDERAL COMMUNICATIONS COMMISSION",
+    "strong_ai_mentions": 6,
+    "moderate_ai_mentions": 23,
+    "total_words": 128721,
+    "ai_density": 0.27,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56329",
+    "title": "THE CONTINUITY OF CARE: ASSESSING THE STRUCTURE OF VA'S HEALTHCARE NETWORK",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 2,
+    "total_words": 22061,
+    "ai_density": 0.27,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57418",
+    "title": "ELIMINATING BOTTLENECKS: EXAMINING OPPORTUNITIES TO RECRUIT, RETAIN, AND ENGAGE AVIATION TALENT",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 18,
+    "total_words": 65612,
+    "ai_density": 0.27,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56224",
+    "title": "H.R. 3283, H.R. 3299, H.R. 5401, H.R. 6012, H.R. 7976, AND H.R. 8012",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 1,
+    "total_words": 33781,
+    "ai_density": 0.27,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg53994",
+    "title": "THREATS TO THE HOMELAND",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 4,
+    "total_words": 31274,
+    "ai_density": 0.26,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118jhrg53487",
+    "title": "COUNTERING CHINA'S GLOBAL TRANSNATIONAL REPRESSION CAMPAIGN",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 3,
+    "total_words": 42476,
+    "ai_density": 0.26,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54313",
+    "title": "DIGGING DEEPER: ENSURING SAFETY AND SECURITY IN THE CRITICAL MINERAL SUPPLY CHAIN",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 0,
+    "total_words": 15670,
+    "ai_density": 0.26,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55039",
+    "title": "SECURING SOCIAL SECURITY: ACCESSING PAYMENTS AND PRESERVING THE PROGRAM FOR FUTURE GENERATIONS",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 1,
+    "total_words": 11522,
+    "ai_density": 0.26,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59636",
+    "title": "THE FUTURE OF AMERICAN CAPITAL: STRENGTHENING PUBLIC",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 4,
+    "total_words": 23091,
+    "ai_density": 0.26,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57440",
+    "title": "UNIDENTIFIED ANOMALOUS PHENOMENA: EXPOSING THE TRUTH",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 4,
+    "total_words": 23285,
+    "ai_density": 0.26,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55389",
+    "title": "FIGHTING FOR A FREE PRESS: PROTECTING JOURNALISTS AND THEIR SOURCES",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 2,
+    "total_words": 16326,
+    "ai_density": 0.25,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57377",
+    "title": "HEARING FOR THE PURPOSE OF RECEIVING TESTIMONY FROM THE HONORABLE THOMAS J. VILSACK, SECRETARY, U.S. DEPARTMENT OF AGRICULTURE",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 29,
+    "total_words": 142177,
+    "ai_density": 0.25,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg52558",
+    "title": "REVIEWING THE SBA'S OFFICE OF ADVOCACY REPORT ON THE REGULATORY FLEXIBILITY ACT",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 3,
+    "total_words": 12676,
+    "ai_density": 0.24,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg60431",
+    "title": "THE STATUS OF DEPARTMENT OF DEFENSE RECRUITING EFFORTS AND PLANS FOR FISCAL YEAR 2024",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 10,
+    "total_words": 59511,
+    "ai_density": 0.24,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg60722",
+    "title": "THE DEPARTMENT OF HOMELAND SECURITY'S BUDGET REQUEST FOR FISCAL YEAR 2026",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 4,
+    "total_words": 24791,
+    "ai_density": 0.24,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg56442",
+    "title": "CHARGING AHEAD: THE FUTURE OF ELECTRIC VEHICLES",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 3,
+    "total_words": 21927,
+    "ai_density": 0.23,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg54523",
+    "title": "STANDING UP AGAINST CORPORATE GREED: HOW UNIONS ARE IMPROVING THE LIVES OF WORKING FAMILIES",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 4,
+    "total_words": 44239,
+    "ai_density": 0.23,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg60350",
+    "title": "SAFEGUARDING THE HOMELAND FROM UNMANNED AERIAL SYSTEMS",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 4,
+    "total_words": 35683,
+    "ai_density": 0.22,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56358",
+    "title": "DISCUSSION DRAFT OF H.R.",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 5,
+    "total_words": 42989,
+    "ai_density": 0.21,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118jhrg54082",
+    "title": "FROM BAIT TO PLATE: HOW FORCED LABOR IN CHINA TAINTS AMERICA'S SEAFOOD SUPPLY CHAIN",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 5,
+    "total_words": 52251,
+    "ai_density": 0.21,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg60684",
+    "title": "MISSION INCOMPLETE: STRENGTHENING THE TAP PROGRAM TO ENSURE A SMOOTHER TRANSITION TO CIVILIAN LIFE FOR TOMORROW'S VETERANS",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 0,
+    "total_words": 38192,
+    "ai_density": 0.21,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59597",
+    "title": "MAKING COMMUNITY BANKING GREAT AGAIN",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 2,
+    "total_words": 38745,
+    "ai_density": 0.21,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg58754",
+    "title": "NOW ORE NEVER: THE IMPORTANCE OF DOMESTIC MINING FOR U.S. NATIONAL SECURITY",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 3,
+    "total_words": 43665,
+    "ai_density": 0.21,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55973",
+    "title": "OVERSIGHT HEARING ON EXAMINING GAO'S FINDINGS TO ADDRESS DATA GAPS AND IMPROVE DATA COLLECTION IN THE TERRITORIES",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 4,
+    "total_words": 28901,
+    "ai_density": 0.21,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55455",
+    "title": "DEFENDING AMERICA FROM THE CHINESE COMMUNIST PARTY'S POLITICAL WARFARE, PART I",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 4,
+    "total_words": 38546,
+    "ai_density": 0.21,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg53869",
+    "title": "CLIMATE RISK: ARE FINANCIAL REGULATORS POLITICALLY INDEPENDENT?",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 0,
+    "total_words": 19879,
+    "ai_density": 0.2,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54312",
+    "title": "OVERSIGHT OF FEDERAL AGENCIES' POST-PANDEMIC TELEWORK POLICIES PART II",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 2,
+    "total_words": 20372,
+    "ai_density": 0.2,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55982",
+    "title": "Appendix",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 5,
+    "total_words": 35593,
+    "ai_density": 0.2,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54102",
+    "title": "LEGISLATIVE HEARING ON H.R. 4235, TO DIRECT THE SECRETARY OF AGRICULTURE AND THE SECRETARY OF THE INTERIOR TO ESTABLISH A WILDFIRE TECHNOLOGY TESTBED PILOT PROGRAM, AND FOR OTHER PURPOSES, \"WILDFIRE TECHNOLOGY DEMONSTRATION, EVALUATION, MODERNIZATION, AND OPTIMIZATION ACT\" OR \"WILDFIRE TECHNOLOGY DEMO ACT\"; H.R. 4353, TO AMEND PUBLIC LAW 91-378 TO AUTHORIZE ACTIVITIES RELATING TO CIVILIAN CONSERVATION CENTERS, AND FOR OTHER PURPOSES, \"CIVILIAN CONSERVATION CENTER ENHANCEMENT ACT OF 2023\"; H.R. 4717, TO AMEND THE HEALTHY FORESTS RESTORATION ACT OF 2003 WITH RESPECT TO THIRD-PARTY CONTRACTS FOR WILDFIRE HAZARD FUEL REMOVAL, TO AMEND THE NATIONAL FOREST MANAGEMENT ACT WITH RESPECT TO THE THRESHOLD FOR ADVERTISED TIMBER SALES, AND FOR OTHER PURPOSES, \"LOCALLY LED RESTORATION ACT OF 2023\"; H.R. 5582, TO PROVIDE FOR WHITE OAK RESTORATION, AND FOR OTHER PURPOSES, \"WHITE OAK RESILIENCE ACT\"; H.R. 5665, TO REQUIRE A COMPREHENSIVE ASSESSMENT OF CERTAIN FEDERAL TRAILS, CAMPSITES, BOAT DOCKS, AND OUTDOOR RECREATION FACILITIES TO DETERMINE THE ACCESSIBILITY OPTIONS FOR INDIVIDUALS WITH DISABILITIES, AND FOR OTHER PURPOSES, \"PROMOTING ACCESSIBILITY ON FEDERAL LANDS ACT OF 2023\"; H.R. 6070, TO AMEND THE MILITARY LANDS WITHDRAWAL ACT OF 1999 TO CLARIFY THE AUTHORITY OF DEPARTMENT OF DEFENSE TO CONDUCT CERTAIN MILITARY ACTIVITIES AT THE NEVADA TEST AND TRAINING RANGE, AND FOR OTHER PURPOSES; AND DISCUSSION DRAFT OF H.R., TO ESTABLISH DEMONSTRATION PROJECTS TO SUPPORT THE DEVELOPMENT AND COMMERCIALIZATION OF BIOCHAR AND A COMPETITIVE GRANT PROGRAM TO CARRY OUT RESEARCH AND DEVELOPMENT WITH RESPECT TO BIOCHAR, \"BIOCHAR INNOVATIONS AND OPPORTUNITIES FOREST CONSERVATION, HEALTH, AND ADVANCEMENTS IN RESEARCH ACT\" OR \"BIOCHAR ACT\"",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 4,
+    "total_words": 39736,
+    "ai_density": 0.2,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg53322",
+    "title": "A REVIEW OF TITLE VII: UNIVERSITY PERSPECTIVES ON RESEARCH AND EXTENSION PROGRAMS",
+    "strong_ai_mentions": 4,
+    "moderate_ai_mentions": 6,
+    "total_words": 71497,
+    "ai_density": 0.2,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55317",
+    "title": "STATE, FOREIGN OPERATIONS, AND RELATED PROGRAMS APPROPRIATIONS FOR FISCAL YEAR 2025",
+    "strong_ai_mentions": 7,
+    "moderate_ai_mentions": 15,
+    "total_words": 156230,
+    "ai_density": 0.19,
+    "relevance": "LOW",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56439",
+    "title": "AGENCY AUDIT: REVIEWING CFPB FINANCIAL REPORTING AND TRANSPARENCY",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 1,
+    "total_words": 15544,
+    "ai_density": 0.19,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg61669",
+    "title": "MEDICARE ADVANTAGE ANNUAL ENROLLMENT: CRACKING DOWN ON DECEPTIVE PRACTICES AND IMPROVING SENIOR EXPERIENCES",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 9,
+    "total_words": 67539,
+    "ai_density": 0.19,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54709",
+    "title": "LEGISLATIVE HEARING ON H.R. 2925, TO AMEND THE OMNIBUS BUDGET RECONCILI- ATION ACT OF 1993 TO PROVIDE FOR SECU- RITY OF TENURE FOR USE OF MINING CLAIMS FOR ANCILLARY ACTIVITIES, AND FOR OTHER PURPOSES, \"MINING REGU- LATORY CLARITY ACT OF 2023\"; H.R. 6862, TO AMEND THE FAST ACT TO INCLUDE CERTAIN MINERAL PRODUCTION ACTIVI- TIES AS A COVERED PROJECT, AND FOR OTHER PURPOSES; H.R. 7003, TO AMEND THE NATIONAL LANDSLIDE PREPAREDNESS ACT TO REAUTHORIZE SUCH ACT, \"NATIONAL LANDSLIDE PREPAREDNESS ACT REAUTHORIZATION ACT OF 2024\"; AND H.R. 7004, TO AMEND THE MINERAL LEASING ACT TO AMEND REFERENCES OF GILSONITE TO ASPHALTITE",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 10,
+    "total_words": 62897,
+    "ai_density": 0.19,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54721",
+    "title": "Unknown",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 5,
+    "total_words": 26768,
+    "ai_density": 0.19,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg53947",
+    "title": "COUNTERING THREATS POSED BY NATION-STATE ACTORS IN LATIN AMERICA TO U.S. HOMELAND SECURITY",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 2,
+    "total_words": 31938,
+    "ai_density": 0.19,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56906",
+    "title": "THE ANNUAL TESTIMONY OF THE SECRETARY OF THE TREASURY ON THE STATE OF THE INTERNATIONAL FINANCIAL SYSTEM",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 3,
+    "total_words": 25762,
+    "ai_density": 0.19,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg56046",
+    "title": "STREAMLINING THE FEDERAL. CYBERSECURITY REGULATORY PROCESS: THE PATH TO HARMONIZATION",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 2,
+    "total_words": 10878,
+    "ai_density": 0.18,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg59892",
+    "title": "A REVIEW OF DISASTER FUNDING NEEDS",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 2,
+    "total_words": 43693,
+    "ai_density": 0.18,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54614",
+    "title": "H.R. 897, H.R. 3925, H.R. 5441, AND H.R. 6235",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 2,
+    "total_words": 33101,
+    "ai_density": 0.18,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg61520",
+    "title": "WADA SHAME: SWIMMING IN DENIAL OVER CHINESE DOPING",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 1,
+    "total_words": 28395,
+    "ai_density": 0.18,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg57016",
+    "title": "FUSION ENERGY TECHNOLOGY DEVELOPMENT AND COMMERCIALIZATION EFFORTS",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 2,
+    "total_words": 22087,
+    "ai_density": 0.18,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg53376",
+    "title": "PROTECTING INVESTOR INTERESTS: EXAMINING ENVIRONMENTAL AND SOCIAL POLICY IN FINANCIAL REGULATION",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 3,
+    "total_words": 27059,
+    "ai_density": 0.18,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg58532",
+    "title": "HOPE ON THE HORIZON: PRIORITIZING SMALL BUSINESS GROWTH IN THE 119TH CONGRESS",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 2,
+    "total_words": 24000,
+    "ai_density": 0.17,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg60853",
+    "title": "SECURING AMERICA'S MINERAL FUTURE: UNLOCKING THE ECONOMIC VALUE BENEATH OUR FEET",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 1,
+    "total_words": 17977,
+    "ai_density": 0.17,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg53871",
+    "title": "POTENTIAL CONSEQUENCES OF FINCEN'S BENEFICIAL OWNERSHIP RULEMAKING",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 1,
+    "total_words": 18175,
+    "ai_density": 0.17,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59960",
+    "title": "AMERICA BUILDS: CLEAN WATER ACT PERMITTING AND PROJECT DELIVERY",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 3,
+    "total_words": 52082,
+    "ai_density": 0.17,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg58373",
+    "title": "THE NOMINATION OF THE HONORABLE RUSSELL T. VOUGHT, OF VIRGINIA, TO BE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGET",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 4,
+    "total_words": 23212,
+    "ai_density": 0.17,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg57384",
+    "title": "MODERNIZING U.S. ALLIANCES AND PARTNERSHIPS IN THE INDO-PACIFIC",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 0,
+    "total_words": 23444,
+    "ai_density": 0.17,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55612",
+    "title": "THE SCIENCE OF EXTREME EVENT ATTRIBUTION: HOW CLIMATE CHANGE IS FUELING SEVERE WEATHER EVENTS",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 1,
+    "total_words": 17700,
+    "ai_density": 0.17,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg57245",
+    "title": "EVERYDAY EXPENSES AND EVERYDAY AMERICANS: HOW HIGH COSTS IMPACT CHILDREN AND FAMILIES",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 1,
+    "total_words": 18293,
+    "ai_density": 0.16,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55394",
+    "title": "NATION ON FIRE: RESPONDING TO THE INCREASING WILDFIRE THREAT",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 1,
+    "total_words": 18789,
+    "ai_density": 0.16,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56688",
+    "title": "RISKS AND REWARDS: ENCOURAGING COMMERCIAL SPACE INNOVATION WHILE MAINTAINING PUBLIC SAFETY",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 1,
+    "total_words": 20126,
+    "ai_density": 0.15,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56470",
+    "title": "ENHANCING ACCESS TO CARE AT HOME IN RURAL AND UNDERSERVED COMMUNITIES",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 5,
+    "total_words": 33429,
+    "ai_density": 0.15,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg60515",
+    "title": "MARKUP OF VARIOUS MEASURES",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 1,
+    "total_words": 19357,
+    "ai_density": 0.15,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61192",
+    "title": "ELIMINATING WASTE, FRAUD, AND ABUSE AT THE DEPARTMENT OF HOMELAND SECU- RITY: ADDRESSING THE BIDEN-HARRIS AD- MINISTRATION'S FAILURES",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 5,
+    "total_words": 45669,
+    "ai_density": 0.15,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg62144",
+    "title": "FIXING EMERGENCY MANAGEMENT: EXAMINING IMPROVEMENTS TO FEMA'S DISASTER RESPONSE",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 1,
+    "total_words": 36874,
+    "ai_density": 0.14,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61179",
+    "title": "Submissions for the Record",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 3,
+    "total_words": 50986,
+    "ai_density": 0.14,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57570",
+    "title": "EXAMINING THE STATE OF RAIL SAFETY IN THE AFTERMATH OF THE DERAILMENT IN EAST PALESTINE, OHIO",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 10,
+    "total_words": 72931,
+    "ai_density": 0.14,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg53870",
+    "title": "OVERSIGHT OF THE SEC'S DIVISION OF CORPORATION FINANCE",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 0,
+    "total_words": 14477,
+    "ai_density": 0.14,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56421",
+    "title": "THE DANGER CHINA POSES TO AMERICAN AGRICULTURE",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 12,
+    "total_words": 92211,
+    "ai_density": 0.13,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg62535",
+    "title": "HEARING ON THE U.S. ENVIRONMENTAL PROTECTION AGENCY'S PROPOSED FISCAL YEAR 2025 BUDGET",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 1,
+    "total_words": 23995,
+    "ai_density": 0.13,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61397",
+    "title": "A DECADE LATER: A REVIEW OF CONGRESSIONAL ACTION, ENVIRONMENTAL PROTECTION AGENCY RULES, AND BENEFICIAL USE OPPORTUNITIES FOR COAL ASH",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 1,
+    "total_words": 23610,
+    "ai_density": 0.13,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg58842",
+    "title": "A DECADE LATER: ASSESSING THE LEGACY AND IMPACT OF THE FRANK LAUTENBERG CHEMICAL SAFETY FOR THE 21ST CENTURY ACT",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 0,
+    "total_words": 31138,
+    "ai_density": 0.13,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57284",
+    "title": "DEPARTMENT OF TRANSPORTATION, HUD, AND RELATED AGENCIES APPROPRIATIONS FOR 2025",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 7,
+    "total_words": 55908,
+    "ai_density": 0.13,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg58472",
+    "title": "LEGISLATIVE HEARING",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 2,
+    "total_words": 29844,
+    "ai_density": 0.13,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg59600",
+    "title": "THE FEDERAL RESERVE'S SEMI-ANNUAL MONETARY POLICY REPORT",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 2,
+    "total_words": 29894,
+    "ai_density": 0.13,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg62518",
+    "title": "HEARING ON THE NOMINATION OF CHRISTOPHER T. HANSON TO BE A MEMBER OF THE NUCLEAR REGULATORY COMMISSION",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 0,
+    "total_words": 16278,
+    "ai_density": 0.12,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg62294",
+    "title": "OVERSIGHT OF THE FOREIGN INTELLIGENCE SURVEILLANCE ACT",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 4,
+    "total_words": 33225,
+    "ai_density": 0.12,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg58955",
+    "title": "THE NOMINATION OF HON. MARCO RUBIO TO BE U.S. SECRETARY OF STATE",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 5,
+    "total_words": 73833,
+    "ai_density": 0.12,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54330",
+    "title": "\\23\\ HTF 101, supra note 18. \\24\\ Id. The HA continued to be largely devoted to construction and maintenance of highways and bridges. The MTA was created to fund public transportation such as buses, railways, subways, and ferries, and also allows for the use of limited funds for operating expenses in rural and small urbanized areas.\\25\\ This new structure represented a move away from the user-pays principle originally envisioned for the HTF. Road users began to pay for transit programs, which constituted a diversion of funds from highway program purposes.\\26\\ According to a 2013 study by the University of California, Berkley and the National Bureau of Economic Research, \"the congestion relief benefits alone may justify transit infrastructure investments.\" \\27\\ However, the same study acknowledged that \"previous economic research does not support the hypothesis that transit generates large reduction in traffic congestion.\" \\28\\ \\25\\ CRS R47573, supra note 5. \\26\\ Richard Weingroff, Busting the Trust, FHWA Public Roads (July/ Aug. 2013), available at https://highways.dot.gov/public-roads/ julyaugust-2013/busting-trust. \\27\\ Michael L. Anderson, Subways, Strikes, and Slowdowns: The Impacts of Public Transit on Traffic Congestion, University of Calif., Berkley & NBER, (Aug. 30, 2013), available at https://are.berkeley.edu/ mlanderson/pdf/Anderson_transit.pdf. \\28\\ Id.",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 2,
+    "total_words": 69066,
+    "ai_density": 0.12,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg53045",
+    "title": "FIXING FISA, PART II",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 0,
+    "total_words": 16900,
+    "ai_density": 0.12,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55605",
+    "title": "U.S. DEPARTMENT OF VETERANS AFFAIRS BUDGET REQUEST FOR FISCAL YEARS 2025 AND 2026",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 3,
+    "total_words": 28203,
+    "ai_density": 0.11,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg62625",
+    "title": "HEARING FOR THE PURPOSE OF RECEIVING TESTIMONY FROM THE HONORABLE BROOKE L. ROLLINS, SECRETARY, U.S. DEPARTMENT OF AGRICULTURE",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 10,
+    "total_words": 123613,
+    "ai_density": 0.11,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55843",
+    "title": "OPPORTUNITIES AND CHALLENGES ASSOCIATED WITH ADVANCED NUCLEAR REACTOR COMMERCIALIZATION",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 0,
+    "total_words": 17897,
+    "ai_density": 0.11,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg53758",
+    "title": "EXPOSING THE DANGERS OF THE INFLUENCE OF FOREIGN ADVERSARIES ON COLLEGE CAMPUSES",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 0,
+    "total_words": 18732,
+    "ai_density": 0.11,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg60078",
+    "title": "NOMINATIONS",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 12,
+    "total_words": 163007,
+    "ai_density": 0.11,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54231",
+    "title": "PROTECTING THE U.S. HOMELAND: FIGHTING THE FLOW OF FENTANYL FROM THE SOUTHWEST BORDER",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 2,
+    "total_words": 35655,
+    "ai_density": 0.11,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55018",
+    "title": "PROJECTING PRESENCE AND POWER IN THE INDO-PACIFIC: AN EXAMINATION OF THE UNITED STATES COAST GUARD'S CONTRIBUTIONS TO MARITIME SECURITY",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 0,
+    "total_words": 17915,
+    "ai_density": 0.11,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg60990",
+    "title": "REASSESSING SARBANES-OXLEY: THE COST OF COMPLIANCE IN TODAY'S CAPITAL MARKETS",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 0,
+    "total_words": 18853,
+    "ai_density": 0.11,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55816",
+    "title": "Unknown",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 0,
+    "total_words": 19214,
+    "ai_density": 0.1,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56867",
+    "title": "THE BIDEN ADMINISTRATION'S 2024 TRADE POLICY AGENDA WITH UNITED STATES TRADE REPRESENTATIVE KATHERINE TAI",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 0,
+    "total_words": 38507,
+    "ai_density": 0.1,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg57034",
+    "title": "S. Hrg. 118-433 . FISCAL YEAR 2025 UNITED STATES AGENCY FOR INTERNATIONAL DEVELOPMENT BUDGET REQUEST",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 2,
+    "total_words": 42041,
+    "ai_density": 0.1,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55274",
+    "title": "LEGISLATIVE HEARING ON H.R. 1395, TO AMEND THE WATER INFRASTRUCTURE IMPROVEMENTS FOR THE NATION ACT TO REAUTHORIZE DELAWARE RIVER BASIN CONSERVATION PROGRAMS, AND FOR OTHER PURPOSES, \"DELAWARE RIVER BASIN CONSERVATION REAUTHORIZATION ACT OF 2023\"; H.R. 5487, TO REQUIRE THE SECRETARY OF COMMERCE TO ESTABLISH AND CARRY OUT A GRANT PROGRAM TO CONSERVE, RESTORE, AND MANAGE KELP FOREST ECOSYSTEMS, AND FOR OTHER PURPOSES, \"HELP OUR KELP ACT\"; H.R. 6814, TO REQUIRE THE UNDER SECRETARY OF COMMERCE FOR OCEANS AND ATMOSPHERE TO ASSESS CERTAIN OFFSHORE OIL AND GAS PLATFORMS AND PIPELINES FOR POTENTIAL USE AS ARTIFICIAL REEFS, AND FOR OTHER PURPOSES, \"MARINE FISHERIES HABITAT PROTECTION ACT\"; AND H.R. 7020, TO DIRECT THE ADMINISTRATOR OF THE NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION TO CONDUCT HIGH- RESOLUTION MAPPING OF THE LAKEBEDS OF THE GREAT LAKES, AND FOR OTHER PURPOSES, \"GREAT LAKES MAPPING ACT\"",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 0,
+    "total_words": 38701,
+    "ai_density": 0.1,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55526",
+    "title": "THE FY25 DHS BUDGET: RESOURCES AND AUTHORITIES REQUESTED TO PROTECT AND SECURE THE HOMELAND",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 2,
+    "total_words": 20484,
+    "ai_density": 0.1,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55690",
+    "title": "OVERSIGHT HEARING ON EXAMINING THE PRESIDENT'S FY 2025 BUDGET PROPOSAL FOR THE U.S. BUREAU OF RECLAMATION, U.S. FISH AND WILDLIFE SERVICE, NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRA- TION, AND THE POWER MARKETING ADMINISTRATIONS",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 2,
+    "total_words": 57777,
+    "ai_density": 0.1,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg57408",
+    "title": "A REVIEW OF THE NATIONAL SECURITY SUPPLEMENTAL REQUEST",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 2,
+    "total_words": 41477,
+    "ai_density": 0.1,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg56048",
+    "title": "ORIGINS OF COVID-19: AN EXAMINATION OF AVAILABLE EVIDENCE",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 2,
+    "total_words": 22793,
+    "ai_density": 0.09,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg53380",
+    "title": "OVERSIGHT OF FEDERAL AGENCIES' POST-PANDEMIC TELEWORK POLICIES",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 0,
+    "total_words": 22193,
+    "ai_density": 0.09,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61655",
+    "title": "OVERSIGHT OF THE FEDERAL BUREAU OF INVESTIGATION",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 1,
+    "total_words": 56368,
+    "ai_density": 0.09,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57432",
+    "title": "DEPARTMENT OF DEFENSE APPROPRIATIONS FOR 2025",
+    "strong_ai_mentions": 3,
+    "moderate_ai_mentions": 2,
+    "total_words": 94008,
+    "ai_density": 0.09,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61689",
+    "title": ". PAST BREAKTHROUGHS AND FUTURE INNOVATIONS IN CROP PRODUCTION",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 2,
+    "total_words": 42185,
+    "ai_density": 0.09,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg53426",
+    "title": "A REVIEW OF SCIENCE AND TECHNOLOGY ACTIVITIES AT THE ENVIRONMENTAL PROTECTION AGENCY AND THE USE OF SCIENCE IN REGULATORY AND DEREGULATORY DECISION-MAKING",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 3,
+    "total_words": 32475,
+    "ai_density": 0.09,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg60448",
+    "title": "MANDATES, MEDDLING, AND MISMANAGEMENT: THE IRA'S THREAT TO ENERGY AND MEDICINE",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 2,
+    "total_words": 21340,
+    "ai_density": 0.09,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg62738",
+    "title": "THERE'S A BAD MOON ON THE RISE: WHY CONGRESS AND NASA MUST THWART CHINA IN THE SPACE RACE",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 2,
+    "total_words": 55247,
+    "ai_density": 0.07,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55827",
+    "title": "OVERSIGHT OF OUR NATION'S LARGEST EMPLOYER: REVIEWING THE U.S. OFFICE OF PERSONNEL MANAGEMENT PART II",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 0,
+    "total_words": 27646,
+    "ai_density": 0.07,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg58803",
+    "title": "RIGHTSIZING GOVERNMENT",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 1,
+    "total_words": 46410,
+    "ai_density": 0.06,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56868",
+    "title": "HEARING WITH TREASURY SECRETARY JANET YELLEN",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 2,
+    "total_words": 31916,
+    "ai_density": 0.06,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55849",
+    "title": "WHY DOES THE UNITED STATES PAY, BY FAR, THE HIGHEST PRICES IN THE WORLD FOR PRESCRIPTION DRUGS?",
+    "strong_ai_mentions": 2,
+    "moderate_ai_mentions": 0,
+    "total_words": 62756,
+    "ai_density": 0.06,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55094",
+    "title": "PROPOSALS FOR A WATER RESOURCES DEVELOPMENT ACT OF 2024: MEMBERS' DAY HEARING",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 3,
+    "total_words": 56014,
+    "ai_density": 0.05,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119shrg60000",
+    "title": "NOMINATION OF SCOTT KUPOR AND ERIC M. UELAND",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 1,
+    "total_words": 19299,
+    "ai_density": 0.05,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55027",
+    "title": "U.S. NATIONAL SECURITY INTERESTS IN UKRAINE",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 0,
+    "total_words": 37123,
+    "ai_density": 0.05,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57220",
+    "title": "VOICES FOR THE VICTIMS: THE HEART- BREAKING REALITY OF THE MAYORKAS BORDER CRISIS",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 0,
+    "total_words": 61276,
+    "ai_density": 0.03,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56487",
+    "title": "IT'S ELECTRIC: A REVIEW OF FLEET ELECTRIFICATION EFFORTS",
+    "strong_ai_mentions": 1,
+    "moderate_ai_mentions": 0,
+    "total_words": 58669,
+    "ai_density": 0.03,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61339",
+    "title": "MASS GATHERING EVENTS: ASSESSING SECURITY COORDINATION AND PREPAREDNESS",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 0,
+    "total_words": 20776,
+    "ai_density": 0.0,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg60194",
+    "title": "TRACKING PROGRESS: UPDATES TO DOD'S FINANCIAL MANAGEMENT SCORECARD",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 0,
+    "total_words": 13966,
+    "ai_density": 0.0,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57162",
+    "title": "Investing In A Healthier America: Chronic Disease Prevention and Treatment",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 0,
+    "total_words": 105,
+    "ai_density": 0.0,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg53540",
+    "title": "Unknown",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 0,
+    "total_words": 94,
+    "ai_density": 0.0,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg56761",
+    "title": "Serial No. 118-146 - DISCUSSION DRAFT OF H.R.___, TO AMEND THE NATIONAL ENVIRONMENTAL POLICY ACT OF 1969, AND FOR OTHER PURPOSES; H.J. RES. 168, AND H.R. 6129",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 0,
+    "total_words": 158,
+    "ai_density": 0.0,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61933",
+    "title": "Unknown",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 0,
+    "total_words": 218,
+    "ai_density": 0.0,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118shrg55321",
+    "title": "ASSESSING THE DEPARTMENT OF STATE'S STRATEGY FOR SECURITY IN THE BLACK SEA REGION",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 0,
+    "total_words": 13904,
+    "ai_density": 0.0,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55019",
+    "title": "Unknown",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 0,
+    "total_words": 108,
+    "ai_density": 0.0,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55927",
+    "title": "HEARING WITH HEALTH AND HUMAN SERVICES SECRETARY BECERRA",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 0,
+    "total_words": 94,
+    "ai_density": 0.0,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg58951",
+    "title": "Restoring Energy Dominance:  The Path To Unleashing American Offshore Energy",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 0,
+    "total_words": 122,
+    "ai_density": 0.0,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg57565",
+    "title": "[H.A.S.C. No. 118-54]  Outpacing China:  Expediting The Field of Innovation",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 0,
+    "total_words": 81,
+    "ai_density": 0.0,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg54179",
+    "title": "A HOLISTIC REVIEW OF REGULATORS: REGULATORY OVERREACH AND ECONOMIC CONSEQUENCES",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 0,
+    "total_words": 16446,
+    "ai_density": 0.0,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg55065",
+    "title": "EDUCATIONAL FREEDOM AND OPPORTUNITY FOR AMERICAN FAMILIES, STUDENTS AND WORKERS",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 0,
+    "total_words": 100,
+    "ai_density": 0.0,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg60026",
+    "title": "Unknown",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 0,
+    "total_words": 107,
+    "ai_density": 0.0,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-118hhrg59863",
+    "title": "A COUNTRY WITHOUT BORDERS: HOW BIDEN-HARRIS' OPEN-BORDERS POLICIES HAVE UNDERMINED OUR SAFETY AND SECURITY",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 0,
+    "total_words": 40121,
+    "ai_density": 0.0,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  },
+  {
+    "id": "CHRG-119hhrg61853",
+    "title": "Unknown",
+    "strong_ai_mentions": 0,
+    "moderate_ai_mentions": 0,
+    "total_words": 92,
+    "ai_density": 0.0,
+    "relevance": "NONE",
+    "is_ai_hearing": false
+  }
+]
