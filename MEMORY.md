@@ -66,8 +66,15 @@ Exploratory study analyzing how AI is framed in U.S. congressional hearings usin
   - GOVERNANCE: 22%
   - RISK_HARM: 22%
 
-### Key Issue
-Search returns hearings that *mention* AI, not hearings *about* AI. Need filtering step.
+### Key Issue (SOLVED)
+Search returns hearings that *mention* AI, not hearings *about* AI.
+
+**Solution**: `filter_transcripts.py` scores full transcripts by AI term density.
+- HIGH: 129 hearings (23%) - density ≥5 or 20+ strong AI terms
+- MEDIUM: 69 hearings (12%)
+- Valid AI hearings: **198 total (35%)**
+
+Use `data/valid_ai_hearings.json` for coding, not raw search results.
 
 ### Quick Data Retrieval
 ```python
@@ -88,10 +95,11 @@ with open(DATA.parent / "outputs/claude/pilot_25_claude.json") as f:
 ### Status
 - [x] Data collection (561 transcripts)
 - [x] CommDAAF prompt v1.0
-- [x] Claude pilot coding
+- [x] Claude pilot coding (original 25)
+- [x] Filter false positives (198 valid AI hearings identified)
+- [ ] Claude pilot coding (filtered 25)
 - [ ] GLM pilot coding
 - [ ] Kimi pilot coding
-- [ ] Filter false positives
 - [ ] Full sample coding
 
 ---
