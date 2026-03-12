@@ -1,52 +1,27 @@
 [
-  {
-    "id": "CHRG-119hhrg59601",
-    "primary_frame": "SOVEREIGNTY",
-    "secondary_frame": "INNOVATION",
-    "valence": "MIXED",
-    "urgency": "HIGH",
-    "policy_stance": "NEUTRAL",
-    "confidence": 0.90,
-    "rationale": "Title is 'Examining Policies to Counter China.' Explicitly discusses 'economic and geopolitical rivalry with China,' mentions 5G race, TikTok, DeepSeek. Chair Hill frames as strategic competition where 'Congress must see the forest.' Clear sovereignty/national competition framing. Nuanced valence - not alarmist but serious."
-  },
-  {
-    "id": "CHRG-119hhrg60684",
-    "primary_frame": "PROCEDURAL",
-    "secondary_frame": "NONE",
-    "valence": "NEUTRAL",
-    "urgency": "LOW",
-    "policy_stance": "NEUTRAL",
-    "confidence": 0.25,
-    "rationale": "FALSE POSITIVE: Hearing is about veteran Transition Assistance Program (TAP), not AI. Content discusses military-to-civilian transition support. Should be excluded from AI framing analysis."
-  },
-  {
-    "id": "CHRG-119hhrg61123",
-    "primary_frame": "PROCEDURAL",
-    "secondary_frame": "NONE",
-    "valence": "NEUTRAL",
-    "urgency": "LOW",
-    "policy_stance": "NEUTRAL",
-    "confidence": 0.25,
-    "rationale": "FALSE POSITIVE: Generic 'Legislative Hearing' about VA services and legislative proposals. No AI-specific content in excerpt. Should be excluded from AI framing analysis."
-  },
-  {
-    "id": "CHRG-118hhrg55799",
-    "primary_frame": "PROCEDURAL",
-    "secondary_frame": "NONE",
-    "valence": "NEUTRAL",
-    "urgency": "LOW",
-    "policy_stance": "NEUTRAL",
-    "confidence": 0.25,
-    "rationale": "FALSE POSITIVE: Hearing on Workforce Innovation and Opportunity Act (WIOA) reauthorization. About job training and workforce development generally, not AI specifically. Should be excluded from AI framing analysis."
-  },
-  {
-    "id": "CHRG-119shrg61235",
-    "primary_frame": "PROCEDURAL",
-    "secondary_frame": "NONE",
-    "valence": "NEUTRAL",
-    "urgency": "LOW",
-    "policy_stance": "NEUTRAL",
-    "confidence": 0.25,
-    "rationale": "FALSE POSITIVE: Nomination hearing for DOI and DOE officials. Procedural confirmation hearing with no AI-specific content in excerpt. Should be excluded from AI framing analysis."
-  }
+  {"id": "CHRG-118hhrg54724", "primary_frame": "INNOVATION", "secondary_frame": "TECHNICAL", "valence": "POSITIVE", "urgency": "MEDIUM", "policy_stance": "PROMOTIONAL", "confidence": 0.85, "rationale": "Federal Science Agencies and Promise of AI in Driving Scientific Discoveries. Joint R&T/Energy hearing on AI for science."},
+  {"id": "CHRG-118hhrg52499", "primary_frame": "INNOVATION", "secondary_frame": "SOVEREIGNTY", "valence": "POSITIVE", "urgency": "MEDIUM", "policy_stance": "PROMOTIONAL", "confidence": 0.88, "rationale": "AI: Advancing Innovation Towards the National Interest. Science Committee focus on US leadership."},
+  {"id": "CHRG-119hhrg61182", "primary_frame": "RISK_HARM", "secondary_frame": "GOVERNANCE", "valence": "NEGATIVE", "urgency": "HIGH", "policy_stance": "REGULATORY", "confidence": 0.90, "rationale": "AI and Criminal Exploitation: A New Era of Risk. Judiciary Crime Subcommittee on criminal use of AI."},
+  {"id": "CHRG-118shrg52483", "primary_frame": "GOVERNANCE", "secondary_frame": "RISK_SAFETY", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.85, "rationale": "AI: Risks and Opportunities. HSGAC balanced assessment of AI policy."},
+  {"id": "CHRG-118hhrg54784", "primary_frame": "GOVERNANCE", "secondary_frame": "TECHNICAL", "valence": "NEUTRAL", "urgency": "LOW", "policy_stance": "BALANCED", "confidence": 0.82, "rationale": "AI: Innovations Within the Legislative Branch. House Admin on Congress using AI."},
+  {"id": "CHRG-118hhrg55186", "primary_frame": "INNOVATION", "secondary_frame": "GOVERNANCE", "valence": "POSITIVE", "urgency": "MEDIUM", "policy_stance": "PROMOTIONAL", "confidence": 0.85, "rationale": "AI at VA: Exploring Current State and Future Possibilities. Veterans Affairs on AI adoption."},
+  {"id": "CHRG-118shrg53115", "primary_frame": "GOVERNANCE", "secondary_frame": "INNOVATION", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.85, "rationale": "AI and IP Part I: Patents, Innovation, Competition. Judiciary on patent/innovation balance."},
+  {"id": "CHRG-115hhrg30296", "primary_frame": "INNOVATION", "secondary_frame": "TECHNICAL", "valence": "POSITIVE", "urgency": "LOW", "policy_stance": "PROMOTIONAL", "confidence": 0.85, "rationale": "Game Changers: AI Part I. Early 2018 Oversight hearing on AI potential."},
+  {"id": "CHRG-118hhrg54927", "primary_frame": "RIGHTS", "secondary_frame": "GOVERNANCE", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "REGULATORY", "confidence": 0.85, "rationale": "Future of Data Privacy and AI at VA. Veterans Affairs focus on privacy protections."},
+  {"id": "CHRG-118shrg60389", "primary_frame": "SOVEREIGNTY", "secondary_frame": "TECHNICAL", "valence": "MIXED", "urgency": "HIGH", "policy_stance": "BALANCED", "confidence": 0.88, "rationale": "AI/ML Applications to Improve DoD Operations. Armed Services on military AI."},
+  {"id": "CHRG-118hhrg54570", "primary_frame": "RISK_ECONOMIC", "secondary_frame": "GOVERNANCE", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.82, "rationale": "Toward an AI-Ready Workforce. Focus on workforce transformation and skills."},
+  {"id": "CHRG-118hhrg55220", "primary_frame": "GOVERNANCE", "secondary_frame": "SOVEREIGNTY", "valence": "NEGATIVE", "urgency": "MEDIUM", "policy_stance": "ANTI_REGULATION", "confidence": 0.85, "rationale": "White House Overreach on AI. Critical of Biden EO, pro-innovation framing."},
+  {"id": "CHRG-119hhrg60631", "primary_frame": "GOVERNANCE", "secondary_frame": "SOVEREIGNTY", "valence": "MIXED", "urgency": "HIGH", "policy_stance": "BALANCED", "confidence": 0.85, "rationale": "AI Regulation and Future of US Leadership. Regulatory balance with competitiveness."},
+  {"id": "CHRG-118shrg58917", "primary_frame": "RISK_HARM", "secondary_frame": "GOVERNANCE", "valence": "NEGATIVE", "urgency": "HIGH", "policy_stance": "REGULATORY", "confidence": 0.90, "rationale": "Oversight of AI: Election Deepfakes. Rules Committee on AI threats to elections."},
+  {"id": "CHRG-118shrg53707", "primary_frame": "GOVERNANCE", "secondary_frame": "TECHNICAL", "valence": "NEUTRAL", "urgency": "MEDIUM", "policy_stance": "REGULATORY", "confidence": 0.85, "rationale": "Governing AI Through Acquisition and Procurement. Federal AI procurement standards."},
+  {"id": "CHRG-118hhrg52318", "primary_frame": "GOVERNANCE", "secondary_frame": "RIGHTS", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.85, "rationale": "AI and IP Part I: AI and Copyright Law. Judiciary on copyright implications."},
+  {"id": "CHRG-118shrg53116", "primary_frame": "GOVERNANCE", "secondary_frame": "RIGHTS", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.85, "rationale": "AI and IP Part II: Copyright. Judiciary continuation on copyright issues."},
+  {"id": "CHRG-119hhrg59906", "primary_frame": "INNOVATION", "secondary_frame": "SOVEREIGNTY", "valence": "POSITIVE", "urgency": "MEDIUM", "policy_stance": "PROMOTIONAL", "confidence": 0.85, "rationale": "AI: Examining Trends in Innovation and Competition. Innovation and competitiveness focus."},
+  {"id": "CHRG-115hhrg30877", "primary_frame": "GOVERNANCE", "secondary_frame": "RISK_SAFETY", "valence": "MIXED", "urgency": "LOW", "policy_stance": "BALANCED", "confidence": 0.85, "rationale": "AI: With Great Power Comes Great Responsibility. 2018 hearing on responsible AI."},
+  {"id": "CHRG-118shrg53503", "primary_frame": "GOVERNANCE", "secondary_frame": "RISK_SAFETY", "valence": "NEUTRAL", "urgency": "MEDIUM", "policy_stance": "REGULATORY", "confidence": 0.85, "rationale": "Oversight of AI: Principles for Regulation. Rules Committee on regulatory principles."},
+  {"id": "CHRG-119hhrg61734", "primary_frame": "INNOVATION", "secondary_frame": "GOVERNANCE", "valence": "POSITIVE", "urgency": "MEDIUM", "policy_stance": "PROMOTIONAL", "confidence": 0.82, "rationale": "Shaping Tomorrow: The Future of AI. Forward-looking innovation focus."},
+  {"id": "CHRG-115hhrg34978", "primary_frame": "SOVEREIGNTY", "secondary_frame": "TECHNICAL", "valence": "MIXED", "urgency": "HIGH", "policy_stance": "BALANCED", "confidence": 0.88, "rationale": "DoD AI Structure, Investments, Applications. Armed Services on military AI strategy."},
+  {"id": "CHRG-119hhrg60318", "primary_frame": "SOVEREIGNTY", "secondary_frame": "INNOVATION", "valence": "MIXED", "urgency": "HIGH", "policy_stance": "BALANCED", "confidence": 0.88, "rationale": "Protecting Our Edge: Trade Secrets and Global AI Arms Race. Geopolitical AI competition."},
+  {"id": "CHRG-119hhrg61690", "primary_frame": "GOVERNANCE", "secondary_frame": "SOVEREIGNTY", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.82, "rationale": "AI at a Crossroads: Nationwide Strategy or Californication? Federal vs state AI governance."},
+  {"id": "CHRG-118shrg54677", "primary_frame": "GOVERNANCE", "secondary_frame": "INNOVATION", "valence": "NEUTRAL", "urgency": "LOW", "policy_stance": "BALANCED", "confidence": 0.82, "rationale": "AI at Library of Congress, GPO, Smithsonian. Federal cultural institution AI adoption."}
 ]

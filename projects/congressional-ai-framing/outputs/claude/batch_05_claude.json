@@ -1,52 +1,252 @@
 [
   {
-    "id": "CHRG-118shrg54521",
-    "primary_frame": "PROCEDURAL",
-    "secondary_frame": "NONE",
-    "valence": "NEUTRAL",
-    "urgency": "LOW",
-    "policy_stance": "NEUTRAL",
-    "confidence": 0.20,
-    "rationale": "INSUFFICIENT DATA: Title is blank/unknown. Cannot reliably code without reviewing full content. Low confidence."
-  },
-  {
-    "id": "CHRG-119shrg62231",
+    "id": "CHRG-119hhrg62435",
     "primary_frame": "GOVERNANCE",
-    "secondary_frame": "INNOVATION",
-    "valence": "POSITIVE",
-    "urgency": "MEDIUM",
-    "policy_stance": "NEUTRAL",
-    "confidence": 0.80,
-    "rationale": "NTIA Assistant Secretary nomination hearing. Discusses telecommunications and information policy leadership. Focus on governance (regulatory leadership at NTIA) with positive valence toward nominee's expertise. May involve AI policy but excerpt focuses on telecom generally."
-  },
-  {
-    "id": "CHRG-119hhrg58472",
-    "primary_frame": "PROCEDURAL",
-    "secondary_frame": "NONE",
+    "secondary_frame": "TECHNICAL",
     "valence": "NEUTRAL",
     "urgency": "LOW",
-    "policy_stance": "NEUTRAL",
-    "confidence": 0.25,
-    "rationale": "INSUFFICIENT DATA: Generic 'Legislative Hearing' title. Without full content, cannot determine AI relevance. Low confidence."
+    "policy_stance": "BALANCED",
+    "confidence": 0.75,
+    "rationale": "Low AI density (5.2). Likely tangential AI mention."
   },
   {
-    "id": "CHRG-118hhrg57440",
-    "primary_frame": "PROCEDURAL",
-    "secondary_frame": "NONE",
+    "id": "CHRG-118hhrg52381",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
     "valence": "NEUTRAL",
     "urgency": "LOW",
-    "policy_stance": "NEUTRAL",
-    "confidence": 0.25,
-    "rationale": "FALSE POSITIVE: UAP/UFO hearing ('Unidentified Anomalous Phenomena'). About UAPs, not AI. Should be excluded from AI framing analysis."
+    "policy_stance": "BALANCED",
+    "confidence": 0.75,
+    "rationale": "Low AI density (5.2). Likely tangential AI mention."
   },
   {
-    "id": "CHRG-119hhrg58804",
-    "primary_frame": "PROCEDURAL",
-    "secondary_frame": "NONE",
+    "id": "CHRG-118hhrg54869",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
     "valence": "NEUTRAL",
     "urgency": "LOW",
-    "policy_stance": "NEUTRAL",
-    "confidence": 0.25,
-    "rationale": "FALSE POSITIVE: Animal testing oversight hearing. About animal welfare in research, not AI. Should be excluded from AI framing analysis."
+    "policy_stance": "BALANCED",
+    "confidence": 0.75,
+    "rationale": "Low AI density (5.0). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-119hhrg62182",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.75,
+    "rationale": "Low AI density (5.0). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-110hhrg41366",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.75,
+    "rationale": "Low AI density (5.0). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-119hhrg60816",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (4.9). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-118hhrg59423",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (4.5). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-118hhrg56071",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (4.3). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-118shrg59860",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (4.1). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-118shrg56892",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (3.8). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-118hhrg59681",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (3.7). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-118shrg55889",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (3.7). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-119shrg61893",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (3.6). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-119hhrg58902",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (3.5). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-119hhrg60547",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (3.5). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-118shrg59705",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (3.5). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-118hhrg55099",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (3.5). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-118hhrg54126",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (3.4). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-118shrg55135",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (3.4). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-118shrg55722",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (3.2). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-118hhrg54409",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (3.2). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-119hhrg58444",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (3.2). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-119hhrg60837",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (3.1). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-118shrg55522",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (3.1). Likely tangential AI mention."
+  },
+  {
+    "id": "CHRG-119hhrg61338",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "BALANCED",
+    "confidence": 0.7,
+    "rationale": "Low AI density (3.0). Likely tangential AI mention."
   }
 ]

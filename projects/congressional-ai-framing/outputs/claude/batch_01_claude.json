@@ -1,52 +1,242 @@
 [
   {
-    "id": "CHRG-119hhrg60318",
+    "id": "CHRG-118shrg59704",
+    "primary_frame": "RISK_SAFETY",
+    "secondary_frame": "GOVERNANCE",
+    "valence": "MIXED",
+    "urgency": "MEDIUM",
+    "policy_stance": "REGULATORY",
+    "confidence": 0.90,
+    "rationale": "Transparency in AI hearing. Consumer protection focus, NIST AI RMF, risk management programs. Hickenlooper frames as 'benefits and risks' requiring careful rules."
+  },
+  {
+    "id": "CHRG-115shrg37295",
+    "primary_frame": "INNOVATION",
+    "secondary_frame": "GOVERNANCE",
+    "valence": "POSITIVE",
+    "urgency": "LOW",
+    "policy_stance": "PROMOTIONAL",
+    "confidence": 0.88,
+    "rationale": "2017 'Building Blocks of ML/AI' hearing. Economic transformation, commercial applications, US leadership. Early optimistic framing."
+  },
+  {
+    "id": "CHRG-118shrg62427",
+    "primary_frame": "RISK_HARM",
+    "secondary_frame": "RIGHTS",
+    "valence": "NEGATIVE",
+    "urgency": "HIGH",
+    "policy_stance": "REGULATORY",
+    "confidence": 0.92,
+    "rationale": "Healthcare AI hearing dominated by documented algorithmic bias. Wyden emphasizes discrimination against patients. Algorithm Accountability Act proposed."
+  },
+  {
+    "id": "CHRG-117shrg59763",
+    "primary_frame": "SOVEREIGNTY",
+    "secondary_frame": "TECHNICAL",
+    "valence": "MIXED",
+    "urgency": "HIGH",
+    "policy_stance": "BALANCED",
+    "confidence": 0.85,
+    "rationale": "Armed Services Cybersecurity Subcommittee on 'AI Applications to Operations in Cyberspace.' Military AI for cyber operations. Witnesses from Google Cloud AI, Microsoft. Workforce shortage driving AI adoption for defense."
+  },
+  {
+    "id": "CHRG-118hhrg53782",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "MEDIUM",
+    "policy_stance": "BALANCED",
+    "confidence": 0.90,
+    "rationale": "Risk management foundations hearing. NIST framework, technical standards, measurement science. Bipartisan 'don't rush to regulate but don't be complacent.'"
+  },
+  {
+    "id": "CHRG-117hhrg46195",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "RIGHTS",
+    "valence": "MIXED",
+    "urgency": "MEDIUM",
+    "policy_stance": "REGULATORY",
+    "confidence": 0.85,
+    "rationale": "'Beyond I, Robot: Ethics, AI, and the Digital Age' - Financial Services AI Task Force. Witnesses from NYU, BSA, Wilson Center, EqualAI, BIS. Ethics and fairness in financial AI."
+  },
+  {
+    "id": "CHRG-118hhrg54392",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "SOVEREIGNTY",
+    "valence": "MIXED",
+    "urgency": "MEDIUM",
+    "policy_stance": "BALANCED",
+    "confidence": 0.82,
+    "rationale": "White House Policy on AI hearing. Biden EO implementation focus. China competition prominent but EO coordination is structural focus."
+  },
+  {
+    "id": "CHRG-114shrg24175",
+    "primary_frame": "INNOVATION",
+    "secondary_frame": "TECHNICAL",
+    "valence": "POSITIVE",
+    "urgency": "LOW",
+    "policy_stance": "PROMOTIONAL",
+    "confidence": 0.88,
+    "rationale": "'Dawn of Artificial Intelligence' - November 2016. Cruz chairs. Witnesses include Eric Horvitz (Microsoft), Andrew Moore (CMU), Greg Brockman (OpenAI). Early optimism, innovation/disruption framing."
+  },
+  {
+    "id": "CHRG-118hhrg56783",
+    "primary_frame": "RISK_SAFETY",
+    "secondary_frame": "GOVERNANCE",
+    "valence": "MIXED",
+    "urgency": "MEDIUM",
+    "policy_stance": "REGULATORY",
+    "confidence": 0.85,
+    "rationale": "'DHS/CISA Role in Securing AI' - Homeland Security Cybersecurity Subcommittee. Focus on AI security for critical infrastructure. Witnesses from Protect AI, IBM, SentinelOne."
+  },
+  {
+    "id": "CHRG-118shrg54522",
+    "primary_frame": "RISK_HARM",
+    "secondary_frame": "GOVERNANCE",
+    "valence": "MIXED",
+    "urgency": "MEDIUM",
+    "policy_stance": "REGULATORY",
+    "confidence": 0.85,
+    "rationale": "'Avoiding a Cautionary Tale: AI in Healthcare.' HELP Committee. Focus on policy considerations, patient safety. Witnesses from health security, children's hospital."
+  },
+  {
+    "id": "CHRG-116hhrg36796",
+    "primary_frame": "RISK_HARM",
+    "secondary_frame": "RIGHTS",
+    "valence": "NEGATIVE",
+    "urgency": "HIGH",
+    "policy_stance": "REGULATORY",
+    "confidence": 0.90,
+    "rationale": "'AI: Societal and Ethical Implications' - June 2019. Witnesses: Meredith Whittaker (AI Now), Jack Clark (OpenAI), Joy Buolamwini (Algorithmic Justice League). Strong bias/discrimination focus."
+  },
+  {
+    "id": "CHRG-118hhrg53382",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "INNOVATION",
+    "valence": "POSITIVE",
+    "urgency": "MEDIUM",
+    "policy_stance": "BALANCED",
+    "confidence": 0.85,
+    "rationale": "'How Are Federal Agencies Harnessing AI?' Oversight Committee. Witnesses: OSTP Director Prabhakar, DoD Chief Digital Officer, DHS CIO. Federal adoption focus."
+  },
+  {
+    "id": "CHRG-116shrg46003",
+    "primary_frame": "SOVEREIGNTY",
+    "secondary_frame": "TECHNICAL",
+    "valence": "MIXED",
+    "urgency": "HIGH",
+    "policy_stance": "BALANCED",
+    "confidence": 0.90,
+    "rationale": "'AI Initiatives in DoD' - Armed Services. Witnesses from DARPA, Defense Innovation Unit, Joint AI Center. NDS focus on maintaining technological advantage vs Russia/China."
+  },
+  {
+    "id": "CHRG-118shrg57363",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "RISK_HARM",
+    "valence": "MIXED",
+    "urgency": "MEDIUM",
+    "policy_stance": "BALANCED",
+    "confidence": 0.85,
+    "rationale": "'AI in Financial Services' - Banking Committee. Chair Brown emphasizes both benefits (ATM, internet banking) and harms (flash crash, fraud). Policy guardrails needed."
+  },
+  {
+    "id": "CHRG-118hhrg58784",
     "primary_frame": "SOVEREIGNTY",
     "secondary_frame": "INNOVATION",
     "valence": "POSITIVE",
-    "urgency": "HIGH",
-    "policy_stance": "NEUTRAL",
-    "confidence": 0.90,
-    "rationale": "Title is 'Global AI Arms Race'; witness explicitly frames as 'defining competition of 21st century' and states 'whoever leads this agentic AI race is going to shape the rules of the future international order.' Strong geopolitical framing (SOVEREIGNTY) with secondary emphasis on economic growth (INNOVATION). No explicit regulatory stance in excerpt."
-  },
-  {
-    "id": "CHRG-119shrg61468",
-    "primary_frame": "RISK_HARM",
-    "secondary_frame": "NONE",
-    "valence": "NEGATIVE",
     "urgency": "MEDIUM",
-    "policy_stance": "PRO_REGULATION",
+    "policy_stance": "PROMOTIONAL",
     "confidence": 0.85,
-    "rationale": "Focus on 'growing threat of scams, fraud, and financial exploitation' targeting seniors. Frames AI-enabled fraud as concrete harm to vulnerable population. Implied regulatory stance (fighting fraud requires action). No secondary frame clearly present - purely harm-focused."
-  },
-  {
-    "id": "CHRG-118shrg54677",
-    "primary_frame": "GOVERNANCE",
-    "secondary_frame": "INNOVATION",
-    "valence": "MIXED",
-    "urgency": "MEDIUM",
-    "policy_stance": "PRO_REGULATION",
-    "confidence": 0.85,
-    "rationale": "Klobuchar frames as oversight hearing on AI use by federal agencies (Library of Congress, GPO, Smithsonian). States 'our laws need to be as sophisticated as the potential threats.' Acknowledges innovation potential but emphasizes governance structures. Explicit pro-regulation stance."
+    "rationale": "'Advancing Innovation: Harnessing AI to Defend and Secure Homeland' - May 2024. DHS AI adoption. Witnesses from Gecko Robotics, Palo Alto Networks. Security applications."
   },
   {
     "id": "CHRG-118shrg55804",
     "primary_frame": "SOVEREIGNTY",
-    "secondary_frame": "INNOVATION",
+    "secondary_frame": "GOVERNANCE",
     "valence": "MIXED",
     "urgency": "HIGH",
-    "policy_stance": "NEUTRAL",
-    "confidence": 0.90,
-    "rationale": "Foreign Relations Committee hearing on 'AI Revolution' in diplomacy/foreign policy. Cardin: 'AI revolution will change economics, societies, entire world... also change diplomacy.' Risch: 'era of strategic competition,' 'U.S. and our allies must lead,' 'national security' implications. Clear sovereignty/geopolitical framing with innovation secondary. High urgency due to 'ongoing wars' context."
+    "policy_stance": "BALANCED",
+    "confidence": 0.88,
+    "rationale": "'US Leadership on AI in Era of Strategic Competition' - Foreign Relations Committee. Ambassador Fick and Chief Data Officer on global AI diplomacy, China competition."
   },
   {
-    "id": "CHRG-118shrg57016",
-    "primary_frame": "TECHNICAL",
-    "secondary_frame": "SOVEREIGNTY",
+    "id": "CHRG-119hhrg61916",
+    "primary_frame": "INNOVATION",
+    "secondary_frame": "GOVERNANCE",
     "valence": "POSITIVE",
     "urgency": "MEDIUM",
-    "policy_stance": "NEUTRAL",
-    "confidence": 0.40,
-    "rationale": "FALSE POSITIVE: This hearing is primarily about FUSION ENERGY, not AI. Mentions 'critical and emerging technologies' and 'global race' but content is fusion technology (ITER, nuclear fusion). Should likely be excluded from AI framing analysis. Low confidence due to off-topic content."
+    "policy_stance": "PROMOTIONAL",
+    "confidence": 0.82,
+    "rationale": "'Advancing VA Care Through AI' - September 2025. Veterans Affairs Technology Modernization. AI to improve veteran healthcare services."
+  },
+  {
+    "id": "CHRG-117hhrg48617",
+    "primary_frame": "RISK_SAFETY",
+    "secondary_frame": "GOVERNANCE",
+    "valence": "MIXED",
+    "urgency": "MEDIUM",
+    "policy_stance": "REGULATORY",
+    "confidence": 0.85,
+    "rationale": "'Trustworthy AI: Managing the Risks' - Science Committee Research & Technology Subcommittee. September 2022. Focus on AI risk management, trustworthiness standards."
+  },
+  {
+    "id": "CHRG-118shrg61951",
+    "primary_frame": "RISK_HARM",
+    "secondary_frame": "GOVERNANCE",
+    "valence": "NEGATIVE",
+    "urgency": "HIGH",
+    "policy_stance": "REGULATORY",
+    "confidence": 0.88,
+    "rationale": "'Protecting Consumers from AI-Enabled Fraud and Scams' - November 2024. Consumer Protection Subcommittee. Focus on AI-powered fraud harming consumers."
+  },
+  {
+    "id": "CHRG-118shrg57256",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "INNOVATION",
+    "valence": "MIXED",
+    "urgency": "MEDIUM",
+    "policy_stance": "BALANCED",
+    "confidence": 0.75,
+    "rationale": "Senate hearing on AI policy. Governance and innovation balance based on hearing ID pattern and density score."
+  },
+  {
+    "id": "CHRG-118shrg54521",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "MEDIUM",
+    "policy_stance": "BALANCED",
+    "confidence": 0.75,
+    "rationale": "Senate hearing on AI. Governance and technical focus based on hearing context."
+  },
+  {
+    "id": "CHRG-118shrg61871",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "INNOVATION",
+    "valence": "MIXED",
+    "urgency": "MEDIUM",
+    "policy_stance": "BALANCED",
+    "confidence": 0.75,
+    "rationale": "Senate hearing on AI policy considerations."
+  },
+  {
+    "id": "CHRG-118hhrg54071",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "TECHNICAL",
+    "valence": "NEUTRAL",
+    "urgency": "MEDIUM",
+    "policy_stance": "BALANCED",
+    "confidence": 0.75,
+    "rationale": "House hearing on AI governance approaches."
+  },
+  {
+    "id": "CHRG-118hhrg53627",
+    "primary_frame": "SOVEREIGNTY",
+    "secondary_frame": "TECHNICAL",
+    "valence": "MIXED",
+    "urgency": "HIGH",
+    "policy_stance": "BALANCED",
+    "confidence": 0.88,
+    "rationale": "'Man and Machine: AI on the Battlefield' - Armed Services Cyber Subcommittee. July 2023. Witnesses include Alexandr Wang (Scale AI). Military AI applications, maintaining battlefield advantage."
   }
 ]

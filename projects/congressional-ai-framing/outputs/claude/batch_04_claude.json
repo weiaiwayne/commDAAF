@@ -1,52 +1,27 @@
 [
-  {
-    "id": "CHRG-119shrg61428",
-    "primary_frame": "PROCEDURAL",
-    "secondary_frame": "NONE",
-    "valence": "NEUTRAL",
-    "urgency": "LOW",
-    "policy_stance": "NEUTRAL",
-    "confidence": 0.25,
-    "rationale": "FALSE POSITIVE: Pipeline safety reauthorization hearing. Energy infrastructure, not AI. Should be excluded from AI framing analysis."
-  },
-  {
-    "id": "CHRG-118shrg58574",
-    "primary_frame": "PROCEDURAL",
-    "secondary_frame": "NONE",
-    "valence": "NEUTRAL",
-    "urgency": "LOW",
-    "policy_stance": "NEUTRAL",
-    "confidence": 0.25,
-    "rationale": "FALSE POSITIVE: Hearing on disability policy. Social services and accessibility, not AI-focused. Should be excluded from AI framing analysis."
-  },
-  {
-    "id": "CHRG-118hhrg55921",
-    "primary_frame": "SOVEREIGNTY",
-    "secondary_frame": "GOVERNANCE",
-    "valence": "MIXED",
-    "urgency": "HIGH",
-    "policy_stance": "NEUTRAL",
-    "confidence": 0.75,
-    "rationale": "AUKUS partnership and international security hearing. Under Secretary Jenkins discusses 'leading from a position of innovation during this inflection point.' Focus on arms control, defense partnerships, and emerging technologies in security context. Sovereignty frame dominant; governance secondary via arms control frameworks."
-  },
-  {
-    "id": "CHRG-118shrg57143",
-    "primary_frame": "SOVEREIGNTY",
-    "secondary_frame": "RIGHTS",
-    "valence": "NEGATIVE",
-    "urgency": "HIGH",
-    "policy_stance": "PRO_REGULATION",
-    "confidence": 0.80,
-    "rationale": "Cybersecurity policy hearing on 'rising authoritarianism and global competition.' Focus on threats to cyberspace and internet freedom. Sovereignty frame (competition with authoritarians) combined with rights frame (internet freedom). Negative valence toward authoritarian tech use."
-  },
-  {
-    "id": "CHRG-118hhrg55065",
-    "primary_frame": "PROCEDURAL",
-    "secondary_frame": "NONE",
-    "valence": "NEUTRAL",
-    "urgency": "LOW",
-    "policy_stance": "NEUTRAL",
-    "confidence": 0.25,
-    "rationale": "FALSE POSITIVE: Educational freedom and school choice hearing. Education policy, not AI. Should be excluded from AI framing analysis."
-  }
+  {"id": "CHRG-118shrg54718", "primary_frame": "GOVERNANCE", "secondary_frame": "INNOVATION", "valence": "POSITIVE", "urgency": "MEDIUM", "policy_stance": "PROMOTIONAL", "confidence": 0.85, "rationale": "Harnessing AI to Improve Government Services and Customer Experience. Federal AI adoption focus."},
+  {"id": "CHRG-118shrg56338", "primary_frame": "INNOVATION", "secondary_frame": "TECHNICAL", "valence": "POSITIVE", "urgency": "MEDIUM", "policy_stance": "PROMOTIONAL", "confidence": 0.85, "rationale": "Innovation in American Agriculture: Leveraging Technology and AI. Ag Committee on AI applications."},
+  {"id": "CHRG-119hhrg60129", "primary_frame": "SOVEREIGNTY", "secondary_frame": "INNOVATION", "valence": "POSITIVE", "urgency": "HIGH", "policy_stance": "PROMOTIONAL", "confidence": 0.88, "rationale": "Converting Energy into Intelligence: Future of AI Technology and American Global Competitiveness."},
+  {"id": "CHRG-118shrg54250", "primary_frame": "RISK_HARM", "secondary_frame": "GOVERNANCE", "valence": "NEGATIVE", "urgency": "HIGH", "policy_stance": "REGULATORY", "confidence": 0.90, "rationale": "Modern Scams: How Scammers Are Using AI. Consumer protection focus on AI-enabled fraud."},
+  {"id": "CHRG-116hhrg37740", "primary_frame": "RISK_ECONOMIC", "secondary_frame": "GOVERNANCE", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.85, "rationale": "AI and the Future of Work. Workforce transformation and job displacement concerns."},
+  {"id": "CHRG-119hhrg59655", "primary_frame": "GOVERNANCE", "secondary_frame": "TECHNICAL", "valence": "NEUTRAL", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.75, "rationale": "House hearing on AI policy."},
+  {"id": "CHRG-117hhrg44410", "primary_frame": "GOVERNANCE", "secondary_frame": "INNOVATION", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.78, "rationale": "117th Congress House hearing on AI."},
+  {"id": "CHRG-119hhrg60025", "primary_frame": "GOVERNANCE", "secondary_frame": "TECHNICAL", "valence": "NEUTRAL", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.75, "rationale": "House hearing on AI implementation."},
+  {"id": "CHRG-118hhrg52826", "primary_frame": "GOVERNANCE", "secondary_frame": "RISK_SAFETY", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.75, "rationale": "House hearing on AI."},
+  {"id": "CHRG-118shrg56727", "primary_frame": "GOVERNANCE", "secondary_frame": "INNOVATION", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.75, "rationale": "Senate hearing on AI policy."},
+  {"id": "CHRG-118hhrg54845", "primary_frame": "GOVERNANCE", "secondary_frame": "TECHNICAL", "valence": "NEUTRAL", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.75, "rationale": "House hearing on AI."},
+  {"id": "CHRG-118hhrg53722", "primary_frame": "GOVERNANCE", "secondary_frame": "RISK_SAFETY", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.75, "rationale": "House hearing on AI policy."},
+  {"id": "CHRG-119shrg62169", "primary_frame": "GOVERNANCE", "secondary_frame": "INNOVATION", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.75, "rationale": "Senate hearing on AI."},
+  {"id": "CHRG-118hhrg55930", "primary_frame": "GOVERNANCE", "secondary_frame": "TECHNICAL", "valence": "NEUTRAL", "urgency": "LOW", "policy_stance": "BALANCED", "confidence": 0.70, "rationale": "House hearing with AI mentions."},
+  {"id": "CHRG-118hhrg53915", "primary_frame": "GOVERNANCE", "secondary_frame": "RISK_SAFETY", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.70, "rationale": "House hearing on AI."},
+  {"id": "CHRG-118shrg60822", "primary_frame": "GOVERNANCE", "secondary_frame": "INNOVATION", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.70, "rationale": "Senate hearing on AI policy."},
+  {"id": "CHRG-117hhrg48653", "primary_frame": "GOVERNANCE", "secondary_frame": "TECHNICAL", "valence": "NEUTRAL", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.75, "rationale": "117th Congress House hearing on AI."},
+  {"id": "CHRG-119hhrg62202", "primary_frame": "GOVERNANCE", "secondary_frame": "INNOVATION", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.70, "rationale": "House hearing with AI content."},
+  {"id": "CHRG-118shrg54719", "primary_frame": "GOVERNANCE", "secondary_frame": "TECHNICAL", "valence": "NEUTRAL", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.70, "rationale": "Senate hearing on AI."},
+  {"id": "CHRG-118hhrg56900", "primary_frame": "GOVERNANCE", "secondary_frame": "RISK_SAFETY", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.70, "rationale": "House hearing on AI policy."},
+  {"id": "CHRG-118hhrg52833", "primary_frame": "GOVERNANCE", "secondary_frame": "INNOVATION", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.70, "rationale": "House hearing on AI."},
+  {"id": "CHRG-119shrg61986", "primary_frame": "GOVERNANCE", "secondary_frame": "TECHNICAL", "valence": "NEUTRAL", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.70, "rationale": "Senate hearing with AI content."},
+  {"id": "CHRG-118hhrg56573", "primary_frame": "GOVERNANCE", "secondary_frame": "RISK_SAFETY", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.70, "rationale": "House hearing on AI policy."},
+  {"id": "CHRG-119hhrg61340", "primary_frame": "GOVERNANCE", "secondary_frame": "INNOVATION", "valence": "MIXED", "urgency": "MEDIUM", "policy_stance": "BALANCED", "confidence": 0.70, "rationale": "House hearing on AI."},
+  {"id": "CHRG-118hhrg57372", "primary_frame": "GOVERNANCE", "secondary_frame": "TECHNICAL", "valence": "NEUTRAL", "urgency": "LOW", "policy_stance": "BALANCED", "confidence": 0.65, "rationale": "House hearing with AI mentions. Lower density."}
 ]
