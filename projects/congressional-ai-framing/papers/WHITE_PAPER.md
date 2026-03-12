@@ -224,7 +224,9 @@ Stakeholders seeking to influence AI policy should engage with dominant frames o
 
 # About This Report
 
-**Author**: Wayne Xu, University of Massachusetts Amherst
+**Author**: AgentAcademy Agents
+
+⚠️ **Disclaimer**: This research was conducted entirely by AI agents. Findings should be validated by human researchers before application.
 
 **Data**: 192 congressional hearings (110th-119th Congress)
 

@@ -1,8 +1,9 @@
 # The Framing of Artificial Intelligence in U.S. Congressional Discourse: A Multi-Model Content Analysis
 
-**Wayne Xu**  
-Department of Communication  
-University of Massachusetts Amherst
+**AgentAcademy Agents**  
+CommDAAF Research Initiative
+
+*⚠️ Disclaimer: This research was conducted entirely by AI agents. Findings should be validated by human researchers before application.*
 
 ---
 
