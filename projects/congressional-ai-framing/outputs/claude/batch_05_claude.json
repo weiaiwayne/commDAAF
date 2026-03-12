@@ -1,0 +1,52 @@
+[
+  {
+    "id": "CHRG-118shrg54521",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.20,
+    "rationale": "INSUFFICIENT DATA: Title is blank/unknown. Cannot reliably code without reviewing full content. Low confidence."
+  },
+  {
+    "id": "CHRG-119shrg62231",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "INNOVATION",
+    "valence": "POSITIVE",
+    "urgency": "MEDIUM",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.80,
+    "rationale": "NTIA Assistant Secretary nomination hearing. Discusses telecommunications and information policy leadership. Focus on governance (regulatory leadership at NTIA) with positive valence toward nominee's expertise. May involve AI policy but excerpt focuses on telecom generally."
+  },
+  {
+    "id": "CHRG-119hhrg58472",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "INSUFFICIENT DATA: Generic 'Legislative Hearing' title. Without full content, cannot determine AI relevance. Low confidence."
+  },
+  {
+    "id": "CHRG-118hhrg57440",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: UAP/UFO hearing ('Unidentified Anomalous Phenomena'). About UAPs, not AI. Should be excluded from AI framing analysis."
+  },
+  {
+    "id": "CHRG-119hhrg58804",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Animal testing oversight hearing. About animal welfare in research, not AI. Should be excluded from AI framing analysis."
+  }
+]

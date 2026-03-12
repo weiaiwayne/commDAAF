@@ -1,0 +1,252 @@
+[
+  {
+    "id": "CHRG-119hhrg60318",
+    "primary_frame": "SOVEREIGNTY",
+    "secondary_frame": "INNOVATION",
+    "valence": "POSITIVE",
+    "urgency": "HIGH",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.90,
+    "rationale": "Title is 'Global AI Arms Race'; witness explicitly frames as 'defining competition of 21st century' and states 'whoever leads this agentic AI race is going to shape the rules of the future international order.' Strong geopolitical framing (SOVEREIGNTY) with secondary emphasis on economic growth (INNOVATION). No explicit regulatory stance in excerpt."
+  },
+  {
+    "id": "CHRG-119shrg61468",
+    "primary_frame": "RISK_HARM",
+    "secondary_frame": "NONE",
+    "valence": "NEGATIVE",
+    "urgency": "MEDIUM",
+    "policy_stance": "PRO_REGULATION",
+    "confidence": 0.85,
+    "rationale": "Focus on 'growing threat of scams, fraud, and financial exploitation' targeting seniors. Frames AI-enabled fraud as concrete harm to vulnerable population. Implied regulatory stance (fighting fraud requires action). No secondary frame clearly present - purely harm-focused."
+  },
+  {
+    "id": "CHRG-118shrg54677",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "INNOVATION",
+    "valence": "MIXED",
+    "urgency": "MEDIUM",
+    "policy_stance": "PRO_REGULATION",
+    "confidence": 0.85,
+    "rationale": "Klobuchar frames as oversight hearing on AI use by federal agencies (Library of Congress, GPO, Smithsonian). States 'our laws need to be as sophisticated as the potential threats.' Acknowledges innovation potential but emphasizes governance structures. Explicit pro-regulation stance."
+  },
+  {
+    "id": "CHRG-118shrg55804",
+    "primary_frame": "SOVEREIGNTY",
+    "secondary_frame": "INNOVATION",
+    "valence": "MIXED",
+    "urgency": "HIGH",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.90,
+    "rationale": "Foreign Relations Committee hearing on 'AI Revolution' in diplomacy/foreign policy. Cardin: 'AI revolution will change economics, societies, entire world... also change diplomacy.' Risch: 'era of strategic competition,' 'U.S. and our allies must lead,' 'national security' implications. Clear sovereignty/geopolitical framing with innovation secondary. High urgency due to 'ongoing wars' context."
+  },
+  {
+    "id": "CHRG-118shrg57016",
+    "primary_frame": "TECHNICAL",
+    "secondary_frame": "SOVEREIGNTY",
+    "valence": "POSITIVE",
+    "urgency": "MEDIUM",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.40,
+    "rationale": "FALSE POSITIVE: This hearing is primarily about FUSION ENERGY, not AI. Mentions 'critical and emerging technologies' and 'global race' but content is fusion technology (ITER, nuclear fusion). Should likely be excluded from AI framing analysis. Low confidence due to off-topic content."
+  },
+  {
+    "id": "CHRG-119hhrg59601",
+    "primary_frame": "SOVEREIGNTY",
+    "secondary_frame": "INNOVATION",
+    "valence": "MIXED",
+    "urgency": "HIGH",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.90,
+    "rationale": "Title is 'Examining Policies to Counter China.' Explicitly discusses 'economic and geopolitical rivalry with China,' mentions 5G race, TikTok, DeepSeek. Chair Hill frames as strategic competition where 'Congress must see the forest.' Clear sovereignty/national competition framing. Nuanced valence - not alarmist but serious."
+  },
+  {
+    "id": "CHRG-119hhrg60684",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Hearing is about veteran Transition Assistance Program (TAP), not AI. Content discusses military-to-civilian transition support. Should be excluded from AI framing analysis."
+  },
+  {
+    "id": "CHRG-119hhrg61123",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Generic 'Legislative Hearing' about VA services and legislative proposals. No AI-specific content in excerpt. Should be excluded from AI framing analysis."
+  },
+  {
+    "id": "CHRG-118hhrg55799",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Hearing on Workforce Innovation and Opportunity Act (WIOA) reauthorization. About job training and workforce development generally, not AI specifically. Should be excluded from AI framing analysis."
+  },
+  {
+    "id": "CHRG-119shrg61235",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Nomination hearing for DOI and DOE officials. Procedural confirmation hearing with no AI-specific content in excerpt. Should be excluded from AI framing analysis."
+  },
+  {
+    "id": "CHRG-119shrg61334",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "MEDIUM",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Hearing about Boeing manufacturing safety issues, not AI. Should be excluded from AI framing analysis."
+  },
+  {
+    "id": "CHRG-119hhrg60837",
+    "primary_frame": "RISK_HARM",
+    "secondary_frame": "SOVEREIGNTY",
+    "valence": "NEGATIVE",
+    "urgency": "HIGH",
+    "policy_stance": "PRO_REGULATION",
+    "confidence": 0.70,
+    "rationale": "Hearing on online terrorist recruitment and radicalization. References 'new and emerging threats' including digital platforms. Frames technology as enabling harm (terrorism). Secondary sovereignty frame via CCP and Iran threats. Limited direct AI content but relevant to tech platform risks."
+  },
+  {
+    "id": "CHRG-118shrg57242",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Workforce Innovation and Opportunity Act reauthorization hearing. About job training generally, not AI specifically. Should be excluded from AI framing analysis."
+  },
+  {
+    "id": "CHRG-118shrg56072",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Smithsonian oversight hearing. Institutional oversight, not AI-focused. Should be excluded from AI framing analysis."
+  },
+  {
+    "id": "CHRG-118hhrg53380",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Federal telework policy oversight. Post-pandemic workplace policy, not AI. Should be excluded from AI framing analysis."
+  },
+  {
+    "id": "CHRG-119shrg61428",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Pipeline safety reauthorization hearing. Energy infrastructure, not AI. Should be excluded from AI framing analysis."
+  },
+  {
+    "id": "CHRG-118shrg58574",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Hearing on disability policy. Social services and accessibility, not AI-focused. Should be excluded from AI framing analysis."
+  },
+  {
+    "id": "CHRG-118hhrg55921",
+    "primary_frame": "SOVEREIGNTY",
+    "secondary_frame": "GOVERNANCE",
+    "valence": "MIXED",
+    "urgency": "HIGH",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.75,
+    "rationale": "AUKUS partnership and international security hearing. Under Secretary Jenkins discusses 'leading from a position of innovation during this inflection point.' Focus on arms control, defense partnerships, and emerging technologies in security context. Sovereignty frame dominant; governance secondary via arms control frameworks."
+  },
+  {
+    "id": "CHRG-118shrg57143",
+    "primary_frame": "SOVEREIGNTY",
+    "secondary_frame": "RIGHTS",
+    "valence": "NEGATIVE",
+    "urgency": "HIGH",
+    "policy_stance": "PRO_REGULATION",
+    "confidence": 0.80,
+    "rationale": "Cybersecurity policy hearing on 'rising authoritarianism and global competition.' Focus on threats to cyberspace and internet freedom. Sovereignty frame (competition with authoritarians) combined with rights frame (internet freedom). Negative valence toward authoritarian tech use."
+  },
+  {
+    "id": "CHRG-118hhrg55065",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Educational freedom and school choice hearing. Education policy, not AI. Should be excluded from AI framing analysis."
+  },
+  {
+    "id": "CHRG-118shrg54521",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.20,
+    "rationale": "INSUFFICIENT DATA: Title is blank/unknown. Cannot reliably code without reviewing full content. Low confidence."
+  },
+  {
+    "id": "CHRG-119shrg62231",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "INNOVATION",
+    "valence": "POSITIVE",
+    "urgency": "MEDIUM",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.80,
+    "rationale": "NTIA Assistant Secretary nomination hearing. Discusses telecommunications and information policy leadership. Focus on governance (regulatory leadership at NTIA) with positive valence toward nominee's expertise. May involve AI policy but excerpt focuses on telecom generally."
+  },
+  {
+    "id": "CHRG-119hhrg58472",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "INSUFFICIENT DATA: Generic 'Legislative Hearing' title. Without full content, cannot determine AI relevance. Low confidence."
+  },
+  {
+    "id": "CHRG-118hhrg57440",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: UAP/UFO hearing ('Unidentified Anomalous Phenomena'). About UAPs, not AI. Should be excluded from AI framing analysis."
+  },
+  {
+    "id": "CHRG-119hhrg58804",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Animal testing oversight hearing. About animal welfare in research, not AI. Should be excluded from AI framing analysis."
+  }
+]

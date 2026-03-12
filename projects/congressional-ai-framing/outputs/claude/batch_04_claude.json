@@ -1,0 +1,52 @@
+[
+  {
+    "id": "CHRG-119shrg61428",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Pipeline safety reauthorization hearing. Energy infrastructure, not AI. Should be excluded from AI framing analysis."
+  },
+  {
+    "id": "CHRG-118shrg58574",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Hearing on disability policy. Social services and accessibility, not AI-focused. Should be excluded from AI framing analysis."
+  },
+  {
+    "id": "CHRG-118hhrg55921",
+    "primary_frame": "SOVEREIGNTY",
+    "secondary_frame": "GOVERNANCE",
+    "valence": "MIXED",
+    "urgency": "HIGH",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.75,
+    "rationale": "AUKUS partnership and international security hearing. Under Secretary Jenkins discusses 'leading from a position of innovation during this inflection point.' Focus on arms control, defense partnerships, and emerging technologies in security context. Sovereignty frame dominant; governance secondary via arms control frameworks."
+  },
+  {
+    "id": "CHRG-118shrg57143",
+    "primary_frame": "SOVEREIGNTY",
+    "secondary_frame": "RIGHTS",
+    "valence": "NEGATIVE",
+    "urgency": "HIGH",
+    "policy_stance": "PRO_REGULATION",
+    "confidence": 0.80,
+    "rationale": "Cybersecurity policy hearing on 'rising authoritarianism and global competition.' Focus on threats to cyberspace and internet freedom. Sovereignty frame (competition with authoritarians) combined with rights frame (internet freedom). Negative valence toward authoritarian tech use."
+  },
+  {
+    "id": "CHRG-118hhrg55065",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Educational freedom and school choice hearing. Education policy, not AI. Should be excluded from AI framing analysis."
+  }
+]

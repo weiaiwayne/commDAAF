@@ -1,0 +1,52 @@
+[
+  {
+    "id": "CHRG-119hhrg60318",
+    "primary_frame": "SOVEREIGNTY",
+    "secondary_frame": "INNOVATION",
+    "valence": "POSITIVE",
+    "urgency": "HIGH",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.90,
+    "rationale": "Title is 'Global AI Arms Race'; witness explicitly frames as 'defining competition of 21st century' and states 'whoever leads this agentic AI race is going to shape the rules of the future international order.' Strong geopolitical framing (SOVEREIGNTY) with secondary emphasis on economic growth (INNOVATION). No explicit regulatory stance in excerpt."
+  },
+  {
+    "id": "CHRG-119shrg61468",
+    "primary_frame": "RISK_HARM",
+    "secondary_frame": "NONE",
+    "valence": "NEGATIVE",
+    "urgency": "MEDIUM",
+    "policy_stance": "PRO_REGULATION",
+    "confidence": 0.85,
+    "rationale": "Focus on 'growing threat of scams, fraud, and financial exploitation' targeting seniors. Frames AI-enabled fraud as concrete harm to vulnerable population. Implied regulatory stance (fighting fraud requires action). No secondary frame clearly present - purely harm-focused."
+  },
+  {
+    "id": "CHRG-118shrg54677",
+    "primary_frame": "GOVERNANCE",
+    "secondary_frame": "INNOVATION",
+    "valence": "MIXED",
+    "urgency": "MEDIUM",
+    "policy_stance": "PRO_REGULATION",
+    "confidence": 0.85,
+    "rationale": "Klobuchar frames as oversight hearing on AI use by federal agencies (Library of Congress, GPO, Smithsonian). States 'our laws need to be as sophisticated as the potential threats.' Acknowledges innovation potential but emphasizes governance structures. Explicit pro-regulation stance."
+  },
+  {
+    "id": "CHRG-118shrg55804",
+    "primary_frame": "SOVEREIGNTY",
+    "secondary_frame": "INNOVATION",
+    "valence": "MIXED",
+    "urgency": "HIGH",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.90,
+    "rationale": "Foreign Relations Committee hearing on 'AI Revolution' in diplomacy/foreign policy. Cardin: 'AI revolution will change economics, societies, entire world... also change diplomacy.' Risch: 'era of strategic competition,' 'U.S. and our allies must lead,' 'national security' implications. Clear sovereignty/geopolitical framing with innovation secondary. High urgency due to 'ongoing wars' context."
+  },
+  {
+    "id": "CHRG-118shrg57016",
+    "primary_frame": "TECHNICAL",
+    "secondary_frame": "SOVEREIGNTY",
+    "valence": "POSITIVE",
+    "urgency": "MEDIUM",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.40,
+    "rationale": "FALSE POSITIVE: This hearing is primarily about FUSION ENERGY, not AI. Mentions 'critical and emerging technologies' and 'global race' but content is fusion technology (ITER, nuclear fusion). Should likely be excluded from AI framing analysis. Low confidence due to off-topic content."
+  }
+]

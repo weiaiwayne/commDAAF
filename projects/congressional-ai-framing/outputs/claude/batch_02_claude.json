@@ -1,0 +1,52 @@
+[
+  {
+    "id": "CHRG-119hhrg59601",
+    "primary_frame": "SOVEREIGNTY",
+    "secondary_frame": "INNOVATION",
+    "valence": "MIXED",
+    "urgency": "HIGH",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.90,
+    "rationale": "Title is 'Examining Policies to Counter China.' Explicitly discusses 'economic and geopolitical rivalry with China,' mentions 5G race, TikTok, DeepSeek. Chair Hill frames as strategic competition where 'Congress must see the forest.' Clear sovereignty/national competition framing. Nuanced valence - not alarmist but serious."
+  },
+  {
+    "id": "CHRG-119hhrg60684",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Hearing is about veteran Transition Assistance Program (TAP), not AI. Content discusses military-to-civilian transition support. Should be excluded from AI framing analysis."
+  },
+  {
+    "id": "CHRG-119hhrg61123",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Generic 'Legislative Hearing' about VA services and legislative proposals. No AI-specific content in excerpt. Should be excluded from AI framing analysis."
+  },
+  {
+    "id": "CHRG-118hhrg55799",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Hearing on Workforce Innovation and Opportunity Act (WIOA) reauthorization. About job training and workforce development generally, not AI specifically. Should be excluded from AI framing analysis."
+  },
+  {
+    "id": "CHRG-119shrg61235",
+    "primary_frame": "PROCEDURAL",
+    "secondary_frame": "NONE",
+    "valence": "NEUTRAL",
+    "urgency": "LOW",
+    "policy_stance": "NEUTRAL",
+    "confidence": 0.25,
+    "rationale": "FALSE POSITIVE: Nomination hearing for DOI and DOE officials. Procedural confirmation hearing with no AI-specific content in excerpt. Should be excluded from AI framing analysis."
+  }
+]
