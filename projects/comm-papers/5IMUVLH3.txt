@@ -1,0 +1,1138 @@
+777177
+
+research-article2018
+
+CRXXXX10.1177/0093650218777177Communication ResearchGuo and Vargo
+
+Article
+
+“Fake News” and Emerging
+Online Media Ecosystem:
+An Integrated Intermedia
+Agenda-Setting Analysis of
+the 2016 U.S. Presidential
+Election
+
+Communication Research
+2020, Vol. 47(2) 178­–200
+© The Author(s) 2018
+Article reuse guidelines:
+sagepub.com/journals-permissions
+https://doi.org/10.1177/0093650218777177
+DOI: 10.1177/0093650218777177
+journals.sagepub.com/home/crx
+
+Lei Guo1 and Chris Vargo2
+
+Abstract
+This study examined how fake news, misinformation, and satire, affected the emerging
+media ecosystem during the 2016 U.S. presidential election through an integrated
+intermedia agenda-setting analysis, which studies broad attributes and myopic stories
+and events. A computer-assisted content analysis of millions of news articles was
+conducted alongside a qualitative analysis of popular news headlines and articles. The
+results showed that websites that spread misinformation had a fairly close intermedia
+agenda-setting relationship with fact-based media in covering Trump, but not for the
+news about Clinton. Satire websites barely interacted with the agenda of other media
+outlets. Overall, it seemed that rather than playing a unique agenda-setting role in
+this emerging media landscape, fake news websites added some noise to an already
+sensationalized news environment.
+Keywords
+intermedia agenda setting, fake news, online news, computer-assisted content
+analysis, presidential election
+“Fake news,” or news that is factually false or contains misleading content, gained
+unprecedented spotlight during the 2016 U.S. presidential election. While using fake
+1Boston University, USA
+2University of Colorado Boulder, USA
+
+Corresponding Author:
+Lei Guo, Division of Emerging Media Studies, College of Communication, Boston University, 640
+Commonwealth Ave, Boston, MA 02215, USA.
+Email: guolei@bu.edu
+
+Guo and Vargo
+
+179
+
+content for political purposes is not new (Linebarger, 1948), with modern communication technologies, the barriers to entry have never been lower. Anyone can set up a
+website propagating conspiracy theories or distribute a fictional story on social media
+purporting to be real news. Indeed, “fake news” has become a business. Researchers
+and journalists have identified hundreds of websites that are dedicated to peddling
+fake and biased content (e.g., Zimdars, 2016).
+Most of the research addressing fake news thus far focuses on the direct effects of
+fake news on audience (e.g., Allcott & Gentzkow, 2017; Silverman & Singer-Vine,
+2016). Here we contend it is equally important to examine the role fake news plays in
+the overall media ecosystem. The problem at stake is not only about whether people
+believe fake news as truth. It is also crucial for academics and journalists alike to
+understand how “fake news” influences “real news,” which speaks to the status quo of
+American journalism.
+An intermedia agenda-setting perspective is helpful to examine the transfer of content between fake news websites and other media outlets. A seminal study (Vargo,
+Guo, & Amazeen, 2018) revealed that fake news websites appear to have an intricately
+entwined relationship with fact-based news media, responding to and setting each
+other’s agendas. The study empirically showed that fake news could redirect the focus
+of legitimate media, pushing the public’s attention away from issues that might otherwise be more important. Still, the critical question that remains unanswered is how
+exactly fake news websites and fact-based media react to each other. Do fake news
+websites fabricate stories and generate lies that credible media then adopt and report
+as facts? This granularity has not been addressed in the research. To fill the gap, this
+article examines intermedia agenda setting between fake news websites and other
+media outlets at both the macro and micro level. Specifically, an integrated intermedia
+agenda-setting approach was used to examine issues, attributes, and specific stories
+that were popular during the 2016 U.S. presidential election. The Global Database of
+Events, Language, and Tone (GDELT) dataset was used to perform a computerassisted analysis of millions of articles (Leetaru, 2015). The breadth of the big data
+analysis is supplemented with a nuanced qualitative analysis where popular news
+headlines and articles are extracted and analyzed. Results of the study help empirically
+trace the practice and influence of fake news websites during a controversial election
+and advance intermedia agenda-setting theory by explicating the extent to which fake
+news has changed the emerging media ecology.
+
+Fake News: Definitions, Motivations, and Popularity
+While the phenomenon of fake news and misinformation has a long tradition, the term
+fake news has risen in prominence only recently and its meanings have pluralized. In
+perhaps the most detailed explication of the concept, Wardle (2017) extrapolates seven
+conditions in which news can be fake. News can be (1) satire and created for entertainment. News can (2) intentionally mislead by selectively disclosing facts or information. Similarly, (3) fake news can go beyond selectively disclosing information to
+intentionally making false connections (e.g., stringing together a pattern of events to
+
+180
+
+Communication Research 47(2)
+
+suggest a conspiracy). Along those lines, (4) news can also imply a context to a story,
+photo, or video that is untrue to advance a narrative that is false or (5) manipulate
+photos, quotes, or facts altogether to paint a false picture. Further down the spectrum,
+fake news can have no origin and be (6) completely fabricated and entirely false.
+Finally, beyond the reporting itself, fake news can also deceive on the medium (e.g.,
+website) level by (7) acting as an imposter and fooling audiences into thinking their
+platform is a well-known source. Similarly, in a review of current academic literature
+on fake news, Tandoc, Lim, and Ling (2018) developed a typology to discern between
+different types of fake news. They found that fake news refers to news satire, news
+parody, fabrication, manipulation, propaganda, and advertising. To further complicate
+this definition, others have recently pointed out that President Trump and citizens alike
+have used the term to attempt to delegitimize and erode the credibility of established
+journalistic organizations (Albright, 2016).
+Because of the wide range of uses for the term, it is unfeasible to examine the use
+of fake news in all contexts in one study. Here “fake news” refers to two broad categories of news that encompass a majority of the aforementioned types: misinformation
+and satire. We define misinformation as information that intentionally contains false or
+misleading elements incorporated within its content or context (Allcott & Gentzkow,
+2017; Bakir & McStay, 2018). Fake news that contains misinformation is particularly
+problematic because of its “potential to unduly influence attitudes and behavior, leading people to think and act differently than they would if they were correctly informed”
+(Southwell, Thorson, & Sheble, 2018, p. 2).
+News can also be intentionally fake, but not aiming to mislead. Here we consider a
+second category of fake news, satire, as news created for entertainment. In his investigation of a well-known satire organization, The Onion, Waisanen (2011) found the
+structure and delivery of news reporting to be remarkably similar to other news media.
+However, the content also mixed in an aura of fiction, mostly through comic tweaks of
+the content. While satire may be either partially or wholly false, they are created with
+“the assumption that both the author and the reader of the news share the gag” (Tandoc
+et al., 2018, p. 6). That is, while satire is also built upon some degree of bending facts,
+the immediate intention of satire authors is not to deceive its audience that fake news
+they see is real. However, Internet users may not always recognize news satire as such.
+In particular, sharing news on social media can obscure the origin of the media content, making it possible that satire will be mistaken for real news (Emery, 2018).
+Despite its intentions, satire may mislead news consumers just like misinformation
+would do in an online environment. Therefore, we also consider the effects of satire in
+this study and, like Tandoc et al. (2018), we adopt the distinction of author intention
+as the key distinction between news satire and misinformation.
+In this study, the term fake news website refers to any website that carries a considerable level of fake news, misinformation, or satire. In other words, a fake news website invariably contains facts, but the majority of its content is false or misleading. We
+term news media that adhere to factual reporting based on well-sourced evidence as
+fact-based news media. It is however important to note that all news is socially constructed (Shoemaker & Reese, 2011), and fact-based news media can be biased too.
+
+Guo and Vargo
+
+181
+
+Recent research has begun to uncover the motivations behind the rise of fake news
+in recent years. Fake news is often created for political gain. Dating back to World War
+II, propaganda exerted powerful influences on audiences (Linebarger, 1948). The role
+of partisanship in American life appears to be driving the resurgence of fake news
+(Townsend, 2016). Others may create fake news websites with the prospect that sensational information appeals to large, passionate bases of news readers. Web content
+with large amounts of traffic can be easily monetized to generate substantial advertising revenue. Another important factor that has afforded the rise of fake news is the
+increasing ease in which news can now be “created” on the Internet (Waschke, 2017).
+Fake news sites can simply steal, repurpose, and alter existing news content, which
+drastically reduces the time and effort required to run a “news” website.
+Many blame social media for the rapid growth of fake news. Twitter, for example,
+allows for the spread of misinformation via automated, anonymous accounts (Zubiaga,
+Aker, Bontcheva, Liakata, & Procter, 2018). Just as partisanship and other ideologies
+drive news readership, they also motivate real people to share fake news on social
+platforms (Mihailidis & Viotty, 2017). Yet social media is not the only culprit for the
+problem. Fact-based media have also been found to facilitate the viral spread of misinformation (Rojecki & Meraz, 2016). Just as news travels from person to person on
+social media, news content has been shown to transfer between different media outlets. What has been largely unstudied is the degree to which fake news websites are
+also involved in this process. To examine this effect, we adopt a theoretical framework, intermedia agenda setting, and use it to consider the dynamics of news, fake and
+real, in this emerging media landscape.
+
+Intermedia Agenda Setting
+While agenda-setting theory asserts that the news media will affect the public opinion,
+another line of research turns inward to assess who sets the media agenda. Research
+has found that journalist decision-making can be influenced by public relations efforts,
+political campaigns, and social media (e.g., Kiousis, Popescu, & Mitrook, 2007;
+Parmelee, 2014). In addition, different media organizations may also influence each
+other’s news agenda, described as intermedia agenda setting (IAS; McCombs, 2004).
+The leading thought was that often times news flows from elite news media such as
+The New York Times and The Washington Post to other media outlets (Reese &
+Danielian, 1989). There are no less than three possible reasons as to why IAS exists.
+First, while journalists have been trained to report on stories with news values, they
+often look at their peers to validate their sense of newsworthiness (McCombs, 2004).
+In particular, smaller media depend on major news organizations and wire services for
+story ideas, considering the latter’s news judgment as authoritative (Denham, 2014).
+Second, the intense competition of the news market creates pressure for editors and
+journalists to closely monitor the practices of other news media to avoid “missing” any
+important story (Lim, 2011; Tuchman, 1978). IAS may also occur for economic reasons. Borrowing media content requires fewer resources than generating original content. This is especially true for small news organizations with limited funding (Baum
+
+182
+
+Communication Research 47(2)
+
+& Groeling, 2008). In all, journalistic co-orientation and market pressure alike have
+been thought to homogenize the news landscape.
+The emerging media landscape has seen a massive proliferation of media outlets.
+However, the diversity of media platforms does not necessarily translate to the diversity of content offered. News media online still share a highly similar news agenda and
+IAS continues to take place online (Vargo & Guo, 2017; Lim, 2011). It is likely that
+the aforementioned reasons will motivate fake news websites to follow the agenda of
+other news media, especially elite ones. However, online IAS is not one-directional.
+Elite news media are no longer the sole opinion leader in the current media environment; rather, they may adopt the agenda of less established, niche media. Recent
+research showed that political blogs and online partisan news websites could predict
+the news coverage of other media, reflecting the overall polarization of media coverage in the United States (Vargo & Guo, 2017; Meraz, 2011). In Austria, while the
+websites of “quality” media performed as the main agenda-setter, tabloid media were
+able to take the lead in covering certain issues (Vonbun, Königslöw, & Schoenbach,
+2016). As these studies illustrated, media that produce sensational, biased content may
+have become more competitive in this new media market. When sensationalism dominates the media landscape, it would be logical to assume that fake news may attract the
+attention of some fact-based media, either driven by the pressure not to miss a story, or
+to generate revenues. Taken together, either scenario is plausible, and little is known
+about the direction in which news travels—fake-to-real or real-to-fake.
+Vargo et al. (2018) is the first known attempt to empirically examine the IAS relationship between fake news websites and fact-based news media. The study showed
+that fake news had a reciprocal relationship with different genres of fact-based media
+between 2014 and 2016. The research shed some initial insight into the IAS power of
+fake news. However, by merely focusing on the transfer of broad issue categories, the
+study failed to provide concrete examples to understand how the media responded to
+each other. For instance, we now know that whenever fake news reports international
+relations, fact-based media are also likely to report on international relations. Yet it is
+unclear which specific international relations stories actually had that effect. In 2016,
+did fake news agendas alter the ways in which candidates were portrayed in other
+media—an attribute-level agenda setting? More importantly, if a story did originate
+from a fake news website, did fact-based media repeat stories with the same factual
+errors, or did they cover the story in an attempt to refute the misinformation? Nuance
+is needed to determine how exactly fake news muddies the emerging media ecology.
+In addition, Vargo et al. (2018) did not distinguish between misinformation and satire,
+two different types of fake news websites. As discussed earlier, while websites that
+spread misinformation intend to mislead their users, satire websites may just exist for
+entertainment purposes. Berkowitz and Schwartz (2016) even argued that satire websites became part of the “Fifth Estate,” serving as watchdogs of the Fourth Estate—
+fact-based media—or people in power. To build on Vargo et al. (2018) and to uncover
+nuances not addressed in their analysis, this study sought to examine the news coverage of political candidates in the 2016 U.S. presidential election and to explicate the
+impact of the two types of fake news websites via a more comprehensive IAS approach.
+
+Guo and Vargo
+
+183
+
+Attribute IAS
+IAS can happen at different levels. The first level of IAS focuses on the transfer of
+objects, or a set of issues, between different news agendas. The second level further
+examines the attributes that describe a certain object, suggesting that news media
+would not only track each other in deciding which object to cover, but also how they
+cover the object (McCombs, 2004). Researchers have long applied the theoretical
+framework to analyze media effects related to the images of political candidates, in
+which objects are candidates and attributes are traits that define the image of candidates. Specifically, attributes can be analyzed in several dimensions. The substantive
+dimension of attributes refers to characteristics of news that help the audience cognitively structure news and discern among various topics (Kiousis, Bantimaroudis, &
+Ban, 1999). Examples of substantive attributes that define political candidate images
+are candidates’ personalities, qualifications, and issue positions (McCombs, Llamas,
+Lopez-Escobar, & Rey, 1997). Here, we examined the salience transfer of political
+candidates’ issue positions between fact-based and fake media. In the 2016 election,
+both Trump and Clinton were associated with a number of issues that were fabricated
+or distorted, and widely disseminated.
+The affective dimension of attributes, on the contrary, refers to those aspects of
+news coverage that would elicit emotional reactions from audience members (Kiousis
+et al., 1999), which is typically operationalized as the positive, neutral, or negative
+coverage of an object such as a political candidate. Previous research showed that both
+positive and negative feelings could be transmitted between media outlets (McCombs,
+2004). Given that fake news embraces sensationalism and emotional manipulation, it
+is reasonable to assume that IAS between fake and fact-based media can also occur at
+the affective level.
+As discussed above, fake news websites may set the agenda of fact-based media
+and vice versa. Taking fact-based media as a whole, Vargo et al. (2018) found that the
+salience of major issues was more likely to be transferred from fact-based media to
+fake news websites. However, the agenda-setting effect might not be the same for
+attribute agenda setting. In addition, websites that spread misinformation (“misinformation websites” hereafter) and satire websites may exhibit different patterns when
+interacting with fact-based media. Therefore, we asked the following questions:
+Research Question 1 (RQ1): Will the coverage of substantive attributes of Trump
+(RQ1a) and Clinton (RQ1b) in misinformation websites predict, or follow, the
+agenda of fact-based media?
+Research Question 2 (RQ2): Will the affective coverage of Trump (RQ2a) and Clinton
+(RQ2b) in misinformation websites predict, or follow, the agenda of fact-based media?
+Research Question 3 (RQ3): Will the coverage of substantive attributes of Trump
+(RQ3a) and Clinton (RQ3b) in satire websites predict, or follow, the agenda of factbased media?
+Research Question 4 (RQ4):Will the affective coverage of Trump (RQ4a) and
+Clinton (RQ4b) in satire websites predict, or follow, the agenda of fact-based media?
+
+184
+
+Communication Research 47(2)
+
+In a hyper-partisan political atmosphere, fake news may have a particularly intricate relationship with partisan media. News consumers prefer news sources that are
+aligned with their own political preferences, an effect known as selective exposure
+(Iyengar & Hahn, 2009; Stroud, 2010). However, research also showed that one-sided
+news exposure may be confined to a small segment of the population who are activists
+(Guess, 2016). Whether partisan media contribute a more polarized America is uncertain (see Prior, 2013, for a review). Still, the proliferation of partisan media online does
+provide a backdrop for the rising popularity of fake news. As mentioned above, most
+fake news websites are themselves partisan in nature. Rojecki and Meraz (2016)
+showed that partisan media facilitated the viral spread of partisan misinformation in
+the 2004 U.S. presidential election. The trend was confirmed in Vargo et al.’s (2018)
+study, which found that partisan media both set and reacted to the issue agenda of fake
+news websites, more so than other types of media outlets. Therefore, we hypothesize
+the following:
+Hypothesis 1 (H1): Misinformation websites and partisan media will have a reciprocal relationship in covering substantive attributes of Trump (H1a) and Clinton
+(H1b).
+Hypothesis 2 (H2): Misinformation websites and partisan media will have a reciprocal relationship in covering affective attributes of Trump (H2a) and Clinton
+(H2b).
+Hypothesis 3 (H3): Compared with nonpartisan media, partisan media will have a
+greater reciprocal relationship with misinformation websites in the coverage of
+Trump (H3a) and Clinton (H3b).
+Hypothesis 4 (H4): Satire websites and partisan media will have a reciprocal relationship in covering substantive attributes of Trump (H4a) and Clinton (H4b).
+Hypothesis 5 (H5): Satire websites and partisan media reciprocal relationship in
+covering affective attributes of Trump (H5a) and Clinton (H5b).
+Hypothesis 6 (H6): Compared with nonpartisan media, partisan media will have a
+greater reciprocal relationship with satire websites in the coverage of Trump (H6a)
+and Clinton (H6b).
+Furthermore, partisan media of different political orientations—conservative or
+liberal—may behave differently in their interactions with news websites. In Rojecki
+and Meraz’s (2016) analysis, conservative websites were responsible for transmitting misinformation against both Democratic and Republican candidates, whereas
+liberal media only contributed to the propagation of misinformation about a
+Republican candidate. The results suggested that conservative media are more susceptible to the influence of fake news. Faris et al.’s (2017) study also showed that
+a right-wing media network anchored around Breitbart successfully set the agenda
+for the conservative media sphere, a pattern not found in left-oriented online sites.
+Vargo et al. (2018), however, found that fake news was more likely to predict the
+issue agenda of liberal media. Given the mixed findings, we asked the following
+questions:
+
+Guo and Vargo
+
+185
+
+Research Question 5 (RQ5): Is the coverage of substantive attributes of Trump
+(RQ5a) and Clinton (RQ5b) in misinformation websites more likely to predict, or
+follow, conservative or liberal media?
+Research Question 6 (RQ6): Is the coverage of affective attributes of Trump
+(RQ6a) and Clinton (RQ6b) in misinformation websites more likely to predict, or
+follow, conservative or liberal media?
+Research Question 7 (RQ7): Is the coverage of substantive attributes of Trump
+(RQ7a) and Clinton (RQ7b) in satire websites more likely to predict, or follow,
+conservative or liberal media?
+Research Question 8 (RQ8): Is the coverage of affective attributes of Trump
+(RQ8a) and Clinton (RQ8b) in satire websites more likely to predict, or follow,
+conservative or liberal media?
+
+A Fine-Grained Approach of IAS
+Beyond objects and attributes, Welbers (2016) further articulated the transfer of news
+content at different granularity: An agenda item can be measured as an event, a story,
+or a theme. Take Trump’s statements on immigration as an example. An example of
+event is “House approved spending bills to start Trump’s border wall” or “Trump pressured Mexico on border wall payment.” All events related to Trump’s wall statements
+can be grouped together as components of the same story: Trump’s promise to build a
+border wall between the United States and Mexico. At an even more coarse-grained
+level, similar stories can be grouped to a theme: immigration.
+The decision of using which level of agenda items to measure IAS is not only methodological, but also has important conceptual implications (Welbers, 2016). The
+majority of IAS research has taken the theme-based approach. The rationale is that
+news media would follow each other for the most relevant and timely themes. For
+example, if elite media recurrently report on Trump’s position on immigration during
+an election campaign, other media may consider immigration an important topic and
+thus would also cover stories and events under the theme of immigration. This traditional approach helps to examine whether journalists monitor each other to validate
+their sense of news overall, one reason of IAS as mentioned above. To determine
+whether news media borrow story ideas from each other, measuring media effects at a
+story and an event level is needed. Such a nuanced approach has been rarely employed
+in IAS research with a few exceptions. Meraz (2011) examined three high-profile
+stories in her analysis of the relationship between political blogs and traditional news
+entities. More recently, Welbers (2016) and Harder, Sevenans, and Van Aelst (2017)
+advocated for a “news story” approach, contending that future IAS research needs to
+develop more fine-grained methods to study “who follows whom.” This argument is
+relevant to the IAS analysis that involves fake news. To explore how fake news alters
+the emerging media ecology, it is crucial to shift the unit of analysis to the story and
+event level to assess whether fake news websites steal story ideas from mainstream
+media and, reversely, whether and how fact-based media react to fabricated or distorted stories and events covered in fake news websites. As such, in addition to
+
+186
+
+Communication Research 47(2)
+
+examining attribute-based IAS (theme level), this study further measures IAS at the
+story and event level:
+Research Question 9 (RQ9): How do fake news websites, misinformation and
+satire websites, and different types of fact-based media interact with each other at
+the level of stories and events?
+
+Method
+This study assesses IAS between fake news websites and fact-based media during the
+2016 U.S. presidential election. The sampled time period ranged from September 1st
+to November 22nd, two weeks after the Election Day. The analysis leverages a comprehensive collection of news: GDELT’s Global Knowledge Graph (GKG) dataset
+(Leetaru, 2015). GDELT provides daily descriptive analysis of news coverage and
+publishes datasets that identify people, themes, and events. GDELT gathers stories
+from all national and international news from Google News and allows researchers to
+computationally analyze news content of varying types. The dataset has been widely
+used in peer-reviewed academic studies across disciplines such as political science and
+communication research (e.g., Hammond & Weidmann, 2014; Vargo et al., 2018).
+
+Identify News Outlets
+The first step was to identify news outlets for analysis. To reiterate, we consider two
+types of fake news: misinformation and satire. A website was considered to be fake if
+it carried a considerable level of fake news. Here we follow Vargo et al.’s (2018)
+approach of extracting content of fake news websites from GDELT by leveraging
+Hoaxy’s list of fake news sites from nine different sources (https://hoaxy.iuni.iu.edu/
+faq.html). These nine sources’ definitions of fake news websites are slightly different,
+but in general, the identified websites contain content that fall under Wardle’s (2017)
+description. For example, a well-cited list generated by Melissa Zimdars, a journalism
+professor, includes satire news websites, sources that entirely fabricate information,
+sources that promote conspiracy theories, and clickbait websites. Fake News Watch
+lists three types of fake news websites: fake/hoax news website, satire websites, and
+clickbait websites. To include the most widely accepted fake sources, we only include
+websites that are identified in at least two out of the nine sources in the list. In doing
+so, smaller websites (e.g., flyheight.com and anonews.co) were excluded. Then, we
+categorized the identified news websites into satire and misinformation websites. A
+website was considered a satire news website if at least two sources categorized it as
+such. The nature of one website nationalreport.net remains controversial in that
+Zimdar’s list labeled it as both “satire” and “fake” (i.e., sources that fabricate information) and other sources suggested that the intention of the site is to deceive gullible
+Internet users. Given the disagreement, it is considered a misinformation website in
+this study. According to the nine sources, the remaining websites frequently publish
+wholly false news or misleading content and thus were categorized as misinformation
+
+Guo and Vargo
+
+187
+
+websites. It is important to note that it is methodologically challenging to distinguish
+between misinformation and satire websites without actually interviewing website
+owners to reveal their true intentions.
+Vargo et al. (2018) also offers a list of fact-based news websites by type, which was
+completed through a manual content analysis of the top 2,760 U.S. news media websites found in GDELT. In line with the previous research, this study included websites
+of five types of fact-based media: elite media (n = 2), other traditional media (n =
+1,911), news agencies (n = 2), online-only partisan (27 conservative and 29 liberaloriented), and online-only emerging media (n = 765).1 In Vargo et al. (2018), a group
+of coders were involved in coding media sources. Coders studied “each site, searching
+the Internet for claims from credible news organizations or media watchdogs asserting
+that a given site was indeed partisan or to see whether a site self-identified as partisan”
+(Vargo et al., 2018, p. 9). They reached an intercoder reliability of 0.988 Krippendorff’s
+alpha (α) for general media categorization and 1 for partisanship.
+It should be noted that the boundary between fake news websites and fact-based
+media, especially partisan media, is unclear. We conceptualize a website as a fake
+news website if it carries a considerable level of fake news, but operationalizing “a
+considerable level” is methodologically challenging. For example, Breitbart was
+treated as a conservative media outlet in previous research (e.g., Meraz, 2009) but has
+been accused of regularly disseminating fake news and conspiracy theory. In this
+study, two sources from Hoaxy’s list—Zamdars and The Daily Dot—identify Breitbart
+as a fake news outlet, which thus is categorized as a misinformation website in this
+study. We, however, do acknowledge that this is an arbitrary classification, an issue
+future research should address.
+
+Coding for Substantive and Affective Attributes
+To examine attribute agenda setting, this study analyzes substantive and affective attributes
+that are associated with Trump and Clinton, respectively. GDELT identifies “proper
+names” through named-entity detection (Leetaru, 2015). This extracts names of persons
+mentioned in news stories. As such, we relied on GDELT’s detection system to only inspect
+articles that mentioned the two candidates. GDELT also comprises “themes” that cluster
+news content together, covering a broad range of issues and attributes. Vargo et al.’s (2018)
+has taken the theme categorization and arranged the themes in a way that broadly encompasses major issues in U.S. news coverage between 2014 and 2016. We revised the list of
+issues as it pertained to the 2016 election: taxes, unemployment, economy, trade, terrorism,
+military, international relations, immigration/refugees, health care, gun control, drug,
+police system, racism, civil liberties, environment, education, party politics, election fraud,
+and media/Internet. These 19 issues are operationalized as issue positions, or substantive
+attributes, associated with the two candidates. In addition, GDELT also possesses affective
+attributes similar to those studied in attribute agenda-setting research (McCombs et al.,
+1997). To create the positive attribute, we included news stories that discussed the candidate plus the “Charismatic Leadership” theme from GDELT. To comprise the negative
+attribute, we included themes “Corruption” and “Scandal.”2
+
+188
+
+Communication Research 47(2)
+
+Time Series Analysis
+GDELT GKG was downloaded in tab-separated values format. Python was used to
+iterate over each row of data. When a news item was from a media source that was
+identified in one of the media types defined above, the item was then inspected if it
+mentioned one of the two candidates and if it matched any of the 19 issues or the two
+affective attributes. Media and candidate/attribute counts were summed by day, and
+treated as time series data. A time series analysis was performed to assess if IAS was
+present. Granger causality models were considered for each candidate/attribute and
+media type. Granger causality addresses auto-correlation (e.g., regressing past values
+of the outcome variable) and time lags, two necessary components to address timeordered effects. F-tests were used as indicators of significance. Using the majority rule
+(Vargo et al., 2018), an IAS relationship was considered to be significant for substantive attributes if at least 10 out of 19 issues studied here achieved significance in
+Granger causality tests; and for affective attributes if both positive and negative attributes achieved significance.
+
+A Fine-Grained Approach of IAS
+To measure IAS effects at a story and event level (Harder et al., 2017; Welbers, 2016),
+this article further analyzed specific news content. According to Welbers’ (2016) definition, a story should not be too abstract to represent a theme (i.e., a broad issue category) or too specific to represent an event (i.e., anything that happens). In addition, a
+story should last for at least a few days to trace the interaction of coverage between
+fake news websites and fact-based media. To select qualified stories for analysis, we
+first reviewed studies about the 2016 election (e.g., Faris et al., 2017) and then
+reviewed prominent news items from the fake news websites identified earlier. A total
+of 2,047 articles about Trump and 1,919 articles about Clinton were found from the
+fake news websites. In GDELT, each news item is represented as a URL, which can be
+used to infer the news headlines (see the URL below for an example).
+http://www.breitbart.com/big-government/2016/09/02/clinton-foundationssweden-affiliate-bagged-6-million-from-undisclosed-donors
+A frequency analysis was conducted to extract the most frequent words that were
+used in the fake news headlines. The researchers manually reviewed all words that
+occurred at least 10 times in each dataset (i.e., Trump- and Clinton-related news articles)
+to explore prominent stories. In total, five stories about Trump were selected: (1) Trump’s
+promise to build a border wall between the United States and Mexico; (2) Trump’s comments related to Ford’s shifting jobs to Mexico; (3) charges related to Trump’s sexual
+assault of women; (4) the alleged case about Trump raping a teenage girl; and (5)
+Trump’s birther accusation against Obama. And four stories about Clinton were selected:
+(1) Clinton’s role in Benghazi; (2) Clinton’s health problems; (3) charges related to the
+Clinton Foundation; and (4) Clinton’s speeches to Goldman Sachs.
+To find matches of these specific stories, search logic was built in Python. The
+headlines of news articles from both fake and fact-based media in GDELT were
+
+Guo and Vargo
+
+189
+
+searched against for matches. Two researchers of the article worked iteratively on
+refining search terms. In all, through four rounds of revisions, the intercoder reliability
+between two researchers achieved an average of 0.99 (α) for all stories based on about
+30% of the sample. An external validity check was conducted to compare human coding and the coding results generated from the search terms, reaching a 0.96 humancomputer agreement.
+To examine whether and how fake news websites interacted with fact-based media,
+we qualitatively reviewed all headlines of the identified stories—1,220 headlines
+about Trump and 1,435 headlines about Clinton. For each story, all news articles from
+fact-based media and fake media—satire and misinformation websites—that covered
+the same specific events were thoroughly reviewed, and therefore the IAS was also
+examined at the level of event. The headlines and news articles were repeatedly read
+until salient and recurrent patterns emerged.
+
+Results
+Tables 1 and 2 summarized the results of attribute agenda-setting analysis. Overall, the
+study showed that misinformation websites followed the agenda of all types of factbased media in covering Trump, while the interplay between misinformation websites
+and fact-based media was largely limited as for the coverage of Clinton. On the contrary, the interaction between satire websites and fact-based media was largely limited.
+Given that misinformation websites (RQ1-2, H1-3, and RQ5-6) and satire websites
+(RQ3-4, H4-6, and RQ7-8) exhibited distinct IAS patterns, the results of each were
+reported separately.
+
+Attribute Agenda Setting Involving Misinformation Websites
+In addressing RQ1a, results showed that misinformation websites Granger-caused the
+agenda of fact-based media in reporting two issues about Trump. Reversely, fact-based
+media predicted the agenda of misinformation websites in covering 17 out of 19 issues.
+Based on the majority rule, fact-based media were more likely to influence the agenda
+of misinformation websites in covering issues related to Trump than reversely.
+With respect to the news related to Clinton (RQ1b), results showed that few significant interactions existed between misinformation websites and fact-based media.
+Misinformation websites predicted the agenda of fact-based media in covering three
+issues, while followed the latter’s agenda in covering only two issues.
+In answering RQ2a-b, misinformation websites influenced the agenda of fact-based
+media in both positive and negative coverage of Trump, while the reverse relationship
+was only found in their positive coverage of the candidate. That is, for news about
+Trump, misinformation websites were more likely to predict the affective agenda of
+fact-based media than reversely. In reporting Clinton, misinformation websites
+Granger-caused the agenda of fact-based media in their negative coverage. The reverse
+relationship was not found.
+
+190
+
+Communication Research 47(2)
+
+Table 1. Significant Granger Causality Tests Regarding News About Trump.
+Relationship
+
+Substantive attributes
+(No. of issues)
+
+From misinformation websites to other media
+Misinformation → All fact-based
+Misinformation → All online partisan
+Misinformation → Conservative
+Misinformation → Liberal
+Misinformation → Elite
+Misinformation → News agencies
+Misinformation → Traditional
+Misinformation → Emerging
+From other media to misinformation websites
+All fact-based → Misinformation
+All online partisan → Misinformation
+Conservative → Misinformation
+Liberal → Misinformation
+Elite → Misinformation
+News agencies → Misinformation
+Traditional → Misinformation
+Emerging → Misinformation
+From satire websites to other media
+Satire → All fact-based
+Satire → All online partisan
+Satire → Conservative
+Satire → Liberal
+Satire → Elite
+Satire → News agencies
+Satire → Traditional
+Satire → Emerging
+From other media to satire websites
+All fact-based → Satire
+All online partisan → Satire
+Conservative → Satire
+Liberal → Satire
+Elite → Satire
+News agencies → Satire
+Traditional → Satire
+Emerging to Satire
+
+2
+5
+9
+9
+11
+9
+4
+1
+
+Affective attributes
+Positive (5.13*),
+Negative (5.10*)
+Negative (7.71**)
+Negative (6.57*),
+Positive (4.33*)
+Negative (12.20**)
+n/a
+n/a
+Negative (4.43*)
+Negative (7.70**)
+
+17
+15
+12
+13
+13
+10
+16
+17
+
+Positive (6.83*)
+Negative (4.05*)
+n/a
+Negative (5.67*)
+n/a
+n/a
+n/a
+Positive (11.75**),
+Negative (5.30*)
+
+1
+n/a
+n/a
+n/a
+2
+1
+1
+1
+
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+
+n/a
+1
+1
+1
+n/a
+1
+n/a
+n/a
+
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+
+Note. The Granger causality parameter tests reported are based on F distribution for significance. Full
+Granger causality model diagnostics are available from the authors upon request.
+*p < .05. **p < .01.
+
+191
+
+Guo and Vargo
+Table 2. Significant Granger Causality Tests Regarding News About Clinton.
+Relationship
+From misinformation websites to other media
+Misinformation → All fact-based
+Misinformation → All online partisan
+Misinformation → Conservative
+Misinformation → Liberal
+Misinformation → Elite
+Misinformation → News agencies
+Misinformation → Traditional
+Misinformation → Emerging
+From other media to misinformation websites
+All fact-based → Misinformation
+All online partisan → Misinformation
+Conservative → Misinformation
+Liberal → Misinformation
+Elite → Misinformation
+News agencies → Misinformation
+Traditional → Misinformation
+Emerging → Misinformation
+From satire websites to other media
+Satire → All fact-based
+Satire → All online partisan
+Satire → Conservative
+Satire → Liberal
+Satire → Elite
+Satire News agencies
+Satire → Traditional
+Satire → Emerging
+From other media to satire websites
+All fact-based → Satire
+All online partisan → Satire
+Conservative → Satire
+Liberal → Satire
+Elite → Satire
+News agencies → Satire
+Traditional → Satire
+Emerging → Satire
+
+Substantive attributes
+(No. of issues)
+
+Affective attributes
+
+3
+5
+8
+2
+5
+2
+3
+3
+
+Negative (5.65*)
+Negative (13.79**)
+Negative (13.00**)
+Negative (12.56**)
+Negative (5.51*)
+Negative (5.93**)
+Negative (4.67*)
+Negative (5.57*)
+
+2
+5
+5
+2
+1
+1
+1
+2
+
+n/a
+Negative (6.00*)
+Negative (8.03**)
+n/a
+n/a
+n/a
+n/a
+Negative (5.35*)
+
+1
+n/a
+1
+1
+n/a
+1
+n/a
+1
+
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+
+3
+n/a
+n/a
+3
+2
+3
+4
+3
+
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+
+Note. The Granger causality parameter tests reported are based on F distribution for significance. Full
+Granger causality model diagnostics are available from the authors upon request.
+*p < 0.05. **p < .01.
+
+192
+
+Communication Research 47(2)
+
+H1a-b expected that misinformation websites would have a reciprocal relationship
+with partisan media as they covered the two candidates’ substantive attributes. For
+news about Trump, it appeared that misinformation websites predicted the agenda of
+partisan media in covering five issues. Reversely, partisan media predicted the agenda
+of misinformation websites in covering 15 out of 19 issues. That is, partisan media
+were more likely to influence the agenda of misinformation websites in covering
+issues about Trump than reversely. H1a was partially supported.
+When it came to the media portrayal of Clinton, misinformation websites set the
+agenda of partisan media in terms of five issues. Reversely, partisan media also
+Granger-caused the agenda of misinformation websites in covering five issues. Given
+the limited interactions in both directions, H1b was rejected.
+In addressing H2a-b, results showed that misinformation websites and partisan
+media influenced each other in their negative coverage of both Trump and Clinton,
+while significance was not found for positive attributes. H2a-b were not supported.
+H3a-b predicted that misinformation websites would have a greater reciprocal relationship with partisan than nonpartisan media. In covering Trump, while misinformation websites influenced partisan media in covering five issues, their agenda
+Granger-caused the agenda of elite media (11 issues), news agencies (nine issues),
+traditional media (four issues), and emerging media (one issue). Reversely, partisan
+media Granger-caused the agenda of misinformation websites in covering 15 issues
+about Trump. To compare, emerging media predicted the agenda of misinformation
+websites in covering 17 issues, traditional media predicted 16 issues, elite media predicted 13 issues, and news agencies predicted 10 issues. In terms of affective coverage, misinformation websites not only influenced partisan media in their negative
+coverage of Trump but also set the agenda of emerging media and traditional media in
+the same way. On the contrary, while partisan media influenced misinformation websites in their negative coverage of Trump, emerging media were found to Grangercause the agenda of misinformation websites in both positive and negative coverage of
+the candidate. Taken together, the results showed that, for Trump’s coverage, misinformation responded to the agenda of all types of fact-based media, including partisan
+media. H3a was not supported.
+With respect to the news coverage of Clinton, misinformation websites set the
+agenda of partisan media in covering five issues; they also Granger-caused the agenda
+of elite media (five issues), traditional media (three issues), emerging media (three
+issues), and news agencies (two issues). As for the reverse relationship, while partisan
+media predicted the agenda of misinformation websites in terms of five issues, emerging media predicted three issues, and other types of fact-based media predicted one
+issue. In covering affective attributes about Clinton, misinformation websites were
+able to predict the agenda of all types of fact-based media in their negative coverage
+of the candidate. Reversely, both partisan and emerging media influenced the agenda
+of misinformation websites in reporting Clinton negatively. In general, the degree of
+interaction between misinformation websites and all types of fact-based media was at
+best moderate in covering Clinton. H3b was not supported.
+
+Guo and Vargo
+
+193
+
+RQ5a-b and RQ6a-b asked about the interplay between misinformation websites
+and partisan media of different political orientations. Results showed that the coverage
+of Trump in misinformation websites Granger-caused the agenda of both conservative
+and liberal media in terms of nine issues. Reversely, conservative media predicted the
+agenda of misinformation websites in covering 12 issues, and liberal media predicted
+13 issues. Using our threshold to determine significance, it appeared that misinformation websites did not significantly predict the agenda of either conservative or liberal
+media; instead, partisan media of both directions significantly influenced misinformation websites in covering issues related to Trump.
+The affective coverage of Trump showed a different pattern. Misinformation websites were found to influence conservative media in both positive and negative coverage of Trump, while influencing liberal media only in their negative coverage of the
+candidate. Reversely, liberal media’s negative coverage of Trump predicted the agenda
+of misinformation websites, whereas conservative media did not influence misinformation websites affectively.
+With respect to Clinton, misinformation websites predicted the agenda of conservative media in covering eight issues, whereas they predicted liberal media in terms of
+only two issues. Reversely, conservative media influenced misinformation websites in
+reporting five issues, and liberal media predicted two issues. In addition, misinformation websites Granger-caused the agenda of both conservative and liberal media in
+their negative coverage of Clinton. A significant reverse relationship was only found
+from conservative media to misinformation websites. While no significance was
+achieved using our majority rule, the results did seem to show that misinformation
+websites slightly better predicted the agenda of conservative-oriented websites than
+liberal-oriented websites in covering substantive attributes of Clinton.
+
+Attribute Agenda Setting Involving Satire Websites
+Unlike misinformation websites, satire websites appeared to barely interact with different types of fact-based media. For Trump, satire websites had only a few interplays
+with some fact-based media in covering party politics, racism, and taxes. A greater
+level of IAS was found between satire websites and fact-based media in covering
+Clinton. However, none of the relationships achieved significance.
+
+Story and Event-Level IAS Analysis
+Turning to the IAS analysis at the story and event level, our study showed that media
+of different types did follow each other in reporting the nine stories selected for the
+analysis.
+Specifically, several salient patterns of IAS at the story and event level have
+emerged. First, the analysis showed that misinformation websites often borrowed
+ideas of news events from fact-based media. In many cases, misinformation websites
+just repeated the reporting without distorting the original content because the content
+was sensational already. For example, on October 7, 2016, The Washington Post
+
+194
+
+Communication Research 47(2)
+
+published an article of Trump’s “locker room talk,” which caused a lot of media outlets
+to follow the coverage. Breitbart reported the event on the same day; another two
+misinformation websites—one left wing (Addicting Info) and one right wing (Red
+State)—repeated the reporting on October 8. On October 12, The New York Times
+published a follow-up story that two women accused Trump of touching them inappropriately. Again, misinformation websites just operated like other media to repeat
+the Times coverage. This agenda-setting impact was not restricted to elite media. On
+September 13, a journalist from Intercept (a liberal media outlet) reported on Twitter
+that a leaked email showed Colin Powell discussed Clinton’s health issue back in
+2015. The event attracted a lot of media attention including misinformation websites
+such as Prison Planet and fact-based media, emerging and traditional, such as The
+Washington Times. In other words, this lead-and-follow pattern was not unique to misinformation websites. Whenever a fact-based media outlet broke a scandal-like event
+about either candidate, all kinds of media were likely to follow.
+Second, for stories and events that were less sensational, fake news websites including satire and misinformation websites often altered the existing news from fact-based
+media by adding unverified or sensational content or by framing the news in a biased
+way. Consider the story of Trump’s promise to build a border wall between the United
+States and Mexico as an example. After Trump met with Mexican President Enrique
+Pena Nieto on September 1, he tweeted that Mexico would pay for the wall and Nieto
+refuted the claim. Many fact-based media reported this event and therefore so did fake
+news websites. On the same day, Addicting Info reported the event with a sensational
+title: “Mexico president confirms Trump lied he told him to go f*** himself and his
+wall.” Based on the story, Breitbart reported a similar news event with suspicious
+content: “Trump declares war: Mexican cartel assets pay border wall.” Two days later,
+the satire website News Biscuit parodied the news and “reported”: “Mexico wall ‘will
+be trained in martial arts’ warns Trump.”
+The pattern also applied to news about Clinton. On September 19, Bill Clinton
+spoke in a National Public Radio (NPR) interview to address the public’s concerns
+about the Clinton Foundation. The NPR title reads, “Bill Clinton: ‘It’s hard’ to think
+about leaving foundation.’” During the interview Clinton said, among many other
+things
+. . . It was natural for people who’ve been our political allies and personal friends to call
+and ask for things. And I trusted the State Department wouldn’t do anything they
+shouldn’t do . . .
+
+Based on the NPR interview, Cable News Network (CNN) reported the event with a
+sensational headline, “Bill Clinton: ‘Natural’ for foundation donors to seek favors.”
+Many traditional and emerging media outlets repeated CNN’s headline and coverage.
+Breitbart reported the same event with an even more misleading title, “Bill Clinton
+admits donors gave to Clinton Foundation for favors.”
+Third, while misinformation websites often stole content from fact-based media,
+they did sometimes produce “original content,” which were mostly follow-ups based
+
+Guo and Vargo
+
+195
+
+on events reported by fact-based media. Most of the time, such coverage attracted little
+attention, solely from other misinformation websites. Fact-based media did not address
+these types of fake news follow-up stories. For example, on October 15, Wikileaks
+released the transcripts of Clinton’s paid speech at Goldman Sachs. Media outlets of
+different kinds reported the event from different angles. Each focused on a part of the
+speech and published an article. IAS took place among various fact-based media outlets. Likewise, Breitbart also published articles about the speech. One of them was
+repeated in Prison Planet, while the rest did not garner any media attention. This pattern is more obvious when comparing fact-based media and misinformation websites
+in covering similar events. On November 4, following Russian Today’s article, a few
+misinformation websites such as 21st Century Wire reported that the Clinton
+Foundation took money from Qatar despite the fact that they knew the country supported ISIS. The coverage did not attract much attention from fact-based media. By
+contrast, when Reuters reported on the same day that the Clinton Foundation confirmed they took money from Qatar without reporting it to the State Department, it did
+cause many other media to repeat the coverage.
+Finally, in rare cases, fact-based media—mostly partisan media—did repeat fake
+news articles with unverified or biased content. The aforementioned Breitbart story
+about Mexican cartel paying for the wall was repeated in one conservative media outlet (investmentwatchblog.com) and one emerging media outlet (inquistr.com) on the
+next day. Likewise, in light of Trump’s comments related to Ford’s shifting jobs to
+Mexico, Red State published a follow-up story: “Marita Noon: Blame for Ford’s
+Mexico move falls on Obama administration.” Breitbart and two conservative media
+outlets American Spectator and Investor repeated the reporting.
+
+Discussion and Conclusion
+Based on the 2016 U.S. presidential election, the study examined how fake news
+affected the emerging media ecosystem through an integrated IAS analysis. The results
+showed that websites that spread misinformation had a fairly close IAS relationship
+with fact-based media in covering Trump, but not for the news about Clinton. On the
+contrary, satire websites barely interacted with the agenda of other media outlets. A
+qualitative analysis further showed that, rather than playing a unique agenda-setting
+role in this emerging media landscape, fake news websites added some noise to an
+already sensationalized news environment. Specific findings of the study and its theoretical contributions are discussed below.
+Our study showed a pattern slightly different from previous research. Vargo et al.
+(2018) found that in some cases, from 2014 to 2016, fake news could influence the
+broad issue agendas of partisan media and emerging media. Our analysis examined the
+news coverage of two political candidates, respectively, during the 2016 election. In
+addition, the current study distinguished between misinformation and satire websites,
+and analyzed IAS with a more granular topical focus. By “zooming in” in these ways,
+our data here show that significant IAS took place in covering Trump but not Clinton.
+Allcott and Gentzkow (2017) found that fake news was widely shared and heavily
+
+196
+
+Communication Research 47(2)
+
+tilted in favor of Trump on social media. Our study adds to the literature by demonstrating that the news coverage of Trump—a controversial politician—led to the interaction between misinformation websites and fact-based media during the election.
+Specifically, misinformation websites followed the issue agenda of all types of factbased media in covering Trump. Reversely, the impact of misinformation websites on
+fact-based media was relatively smaller, but the results showed misinformation websites
+influenced the affective agenda of fact-based media in reporting Trump. A qualitative
+analysis confirmed that in most cases misinformation websites borrowed ideas from
+fact-based media rather than reversely. There were occasions where fact-based media
+reported on specific stories or events that stemmed from misinformation websites.
+Luckily, these results were few and far between. These findings should, to some extent,
+allay concerns around the integrity of professional media organizations, which were not
+lured into using content from fake news websites to attract audience attention.
+However, it is important to note that the influence of misinformation on real news is
+present in that it may set the tone of news coverage for certain political candidates in
+fact-based media. Here we contribute to the literature by providing a different lens in
+which to assess the impact of fake news. Previous research showed that an average U.S.
+adult might have seen one or several fake news stories in the months before election
+(Allcott & Gentzkow, 2017) and that 75% of U.S. adults who were familiar with a fake
+news headline viewed the story as accurate (Silverman & Singer-Vine, 2016). Our
+study further reveals that direct exposure and persuasion aside, people may be influenced by fake news indirectly through consuming fact-based media. In addition, the
+finding that this influence occurred at the affective level is particularly concerning.
+Scholars have posited that affective framing of political candidates in news has a significant impact on voters’ attitudes toward candidates (Coleman & Wu, 2010).
+The finding that misinformation websites closely followed the agenda of fact-based
+media is also concerning. Different from what we expected, misinformation websites
+responded to all types of news media, partisan media included. As the qualitative analysis showed, these misinformation websites repurposed or altered existing news content
+to intentionally mislead their readers. What is more notable is that they often times
+repeated the coverage due to the fact that the story was sensational. Like other media
+outlets, fake news websites—particularly misinformation websites—paid special attention to scandal-driven stories about the two candidates. Dramatic political events occupied front pages of not only partisan media but also mainstream media outlets such as
+The New York Times and The Washington Post, which all received boosts in subscriptions and page views since the election. Taken together, the results seem to suggest that
+the current media and political environment provides a fertile breeding ground for fake
+news. Fake news websites appear to feed off of the sensational, and there was no lack
+of such stories during this election in the fact-based media. These conditions appear to
+have blurred the boundary between real and fake news given their mutual interest during this election. Perhaps, the real concern is not necessarily the growth of fake news
+websites, but rather how accurately and objectively “real news” depicts the political
+landscape in the United States. Our study suggests that journalists of legitimate news
+organizations may not want to continue to discuss the impact of “fake news”—which
+
+Guo and Vargo
+
+197
+
+itself can be a sensational topic, but rather reflect on their own practices of reporting
+news, which may be a more critical problem of American journalism.
+It is also worth noting that the distinction between two types of fake news—misinformation and satire—is important because only the former seemed to demonstrate an
+IAS relationship with fact-based media. While news satire may also mislead users
+(Emery, 2018), the genre is mainly to entertain and perhaps even serve the function of
+the “Fifth Estate” (Berkowitz & Schwartz, 2016). Our finding pointed out that, unfortunately, it is those that intentionally tend to mislead that exhibit impact on the emerging media landscape.
+In addition to shedding light on the role fake news websites played in a recent election, this study also contributes to IAS theory by employing an integrated analytical
+framework. While attribute agenda-setting analysis demonstrated the extent to which
+news reporters looked to their peers to validate the sense of news, a fine-grained analysis at the story and event level revealed whether media outlets borrowed story ideas
+from each other. This comprehensive analysis not only methodologically enriches IAS
+analysis but also helps understand the interplay between fake news websites and other
+media at different conceptual levels. We recommend future research should also adopt
+an approach that examines IAS at different granularity to obtain a more comprehensive picture of the increasingly complex media ecosystem.
+Despite its contributions, the study is limited. When analyzing IAS at the story and
+event level, a Granger causality test was not available due to the lack of data points in
+our sample. Thus, the results showed nuances through a qualitative analysis but not a
+systematic pattern. Second, our statistical analysis arbitrarily chose time lag as a day
+because of the constraint of the GDELT dataset, whereas IAS could happen within
+several hours (Harder et al., 2017). Future research should explore more sophisticated
+ways to collect, archive, and analyze large-scaled news media data. Third, our analysis
+focused on the interaction between fake news and fact-based media organizations
+without controlling for the effect of other information sources such as political tweets
+or public relations efforts (Parmelee, 2014). During the 2016 campaign, Twitter
+became a battleground for both Trump and Clinton to fight for their votes. Political
+tweets might directly influence the media agenda, both fake and fact-based. Future
+research should consider these external variables in IAS analysis.
+Declaration of Conflicting Interests
+The authors declared no potential conflicts of interest with respect to the research, authorship,
+and/or publication of this article.
+
+Funding
+The authors received no financial support for the research, authorship, and/or publication of this
+article.
+
+Notes
+1.
+
+Two elite media studied are websites of The New York Times and The Washington Post.
+Other traditional media are websites of other newspapers, television, or radio (e.g., latimes.
+
+198
+
+2.
+
+Communication Research 47(2)
+com). Two news agencies are The Associated Press and United Press International. Onlineonly, partisan media include conservative- (e.g., cnsnews.com) and liberal-oriented websites (e.g., huffingtonpost.com). Emerging media refer to online-only, nonpartisan media
+(e.g., yahoo.com).
+Themes in GDELT refer to a wide range of things from major issues to evaluative personal
+attributes. To establish a theme, a computer system developed for the GDELT project is
+trained to recognize keywords in text that are associated with that theme. Two human
+coders reviewed the themes and combined attribute categories, reaching an intercoder reliability of .84 (α).
+
+References
+Albright, J. (2016, November). The #Election2016 micro-propaganda machine. Medium.
+Retrieved from https://medium.com/@d1gi/the-election2016-micro-propaganda-machine383449cc1fba
+Allcott, H., & Gentzkow, M. (2017). Social media and fake news in the 2016 election. The
+Journal of Economic Perspectives, 31, 211-236. doi:10.1257/jep.31.2.211
+Bakir, V., & McStay, A. (2018). Fake news and the economy of emotions: Problems, causes,
+solutions. Digital Journalism, 6, 154-175. doi:10.1080/21670811.2017.1345645
+Baum, M. A., & Groeling, T. (2008). New media and the polarization of American political
+discourse. Political Communication, 25, 345-365. doi:10.1080/10584600802426965
+Berkowitz, D., & Schwartz, D. A. (2016). Miley, CNN and The Onion: When fake news
+becomes realer than real. Journalism Practice, 10, 1-17. doi:10.1080/17512786.2015.10
+06933
+Coleman, R., & Wu, H. D. (2010). Proposing emotion as a dimension of affective agenda setting: Separating affect into two components and comparing their second-level effects.
+Journalism & Mass Communication Quarterly, 87, 315-327.
+Denham, B. E. (2014). Intermedia attribute agenda setting in the New York Times: The case of
+animal abuse in US horse racing. Journalism & Mass Communication Quarterly, 91, 17-37.
+doi:10.1177/1077699013514415
+Emery, D. (2018, January 18). Don’t be fooled! A guide to fake news websites. ThoughtCo.
+Retrieved from https://www.thoughtco.com/guide-to-fake-news-websites-3298824
+Faris, R., Roberts, H., Etling, B., Bourassa, N., Zuckerman, E., & Benkler, Y. (2017).
+Partisanship, propaganda, and disinformation: Online media and the 2016 U.S. presidential election. Retrieved from https://cyber.harvard.edu/publications/2017/08/mediacloud
+Guess, A. W. (2016). Media choice and moderation: Evidence from online tracking data.
+Retrieved from https://www.dropbox.com/s/uk005hhio3dysm8/GuessJMP.pdf?dl=0
+Hammond, J., & Weidmann, N. B. (2014). Using machine-coded event data for the micro-level
+study of political violence. Research & Politics, 1, 1-8. doi:10.1177/2053168014539924
+Harder, R. A., Sevenans, J., & Van Aelst, P. (2017). Intermedia agenda setting in the social
+media age: How traditional players dominate the news agenda in election times. The
+International Journal of Press/Politics, 22, 275-293. doi:10.1177/1940161217704969
+Iyengar, S., & Hahn, K. S. (2009). Red media, blue media: Evidence of ideological selectivity in
+media use. Journal of Communication, 59, 19-39. doi:10.1111/j.1460-2466.2008.01402.x
+Kiousis, S., Bantimaroudis, P., & Ban, H. (1999). Candidate image attributes: Experiments on
+the substantive dimension of second level agenda setting. Communication Research, 26,
+414-428. doi:10.1177/009365099026004003
+Kiousis, S., Popescu, C., & Mitrook, M. (2007). Understanding influence on corporate reputation: An examination of public relations efforts, media coverage, public opinion, and
+
+Guo and Vargo
+
+199
+
+financial performance from an agenda-building and agenda-setting perspective. Journal of
+Public Relations Research, 19, 147-165. doi:10.1080/10627260701290661
+Leetaru, K. (2015). Mining libraries: Lessons learned from 20 years of massive computing on
+the world’s information. Information Services & Use, 35, 31-50. doi:10.3233/ISU-150767
+Lim, J. (2011). First-level and second-level intermedia agenda-setting among major news websites. Asian Journal of Communication, 21, 167-185. doi:10.1080/01292986.2010.539300
+Linebarger, P. M. A. (1948). Psychological warfare. Washington, DC: Infantry Journal Press.
+McCombs, M. (2004). Setting the agenda: The mass media and public opinion. Cambridge,
+UK: Polity Press.
+McCombs, M., Llamas, J. P., Lopez-Escobar, E., & Rey, F. (1997). Candidate images in
+Spanish elections: Second-level agenda-setting effects. Journalism & Mass Communication
+Quarterly, 74, 703-717. doi:10.1177/107769909707400404
+Meraz, S. (2009). Is there an elite hold? Traditional media to social media agenda setting influence in blog networks. Journal of Computer-Mediated Communication, 14, 682-707.
+doi:10.1111/j.1083-6101.2009.01458.x
+Meraz, S. (2011). Using time series analysis to measure intermedia agenda-setting influence
+in traditional media and political blog networks. Journalism & Mass Communication
+Quarterly, 88, 176-194. doi:10.1177/107769901108800110
+Mihailidis, P., & Viotty, S. (2017). Spreadable spectacle in digital culture: Civic expression,
+fake News, and the role of media literacies in “post-fact” society. American Behavioral
+Scientist, 61, 441-454. doi:10.1177/0002764217701217
+Parmelee, J. H. (2014). The agenda-building function of political tweets. New Media & Society,
+16, 434-450. doi:10.1177/1461444813487955
+Prior, M. (2013). Media and political polarization. Annual Review of Political Science, 16, 101127. doi:10.1146/annurev-polisci-100711-135242
+Reese, S. D., & Danielian, L. H. (1989). Intermedia influence and the drug issue: Converging
+on cocaine. In P. Shoemaker (Ed.), Communication campaigns about drugs: Government,
+media, and the public (pp. 29-46). New York, NY: Lawrence Erlbaum.
+Rojecki, A., & Meraz, S. (2016). Rumors and factitious informational blends: The role of the web
+in speculative politics. New Media & Society, 18, 25-43. doi:10.1177/1461444814535724
+Shoemaker, P., & Reese, S. D. (2011). Mediating the message. New York, NY: Routledge.
+Silverman, C., & Singer-Vine, J. (2016). Most Americans who see fake news believe it, new
+survey says. BuzzFeed News. Retrieved from https://www.buzzfeed.com/craigsilverman/
+fake-news-survey?utm_term=.hjjx9yg12#.hcO5RNwoy
+Southwell, B. G., Thorson, E. A., & Sheble, L. (Eds.). (2018). Misinformation and mass audiences. Austin: University of Texas Press.
+Stroud, N. J. (2010). Polarization and partisan selective exposure. Journal of Communication,
+60, 556-576. doi:10.1111/j.1460-2466.2010.01497.x
+Tandoc, E. C., Jr., Lim, Z. W., & Ling, R. (2018). Defining “Fake News”: A typology of scholarly definitions. Digital Journalism, 6, 137-153. doi:10.1080/21670811.2017.1360143
+Townsend, T. (2016, November 21). The bizarre truth behind the biggest pro-Trump Facebook hoaxes.
+Inc. Retrieved from https://www.inc.com/tess-townsend/ending-fed-trump-facebook.html
+Tuchman, G. (1978). Making news: A study in the construction of reality. New York, NY: Free
+Press.
+Vargo, C., Guo, L., & Amazeen, M. A. (2018). The agenda-setting power of fake news: A big
+data analysis of the online media landscape from 2014 to 2016. New Media & Society, 20,
+2028-2049. doi:10.1177/1461444817712086
+
+200
+
+Communication Research 47(2)
+
+Vargo, C. J., & Guo, L. (2017). Networks, Big Data, and Intermedia Agenda Setting: An
+Analysis of Traditional, Partisan, and Emerging Online US News. Journalism & Mass
+Communication Quarterly, 94, 1031-1055.
+Vonbun, R., Königslöw, K. K., & Schoenbach, K. (2016). Intermedia agenda-setting in a multimedia news environment. Journalism, 17, 1054-1073. doi:10.1177/1464884915595475
+Waisanen, D. J. (2011). Crafting hyperreal spaces for comic insights: The Onion News
+Network’s ironic iconicity. Communication Quarterly, 59(5), 508-528.
+Wardle, C. (2017). Fake news. It’s complicated. First Draft. Retrieved from https://firstdraftnews.org/fake-news-complicated/
+Waschke, M. (2017). Misuse of computers. In Personal cybersecurity: How to avoid and
+recover from cybercrime (pp. 103-123). Berkeley, CA: Apress.
+Welbers, K. (2016). Gatekeeping in the digital Age. Amsterdam, The Netherlands: Vrije
+Universiteit Amsterdam.
+Zimdars, M. (2016, November 18). My “fake news list” went viral. But made-up stories are only
+part of the problem. The Washington Post. Retrieved from https://www.washingtonpost.
+com/posteverything/wp/2016/11/18/my-fake-news-list-went-viral-but-made-up-storiesare-only-part-of-the-problem/?noredirect=on&utm_term=.d19fa7c1f621
+Zubiaga, A., Aker, A., Bontcheva, K., Liakata, M., & Procter, R. (2018). Detection and resolution of rumours in social media: A survey. ACM Computing Surveys (CSUR), 51(2), 1-36.
+doi:10.1145/3161603
+
+Author Biographies
+Lei Guo (PhD, University of Texas at Austin) is an assistant professor of emerging media
+­studies in the College of Communication, Boston University. Her research focuses on the
+­development of media effects theories, emerging media and democracy, and computational
+social science methodologies.
+Chris Vargo (PhD, University of North Carolina at Chapel Hill) is an assistant professor specializing in the application of analytics in mass communication at the University of Colorado
+Boulder. He specializes in the use of computer science methods to investigate big data using
+theories from the communication and political science disciplines. Research methods of specialization include text mining, machine learning, computer-assisted content analysis, data forecasting, information retrieval, and network analysis.
+
+

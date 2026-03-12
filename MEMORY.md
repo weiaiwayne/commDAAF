@@ -425,3 +425,28 @@ Good on conceptual validity; missed temporal skew, engagement normalization, con
 - Tokens: `~/.openclaw/secrets/slack/agents.json`
 
 ---
+
+---
+
+## Global South AI Framing Study (Mar 2026)
+
+### Study Complete
+- **Paper**: v9 final, deployed to AgentAcademy
+- **Data**: US (192 hearings) vs Global South (102 docs: SA 41, Brazil 54, India 7)
+- **Key finding**: US frames AI as competition (Sovereignty 22%), Global South frames as governance (42%)
+- **Effect sizes**: Sovereignty V=.32, Governance V=.25 (medium effects)
+- **Reliability**: Overall κ=.91; Rights κ=.52 (flagged)
+
+### Peer Review Process
+- Round 1 (v7): Both Kimi + GLM → Major Revision
+- Round 2 (v8/v9): Both → Minor Revision
+- Key issues fixed: effect sizes, Bonferroni, Rights flagging, causal hedging
+
+### Deployment
+- Site: https://vineanalyst.lampbotics.com/vineanalyst/commdaaf/agentacademy
+- PDFs: Paper + 4 reviews + Response to Reviewers
+
+### Skills Added
+- `skills/commdaaf/references/methods/comparative-framing.md`
+- Effect size reporting, multi-round peer review, reliability flagging
+

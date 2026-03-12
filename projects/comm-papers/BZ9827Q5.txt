@@ -1,0 +1,914 @@
+1205893
+
+research-article2023
+
+NMS0010.1177/14614448231205893new media & societyPeng et al.
+
+Article
+
+The dark side of
+entertainment? How viral
+entertaining media build an
+attention base for the far-right
+politics of The Epoch Times
+
+new media & society
+﻿1­–22
+© The Author(s) 2023
+Article reuse guidelines:
+sagepub.com/journals-permissions
+https://doi.org/10.1177/14614448231205893
+DOI: 10.1177/14614448231205893
+journals.sagepub.com/home/nms
+
+Yilang Peng
+
+University of Georgia, USA
+
+Tian Yang
+
+The Chinese University of Hong Kong, Hong Kong
+
+Kecheng Fang
+
+The Chinese University of Hong Kong, Hong Kong
+
+Abstract
+To amplify their audience reach, far-right outlets need a calculated and coordinated
+array of acts to set the stage for audience attention and to build a communication
+network that spreads their messages. We examined the Facebook newsfeed history
+of The Epoch Times (N = 117,274 posts from 2013 to 2020), which transitioned from a
+niche anti-China publication to an influential player in US far-right politics. We found
+that US partisan issues helped the outlet attract immediate audience engagement, but
+such content did not invite audience growth and engagement with future content. In
+contrast, viral entertaining videos, while seemingly benign and mundane, demonstrated
+superb effects in getting audience responses, accumulating followers, and boosting
+engagement with subsequent posts. We argue that entertainment media is a crucial
+component of the extreme politics landscape that directs the flows of political attention,
+which could exert a “ripple effect” on assembling audience networks.
+Keywords
+Audience building, entertainment, far-right, The Epoch Times
+Corresponding author:
+Kecheng Fang, New Asia College, The Chinese University of Hong Kong, Room 203, Humanities Building,
+Shatin, New Territories, Hong Kong.
+Email: kfang@cuhk.edu.hk
+
+2
+
+new media & society 00(0)
+
+The contemporary political communication landscape on social media is characterized
+by intense competition for audience attention among a wide range of actors. In the farright media sphere, many actors blend extreme partisan politics with the dissemination
+of misinformation and half-truths (Bauer et al., 2022; Benkler et al., 2018), which pose
+significant threats to social cohesion and democratic health. The pursuit of audience
+attention by malicious political actors is a topic that has been researched for a long time
+(Bittman, 1985). Social media provide political actors with avenues to reach a wider
+audience, directly interact with followers, and create a communication network that
+spreads their ideas through connected supporters. However this potential is mitigated by
+the high competition for attention and the short attention span of users on social media.
+Consequently, researchers have examined how these actors, including far-right outlets
+and disinformation sources, leverage social media to amplify their audience reach, frequently through a calculated and coordinated array of acts to set the stage for audience
+attention and to build an infrastructural network that facilitates the spread of their messages (Bechmann, 2020; Dawson and Innes, 2019; Zhang et al., 2021). Prior research has
+exposed a variety of tactics adopted by various actors, such as the Russian Internet
+Research Agency (IRA), to maintain audience growth and attention on Twitter (Dawson
+and Innes, 2019; Doroshenko and Lukito, 2021; Zhang et al., 2021).
+This study argues that entertainment media, such as feel-good videos, life hacks, and
+cute animal posts, are a less examined yet crucial component of the extreme politics landscape that directs the flows of political attention. Far-right media, typically positioned at
+the fringes of the established center-right and right-wing outlets, are alternative media
+outlets that oppose mainstream media and establishment politics while promoting farright ideologies such as authoritarianism, xenophobia, and racism (Heft et al., 2020).
+Conventional wisdom might claim that far-right outlets concentrate on hyper-partisan and
+extreme politics to amass a large audience. However, political news only comprises a
+small percentage of people’s news diets, whereas non-political topics, such as entertainment and sports, still dominate people’s attention (Mukerjee et al., 2022; Wojcieszak
+et al., 2023). Also, only a small percentage of social media users are highly engaged with
+politics, let alone far-right politics (Grinberg et al., 2019; Guess et al., 2019a). A small
+segment of highly active users accounts for the majority of engagement with fake news
+sources or radical partisan content (Grinberg et al., 2019; Guess et al., 2019b; Hosseinmardi
+et al., 2021). In addition, scholars have observed that far-right politics increasingly incorporates humor and entertainment, as seen in the use of political memes on social media
+(Trillò and Shifman, 2021). Therefore, it is crucial to evaluate how effectively various
+content strategies adopted by political actors attract audience attention on social media
+platforms where a majority of users may not be highly interested in politics.
+Our study focuses on how media messages can be used to build an audience base and
+accumulate audience attention, as attention is often the first step in political persuasion or
+radicalization. Given the importance of assembling a communication network in circulating political messages, we argue that there are two distinct forms of attention-building
+effects: media messages can have immediate effects of attracting audience attention and
+engagement right after they get published; they can also exert ripple effects that spread to
+audience growth and attract more audience engagement with future content. Extreme and
+incendiary political content may appeal to a subset of social media users highly engaged
+
+Peng et al.
+
+3
+
+Figure 1. Follower growth of four far-right outlets’ Facebook pages from July 2017 to
+November 2021.
+Note. A higher positive bias score indicated more bias toward the right.
+
+with politics, but whether such messages sustain follower growth remains unclear. On the
+contrary, while entertaining media seems benign and irrelevant to the circulation of political information, such content may resonate with a wider audience and build a communication network that could be repurposed for future communication attempts.
+In summary, we aim to expand current far-right research in two ways: we incorporate
+entertainment media in studying far-right politics and consider both the immediate and
+ripple effects of attention-building strategies. We apply this expanded framework to a
+thorough examination of The Epoch Times’ Facebook newsfeed. Similar to other actors
+in conservative politics, this outlet blends disinformation and far-right politics and serves
+as a prominent example showing how a small, low-budget publication can effectively
+utilize the logic of social media and make its way to the center stage of US far-right politics, quadrupling its revenue from 2016 to 2019 (Alba, 2021; Markay, 2021). Appealing
+to avid supporters of Donald Trump, some of whom are far-right,1 it championed the
+dissemination of pro-Trump conspiracy theories, such as the Spygate theory, which
+falsely claimed that the Obama administration planted a spy in his 2016 presidential
+campaign, and the allegation about widespread fraud in the 2020 US presidential election
+(Atkinson et al., 2021; Collins, 2019; Wilson, 2021). Importantly, The Epoch Times
+depends crucially on social media activities for audience expansion, has heavily invested
+in Facebook advertising, and adopted a broad range of content strategies to compete for
+audience attention (Alba, 2021; Collins, 2019; Roose, 2020). By November 2021, it had
+accumulated 9.1 million followers on Facebook, outnumbering Breitbart and Newsmax
+in the far-right playing field (Figure 1). By investigating the growth trajectory of The
+Epoch Times on Facebook, our research reveals the immediate and ripple effects of different content strategies, including both hyper-partisan politics and entertainment media,
+on accumulating audience attention.
+
+4
+
+new media & society 00(0)
+
+Grabbing attention in the current political communication
+environment
+Attention is one of the most important resources in political communication, as it
+increases the visibility and exposure of certain actors, institutions, or ideas, and could
+potentially lead to political persuasion and mobilization. However, political communication in the social media era is characterized by information abundance and the scarcity of
+attention (Klinger and Svensson, 2015; Stroud, 2017). On social media, where multiple
+actors interact with each other and share news and information, not only news organizations but also social media users together shape the attention given to various information items (Thorson and Wells, 2016). The ability to draw attention is further rewarded
+by algorithms and ranking systems in social media platforms through the amplification
+of popular content (Bucher, 2018; Klinger and Svensson, 2018).
+Previous research has identified several ways for political actors to direct and manipulate attention in this environment. The first set of strategies focuses on interaction and
+involvement with other actors in the network. For example, actors like politicians and
+partisan media could employ bots (i.e. automated social media accounts) to promulgate
+certain messages and increase their perceived popularity, which in turn attract more
+attention (Dawson and Innes, 2019; Woolley and Howard, 2018). Also, IRA Twitter
+accounts adopted a strategy called “follow fishing,” for example, following and unfollowing a large number of other accounts regularly, so some accounts will follow them
+back (Dawson and Innes, 2019). The most successful imposter Twitter accounts operated
+by the IRA boosted their following largely through deliberate engagement with partisan
+Twitter networks in the United States, suggesting a network strategy of grabbing attention (Zhang et al., 2021). Meanwhile, particularly for extreme political actors such as
+alt-right and far-right, scholars have documented multiple strategies to attract audiences,
+including deploying cloaked websites (the hard-to-detect authorship accompanied with
+concealed agendas to attract users, see Daniels, 2009) and mobilizing followers to contribute content (Marwick and Lewis, 2017).
+Another strategy political actors can adopt to maximize audience attention is to carefully choose what content to publish. Broadly, there seem to be two visions of the current
+political communication landscape on social media. First, we may think of political communication on social media as a political battleground, where individuals and groups
+with different political views engage in fierce competition to capture attention and
+engage followers with messages that are often incendiary, divisive, or radical. Indeed,
+social media posts that provoke moral outrage or attack political opponents are more
+likely to be shared (Brady et al., 2021; Rathje et al., 2021). Comments that are more toxic
+and uncivil also harvest more likes on Facebook (Kim et al., 2021). Such an environment
+seemingly provides fertile ground for far-right actors to propagate highly partisan content with lies, attacks, and sensational stories. Indeed, previous studies have found that
+they leverage affective communication practices, such as portraying minority groups as
+threats (Deem, 2019).
+Nevertheless, such a depiction might not apply to most social media users. An alternative vision is that despite a highly visible and vocal segment of ardent partisans, most
+online users are not highly interested in politics. In one study, 1.69% of participants’ web
+
+Peng et al.
+
+5
+
+visits were to news domains and only about half of them to political news articles
+(Wojcieszak et al., 2023). On Facebook, 5% of posts shared by social media users are
+related to politics (Guess et al., 2019a). Furthermore, while overall political topics are
+not popular, ideologically slanted or factually misleading political content might only be
+consumed by a small subset of users. Over half of web visits to news domains are to sites
+that often promote themselves as centrist and attract audiences from both liberal and
+conservative backgrounds, rather than to partisan sites appealing to one partisan camp
+(Wojcieszak et al., 2023). Across Twitter (Grinberg et al., 2019), Facebook (Guess et al.,
+2019b), and YouTube (Hosseinmardi et al., 2021), news consumption is concentrated on
+mainstream sources, which typically have large readership and are frequently visited by
+Americans, and mostly centrist sources, whereas only a small set of users account for the
+majority of engagement with fake news, hyper-partisan, or radical sources.
+In this research, we pay attention to how one successful actor, The Epoch Times, accumulates attention on Facebook. In response to these two contrasting visions of the political communication environments on social media, we believe that a far-right actor may
+need to design a variety of content strategies to cater to social media users with different
+levels of political involvement and ideological commitment. Next, we review two content logics that resonate with these visions.
+
+The political logic: far-right content as an attention driver
+Regarding the discussion on political logic, previous studies have found that political
+posts containing strong emotions, such as fear and anger against outgroups, as well as
+pride and hope toward far-right parties and politicians (Rathje et al., 2021; Wodak, 2020),
+and those proactively using disinformation and conspiracy theories (Lazer et al., 2018),
+tend to attract more traffic and engagement.
+Far-right political content, referring to the content that shows strident nationalism,
+fascism, racism, anti-immigration, anti-LGBTQ, and rejection of other minority groups
+(Weimann and Masri, 2023), is also a salient strategy for audience engagement. More
+specifically, in the recent US context, far-right is associated with the support for Donald
+Trump and some other members in the Republican Party. The extremist posts that promote such ideology and endorse those politicians often get more likes and shares on
+social media platforms (Scrivens and Amarasingam, 2020; Stier et al., 2017) and have
+been growing across the globe (Thobani, 2019; Yang and Fang, 2023). Notably, far-right
+media outlets are usually positioned as alternative media, which appeal to widespread
+distrust in mainstream media and establishment politics among the public. Alternative
+media create the perception that what they promote is treated unfairly by the mainstream
+media (Haller et al., 2019). By presenting themselves as victims of the mainstream media
+and as activists pushing for change through confrontation, alt-right media gains authority
+among their followers (Figenschou and Ihlebæk, 2019).
+Our case—The Epoch Times—is an important example of far-right media outlets
+using far-right political content to attract attention. Based in New York City, the outlet
+was founded by and affiliated with Falun Gong, the religious movement outlawed by the
+Chinese government in the late 1990s. As Falun Gong’s founder Li Hongzhi and its
+organizations were exiled to the United States, they set up their own media outlets to
+
+6
+
+new media & society 00(0)
+
+propagate their ideas. Initially, they focused on Chinese-language publications, targeting
+the Chinese diaspora. In recent years, they expanded their English-language operations
+and joined the group of international far-right media outlets. Despite its origins, The
+Epoch Times has become an international media organization that operates in multiple
+countries and its English version, which our study focuses on, has evolved into an
+American right-wing outlet similar to Breitbart and Newsmax (Zhang and Davis, 2022).
+It not only attracts a large number of followers on social media, but also receives approval
+from Trump’s inner circle (Roose, 2020; van Zuylen-Wood, 2021).
+Using indexes from Ad Fontes,2 we can see from Figure 1 that The Epoch Times is classified as a typical far-right news outlet. Like Breitbart and other US-based far-right publications, The Epoch Times takes a firm stance against the Democrats and disseminates
+conservative views through sensational and even fabricated information (Lewis, 2019;
+Wilson, 2021). It should be noted that The Epoch Times covers a range of issues and may
+be a reliable information provider on some issues, while disseminating fake news and conspiracy theories on others. Previous analyses reveal that the topics of its coverage include
+US politics from the far-right perspective (Markay, 2021; Roose, 2020), China issues that
+are motivated by its historical roots as a dissident group (Ownby, 2008), local issues in
+New York where it is based, sensational reporting on crimes, among others. In this study,
+we concentrate on two kinds of political content: US politics and China issues. It is expected
+that it would take a similar approach to other far-right publications by highlighting controversial topics in US politics, such as immigration, to boost engagement.
+It is worth noting that Falun Gong positions itself as an alternative voice that “clarifies
+the truth” (jiang zhenxiang), fighting against not only Western mainstream media (Lewis,
+2019; Lu et al., 2018), but also the repressive Chinese state (Ownby, 2008; Zhao, 2003)
+through media activism. This ideology of anti-communism squares well with the farright community (Ilkowski, 2021). Against the background of intensifying US–China
+conflicts and Trump’s anti-China rhetoric, it is expected that posts about China would be
+attractive to US conservatives. The unique position of The Epoch Times as a victim of the
+Chinese government potentially makes it more appealing to its target audience.
+After discussing the two central types of political content, we turn to the discussion of
+non-political content.
+
+The entertainment logic: capturing clicks with non-political
+content
+In addition to publishing far-right political content, political actors also use entertainment media to get people’s attention. For example, Khan (2017) found that the relaxing
+entertainment motive was the strongest predictor for both viewing and liking/disliking
+videos. For political posts, those with entertaining styles are often more popular than
+other types (e.g. Hussain, 2012). Notably, the use of sarcastic and humorous memes such
+as Pepe the Frog is central to far-right communities, as memes can be an effective tool
+for expressing support for controversial or taboo ideas, boosting user engagement, and
+creating a strong sense of in-group culture (Moreno-Almeida and Gerbaudo, 2021; Trillò
+and Shifman, 2021). Memes are used to “work as ‘gateway drugs’ to the more extreme
+elements of alt-right ideology” (Marwick and Lewis, 2017: 36).
+
+Peng et al.
+
+7
+
+Another area of research on entertainment and politics has examined political entertainment media, which has an entertainment function providing enjoyment or appreciation (Weinmann and Vorderer, 2018) and also contains political information, such as
+political entertainment talk shows (Boukes, 2019; Roth et al., 2014) and political comedy
+(Tsfati et al., 2009). Previous studies have uncovered the antecedents (e.g. Hmielowski
+et al., 2011) and effects (e.g. Knobloch-Westerwick et al., 2021) of consuming political
+entertainment media. These studies largely focus on how the information carried by the
+entertainment media directly exerted political effects on consumers, such as political
+persuasion (Knobloch-Westerwick et al., 2021), political interest (Roth et al., 2014), and
+political trust (Tsfati et al., 2009).
+In summary, entertainment media can be blended into political content and function
+as a gateway to political information carried by entertainment content, such as political
+memes and political talk shows. Complementing existing scholarship, this study argues
+that entertainment media, even irrelevant to politics, can create ripple effects by increasing audience growth and therefore engagement with future content from the source,
+thus directing audience attention to politics. Considering that entertainment content can
+increase user engagement and attract more followers on social media, it is a likely strategy for media outlets to capture more clicks, including politically oriented outlets.
+Previous research has shown that Chinese propaganda outlets use non-political content,
+such as health tips, travel advisories, and entertainment content, to gain attention and
+build a large audience base (Lu and Pan, 2021; Repnikova and Fang, 2018). Journalists
+investigating the rise of The Epoch Times also found that it “employed a novel strategy
+that involved creating dozens of Facebook pages, filling them with feel-good videos
+and viral clickbait, and using them to sell subscriptions and drive traffic back to its partisan news coverage” (Roose, 2020).
+We empirically examine whether the strategy of using non-political entertainment
+content works for promoting The Epoch Times’ far-right agenda, focusing particularly
+on viral entertaining videos provided by a group of viral video licensing companies,
+such as Jukin Media and Viral Hog. In prior research, virality typically refers to the
+rapid dissemination of an information item by a large number of individuals in a short
+period, often beyond their original networks, resulting in a substantial increase in the
+number of people exposed to the message (Nahon and Hemsley, 2013). We adopt the
+term “viral” video as conventionally used in the industry, emphasizing their viral
+potential rather than actual reach. These videos adopt certain styles, themes, and production strategies that mimic existing viral videos and have the potential to go viral
+on social media, but their actual effects of attracting attention and engagement for The
+Epoch Times needs further investigation. These companies’ business model is as follows: first, they discover user-generated videos that could go viral. Then, they strike
+a revenue share with their owners. Next, they provide the videos, for a fee ranging
+from $50 to $5,000, to media outlets and social media accounts seeking to expand
+their audience bases and amplify their influence. Academic studies on this kind of
+viral video and licensing companies are scarce, but media articles have revealed that
+companies in this industry have become crucial distributors of viral content, and a
+wide range of media outlets have used their services to boost engagement and gain
+followers (Keiles, 2016; Koerber, 2018).
+
+8
+
+new media & society 00(0)
+
+Summarizing the previous two sections, we propose the following hypothesis about
+the effect of the three types of content that are expected to enjoy high levels of audience
+engagement:
+H1. Posts about (a) US politics, (b) China, and (c) viral entertaining videos are associated with higher audience engagement than posts about other topics.
+
+Immediate and ripple effects of attention-building
+strategies
+In addition to juxtaposing two content logics of accumulating political attention, we also
+distinguish between the immediate and ripple effects of content strategies. By immediate
+effects, we mean that a media message can attract audience attention and engagement
+after it gets published. This attention is typically limited to the particular piece itself,
+often lasts for a relatively short period of time, and is often measured with social media
+metrics, such as views, likes, and shares. Many studies have approached political attention through this perspective. Lu and Pan (2021) examined how different clickbait strategies used by Chinese government accounts on WeChat predicted views and likes.
+Similarly, scholars have examined how content strategies used by politicians in social
+media posts, such as personalization and emotional expressions influence the audience
+engagement (Bene, 2017; Peng, 2021; Rathje et al., 2021).
+We argue that it is also important to investigate the ripple effects of different content
+strategies. By ripple effects, we mean that a piece of content can (1) accumulate followers and enlarge the audience base and (2) attract more attention and engagement for
+messages published in the future. Some pioneering research has focused on the former
+aspect by investigating the various tactics disinformation actors in far-right politics
+exploit to gain followers. For example, Zhang et al. (2021) studied how influential users
+and media outlets help IRA accounts accumulate followers on Twitter in the long run.
+Similarly, Doroshenko and Lukito (2021) looked at how employing strategies, such as
+the use of hashtags and URLs, influenced IRA accounts’ follower growth. Dawson and
+Innes (2019) also investigated how IRA accounts accumulated an audience through strategies such as buying bot followers and follower fishing.
+This distinction between immediate and ripple effects should be especially important
+in the case of audience building. Extreme politics certainly help the outlet assemble an
+audience of loyal partisans who circulate and amplify the outlet’s subsequent messages.
+Meanwhile, viral entertaining media have the potential to reach a large audience base
+that conventional political content is unable to attract, which aids the outlet in assembling an audience network and amplifying its voice. We proposed a series of hypotheses
+(H1a, H1b, and H1c) on how both far-right political topics and viral entertaining videos
+could attract immediate audience engagement. Here, we extend our hypotheses and
+argue that these content strategies exert ripple effects on attention building and contribute to both follower growth and audience engagement with subsequent messages.
+H2. Posts about (a) US politics, (b) China, and (c) viral entertaining videos are associated
+with higher audience engagement with future posts than posts about other topics.
+
+Peng et al.
+
+9
+
+H3. Posts about (a) US politics, (b) China, and (c) viral entertaining videos predict
+audience growth.
+
+Methods
+Data
+We retrieved the entire Facebook newsfeed of The Epoch Times (https://www.facebook.
+com/epochtimes/) from CrowdTangle in January 2021 and kept posts published between
+2013 and 2020 for analysis. This period covered the entire Trump presidency and when
+The Epoch Times transitioned from a China-oriented publication to a far-right outlet. Our
+dataset contained a total of 117,274 Facebook posts (for the distribution of posts, see
+Figure A.1 in Supplementary Information).
+To identify posts related to far-right ideologies and China issues, we employed topic
+modeling. Meanwhile, we characterized viral entertaining videos by manually checking
+video sources (for details, see below).
+
+Topic modeling
+As the average length of posts was short (M = 44.49, standard deviation (SD) = 27.53),3
+we chose to apply non-negative matrix factorization (NMF) to conduct topic modeling.
+This technique performed particularly better than some conventional topic modeling
+methods like Latent Dirichlet Allocation (LDA)4 in processing short texts (Chen et al.,
+2019; Sharaff and Nagwani, 2016). We preprocessed the Facebook posts by converting
+the texts to lowercase, expanding contractions, stemming the texts, and removing punctuation, stop words, numbers, and one-character words. The number of topics generated
+was determined by looking at coherence measures when navigating a wide range for this
+parameter (see Figure A.3 in Supplementary Information). We then employed the NMF
+from the Python Gensim package by using eight topics suggested by coherence measures. By manually checking the top words (see Table A.1 in Supplementary Information)
+and representative posts (with the highest coefficients on the topic), we found that Topic
+2—referring to US politics—and Topic 5—discussing China-related issues—built up
+our measures on two specific groups of posts.
+
+Measures
+Prominence of US politics and China issues. To measure the prominence of these two groups
+of posts, we looked at weights on topics for each document. The normalized weights on the
+US politics topic (Topic 2, M = .12, SD = .24) and the normalized weights on China issues
+(Topic 5, M = .11, SD = .21) were used to gauge the prominence of these two groups of
+posts. We decided to employ continuous variables rather than dichotomized ones because
+the former provided a more fine-grained measure of the prominence of the two issues.
+Viral entertaining videos. To identify videos from viral video licensing companies, we first
+compiled all the sources mentioned in the Facebook posts by checking phrases such as
+
+10
+
+new media & society 00(0)
+
+Figure 2. The temporal trends of viral video proportion and average engagement.
+
+“credit.” We kept sources that appeared at least .05% (59 posts) in the posts and manually
+checked whether these companies were providing viral entertaining videos. In total, we
+identified 10 such companies, for example, JukinVideo, ViralHog, and Storyful. The
+detailed breakdown of each one can be found in Table A.2 in Supplementary Information. We thus identified viral entertaining videos (6.2%) with Facebook posts indicating
+they were sourced from one of the viral video providers. The proportion of viral entertaining videos in all Facebook posts is portrayed in Figure 2.
+We conducted a robustness check using the entertainment topic (Topic 4) as this
+measure, which provided similar results (see Supplementary Information).
+Engagement. The dependent variable is the average engagements to post, measured as
+the mean numbers of likes, shares, and comments of posts (Cronbach’s alpha = .73).
+Given the high skewness of average engagement, we conducted a logarithmic transformation to the measure (M = 3.99, SD = 1.80)5 and displayed the temporal change of average engagement of posts over time in Figure 2.
+Follower growth. To understand how various content categories contribute to the assembly of audience networks, we measured follower increase as the percentage of follower
+increase in a week (M = .65%, SD = 1.12%). We displayed the temporal trend of followers
+of The Epoch Times in Figure 1. CrowdTangle only provided records of followers for The
+Epoch Times since August 2017. Therefore, our analysis of follower growth focuses on
+the weeks after August 2017.
+
+Peng et al.
+
+11
+
+Analysis strategy
+Ordinary least squares (OLS) regression and immediate attention. The unit of analysis
+here was an individual post. To identify how various kinds of posts attract immediate
+attention, we leveraged an OLS regression predicting engagement with posts by the
+prominence of US political and China issues, and whether it was a viral entertaining
+video.
+Times series modeling and future attention. The ripple effects could not be investigated with simple OLS models, as the temporal dynamics require consideration. We
+first grouped posts according to 418 weeks. We calculated the average prominence of
+US political and China issues in all posts published each week according to the output of topic models, the ratio of viral entertaining videos, and the number of posts
+generated.6
+To apply the vector autoregression (VAR) model, we used data imputation forecasting techniques.7 The VAR model characterized the effects between an array of endogenous variables, which included all measured variables—the prominence of US political
+and China issues, the ratio of viral entertaining videos, and the logged number of posts
+published during each week—by predicting each endogenous variable by lags of itself
+and other endogenous variables. We differenced—calculated the difference between
+consecutive time points—the time series to fulfill the stationarity assumption of the
+VAR model (Box-Steffensmeier et al., 2014). We then conducted Granger causality
+tests and leveraged impulse response functions (IRFs) from the VAR models8 to inform
+us about the ripple effects of one variable on another, particularly engagement to posts
+(Zhang et al., 2021).9
+OLS regression and follower increase. We ran another OLS regression to predict follower
+increase in a week by the average proportions of US political and China-related topics in
+posts published, the proportion of viral entertaining videos, and the logged number of
+posts during the week.
+
+Results
+Temporal trends of topics
+Figure 3 displays the temporal trends of eight topics identified through topic modeling.
+We identified three groups of topics—politics, entertainment, and others (see Figure 4
+for examples). First, as mentioned above, we characterized two political topics. Topic
+2— US politics— increased from 2013 to 2020. Meanwhile, Topic 5—China issues—
+decreased from 2013 to 2019, only briefly spiking in early 2020 due to the outbreak of
+COVID-19. These patterns corroborated other observations that The Epoch Times
+shifted its content focus from China to US politics. The second group of topics was
+entertainment related. Topic 4 was mostly about viral entertaining videos.10 The prominence of this topic drastically changed over time in the window observed. Other topics
+included both soft news and local issues. For more descriptions on these topics, see
+Section B in Supplementary Information.
+
+12
+
+new media & society 00(0)
+
+Figure 3. Temporal trends of the topic volumes of The Epoch Times Facebook Posts.
+
+Immediate effects on audience engagement
+Table 1 presents the results of the OLS regression predicting the average engagement
+with posts by the prominence of US political and China issues and whether one post
+contained a viral entertaining video. The unit of analysis was each individual Facebook
+post. The results yielded that viral entertaining videos were associated with higher
+engagement with Facebook posts (b = 3.20, se = .02, p < .001). The dependent variable
+was log-transformed, meaning that a post containing viral entertaining videos predicted
+an increase of post engagement by about 25 times.11 Meanwhile, as expected, US political issues predicted an increase of engagement by about 3.5 times (b = 1.26, se = .02,
+p < .001), while China issues predicted a decrease of engagement of over 70% (b = −1.25,
+se = .02, p < .001).12 These results suggested that H1a and H1c were supported, whereas
+H1b was rejected.
+
+Peng et al.
+
+13
+
+Figure 4. Exemplar Facebook posts of (A) US politics, (B) China issues, and (C) viral
+entertaining videos.
+
+Ripple effects on future audience engagement
+The unit of analysis was each individual week. The two-way Granger Wald tests revealed
+that the ratio of viral entertaining video and the prominence of US political issues significantly Granger caused engagement with posts (Table 2). However, further IRFs, which
+considered controls (Figure 5), showed that the prominence of US political and China
+issues did not significantly predict the increase of engagement. Still, the ratio of viral
+entertaining video displayed a significant ripple effect in engagement with later Facebook
+posts. The IRF suggested that one standard deviation increase in viral entertaining video
+ratio increased by about 8% engagement with later Facebook posts. These results suggested that H2c was supported, whereas H2a and H2b were not.
+
+14
+
+new media & society 00(0)
+
+Table 1. Immediate effects characterized by OLS regression.
+Predictor
+
+Coefficient
+
+Viral entertaining video
+
+3.20***
+(.02)
+1.26***
+(.02)
+–1.25***
+(.02)
+117,274
+
+The US political issues
+China issues
+Observations
+The dependent variable was the logged value of average engagement with the post.
+OLS: ordinary least squares.
+***p < .001.
+
+Table 2. Two-Way Granger Causality Wald Tests.
+Relationship
+
+F
+
+p-value
+
+Viral video ratio → engagement
+US political issues → engagement
+China issues → engagement
+
+11.85
+5.31
+.42
+
+.001***
+.022*
+.518
+
+Lag was one selected by BIC values.
+BIC: Bayesian Information Criterion.
+*p < .05, ***p < .001.
+
+Figure 5. IRFs to characterize ripple effects. 95% bootstrap confidence interval, 100 runs
+(cumulative effects).
+
+Ripple effects on audience growth
+We conducted another OLS to examine how published content explained the increase of
+followers (Table 3). The unit of analysis was each individual week. We note that CrowdTangle
+only provided audience numbers for a narrower time window from August 2017 to December
+
+Peng et al.
+
+15
+
+Table 3. Predicting followers increase using OLS regression.
+Predictor
+
+Coefficient
+
+Viral entertaining video
+
+13.46***
+(1.28)
+–1.92*
+(.80)
+2.20*
+(1.11)
+.63**
+(.19)
+179
+
+The US political issues
+China issues
+Posts published (logged)
+Observations
+
+The dependent variable was the percentage of increase in followers over the course of the week.
+OLS: ordinary least squares.
+*p < .05, **p < .01, ***p < .001.
+
+2020. The results showed that viral entertaining videos significantly predicted the increase
+of followers (b = 13.46, se = 1.28, p < .001). Specifically, a 1% increase in the ratio of viral
+entertaining videos predicted a .13% increase of followers. To put this percentage in perspective, publishing 1% more viral entertaining videos would correspond to about 10,000
+followers for The Epoch Times in December 2020 and about 9000 in December 2019. In
+comparison, the prominence of US political issues significantly negatively predicted follower growth (b = –1.92, se = .80, p = .017), whereas the prominence of China issues showed
+a significantly positive trend (b = 2.20, se = 1.11, p = .049). The numbers suggested that a 1%
+increase in coverage of US political issues predicted a .02% decrease in followers, but a 1%
+increase in coverage of China issues predicted a .02% increase in followers. The results supported H3b and H3c, while rejecting H3a.
+We conducted a series of robustness checks. See Supplementary Information for more
+details.
+
+Discussion
+In summary, our research expands the scope of far-right media research by considering
+the process of audience building, which is a precondition for spreading far-right politics.
+We consider both the immediate and ripple effects of different content strategies. We
+found that US partisan issues helped The Epoch Times attract immediate audience
+engagement, but such content did not invite audience growth and engagement in the
+future. In comparison, viral entertaining videos, while seemingly benign and mundane,
+demonstrated superb effects in getting audience responses, accumulating followers, and
+boosting engagement with subsequent posts.
+
+Entertainment media in political communication research
+Our research highlights the crucial role of entertainment media in directing audience
+attention. We compare two logics of attention building: one focused on extreme politics,
+
+16
+
+new media & society 00(0)
+
+and the other on entertainment. We show that The Epoch Times transitioned from an
+outlet centered on criticizing the Chinese government to an actor extensively spreading
+far-right politics in the United States. Such extreme politics attracted high audience
+engagement, indicating that disseminating hyper-partisan and toxic politics does help
+political actors compete in the attention economy. However, the immediate attention
+generated by such content did not convert to follower growth and audience engagement
+in the future, indicating that solely relying on a niche set of political content might limit
+expansion of the audience base.
+In comparison, we reveal the superb effects of viral entertaining videos in attracting
+audience attention. These videos, while seemingly harmless, mundane, and humorous,
+may do harm by building an audience base for malicious political actors. Previous studies
+have identified several ways of how entertainment media can shape political processes.
+Some genres of entertainment media, such as talk shows, may be gateways of political
+knowledge for politically inattentive individuals (Baum, 2003; Hollander, 2005; Kim and
+Vishak, 2008). Our study highlights another less examined political function of entertainment media: it can effectively direct the flow of political attention and be exploited by
+malicious political actors to accumulate an audience base that amplifies their voices.
+These findings echo two observations made in previous research. First, various political actors engage in non-political content to accumulate attention. Scholars studying
+IRA’s disinformation activities revealed a strategy called narrative switching: accounts
+first talk about mundane issues and then transition to hyper-political topics (Dawson and
+Innes, 2019). Government officials in China often produce non-propaganda content,
+such as health tips and food recipes, to get audience clicks and views, knowing that most
+social media users do not actively seek political information (Lu and Pan, 2021). Second,
+more broadly, our research joins an emerging line of scholarship showing that only a
+small segment of social media users is highly engaged with politics (Guess et al., 2019a;
+Mukerjee et al., 2022; Wojcieszak et al., 2023), let alone extreme and radical politics
+(Grinberg et al., 2019; Hosseinmardi et al., 2021).
+Together, these findings prompt us to reflect on the political information landscape
+in social media. The scope of problematic political communication should not be limited to a group of active actors who fiercely circulate verbal onslaughts, outrages, and
+conspiracies that sow division and destabilize democracy. Outside this battlefield of
+political discourse, a group of less politically engaged users might use social media for
+other purposes, but they could be readily assembled into an attention-expansion army of
+political information actors and act as amplifiers of political information messages. This
+study again highlights the hybrid and connected nature of social media communications
+(Zhang et al., 2021).
+
+Temporal dynamics of attention building
+Our second contribution underscores the temporal process of attention building. We need
+to understand how malicious actors set the stage for political information content and
+build an audience network, which is a precondition for the circulation of political information. It is crucial to study both the immediate and ripple effects of information strategies. The spread of far-right politics requires not only committed political junkies, but
+
+Peng et al.
+
+17
+
+also a base of peripheral users who may be more drawn to entertaining content, who are
+assembled around political information actors and can contribute to the circulation of
+far-right information.
+While our research focuses on a specific political information actor—The Epoch
+Times—our theoretical framework, which incorporates the use of entertainment content
+and distinguishes between immediate and ripple effects of content strategies, can be
+applied to a wide range of political communication contexts. For example, scholars
+investigating politicians’ self-presentation strategies on social media often reveal a positive effect of personalized and non-political content on garnering audience engagement
+(Bene, 2017; Peng 2021). How such content further influences audience engagement
+with political content in the future and helps politicians accumulate an active following
+remains a promising research direction.
+
+Implications and limitations
+Our study provides significant social and policy implications. If entertainment media
+plays a critical role in directing audience attention toward political content, then there
+needs to be serious discussions and examination on this type of content, as well as companies that continuously provide such content to political actors. Entertainment media
+should be subject to more public scrutiny, and policymakers and the public need to be
+better informed about the content and companies involved.
+Several limitations of this study should be acknowledged. First, we have only analyzed one media outlet. Although we believe that the strategy of using feel-good videos
+and other entertainment content to drive up engagement is by no means exclusive to The
+Epoch Times, more empirical evidence is needed to make more generalizable arguments.
+Second, our data come from only one social media platform—Facebook. Previous
+research suggests that users are less likely to consume political information and engage
+in political discussions on Facebook than on Twitter (Guess et al., 2019b). Therefore, it
+remains to be tested whether the viral entertainment content strategy works with similar
+effects on platforms other than Facebook.
+In addition, we still know very little about the viral video licensing companies that
+discover and distribute viral content to media outlets. The lack of knowledge about these
+content providers and the viral content industry significantly hinders our understanding
+of the behaviors of political media outlets on social media. Future studies on viral video
+licensing companies are encouraged.
+While our study sheds light on how viral entertaining videos help outlets like The
+Epoch Times expand its audience base for far-right content, it does not directly investigate the political effects of this content on its audience. Although exposure and
+attention are often the first steps to produce effects, it remains an open question to
+what extent The Epoch Times’ messages shape the minds and behaviors of its audience. In addition, our study reveals the actual effects of political actors’ use of nonpolitical content on audience building, rather than their intentions behind it. While we
+may assume that these actors are motivated by the economic incentives of the attention economy, it is difficult to claim whether they are attempting to spread their farright or extreme ideology through this tactic. Our study’s reliance on digital traces
+
+18
+
+new media & society 00(0)
+
+data precludes direct answers to this question. Future research employing other methods could provide insights into the political effects of entertainment media or far-right
+outlets’ intentionality.
+Acknowledgments
+The authors would like to thank Sean Fischer, Yiyan Zhang, Saif Shahin, Yini Zhang, and Kun Xu
+for their feedback and help on earlier versions of the article.
+
+Declaration of conflicting interests
+The author(s) declared no potential conflicts of interest with respect to the research, authorship,
+and/or publication of this article.
+
+Funding
+The author(s) received no financial support for the research, authorship, and/or publication of this
+article.
+
+ORCID iDs
+Yilang Peng
+Tian Yang
+Kecheng Fang
+
+https://orcid.org/0000-0001-7711-9518
+https://orcid.org/0000-0003-2642-4760
+https://orcid.org/0000-0003-1674-1543
+
+Supplemental material
+Supplemental material for this article is available online.
+
+Notes
+1. Donald Trump has been linked to the US far-right, with some of his policies and actions
+seen as aligning with far-right ideologies. Some far-right groups and individuals have also
+expressed support for him.
+2. Ad Fontes provides a measure of media partisan bias by using trained analysts across the
+political spectrum to evaluate media messages, which was used by previous studies (e.g.
+Huszár et al., 2022).
+3. The distribution of post lengths is displayed in Figure A.2 in Supplementary Information. The
+unit here is a word.
+4. Still, we ran Latent Dirichlet Allocation (LDA) as an alternative topic model to check
+the robustness of our findings, which supported our conclusions (see Appendix C in
+Supplementary Information).
+5. The unit here is an engagement (a like, a share, or a comment).
+6. Logarithmic transformation was first conducted to address the skewness of distribution before
+further analysis.
+7. Only five data points were imputed using ARIMA models. We applied imputation because
+further time series analyses required that there should be no missing data. Still, we applied
+the VAR model to data without imputed data points for the robustness check by taking the
+imputed time points out. The results supported our findings (see Robustness section and
+Supplementary Information).
+8. We set the lag as one according to BIC measures.
+
+Peng et al.
+
+19
+
+9. We present results based on engagement to all posts as main results. We also conducted a
+robustness test using engagement to non-viral entertaining video posts, which demonstrated
+the same result.
+10. The association between a week’s Topic 4 ratio and the ratio of viral entertaining videos was .97.
+11. Exp(3.20) = 24.53.
+12. We noticed that US political issues were discussed more in recent periods, when The Epoch
+Times already accumulated a huge audience base. We addressed the concern of time as a
+potential confounder in the Robustness section by considering the time fixed-effects, which
+again supported our findings.
+
+References
+Alba D (2021) Epoch Media casts wider net to spread its message online. Available at: https://
+www.nytimes.com/2021/03/09/technology/epoch-media-right-wing-disinformation.html
+Aslett K, Guess AM, Bonneau R, et al. (2022) News credibility labels have limited average effects
+on news diet quality and fail to reduce misperceptions. Science Advances 8(18): eabl3844.
+Atkinson JD, Ingman K, Pierandozzi JPJ and Stump P (2021) At the Intersection of mainstream & alternative media: Spygate & the Hannity rant. Journal of Communication Inquiry 45(3): 209–224.
+Bauer AJ, Nadler A and Nelson JL (2022) What is Fox News? Partisan journalism, misinformation, and the problem of classification. Electronic News 16(1): 18–29.
+Baum MA (2003) Soft news and political knowledge: evidence of absence or absence of evidence?
+Political Communication 20(2): 173–190.
+Bechmann A (2020) Tackling disinformation and infodemics demands media policy changes.
+Digital Journalism 8(6): 855–863.
+Bene M (2017) Go viral on the Facebook! Interactions between candidates and followers on Facebook
+during the Hungarian general election campaign of 2014. Information, Communication &
+Society 20(4): 513–529.
+Benkler Y, Faris R and Roberts H (2018) Network Propaganda: Manipulation, Disinformation,
+and Radicalization in American Politics. Oxford: Oxford University Press.
+Bittman L (1985) The KGB and Soviet Disinformation: An Insider’s View. Washington, DC:
+Pergamon-Brassey’s.
+Boukes M (2019) Agenda-setting with satire: How political satire increased TTIP’s saliency on the
+public, media, and political agenda. Political Communication 36(3): 426–451.
+Box-Steffensmeier JM, Freeman JR, Hitt MP, et al. (2014) Time Series Analysis for the Social
+Sciences. Cambridge University Press.
+Brady WJ, McLoughlin K, Doan TN, and Crockett MJ (2021) How social learning amplifies moral
+outrage expression in online social networks. Science Advances 7(33): eabe5641.
+Bucher T (2018) If . . . Then: Algorithmic Power and Politics. Oxford: Oxford University Press.
+Chen Y, Zhang H, Liu R, et al. (2019) Experimental explorations on short text topic mining
+between LDA and NMF based schemes. Knowledge-Based Systems 163: 1–13.
+Collins B (2019) Facebook says a pro-Trump media outlet used artificial intelligence to create
+fake people and push conspiracies. Available at: https://www.nbcnews.com/tech/tech-news/
+facebook-says-pro-trump-media-outlet-used-artificial-intelligence-create-n1105951
+Daniels J (2009) Cyber Racism: White Supremacy Online and the New Attack on Civil Rights.
+Lanham, MD: Rowman & Littlefield.
+Dawson A and Innes M (2019) How Russia’s Internet Research Agency built its disinformation
+campaign. The Political Quarterly 90(2): 245–256.
+Deem A (2019) Extreme speech| The digital traces of #whitegenocide and alt-right affective economies of transgression. International Journal of Communication 13: 20.
+
+20
+
+new media & society 00(0)
+
+Doroshenko L and Lukito J (2021) Trollfare: Russia’s disinformation campaign during military
+conflict in Ukraine. International Journal of Communication 15: 4662–4689.
+Figenschou TU and Ihlebæk KA (2019) Challenging journalistic authority. Journalism Studies
+20(9): 1221–1237.
+Grinberg N, Joseph K, Friedland L, et al. (2019) Fake news on Twitter during the 2016 US presidential election. Science 363(6425): 374–378.
+Guess A, Munger K, Nagler J, et al. (2019a) How accurate are survey responses on social media
+and politics? Political Communication 36(2): 241–258.
+Guess A, Nagler J and Tucker J (2019b) Less than you think: prevalence and predictors of fake
+news dissemination on Facebook. Science Advances 5(1). Available at: https://www.science.
+org/doi/10.1126/sciadv.aau4586
+Haller A, Holt K and de La Brosse R (2019) The other alternatives: political right-wing alternative
+media. Journal of Alternative & Community Media 4(1): 1–6.
+Heft A, Mayerhöffer E, Reinhardt S, et al. (2020) Beyond Breitbart: comparing right-wing digital
+news infrastructures in six Western democracies. Policy & Internet 12(1): 20–45.
+Hmielowski JD, Holbert RL and Lee J (2011) Predicting the consumption of political TV satire: affinity for political humor, The Daily Show, and The Colbert Report. Communication
+Monographs 78(1): 96–114.
+Hollander BA (2005) Late-night learning: do entertainment programs increase political campaign
+knowledge for young viewers? Journal of Broadcasting & Electronic Media 49(4): 402–415.
+Hosseinmardi H, Ghasemian A, Clauset A, Mobius M, Rothschild DM and Watts DJ (2021)
+Examining the consumption of radical content on YouTube. Proceedings of the National
+Academy of Sciences, 118(32): e2101967118.
+Hussain MM (2012) Journalism’s digital disconnect: the growth of campaign content and entertainment gatekeepers in viral political information. Journalism 13(8): 1024–1040.
+Huszár F, Ktena SI, O’Brien C, et al. (2022) Algorithmic amplification of politics on Twitter.
+Proceedings of the National Academy of Sciences 119(1): e2025334119.
+Ilkowski F (2021) Anti-communism as ideology. Communist and Post-Communist Studies 54(1–
+2): 1–23.
+Keiles JL (2016) How Jukin Media built a viral-video empire. The New York Times, 27 December.
+Available at: https://www.nytimes.com/2016/12/27/magazine/how-jukin-media-built-a-viralvideo-empire.html
+Khan ML (2017) Social media engagement: what motivates user participation and consumption on
+YouTube? Computers in Human Behavior 66: 236–247.
+Kim JW, Guess A, Nyhan B, and Reifler J (2021) The distorting prism of social media: How selfselection and exposure to incivility fuel online comment toxicity. Journal of Communication,
+71(6): 922–946.
+Kim YM and Vishak J (2008) Just laugh! You don’t need to remember: the effects of entertainment media on political information acquisition and information processing in political judgment. Journal of Communication 58(2): 338–360.
+Klinger U and Svensson J (2015) The emergence of network media logic in political communication: a theoretical approach. New Media & Society 17(8): 1241–1257.
+Klinger U and Svensson J (2018) The end of media logics? On algorithms and agency. New Media
+& Society 20(12): 4653–4670.
+Knobloch-Westerwick S, Robinson M, Frazer R, et al. (2021) “Affective news” and attitudes: a
+multi-topic experiment of attitude impacts from political news and fiction. Journalism &
+Mass Communication Quarterly 98(4): 1078–1103.
+Koerber B (2018) How one company reshaped—And kind of ruined—The viral video landscape.
+Mashable, 6 August. Available at: https://mashable.com/article/jukin-media-viral-videos
+
+Peng et al.
+
+21
+
+Lazer DMJ, Baum MA, Benkler Y, et al. (2018) The science of fake news. Science 359(6380):
+1094–1096.
+Lewis JR (2019) “Clarifying the Truth”: Falun Gong’s media strategies. In: Lewis JR and Huang C
+(eds) Enlightened Martyrdom: The Hidden Side of Falun Gong. Sheffield: Equinox Publishing,
+pp. 244–259.
+Lu Y and Pan J (2021) Capturing clicks: how the Chinese Government uses Clickbait to compete
+for visibility. Political Communication 38(1–2): 23–54.
+Lu Y, Su Y and Zhou N (2018) Doctrinal innovation, resistance, and Falun Gong’s politicization.
+China Review 18(4): 41–62.
+Markay L (2021) Epoch Times revenue soared on Trump conspiracies. Available at: https://
+www.axios.com/epoch-times-revenue-trump-conspiracies-f96418d6-b361-4686-8cf1bf13d33e7460.html
+Marwick A and Lewis R (2017) Media Manipulation and Disinformation Online. Data & Society.
+Available at: https://datasociety.net/library/media-manipulation-and-disinfo-online/
+Moreno-Almeida C and Gerbaudo P (2021) Memes and the Moroccan far-right. The International
+Journal of Press/politics 26(4): 882–906.
+Mukerjee S, Jaidka K and Lelkes Y (2022) The political landscape of the US Twitterverse. Political
+Communication 39(5): 565–588.
+Nahon K and Hemsley J (2013) Going Viral. Cambridge: Polity.
+Ownby D (2008) Falun Gong and the Future of China. Oxford: Oxford University Press.
+Peng Y (2021) What makes politicians’ Instagram posts popular? Analyzing social media strategies of candidates and office holders with computer vision. The International Journal of
+Press/Politics 26(1): 143–166.
+Rathje S, Van Bavel JJ and van der Linden S (2021) Out-group animosity drives engagement on
+social media. Proceedings of the National Academy of Sciences 118(26): e2024292118.
+Repnikova M and Fang K (2018) Authoritarian participatory persuasion 2.0: netizens as thought
+work collaborators in China. Journal of Contemporary China 27(113): 763–779.
+Roose K (2020) How The Epoch Times created a giant influence machine. The New York Times,
+24 October. Available at: https://www.nytimes.com/2020/10/24/technology/epoch-timesinfluence-falun-gong.html
+Roth FS, Weinmann C, Schneider FM, et al. (2014) Seriously entertained: antecedents and consequences of hedonic and eudaimonic entertainment experiences with political talk shows on
+TV. Mass Communication and Society 17(3): 379–399.
+Scrivens R and Amarasingam A (2020) Haters Gonna “Like”: exploring Canadian far-right
+extremism on Facebook. In: Littler M and Lee B (eds) Digital Extremisms: Readings in
+Violence, Radicalisation and Extremism in the Online Space. Cham: Springer International
+Publishing, pp. 63–89.
+Sharaff A and Nagwani NK (2016) Email thread identification using latent Dirichlet allocation
+and non-negative matrix factorization based clustering techniques. Journal of Information
+Science 42(2): 200–212.
+Stroud NJ (2017) Attention as a valuable resource. Political Communication 34(3): 479–489.
+Stier S, Posch L, Bleier A and Strohmaier M (2017) When populists become popular: Comparing
+Facebook use by the right-wing movement Pegida and German political parties. Information,
+Communication & Society 20(9): 1365–1388.
+Thobani S (2019) Alt-Right with the Hindu-right: long-distance nationalism and the perfection of
+Hindutva. Ethnic and Racial Studies 42(5): 745–762.
+Thorson K and Wells C (2016) Curated flows: a framework for mapping media exposure in the
+digital age. Communication Theory 26(3): 309–328.
+
+22
+
+new media & society 00(0)
+
+Trillò T and Shifman L (2021) Memetic commemorations: remixing far-right values in digital
+spheres. Information, Communication & Society 24(16): 2482–2501.
+Tsfati Y, Tukachinsky R and Peri Y (2009) Exposure to news, political comedy, and entertainment
+talk shows: concern about security and political mistrust. International Journal of Public
+Opinion Research 21(4): 399–423.
+van Zuylen-Wood S (2021) MAGA-land’s favorite newspaper. The Atlantic, 13 January. Available
+at: https://www.theatlantic.com/politics/archive/2021/01/inside-the-epoch-times-a-mysteriouspro-trump-newspaper/617645/
+Weimann G and Masri N (2023) Research note: spreading hate on TikTok. Studies in Conflict &
+Terrorism 46: 752–765.
+Weinmann C and Vorderer P (2018) A normative perspective for political entertainment research:
+connecting deliberative democracy and entertainment theory. Communication Theory 28(4):
+466–486.
+Wilson J (2021) Falun Gong-aligned media push fake news about Democrats and Chinese communists. The Guardian, 30 April. Available at: https://www.theguardian.com/us-news/2021/
+apr/30/falun-gong-media-epoch-times-democrats-chinese-communists
+Wodak R (2020) The Politics of Fear: The Shameless Normalization of Far-Right Discourse.
+Thousand Oaks, CA: Sage.
+Wojcieszak M, de Leeuw S, Menchen-Trevino E, et al. (2023) No polarization from partisan news:
+over-time evidence from trace data. The International Journal of Press/Politics 28: 601–626.
+Woolley SC and Howard PN (2018) Computational Propaganda: Political Parties, Politicians,
+and Political Manipulation on Social Media. Oxford: Oxford University Press.
+Yang T and Fang K (2023) How dark corners collude: a study on an online Chinese alt-right community. Information, Communication & Society 26(2): 441–458.
+Zhang X and Davis M (2022) E-extremism: a conceptual framework for studying the online far
+right. New Media & Society. Epub ahead of print 7 June. DOI: 10.1177/14614448221098360.
+Zhang Y, Lukito J, Su M-H, et al. (2021) Assembling the networks and audiences of disinformation: how successful Russian IRA Twitter accounts built their followings, 2015–2017.
+Journal of Communication 71(2): 305–331.
+Zhao Y (2003) Falun Gong, identity, and the struggle over meaning inside and Outside China. In:
+Couldry N and Curran J (eds) Contesting Media Power: Alternative Media in a Networked
+World. Lanham, MD: Rowman & Littlefield, pp. 209–224.
+
+Author biographies
+Yilang Peng (PhD, Annenberg School for Communication, University of Pennsylvania) is an assistant professor in the Department of Financial Planning, Housing and Consumer Economics at the
+University of Georgia. His scholarship is at the intersection of computational social science, visual
+communication, science communication, and social media analytics.
+Tian Yang (PhD, Annenberg School for Communication, University of Pennsylvania) is an assistant professor at the School of Journalism and Communication at the Chinese University of Hong
+Kong. His research is at the intersection of political communication, digital media, and computational social science.
+Kecheng Fang (PhD, Annenberg School for Communication, University of Pennsylvania) is an
+assistant professor at the School of Journalism and Communication at The Chinese University of
+Hong Kong. His research interests include journalism, political communication, and digital media.
+
+

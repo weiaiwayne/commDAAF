@@ -1,0 +1,929 @@
+1099173
+
+research-article2022
+
+NMS0010.1177/14614448221099173new media & societyLiu et al.
+
+Article
+
+Hashtag activism in a
+politicized pandemic:
+Framing the campaign to
+include Taiwan in the
+World Health Organization’s
+efforts to combat COVID-19
+
+new media & society
+2024, Vol. 26(6) 3213­–3234
+© The Author(s) 2022
+Article reuse guidelines:
+sagepub.com/journals-permissions
+https://doi.org/10.1177/14614448221099173
+DOI: 10.1177/14614448221099173
+journals.sagepub.com/home/nms
+
+Anita KC Liu , Yotam Ophir and Shu-An Tsai
+University at Buffalo, USA
+
+Dror Walter
+
+Georgia State University, USA
+
+Itai Himelboim
+
+University of Georgia, USA
+
+Abstract
+We examined hashtag activism promoting Taiwan’s participation in the global
+efforts to combat COVID-19. We employed the computational Analysis of
+Topic Model Networks (ANTMN) to examine the discourse around the
+#TaiwanCanHelp/#TWforWHO campaign in 2020 (N = 163,876) on Twitter. Our
+model identified 35 topics clustered within three frames. The containment frame
+emphasized strategies used to stop COVID-19’s spread in Taiwan. The geopolitics
+frame described China’s use of its international power to exclude Taiwan from the
+World Health Organization. The international cooperation frame emphasized Taiwan’s
+ability and efficacy to contribute to the global efforts to slow down COVID-19. These
+results extend our understanding of hashtag activism by examining the intersection
+of geopolitics and global health crises. We introduce the theoretical concept of a
+mutually beneficial coalition, one that points to detrimental impacts of oppression on
+both the oppressed and the allies who are asked to help.
+
+Corresponding author:
+Anita KC Liu, University at Buffalo, 359 Baldy Hall, Buffalo, NY 14228, USA.
+Email: kueichun@buffalo.edu
+
+3214
+
+new media & society 26(6)
+
+Keywords
+COVID-19, online campaigning, hashtag activism, Taiwan and China, topic model
+networks
+At a time of a global public health crisis, Taiwan, despite a physical proximity to the outbreak’s epicenter in China, maintained one of the lowest numbers of COVID-19 cases and
+deaths in the world in 2020 (The New York Times [NYT], 2020). In light of Taiwan’s relative success in fighting COVID-19, politicians and public figures worldwide, for example, Canadian Prime Minster Justin Trudeau, Japanese Prime Minister Yoshihide Suga,
+and US Secretary of State Mike Pompeo, have urged the World health Organization
+(WHO) to include Taiwan in this global fight against the epidemic (Ching, 2020; Lin,
+2020). However, at the time of writing (February 2022), more than 2 years after the initial
+cases of COVID-19 were discovered, Taiwan remains ineligible to join the United Nations
+(UN) due to political reasons driven by China’s “One China policy” and, as a result, is
+excluded from the WHO. On 10 February 2020, a Taiwanese YouTuber, Ray Du, called in
+a viral YouTube video (Ray Du English, 2020, available at https://youtu.be/hpxfdAAD4g4)
+for the inclusion of Taiwan in the WHO during COVID-19, explaining the political background to its exclusion and promoting the hashtag #TWforWHO. On 14 April 2020, Du
+introduced a second hashtag, #TaiwanCanHelp, in a paid advertisement in the NYT.
+Hashtag activism aims at setting public and news media agendas through online
+grassroots activity (Kilgo et al., 2019). At the heart of hashtag activism is the consistent
+and unified use of linguistic cues and symbols, including hashtags, that project a sense of
+solidarity, coherence, and social presence (Freelon et al., 2018). Hashtag campaigns can
+increase awareness to social groups’ causes and struggles (Kilgo et al., 2019) but also
+allow groups to attempt to promote specific frames that interpret the events and social
+tensions through their point of view, a capability traditionally reserved to mass media
+only (Gitlin, 1980; McLeod and Shah, 2015).
+Prior research on hashtag activism focused primarily on the relationship between a
+majority and oppressed minorities within a given country. Despite being understudied,
+recent campaigns have demonstrated the utility of hashtags at times of international conflicts (Zeitzoff, 2018). In such cases, social media, and its unique affordances and features, such as hashtags, allow groups that were traditionally limited in cultural power
+(under more hierarchical models of mass communication) to make their voice heard in a
+more egalitarian communication environment in which international affairs take place
+(Gabel et al., 2020). In other words, social media provide more possibilities for periphery
+countries to participate in international affairs that were traditionally dominated by core
+countries, even on the Internet (Himelboim, 2010).
+These media opportunities became evident during COVID-19, as the global nature
+of public health crises like epidemics requires international cooperation, coordination,
+and communication (Reynolds and Seeger, 2005). The social and psychological needs
+associated with a public health crisis of such magnitude have led to intensive use of
+social media by both leaders, who took to Twitter and Facebook to communicate with
+their concerned citizens (Rufai and Bunce, 2020), and the public, that used in search
+for information and social support (Stella et al., 2020). Importantly, some of
+
+Liu et al.
+
+3215
+
+the international communication around COVID-19 consisted of scapegoating and
+blaming of specific groups and countries, as was evident in the emergence of the
+hashtag #ChinaLiedPeopleDied (Petersen and Gerken, 2021).
+Under these complex psychological and geopolitical circumstances, the Taiwanese
+campaign studied here is unique in its focus on the detrimental impact of oppression on
+both minority (also called counter-publics, see Kuo, 2018) and majority international
+actors. To clarify, this study uses the term oppressed groups to refer to those who are
+discriminated against in global decision-making processes due to power imbalances
+(Young, 1989). Young (1989) argued that while all social groups are encouraged to speak
+in participatory democratic structures, some groups are commonly amplified as others
+are silenced. We refrain from using the term counter-publics that is often associated with
+hashtag activism research that focuses on attempts to produce alternative narratives that
+deconstruct dominant discourse (Wonneberger et al., 2021). We believe the term
+oppressed group is more adequate than counter-publics in our context.
+As discussed in detail next, the #TaiwanCanHelp campaign had advocated for the
+inclusion of Taiwan in the WHO’s efforts to contain COVID-19. While prior studies on
+hashtag activism in the context of gender (Clark-Parsons, 2021; Jackson et al., 2020) and
+race (Freelon et al., 2016) have focused on minorities’ attempts to reveal abuses of power
+and gain support through digital allyship, the Taiwanese campaign presented a more balanced power structure: on one hand, it pointed to China’s oppression of Taiwan that
+resulted in Taiwan’s exclusion from the WHO and the coordinated efforts to combat
+COVID-19. On the other hand, it emphasized Taiwan’s impressive containment record
+and its ability to provide information and equipment that could support other countries
+around the world during the public health crisis. By doing so, the Taiwanese campaign
+reconceptualized the notion of allyship, calling for a more balanced, mutually beneficial
+coalition, one that points to the detrimental impact of oppression on both dominant actors
+and oppressed groups.
+In the next sections, we introduce the political and social background of the hashtag
+campaign, analyze the full corpus of Twitter activity employing the hashtags, and discuss
+ways through which our findings of this complex case study, which occurred in the intersection of geopolitics and public health, can extend the current theoretical understanding
+of hashtag activism.
+
+Hashtag activism
+Ray Du’s campaign, calling for people around the world to promote the hashtags
+#TWforWHO and #TaiwanCanHelp, can be seen as an example of hashtag activism
+(Jackson et al., 2020). The proliferation of social media has opened the door for a new
+type of political activism for individuals (Chan et al., 2018; Oyeyemi et al., 2014). Due
+to the structure of social networks and social media, online social movements could
+gain collective power through the consistent use of language and symbols, such as
+hashtags (Clark, 2019; Freelon et al., 2018). Connectivity plays a central role in amplifying oppressed groups or “counter-publics.” The use of consistent hashtags resonates
+“across different individual actors, who in turn have different connections across
+media and platforms” (Kuo, 2018: 509). Examples from contemporary social media
+
+3216
+
+new media & society 26(6)
+
+activities for social change employing hashtag activism include the organization and
+coordination of protests during the 2011 Arab Spring (González-Bailón et al., 2011),
+Black Lives Matter (Freelon et al., 2016), and the Me Too movement (Jackson et al.,
+2020), to name just a few. One of the keys to successful online activism remains the
+emergence and use of consistent linguistic cues, including hashtags, that allow movements to efficiently and effectively diffuse and control messages (Jackson et al., 2020).
+Early examples of hashtag activism for the purpose of empowering social movements
+include the 2009 #IranElection or the 2011 #OccupyWallStreet campaigns (Clark,
+2019; González-Bailón et al., 2013). More recently, hashtag activism was used by
+those protesting police brutality against Black Americans, who relied heavily on the
+#BlackLivesMatter and #BLM hashtags (Freelon et al., 2016). Successful use of
+hashtags by social movements could lead to a sense of unity (Freelon et al., 2016) and
+social and psychological support (Jackson et al., 2020). For example, social movements focusing on issues of gender inequality have successfully used hashtags such as
+#MeToo, #AllMenCan, #TheEmptyChair, and #WhyIStayed in recent years to promote their cause (Clark, 2016; Jackson et al., 2020).
+Hashtag activism often serves to expose power relations and abuse (Banet-Weiser,
+2015) in hope for a transformation and change (Clark, 2016). The goal in such cases is to
+challenge social norms and realities of inequality by increasing their visibility (ClarkParsons, 2021). Salience and framing, in turn, allow organizations to gain solidarity and
+support from people outside of the protesting social group. For example, using hashtag
+activism, the Me Too movement managed to gain solidarity and support across gender
+lines when using the hashtag #AllMenCan alongside #MeToo (Clark, 2019). As most
+social media users are being followed by only a very small amount of people (Mustafaraj
+et al., 2011), hashtag activists often benefit from the help of celebrities and other online
+personas who could amplify their message and increase its share (Ellcessor, 2018).
+Key to hashtag activism is the amplification of oppressed groups’ messages by
+either celebrities or out-group publics, known as digital allyship (Clark, 2019; LevineRasky and Ghaffar-Siddiqui, 2020). Digital allyship aims to maximize collective
+power of marginalized groups by increasing network size and diversifying participation by the inclusion of privileged social groups. At times, social movements interact
+with other parallel movements in act of solidarity. As argued by Clark (2019: 4),
+“hashtag networks create opportunities for people standing at the intersection of multiple, overlapping oppressions to build coalitions and deconstruct interlocking systems
+of power.” Taken together, those efforts to increase visibility and control the message
+eventually help movements to attract attention from mainstream media and reach the
+general public (Freelon et al., 2016).
+
+The geopolitical context of the Taiwanese hashtag
+campaign
+The abovementioned examples of hashtag activism show how social media could
+empower those hoping to challenge social injustice. While in many cases activism was
+directed inwards, that is, toward political and social oppression within subpopulations of
+the same countries, at times it was also used by states wishing to emphasize and bring to
+
+Liu et al.
+
+3217
+
+the agenda issues related to international relations and diplomacy (e.g. Duncombe,
+2017). Notably, geopolitical conflicts such as the Gaza conflict (Zeitzoff, 2018) and the
+Kashmir conflict (Gabel et al., 2020) have triggered the emergence of international activism that often organized its communication in search for global allyship around hashtags
+in attempts to gain international support and global allyship. Interestingly, in some conflicts, both sides have used hashtags in the virtual competition over public opinion. Such
+was the case with the competing hashtags #GazaUnderAttack and #IsraelUnderAttack,
+in which both sides used a variation on the same hashtag to attract global attention to
+what it perceived to be its oppression (Zeitzoff, 2018). Similarly, Indian tweeters used
+social media to negatively portray Burhan Wani, a commander of an Islamist militant
+organization that was active in the Jammu and Kashmir conflicts. As a response,
+Pakistanians and Muslims used the hashtags #IAmBurhan, #BurhanWani, and
+#PakistanStandsWithKashmir to show solidarity with the organization’s causes (Gabel
+et al., 2020). As was evident in these and other cases (for example, during the conflicts
+between Russia and Ukraine, see Jost et al., 2018), a large share of these communications
+were done in English, a strategy hoping to draw international support (Jost et al., 2018).
+These studies speak to Twitter’s ability to serve as a global online public sphere
+(Guo et al., 2019), with the capacity to attract Western media attention. As most of
+these studies related to geopolitical conflicts in the Middle East and Europe, relatively
+little is known about how Asian countries (and countries in the Global South in general) that have historically been struggling with imperialism and colonialism can use
+social media to extend their influence in the path to de-imperialization and decolonization (Duara, 2004).
+Scholars have shown hashtags to be a common tool for communicating around the
+pandemic (e.g. #FireFauci), some of which in search of social support (#StayStrong or
+#InItTogether), and in some cases even for directing blame toward other countries, such
+as with #ChinaMustPay, #ChinaMustExplain, and #ChinaLiedPeopleDied (Petersen and
+Gerken, 2021). These trends culminated and combined in the campaign we study here, in
+which Taiwanese attempted to call for the inclusion of Taiwan in the global efforts
+against COVID-19 while pointing a blaming finger toward China and the world’s compliance with its One China Policy (Wang, 2000).
+Thus, the Taiwanese campaign, described next, is not merely a call for joining an
+international health organization, nor was it happening in isolation from global trends
+and international tensions. COVID-19 erupted shortly after global attention was turned
+during the Trump presidency to tensions between the United States and China, for example, over trade, all part of a broader competition for power in the world system between
+the two global forces (Liu and Woo, 2018). Under these volatile circumstances, a campaign in English that calls for a recognition in Taiwan’s sovereignty, that takes place
+primarily over American-owned social media platforms such as YouTube and Twitter,
+and that involves American citizens and public figures is likely to be perceived by China
+as a Western provocation and as a threat. In other words, the campaign may not only
+communicate a Western support in Taiwan’s plea to join the WHO, but could more
+broadly symbolize the United States’ decades-old relationship with Taiwan, which is of
+great concern to China.
+
+3218
+
+new media & society 26(6)
+
+The #TWforWHO/#TaiwanCanHelp campaign
+The political conflicts around Taiwan’s sovereignty and independence from China date
+back to the Chinese Civil War of 1949. Following the war, the Chinese nationalist party
+(Kuomintang, or KMT) and its supporters retreated to the island of Taiwan, making
+Taipei their capital, with the hope to return to mainland China in the future (Bush, 2013).
+At first, Taiwanese leaders, including the chairman of the KMT in the 1980s, Lee TengHui, described their party as a “defeated, exiled regime existing under the global coldwar structure” or simply as a “regime from the outside,” thus indicating that they
+continued to perceive themselves the legitimate rulers of China (Chen, 2010: 154). In the
+years that followed the defeat to Mao Zedong’s communist armies, the new Taiwanese
+government targeted and prosecuted dissidents who were suspected of advocating
+democracy, communication, or independence from China, an era dubbed the “White
+Terror” (Chen, 2008). However, over the years, Taiwan adopted characteristics of
+Western modernity, including a shift to a multiparty system and the adoption of capitalism (breaking away in that regard from the Chinese commitment to socialism).
+In addition, Taiwan strengthened its relations with the West and with the United
+States, which saw the tensions between Taiwan and Communist China as part of the
+broader geopolitical trends of the Cold War. Taiwanese author Kuan-Hsing Chen
+(2010: 18) described the Taiwanese desire for sovereignty as taking place “under the
+neocolonial structure where Taiwan’s economy, international politics, and culture have
+been subordinated to those of the United States and Japan,” an international position
+he describes as a “Taiwanese subempire” (pp. 18, 61). Indeed, the United States and its
+Western allies have played a key role in Taiwan’s history, going back to its release from
+Japanese control following World War II (Fell, 2006). The United States later supported Taiwan’s rapid industrialization and economic growth, known as the Taiwan
+Miracle, due to its continuing distancing and independence from Communist China
+(Cullather, 1996). These trends culminated with the first Taiwanese presidential election in 1996 (Fell, 2006). A key source of tension between Taiwan’s current political
+camps is the question of whether or not Taiwan should strive for independence from
+mainland China (Qi, 2012).
+To this day, China refuses to accept and recognize Taiwan’s independence, a position
+known as One China Principle, according to which nations and international organizations that wish to maintain relations with China cannot conduct official relationships
+with Taiwan (Barrett, 2019; Wang, 2000). While countries like the United States do not
+endorse the Principle, they acknowledge it (US Department of State, 2018). A consequence of acknowledging the One China principle, which is called the One China Policy
+by the US government and the governments in the majority of countries in the world, is
+that nations and international actors cannot support Taiwan’s plea to join international
+organizations, a move that will acknowledge Taiwan’s sovereignty (Bush, 2017; Hickson,
+2003). As a result, Taiwan is not included in the UN and, as a result, is also excluded
+from the WHO (Barrett, 2019; BBC News, 2020; Cyranoski, 2003).
+The request to include Taiwan in international activity resurfaced during COVID19. Despite its physical proximity to China, and the fact that more than 407,000 of
+Taiwan’s population of 24 million worked in China during in 2019 (Su and Han,
+
+Liu et al.
+
+3219
+
+2020), Taiwan had one of the lowest numbers of SARS-CoV-2 (COVID-19) cases and
+deaths in the world in 2020 (The NYT, 2020). Those numbers substantially diverge
+from early estimations by researchers at John Hopkins University, who predicted that
+Taiwan would be one of the countries most affected by the virus (Schifrin, 2020).
+Taiwan’s relative success story of combating the spread of COVID-19 could have
+been harnessed and adopted by international health organizations and other countries
+struggling with the spread of the virus and its devastating consequences. However,
+such international cooperation and mutual learning are hindered by Taiwan’s exclusion from the WHO (Reuters, 2020c).
+Given coronavirus’ threat to global health, politicians worldwide have urged the
+WHO to include Taiwan in this global fight (Blanchard and Nebehay, 2020; Lin, 2020).
+Those advocating for the inclusion of Taiwan pointed to the country’s improved response
+to COVID-19 compared with the 2003 SARS outbreak (Hsieh et al., 2004). During the
+SARS outbreak, Taiwanese scientists and politicians have argued that Taiwan’s exclusion from the WHO meetings and collaborations led to an inferior response that led to
+Taiwanese casualties and infections (Cyranoski, 2003; TIME, 2017). However, Taiwan
+had since argued to learn from the lessons of SARS and to come up with effective and
+efficient strategies for coping with similar outbreaks, as is evident in the country’s relative success in limiting the impact of COVID-19 (Ministry of Foreign Affairs, Republic
+of China [Taiwan], 2020; Reuters, 2020a). In light of COVID-19, the call to include
+Taiwan in the WHO resurfaced, yet it was met with Chinese resistance (Reuters, 2020a),
+as China believes that such inclusion in the WHO would be interpreted as legitimizing
+Taiwan’s plead for independence and sovereignty (Wang, 2000).
+In light of that historic background, and at the early days of COVID-19, on 10
+February 2020, a Taiwanese YouTuber, Ray Du, produced a video, titled An Open Letter
+to the WHO, calling for international attention to Taiwan’s absence from the WHO and
+the global fight against COVID-19. By that time the video was published, Ray Du had
+already gained massive online following for his YouTube English-spoken channel, established in January 2015, making him a local celebrity (Huang, 2020a). He obtained over
+one million subscriptions in the first couple of years of his channel’s existence and surpassed two million subscriptions by January 2019 (Huang, 2020a).
+The video that promotes Taiwan’s bid to enter the WHO was disseminated over social
+media, including Twitter (Everington, 2020), and soon went viral. As of November 2020,
+the video received almost one-and-a-half million views on YouTube (Du, 2020, available
+at https://youtu.be/hpxfdAAD4g4). The video is 3:08 minutes long and features Ray Du
+talking in English (accompanied by English and Chinese subtitles) with an instrumental
+music in the background, and at times images of Taiwan and Taiwanese health officials
+and doctors. At the beginning, Ray approaches “the Internet” in English, introducing
+himself as a YouTuber from Taiwan, and then reading his open letter to the WHO. He
+argues that many have called for the inclusion of Taiwan in the WHO. He claims that
+since the outbreak of COVID-19, leaders around the world had been calling the WHO to
+allow Taiwan membership, or at least observer status, in the WHO. He explains that
+inclusion in the WHO will be of benefit not only to Taiwan but to the world, saying, “a
+concerted, global efforts is the only way to ensure the health and welfare of everyone,”
+adding that “excluding Taiwan could make it a blind spot in the international response to
+
+3220
+
+new media & society 26(6)
+
+the disease.” Ray compares the situation with the 2003 SARS outbreak, arguing that
+Taiwan was deprived of crucial knowledge that could have save lives.
+In the second half of the video, Ray claim that Taiwan is “not playing the victim here.
+Taiwan can help!” detailing that the Taiwanese health care system is lauded as one of the
+best in the world and their inclusion could bring knowledge and experience from fighting
+diseases like SARS, Ebola, and other pandemics. Ray evokes both local and global identities by pleading that “as a Taiwanese, and a member of the global community, I’m asking you on behalf of the world to include Taiwan.” He claims the inclusion will fit the
+WHO’s agenda of health as a human right and health for all without exception.
+At the epilogue to the video, a text appears on a black screen, indicating that the
+objective of the WHO is the attainment by all peoples of the highest possible level of
+health (WHO, 1946). Then, Ray employs hashtag activism by writing, “Leave no one
+behind. Share this video with the hashtag #TWforWHO.” In sum, the original YouTube
+video that launched the campaign promoted a multilayered message, pointing both to the
+Chinese abuse of political power and to Taiwan’s ability to contribute to the global efforts
+to fight COVID-19.
+About 2 months later, on 14 April 2020, Ray and others have published an advertisement for the hashtag campaign in the American newspaper the NYT (Huang, 2020b).
+The crowdfunded ad was published weeks after the WHO chief Dr. Tedros Adhanom
+Ghebreyesus argued publicly that he received racist messages and death threats originating in Taiwan (Feuer, 2020). The message of the NYT ad differed from the original
+YouTube in important ways. While the YouTube message emphasized China’s abuse of
+political power, the full-page advertisement titled “WHO Can Help? Taiwan,” focused
+exclusively on Taiwan’s ability to contribute to the global efforts against COVID-19. In
+fact, the word China does not appear in the ad. Accordingly, the NYT ad also introduced
+a second hashtag, #TaiwanCanHelp, that emphasizes the detrimental impact that Taiwan’s
+exclusion from the WHO has on the rest of the world. The advertisement concluded with
+a call to action:
+In a time of isolation, we choose solidarity . . . You are not alone. Taiwan is with you . . . We
+know what you are going through. We know how hard it is . . . Who can isolate Taiwan? No
+one. Because we are here to help #TaiwanCanHelp.
+
+Hashtag activism at times of global calamity
+Existing theories of hashtag activism were developed primarily around the contexts of
+gender relations (Clark, 2019; Jackson et al., 2020) and domestic conflicts (Freelon
+et al., 2016; González-Bailón et al., 2013). However, we argue that the campaign to promote Taiwan’s inclusion in the WHO during COVID-19 cannot be fully understood
+within the boundaries of existing conceptualizations of hashtag activism (Clark, 2016;
+Freelon et al., 2016; Kilgo et al., 2018), due to two reasons. First, as opposed to #MeToo
+and #BlackLivesMatter, the #TWforWHO/#TaiwanCanHelp campaign is unique in
+terms of the ways its organizers have framed power relations and the call for help.
+Specifically, the campaign framed Taiwan both as a passive victim and as an active alley.
+On one hand, Ray Du in his YouTube video and NYT ad portrayed Taiwan as
+
+Liu et al.
+
+3221
+
+marginalized in terms of political power and positioned the more dominant China as the
+oppressor that prevents Taiwan from joining the UN and the WHO. But at the same time,
+the Taiwanese campaign, as evident in the hashtags chosen, also argued that Taiwan
+could offer a superior support to the global efforts against COVID-19 due to its success
+in implementing the lessons from prior outbreaks and containing the disease in its territory. Thus, this case presents a unique campaign discourse that extends the meaning of
+coalition building (Clark, 2019) using Hashtag activism (Jackson et al., 2020). The campaign therefore is expected to attempt to explain not only how the marginalized group is
+being oppressed but also how that oppression, and hence exclusion, can harm dominant,
+core countries. If that is the case, online collaboration could be seen as a way to develop
+mutually beneficial coalition that points to the harmful impact of oppression on both the
+minority and majority groups, often referred to in the context of international relations
+and world systems theories as periphery and core countries (Chang, 1998; Wallerstein,
+1974). We therefore expected some of the discourse around the campaign to focus not
+only on the Chinese oppression but also on Taiwan’s ability and potential to help the fight
+against the pandemic.
+Second, the Taiwanese hashtag activism campaign took place in the context of an
+unprecedented global health crisis. Most people learn about public crises (Lachlan et al.,
+2014) such as epidemics from the mass (Ophir, 2018) and social (Chan et al., 2018;
+Oyeyemi et al., 2014) media. Like other public health crises, epidemics have the potential
+to do massive physical, psychological, and social harm (Reynolds and Seeger, 2005). At
+times of uncertainty, people seek information that would help them to make sense of the
+crisis (Weick, 1988). In the context of constantly developing epidemic outbreaks (Coombs,
+1999), the public needs to learn about particular health and social risks, and ways health
+institutions and individuals can act to ameliorate risks (Dahlstrom et al., 2012; Sellnow
+and Seeger, 2013). Social media provide accessible information, both from experts and
+from fellow citizens (Young et al., 2018). As the #TaiwanCanHelp campaign occurred
+during the height of the COVID-19 outbreak, we expect social media users to discuss the
+health and social threats of the disease. More importantly, as campaign organizers sought
+to emphasize Taiwan’s ability to cope with the disease and to support global efforts to
+fight the epidemic, we expect a particular attention to be given in hashtag-related activity
+to efficacy information, that is, information promoting the notion that Taiwan is able to
+take specific actions to successfully ameliorate risks (Bandura, 1990).
+In sum, our exploratory analysis of the Taiwanese campaign relies on prior findings
+from studies on hashtag activism. However, due to the unique tactic employed by Du and
+the campaign organizers, we expected the discourse around the hashtags to potentially
+include information about Taiwan’s efficacy and its ability to contribute to the global
+efforts against COVID-19. We asked,
+RQ1. What were the frames employed by social media users posting on the
+#TWforWHO hashtag campaign?
+As argued earlier, the Taiwanese campaign emphasized the potential of Taiwan to
+support the WHO and the rest of the world. This stating point is markedly different from
+
+3222
+
+new media & society 26(6)
+
+the one promoted by Black Lives Matter and the Me Too movement. While this perspective was presented in the original YouTube video, along with accusations of political
+abuse by China, it was the sole focus of the NYT ad. We therefore asked:
+RQ2. Did the introduction of a new hashtag in the NYT change the conversation in
+terms of framing?
+
+Method
+Data collection
+The campaign for Taiwan’s inclusion in the WHO used two hashtags, #TWforWHO
+(promoted on YouTube) and #TaiwanCanHelp. In total, 170,191 tweets posted between
+1 February and 31 October 20201 were collected via Brandwatch (www.Brandwatch.
+com). Since the campaign was directed toward the global community, and to keep our
+model stable and consistent, we omitted tweets not in English (identified via Google’s
+CLD2 algorithm). Importantly, that resulted in the omission of only 6315 tweets, leaving
+a total of 163,876 English language tweets for analysis. Additional preprocessing was
+then performed. First, extremely short texts containing little information (defined as less
+than 10 characters, which on average equals to less than two words) were removed (this
+included only 13 tweets). Then, for model estimation purposes only, duplicated tweets
+were removed, reducing the sample to 28,324. This is expected in a social media environment such as Twitter where singular messages tend to propagate via copying and
+retweeting and these duplicated tweets were re-added to sample after model estimation
+to correctly calculate the volume of activity and topic prominence.
+In addition, following these steps, texts were preprocessed by removing stop-words
+and the specific search terms used to retrieve the content, converting capital letters to
+lowercase, removing punctuations and numbers, and removing words that appeared in
+more than 90% of the documents, or in less than 0.01%, based on guidelines suggested
+by Maier et al. (2018). We refrained from lemmatization or stemming due to its possible
+negative influence on topic stability (Schofield et al., 2017).
+
+Topic model networks
+The thematic analysis of tweets relied on the Analysis of Topic Model Networks
+(ANTMN) approach (Walter and Ophir, 2019). ANTMN is a three-step approach, consisting of modeling a topic model, calculating a network of topics based on their cooccurrence in documents (here tweets), and clustering topics into themes using
+community detection algorithms. We detail each step next and provide the code for the
+full analysis in the authors’ GitHub page (https://github.com/ophiryotam).
+Topic modeling is a semi-automated, unsupervised method for the analysis of textual
+content (Blei et al., 2003). Topic models use a Bayesian generative approach, in which
+the model attempts to “mimic” the writing process of a given corpus of documents (Blei
+et al., 2003). In other words, the algorithm extracts a set of topics from which the given
+corpus could have been created. “Topics” are statistical entities, sets of frequency
+
+Liu et al.
+
+3223
+
+distributions of words, based on the linguistic assumption of co-occurrence, that is, that
+words that are being used more frequently in the same documents also associate thematically. In topic models, every word in the corpus has a probability of appearing in each of
+the topics and every document is composed as a mixture of all topics (Grimmer and
+Stewart, 2013). Topic modeling is a “bag-of-words” approach, which means that narrative, location in the text, and syntax are not taken into consideration (Wallach, 2006).
+In this work, we use latent Dirichlet allocation (LDA) and Gibbs Sampling (LDA,
+see Blei et al., 2003). To assess the optimal number of topics, to for parameter optimization, we estimated a wide range of models containing 5 to 100 topics by “skips” of
+5 with varying alpha levels (with values being .01, .05, .1, .2, and .5). Based on the fit
+indicator of perplexity (Walter, Ophir, & Jamieson, 2020), we chose of model of 35
+topics with alpha value of .05.
+To interpret the topics, we examined three types of information: the words with the
+highest loading over each topic, the words that are both prevalent and exclusive to each
+topic (see definition and formula of frequency exclusivity (FREX) words in Roberts
+et al., 2014), and the full documents that are most representative of each topic. Topics
+were labeled by both the main and second author. Finally, as mentioned earlier, after topics were estimated and labeled, the 135,526 duplicated tweets were added back to the
+corpus and noted for their topical mixture.
+Network of topics was calculated using pairwise cosine similarity between topics
+based on the documents they share. In other words, topics were deemed more similar, the
+more they tended to co-occur. As mentioned earlier, each document is a mixture of topics. The information regarding this mixture is described by the theta matrix, in which
+columns represent the various topics and the rows represent the documents (Maier et al.,
+2018). To cluster topics into themes, we used the theta matrix to calculate the distance/
+similarity between each pair of topics—estimating the extent to which topics tend to
+appear in the same documents. The result is a fully connected, undirected, and weighted
+network, where edges provide information on the extent to which topics are related
+(Walter and Ophir, 2019). Finally, for community structure detection or frame identification (with frames defined as clusters of co-occurring topics), we utilized the method
+based on the Leading Eigenvector of the Community Matrix algorithm (Newman, 2006).
+The results of the frame analysis can be found in Figure 1.
+
+Results
+To examine the thematic content of the campaign (RQ1), we identified 35 topics of discussion that were clustered into three frames. Based on a close qualitative reading of the
+texts and topics representative of each cluster, we labeled the frames containment, geopolitical, and international cooperation. For readers’ convenience, we provide a table
+with the most representative words and tweets for each topic in Online Appendix 1.
+Figure 1 presents the topics network.
+The first frame, which was labeled containment (blue topics in Figure 1), consisted of
+topics discussing the ways Taiwan was able to effectively fight the spread of COVID-19.
+Topics in this frame emphasized the relatively normal life Taiwan had managed to allow
+its citizens by effectively keeping the number of cases and deaths low. Topics also
+
+3224
+
+new media & society 26(6)
+
+Figure 1. A map of the topics network generated via ANTMN. The color of nodes indicates
+the community (frame) associated with each topic. Size of nodes indicates topic prominence in
+the complete corpus.
+
+detailed specific measures used by Taiwan to slow the spread of COVID-19, from the
+development of test kits to mandatory mask rules. Taiwan’s success in containing
+COVID-19 is exemplified by a topic dedicated to the renewal of baseball games in the
+country, at a time when many countries around the globe struggled to resume sports and
+cultural events due to high infection and death numbers. By focusing on Taiwanese strategies and innovations, the frame posits Taiwan, the otherwise-periphery country in
+power struggles with China, in an empowered position. Simply put, while the main argument of the hashtag campaign was to shed light on China’s oppression of Taiwan, the
+containment frame emphasized Taiwan’s potential to benefit core countries and the
+global fight against COVID-19. Support in the campaign, in that regard, was framed as
+an effort to build a mutually beneficial coalition.
+The second frame, geopolitics (gray), emphasized the accusations against China’s
+abuse of political power, claiming Taiwan’s exclusion is incongruent with their relative
+success in blocking the spread of COVID-19. Topics in this frame explained the historical context of Taiwan’s claim for independence. Users employing the frame often
+attacked China for its oppressive behavior toward countries like Taiwan, but also Hong
+Kong, and calling for a recognition in the Taiwan’s sovereignty and independence from
+China. To support the claim that the exclusion of Taiwan was based solely on geopolitics
+and not on its inability to contribute to the global efforts against the epidemic,
+
+Liu et al.
+
+3225
+
+some topics in this frame emphasized Taiwan’s low case count and the relative safety it
+provides its citizens during COVID-19. Another set of topics emphasize the goal of the
+WHO, to further support the argument that the exclusion of Taiwan contradicted the
+organization’s purpose and aims.
+The third frame, International Cooperation (red), consisted of topics that emphasized
+the need for international cooperation to fight global health risks such as epidemics. In
+that sense, while the containment frame included a topic about Taiwan’s mandatory mask
+ruling, the cooperation frame focused on Taiwan’s ability to donate masks to other countries. A similar topic associated with the International Cooperation frame focused on
+Taiwan’s ability to donate medical supplies to other countries in need. Yet, another topic
+suggested adopting Taiwan’s masks-monitoring system (one that indicates to citizens
+where masks are currently available for purchase) abroad. Topics such as Partnership
+with Taiwan further endorsed the argument that public health threats such as epidemics
+require an efficient and effective global cooperation, one where Taiwan could play a key
+role in. In that context, topics in this frame portrayed Taiwan not only as a country in
+need for empathy and support but as an active, able ally. Like other hashtag activism
+campaigns, this one called for coalition building, but one that was imagined as mutually
+beneficial and put the empowerment of oppressed groups at its core.
+Next, we examined how the campaign evolved over time in terms of volume and
+relative use of frames, with a particular focus on the discourse before and after the
+NYT ad (RQ2). In terms of volume, as can be seen in Figure 2, the earliest activity
+occurred after the YouTube video was uploaded in two subsequent spikes. The following spikes in activity could be seen during April 2020, following the NYT ad. The
+vast majority of activity took place between February and May 2020. After that, activity was minimal, except for a small spike during September 2020, in light of the UN’s
+75 General Assembly on 15 September. Before the UN meeting, a huge ‘Taiwan can
+help” sign was hanged in Times Square in New York City, where the meeting took
+place (Taiwan News, 2020).
+In terms of frames, the initial spike in February was dominated by discussion of geopolitics. Most focus at that point was given to accusing China, with little attention given
+to the containment and international cooperation frames. In that regard, activity early
+followed the model of hashtag activism that was found in prior work on Black Lives
+Matter and Me Too, where the main focus is on the oppression of minorities (Taiwan) by
+dominant actors (China). However, the NYT ad marked a turning point, not only in terms
+of the volume that increased dramatically but also in framing.
+As can be seen in Figure 2, following the NYT ad, discourse had shifted to focusing
+on the need for international cooperation and Taiwan’s success story. Changes in framing
+followed external events. For example, we identify a rise in geopolitics framing following news reports about the WHO chief Tedros Adhanom Ghebreyesus who said he had
+been subjected to racist comments and death threats from Taiwanese and their supporters
+(Feuer, 2020). In mid-April, there was a rise in discussion of international cooperation,
+following Ray Du’s efforts to crowdfund an NYT ad (Cheung, 2020).
+As expected, following the NYT ad’s publication on 14 April, discourse online had
+shifted away from geopolitics into a discussion of Taiwan’s ability to support the global
+war against COVID-19. As our data show (Figure 2), the ad dramatically, if temporarily,
+
+3226
+
+new media & society 26(6)
+
+Figure 2. Volume and frame prominence over time. The dashed vertical lines represent the
+original YouTube video (left) and the NYT ad (right).
+
+increased the use of the international cooperation frame on the expense of the otherwise
+dominant geopolitics and containment frames.
+In sum, as can be seen in Figure 2, most activity took place around Ray Du’s promotion activities, first in his YouTube video and then in his crowdfunded ad at the NYT. The
+figure suggests that while framing responded at times to ongoing events (e.g. the allegations of racist remarks against the WHO chief), it largely corresponded to the tone of the
+campaign. when Ray Du’s video emphasized the Chinese effort to prevent Taiwan from
+joining in, using the hashtag #TWforWHO, most Twitter activity focused on geopolitics.
+But when the second stage of the campaign was launched with the NYT ad and the additional hashtag, #TaiwanCanHelp, that more directly emphasized Taiwan’s efficacy, the
+discourse moved to a discussion of the need for international cooperation.
+
+Discussion
+Through the affordances of the Internet, hashtag activism aims to empower oppressed
+groups who challenge social injustices. Recently, researchers have broadened the
+scholarly perspective on hashtag activism to include its application in international
+conflicts (Zeitzoff, 2018). Through this strategy, activists belonging to groups of traditionally limited cultural power can amplify their voices in a communication environment that is more egalitarian in nature than the mass media (Gabel et al., 2020). The
+
+Liu et al.
+
+3227
+
+lack of communication opportunities had been seen by scholars as a barrier for weaker
+international players in participatory democratic structures (Young, 1989), and enlarging the scope of the conflict via media—a possible remedy (Gamson and Wolfsfeld,
+1993). Thus, the affordances of social media allow the introduction of peripheral countries into discussions that were traditionally dominated by core countries only
+(Himelboim, 2010). In this way, communication messages that are calling for digital
+allyship across traditional core–periphery lines can challenge dichotomous power relations of oppressed and oppressors. Such allyship across uneven geopolitical positions
+may allow periphery countries to align with powerful allies, not as victims in seek of
+recognition but as contributing allies.
+Specifically, this study builds upon the theoretical perspective of hashtag activism
+(Jackson et al., 2020) as a form of international allyship, to examine framing devices
+used in hashtag-driven tweets. Using a computational method for the analysis of big
+textual data, we show that the campaign was used to both promote the message itself
+(i.e. increase the messages’ reach) and emphasize the importance of Taiwan to the
+global fight against COVID-19 as well as China’s abuse of political power and oppression of Taiwan. Our analysis of the dynamics of framing suggests that the move from
+a discourse emphasizing victimhood and oppression to one of empowerment and
+global cooperation was fueled by the introduction of the second hashtag,
+#TaiwanCanHelp, in the prominent NYT ad.
+Our data demonstrate how hashtag activism served multiple purposes as the campaign
+developed. The geopolitics frame described the ways China arguably abused its international power to exclude Taiwan from global organizations (similar to #MeToo and
+#BlackLivesMatter’s messages of systematic oppression). This frame particularly shed
+light on China’s oppressive relationship with the country and how it resulted in detrimental health effects for Taiwan and its people, for example, during the 2003 SARS outbreak. However, the containment frame described how Taiwan has efficiently slowed
+down the spread of the virus, emphasizing Taiwan’s exceptional public health system,
+innovations, and production capabilities (e.g. mask production and the development of
+monitoring and testing equipment). Finally, the international cooperation frame complemented this argument by emphasizing how Taiwan’s capabilities could help slow down
+COVID-19 worldwide, what we described as a novel theoretical concept of mutually
+beneficial coalition building, one that simultaneously points to the detrimental impact of
+oppression on both the oppressed and the rest of the world.
+We show how the Taiwanese campaign for its inclusion in the WHO used a second
+hashtag, promoted via an advertisement in an American prestige newspaper, to reframe
+Taiwan’s place in the global war against COVID-19. While the Taiwanese activists began
+their campaign by following the oppressed strategy adopted by #BlackLivesMatter and
+#MeToo, and at first emphasized its oppression by China, the introduction of the
+#TaiwanCanHelp hashtag attempted to situate Taiwan as an equally capable actor in
+international cooperation. Prior research has shown how periphery and core countries
+often negotiate the meaning of conflicts by using competing hashtags. Despite the
+affordances of social media, hashtag activism poses challenges to communicators as
+these discursive conflicts still take place in asymmetrical environments (see the use of
+the two competing hashtags, #IsraelUnderAttack and #GazaUnderAttack in Zeitzoff,
+
+3228
+
+new media & society 26(6)
+
+2018). This differential power during geopolitical conflicts further demonstrates peripheral actors’ need for allyship by Western powers. Our results show how the Taiwanese
+campaign attempted to create a unique rhetorical opportunity to gain a foothold in international organizations and gain said allyship by harnessing the global nature of a public
+health crisis (Reynolds and Seeger, 2005). Importantly, like in prior international conflicts, this effort was done in English (Jost et al., 2018) on Twitter, a contemporary global
+public sphere (Guo et al., 2019) with the capacity to attract Western attention, and one
+that was used extensively in the past during epidemics, both by elites and by laypersons
+(Petersen and Gerken, 2021; Stella et al., 2020).
+COVID-19 erupted at a time of contention between two global forces, the West, and
+particularly Donald Trump’s America, and China (Liu and Woo, 2018). We argue that the
+campaign was thus seen by its creators as an opportunity to strengthen the neocolonial
+bond between the United States and the Taiwanese subempire (Chen, 2010), one that had
+been developing for decades as Taiwan adopted more characteristics of Western capitalism and modernity. Such opportunities are particularly important in light of Western
+countries’ inability to conduct official relationship with Taiwan (Barrett, 2019; Wang,
+2000) due to the One China principle (US Department of State, 2018). In other words,
+the campaign used the devastating COVID-19 global outbreak and Taiwan’s relative success as slowing the virus down, to emphasize the political tensions and discrimination
+that prevented Taiwan from joining the UN and WHO.
+In sum, our study extends the current understanding of hashtag activism, by demonstrating the multifaceted nature of hashtag activism in the intersection of health, science,
+and geopolitics. Our results show that the attempt to create a more balanced power relationship between politically oppressed groups and those in power was achieved in this
+campaign through a dynamic use of complementary frames that emphasized both
+Taiwan’s oppression by China and its need for Western allyships, and simultaneously,
+Taiwan’s ability to contribute to the global efforts and thus help other countries. We
+argue that the combination of empathy and efficacy in the campaign’s messages advocated for the construction of what we named a mutually beneficial coalition against an
+abuse of political power (Clark, 2019; Jackson et al., 2020) while claiming that the detrimental effects of oppression influence both the periphery (Taiwan) and core (the West)
+groups (Chang, 1998; Wallerstein, 1974).
+
+Limitations
+There are several limitations to the current study. First, the study had focused on only
+one campaign that was relatively contained in scope. The call to include Taiwan in the
+WHO’s COVID-19 efforts never evolved into a full blown, lasting social movement
+like BLM or #MeToo. As opposed to studies focusing on these movements, our analysis is limited to the specific online campaign around the hashtags. Second, our analysis of content cannot teach us on the actual effects of the messages or the hashtags.
+Additional studies focused on audience reception could further develop our understanding of the impact of the campaign. Third, the study focuses on the content of
+messages only and not on propagation. Future studies with the data would be able to
+examine the spread of the campaign and the social actors who promoted and help
+
+Liu et al.
+
+3229
+
+spread it. Fourth, our analysis was limited to social media, and Twitter specifically.
+Although the second ad by Ray Du was published in the NYT, it was presented as an
+advertising and not as an article or editorial. Future studies may examine the coverage
+the campaign received on mainstream and news media and examine its impact on the
+campaign. Nevertheless, the choice of Twitter for our study was based on its heavy
+reliance on hashtags due to its characters limit, as well as the fact that the Taiwanese
+campaign explicitly called for users to disseminate the hashtag over Twitter (in a
+pinned comment on the original YouTube’s video). Fifth, our analysis followed existing methodological approaches, namely, the multistage ANTMN approach (Walter
+and Ophir, 2019). While the method is useful at removing researchers’ bias through a
+reliance on an unsupervised approach, we acknowledge that some decisions are still
+made by the researchers, such as the choice of a community detection algorithm for
+interpretation (Ophir et al., 2020). Finally, to keep our model stable and consistent,
+our analysis focused only on tweets in English. In this case, since the campaign was
+directed toward global public opinion, more than 99% of tweets were in English and
+only a few were omitted. However, it may overlook other languages that are used to
+echo #TaiwanCanHelp. Further research could address questions about how users of
+different languages frame this campaign by adding to or taking away from the strength
+of this argument. For example, traditional Chinese users, such as Taiwanese, may
+formalize this significant international bid, while simplified Chinese users may see it
+as common issues.
+Nevertheless, our study demonstrates how hashtag activism provided a space for
+Taiwanese and other social media users to spread the word of Ray’s video and the NYT
+ad. We examine the discourse around the hashtags that allowed grassroots activists to
+build international bridges of cooperation during a time when such a bridge was most
+needed—one of a global public health crisis. Its results show that the call for help combined emotional needs (e.g. patriotism) with political messaging (discussing the political force of China over the UN and the WHO) and practical information (promoting
+Taiwan’s ability to contribute to the global effort by emphasizing Taiwanese innovation
+and public health infrastructure). This study helps further develop the theory of hashtag
+activism and demonstrate its ability to establish new mechanisms of dialogue, negotiation, and influences across cultures and spaces, during a time of an international peril.
+The Taiwanese campaign studied here serves as an example of hashtag activism that
+embraces, but also extends narratives of victimhood and oppression, into ones emphasizing empowerment of oppressed groups, and the coalition building of a mutually beneficial allyship that is crucial at times of global calamities.
+Acknowledgement
+The authors wish to thank the anonymous reviewers and the editors for their insightful comments
+and suggestions.
+
+Funding
+The author(s) received no financial support for the research, authorship, and/or publication of this
+article.
+
+3230
+
+new media & society 26(6)
+
+ORCID iDs
+Anita KC Liu
+
+https://orcid.org/0000-0003-1341-1127
+
+Dror Walter
+
+https://orcid.org/0000-0001-9870-998X
+
+Supplemental material
+Supplemental material for this article is available online.
+
+Note
+1.
+
+Due to a technical glitch, we could not obtain the data for 1 May 2020. We do not believe that
+the missing day would influence or change the conclusion of analyses.
+
+References
+Bandura A (1990) Evaluation of AIDS prevention and education programs: perceived self-efficacy
+in the exercise of control over AIDS infection. Evaluation and Program Planning 13(1):
+9–17.
+Banet-Weiser S (2015) Keynote address: media, markets, gender: economies of visibility in a
+neoliberal moment. The Communication Review 18(1): 53–70.
+Barrett GRB (2019) Between sovereignty and legitimacy: China and UNESCO, 1946-1953
+(Modern Asian Studies). Available at: https://ora.ox.ac.uk/objects/uuid:3a2fa3db-4d1b468d-b4c3-5b90455208b7
+BBC News (2020) Why Taiwan has become a problem for WHO. BBC News, 30 March. Available
+at: https://www.bbc.com/news/world-asia-52088167
+Blanchard B and Nebehay S (2020) U.S. Clashes with China over Taiwan’s Place at the WHO
+Table. Reuters. Available at: https://www.reuters.com/article/idUSKBN2000GE
+Blei DM, Ng AY and Jordan MI (2003) Latent Dirichlet allocation. Journal of Machine Learning
+Research 3: 993–1022.
+Bush RC (2017) A One-China policy primer. East Asia Policy Paper 10: 1–30.
+Bush RC (2013) Uncharted Strait: The Future of China-Taiwan Relations. Washington, DC:
+Brookings Institution Press.
+Chan MS, Winneg K, Hawkins L, et al. (2018) Legacy and social media respectively influence risk
+perceptions and protective behaviors during emerging health threats: a multi-wave analysis of
+communications on Zika virus cases. Social Science & Medicine 212: 50–59.
+Chang T (1998) All countries not created equal to be news: world system and international communication. Communication Research 25: 528–563.
+Chen KH (2010) Asia as Method: Toward Deimperialization. Durham, NC: Duke University
+Press.
+Chen KW (2008) Disciplining Taiwan: the Kuomintang’s methods of control during the White
+Terror Era (1947-1987). Taiwan International Studies Quarterly 4(4): 185–210.
+Cheung H (2020) The NT$4 million question. Taipei Times, 16 April. Available at: https://www.
+taipeitimes.com/News/feat/archives/2020/04/16/2003734699
+Ching N (2020) US supports Taiwan’s world health assembly observer status. Voice of America
+(VOA), 30 March. Available at: https://www.insidevoa.com/p/5831.html
+Clark MD (2019) White folks’ work: digital allyship praxis in the #BlackLivesMatter movement.
+Social Movement Studies 18(5): 519–534.
+Clark R (2016) “Hope in a hashtag”: the discursive activism of #WhyIStayed. Feminist Media
+Studies 16(5): 788–804.
+
+Liu et al.
+
+3231
+
+Clark-Parsons R (2021) “I see you, I believe you, I stand with you”: #MeToo and the performance
+of networked feminist visibility. Feminist Media Studies 21(3): 362–380.
+Coombs TW (1999) Ongoing Crisis Communication: Planning, Managing, and Responding.
+Thousand Oaks, CA: SAGE.
+Cullather N (1996) “Fuel for the Good Dragon”: the United States and industrial policy in Taiwan,
+1950–1965. Diplomatic History 20(1): 1–26.
+Cyranoski D (2003) Taiwan left isolated in fight against SARS. Nature 422(6933): 652–652.
+Dahlstrom MF, Dudo A and Brossard D (2012) Precision of information, sensational information, and self-efficacy information as message-level variables affecting risk perceptions. Risk
+Analysis 32(1): 155–166.
+Duara P (ed.) (2004) Decolonization: Perspectives from Now and Then. London: Routledge.
+Duncombe C (2017) Twitter and transformative diplomacy: social media and Iran–US relations.
+International Affairs 93(3): 545–562.
+Ellcessor E (2018) “One tweet to make so much noise”: connected celebrity activism in the case
+of Marlee Matlin. New Media & Society 20(1): 255–271.
+Everington K (2020) Taiwanese YouTuber posts open letter to WHO. Taiwan News, 11 February.
+Available at: https://www.taiwannews.com.tw/en/news/3874539
+Fell D (2006) Party Politics in Taiwan: Party Change and the Democratic Evolution of Taiwan,
+1991-2004. London: Routledge.
+Feuer W (2020) WHO chief addresses death threats, racist insults: “I don’t give a damn.” CNBC,
+8 April. Available at: https://www.cnbc.com/2020/04/08/who-chief-addresses-death-threatsracist-insults-i-dont-give-a-damn.html
+Freelon D, McIlwain C and Clark M (2018) Quantifying the power and consequences of social
+media protest. New Media and Society 20(3): 990–1011.
+Gabel S, Reichert L and Reuter C (2020) Discussing conflict in social media: the use of Twitter in
+the Jammu and Kashmir conflict. Media, War & Conflict. Epub ahead of print 10 December.
+DOI: 10.1177/1750635220970997.
+Gamson WA and Wolfsfeld G (1993) Movements and media as interacting systems. The ANNALS
+of the American Academy of Political and Social Science 528(1): 114–125.
+Gitlin T (1980) The Whole World Is Watching: Mass Media in the Making & Unmaking of the New
+Left. Berkeley, CA: University of California Press.
+González-Bailón S, Borge-Holthoefer J and Moreno Y (2013) Broadcasters and hidden influentials in online protest diffusion. American Behavioral Scientist 57(7): 943–965.
+González-Bailón S, Borge-Holthoefer J, Rivero A, et al. (2011) The dynamics of protest recruitment through an online network. Scientific Reports 1(1): 197.
+Grimmer J and Stewart BM (2013) Text as data: the promise and pitfalls of automatic content
+analysis methods for political texts. Political Analysis 21(3): 267–297.
+Guo L, Mays K and Wang J (2019) Whose story wins on Twitter? Visualizing the South China Sea
+dispute. Journalism Studies 20(4): 563–584.
+Hickson CE (2003) Taiwan in International Organizations: Internationalization of the Taiwan–
+China Relationship. The Atlantic Council of the United States.
+Himelboim I (2010) The international network structure of news media: an analysis of hyperlinks
+usage in news web sites. Journal of Broadcasting & Electronic Media 54(3): 373–390.
+Hsieh Y-H, Chen CWS and Hsu S-B (2004) SARS outbreak, Taiwan, 2003. Emerging Infectious
+Diseases 10(2): 201–206.
+Huang Y-C (2020a) 阿滴：為了賺錢當 YouTuber, 你會失望｜天下雜誌. 天下雜誌. Available
+at: https://www.cw.com.tw/article/5099472
+Huang T-T (2020b) WHO denies isolation claim in NYT “Taiwan can help” ad. Taiwan News, 15
+April. Available at: https://www.taiwannews.com.tw/en/news/3916467
+
+3232
+
+new media & society 26(6)
+
+Jackson SJ, Bailey M and Welles BF (2020) #HashtagActivism. Cambridge, MA: The MIT Press.
+Available at: https://mitpress.mit.edu/books/hashtagactivism
+Jost JT, Barberá P, Bonneau R, et al. (2018) How social media facilitates political protest: information, motivation, and social networks. Political Psychology 39: 85–118.
+Kilgo DK, Harlow S, García-Perdomo V, et al. (2018) From #Ferguson to #Ayotzinapa: analyzing differences in domestic and Foreign protest news shared on social media. Mass
+Communication and Society 21(5): 606–630.
+Kilgo DK, Yoo J and Johnson TJ (2019) Spreading Ebola panic: newspaper and social media coverage of the 2014 Ebola health crisis. Health Communication 34(8): 811–817.
+Kuo R (2018) Racial justice activist hashtags: counterpublics and discourse circulation. New
+Media & Society 20: 495–514.
+Lachlan KA, Spence PR, Lin X, et al. (2014) Screaming into the wind: examining the volume and
+content of tweets associated with hurricane sandy. Communication Studies 65(5): 500–518.
+Levine-Rasky C and Ghaffar-Siddiqui S (2020) White allyship means a transfer of power. Contexts
+19(4): 79–81.
+Lin CN (2020) Virus fears: Canada and Japan endorse WHO bid. Taipei Times, 31 January.
+Available at: http://www.taipeitimes.com/News/front/archives/2020/01/31/2003730096
+Liu T and Woo WT (2018) Understanding the US-China trade war. China Economic Journal
+11(3): 319–340.
+McLeod DM and Shah DV (2015) News Frames and National Security: Covering Big Brother.
+Cambridge: Cambridge University Press.
+Maier D, Waldherr A, Miltner P, et al. (2018) Applying LDA topic modeling in communication
+research: toward a valid and reliable methodology. Communication Methods and Measures
+12(2–3): 93–118.
+Ministry of Foreign Affairs, Republic of China (Taiwan) (2020) Taiwan to continue campaign
+for UN participation. Taiwan Today, 31 August. Available at: https://taiwantoday.tw/news.
+php?unit=2&post=184276
+Mustafaraj E, Finn S, Whitlock C, et al. (2011) Vocal minority versus silent majority: discovering the opinions of the long tail. In: 2011 IEEE third international conference on privacy,
+security, risk and trust and 2011 IEEE third international conference on social computing, Boston, MA, 9–11 October, pp. 103–110. New York: IEEE. Available at: https://doi.
+org/10.1109/PASSAT/SocialCom.2011.188
+Newman ME (2006) Finding community structure in networks using the eigenvectors of matrices.
+Physical Review E 74(3): 036104.
+Ophir Y (2018) Coverage of epidemics in American Newspapers through the lens of the crisis and
+emergency risk communication framework. Health Security 16(3): 147–157.
+Ophir Y, Walter D and Marchant ER (2020) A collaborative way of knowing: bridging computational communication research and grounded theory ethnography. Journal of Communication
+70(3): 447–472.
+Oyeyemi SO, Gabarron E and Wynn R (2014) Ebola, Twitter, and misinformation: a dangerous
+combination? British Medical Journal 349: g6178.
+Petersen K and Gerken JM (2021) #Covid-19: an exploratory investigation of hashtag usage on
+Twitter. Health Policy 125(4): 541–547.
+Qi D (2012) Divergent popular support for the DPP and the Taiwan independence movement,
+2000–2012. Journal of Contemporary China 21(78): 973–991.
+Ray Du English (2020, February 10) An open letter to the World Health Organization (from TAIWAN)
+[Video]. YouTube. Available at: https://www.youtube.com/watch?v=hpxfdAAD4g4
+Reuters (2020a) China Says Taiwan Will Fail in Bid to Attend Key WHO Meeting. Reuters.
+Available at: https://www.reuters.com/article/idUSL4N2CQ26I
+
+Liu et al.
+
+3233
+
+Reuters (2020c) WHO Says Has “No Mandate” to Invite Taiwan to Assembly Meeting. Reuters.
+Available at: https://www.reuters.com/article/idUSKBN22N29B
+Reynolds B and Seeger MW (2005) Crisis and emergency risk communication as an integrative
+model. Journal of Health Communication 10(1): 43–55.
+Roberts ME, Stewart BM, Tingley D, et al. (2014) Structural topic models for Open-Ended Survey
+responses. American Journal of Political Science 58(4): 1064–1082.
+Rufai SR and Bunce C (2020) World leaders’ usage of Twitter in response to the COVID-19 pandemic: a content analysis. Journal of Public Health 42(3): 510–516.
+Schifrin N (2020) Taiwan’s aggressive efforts are paying off in fight against COVID-19. PBS
+NewsHour, 1 April. Available at: https://www.pbs.org/newshour/show/taiwans-aggressiveefforts-are-paying-off-in-fight-against-covid-19
+Schofield A, Thompson L and Mimno D (2017) Quantifying the effects of text duplication on
+semantic models. In: Proceedings of the 2017 conference on empirical methods in natural
+language processing, Copenhagen , Denmark, 7–11 September, pp. 2737–2747. Association
+for Computational Linguistics. Available at: https://doi.org/10.18653/v1/D17-1290
+Sellnow TL and Seeger MW (2013) Theorizing Crisis Communication. Hoboken, NJ: John Wiley
+& Sons.
+Stella M, Restocchi V and De Deyne S (2020) #lockdown: network-enhanced emotional profiling
+in the time of Covid-19. Big Data and Cognitive Computing 4(2): 14.
+Su S-F and Han Y-Y (2020) How Taiwan, a non-WHO member, takes actions in response to
+COVID-19. Journal of Global Health 10(1): 010380.
+Taiwan News (2020) Huge “Taiwan can help” ads appear in New York’s Times Square. Taiwan
+News, 17 September. Available at: https://www.taiwannews.com.tw/en/news/4010940
+The New York Times (2020) Covid world map: tracking the global outbreak. The New York Times,
+30 April. Available at: https://www.nytimes.com/interactive/2020/world/coronavirus-maps.
+html#countries
+TIME (2017) Taiwan’s vice president on SARS, Global Health and China. TIME, 18 May.
+Available at: https://time.com/4783772/taiwan-health-who-wha-china/
+US Department of State (2018) U.S. relations with Taiwan. U.S. Department of State. Available
+at: https://www.state.gov/u-s-relations-with-taiwan/
+Wallach HM (2006) Topic modeling: beyond bag-of-words. In: Proceedings of the 23rd international conference on machine learning, Pittsburgh, PA, 25–29 June, pp. 977–984. New York:
+ACM. Available at: https://doi.org/10.1145/1143844.1143967
+Wallerstein I (1974) The modern world-system: capitalist agriculture and the origins of the
+European world-economy in the sixteenth century. The American Historical Review 80:
+1323–1324.
+Walter D and Ophir Y (2019) News frame analysis: an inductive mixed-method computational
+approach. Communication Methods and Measures 13(4): 248–266.
+Walter, D., Ophir, Y., & Jamieson, K. H. (2020). Russian Twitter accounts and the partisan polarization of vaccine discourse, 2015–2017. American Journal of Public Health, 110(5), 718–
+724. https://doi.org/ 10.2105/AJPH.2019.305564
+Wang TY (2000) “One China, one Taiwan”: an analysis of the democratic progressive party’s
+China policy. Journal of Asian and African Studies 35(1): 159–182.
+Weick KE (1988) Enacted sensemaking in crisis situations. Journal of Management Studies 25(4):
+305–317.
+Wonneberger A, Hellsten IR and Jacobs SH (2021) Hashtag activism and the configuration of
+counterpublics: Dutch animal welfare debates on Twitter. Information, Communication &
+Society 24(12): 1694–1711.
+
+3234
+
+new media & society 26(6)
+
+World Health Organization (WHO) (1946) Constitution of the World Health Organization (WHO).
+Global Health & Human Rights Database. Available at: https://www.globalhealthrights.org/
+instrument/constitution-of-the-world-health-organization-who/
+Young IM (1989) Polity and group difference: a critique of the ideal of universal citizenship.
+Ethics 99(2): 250–274.
+Young R, Tully M and Dalrymple KE (2018) #Engagement: use of Twitter chats to construct
+nominal participatory spaces during health crises. Information, Communication & Society
+21(4): 499–515.
+Zeitzoff T (2018) Does social media influence conflict? Evidence from the 2012 Gaza conflict.
+Journal of Conflict Resolution 62(1): 29–63.
+
+Author biographies
+Anita KC Liu, MA, is a PhD Candidate at the Department of Communication at the University at
+Buffalo, State University of New York, studying political and health communication.
+Yotam Ophir, PhD, is an Assistant Professor of Communication at the University at Buffalo, State
+University of New York, studying political and science communication, misinformation, extremism, and media effects.
+Dror Walter, PhD, is an Assistant Professor of communication at Georgia State University,
+studying political communication, extremism, and social networks.
+Itai Himelboim, PhD, is the Thomas C. Dowden Professor of Media Analytics and an
+Associate Professor of Advertising at the University of Georgia, studying political and global
+communication.
+Shu-An Tsai is a PhD Candidate in the Department of Political Science at the University at
+Buffalo, State University of New York, studying East Asian politics, American politics, and
+voting behavior.
+
+
