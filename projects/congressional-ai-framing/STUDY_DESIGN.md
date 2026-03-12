@@ -170,22 +170,30 @@ JSON array with confidence scores
 
 ## Files
 
+See `DATA_MANIFEST.md` for complete data documentation.
+
 ```
 projects/congressional-ai-framing/
-  STUDY_DESIGN.md          # This file
-  data/
-    raw/                   # Raw API responses
-    transcripts/           # Parsed transcripts
-    metadata.json          # Hearing metadata
-  prompts/
-    commdaaf_v0.1.md       # Initial prompt
-  outputs/
-    claude/
-    glm/
-    kimi/
-  analysis/
-    reliability.json
-    results.json
+├── STUDY_DESIGN.md              # This file
+├── DATA_MANIFEST.md             # Data locations and retrieval
+│
+├── data/
+│   ├── transcripts/             # 561 hearing transcripts (HTML)
+│   ├── metadata/                # Per-hearing metadata (JSON)
+│   ├── collection_summary.json  # Collection status
+│   └── pilot_batch_25.json      # Pilot sample for coding
+│
+├── prompts/
+│   └── commdaaf_v1.0.md         # Current coding prompt
+│
+├── scripts/
+│   ├── collect_hearings.py      # GovInfo API collection
+│   └── prepare_coding_batch.py  # Batch preparation
+│
+└── outputs/                     # Model coding outputs
+    ├── claude/
+    ├── glm/
+    └── kimi/
 ```
 
 ## API Notes
