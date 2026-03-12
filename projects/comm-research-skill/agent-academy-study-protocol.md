@@ -137,6 +137,36 @@ Create `STUDY_DESIGN.md` with:
 
 ## 3. Phase 2: Data Preparation
 
+### 3.0 API Search False Positive Filtering (NEW - March 2026)
+
+**The Problem:** API keyword searches return documents that MENTION a term, not documents ABOUT that term. In the Congressional AI Framing study, 64% of "artificial intelligence" search results were false positives (hearings that mentioned AI once but weren't about AI).
+
+**Solution: Relevance Scoring Before Coding**
+
+```python
+def calculate_relevance_score(text, topic_terms):
+    """Score document relevance by term density."""
+    text_lower = text.lower()
+    word_count = len(text.split())
+    
+    # Count topic term occurrences
+    term_count = sum(text_lower.count(term) for term in topic_terms)
+    
+    # Calculate density (terms per 1000 words)
+    density = (term_count / word_count) * 1000
+    
+    return density
+
+# Example for AI study
+ai_terms = ['artificial intelligence', 'machine learning', 'neural network', 
+            'deep learning', 'algorithm', 'ai system', 'chatgpt', 'llm']
+
+# Filter: density >= 5 OR 20+ strong term occurrences
+valid_docs = [d for d in docs if calculate_relevance_score(d, ai_terms) >= 5]
+```
+
+**Rule: For API-collected corpora, always run relevance filtering before coding. Report filter criteria and rejection rate.**
+
 ### 3.1 Load and Inspect Data
 
 **Always manually inspect a sample before proceeding.**
@@ -269,6 +299,25 @@ assert len(sample) == expected_n, f"Sample size mismatch"
 ---
 
 ## 4. Phase 3: Prompt Development
+
+### 4.0 Prompt Iteration is Mandatory (NEW - March 2026)
+
+**The Problem:** First prompts often have systematic biases invisible until reliability testing. In the Congressional AI Framing study, prompt v1 achieved κ = 0.206 (Fair); v1.1 achieved κ = 0.656 (Substantial) after fixing document-type bias.
+
+**Protocol:**
+1. **Pilot batch (N=5-10)** with 2+ models
+2. **Calculate preliminary κ** before full coding
+3. **If κ < 0.50:** Diagnose bias, revise prompt, re-pilot
+4. **If κ ≥ 0.50:** Proceed to full coding
+5. **Document all prompt versions** with rationale for changes
+
+**Common Prompt Biases to Check:**
+| Bias | Symptom | Fix |
+|------|---------|-----|
+| Document-type coding | One frame dominates (>60%) | "Code the MESSAGE about X, not document type" |
+| Procedural capture | Model codes metadata/structure | "Ignore headers, focus on substantive claims" |
+| First-mention bias | First frame mentioned always wins | "Consider entire document, not just opening" |
+| Valence-frame confounding | Frames correlate with sentiment | Add explicit valence coding separately |
 
 ### 4.1 Start with CommDAAF Template
 
@@ -485,6 +534,17 @@ def merge_model_outputs(claude_files, glm_files, kimi_files):
 ---
 
 ## 6. Phase 5: Reliability Assessment
+
+### 5.0 Two-Model Validation Acceptable (NEW - March 2026)
+
+When one model is unavailable (e.g., persistent rate limits, API outages):
+
+- **2-model validation with κ ≥ 0.60** is acceptable for 🟢 EXPLORATORY tier
+- **3-model validation preferred** for 🟡 PILOT and required for 🔴 PUBLICATION
+- **Document which model failed** and why (rate limits, content filtering, etc.)
+- **Do not fabricate third model results** — report actual models used
+
+Example: "GLM-4.7 excluded due to persistent 429 rate limits across all 8 batches. Two-model validation (Claude + Kimi) achieved κ = 0.656 (Substantial)."
 
 ### 6.1 Calculate Agreement
 
@@ -873,6 +933,7 @@ Synthesize critiques and address ALL major concerns before claiming publication-
 | Dataset contamination (Ukraine in Mahsa) | Visual inspection of coded posts | Split datasets, remove contaminated | **Always read sample posts** |
 | Wrong sample size | Post-merge count check | Recount and reconcile | Automated validation |
 | Duplicate posts | ID collision | Deduplicate by ID | Check uniqueness before sampling |
+| **API search false positives** (NEW) | 64% irrelevant documents | Relevance/density filtering | **Score relevance before coding** |
 
 ### Prompt Failures
 
@@ -881,13 +942,17 @@ Synthesize critiques and address ALL major concerns before claiming publication-
 | Oversimplified prompt | Low inter-model agreement | Develop full CommDAAF prompt | **Start with template** |
 | Missing language anchors | Persian posts miscoded | Add Persian/Arabic examples | Include anchors for all languages |
 | Ambiguous frame boundaries | HUMANITARIAN/INJUSTICE confusion | Add decision hierarchy | Anticipate overlaps |
+| **Document-type bias** (NEW) | 80%+ coded as one frame | "Code MESSAGE, not document type" | **Pilot with κ check, iterate prompt** |
+| **Procedural capture** (NEW) | Model codes headers/structure | "Focus on substantive claims" | Explicit instruction to ignore procedural text |
 
 ### Technical Failures
 
 | Failure | How We Caught It | Solution | Prevention |
 |---------|------------------|----------|------------|
 | Kimi batch truncation | Missing posts in output | Reduce to 25-post batches | **Always use 25 for Kimi** |
+| **Kimi context overflow** (NEW) | Batch fails silently or truncates | Sub-batch into 5-10 docs | Monitor token counts for full docs |
 | GLM stalling | Process hangs | Smaller batches, retry | Monitor progress, timeout |
+| **GLM persistent rate limits** (NEW) | 429 errors across all batches | Drop model, use 2-model validation | Check quota before starting |
 | API timeout | Exception | Exponential backoff retry | Build retry logic |
 | Tool history corruption (`unexpected tool_use_id`) | API error mid-batch | Reset session, re-run batch | **Isolated sessions per batch** |
 | Session context overflow | Slow responses, truncation | Split into sub-sessions | Max 3 batches per session |
@@ -906,9 +971,10 @@ Synthesize critiques and address ALL major concerns before claiming publication-
 
 ### Claude Opus 4.5
 - **Strengths**: Most reliable for complex coding, follows instructions precisely
-- **Weaknesses**: Cost
-- **Batch size**: 50-100 posts
+- **Weaknesses**: Cost, susceptible to document-type bias (see below)
+- **Batch size**: 50-100 posts (25 for full documents)
 - **Notes**: Tends to be conservative; may under-code emotional frames
+- **⚠️ Document-Type Bias**: When coding full documents (not short posts), Claude may code the DOCUMENT TYPE instead of the CONTENT framing. Example: coded 80.7% of congressional hearings as GOVERNANCE because they WERE governance documents. Fix with explicit prompt: "Code the dominant MESSAGE about [topic], not the document type or procedural nature."
 
 ### GLM-4.7
 - **Access**: `zai-coding-plan/glm-4.7` via OpenCode OR `zai/glm-4.7` direct (pay-per-token)
@@ -920,9 +986,10 @@ Synthesize critiques and address ALL major concerns before claiming publication-
 ### Kimi K2.5
 - **Access**: `kimi-coding/k2p5` via OpenCode
 - **Strengths**: Fast, good for high-volume
-- **Weaknesses**: **Truncates JSON output on batches >30**
-- **Batch size**: **25 posts (strict limit)**
+- **Weaknesses**: **Truncates JSON output on batches >30**, 262K token context limit
+- **Batch size**: **25 posts (strict limit)**, 5-10 for full documents
 - **Notes**: Slightly over-codes HUMANITARIAN in our study
+- **⚠️ Context Limits**: Full document coding (transcripts, reports) can exceed 262K tokens. Sub-batch into 5-10 documents per call. If batch fails, split further.
 
 ### OpenCode Requirements
 - Both GLM and Kimi via OpenCode **require PTY mode**
@@ -967,6 +1034,39 @@ Synthesize critiques and address ALL major concerns before claiming publication-
    ```
 
 **Rule: Never run >3 annotation batches in a single session. Start fresh for each batch when possible.**
+
+---
+
+## 10.5 Full Document Coding (NEW - March 2026)
+
+Coding full documents (congressional hearings, reports, transcripts) differs from social media posts:
+
+### Challenges
+| Issue | Cause | Solution |
+|-------|-------|----------|
+| Context limits exceeded | Documents 50-200 pages | Sub-batch by document, not by post count |
+| Document-type bias | Model codes structure, not content | Explicit prompt instruction (see 4.0) |
+| Multi-speaker confusion | Multiple viewpoints in one doc | Code dominant frame, note heterogeneity |
+| Procedural noise | Headers, procedural text | "Focus on substantive testimony, ignore procedural text" |
+
+### Recommended Batch Sizes for Full Documents
+| Model | Max Documents per Batch | Notes |
+|-------|------------------------|-------|
+| Claude | 10-15 | Depends on document length |
+| GLM | 5-10 | More conservative due to rate limits |
+| Kimi | 5-10 | Context limit (262K tokens) is binding |
+
+### Full Document Prompt Additions
+
+Add to your coding prompt:
+```
+DOCUMENT CODING INSTRUCTIONS:
+- This is a [document type, e.g., "congressional hearing transcript"]
+- Code the dominant MESSAGE or FRAMING of [topic], not the document type
+- A governance hearing can contain SOVEREIGNTY framing about [topic]
+- Focus on substantive claims, not procedural language
+- If multiple frames present, code the PRIMARY (most emphasized) frame
+```
 
 ---
 

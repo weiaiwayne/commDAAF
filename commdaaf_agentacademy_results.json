@@ -2,10 +2,88 @@
   "name": "AgentAcademy",
   "description": "Where AI agents learn to be better researchers\u2014and improve the tools along the way",
   "status": "active",
-  "last_run": "2026-03-06T01:30:00Z",
-  "next_run": "2026-03-09T05:00:00Z",
+  "last_run": "2026-03-12T03:30:00Z",
+  "next_run": "2026-03-16T05:00:00Z",
   "endpoint": "vineanalyst.com/commdaaf/agentacademy",
   "runs": [
+    {
+      "id": "congressional-ai-framing-2026-03",
+      "timestamp": "2026-03-12T03:30:00Z",
+      "title": "🏛️ How Congress Talks About AI: A Multi-Model Framing Analysis",
+      "method": "Multi-Model Content Analysis (Claude + Kimi)",
+      "type": "study",
+      "analyst_model": "Kimi K2.5 + Claude Opus 4.5",
+      "dataset": {
+        "hearings": 192,
+        "transcripts_mb": 117,
+        "congress_range": "110th-119th (2007-2026)",
+        "source": "GovInfo API",
+        "models": ["Kimi K2.5", "Claude Opus 4.5"]
+      },
+      "summary": "Systematic framing analysis of 192 U.S. congressional hearings on AI. Sovereignty (22%) and Innovation (21%) dominate discourse—Congress frames AI as a competition to win, not a technology to govern. 90% of hearings occurred post-ChatGPT (118th-119th Congress). Senate emphasizes national security (+55% vs House), while Rights frame only emerged in 2023+.",
+      "key_finding": "AI is framed primarily as geopolitical competition, not as risk to manage or rights to protect",
+      "issues_found": 0,
+      "findings": [
+        {
+          "type": "success",
+          "text": "SOVEREIGNTY DOMINATES: 22.1% of hearings frame AI as China competition/national security"
+        },
+        {
+          "type": "success",
+          "text": "INNOVATION #2: 20.9% emphasize economic opportunity—'beat China' narrative combines both"
+        },
+        {
+          "type": "warning",
+          "text": "RIGHTS LATE ARRIVAL: Civil liberties frame only appeared in 118th Congress (2023+)"
+        },
+        {
+          "type": "info",
+          "text": "TEMPORAL: 90% of hearings from 118th-119th Congress—Congress is reactive to ChatGPT"
+        },
+        {
+          "type": "info",
+          "text": "CHAMBER SPLIT: Senate +55% sovereignty; House +53% innovation"
+        },
+        {
+          "type": "success",
+          "text": "RELIABILITY: κ = 0.656 (Substantial) after prompt refinement from κ = 0.206"
+        }
+      ],
+      "improvements": [
+        "Methodological: Prompt engineering critical—v1→v2 improved κ from 0.206 to 0.656",
+        "Methodological: Document-type bias detection (Claude v1 coded 80.7% GOVERNANCE)",
+        "Substantive: False positive filtering protocol for API search results",
+        "Substantive: AI density scoring for hearing relevance"
+      ],
+      "plain_english": {
+        "title": "The Study in Plain English",
+        "paragraphs": [
+          "We analyzed how members of Congress talk about AI by reading 192 congressional hearings. We used two AI models to independently code each hearing's main message, then measured how much they agreed.",
+          "The biggest finding: Congress talks about AI mostly as a race to beat China (22%) or an economic opportunity to seize (21%). Concerns about AI harming people, taking jobs, or violating privacy? Those are afterthoughts.",
+          "The timing is striking: 90% of these hearings happened after ChatGPT launched in late 2022. Congress didn't care much about AI until the public did.",
+          "There's also a split between chambers. The Senate focuses more on national security ('China is eating our lunch'). The House focuses more on innovation ('American leadership in AI'). Both frames prioritize competition over protection.",
+          "Perhaps most concerning: concerns about civil rights (privacy, discrimination, surveillance) only started appearing in 2023. By then, the 'beat China' narrative was already dominant."
+        ]
+      },
+      "frame_distribution": [
+        {"frame": "SOVEREIGNTY", "percentage": 22.1},
+        {"frame": "INNOVATION", "percentage": 20.9},
+        {"frame": "GOVERNANCE", "percentage": 19.2},
+        {"frame": "RISK_HARM", "percentage": 10.5},
+        {"frame": "RISK_SAFETY", "percentage": 9.9},
+        {"frame": "RIGHTS", "percentage": 9.3},
+        {"frame": "RISK_ECONOMIC", "percentage": 5.2},
+        {"frame": "TECHNICAL", "percentage": 2.9}
+      ],
+      "github_links": {
+        "academic_paper_pdf": "/static/vineanalyst/commdaaf/congressional-ai-framing/ACADEMIC_PAPER.pdf",
+        "academic_paper_md": "/static/vineanalyst/commdaaf/congressional-ai-framing/ACADEMIC_PAPER.md",
+        "white_paper_pdf": "/static/vineanalyst/commdaaf/congressional-ai-framing/WHITE_PAPER.pdf",
+        "white_paper_md": "/static/vineanalyst/commdaaf/congressional-ai-framing/WHITE_PAPER.md",
+        "presentation_pdf": "/static/vineanalyst/commdaaf/congressional-ai-framing/PRESENTATION.pdf",
+        "methodology": "/static/vineanalyst/commdaaf/congressional-ai-framing/STUDY_METHODOLOGY.md"
+      }
+    },
     {
       "id": "wikipedia-epistemic-2026-03",
       "timestamp": "2026-03-06T01:30:00Z",
