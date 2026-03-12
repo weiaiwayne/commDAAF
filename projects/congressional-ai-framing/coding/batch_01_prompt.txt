@@ -1,0 +1,305 @@
+You are coding congressional hearing testimony for a framing analysis study.
+
+
+## Frame Codes
+
+| Code | Frame | Definition | Key Indicators |
+|------|-------|------------|----------------|
+| ECO | Economic Opportunity | AI as driver of growth, competitiveness, jobs | innovation, leadership, competitiveness, economic growth, jobs creation, productivity |
+| SEC | National Security | AI as defense/intelligence asset or threat | China, adversaries, defense, military, intelligence, strategic competition |
+| EXI | Existential Risk | AI as potential civilizational threat | alignment, extinction, superintelligence, control problem, catastrophic |
+| REG | Regulation/Governance | AI requiring oversight and rules | oversight, accountability, transparency, regulation, guardrails, legislation |
+| CIV | Civil Rights | AI and bias, privacy, discrimination | bias, discrimination, fairness, privacy, civil liberties, surveillance |
+| LAB | Labor/Automation | AI impact on workforce | displacement, automation, workforce, reskilling, jobs loss, workers |
+| HEA | Healthcare | AI in medical applications | diagnosis, treatment, patients, healthcare, medical, clinical |
+| CON | Consumer Protection | AI risks to consumers | scams, fraud, deepfakes, misinformation, consumer harm |
+
+## Valence Codes
+- POS: Positive framing (opportunity, benefit, progress)
+- NEG: Negative framing (risk, threat, harm, concern)
+- NEU: Neutral/balanced framing (descriptive, both sides)
+
+## Confidence Levels
+- high: Clear frame, obvious indicators
+- medium: Frame present but less explicit
+- low: Ambiguous, could be multiple frames
+
+
+## Instructions
+1. For each segment, identify the PRIMARY frame (most dominant)
+2. List any SECONDARY frames present (0-2 max)
+3. Assign a VALENCE (POS/NEG/NEU)
+4. Rate your CONFIDENCE (high/medium/low)
+5. Add brief NOTES explaining your coding decision
+
+## Segments to Code
+
+
+---
+ID: 1
+Speaker: Mr. Crenshaw
+Date: 2022-09-29
+Hearing: Trustworthy Ai: Managing the Risks of Artificial Intelligence
+
+TEXT:
+There's definitely work to be done on the education front. We need to prioritize STEM education to ensure that we have the fundamental knowledge base for students across the country to get into this field because we are going to need more coders and ethicists in this field who actually can assist with our leadership. The other thing I think would be important to note, too, is that we also need to make sure that we have talent in this country and retain talent and still attract talent. And one of the things that we found out through our AI Commission is that we, you know are going to lose the talent race if we don't deal with our immigration issues in this country as well and make sure that we can retain talent after we've educated them here in the United States, make sure that we can keep our talent to ensure that we have people who know how to make ethical AI work.
+---
+
+---
+ID: 2
+Speaker: Mr. Brockman
+Date: 2018-06-26
+Hearing: Artificial Intelligence: With Great Power Comes Great Responsibility
+
+TEXT:
+All right. So, you know, for--OpenAI's recommendation is really about starting with measurement, right, to really start to understand what's happening in the field. I think it's really about, for example, the study that we did showing the 300,000 times increase. We need more of that. We need to understand where things are going, where we are. I think the government is uniquely positioned to set some of the goalposts as well, and we've been pretty encouraged by seeing some of the work that is happening at GAO and also DIUx has had some success with us. So we think it's really about starting a low touch way for the dialogue to start happening because I think right now the dialogue is not happening to the extent that it should.
+---
+
+---
+ID: 3
+Speaker: Ms. Graves
+Date: 2008-01-29
+Hearing: The Use of Artificial Intelligence to Improve the U.S. Department of Veterans Af
+
+TEXT:
+Thank you, Mr. Chairman. Moving to the VETSNET environment, off of our antiquated and outdated payment system has been a paramount concern to the Veterans Benefits Administration. The actual software development component of VETSNET began in 1996. And it has taken us a significant amount of time to make these accomplishments. Over the past 2 years, Under Secretary Cooper instituted a variety of changes to include restructuring the overall management of the VETSNET project. We believe that the progress that we have made demonstrates that we have learned some very significant lessons in how to better manage the business process of IT development. We hope to bring to bear these lessons learned as we move forward with our next initiative, which is that next step in bringing a paperless environment to the Veterans Benefits Administration.
+---
+
+---
+ID: 4
+Speaker: Ms. Whittaker
+Date: 2019-06-26
+Hearing: Artificial Intelligence: Societal and Ethical Implications
+
+TEXT:
+Yes, I will use the same example for both because I think this gives a sense of the double-edged sword of this technology. Google's DeepMind research lab applied AI technology to reduce the energy consumption of Google's data centers. And by doing this, they claim to have reduced Google's data center energy bill by 40%. They did this by training AI on data collected from these data centers, and using it to optimizing things like when a cooling fan was turned on, and otherwise much more precisely calibrate energy use to ensure maximum efficiency. So here we have an example of AI being used in ways that can reduce energy consumption, and potentially address climate issues. But we've also seen recent research that exposes the massive energy cost of creating AI systems, specifically the vast computational infrastructure needed to train AI models. A recent study showed that the amount of carbon produced in the process of training one natural language processing AI model was the same as the amount produced by five cars over their lifetimes. So even if AI, when it's applied, can help with energy consumption, we're not currently accounting for the vast consumption required to produce and maintain AI technologies.
+---
+
+---
+ID: 5
+Speaker: Dr. Tourassi
+Date: 2019-06-26
+Hearing: Artificial Intelligence: Societal and Ethical Implications
+
+TEXT:
+From the scientific perspective, it has been a very interesting and fruitful collaboration. Speaking as a scientist who spent a couple of decades in clinical academia before I moved to the Department of Energy, I would say that there is a cultural shift between the two communities. The clinical community will always be focused on translational value and short-term gains when the basic scientific community will be focused on not short-term solutions but disruptive solutions with sustainable value. In that respect, these are two complementary forces, and I applaud the synergy between basic sciences and applied sciences. It is a relay. Without an important application, we cannot drive meaningfully basic science and vice versa.
+---
+
+---
+ID: 6
+Speaker: Dr. Porter
+Date: 2018-12-11
+Hearing: [H.A.S.C. No. 115-122] Department of Defense's Artificial Intelligence Structure
+
+TEXT:
+So I will start, and then I will, because I think this is a joint answer. I think you highlighted the problem we are very much interested, the two of us, in trying to address. If we do nothing else, we are going to still have this problem, because even if DARPA gets us ahead of the game and the private sector takes off with those ideas and goes their own way and creates these great products, we have got to have a way to more rapidly transition that innovation back in, learn from it, and continue the cycle. And both Dana and I have talked multiple times about the speed challenge, and this is why we are really trying very hard to figure out, how do we coordinate that cycle, so that spin cycle, if you will, so that we get multiple spins very quickly, rather than three, four, five multiple-year cycles just to insert something. It is not solved, but I think what you are seeing here is a real serious attempt by the DOD to say, let's line this up so that we can improve this. Would you not agree?
+---
+
+---
+ID: 7
+Speaker: Dr. Persons
+Date: 2018-06-26
+Hearing: Artificial Intelligence: With Great Power Comes Great Responsibility
+
+TEXT:
+Sure. Thank you for the question. I think one of the ways--GAO has done a good deal of work on this issue, but it's just protection of the electrical grid in the cybersecurity dimension. So as one of our scenarios or profiles that we did in this report, what our experts and what folks are saying, and again based on the leadership of this Committee and the importance of cyber is that it's a--without which nothing-- AI is going to be a part of cyber moving forward, and so protection of the grid in the cyber dimension is there. Also, I think, as the Chairman mentioned earlier, the word optimization, so how we optimize things and how algorithms might be able to compute and find optimums faster and better than humans is an opportunity for grid management and production. Thank you.
+---
+
+---
+ID: 8
+Speaker: Chairwoman Comstock
+Date: 2018-06-26
+Hearing: Artificial Intelligence: With Great Power Comes Great Responsibility
+
+TEXT:
+One of the reasons I've been looking forward to today's hearing is to get a better sense from our witnesses about the nuances of the term artificial intelligence and implications for our society in a future where AI is ubiquitous. Of course, one might say AI is already pervasive. Since the term was first coined in the 1950s, we have made huge advances in the field of artificial narrow intelligence, which has been applied to many familiar everyday items such as the technology underlying Siri and Alexa. Called ANI for short, such systems are designed to conduct specific and usually limited tasks. For example, a machine that excels at playing poker wouldn't be able to parallel park a car. Conversely, AGI, or artificial general intelligence, refers to intelligent behavior across a range of cognitive tasks. If you enjoy science fiction movies, this definition may conjure up scenes from any number of classics such as Blade Runner, The Matrix, or The Terminator. For many individuals, the term AGI invokes images of robots or machines with human intelligence. As it turns out, we are decades away from realizing such AGI systems. Nevertheless, discussions about AGI and a future in which AGI is commonplace lead to some interesting questions worthy of analysis. For example, Elon Musk has been quoted as saying that AI, quote, ``is a fundamental risk to the existence of human civilization'' and poses ``vastly more risk'' than North Korea. Does that mean that AGI may evolve to a point one day when we will lose control over machines of our own creation? As farfetched as that sounds, minds and scientists are certainly discussing such questions. For the short term, however, my constituents are concerned about less existential issues that usually accompany new and evolving technologies, topics such as cybersecurity, protecting our privacy, and impacts to our nation's economy and to jobs. I am an original cosponsor of a bill introduced earlier this year titled the AI JOBS Act of 2018 to
+---
+
+---
+ID: 9
+Speaker: Mr. Sherman
+Date: 2022-05-18
+Hearing: [H.A.S.C. No. 117-93]  Department of Defense Information Technology, Digital Dev
+
+TEXT:
+Okay. We are hot again. Chairman Langevin, I would first like to thank you for your past 22 years of public service to our Nation. Your leadership has positively impacted all of the Department of Defense from the civilian workforce to our women and men in uniform. I appear before you today as the DOD CIO and the Acting CDAO. With your support, we have made strong progress since I testified before you last June, and I look forward to updating the subcommittee on our achievements and the recent establishment of the CDAO. Moreover, as we discuss investments today, I want to assure you that both the CIO and CDAO budgets are fully informed by the President's vision, policies, and strategies, including the Interim National Security Strategic Guidance and the Department's National Defense Strategy. The Department has made significant strides to unlock the power of its data, harness AI, and provide digital solutions to the joint force. Going forward, there is a need for stronger alignment to accelerate decision advantage and generate advanced capabilities for our warfighters as we face China as a pacing challenge, an increasingly aggressive Russia, and as our adversaries adapt to technology innovation. In December 2021, Deputy Secretary of Defense Hicks established a CDAO to serve as the Department's senior official responsible for strengthening and integrating data, AI, and digital solutions across the defense enterprise. Integrating the standalone data and AI organizations into the CDAO is a multi-step process that began on the 1st of February and will reach full operating capability on the 1st of June. While the DOD CIO will continue to lead core infrastructure functions, including cybersecurity, cloud, transport, and networks, the CDAO will help set requirements and provide strategy, policy, and governance of data, analytics, and AI. This office will provide enterprise-level infrastructure and services that enable efforts to advance adoption of these critical areas. The
+---
+
+---
+ID: 10
+Speaker: Mr. Rogers
+Date: 2021-03-12
+Hearing: [H.A.S.C. No. 117-7] Final Recommendation of the National Security Commission on
+
+TEXT:
+Well, I share Mr. Larsen and Mr. Lynch's observation. This Commission did some great work. This report is not just going to sit on a shelf. We're going to do some stuff here that's really meaningful. So I want to commend all of you and thank you for your time in putting this together because it's going to make a difference. Commissioner Clyburn, I wanted to follow up on Ranking Members Stefanik's questions about how we can get folks into these jobs earlier than the 7-year timeline it would take to graduate our first class. Are there some scholarship opportunities that we can provide people now to go to an existing university? We have got some fine existing universities in this country right now that can get some people trained earlier while we're standing up the Digital Service Academy and getting the first few people through there.
+---
+
+---
+ID: 11
+Speaker: Mr. Everett
+Date: 2018-03-07
+Hearing: Game Changers: Artificial Intelligence Part II, Artificial Intelligence and the 
+
+TEXT:
+--come up with a particular answer, and so the objective of the research is to say tell me why you think this is a certain kind of bird, and it will tell you, well, I think it's got a red crest and a black stripe on the wing, and then it will show you that it is actually looking at the right part of the image to start to build trust. Another aspect of this is assuring autonomous systems. So we have an autonomous ship called Sea Hunter, and to make it-- to ensure that it would operate safely within shipping lanes, for example, it has to pass the commercial collision ----
+---
+
+---
+ID: 12
+Speaker: Ms. Broussard
+Date: 2021-10-13
+Hearing: Beyond I, Robot: Ethics, Artificial Intelligence, and the Digital Age
+
+TEXT:
+Thank you. Chairman Foster, members of the task force, thank you for hosting this important hearing and for giving me the opportunity to testify. My name is Meredith Broussard. I am a professor at NYU, the research director at the NYU Alliance for Public Interest Technology, and author of the book, ``Artificial Unintelligence: How Computers Misunderstand the World.'' In my written testimony, I explore a practical vision for recognizing AI, and in my short time, I'll talk about AI generally as well as discrimination algorithmic auditing and regulatory sandboxes. The first thing I want to say is that AI is not what we see in Hollywood. There is no robot apocalypse coming. There is no singularity. We do not need to prepare for artificial general intelligence because these things are imaginary. What is real is that AI is math, very complicated and beautiful math. Machine learning, the most popular kind of AI, is a poorly- chosen term because it suggests that there is a brain or sentience inside the computer. There is not. When we do machine learning, we take a large set of historical data and instruct the computer to create a model based on patterns and values in that dataset. The model can then be used to predict or make decisions based on past data. The more data you put in, the more precise your predictions will become. However, all historical datasets have bias. For example, if you feed in data on who has gotten a mortgage in the past in the United States and ask the computer to make similar decisions in the future, you will get an AI that offers mortgages to more White people than people of color. AI needs to be regulated because it has all of the flaws of any human process, plus some. My own regulatory vision begins with frameworks, high-level governance models that guide a company's use of AI and data. A company can make sure its frameworks are implemented by performing regular algorithmic audits, ideally using a regulatory sandbox. The process could be monitored
+---
+
+---
+ID: 13
+Speaker: Dr. Schmidt
+Date: 2020-09-17
+Hearing: [H.A.S.C. No. 116-90]  Interim Review of the National Security Commission on Art
+
+TEXT:
+So, my personal opinion--people can disagree over this--is that we are not over-invested in anything. It is clear that we are under-invested in the underlying infrastructure that is needed. There is a proposal that is, I think, being discussed in the Congress called the National AI Research Resource. And the idea here, it is a good idea, it is basically to try to create an infrastructure that allows all of the creative people in the United States access to the systems where they can do the research. I can tell you that, if you work in a very large company, you have that. But what about all of the 10-person and 20-person companies, where they don't have the money, and the scale, and the time to get the kind of data, and data analysis, and computing platforms? What about the researchers, the three people in, you know, a little boat somewhere in their university, who don't have access but they have a brilliant idea? One of the hallmarks of American creativity has been that the greatest things come from the weirdest corners. We want to make sure that those weird corners in the United States of sort of clever people, who are staying up all night drinking Diet Coke and eating hamburgers, whatever the stereotype you have is, they have the tools that they need to do global solutions very quickly.
+---
+
+---
+ID: 14
+Speaker: Ms. Graves
+Date: 2008-01-29
+Hearing: The Use of Artificial Intelligence to Improve the U.S. Department of Veterans Af
+
+TEXT:
+Thank you. We have just received a very preliminary report from IBM. But we are hopeful that the IBM group will be able to point us in a direction of where we may be able to improve the process. I certainly expect that we will hear from IBM some of the things that we have heard today on the panel. That our reliance on a paper-based system is detrimental to the overall efficiency of the process. I am speculating on that. But certainly we would expect to derive great benefit from IBM's observations as they have gone and looked at our claims process.
+---
+
+---
+ID: 15
+Speaker: Mr. Hall
+Date: 2008-01-29
+Hearing: The Use of Artificial Intelligence to Improve the U.S. Department of Veterans Af
+
+TEXT:
+I would guess that maybe we were talking about the 80-20 or 90-10. And this might be in the 10 or the 20. In other words, it is the more dramatic instances of evident disability. Like I have had a couple that my office has dealt with like the sailor with the two ships blown out from under him for instance. If one had 80 or 90 percent of the cases being processed with the computerized, automated system primarily, and then have the ones that need special care being diverted to human resources, you would hope that would solve the problem. I am just curious it would seem that an automated registry, a record, right from the word go, would eliminate the many times they were asked to resubmit, the many times they were told the record couldn't be found, that there was no ``this or that'' form or medical report. So let us all hope that we are after the holy grail here. I guess my last question to either or both of you is are the systems that you already have in place and that you are--that the VA is developing, going to be, or are the people who have put those in place going to be, open to changing them or adding things like some of the previous panelists talked about?
+---
+
+---
+ID: 16
+Speaker: Mr. Kurose
+Date: 2018-03-07
+Hearing: Game Changers: Artificial Intelligence Part II, Artificial Intelligence and the 
+
+TEXT:
+Well, thank you for your question and the interest here. Actually, I want to do a short promo if I might for National Academies study on information technology and the U.S. workforce that came out just late last year and was funded by the National Science Foundation. And it was actually written both by economists. The committee that chaired this was an economist Erik Brynjolfsson from MIT and the machine-learning professor from Carnegie Mellon Tom Mitchell, and what I found very interesting about this, to answer your question, is that they talk about the broad application of IT technology and AI technology specifically across the whole U.S. workforce. So it's not so much a question of which jobs will be lost, which jobs will be created but really how AI will transform work across broad, broad swatches of the U.S. workforce and again not just even in automation in terms of robots replacing jobs but also AI's software helping doctors and lawyers and high- cognitive-skilled jobs. And so I would recommend this to you and to everybody, just very insightful report.
+---
+
+---
+ID: 17
+Speaker: Dr. Porter
+Date: 2018-12-11
+Hearing: [H.A.S.C. No. 115-122] Department of Defense's Artificial Intelligence Structure
+
+TEXT:
+Sure. I think you are highlighting an extremely important point. I think there are specific technical approaches that we are going to be working. And that example is a good one, because we are not going to get it all right, and it is going to be iterative, and DARPA, in fact, is also looking at this from their perspective. But I would want to emphasize the broader point you are making. I think we have to be vigilant and aware of this problem. I actually spent time at In-Q-Tel and I have spent time in the intel community. And I know this committee was briefed, I think back in June, about the Thousand Talents Program that China has, and I know you guys were told at that time exactly your point: They have a goal of facilitating both legal and illicit transfer of U.S. technology, intellectual property, and know-how, and we have to be cognizant of that in the community. So across our research domain and spectrum we are thinking about that. It isn't just about protecting against hacking, although that is certainly a big part of it, it is all of those ways that they have to try to capture that intellectual property, which I think is what you were alluding to.
+---
+
+---
+ID: 18
+Speaker: Mr. Deasy
+Date: 2018-12-11
+Hearing: [H.A.S.C. No. 115-122] Department of Defense's Artificial Intelligence Structure
+
+TEXT:
+Thank you, sir. I will start with that. So I mentioned earlier the cloud. If you kind of step back for a second and say, what has happened that has allowed AI to suddenly be on the forefront of all conversations? And I would argue there is the data science behind this, and I would say we have entered an era now where there is unlimited compute power. AI needs a massive amount of computer power, a massive amount of storage, and, of course, you need the algorithms behind it. The reason why I have been so vocal and energized about wanting to get to an enterprise cloud capability is I want to provide the Department of Defense with a way to handle that unlimited compute capacity, unlimited storage, on demand, as needed, with high integrity. And this is why I have been such a strong advocate about pushing the need for an enterprise cloud solution, because the enterprise cloud is going to become the foundation for which all the data and all that compute power will reside on top of and those algorithms will use. And understand that when I talk about cloud, I am not talking about a centralized, single repository. I am talking about a world where we need to work in a decentralized world. If you are out at the warfighter, tactical edge, and we need to be able to work in what I will call a compromised, degraded mode. So it is clouds that can handle the edge, all the way that clouds can handle the central.
+---
+
+---
+ID: 19
+Speaker: Mr. Womack
+Date: 2020-09-10
+Hearing: Machines, Artificial Intelligence, and the Workforce: Recovering and Readying Ou
+
+TEXT:
+You bet. Dr. Acemoglu, am I even close on the name? OK. Good. Thanks for the thumbs up. And Mr. Sires reiterated the point you made--I think it was you that made the point early on in your testimony--that China had 11 times as many people in the workforce, but they were only two times as productive. If the American worker has proven to be the most productive worker, I guess, on the planet says a lot about our ability and about our capacity. One of my concerns has been is that the pace of the private sector in virtually every area is a lot faster than our education system seems to be trying to deliver. Is that a fair statement?
+---
+
+---
+ID: 20
+Speaker: Mr. Cooper
+Date: 2021-10-13
+Hearing: Beyond I, Robot: Ethics, Artificial Intelligence, and the Digital Age
+
+TEXT:
+Sure. Thank you very much. I think it is important to have flexibility in a variety of ways of achieving a desired outcome for a number of reasons, including that not all systems are going to be used for the same purposes. The algorithm and the data that is used to determine what shows our kids watch or what videos our kids watch online is one form of algorithm and one use of AI. But there is also database management, and customer relations management tools, and farmers who use AI in order to improve crop yield, and one set of regulations across-the-board isn't going to be able to be flexible enough to address the range of different use cases for AI. Mr. Gonzalez of Ohio. Yes, thank you. And I also think it is almost always the case that the higher the regulatory burden, the more you entrench incumbents, and the less innovation you have at the startup level as the regulatory burden is just too high to even contemplate a startup. So with that, I thank the witnesses, and I yield back.
+---
+
+---
+ID: 21
+Speaker: Ms. Graves
+Date: 2008-01-29
+Hearing: The Use of Artificial Intelligence to Improve the U.S. Department of Veterans Af
+
+TEXT:
+The current VONAPP process that we have is an online application. The veteran can fill in the application, by typing in their information in the application. They can either email that document, that application into us, or mail it in hard copy. In either case, we accept the application. We must also go out and get a physical signature from the veteran. Regardless of whether they have submitted it online, we must have the signature. And also in its current form, the information that we receive on the veteran's application is re-keyed into the claims processing system. The pilot that we are working with our IT partners on will take the next step, and hopefully begin to utilize fillable forms, computable data, and also explore our ability to accept an electronic signature as we move forward with the appropriate business process that will allow us to accept that online signature.
+---
+
+---
+ID: 22
+Speaker: Mr. Moore
+Date: 2021-03-12
+Hearing: [H.A.S.C. No. 117-7] Final Recommendation of the National Security Commission on
+
+TEXT:
+Thank you, Chairman. I am encouraged by Commissioner Clyburn's focus on retention. It reflects many of my concerns about a greater retention issue that we have across sort of all branches of military among our Active Duty labor force. And, admittedly, while I'm new to the committee and new to my time in Congress--so I'm early in my tenure--some of that is anecdotal, as I speak with--as I speak with fighter pilots in the OPSTEMPO that the incentives to go to the private sector are great and there's--it's growing in that regard. And I have--I have big concerns there and I hope to use my time in this committee to address that. And so with that same thought process, I want to make sure that we're not going down the same path, that maybe as we talk about the potential of an academy, which, with bipartisan support, is something that I could very well be excited about, you know, is 5 years enough, right. This concept of, you know, just putting a time limit on what you're expected to do, is that enough, or do we--are we going to see some of the same issues as soon as that 5-year timeline kind of hits there's--because there's so much need in the private sector right now with AI and cybersecurity. Are we going to see that same retention or attrition issues there? So I'll direct my question to Commissioner Clyburn. Anybody, any of you are welcome to comment. Thank you.
+---
+
+---
+ID: 23
+Speaker: Mr. Buchanan
+Date: 2018-04-18
+Hearing: Game Changers: Artificial Intelligence Part III, Artificial Intelligence and Pub
+
+TEXT:
+I'd echo Ms. Lyons' points and Mr. Clark's points. I would make three other points here. The first is that, not only is there a risk of bias, but there's a risk--sometimes machine learning is said to be money laundering for bias in that it takes a system that is something that's dirty and outputs it in this veneer of impartiality that comes from the computer. And we don't interrogate that system as much as we should. It's a major risk, I think, in this area but in many areas. Secondly, I think you posed the question somewhat of a hypothetical. Mr. Clark is a measurer here, but I would encourage you and Mr. Clark to investigate how much the systems are already in place. I think ProPublica did an excellent bit of reporting on bias in sentencing in the criminal justice system already in place today. And that would certainly deserve more attention, in my view. And the third is that we should make sure that the inputs to the system are transparent and the system itself is transparent. And one of my concerns, speaking generally here, is that the systems used for sentencing now and in the future often are held in a proprietary fashion. So it's very hard to interrogate them and understand how they how work. And, of course, hard in general to understand the outputs of such a system. And I think while that causes me concern in general, it should cause extreme concern in this case if we're sentencing the people on the basis of proprietary closed systems that we do not fully understand in public view.
+---
+
+---
+ID: 24
+Speaker: Mr. LaTurner
+Date: 2022-09-29
+Hearing: Trustworthy Ai: Managing the Risks of Artificial Intelligence
+
+TEXT:
+Thank you, Ms. Singh. Dr. Isbell, you state in your testimony that there are many occasions where tech workers cannot be certain how AI algorithms reach the correct answer, and these algorithms are known as, quote, black-box models. If for any reason these types of algorithms reach an incorrect or biased outcome like the ones you describe in your testimony, it can be nearly impossible to diagnose. If we want to solve the problem of black-box models by making an algorithm's data set more transparent, then what countermeasures can we take to bolster AI security from hackers? To your knowledge, are there any examples of AI developers that have already--that are already addressing this issue?
+---
+
+---
+ID: 25
+Speaker: Ms. Clyburn
+Date: 2020-09-17
+Hearing: [H.A.S.C. No. 116-90]  Interim Review of the National Security Commission on Art
+
+TEXT:
+No objection. Thank you very much. Chairman Langevin, Ranking Member Stefanik, and members of the committee, thank you for the opportunity to testify today. I would like to use my time to continue the theme that my colleague, Dr. Griffiths, has just discussed, the state of the Federal Government's AI workforce. In my time on the Commission, it has become clear to me that talent is the centerpiece of any winning AI strategy. We have examined the government's current shortcomings and have found that, in addition to the series of reforms Dr. Griffiths mentioned, we need to take bolder action. Existing programs will not bring enough digital talent into the public service workforce to meet serious shortages. The current scholarship and service programs are limited in scale and will not create a common set of ideas, shared experiences, professional culture, or a common mission to improve the government's digital talent. So, we must fundamentally reimagine the way the U.S. Government recruits and builds its digital workforce. The Commission has put forward two significant proposals and I will take these few minutes that I have left to briefly describe them. First, we propose building a United States Digital Service Academy. This academy will produce technically educated graduates who would have a service obligation as civil servants into Federal Government. The academy will be an independent entity within the government. It would be advised by an interagency board, which would be assisted by a Federal advisory committee composed of commercial and academic leaders in emerging technology. The academy would be a partnership between public and private sectors, working together toward a common goal of developing a modern digitally proficient workforce. We should consider now, before legislative action takes place, how the private sector and academia can support an academy. We are eager to discuss what barriers, limitations, or other factors would prevent such cooperation, or wo
+---
+
+
+## Output Format
+Return a JSON array with one object per segment:
+```json
+[
+  {
+    "id": 1,
+    "primary_frame": "ECO",
+    "secondary_frames": ["REG"],
+    "valence": "POS",
+    "confidence": "high",
+    "notes": "Speaker emphasizes economic competitiveness and innovation"
+  },
+  ...
+]
+```
+
+Code all segments now. Output ONLY the JSON array, no other text.

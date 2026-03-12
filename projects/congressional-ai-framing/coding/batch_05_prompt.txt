@@ -1,0 +1,305 @@
+You are coding congressional hearing testimony for a framing analysis study.
+
+
+## Frame Codes
+
+| Code | Frame | Definition | Key Indicators |
+|------|-------|------------|----------------|
+| ECO | Economic Opportunity | AI as driver of growth, competitiveness, jobs | innovation, leadership, competitiveness, economic growth, jobs creation, productivity |
+| SEC | National Security | AI as defense/intelligence asset or threat | China, adversaries, defense, military, intelligence, strategic competition |
+| EXI | Existential Risk | AI as potential civilizational threat | alignment, extinction, superintelligence, control problem, catastrophic |
+| REG | Regulation/Governance | AI requiring oversight and rules | oversight, accountability, transparency, regulation, guardrails, legislation |
+| CIV | Civil Rights | AI and bias, privacy, discrimination | bias, discrimination, fairness, privacy, civil liberties, surveillance |
+| LAB | Labor/Automation | AI impact on workforce | displacement, automation, workforce, reskilling, jobs loss, workers |
+| HEA | Healthcare | AI in medical applications | diagnosis, treatment, patients, healthcare, medical, clinical |
+| CON | Consumer Protection | AI risks to consumers | scams, fraud, deepfakes, misinformation, consumer harm |
+
+## Valence Codes
+- POS: Positive framing (opportunity, benefit, progress)
+- NEG: Negative framing (risk, threat, harm, concern)
+- NEU: Neutral/balanced framing (descriptive, both sides)
+
+## Confidence Levels
+- high: Clear frame, obvious indicators
+- medium: Frame present but less explicit
+- low: Ambiguous, could be multiple frames
+
+
+## Instructions
+1. For each segment, identify the PRIMARY frame (most dominant)
+2. List any SECONDARY frames present (0-2 max)
+3. Assign a VALENCE (POS/NEG/NEU)
+4. Rate your CONFIDENCE (high/medium/low)
+5. Add brief NOTES explaining your coding decision
+
+## Segments to Code
+
+
+---
+ID: 101
+Speaker: Mr. Brooks
+Date: 2023-07-12
+Hearing: Artificial Intelligence and Intellectual Property--Part II: Copyright
+
+TEXT:
+Thank you, Chair Coons and Ranking Member Tillis, for the opportunity to testify today. AI can help to unlock creativity, drive innovation, and open up new opportunities for creators and entrepreneurs across the United States. As with any groundbreaking technology, AI raises important questions, and we recognize the depth of concern among creators. While we don't have all the answers, we are committed to an open and constructive dialog, and we are actively working to address emerging concerns through new technology standards and good practices. At Stability AI, our goal is to unlock humanity's potential with AI technology. We developed a range of AI models. These models are essentially software programs that can help a user to create new content. Our flagship model, Stable Diffusion, can take plain language instructions from a user and help to produce a new image. We are also working on research for safe language models that can help to produce new passages of text or software code. AI is a tool that can help to accelerate the creative process. In our written testimony, we shared examples of how Broadway designers, architects, photographers, and researchers are using our models to boost their productivity, experiment with new concepts, or even study new approaches to diagnosing complex medical disorders. We are committed to releasing our models openly with appropriate safeguards. That means we share the underlying software as a public resource. Creators, entrepreneurs, and researchers can customize these models to develop their own AI tools, build their own AI businesses, and find novel applications of AI that best support their work. Importantly, open models are transparent. We can look under the hood to scrutinize the technology for safety, performance, and bias. These AI models study vast amounts of data to understand the subtle relationships between words, ideas, and visual or textual features, much like a person visiting an art gallery or library to learn how t
+---
+
+---
+ID: 102
+Speaker: Mr. Altman
+Date: 2023-05-16
+Hearing: Oversight of A.I.: Rules for Artificial Intelligence
+
+TEXT:
+Missouri's a great place. Senator Hawley . Missourian here. It is. Thank you. I want that noted, especially underlined in the record: Missouri is a great place. That is the takeaway from today's hearing. Maybe we'll just stop there, Mr. Chairman. Let me ask you--Mr. Altman, I think I'll start with you, and I'll just preface this by saying my questions here are an attempt to get my head around and to ask all of you to help us to get our heads around what this generative AI--particularly the large language models--what it can do, because I'm trying to understand its capacities and then its significance. So, I'm looking at a paper here entitled, ``Large Language Models Trained on Media Diets Can Predict Public Opinion.'' This was just posted about a month ago. The authors are Chu, Andreas, Ansolabehere, and Roy, and their conclusion--this work was done at MIT and then also at Google. Their conclusion is that large language models can indeed predict public opinion, and they go through and model why this is the case, and they conclude ultimately that an AI system can predict human survey responses by adapting a pretrained language model to subpopulation-specific media diets. In other words, you can feed the model a particular set of media inputs and it can, with remarkable accuracy--and the paper goes into this-- predict, then, what people's opinions will be. I want to think about this in the context of elections. If these large language models can, even now, based on the information we put into them, quite accurately predict public opinion, you know, ahead of time--I mean, predict, it's before you even ask the public these questions--what will happen when entities, whether it's corporate entities or whether it's governmental entities or whether it's campaigns or whether it's foreign actors, take this survey information, these predictions about public opinion, and then fine-tune strategies to elicit certain responses, certain behavioral responses? I mean, we already know
+---
+
+---
+ID: 103
+Speaker: Mr. Ho
+Date: 2023-05-16
+Hearing: Artificial Intelligence in Government
+
+TEXT:
+Thank you, Senator, for that question, and thank you for noting the report that we conducted a number of years ago. I should clarify that in that report we looked largely at the use of AI by civil agencies, and one of the challenges has actually been exactly to get transparency within the criminal justice system. That is reflected, as well, in some of the exemptions under, for instance, the AI Bill of Rights or the scope of requirements to file AI use case inventories. That is why I think these AI use case inventories are such a kind of critical tool of transparency. You cannot manage what you cannot measure, and so I think AI use case inventories are an important first step in that regard. Let me loop back, though, to the earlier question that you had, just in terms of accountability, and give you one example of the sort of enforcement context that I think is very telling that connects this to the necessity to have human talent within government. Within the Securities and Exchange Commission (SEC) there was an internal team that built out a series of very innovative ways to scan filings, to look at the risk, for instance, of insider trading based on what folks had filed to the SEC, using natural language processing. But what was very important in that use case was that it was internally developed first, and it was the interaction between the technical engineers and the line-level prosecutors that really ensured accountability. The line-level prosecutors within the SEC said, ``I am not persuaded by your risk score. You need to explain to me why this system is actually identifying this case as something that I should prosecute, because ultimately I need to bring this in front of a judge.'' That is exactly the reason why technical talent and the ability of technical talent to work with the domain experts is going to be so critical to have these kinds of forms of internal accountability for AI systems.
+---
+
+---
+ID: 104
+Speaker: Senator Kaine
+Date: 2023-11-15
+Hearing: U.S. Leadership on Artificial Intelligence in an Era of Strategic Competition
+
+TEXT:
+My colleagues asked questions earlier that you--that led you to talk about some of the different approaches that the EU is taking, for example, compared to the United States and the hope that the U.K. would be more aligned with the U.S. in terms of AI regulation, less centralized possibly. My hope would be that as we are having those discussions with the U.K., we also keep Australia in mind because I think if we are going to make this pillar two part of AUKUS successful, the greatest alignment between the U.S. and U.K. and Australia on matters like AI regulation would be helpful. I hope we might be able to convince the EU to come more of our way as well, but if you have any thoughts about the Australian approach to AI regulation, I would love to hear them, but at least I would like to encourage that we include Australia in the discussions that we are having with the U.K. around alignment.
+---
+
+---
+ID: 105
+Speaker: Dr. Lospinoso
+Date: 2023-04-19
+Hearing: The State of Artificial Intelligence and Machine Learning Applications to Improv
+
+TEXT:
+I would say that one opportunity here potentially is we talked about ways in which AI algorithms can be subverted. I think there is an opportunity for us to also make investments not only on the defensive side, but on the offensive side when we are talking about great power competitions in thinking about how do we subvert adversary AI as well. There is an asymmetry to these sorts of things that is corollary to cybersecurity, where sometimes the best defense is a good offense. So I think we ought to be investigating ways in which adversarial AI and things of that nature, data poisoning might be able to meaningfully degrade the just objectively terrifying developments that we are seeing in some of these things, like the social scoring and, yes, the over the intelligence apparatus that the Chinese Communist Party----
+---
+
+---
+ID: 106
+Speaker: Dr. LeCun
+Date: 2023-09-19
+Hearing: Open Hearing: Advancing Intelligence in the Era of Artificial Intelligence: Addr
+
+TEXT:
+I think I have to answer that question, Senator. Thank you for asking it. Generally, the problem of making a machine act intelligently has been much more complex than people initially realized. And the history of AI has been a succession of new ideas, with people thinking this new idea was going to lead us to machines that are as intelligent as humans. And over and over again, the answer has been no. Those new ideas that you had have solved a number of problems. But human level intelligence is still out of reach, and this is still the case today. So, despite the fact that we have incredibly powerful systems that are very fluent, that seem to manipulate language at least as well as humans, those systems are very far from having human intelligence. Now, to directly answer your question, the reason why we hear about AI today, so much over the last ten years, roughly, is because of a new set of techniques called deep learning that has allowed machines to not be programmed directly, but to be trained for a particular task. And that's been incredibly successful for relatively narrow tasks where we can train machines to have superhuman performance. But so far, we still do not have a way to train a machine that is as efficient as the way humans, or even animals, can train themselves. This is why we don't have self-driving cars. We don't have domestic robots that can clear up the dinner table and fill up the dishwasher.
+---
+
+---
+ID: 107
+Speaker: Senator Padilla
+Date: 2023-05-16
+Hearing: Artificial Intelligence in Government
+
+TEXT:
+Thank you very much, and Mr. Chair, if I could just add one last note, not another question but just one last note. Tapping into my prior experience as Secretary of State of California, where we introduced the first chatbot in California State government to assist people navigating our website, also automating how business owners and entrepreneurs could file their necessary paperwork with the State of California, there is, at times, a personnel concern that through additional automation and efficiency that we do not need as many workers, and therefore it is a mechanism toward layoffs and staff reductions. What we were able to do instead was actually free up people's valuable time from, ``pushing paper'' to improve customer service and dedicate that experienced frontline personnel to some of the more complex questions or troubleshooting that a lot of either individuals or customers of government sometimes have frustrations with, long wait times, et cetera. There can indeed be that win-win. Thank you, Mr. Chair.
+---
+
+---
+ID: 108
+Speaker: Ms. Espinel
+Date: 2023-09-12
+Hearing: The Need for Transparency in Artificial Intelligence
+
+TEXT:
+And visit many of our member companies. You led a fantastic roundtable there. So thank you very much for that. But also thank you for that question, because I think that is a very important issue. So as you said the EU is moving forward with legislation. They are not the only country that is moving forward with legislation; governments around the world are moving forward with legislation as well. And I think one of the challenges, but an avoidable challenge, is if we end up in a situation where there is, as you said, an inconsistent patchwork of regulations around the world. I think because there is so much policymaker focus around the world on artificial intelligence, as you said, in part, because of the launch of ChatGPT, there is a real opportunity right now to move towards a harmonized approach globally. And that may not include every country in the world, but I think it could include a lot. And I think if the United States--I think the United States has a very important role to play there, in terms of moving a large number of countries to a harmonized approach.
+---
+
+---
+ID: 109
+Speaker: Mr. Wheeler
+Date: 2023-09-07
+Hearing: Recent Advances in Artificial Intelligence and the Department of Energy's Role i
+
+TEXT:
+So, much like the national labs, we have a process for how we onboard talent as well. We also have, you know, ongoing training that is mandatory. It's around global trade, and so it's very specific. Everyone gets trained around, you know, what are the regulations around how do you interact if, you know, whether it's a collaboration opportunity with anyone abroad, honestly. And so, we have very strict control that manages what kind of technology can be transferred, who we work with, so very tight guidelines there. And then above and beyond that, for the projects we are involved in specifically, you know, and this is obviously closer to Department of Defense, but you know, if it's a project that requires only cleared personnel, we have that ability. We have the ability to do secure manufacturing. So we have a lot of steps in terms of security and who we work with and then how the work ultimately gets done.
+---
+
+---
+ID: 110
+Speaker: Mr. Smith
+Date: 2023-09-12
+Hearing: Oversight of A.I.: Legislating on Artificial Intelligence
+
+TEXT:
+Well, to be clear, at first I didn't say whether it was a good or bad thing. I was asked to predict what jobs would be impacted and I identified that job as one that likely would be. But let's, I think, step back, because I think your question is critically important. Let's first reflect on the fact that, you know, we've had about 200 years of automation that have impacted jobs, sometimes for the better, sometimes for the worst. In Wisconsin, where I grew up, or in Missouri, where my father grew up, if you go back 150 years, it took 20 people to harvest an acre of wheat or corn. And now it takes one. So 19 people don't work on that acre anymore. And that's been an ongoing part of technology. The real question is this, how do we ensure that technology advances so that we help people get better jobs, get the skills they need for those jobs, and hopefully, do it in a way that broadens economic opportunity rather than narrows it. I think the thing we should be the most concerned by is that since the 1990s, and I think this is the point you're making, if you look at the flow of digital technology--you know, fundamentally we've lived in a world that has widened the economic divide. Those people with a college or graduate education have seen their incomes rise in real terms. Those people with, say, a high school diploma or less, have seen their income level actually drop compared to where it was in the 1990s. So what do we do now? Well, I'll at least say what I think our goal should be. Can we use this technology to help advance productivity for a much broader range of people, including people who didn't have the good fortune to go to, say, where you or I went to college or law school? And can we do it in a way that not only makes them more productive, but actually reaps some of the dividends of that productivity for themselves in a growing income level? I think it's that conversation that we need to have.
+---
+
+---
+ID: 111
+Speaker: Mr. Wellman
+Date: 2023-09-20
+Hearing: Artificial Intelligence in Financial Services
+
+TEXT:
+Yes. Thank you. That is correct. Using a technique called reinforcement learning, basically what the system does is it tries a lot of different actions and it sees what works. And if it will naturally stumble on actions that we would consider manipulative as an effective way to make profits. And we have demonstrated that could be made to work. So it turns out, even if not only did they not instruct it, but even if the developer of the AI did not want to manipulate, having to make sure that they do not accidentally do something that would constitute manipulation would be very hard to do. Senator Van Hollen. Could you talk to a specific, just an example of how an AI system might accomplish that manipulation?
+---
+
+---
+ID: 112
+Speaker: Ms. Huberty
+Date: 2023-11-08
+Hearing: Avoiding a Cautionary Tale: Policy Considerations for Artificial Intelligence in
+
+TEXT:
+Well, I think in these cases, there are humans involved in running those--the algorithms and adhering to those discharge dates. But even those humans involved have moral issues with those dates and how they are required to adhere to them within their own company. So I also just think the volume of it too. When you have so many of these denials running through that algorithm, the human oversight is only there when it is challenged. So only when there are appeals, do you have that really detailed and careful human oversight where they are looking at the medical records. I guess my recommendation is to slow down, to get more of the humans involved, have more of the treating physicians more involved as well, because the humans involved in those pieces never see the patients. They have no contact with them whatsoever.
+---
+
+---
+ID: 113
+Speaker: Ms. Givens
+Date: 2023-06-13
+Hearing: Artificial Intelligence and Human Rights
+
+TEXT:
+So for example, the way that platforms now have advertisers potentially threatening to pull their ads if they don't think that they have responsible codes of conduct on their platforms, if they're not enforcing that in meaningful ways. And my organization actively pushes those companies ourselves to be responsible and thoughtful in how they're acting, to be transparent in what they're doing, to be consistent in their approaches. But there's the additional hammer of legal liability. We worry about the long-term effects of how that changes in platforms and leads to over-takedowns of what could be expressive conduct in other settings.
+---
+
+---
+ID: 114
+Speaker: Chair Coons
+Date: 2023-07-12
+Hearing: Artificial Intelligence and Intellectual Property--Part II: Copyright
+
+TEXT:
+This hearing will come to order. I'd like to thank all of our witnesses for participating today, and I'd like to especially thank my friend and colleague, Ranking Member Thom Tillis and his staff for working with us on such a collaborative basis to put this hearing together. Welcome back from Vilnius. Senator Tillis was over at the NATO summit, and I am thrilled he is able to join us, and we are able to do this hearing today. This is our second hearing in as many months on the intersection of artificial intelligence and intellectual property law and policy. You and your team have been great partners in pursuing this. If you will indulge me for a moment, Senator, and before I proceed with my remarks, I'd like to ask that we play just a little clip of something to frame the challenges of this topic--made with the permission of all the relevant rights holders.
+---
+
+---
+ID: 115
+Speaker: Senator Blackburn
+Date: 2023-06-13
+Hearing: Artificial Intelligence and Human Rights
+
+TEXT:
+Thank you. Ms. Givens, we don't have-- you mentioned privacy in your remarks. And of course, the EU has GDPR. We have never been able to get a privacy standard on the books. And when you look at the development of AI, and you think about things that need to be in place before we start down this road and look at different applications, whether it's defense or logistics or banking or healthcare or entertainment, like a lot of my constituents in Tennessee. Logistics, healthcare, entertainment, they're doing some good work there. But talk about the impact of not having a national consumer privacy standard. Talk about the impact that has on AI development.
+---
+
+---
+ID: 116
+Speaker: Ms. Sheridan
+Date: 2023-06-07
+Hearing: Artificial Intelligence and Intellectual Property--Part I: Patents, Innovation, 
+
+TEXT:
+Thank you for the question. We have seen AI innovation flourishing, and I think the patent numbers are one thing that reflects that. There are other ways we see it in the investment. You mentioned the growth of the economy, but it's really important, and I mentioned this in my opening statement, that training is in place for examiners because you mentioned a statistic about the growth in AI patenting at the Office. That means, at some point, the majority of patent examiners are going to get an invention that crosses their desk that relates to AI in some way. And they may not be experts in AI. They're experts in the field that AI is being applied. And it is critically important to make sure that examiner knows what they're looking at and knows, yes, this is a deserving patent, I can grant this, or no, this is an obviousness issue, or whatever it might be. Training is really just a fundamental issue that to continue to incentivize this level of innovation, which we already have, we need to make sure that PTO examiners are given the tools that they need.
+---
+
+---
+ID: 117
+Speaker: Senator Barrasso
+Date: 2023-11-15
+Hearing: U.S. Leadership on Artificial Intelligence in an Era of Strategic Competition
+
+TEXT:
+Then a final question, since Senator Risch started by talking about the leadership that we have taken in the United States when it came to the internet years and years ago, we led in this sector because we chose to take a kind of a light-handed regulatory approach. A number of us in the Senate have met with--we have had discussions on AI with Elon Musk, Mark Zuckerberg, a number of the leaders in the technology there. Do you believe that a light-handed regulatory structure or a heavy-handed structure, if you will, is best for promoting American leadership and innovation in artificial intelligence and machine learning technology?
+---
+
+---
+ID: 118
+Speaker: Dr. Stevens
+Date: 2023-09-07
+Hearing: Recent Advances in Artificial Intelligence and the Department of Energy's Role i
+
+TEXT:
+That is the current approach. I think it's flawed in the sense that there will be, ultimately, many hundreds or thousands of generators of AI, some of which will be the big companies like Google and Open AI and so forth, but there will be many, many open models produced outside the United States and produced elsewhere that, of course, would not be bound by a U.S. regulation. And so, I think what we are ultimately going to end up having to do is validate real sources as well as--we can have a law that says watermark AI- generated content, but a rogue player outside the U.S., say operating in Russia or China or somewhere, would not be bound by that and could produce a ton of material that would not actually have those watermarks and so, could pass a test perhaps. So I think we are going to have to be more nuanced or more strategic in this, in that we are going to have to authenticate real content down to the source. Whether it's true or not is a separate issue, but if it's, you know, produced by real humans in a real meeting, that stream would get tagged so you would know that is real versus something that would be synthetic.
+---
+
+---
+ID: 119
+Speaker: Ms. Elluru
+Date: 2023-06-07
+Hearing: Artificial Intelligence and Intellectual Property--Part I: Patents, Innovation, 
+
+TEXT:
+That's a great question, Senator. Thank you very much. In short, yes, data is a critical input to the innovation ecosystem. We should be treating data across our industry, public sector, and academia as a strategic asset. So we need comprehensive data strategies to maximize the value of that data. That comprehensive data strategy should include several components, including data privacy, of course, but it should also explore intellectual property rights and data. Is it going to incentivize data-related inventions? Will it incentivize data-driven products and services that are great for the public? Is it going to help raise our economy--increase our economy? It's estimated that the market for data in a few years will be over a trillion dollars. Will intellectual property rights and data help increase that economy? And I think that is something we should explore.
+---
+
+---
+ID: 120
+Speaker: Mr. Janzen
+Date: 2023-11-14
+Hearing: Innovation in American Agriculture: Leveraging Technology and Artificial Intelli
+
+TEXT:
+Thank you, Chairwoman Stabenow, Ranking Member Boozman, and members of the Committee. My name is Todd Janzen. I am an attorney at the law firm of Janzen Schroeder Agricultural Law LLC, based in Indianapolis, Indiana, and we serve the needs of America's farmers, agribusinesses, and also ag tech providers. I am also here today because I grew up on a farm in south-central Kansas and so I have agriculture at my roots. I would like to make three points here today about agricultural technology, the digitalization of farming, and artificial intelligence. First, there are many ways that farmers are already interfacing with digital technologies today. We have everything from farm management information systems, which provide a suite of services to farmers in exchange for collection of data and allow farmers to analyze their decisions and make informed decision based upon all that data. On the other end of the spectrum we have remote sensors and items that are very specific about performing one task, but these are also connected to the internet and often referred to as Internet-of-Things devices. They allow farmers to remotely monitor what is going on on the farm. Then, of course, there is everything in between, from aerial imagery, satellite imagery, connected machines, and even connected livestock on the farm. All of these tools share one common denominator, which is that they all collect a lot of data from farmers, and farmers are a sensitive group when it comes to talking about sharing their data, and they have a good reason to be so. Second I want to talk about what are some of the reasons that farmers are reluctant to share data with companies that want to offer these digital tools. When farmers are polled, it is almost always the same three things bubble to the surface, and I would say the first is a lack of trust in a lot of these platforms. Farmers just do not know what happens after the data moves to these cloud-based platforms. Second, privacy concerns. Obviously, 
+---
+
+---
+ID: 121
+Speaker: Senator Blumenthal
+Date: 2023-11-16
+Hearing: Modern Scams: How Scammers Are Using Artificial Intelligence and How We Can Figh
+
+TEXT:
+Thanks, Mr. Chairman, and thank you for having this hearing on artificial intelligence, which is growing in importance and gaining public attention at an accelerating rate, almost as fast and accelerating rate as artificial intelligence itself is progressing. As you know, we have done a lot here in the Senate. Majority Leader Schumer has held a number of forums. The subcommittee that I had, a subcommittee of the Judiciary called Privacy, Technology, and the Law has held a number of hearings as well. Ours have been public. At one of them, I--as a matter of fact, the first I played a recording of my voice and introduced it by saying, now for some introductory remarks. It was my voice, but it was taken from speeches that I gave on the floor of the Senate, and the content of what was said came from ChatGPT. One of the witnesses at the hearing was Sam Altman of OpenAI. It was literally my voice, content that could have easily been mistaken for something I said. It sounded exactly like what the chairman of a subcommittee would have said, and it sounded exactly like my voice. Which leads to one of the areas that I think all of you have mentioned, particularly Mr. Romanoff, the impersonation and deepfake dangers. You mentioned in your testimony that some banks now use voice identification to authenticate account ownership because some of the scammers are using voice impersonation in effect to break the authentication that the banks try to use. Can you talk a little bit about how multiple authentication, which you mentioned in your testimony, can help prevent these kind of scams. Whether they would have any application to the individual senior citizen who gets a call. Sounds exactly like that person's nephew stranded here in Topeka. I have no money, please wire money. You know the standard fraud, but the impersonation of the voice is used to trick. Might be anyone, not just a senior citizen, but can you talk a little bit about authentication as a means of breaking the potent
+---
+
+---
+ID: 122
+Speaker: Dr. Hindman
+Date: 2023-11-14
+Hearing: Innovation in American Agriculture: Leveraging Technology and Artificial Intelli
+
+TEXT:
+Good morning. On behalf of Deere's 80,000 employees worldwide, I want to thank the Committee for the opportunity to address you here today. John Deere is dedicated to assisting customers in meeting the increasing global demand for food, fuel, shelter, and clothing. We tackle challenges like limited land, water, and rural labor by leveraging technology, including artificial intelligence, to empower growers to achieve higher productivity with fewer resources. This approach allows farmers to accomplish more with less while improving both their economic and environmental sustainability. Deere currently connects over 650,000 machines around the world using terrestrial cellular networks. This allows data generated during farming tasks like planting and harvesting to be sent to the cloud for analysis. The insights gained from this analysis help optimize a farmer's current tasks, such as improving logistics, and contribute to enhancing future farming seasons. A common concern regarding farmers' data is ownership, and we are unequivocal on this matter: John Deere customers retain control over their data, including how it is collected, stored, processed, and shared. That said, we also believe that the valuable insights that can be derived from this information will play a crucial role in meeting our industry's collective objective of sustaining a growing global population. Farmers use these same connections to deliver data-driven instructions back to their machines, such as prescriptions for applying different rates of fertilizer to different parts of a field, navigation information used to auto-steer machines, and input specifications like seed and fertilizer. These network services are offered to farmers through partnerships with third-party companies, allowing farmers to have greater flexibility in choosing the services based on their own preferences and needs. However, it is vitally important to address connectivity challenges in rural areas, including in- field connectiv
+---
+
+---
+ID: 123
+Speaker: Mr. Smith
+Date: 2023-09-12
+Hearing: Oversight of A.I.: Legislating on Artificial Intelligence
+
+TEXT:
+I think it's something that we need to be and are focused on. To some degree in some technology fields, Microsoft is the alma mater of the technology leaders in every country in the world because of the role that we've played over the last 40 years. But when it comes to China today, we are and need to have very specific controls on who uses our technology, and for what, and how. That's why we don't, for example, do work on quantum computing, or we don't provide facial recognition services, or focus on synthetic media, or a whole variety of things. While at the same time, when Starbucks has stores in China, I think it's good that they can run their services in our data center rather than a Chinese company's data center.
+---
+
+---
+ID: 124
+Speaker: Mr. Dally
+Date: 2023-09-12
+Hearing: Oversight of A.I.: Legislating on Artificial Intelligence
+
+TEXT:
+So what I said is that artificial general intelligence that gets out of control as science fiction, not autonomous. We use artificial intelligence, for example, autonomous vehicles all the time. I think the way we make sure that we have control over AI of all sorts is by, for any really critical application, keeping a human in the loop. You know, AI is a computer program. It takes an input, it produces an output. And if you don't connect up something that can cause harm to that output, it can't cause that harm. And so anytime that there is some grievous harm that could happen, you want a human being between the output of that AI model and the causing of harm. And so I think as long as we're, you know, careful about how we deploy AI to, you know, keep humans in the critical loops, I think we can assure that the AIs, you know, won't take over and shut down our power grid, or, you know, cause airplanes to fall out of the sky. We can keep control over them.
+---
+
+---
+ID: 125
+Speaker: Chairman Peters
+Date: 2023-05-16
+Hearing: Artificial Intelligence in Government
+
+TEXT:
+Thank you, Senator Ossoff. We are ready to wrap up a great hearing. We have covered an awful lot of ground, a big topic. I would like to wrap up these kinds of hearings with just asking folks to kind of focus one of the issues. I am going to be asking everybody on the panel--and I am going to start with you, Mr. Siegel, and then we will work down the panel--so in terms of AI policy going forward, what would you say, from a legislative standpoint, because we are legislators here, in Congress, in terms of legislating, what would be the No. 1 item that we should prioritize in terms of thinking about future legislation? I am going to start with you, Mr. Siegel. All of you have a lot of different issues that you are working with, but No. 1, for legislating. There are other things that we could be doing, regulations and other kinds of policies, or norms, et cetera, but from a legislative standpoint is there something that really stands out to each of you?
+---
+
+
+## Output Format
+Return a JSON array with one object per segment:
+```json
+[
+  {
+    "id": 1,
+    "primary_frame": "ECO",
+    "secondary_frames": ["REG"],
+    "valence": "POS",
+    "confidence": "high",
+    "notes": "Speaker emphasizes economic competitiveness and innovation"
+  },
+  ...
+]
+```
+
+Code all segments now. Output ONLY the JSON array, no other text.

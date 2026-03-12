@@ -1,0 +1,305 @@
+You are coding congressional hearing testimony for a framing analysis study.
+
+
+## Frame Codes
+
+| Code | Frame | Definition | Key Indicators |
+|------|-------|------------|----------------|
+| ECO | Economic Opportunity | AI as driver of growth, competitiveness, jobs | innovation, leadership, competitiveness, economic growth, jobs creation, productivity |
+| SEC | National Security | AI as defense/intelligence asset or threat | China, adversaries, defense, military, intelligence, strategic competition |
+| EXI | Existential Risk | AI as potential civilizational threat | alignment, extinction, superintelligence, control problem, catastrophic |
+| REG | Regulation/Governance | AI requiring oversight and rules | oversight, accountability, transparency, regulation, guardrails, legislation |
+| CIV | Civil Rights | AI and bias, privacy, discrimination | bias, discrimination, fairness, privacy, civil liberties, surveillance |
+| LAB | Labor/Automation | AI impact on workforce | displacement, automation, workforce, reskilling, jobs loss, workers |
+| HEA | Healthcare | AI in medical applications | diagnosis, treatment, patients, healthcare, medical, clinical |
+| CON | Consumer Protection | AI risks to consumers | scams, fraud, deepfakes, misinformation, consumer harm |
+
+## Valence Codes
+- POS: Positive framing (opportunity, benefit, progress)
+- NEG: Negative framing (risk, threat, harm, concern)
+- NEU: Neutral/balanced framing (descriptive, both sides)
+
+## Confidence Levels
+- high: Clear frame, obvious indicators
+- medium: Frame present but less explicit
+- low: Ambiguous, could be multiple frames
+
+
+## Instructions
+1. For each segment, identify the PRIMARY frame (most dominant)
+2. List any SECONDARY frames present (0-2 max)
+3. Assign a VALENCE (POS/NEG/NEU)
+4. Rate your CONFIDENCE (high/medium/low)
+5. Add brief NOTES explaining your coding decision
+
+## Segments to Code
+
+
+---
+ID: 51
+Speaker: Dr. Highnam
+Date: 2019-03-12
+Hearing: Artificial Intelligence Initiatives Within the Department of Defense
+
+TEXT:
+Thank you, Chairwoman Ernst, Ranking Member Peters. I'm pleased to be here to represent the Defense Advanced Research Projects Agency and share with the Subcommittee DARPA's work to advance AI technologies. I'm going to begin with a little bit about DARPA's history in this field. In 1960, shortly after DARPA was created, ARPA was created. One of the first information technology offices that we had gave this quote, ``It seems reasonable to envision bringing computing machines effectively into processes of thinking that must go on in realtime, time that moves too fast to permit using computers in conventional ways. To think in interaction with a computer in the same way that you think with a colleague whose competence supplements your own will require much tighter coupling between man and machine than is possible today.'' Back then, when computers were large, were room-size, when they were being used for computing missile trajectories and so on, this man saw what was possible, saw the insights that were becoming available, and saw the push that we're still working on, which is changing computers from tools to partners. That actually is the history of AI investments by DARPA for the last 60 years. That is also quintessential DARPA. This man had, you know, one foot in defense, seeing the mission and seeing what was needed, and one foot in the technology side, and framed the problem using use cases, knew what had to be done, and started driving. It's unlikely that he thought that there would be 6 decades of investments and hard work that followed that to get to where we are today. I'd like to say that, after 60 years of pushing, AI is an overnight success.
+---
+
+---
+ID: 52
+Speaker: Mr. Brockman
+Date: 2016-11-30
+Hearing: The Dawn of Artificial Intelligence
+
+TEXT:
+I have three suggestions. The first of these is basic research. And you mentioned that basic research is happening in industry. But, I think that we just cannot do too much of it, in that we really are at the tip of the iceberg here, and I think that we're just going to find so much value. And that's why the big companies are investing, because they realize that, as many dollars that are being made today, that there's 100X or maybe more increase in the future. And I think that it's really important that the technology is not owned by just one or a few big companies. I think it's really important that the benefits and the technology are owned by us all, as Americans and as the world. And so, I think that the government can really help to ensure that this technology is democratized and that we move faster. The second is measurement and contests. I think that, for the reasons I mentioned earlier, that it's really important that we track how it's progressing so we can have a good debate. And I think that the government has actually been extremely successful in the past with investing in contests. And so, I think you're creating new measurements or supporting people in industry and academia who are doing the same. And then the third is safety, security, ethics. I think that's going to take everyone. And I think that we all need to work together. I think that that's going to require making sure that there is funding available for people who want to be thinking about these issues. And I think that's going to feed back into all of the questions of--that everyone's been raising here today.
+---
+
+---
+ID: 53
+Speaker: Mr. Brown
+Date: 2019-03-12
+Hearing: Artificial Intelligence Initiatives Within the Department of Defense
+
+TEXT:
+For machine learning efforts to be successful, large volumes of data are necessary to train algorithms. Large datasets do exist, but there are challenges leveraging them for a variety of reasons--some of which are cultural, some of which are regulatory. While we have the obligation to safeguard unauthorized disclosure of data, we also have an urgent need to bring machine learning capabilities into the Defense Department. We would welcome more comprehensive data-sharing agreements across DOD organizations to streamline data access challenges that often slow the development of critical technology. In addition, clearances pose a barrier to getting some of the best companies and people working on DOD's most important problems. Efforts to streamline and accelerate the clearance process would be beneficial.
+---
+
+---
+ID: 54
+Speaker: Senator Markey
+Date: 2017-12-12
+Hearing: Digital Decision-Making: The Building Blocks of Machine Learning and Artificial 
+
+TEXT:
+Thank you, Mr. Chairman, very much. I thank you all for being here. The digital revolution's newest innovations--augmented reality, autonomous vehicles, drones--all of these industries use artificial intelligence, which rely heavily on a free and open Internet. Regrettably, these disrupting technologies may be dealt a major blow in their infancy, and that's because in just 2 days, the FCC will vote on a proposal to eliminate net neutrality. Without enforceable net neutrality rules in place, broadband providers, like Comcast, Verizon, AT&T, and Spectrum, could block or slow down the content of innovators and businesses using AI all in an effort to leverage their gatekeeper role to favor their own content and generate additional profits. And what will replace these robust net neutrality protections? Nothing, absolutely nothing is going to replace those rules. Dr. Felten, how would eliminating net neutrality protections impact the deployment and development of innovative technologies that use AI?
+---
+
+---
+ID: 55
+Speaker: Dr. Horvitz
+Date: 2022-05-03
+Hearing: Artificial Intelligence Applications to Operations in Cyberspace
+
+TEXT:
+Well, let me just say that advances like AlphaFold and RoseTTAFold are really helping us jump forward in the understanding, for example, of sale of machinery. So I am optimistic. I cannot give you a time that we will understand cancer one day, as a running computer program. But let me back up a bit and talk a little bit about the possibilities for the Department of Defense. We often think about AI, even in your opening comments, which were fabulous, as on the battlefield, as kinetics. But DOD is a huge operation, in peacetime and in war. The logistics, planning, predictive models, employment, back to health care, the VA system all can benefit greatly by even basic applications of machine learning, predictions, diagnoses, and planning. So I do not want to call out the DOD as failing when I see them doing fabulous work and really working to get on board quickly and doing some of the most enthusiastic and energetic catch-up right now of any organization. But this whole country can do better.
+---
+
+---
+ID: 56
+Speaker: Dr. Lohn
+Date: 2022-05-03
+Hearing: Artificial Intelligence Applications to Operations in Cyberspace
+
+TEXT:
+Thank you. I would like to maybe make two points, is that AI and cybersecurity are both getting easier to learn. When I started, not that long ago, it was very difficult. You had to go through a lot of math and build things out all from scratch. But now there are many tools and many learning resources available. And so I think that we have an opportunity to pull people through our industry giants but also to bring people through armed services, in the enlisted ranks as well as the officer corps, I think we can push for the development there and create these opportunities for servicemembers to have those skills while they are in service and then also to take them elsewhere.
+---
+
+---
+ID: 57
+Speaker: Senator Wicker
+Date: 2017-12-12
+Hearing: Digital Decision-Making: The Building Blocks of Machine Learning and Artificial 
+
+TEXT:
+The hearing record will remain open for 2 weeks. During this time, Senators are asked to submit any questions for the record. Upon receipt, the witnesses are requested to submit their written answers to the Committee as soon as possible. Thank you very much. The hearing is now adjourned. A P P E N D I X Response to Written Question Submitted by Hon. Amy Klobuchar to Dr. Cindy L. Bethel Question. Political ads on the Internet are more popular now than ever. In 2016, more than $1.4 billion was spent on digital advertisements and experts project that number will continue to increase. In October, I introduced the Honest Ads Act with Senators Warner and McCain, to help prevent foreign interference in future elections and improve the transparency of online political advertisements. We know that 90 percent of the ads that Russia purchased were issue ads meant to mislead and divide Americans. Increasing transparency and accountability online will benefit consumers and help safeguard future elections. Dr. Bethel, could making more data about political advertisements publicly available help improve the performance of algorithms designed to prevent foreign interference? Answer. More data that is high quality and has varied examples of content may be helpful in improving AI algorithms in general. The data though needs to have features that are detectable to learn from as part of the machine learning process. It is not clear from the political advertisements that have been promoted, as in the previous election, it was not evident what features could be used to learn from to detect involvement by foreign parties of these political advertisements. More data does not always equate to better results. There needs to be sufficient variations in key features that can be detected to be able to develop and test algorithms that will be effective and will have beneficial and meaningful results. ______ Response to Written Question Submitted by Hon. Tom Udall to Dr. Cindy L. Bethel Question.
+---
+
+---
+ID: 58
+Speaker: Dr. Horvitz
+Date: 2022-05-03
+Hearing: Artificial Intelligence Applications to Operations in Cyberspace
+
+TEXT:
+Well, I can answer your second question. I guess you asked a very broad question about what companies and enterprises are doing to protect themselves right now. You know, we are building infrastructures, and I would love to see more effort in DOD and other Federal agencies, infrastructures that go from being able to sense across many computers for patterns, being able to collect that data across the world, for example, and across organizations, of course, to employ machine learning on the infrastructure, to build predictive models, and to build filters and detectors. We have to have a great workforce of professionally trained cybersecurity experts to work with these AI systems, because despite what we think about AI, the big gain is going to be in human AI iteration and collaboration. So we need those teams, no matter how good our AI is, and lastly we need to have a system of pushing out updates quickly, to make patches and to stay in touch with end users.
+---
+
+---
+ID: 59
+Speaker: Dr. Gil
+Date: 2017-12-12
+Hearing: Digital Decision-Making: The Building Blocks of Machine Learning and Artificial 
+
+TEXT:
+Yes. I think there is wonderful work going on across a number of universities, and we can--I can give you some more details of some specific programs that are, you know, very well tailored to this. But certainly in the private sector there is a lot of activity that has had to do with focusing in the instrumentation aspect and the measurement of fields, particularly with satellite data, being able to combine also very unique datasets. As we've aggregated datasets in terms of I alluded before in terms of like soil characteristics, you know, evapotranspiration models that we have, weather data, and be able to combine all these layers of data together to be able to have accurate forecasts and prediction, and to the degree that we have more autonomy also in the agricultural fields to be able to, you know, irrigate with more precision--right?--or be able to use fertilizers with more precision as well, the combination of all of those factors is what is increasing productivity and what it's enabled to do that.
+---
+
+---
+ID: 60
+Speaker: Senator Peters
+Date: 2016-11-30
+Hearing: The Dawn of Artificial Intelligence
+
+TEXT:
+Thank you, Mr. Chairman. Again, thank you, to our witnesses. And you're right, Dr. Chien, we have to make sure this performs. I've been very involved in autonomous vehicles and the research that's going on there. And my concern is that we have to make sure the technology gets it right with as few errors as possible, because there's already limited consumer acceptance for letting some machine drive your automobile through a city street. There are all sorts of benefits, which we've talked about, but limited acceptance now. And if you had some sort of catastrophic event in a crash--and there will be some crashes, certainly--it could very well set back the industry dramatically, because of the consumer pushback and the public pushback. So, we have to do this in thoughtful ways, which is why, Dr. Moore, some of the regulatory aspects of this, before you put vehicles on the road, to make sure there's proper safety in place, or we've thought through how we ensure that, is incredibly important. My concern with all of this has always been that there's a disconnect between the speed we're on with public policy versus technology. Right now, we are at a exponential rate when it comes to technology. And even though we have estimates of AI reaching a singularity of some sort from 10 to 100 years--we don't know when that is, although things seem to operate a lot quicker than we anticipate. I believe that we didn't think we could beat the expert player in Go for a least a decade, and I think that just occurred a few months ago. So we can't fully anticipate what's happening. I don't know the speed it will go at, but it will probably be quicker than we anticipate. The one constant in all of this is, when it comes to public policy, that operates at a constant speed. It's called ``snail speed.'' So, it is very slow and cumbersome. If we are not doing it now, we have no chance of trying to catch up to what's happening with the policies, going forward. I certainly appreciate the comments
+---
+
+---
+ID: 61
+Speaker: Mr. Callison-Burch
+Date: 2023-05-17
+Hearing: Artificial Intelligence and Intellectual Property: Part I - Interoperability of 
+
+TEXT:
+So, I think this is a super-interesting question that, again, involves the output of a generative AI system, rather than the training per se. I think that there is a valid case to be made that copyright should be reshaped to protect against a case where I, as a user of an AI system, ask it to generate something that mimics a particular artist. Like this concern that artists have, I think is 100 percent valid, that you can currently say, ``Generate a comic strip in the style of Sarah Anderson,'' and it produces something similar in style, but does not reproduce any of her published works. That, to me, seems more like a right of publicity style concern than current copyright law is addressing. I do think it's an ethical issue that we should consider as an industry, and I think that there should be an opt-out mechanism for artists to explicitly exclude their work from the vast amount of training data that we have. Again, I want to make this distinction clear. What AI systems are learning from their training data is more akin to facts and patterns and statistical correlations than it is memorization or directly lifting from copyrighted works.
+---
+
+---
+ID: 62
+Speaker: Mr. Gimenez
+Date: 2023-12-12
+Hearing: Considering DHS's and Cisa's Role in Securing Artificial Intelligence
+
+TEXT:
+Thank you, Mr. Chairman. I just asked my ChatON if there are AI systems right now actively protecting computer systems in the United States and around the world. They said yes. So you do have, you know, the rudimentary aspects of AI, because some months ago we were at a conference or at least a meeting with a number of technologists, Google, Apple, all those. I asked them a question. You know, where--in terms of AI, where are we? Imagine that 21 being an adult. Where are we in that race? They refused to answer and give me an age. What they did do, though, they said it was we're in the third inning. So, you know, baseball analogy, 9 innings is the full game. So we're 1/ 3 of the way there which is kind-of scary because of the capabilities right now that I see are pretty scary. So at the end of the day, do you think--this could all be elementary. I mean, it appears to me that what we're heading for is cyber attacks are going to be launched by artificial intelligence networks, and they're going to be guarded against by artificial intelligence networks and that it's who has the smartest artificial intelligence is going to win the race or is going to win out in that battle or war, et cetera. Would that be accurate? Yes, anybody.
+---
+
+---
+ID: 63
+Speaker: Mr. Sherman
+Date: 2023-03-09
+Hearing: H.A.S.C. No. 118-11] DEFENSE IN A DIGITAL ERA:  ARTIFICIAL INTELLIGENCE, INFORMA
+
+TEXT:
+Crypto Modernization (CM) is an enduring effort that includes recurring procurement, integration, and sustainment costs. These efforts are driven by Chairman of the Joint Chiefs of Staff guidance for CM planning and the retirement dates for cryptographic algorithms also referred to as the last year of use date. DoD components are beginning to specify their CM requirements for the FY25 Program Objective Memorandum (POM). We anticipate DoD organizations will have improved cost projections in their FY26 POM projections as the next generation of Quantum Resistant (QR) cryptographic capabilities become available for procurement. Also, as NSA publishes the formal cryptographic modernization requirements for the CM2 initiative later this year, DoD organizations will also begin to program funding to modernize and replace their currently fielded systems. Although NSA has released its full list of high-assurance quantum resistant algorithms specifications for use in NSS, the National Institute of Standards and Technology (NIST) will not release their list of medium assurance public QR algorithms until mid-2024. This timing gap will impact many NSS programs' ability to POM for future encryption devices as many of these cryptographic devices rely on the NSA high grade algorithms to protect data transmitted or stored, and require the public medium assurance algorithms for software, firmware, and user authentication. ------ QUESTIONS SUBMITTED BY MR. FALLON
+---
+
+---
+ID: 64
+Speaker: Ms. Stevens
+Date: 2023-06-22
+Hearing: Artificial Intelligence: Advancing Innovation Towards the National Interest
+
+TEXT:
+Well, and allow me to just say Mr. Delangue, we have a great French-American presence in my home State of Michigan, and we'd love to see you look at expanding to my State. We've got a lot of exciting technology happening. And, as I mentioned with autonomous vehicles, just to level set this, we've got CCP-owned autonomous vehicle companies that are testing in San Francisco and all along the West Coast, but we cannot test our technology in China. We cannot sell our technology, our autonomous vehicle technology in China. That's an example of a guardrail. I love what you just said, Dr. Murdick, about working with our allies, working with open democratic societies to make, produce, and innovate and win the future. Thank you so much, Mr. Chair. I yield back.
+---
+
+---
+ID: 65
+Speaker: Mr. Fry
+Date: 2023-05-17
+Hearing: Artificial Intelligence and Intellectual Property: Part I - Interoperability of 
+
+TEXT:
+When I was reading the guidance for this, and reading the CRS report that was issued kind of surrounding this, what struck me was it reminded me of a test in law on whether somebody was an independent contractor or an employee of a company, right? So, the test that they look at is the degree of control in which somebody exercises over that individual on whether they're an employee. You can call them an independent contractor all you want to, but if you're the one doing the schedule, you're the one putting in all these requirements in what they do, they're not actually an independent contract; they're actually an employee at that point. So, to me, there are some similarities there that, when we're talking about the degree in which there's litigation on, hey, create a song that sounds like this, and there's no input, but where do we go? Should we be looking at it in those terms, as the degree in which we provide input to AI to the generated product as a test?
+---
+
+---
+ID: 66
+Speaker: Chairman Lucas
+Date: 2023-06-22
+Hearing: Artificial Intelligence: Advancing Innovation Towards the National Interest
+
+TEXT:
+The Ranking Member yields back. Let me introduce our witnesses for today's hearing. Our first witness today is Dr. Jason Matheny, Chair, President, and CEO (Chief Executive Officer) of RAND Corporation. Prior to becoming the CEO, the doctor led the White House policy on technology and national security at the National Security Agency in the Office of Science and Technology Policy. He also served as Director of the Intelligence Advanced Research Projects Activity (IARPA), and I'd also like to congratulate him for being selected to serve on the Selection Committee for the Board of Trustees for the National Semiconductor Technology Center. Our next witness is Dr. Shahin Farshchi, the General Partner of Lux Capital, one of Silicon Valley's leading frontier science and technology investors. He invests in the intersection of artificial intelligence and science and has co- founded and invested in many companies that have gone on to raise billions of dollars. Our third witness of the day is Dr. Clement Delangue, co- founder and CEO of HuggingFace, the leading platform for open- source AI community. It has raised over $100 million, with Lux Capital leading their last financing round, and counts over 10,000 companies and 100,000 developers as users. Next, we turn to Dr. Rumman Chowdhury, Responsible AI Fellow at Harvard University, and she is a pioneer in the field of applied algorithmic ethics, which investigates creating technical solutions for trustworthy AI. Previously, she served as Director of Machine Learning Accountability at Twitter and founder of Parity, an enterprise algorithmic auditing company. And our final witness is Dr. Dewey Murdick, the Executive Director of Georgetown Center for Security and Emerging Technology (CSET). He previously served as the Chief Analytics Officer and Deputy Chief Scientist within the Department of Homeland Security (DHS) and has also co-founded an office in predictive intelligence at IARPA. Thank you, all witnesses, for being here to
+---
+
+---
+ID: 67
+Speaker: Ms. Lee
+Date: 2023-05-17
+Hearing: Artificial Intelligence and Intellectual Property: Part I - Interoperability of 
+
+TEXT:
+Thank you, Mr. Chair. Thank you to all our witnesses who are here today. We so appreciate your time and your testimony helping inform us about how we might embrace the emerging technology of artificial intelligence, but also recognize the immeasurable value of our artists and the need to protect and balance intellectual property and copyright protections. I would like to return, Mr. Damle, to your testimony. Specifically, during the questions by Congressman Moran and Fry, you talked a bit about your perception that existing copyright law was adequate to take on this new emerging landscape and continue to resolve that balancing between the property rights of artists and our new technology that we see. One thing that concerns me is that when Congress fails to be sufficiently clear we leave to judges the task of figuring it out. Of course, we want judges applying the law not creating it. We don't want to put judges in the role of being policymakers. So, I would like for you to elaborate a little bit more on your conclusion that our existing statutory framework is sufficient to take on this new challenge.
+---
+
+---
+ID: 68
+Speaker: Mr. Langworthy
+Date: 2023-09-14
+Hearing: How Are Federal Agencies Harnessing Artificial Intelligence?
+
+TEXT:
+Well, thank you very much. I also wanted to bring up an executive order issued by the last administration requiring Federal agencies to post for public view most of their AI use cases. This is intended to give the public a view into the Administration's current and planned use of AI systems. But many of these agency inventories are missing or they are incomplete, according to a Stanford University AI Institute whitepaper which was issued last December. Do you agree that the public has a right to know for what purposes AI is being used by the Federal agencies and that it is important that these inventories are done consistently, completely, and accurately? And will you pledge to work to continue to ensure that that is the case?
+---
+
+---
+ID: 69
+Speaker: Dr. Chowdhury
+Date: 2023-06-22
+Hearing: Artificial Intelligence: Advancing Innovation Towards the National Interest
+
+TEXT:
+Yes. Mr. Issa . And it's for a couple of you. If you've got a Ph.D., you're eligible to answer this question. And if you've published a book, you're eligible to answer this question. Now, the most knowledgeable person on AI up here at the dais that I know of is sitting in the chair right now, so-- but he happened to say fair use. And of course, that gets my hackles up as the Chairman of the Subcommittee that determines what fair use is. Now, how many of you went to college and studied from books that were published for the pure purpose of your reading them, usually by the professor who wrote them? Raise your hand. OK. Nothing has changed in academia. So is it fair use to not pay for that book, absorb the entire content, and add it to your learning experience? So then the question--and I'll start with you because both Twitter time and academia time, and so on. Today, everyone assumes that the learning process of AI is fair use. Is there any basis for it being fair use rather than maybe a standard essential copyright, one that must be licensed? But if you're going to absorb every one of your published books and every one of the published books that gave you the education you have and call it fair use, are we in fact turning upside down the history of learning and fair use just because it's a computer?
+---
+
+---
+ID: 70
+Speaker: Mr. Kitchen
+Date: 2023-07-18
+Hearing: Man and Machine: Artificial Intelligence on the Battlefield
+
+TEXT:
+Well, I would say that the two global powers where the competition matters most, historically, is between the United States and China. As I mentioned at the beginning of my testimony, a year ago, I had very real concerns as to how the United States was going to be able to maintain its AI advantage. But precisely because so much of the conversation around AI--legitimately so--the public conversation focuses on the risks and the kind of unknown, again, meaningful conversations. I do think--just analytically, I do believe that we have a moment to reassert American dominance in a way that really matters, that some of the things that I would have called a drag on our development and deployment from a national security perspective are actually lessening, and that if we realize this technology deliberately, then we can seize the advantage, and not just seize the advantage now, but actually build an advantage that will be meaningful over the long term. And I think that we should do everything we can to do that.
+---
+
+---
+ID: 71
+Speaker: Mr. Swanson
+Date: 2023-12-12
+Hearing: Considering DHS's and Cisa's Role in Securing Artificial Intelligence
+
+TEXT:
+Good morning, Members of the Subcommittee on Cybersecurity and Infrastructure Protection. I want to start by thanking the Chairman and Ranking Member for hosting this important hearing and inviting me to provide testimony. My name is Ian Swanson. I am the CEO of Protect AI. Protect AI is a cybersecurity company for artificial intelligence and machine learning. For many companies and organizations, AI is the vehicle for digital transformation, and machine learning is the power train. As such, a secure machine learning model serves as the cornerstone for a safe AI application. Imagine there's a cake right here before us. We don't know how it got here, who delivered it. We don't know the baker. We don't know the ingredients or the recipe. Would you eat a slice of this cake? Likely not. This cake is not just any dessert. It represents the AI systems that are becoming increasingly fundamental to our society and economy. Would you trust AI if you did not know how it was built, if you did not know the practitioner who built it? How would you know it is secure? Based on my experience, millions of machine learning models powering AI are currently operational Nation-wide, not only facilitating daily activities but also embedded in mission- critical systems and integrated within our physical and digital infrastructure. Given the importance of these systems to a safe, functioning Government, I pose a critical question: If this committee were to request a comprehensive inventory of all machine learning models and AI in use in any enterprise or U.S. Government agency detailing the ingredients, the recipe, and the personnel involved, would any witness, business, or agency be able to furnish a complete and satisfactory response? Likely not. Secure AI requires oversight and understanding of an organization's deployments. However, many deployments of AI are highly dispersed and can heavily be reliant on widely-used open-source assets essential to the AI life cycle. This situation pot
+---
+
+---
+ID: 72
+Speaker: Ms. Mace
+Date: 2023-09-14
+Hearing: How Are Federal Agencies Harnessing Artificial Intelligence?
+
+TEXT:
+And with that, we are going to go to--we are going to go to our witnesses, and when Ranking Member Connolly comes in, we will give him time for his opening statement. I am pleased to introduce our witnesses for today's hearing. Our first witness is Dr. Arati Prabhakar, Director of the White House Office of Science and Technology Policy and Assistant to the President for Science and Technology, earning her the designation as the President's science advisor. Dr. Prabhakar is also the first science advisor to be nominated to the President's Cabinet. This is Dr. Prabhakar's first appearance as a witness before Congress since her Senate confirmation last year. We are pleased to have you here today. I am grateful that you showed up. I will tell you not everybody does, and they sometimes send the under secretary of the under secretary or the assistant to the assistant to the assistant. And it is refreshing to have someone actually show up that we have asked for, and I just want to thank you for your time today. Our second witness is Dr. Craig Martell, Chief Digital and AI Officer with the Department of Defense. And our third witness is Mr. Eric Hysen, Chief Information Officer with the Department of Homeland Security. We welcome everyone. We are pleased to have all of you here this afternoon. So, pursuant to Committee Rule 9(g), the witnesses will, please, if you will stand, and raise your right hand. Do you solemnly swear or affirm the testimony you are about to give is the truth, the whole truth, and nothing but the truth, so help you God? Let the record show the witnesses all answered in the affirmative. So, we appreciate all of you being here today and look forward to hearing your testimony. I would like to remind the witnesses that we have read your written statements, and they will appear in full in the hearing record. Please limit your oral statements to 5 minutes. As a reminder, please press the button on your microphone in front of you so that it is on, and Member
+---
+
+---
+ID: 73
+Speaker: Dr. Martell
+Date: 2023-03-09
+Hearing: H.A.S.C. No. 118-11] DEFENSE IN A DIGITAL ERA:  ARTIFICIAL INTELLIGENCE, INFORMA
+
+TEXT:
+Thank you for those questions, Congressman Fallon. I echo what Mr.--Honorable Sherman said that it's mostly about data and it's mostly about Zero Trust, and let me--let me say that Zero Trust underlies it--it's a--it's a binary relationship that goes both ways, right. So we can't build what we build without the Zero Trust underpinnings that Mr. Sherman provides. But I also think AI can provide some help to security, particularly in anomaly detection. So once we know the flows and we can track the flows of people through the zero trust architecture, we can build systems that will help us detect whether it's an anomalous flow, something we might want to look at. We might want to just sort of dive a little deeper there.
+---
+
+---
+ID: 74
+Speaker: Ms. Mace
+Date: 2023-09-14
+Hearing: How Are Federal Agencies Harnessing Artificial Intelligence?
+
+TEXT:
+Thank you, Mr. Hysen. I know votes have just been called. I am going to, before I gavel out--and my colleagues can leave to go vote. I am just going to ask my questions before we go and gavel out. Dr. Prabhakar--I am going to recognize myself for 5 minutes. My first question is to you, Dr. Prabhakar. As the President's science advisor, you are the President's top artificial intelligence advisor, I expect you regularly brief him on AI. The Associated Press has quoted you as saying in a recent interview you have had several conversations with him about AI. How many times have you been able to brief him thus far in this position?
+---
+
+---
+ID: 75
+Speaker: Mr. Lieu
+Date: 2023-06-22
+Hearing: Artificial Intelligence: Advancing Innovation Towards the National Interest
+
+TEXT:
+Thank you, Chairman Lucas. Thank you for holding this important hearing, and it's been very informative. Generalized large language models are incredibly expensive to create and to operate. There was an article earlier this month in the Washington Post. The title of it was ``AI Chatbots Lose Money Every Time You Use Them.'' And it goes on to say the cost of operating the systems is so high that companies aren't deploying their best versions to the public. Estimates are that OpenAI lost over $500 million last year. So my first question is to Dr. Farshchi. Do you think OpenAI can be profitable?
+---
+
+
+## Output Format
+Return a JSON array with one object per segment:
+```json
+[
+  {
+    "id": 1,
+    "primary_frame": "ECO",
+    "secondary_frames": ["REG"],
+    "valence": "POS",
+    "confidence": "high",
+    "notes": "Speaker emphasizes economic competitiveness and innovation"
+  },
+  ...
+]
+```
+
+Code all segments now. Output ONLY the JSON array, no other text.

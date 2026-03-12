@@ -1,0 +1,305 @@
+You are coding congressional hearing testimony for a framing analysis study.
+
+
+## Frame Codes
+
+| Code | Frame | Definition | Key Indicators |
+|------|-------|------------|----------------|
+| ECO | Economic Opportunity | AI as driver of growth, competitiveness, jobs | innovation, leadership, competitiveness, economic growth, jobs creation, productivity |
+| SEC | National Security | AI as defense/intelligence asset or threat | China, adversaries, defense, military, intelligence, strategic competition |
+| EXI | Existential Risk | AI as potential civilizational threat | alignment, extinction, superintelligence, control problem, catastrophic |
+| REG | Regulation/Governance | AI requiring oversight and rules | oversight, accountability, transparency, regulation, guardrails, legislation |
+| CIV | Civil Rights | AI and bias, privacy, discrimination | bias, discrimination, fairness, privacy, civil liberties, surveillance |
+| LAB | Labor/Automation | AI impact on workforce | displacement, automation, workforce, reskilling, jobs loss, workers |
+| HEA | Healthcare | AI in medical applications | diagnosis, treatment, patients, healthcare, medical, clinical |
+| CON | Consumer Protection | AI risks to consumers | scams, fraud, deepfakes, misinformation, consumer harm |
+
+## Valence Codes
+- POS: Positive framing (opportunity, benefit, progress)
+- NEG: Negative framing (risk, threat, harm, concern)
+- NEU: Neutral/balanced framing (descriptive, both sides)
+
+## Confidence Levels
+- high: Clear frame, obvious indicators
+- medium: Frame present but less explicit
+- low: Ambiguous, could be multiple frames
+
+
+## Instructions
+1. For each segment, identify the PRIMARY frame (most dominant)
+2. List any SECONDARY frames present (0-2 max)
+3. Assign a VALENCE (POS/NEG/NEU)
+4. Rate your CONFIDENCE (high/medium/low)
+5. Add brief NOTES explaining your coding decision
+
+## Segments to Code
+
+
+---
+ID: 76
+Speaker: Mr. Sherman
+Date: 2023-03-09
+Hearing: H.A.S.C. No. 118-11] DEFENSE IN A DIGITAL ERA:  ARTIFICIAL INTELLIGENCE, INFORMA
+
+TEXT:
+It absolutely motivated it and we've got to keep doing better on this front. As we conduct outreach to the Defense Industrial Base, as we organize ourselves internally, there's over a dozen DOD entities, large offices that are touching this sector here to make sure we are organizing properly and not double communicating or sending conflicting messages and also offering services as--to the Defense Industrial Base. For example, the National Security Agency's Cybersecurity Collaboration Center works--has service---- The Chairman. Your time has expired. However, I was going to ask that question in the second round. So why don't we plant a flag there and we'll come back to it? Sorry.
+---
+
+---
+ID: 77
+Speaker: Mr. Carter
+Date: 2023-12-12
+Hearing: Considering DHS's and Cisa's Role in Securing Artificial Intelligence
+
+TEXT:
+So let me re-ask that. Thank you very much. But what I really want to know is we're here. It's here. How can we learn, and how can we regulate it better to make sure that what has so much power, and so much potential to be good, we thwart the bad part? One example, I recently saw on social media a few weeks ago a message from what looked like, sounded like the President of the United States of America giving a message. Now to the naked eye, to the individual that's out there that's not paying attention to the wonders of AI, that was the President. How do we manage that? From a security risk, how do we know that it's that this person that's purporting to be Secretary Mayorkas telling us about a natural disaster or a security breach isn't some foreign actor? Any one of you, in fact, everyone quickly. We have about 2 minutes.
+---
+
+---
+ID: 78
+Speaker: Mr. Obernolte
+Date: 2023-06-22
+Hearing: Artificial Intelligence: Advancing Innovation Towards the National Interest
+
+TEXT:
+I partially agree. You know, I think it is-- it gets into a very dicey area when we talk about if someone's job is being impacted because AI is going to be extremely economically disruptive. And our job as lawmakers is to make sure that disruption is largely positive for the median person in our society. But, you know, jobs will be impacted. We hope that most will be positive and not negative. I actually think--and I am going to run out of time here, but I--we have a large body of legal knowledge already on this topic around the concept of fair use, and I think that that really is the solution to this problem. There'll be fair use of intellectual property in AI, and there'll be things that are-- clearly are not fair use or infringing. And I think that we can use that as a foundation, but I'd love to continue the discussion later.
+---
+
+---
+ID: 79
+Speaker: Ms. Moore
+Date: 2023-12-12
+Hearing: Considering DHS's and Cisa's Role in Securing Artificial Intelligence
+
+TEXT:
+I think that one of the things with any sort of preparation for the inevitable, or preparation for potential disaster, you know, catastrophe, if you will, really is rooted in exercises. I think that from an exercise perspective, we have to look at where we are vulnerable certainly, but we have to include all of the players. It's not just the systems that get attacked, but also everything from every place within the supply chain, as well as emergency management systems, as well as municipalities and localities. I think that one of the things that CISA does so well is around PSAs, for instance. I know that this is sort-of like a first step in this realm. What I mean by that is that does the average American know exactly what to do if they go to the ATM and it's failed or if their cell phone is not working or if they can't get community----
+---
+
+---
+ID: 80
+Speaker: Mr. Menendez
+Date: 2023-12-12
+Hearing: Considering DHS's and Cisa's Role in Securing Artificial Intelligence
+
+TEXT:
+I appreciate that, Mr. Chairman. I'd always be happy to yield to my colleague from Florida who is one of the best Members of this subcommittee, and I always appreciate her questions and insight. Mr. Chairman, Mr. Ranking Member, thank you for convening today's hearing. To our witnesses, thank you for being here. I want to talk about one of the fundamental structural issues with AI, how its design can lead to discriminatory outcomes. These types of generative AI that have captured public attention over the last year produce content based on vast quantities of data. Here's the problem: If those vast quantities of data, those inputs are biased, then the outcome will be biased as well. Here are a few examples. The Washington Post published a story last month about AI-image generators amplify bias in gender and race. When asked to generate a portrait photo of a person in Social Services, the image generator Stable Diffusion XL issued images exclusively of non-White people. When asked to generate a portrait photo of a person cleaning, all of the images were of women. In October, a study led by Stanford School of Medicine Researchers was published in the academic journal, ``Digital Medicine,'' that showed that large language models could cause harm by perpetuating debunked racist medical ideas. These questions are for any of our witnesses. How can developers of AI models prevent these biased outcomes?
+---
+
+---
+ID: 81
+Speaker: Mr. Luttrell
+Date: 2023-12-12
+Hearing: Considering DHS's and Cisa's Role in Securing Artificial Intelligence
+
+TEXT:
+I have 30 seconds. I'm sorry I can't get to each and every one of you. But I would really like to see a broken-out infrastructure on the viability of threats and the attack mechanism that we can populate or support at our level to get you what you need. Again, we can't see that speed. That is just--and I don't think people can appreciate the amount and just the sheer computational analytics that go into where we are right now, and we are still in our infancy. But if we had the ability to--you can put it in crayon for me, that's even better--So we can understand and not only speak--and then we understand but we can speak to others, like, this is why this is important and this is why we need to move in this direction in order to stay up front of the threats. But thank you. Mr. Chairman, I yield back.
+---
+
+---
+ID: 82
+Speaker: Mr. Irwin
+Date: 2023-05-17
+Hearing: Artificial Intelligence and Intellectual Property: Part I - Interoperability of 
+
+TEXT:
+I was just going to say that, certainly, in my own experience--and I'm sure for the other people here--you put in a lot of hours from a very young age to try and do what you do and become really good at it. To dismiss that in any way, I think that's the problem that a lot of us are having, it was Malcolm Gladwell who wrote, ``in 10,000 hours, you start to know what you're doing.'' If the machines can do it that quickly, what is the incentive for us to keep going? What really is it? For years and years and years, for as long as you can remember, going back to the court composers, the arts people have been traded on. Oh, they'll do it because they love doing it. They love doing it. It's true, we do love doing it. At some point, the love doesn't feed your family, and that's the real harm here, is there has to be a way for us to coexist. That's all we're looking for really.
+---
+
+---
+ID: 83
+Speaker: Mr. Mullin
+Date: 2023-10-18
+Hearing: Balancing Knowledge and Governance: Foundations for Effective Risk Management of
+
+TEXT:
+Thank you, Mr. Chair. Thank you all for your attendance at this important hearing. When we talk about trustworthy AI, the use of such technology in machines in the physical world pose a danger that I'd like to dig into just a little bit further. In San Francisco, which I partially represent, we have seen autonomous vehicles, or AVs, which had great promise, struggle to address some complex real-world situations. These malfunctions have obstructed public transit routes, blocked intersections, and impeded first responders from reaching people in need. Last month, I led a letter, along with Speaker Emerita Pelosi, to the National Highway Traffic Safety Administration (NHTSA) to improve its collection of safety data so different manufacturers may be compared relative to each other and relative to manually operated vehicles. We're waiting to hear back from NHTSA on what steps it plans to take. But this is just one area where we need to be able to assess AI capabilities and its limits. And I'm concerned that we do not have clear standards for the assessment of safety. So, Ms. Tabassi, could you share more about the work NIST is doing in this area relative to safety?
+---
+
+---
+ID: 84
+Speaker: Dr. Martell
+Date: 2023-03-09
+Hearing: H.A.S.C. No. 118-11] DEFENSE IN A DIGITAL ERA:  ARTIFICIAL INTELLIGENCE, INFORMA
+
+TEXT:
+Thanks for the question, Congressman Golden. Hallelujah. I think that would be amazing, particularly because the Defense Digital Corps' goal is to see--to figure out what talent is needed across the Department and to be able to bring that talent in and seed it but also manage it as a cohort because they're going to be onesies, twosies, and alone, and no one wants that job, right. And then--and but if they're a cohort and they can share-- and they can share problems, they can share issues, we can much better manage and grow them, right, and give them real careers. If we can do that seeding by folks coming in for--depending on how this works, we can talk about this afterwards. I would love to. But even if it's, you know, 2 weeks a year and a weekend a month but then periodically for a year at a time that would-- that would lend itself very nicely to the way we are thinking about it.
+---
+
+---
+ID: 85
+Speaker: Ms. Tabassi
+Date: 2023-10-18
+Hearing: Balancing Knowledge and Governance: Foundations for Effective Risk Management of
+
+TEXT:
+Thank you for that question, and that's a really important one. And what we learn in development of the AI RMF is the importance of reaching out and having many diverse views around the table. There are discussions around participatory engagements and how to bring the voices of the impacted community but also the voices of the group that study the impact of the AI systems or technology on the community and other people. Some of these frameworks talk about the impacted community ought to be consulted, but beyond that, they need-- also need to be--have an opportunity to contribute and collaborate. But ultimately, we need to have them as part of the co-design and involved in the earliest stages of the conversations.
+---
+
+---
+ID: 86
+Speaker: Ms. Moore
+Date: 2023-12-12
+Hearing: Considering DHS's and Cisa's Role in Securing Artificial Intelligence
+
+TEXT:
+I would just say that the space is evolving, and that there are many tools that are out there to detect this in papers and research work and that sort of thing. But you have to remember that generative AI looks and scans all of the work that's out there, and a lot of people have a lot of work out there. So, being able to defend against that and also being able to make sure that there is critical thinking happening in universities and critical thinking happening still for students even though they have this, you know, magnificent tool. I recently had a friend whose daughter had to appeal the university because she was accused of that, of having used a generative large language model. In reality, she was very--she was very prolific on the internet, and it was picking up her own work. So we have a ways to go with these technologies.
+---
+
+---
+ID: 87
+Speaker: Dr. Murdick
+Date: 2023-06-22
+Hearing: Artificial Intelligence: Advancing Innovation Towards the National Interest
+
+TEXT:
+Sure. I think that the large language models, which is the obsession right now of a lot of the AI systems, provides a very interesting example of this. China is very concerned about how it can destabilize their societal structure by having a system that they can't control and might say things that would be offensive about--they might bring up the Tiananmen Square or might associate the president with Winnie the Pooh or something, and that can be very destructive to their way of--their societal control. Because of this, they're really limiting control. They're passing regulations and laws that are very constraining of how that's going. So that is a difference between our societies and how we--what we view as acceptable. I do think the military control, the command-and-control emphasis, as well as the desire to maintain control through mass surveillance, if you look at their research portfolio, most of where they're leading is--could be very well associated with those types of areas, so I think those are differences that are pretty significant. We can go on, but I'm going to just pause there to make sure other people have----
+---
+
+---
+ID: 88
+Speaker: Mr. Fallon
+Date: 2023-07-18
+Hearing: Man and Machine: Artificial Intelligence on the Battlefield
+
+TEXT:
+Thank you, Mr. Chairman. I just want to follow up real quickly with Mr. Kitchen. Yeah, I think ransomware is an issue that--it is a huge problem already, and it is one that largely goes under the radar unless, you know, Colonial Pipeline is hit or something, JBS. And that is--everybody talked about it for a week and then forgot about it and acted as if it is not a real problem, which it is when you have friends in industry, small companies--100, 200 people--that are getting hit. Half-a-million-dollar ransoms now are being asked, or million-dollar ransoms, when a lot of the times, it was 50 grand a few years back. Do you think that with AI, are we going to face, as you just mentioned--but I want you to expand on it--an explosion in ransomware when you say it is democratized?
+---
+
+---
+ID: 89
+Speaker: Dr. Chowdhury
+Date: 2023-06-22
+Hearing: Artificial Intelligence: Advancing Innovation Towards the National Interest
+
+TEXT:
+What an excellent point. Thank you so much, Congresswoman. So, first of all, we need a wide range of perspectives in order to understand the impact of artificial intelligence systems. I'll give you a specific example from my time at Twitter. We held the first algorithmic bias bounty. That meant we opened up a Twitter model for public scrutiny. And we learned things that my team of highly educated Ph.D.'s wouldn't think of. For example, did you know if you put a single dot on a photo, you could change how the algorithm decided where to crop the photo? We didn't know that. Somebody told us this. Did you know that algorithmic cropping tended to crop out people in camouflage because they blended in with their backgrounds. It did what camouflage is supposed to do. We didn't know that. So we learn more when we bring more people in. So you know, open--more open access, independent researcher funding, red teaming, et cetera, opening doors to people will be what makes our systems more robust.
+---
+
+---
+ID: 90
+Speaker: Mr. O'Neill
+Date: 2023-12-12
+Hearing: Considering DHS's and Cisa's Role in Securing Artificial Intelligence
+
+TEXT:
+Thank you, Chairman Garbarino, Ranking Member Swalwell, and Members of the subcommittee for inviting me here today. I'm Tim O'Neill, the chief information security officer and vice president of product security at Hitachi Vantara. Hitachi Vantara's a subsidiary of Hitachi, Limited, a global technology firm founded in 1910, whose focus includes helping create a sustainable society via data and technology. We co-create with our customers to leverage information technology (IT), operational technology (OT), and our products and services to drive digital, green, and innovative solutions for their growth. IT is probably familiar to you, but OT encompasses data being generated by equipment, infrastructure, or a control system that can then be used to optimize the operation and for other benefits. Because of our heavy focus on the intersection of IT and OT, one of our major areas of business development and research has been in the industrial AI area. Industrial AI has the potential to significantly enhance the productivity of U.S. manufacturing and create working environments that benefit employees assembling products. Today's AI systems include tools that workers could use to enhance their job performance. Programs are predicting possible outcomes and offering recommendations based on the data being given to them and what the program has been trained to understand as the most likely scenario. That is true of a predictive maintenance solution Hitachi may create for a client to help them more quickly ascertain the likely cause of a breakdown or in the case of a generative AI system that is predicting what the next sentence could be in a maintenance manual. The U.S. Government has taken a number of positive steps over the last 5 years to promote and further development--and further the development of AI. We encourage the United States to further the development of AI through international engagements and reaffirming the United States' commitment to digital trade standards a
+---
+
+---
+ID: 91
+Speaker: Ms. Moore
+Date: 2023-12-12
+Hearing: Considering DHS's and Cisa's Role in Securing Artificial Intelligence
+
+TEXT:
+Well, I think it's commitment. I know that IBM, for instance, has stood up 20 HBCU cybersecurity centers across 11 States, and this is all at no additional cost to the folks who will get this training. I think that AI is not unlike cybersecurity. I think that when we look at the threats associated with that AI, it's just an expanding of the attack surface. So, we really need to treat this not as a completely totally different thing, but employ the tactics that have worked in educating and training people and ensuring that there is not a digital divide in AI in quantum and cybersecurity and all of the emerging technology areas. I also think that a best practice is to implement these things K-12, to start when folks are very young, and as they grow and as the technologies evolve, the knowledge can be evolving as well.
+---
+
+---
+ID: 92
+Speaker: Mr. Kratsios
+Date: 2023-10-18
+Hearing: Balancing Knowledge and Governance: Foundations for Effective Risk Management of
+
+TEXT:
+Yes, I think I am heartened to hear that a potential Executive order may be coming out this month, which will address some of the issues that are still outstanding from those EOs and legislation. I think the biggest challenge is that a lot of the requirements from the Executive orders and from the legislation are important foundational pieces that future regulatory structures are built on top of. So if you don't have a very clear understanding of sort of what the potential use cases are in an agency or what regulatory--if you don't do the hard work to actually assess where AI is going to impact the regulation--the regulatory regime that you're sort of overseeing, it's very hard for you to actually then proceed with actually doing the regulation itself. So I think we need to get--make sure that we have a strong foundation in place, and in doing so, then we can build on the important stuff that we've been talking about today.
+---
+
+---
+ID: 93
+Speaker: Dr. Martell
+Date: 2023-03-09
+Hearing: H.A.S.C. No. 118-11] DEFENSE IN A DIGITAL ERA:  ARTIFICIAL INTELLIGENCE, INFORMA
+
+TEXT:
+Thank you for that question, Chairman Gallagher. When I--I have been in the office now eight months and I've tried very hard to ignore history, and the reason I have is as I started going down that rabbit hole I felt myself being inculcated with the old ways of doing things. So I've asked myself what's the right solution, and we are now just turning to making sure that this right solution maps correctly to our goals. So, look, I think the right solution is building out a marketplace that allows multiple vendors to bring apps to bear where these older solutions were--and I am going to defer a lot to Honorable Sherman because I believe these were under his purview--but they were older--these older solutions had rigid requirements that were established a long time before delivery and by the time the delivery came the world has changed. We need to create a marketplace and infrastructure that allows for that dynamic change and that's how we are tackling JADC2. The Chairman. Mr. Sherman, in what little time I have left, I am pleased to hear that we are moving out on a multi-cloud expeditiously. However, it seems we just lost the last 2 and a half years. What lessons should we derive from that?
+---
+
+---
+ID: 94
+Speaker: Ms. Moore
+Date: 2023-12-12
+Hearing: Considering DHS's and Cisa's Role in Securing Artificial Intelligence
+
+TEXT:
+I'll take that. First of all, in terms of both from a security standpoint as well as from a bias standpoint, all teams need to be diverse. Let me just say that from a security standpoint when we're doing things like red-teaming and we're going in and assessing vulnerabilities, we need a team of folks that are not just security people. We need folks who are also very deep in terms of subject-matter expertise around AI and how people develop models, training models associated with malware that is adaptive, maybe, in nature, but those teams don't look like our traditional red-teaming teams. On the bias front, same thing. The data scientists, developers, and folks that are building the models and determining the intent of the model need to look like everybody else who is impacted by the model. That's how we move further away from disparate impact where groups are impacted more than others. Algorithms control who gets in what school, what kind of insurance you have, where you live, if you get a mortgage, all of these things. These are very important things that impact our lives. So when folks are building models, the intent of the model and the explainability of the model, being able to explain the purpose, where the data came from, and attribute those sources, being able to ensure that that model is ethical. These are all things that security may not--may be able to point out to you the problem, but the tone is at the top of the organization in terms of----
+---
+
+---
+ID: 95
+Speaker: Mr. Sorensen
+Date: 2023-06-22
+Hearing: Artificial Intelligence: Advancing Innovation Towards the National Interest
+
+TEXT:
+I'd like to begin by thanking Chairman Lucas and Ranking Member Lofgren for convening this hearing and for our witnesses today. Building AI systems responsibly is vital. I believe Congress is instrumental in providing the guardrails with which AI can be implemented. However, there's much that the private sector must do as well. Dr. Chowdhury, how should we audit AI systems to ensure that they do not provide unintended output? How do we ensure that companies that create the algorithms are using accurate datasets when training the system? And also, I've met with Amazon, Microsoft, and Google and each have different stances on the need for guardrails within their companies. One representative of one of these companies says it's actually Congress' job. So do we need a system like the European Union's AI Act, which includes the concept of triangles of risk? And how can Congress learn from the Europeans concept?
+---
+
+---
+ID: 96
+Speaker: Chair Durbin
+Date: 2023-05-16
+Hearing: Oversight of A.I.: Rules for Artificial Intelligence
+
+TEXT:
+Yes, Mr. Chairman. Thank you very much, and Senator Hawley, as well. Last week in this Committee, full Committee, Senate Judiciary Committee, we dealt with an issue that had been waiting for attention for almost two decades, and that is what to do with the social media when it comes to the abuse of children. We had four bills, initially, that were considered by this Committee, and--what may be history in the making--we passed all four bills with unanimous roll calls. Unanimous roll calls. I can't remember another time when we've done that on an issue that important. It's an indication, I think, of the important position of this Committee in the national debate on issues that affect every single family and affect our future in a profound way. 1989 was a historic watershed year in America because that's when ``Seinfeld'' arrived, and we had a sitcom which was supposedly about little or nothing, which turned out to be enduring. I like to watch it, obviously, and I always marvel when they show the phones that he used in 1989, and I think about those in comparison to what we carry around in our pockets today. It's a dramatic change. And I guess the question, as I look at that, is: Does this change in phone technology that we've witnessed through this sitcom really exemplify a profound change in America? Still unanswered. But the basic question we face is whether or not the issue of AI is a quantitative change in technology or a qualitative change. The suggestions that I've heard from experts in the field suggest it's qualitative. Is AI fundamentally different? Is it a game changer? Is it so disruptive that we need to treat it differently than other forms of innovation? That's the starting point. And the second starting point is one that's humbling, and that is the fact that when you look at the record of Congress in dealing with innovation, technology, and rapid change, we're not designed for that. In fact, the Senate was not created for that purpose but just the opposit
+---
+
+---
+ID: 97
+Speaker: Chair Coons
+Date: 2023-06-07
+Hearing: Artificial Intelligence and Intellectual Property--Part I: Patents, Innovation, 
+
+TEXT:
+Thank you, Ms. Sheridan. Professor Abbott. STATEMENT OF RYAN ABBOTT, PROFESSOR OF LAW AND HEALTH SCIENCES, UNIVERSITY OF SURREY SCHOOL OF LAW, GUILDFORD, UNITED KINGDOM, AND ADJUNCT ASSISTANT PROFESSOR, DAVID GEFFEN SCHOOL OF MEDICINE, UNIVERSITY OF CALIFORNIA, LOS ANGELES, CALIFORNIA Professor Abbott. Thank you, Chairman Coons, Ranking Member Tillis, and Members of the Committee. A picture is worth a thousand words, and I've tried to do one better with a 3D- printed model of an AI-generated invention. We call this the fractal container because it's a beverage container based on fractal geometry. The United Kingdom Intellectual Property Office, the U.K. analog of the United States Patent and Trademark Office, conducted a substantive examination on this and determined it was new, inventive, and useful, which are the major requirements to get a patent. The invention came from an AI system called Davis. Davis was built and trained by people, but on general knowledge rather than on knowledge specifically about container design. It was not asked to solve a specific problem, and its user had no training in container design or specific intent to design a new container. Davis was built to combine simple ideas and concepts into more complex ones and identify when a complex concept had a positive outcome. Here it identified that a beverage container based on fractal geometry would have higher surface area, which would improve heat transfer like the opposite of a thermos, and it would make it easier to grip. All that before a human being laid eyes on the AI's output. If the AI had been a human being, it would be the patent inventor. When I actually had one 3D- printed, I was surprised at how easy it was to grip, which might make it easier for someone with Parkinson's disease to use. I was also surprised to see how difficult it was to drink out of, and it is effectively impossible to clean. But it is an invention rather than a commercial product. And yet troublingly, the United
+---
+
+---
+ID: 98
+Speaker: Ms. Givens
+Date: 2023-03-08
+Hearing: Artificial Intelligence: Risks and Opportunities
+
+TEXT:
+This Committee has taken some important steps to show the need for rigorous processes and how agencies think about their use, design, procurement of AI. I think there is still quite a lot of room for growth. The AI Risk Management Framework released by NIST is an excellent starting point, but we really need to operationalize it. We need to make sure that it is useful for people in the sectors of applicability where they are working. NIST needs to keep up its work on measurement strategies and ways to actually identify bias and assess whether or not interventions are working and are appropriate. Then one of the leading things that this Committee helped generate, and it is being bolstered by a number of Executive Orders, is the inventory of agency uses of AI and guidance coming from OMB, and those are still works in progress as far as I understand. One of the priorities, I think, needs to be expediting that work, for OMB to play its central coordinating role, helping guide acquisition and use principles, and then starting the cycle of agencies inventorying their uses and showing how they are going to comply with that guidance in a meaningful way.
+---
+
+---
+ID: 99
+Speaker: Dr. Ding
+Date: 2023-09-19
+Hearing: Open Hearing: Advancing Intelligence in the Era of Artificial Intelligence: Addr
+
+TEXT:
+It's a great question. I do think that a sector- specific regulatory model is a good starting point, because AI will have different risks across different sectors. In fact, the European Union is a good model for this. In their EU/AI regulations, they have identified certain high-risk applications, where there are more stringent regulations. So, I think the crucial work to be done is identifying which sectors or which specific type of applications would be considered more high risk than others. Obviously, the use of AI in a nuclear power plant, for example, or a chemical processing plant, might be higher risk. And then there are other applications that are in a murky area, such as large language models and content generation models. It's more difficult to assess how you would compare the safety risks of those against more traditional industries.
+---
+
+---
+ID: 100
+Speaker: Mr. Smith
+Date: 2023-09-12
+Hearing: Oversight of A.I.: Legislating on Artificial Intelligence
+
+TEXT:
+But there's two questions that I think are at least are worthy of thought. Number one, do you want General Motors to sell or manufacture cars--let's just say sell cars in China? Do you want to create jobs for people in Michigan or Missouri so that those cars can be sold in China? If the answer to that is yes, then think about the second question. How do you want General Motors in China to run its operations, and where would you like it to store its data? Would you like it to be in a secure data center run by an American company, or would you like it to be run by a Chinese company? Which will better protect General Motors' trades secrets? I'll argue we should be there so that we can protect the data of American companies, European companies, Japanese companies. Even if you disagree on everything else, that I believe serves this country well.
+---
+
+
+## Output Format
+Return a JSON array with one object per segment:
+```json
+[
+  {
+    "id": 1,
+    "primary_frame": "ECO",
+    "secondary_frames": ["REG"],
+    "valence": "POS",
+    "confidence": "high",
+    "notes": "Speaker emphasizes economic competitiveness and innovation"
+  },
+  ...
+]
+```
+
+Code all segments now. Output ONLY the JSON array, no other text.

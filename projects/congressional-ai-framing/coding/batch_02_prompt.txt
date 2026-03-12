@@ -1,0 +1,305 @@
+You are coding congressional hearing testimony for a framing analysis study.
+
+
+## Frame Codes
+
+| Code | Frame | Definition | Key Indicators |
+|------|-------|------------|----------------|
+| ECO | Economic Opportunity | AI as driver of growth, competitiveness, jobs | innovation, leadership, competitiveness, economic growth, jobs creation, productivity |
+| SEC | National Security | AI as defense/intelligence asset or threat | China, adversaries, defense, military, intelligence, strategic competition |
+| EXI | Existential Risk | AI as potential civilizational threat | alignment, extinction, superintelligence, control problem, catastrophic |
+| REG | Regulation/Governance | AI requiring oversight and rules | oversight, accountability, transparency, regulation, guardrails, legislation |
+| CIV | Civil Rights | AI and bias, privacy, discrimination | bias, discrimination, fairness, privacy, civil liberties, surveillance |
+| LAB | Labor/Automation | AI impact on workforce | displacement, automation, workforce, reskilling, jobs loss, workers |
+| HEA | Healthcare | AI in medical applications | diagnosis, treatment, patients, healthcare, medical, clinical |
+| CON | Consumer Protection | AI risks to consumers | scams, fraud, deepfakes, misinformation, consumer harm |
+
+## Valence Codes
+- POS: Positive framing (opportunity, benefit, progress)
+- NEG: Negative framing (risk, threat, harm, concern)
+- NEU: Neutral/balanced framing (descriptive, both sides)
+
+## Confidence Levels
+- high: Clear frame, obvious indicators
+- medium: Frame present but less explicit
+- low: Ambiguous, could be multiple frames
+
+
+## Instructions
+1. For each segment, identify the PRIMARY frame (most dominant)
+2. List any SECONDARY frames present (0-2 max)
+3. Assign a VALENCE (POS/NEG/NEU)
+4. Rate your CONFIDENCE (high/medium/low)
+5. Add brief NOTES explaining your coding decision
+
+## Segments to Code
+
+
+---
+ID: 26
+Speaker: Dr. Porter
+Date: 2018-12-11
+Hearing: [H.A.S.C. No. 115-122] Department of Defense's Artificial Intelligence Structure
+
+TEXT:
+So it is kind of both, because that is what DARPA does. Now, to be clear, the $2 billion is over 5 years, so it is roughly $400 million a year. And they have several thrust areas that target these problems that I was talking about. So one I already told you about, this Exploration program, and this is that really rapid getting stuff out there and getting really great ideas funded. So we do exactly what you just said and provide that foundation for larger efforts. There is also a lot of focus on what I mentioned, adversarial AI. This is where it has been proven, and if you read the popular press there are these examples that people are publishing almost daily now, where they can spoof AI systems pretty easily. One of the ones that is notable, because in the self- driving car community they really took note of this, is there is a team at Berkeley, at the school out in California, they put tape on stop signs. And when you put the tape on the stop signs, the AI system thought the stop sign was a speed limit sign for 45 miles an hour. So you can imagine that is a little bit of a problem, right? And there are countless examples of this now. It is almost a game now where people are showing all the ways they can spoof these systems. So, obviously, if we are going to trust this and we are going to apply it to things where there are high stakes, i.e., the DOD mission, we have got to do much better at understanding how we ensure that people can't spoof our systems. There is a lot of research to be done there, and that is one of the key thrust areas in the AI Next program.
+---
+
+---
+ID: 27
+Speaker: Mr. Langevin
+Date: 2020-09-17
+Hearing: [H.A.S.C. No. 116-90]  Interim Review of the National Security Commission on Art
+
+TEXT:
+Agreed. Do any of you know of any international efforts, including at the U.N. , where this discussion and a framework for ethical use of AI is being undertaken with seriousness? Secretary Work. The primary place, right now, is looking at the ethical--the use of autonomous weapons and that is in the U.N., the United Nations' GGE, Group of Government Experts, as part of the CCW, the Convention on Certain Conventional Weapons. And that is very well attended by the Department of Defense and the Department of State and that is the primary place where the debate over how far and in what form AI-enabled autonomous weapons can be or should be used on the battlefield.
+---
+
+---
+ID: 28
+Speaker: Chairman Foster
+Date: 2021-10-13
+Hearing: Beyond I, Robot: Ethics, Artificial Intelligence, and the Digital Age
+
+TEXT:
+It is my understanding that she is not able to make it right now, so we will move on. Today, we welcome the testimony of our distinguished witnesses: Ms. Meredith Broussard, an associate professor at the Arthur L. Carter Journalism Institute of New York University; Ms. Miriam Vogel, the president and CEO of EqualAI; Ms. Meg King, the director of the Science and Technology Innovation Program at the Wilson Center; Mr. Jeffery Yong, principal advisor at the Financial Stability Institute of the Bank for International Settlements; and Mr. Aaron Cooper, the vice president for global policy at BSA--The Software Alliance. Witnesses are reminded that their oral testimony will be limited to 5 minutes. You should be able to see a timer on your screen which indicates how much time you have left. I would ask you to be mindful of the timer, and quickly wrap up your testimony once the time has expired, so that we can be respectful of both the witnesses' and the members' time. And without objection, your written statements will be made a part of the record. Ms. Broussard, you are now recognized for 5 minutes to give an oral presentation of your testimony. STATEMENT OF MEREDITH BROUSSARD, ASSOCIATE PROFESSOR, ARTHUR L. CARTER JOURNALISM INSTITUTE OF NEW YORK UNIVERSITY
+---
+
+---
+ID: 29
+Speaker: Mr. Beyer
+Date: 2019-06-26
+Hearing: Artificial Intelligence: Societal and Ethical Implications
+
+TEXT:
+Thank you, Madam Chair. And thank you for holding this hearing. I really want to thank our four panelists for really responsible, credible testimony. I'm going to save all of these printed texts and share them with many friends. You know, the last 4 years on the Science Committee, AI has come up again and again and again. And we've only had glancing blows at the ethics or the societal implications. We've mostly been talking the math and the machine learning and the promise. Even yesterday, we had Secretary Rick Perry--I can't remember which department he represents, but he was here yesterday--just kidding--raving about artificial intelligence and machine learning. And thanks, too, for the concrete recommendations; we don't often always get that in the Science Committee. But I counted. There were 24 concrete recommendations that you guys offered, everything from waiving trade secrecy to benchmarking machine learning for its societally harmful failures to even an AI tax, which my friends on Ways and Means will love. But the one ethical societal failure that we haven't talked about is sort of driven by everything you did. One of your papers talked about the 300,000-time increase in machine- learning power in the last 5 or 6 years compared to Moore's law, which would have been 12 times in the same time. In Virginia, we have something like 35,000 AI jobs we're looking to fill right now. And one of the other papers talked about awareness. And we have certainly had computer scientists here in the last couple of years who talked about ambition awareness. So let me ask the Skynet question. What do you do about the big picture when--well, as my daughter already says, Wall Street is almost completely run right now by machine learning. I mean, it's all algorithms. I visited the floor of the New York Stock Exchange a couple weeks ago with the Ways and Means Committee, and there were very few people there. The people all disappeared. It's all done algorithmically. So let's talk a
+---
+
+---
+ID: 30
+Speaker: Mr. Roberts
+Date: 2008-01-29
+Hearing: The Use of Artificial Intelligence to Improve the U.S. Department of Veterans Af
+
+TEXT:
+No. This is--CPI was put into place several years ago. They used to have a team concept where files were rated. Everything was done within the same team. And the file stayed within that team. The way they have it set up now, everybody is doing part of the assembly line process. And they have their own specific part. And then it is passed on to the next person to do theirs. So it was a little bit easier years ago to do the claim, because you have RVSRs. You had decision review officers. You had veteran service representatives. You had all the components to work the claim right there on one team. Now responsibility gets passed along to whoever takes over after they get done with their part. And they pass it on to someone else. So it is hard to track.
+---
+
+---
+ID: 31
+Speaker: Dr. Bethel
+Date: 2017-12-12
+Hearing: Digital Decision-Making: The Building Blocks of Machine Learning and Artificial 
+
+TEXT:
+Good morning, Chairman Wicker, Ranking Member Schatz, and members of the Committee. Thank you for the opportunity to appear before you today. I'm Dr. Cindy Bethel. I'm Associate Professor of Computer Science and Engineering at Mississippi State University, or MSU. It is an honor to speak with the Committee today about digital decisionmaking associated with artificial intelligence, known as AI, from the academic perspective, and about applications of AI being developed at MSU. Today I will address three primary areas: first, a brief introduction to AI; next, three AI projects being developed at MSU; and last I will discuss some key points associated with AI. A critical aspect associated with the advancement of science and technology is the development of algorithms with AI including machine learning for digital decisionmaking. In order for a system to make a decision, it must first acquire information, process and learn from that information, and then use that information to make decisions. The gold standard would be the ability for a system to make a decision in a manner similar to a human expert in that area. This is a relatively new field of science that will be--provide ongoing research opportunities, including efforts to enhance existing algorithms and develop new and more efficient and effective algorithms. This is critical to the overall advancement of science in various disciplines, such as robotics, medicine, economics, and others. There are countless application areas for which AI is beneficial and may make a significant impact on society. At MSU, we are on the forefront of AI developments with our research efforts, and today I will focus on three of those-- excuse me--projects. First is the integration of robots into high-risk law enforcement operations, such as SWAT teams, who I've trained with monthly for the last 6 years. This is an application for highly dynamic situations that require officers to make life- critical decisions. The more information the
+---
+
+---
+ID: 32
+Speaker: Senator Rounds
+Date: 2022-05-03
+Hearing: Artificial Intelligence Applications to Operations in Cyberspace
+
+TEXT:
+Thank you, Mr. Chairman. I would agree with you. I think one of the nice things about it right now is that we have multiple grids out there, and they can take one but they would have to basically take multiples in order to get the entire country. But grid by grid, yeah, they are vulnerable. I am just curious. The NSCAI Commission, of which two of you were members, in your final report you stated that the expanding application of existing AI cyber capabilities will make cyberattacks more precise and tailored, further accelerate and automate cyber warfare, enable stealthier and more persistent cyber weapons, and make cyber campaigns more effective on a larger scale. I would like to hear your perspectives with regard to the threat assessment today, where we are today, with regard to AI- enabled cyberattacks on the DODIN [Department of Defense Information Network] and on the individual businesses within the United States? Where are we at today?
+---
+
+---
+ID: 33
+Speaker: Mr. Brown
+Date: 2019-03-12
+Hearing: Artificial Intelligence Initiatives Within the Department of Defense
+
+TEXT:
+I'll take a crack at that. This is obviously much broader than a Department of Defense strategy. I think we know well how to win a tech race, because we did it quite effectively the last time we were involved in one with the Soviets in the Cold War and afterwards. It starts with, What are doing to invest in ourselves? All the breakthroughs that Silicon Valley is benefiting from, even today in our economy, as we look at some of these software IPOs [initial public offerings]--Uber, Lyft, AirBNB--have come from federally funded research. I credit DARPA and the other parts of the Federal Government that create those breakthroughs--Internet, GPS , miniaturized electronics, et cetera. I think it starts with what we do in federally funded research, education. What we did to focus on engineering and science after Sputnik, need to do that again. Then the national purpose. What we have now with the executive order, how do we build on that to create a common purpose about this being important? My concern would be that--How many Americans know about the national order on artificial intelligence, and how many young people are we reaching to inspire that this needs to be their mission? Because this technology race, especially on AI, is going to be multigenerational. It's not going to be lasting one administration, or two. We've got to get the national purpose behind this to support, then, what we can do to leverage that in the Defense Department.
+---
+
+---
+ID: 34
+Speaker: Dr. Bethel
+Date: 2017-12-12
+Hearing: Digital Decision-Making: The Building Blocks of Machine Learning and Artificial 
+
+TEXT:
+In the context of autonomous vehicles, humans are able to adjust to very rapidly changing, unpredictable environments, things happening in the environment. Our sensor systems and our onboard processing in autonomous vehicles is just not to a point where it can make those kind of adjustments that rapidly currently with current technology to be able to adjust to that. So in those cases where you have an erratic driver who is doing unpredictable behaviors, it's really hard sometimes for the system to be able to detect that and react accordingly. In those cases, a human currently is making better decisions on autonomy--over an autonomous vehicle in that kind of environment.
+---
+
+---
+ID: 35
+Speaker: Senator Wicker
+Date: 2017-12-12
+Hearing: Digital Decision-Making: The Building Blocks of Machine Learning and Artificial 
+
+TEXT:
+OK. Now, most of the panel, if not all the panel, seems to think we lead the world, it's just a question of whether we're going to continue leading the world. Senator Schatz said he doesn't think with regard to national policy we'll take a European approach. Rather than ask him what he means by that, let me ask the panel, are there mistakes that our international competitors, whether in Europe or Asia or Africa or wherever, are making that we need to avoid? Are there overreaches in terms of regulation that we need to avoid? Everybody is trying to get ahead. The testimony is that China is making an important effort, the U.K., Japan, our neighbor to the north, but in terms of things we can avoid, mistakes that other countries have made, does anybody have a suggestion that we need to be mindful of as we work on Senator Young and Senator Cantwell's and Senator Schatz's legislation? Yes, Mr. Castro.
+---
+
+---
+ID: 36
+Speaker: Senator Schatz
+Date: 2017-12-12
+Hearing: Digital Decision-Making: The Building Blocks of Machine Learning and Artificial 
+
+TEXT:
+I think everything has been said, but not everybody has said it. So good morning. Thank you very much, Mr. Chairman. AI is advancing fast. Each year, processing power gets better, hardware gets cheaper, and algorithms are easier to train thanks to bigger and better datasets. These advances are, for companies and economies, great opportunities. Technologists, historians, and economists say that we're at the cusp of the next industrial revolution, but there are concerns. We've seen that AI can be a black box. It can make decisions and come to conclusions without showing its reasoning. There are also known cases of algorithms that discriminate against minority groups, and when you start to apply these systems to criminal justice, health care, or defense, the lack of transparency and accountability is worrisome. Given the many concerns in a field that's advancing so quickly and is so revolutionary, it's hard to believe that there is no AI policy at the Federal level, and that needs to change. To start, the government should not purchase or use AI systems if we can't explain what it does, especially if these systems are making decisions about our citizens' lives. There also needs to be more transparency and consumer control on data collection. Too many consumers still do not know what data is being collected, how it's being collected, or who owns it. Some of our current laws and regulations work, but some of them are too old and outdated to be used as a strong foundation for AI. For example, companies often use data scraping to build their AI models. This falls under the Computer Fraud and Abuse Act, a 1986 law that was written before the Web was really in operation. AI is now used to write news articles, edit photographs, artificially reconstruct movies, all actions that fall under the Digital Millennium Copyright Act, which was passed in 1998, 10 years before the iPhone. Our laws used to apply to actions in the physical world, but now they apply to software systems tha
+---
+
+---
+ID: 37
+Speaker: Senator Udall
+Date: 2017-12-12
+Hearing: Digital Decision-Making: The Building Blocks of Machine Learning and Artificial 
+
+TEXT:
+Thank you, Mr. Chairman. And thank you to all the witnesses here today. I think this has been very excellent testimony. And obviously there are some very positive aspects to AI. But I wanted to ask about the bots and the software used to hurt consumers. The New York Times recently reported on so-called ``Grinch bots,'' software used to predict the web links of the in-demand toys and other merchandise and to purchase the goods before the general public has access to these items. This practice has caused many of this holiday season's most popular items, such as Fingerlings, Super Nintendo Classic Edition, Barbie Hello Dreamhouse, to be sold out online within seconds. However, one can go to eBay and easily find these same products available for increased costs, sometimes dramatically increased. Have either of your organizations worked with retailers to prevent software bots from taking advantage of Internet deals to jack up the prices of goods? Can you identify other ways to prevent these software bots from using machine learning to become more and more sophisticated?
+---
+
+---
+ID: 38
+Speaker: Senator Blumenthal
+Date: 2017-12-12
+Hearing: Digital Decision-Making: The Building Blocks of Machine Learning and Artificial 
+
+TEXT:
+Thanks, Mr. Chairman. I apologize that I missed some of your testimony so far, but I know that this panel has been very important and enlightening, and I thank you for being here. As you well know, the success of autonomous vehicles is closely linked with the success of AI. An autonomous vehicle can only perform as well as the input it receives. A lot of us know the statistic that 94 percent of the 37,000 deaths on the road each year are attributable to human error--97 percent. The hope is that autonomous vehicles will eliminate that human error. What we really lack is information on the extent, to what extent that is caused by human error will be possibly replaced by computer error. And we know computers are not infallible. I wonder, Dr. Bethel, whether you could talk about some of the tasks in which humans still perform better than computers or an AI system in the context of autonomous vehicles, if you're able.
+---
+
+---
+ID: 39
+Speaker: Chairman Thune
+Date: 2016-11-30
+Hearing: The Dawn of Artificial Intelligence
+
+TEXT:
+STATEMENT OF HON. JOHN THUNE, U.S. SENATOR FROM SOUTH DAKOTA The Chairman. Thank you, Mr. Chairman, for convening today's Subcommittee hearing on artificial intelligence. This topic complements our last full committee hearing, which explored another nascent technological field: augmented reality. I'm excited by this topic, because AI has the potential to catapult the United States economy and competitiveness in both the near-and the long-term future. AI presents promising applications in the areas of healthcare, transportation, and agriculture, among others. And I want to thank our witnesses for sharing and highlighting some of those applications today. The recent report and strategy on AI released by the White House Office of Science and Technology Policy provide Congress with important considerations to weigh as we think about what the appropriate role of government is in this promising field so that we ensure that the United States remains the preeminent place for AI in the global economy. And so, I appreciate, again, the witnesses sharing your insights about what the state-of-the-art is today and where the Nation's leading experts see the applications, moving forward. I wanted to direct a question, Dr. Horvitz, to you. You mentioned, in your testimony, that new kinds of automation present new attack surfaces for cyberattacks. And I wonder if maybe you could elaborate on what some of those new cybersecurity vulnerabilities might be.
+---
+
+---
+ID: 40
+Speaker: Dr. Horvitz
+Date: 2016-11-30
+Hearing: The Dawn of Artificial Intelligence
+
+TEXT:
+Well, for one, I think that we'll be seeing interesting legal tests and precedents set up that define new kinds of frameworks for dealing with things like liability. Who or what is responsible? Manufacturers? The drivers of cars? The people who have signed various documents when cars were purchased? I think that we haven't--things are unsettled in that space, and we'll be seeing lots of interesting work there. And there are some very interesting focused workshops and conferences where people ask these questions. When it comes to using various AI technologies, going from machine learning for building classifiers that do predictions and that are used to reason about interesting problems like criminal justice challenges. Should this person charged with a crime have to stay in jail in advance of their court date, or can they get out early if they can't pay their bail? They're the systems out there that have been used and critiqued, and it's pretty clear that there is opportunity for looking very carefully at systems that are used in high-stakes situations like this to ensure that there are not implicit biases in those systems, to assure that there's accountability and fairness. And----
+---
+
+---
+ID: 41
+Speaker: Dr. Highnam
+Date: 2019-03-12
+Hearing: Artificial Intelligence Initiatives Within the Department of Defense
+
+TEXT:
+Really, within the last 10 years, when you think about the kind of technologies. A lot of transitions and successes over the decades, much accomplished, and much still to do. DARPA describes the investments in AI using a waves construct. The first wave at the beginning, for the first 20 years or so, are normally known as describe. This is where knowledge was encoded in rules, ``If A, then B.'' If you look inside the tax--if you do personal taxes today, there's a rule- based system inside there that was what, 40 years ago, would have been called AI technologies, now is just computer science, or IT . That's the price of success. It's no longer AI. It's just commonplace. Then, beginning in the mid-1970s, the technology--science had put in place to begin what became machine learning. The theory was put down, but it--only in the last 10-15 years, we now have the compute cycles, we have the data availability. That's when the current wave, the second wave, of machine learning really took place and really came into being. Now we're looking past that, at DARPA, into what comes next. We have two waves of technology. One was descriptive, one was recognizing situations, classifying, and so on. Now we have to be able to explain, to really build the trust between these systems and the people who are using them and working with them in realtime, in difficult, stressful situations, but building the trust so that they really can become partners. This is the role of explanation. It's a great time to be at DARPA, because we're now on the brink of a lot of really exciting things. That's the genesis of the current initiative, the $2 billion investment that we've said we're now making in AI technologies. That said, there's a brittleness to the current technologies. The tools are immature, still. We don't have an engineering discipline behind AI technologies. There are issues, that I'm sure everyone will talk to you about, about missing data volume, missing data quality, provenance, and s
+---
+
+---
+ID: 42
+Speaker: Dr. Horvitz
+Date: 2016-11-30
+Hearing: The Dawn of Artificial Intelligence
+
+TEXT:
+Well, that's exactly where I'm going. That's exactly where I'm going. So, the question would be, ``What are best practices?'' for example, and do we need them when it comes to these kinds of applications? For example, potentially with protecting privacy, should datasets used in these applications be disclosed and disclosable for study and investigation and interrogation by people who want to make sure that they're fair and that there can be trust in these systems? The basic idea here is that many of our datasets have been collected in advance, with assumptions we may not deeply understand, and we don't want our machine-learned applications used in high-stakes applications to be amplifying cultural biases or any kind of biases that was part of the collection process.
+---
+
+---
+ID: 43
+Speaker: Senator Wicker
+Date: 2017-12-12
+Hearing: Digital Decision-Making: The Building Blocks of Machine Learning and Artificial 
+
+TEXT:
+I would like to enter into the record a letter from the Information Technology Industry Council and a letter from the Electronic Privacy Information Center without objection. And that's so ordered. Information Technology Industry Council Washington, DC, December 11, 2017 Hon. Roger Wicker, Chairman, Hon. Brian Schatz, Ranking Member, Subcommittee on Communications, Technology, Innovation, and the Internet, U.S. Senate Committee on Commerce, Science, and Transportation, Washington, DC. Dear Chairman Wicker and Ranking Member Schatz: In advance of your hearing on ``Digital Decision-Making: The Building Blocks of Machine Learning and Artificial Intelligence,'' I am writing to thank you for interest in and attention to the exciting innovation that is Artificial Intelligence (AI). ITI represents more than 60 of the world's leading information and communications technology (ICT) companies. Our companies are the most dynamic and innovative companies from all corners of the ICT sector, including the development and deployment of AI. I submit this letter on behalf of ITI and its members, and respectfully request that you enter it into the hearing record. Artificial intelligence (AI) technology is an integral part of our daily lives, work, and existence. It's already made an important mark on much of our society and economy, and the exciting part is that we're just seeing the beginning of its benefits. Go to any hospital and medical research center and you will see how doctors and medical providers use AI to save lives. For example, the company Berg uses AI to analyze large amounts of oncological data to create a model of how pancreatic cancer functions, enabling us to develop chemotherapy to which cancer cells are more responsive. Educators across the country use AI to enhance the potential for future generations to grow and learn. Thanks to IBM's Teacher Advisor, a new tool based on its Watson cognitive computing platform, third- grade math teachers can develop personalized
+---
+
+---
+ID: 44
+Speaker: Senator Blumenthal
+Date: 2017-12-12
+Hearing: Digital Decision-Making: The Building Blocks of Machine Learning and Artificial 
+
+TEXT:
+In your testimony, you say, and I'm quoting, ``A current limitation to the advancement of artificial intelligence is the quality and cost effectiveness of sensing capabilities to provide high-quality information or data to the system to make those digital decisions. We have a long way to go in the advancement of artificial intelligence-- ,'' ``We have come a long way in the advancement of artificial intelligence,'' excuse me, ``however, we still have a long way to go.'' Sensing, perceiving, interpreting, surroundings are essential to driving a vehicle. Can you describe some of the limitations in the current computer vision and sensing technologies?
+---
+
+---
+ID: 45
+Speaker: Dr. Lohn
+Date: 2022-05-03
+Hearing: Artificial Intelligence Applications to Operations in Cyberspace
+
+TEXT:
+I have tried to study this directly, and U.S. is ahead. China has been gaining. We still have an innovation lead, I am confident to say, and we also have companies like those represented here that give us a huge leg up. What I would like to point out, from a DOD perspective, is that the DOD has an opportunity to step ahead of industry in the adversarial context. A lot of the time my co- panelists here are developing products that do not have a natural adversary trying to mess with them, but the DOD does. And so that is a place where we really need to focus a little bit further on what is somebody going to do to subvert our systems as we deploy them.
+---
+
+---
+ID: 46
+Speaker: Senator Cantwell
+Date: 2017-12-12
+Hearing: Digital Decision-Making: The Building Blocks of Machine Learning and Artificial 
+
+TEXT:
+Well, I like the notion just in the fact that because there are things called human error, that you can, you know, use this to look for faults in code and weak points and do--because that's what someone else is doing, right? And so the sooner that you can find that yourselves and detect that and create another security layer, the better. Is there any other government application that you think we should be investigating on? Some people say on like health statistics and things of that nature, but I don't know if you-- anybody else on the panel has----
+---
+
+---
+ID: 47
+Speaker: Dr. Moore
+Date: 2016-11-30
+Hearing: The Dawn of Artificial Intelligence
+
+TEXT:
+There are some other areas, such as intelligent braking in cars, where there are some legislative questions which might slow us down. For example, it would be tragic if some lifesaving technology, which would make cars safer, couldn't be released because the legal questions about who is responsible got in the way. What I'm talking about here is, if I, as a software developer, invent a new collision-avoidance system which unambiguously reduces fatalities by a factor of three, but occasionally, unfortunately, 1 in 1,000 times, maybe there's a disaster, there is a difficult question as to how, legislatively, we make sure we're ready for this. So, I can imagine a potential impasse between insurance companies, policymakers, drivers, and car manufacturers, where no one is willing to put lifesaving technology into these systems because it's still ambiguous who has the responsibility for what.
+---
+
+---
+ID: 48
+Speaker: Dr. Highnam
+Date: 2019-03-12
+Hearing: Artificial Intelligence Initiatives Within the Department of Defense
+
+TEXT:
+One, there's always more to do. We had an AI colloquium last week, a DARPA colloquium. About 700 people there. One of the most interesting panels that we had was on ethics, led by Richard Danzig, who used to be the Secretary of the Navy. Fascinating discussion. It's very much a part of the technical discussions that are going on. We are looking at that. Now, within--wearing a slightly more technical hat, there are some issues, at the moment, that we are very concerned about, with a technical solution. One is the implicit bias. The field of data science and machine learning or machine training have significant overlap. There's a tendency among people who are human, as they build these systems, to pick datasets, to cull datasets, to unintentionally put leads or, again, bias into how they're doing things, which means a system could preferentially recognize Joe or Jane, based on--just because of the way it was trained. That's a piece of the puzzle. We have research programs going directly against that. A large one underway now is understanding group biases. But, again, this is common to data science and machine training. The second area is about the deployment of technology when we don't fully understand its failure modes, back to the point I made earlier. One of our programs, short autonomy, has a very interesting premise, an important one. We have an autonomous vehicle, a flight vehicle, a ground vehicle. You can make it a lot more flexible in how it deals with unexpected conditions by adding some second-wave AI technologies to the puzzle. A condition shows up, it adapts and makes changes. But, it's-- again, if you don't really understand the failure modes, if you don't have that assurance and sense, almost, of a cyber assurance that this is going to behave itself and operate within safe limits, then you put something on the street or in the air that's--you really have to take a little--you have to think hard about before you do that. A lot of our research, again, is 
+---
+
+---
+ID: 49
+Speaker: Mr. Brown
+Date: 2019-03-12
+Hearing: Artificial Intelligence Initiatives Within the Department of Defense
+
+TEXT:
+Transparent, open and frequent communications with industry, academia and the public will be critical to our success. DIU was designed to rebuild some of these bridges, develop new relationships and facilitate conversations that would have commercial solutions providers engage with the Department of Defense. value of long term research 25. Senator Peters. Dr. Highnam and Mr. Brown, there is a lot of understandable and deserved interest in the great advances that the commercial sector is making in AI. I know that the automotive industry is making great strides in developing new AI-enabled systems to support driverless cars and intelligent systems in traditional passenger cars. But I think that the Federal Government and this committee can play an important role in creating the environment and funding the research for that commercial innovation to thrive. Can you describe the role that federally-funded and university research plays in supporting commercial sector and Silicon Valley innovation, and what more should we be doing at the federal level to continue that support?
+---
+
+---
+ID: 50
+Speaker: Senator Daines
+Date: 2016-11-30
+Hearing: The Dawn of Artificial Intelligence
+
+TEXT:
+Thank you, Mr. Chairman. And thank you for holding this hearing today. Very timely. Before I came to the Senate, I used to have a legitimate day job. I was in the technology sector for about a dozen years. And our company had several patents for AI design. We won a national award for AI innovation. That was back in the early 2000s. So, we're not talking about something that's new. It has been around for quite some time. In the Senate, we often talk about what we need to do to ensure the U.S. maintains leadership, looking at global competitiveness and innovation technology, whether it's broadband, smart cities, medical research. So, I'd like to start my questioning with Mr. Brockman. Could you expand your testimony about what other countries are doing, in terms of encouraging AI? And a follow-on there would be, What do you see some of the competitive disadvantages that we face right now in our country as it relates to ensuring that we be--maintain global leadership in this important area?
+---
+
+
+## Output Format
+Return a JSON array with one object per segment:
+```json
+[
+  {
+    "id": 1,
+    "primary_frame": "ECO",
+    "secondary_frames": ["REG"],
+    "valence": "POS",
+    "confidence": "high",
+    "notes": "Speaker emphasizes economic competitiveness and innovation"
+  },
+  ...
+]
+```
+
+Code all segments now. Output ONLY the JSON array, no other text.

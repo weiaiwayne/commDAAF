@@ -1,0 +1,305 @@
+You are coding congressional hearing testimony for a framing analysis study.
+
+
+## Frame Codes
+
+| Code | Frame | Definition | Key Indicators |
+|------|-------|------------|----------------|
+| ECO | Economic Opportunity | AI as driver of growth, competitiveness, jobs | innovation, leadership, competitiveness, economic growth, jobs creation, productivity |
+| SEC | National Security | AI as defense/intelligence asset or threat | China, adversaries, defense, military, intelligence, strategic competition |
+| EXI | Existential Risk | AI as potential civilizational threat | alignment, extinction, superintelligence, control problem, catastrophic |
+| REG | Regulation/Governance | AI requiring oversight and rules | oversight, accountability, transparency, regulation, guardrails, legislation |
+| CIV | Civil Rights | AI and bias, privacy, discrimination | bias, discrimination, fairness, privacy, civil liberties, surveillance |
+| LAB | Labor/Automation | AI impact on workforce | displacement, automation, workforce, reskilling, jobs loss, workers |
+| HEA | Healthcare | AI in medical applications | diagnosis, treatment, patients, healthcare, medical, clinical |
+| CON | Consumer Protection | AI risks to consumers | scams, fraud, deepfakes, misinformation, consumer harm |
+
+## Valence Codes
+- POS: Positive framing (opportunity, benefit, progress)
+- NEG: Negative framing (risk, threat, harm, concern)
+- NEU: Neutral/balanced framing (descriptive, both sides)
+
+## Confidence Levels
+- high: Clear frame, obvious indicators
+- medium: Frame present but less explicit
+- low: Ambiguous, could be multiple frames
+
+
+## Instructions
+1. For each segment, identify the PRIMARY frame (most dominant)
+2. List any SECONDARY frames present (0-2 max)
+3. Assign a VALENCE (POS/NEG/NEU)
+4. Rate your CONFIDENCE (high/medium/low)
+5. Add brief NOTES explaining your coding decision
+
+## Segments to Code
+
+
+---
+ID: 126
+Speaker: Mr. Cain
+Date: 2023-06-13
+Hearing: Artificial Intelligence and Human Rights
+
+TEXT:
+Certainly. So the Ministry of State Security intelligence officers who had recently defected drew diagrams for me. I have notebooks full of these diagrams. They show where exactly the lines of power are drawn, and what they revealed to me when it came to Uyghur populations and minority populations in particular, that this was a highly centralized system. That all cameras, which cover nearly every square inch of this region, are scooping up facial recognition data, voice recognition data. They've also gathered biometrics on pretty much everybody in the region. And this is all scooped up to the Ministry of State Security in Beijing. This is the very top of the heap. This goes straight up to Xi Jinping himself. This is not something that anyone can argue is a local project or is being done by local authorities. It is a national plan of China's.
+---
+
+---
+ID: 127
+Speaker: Senator Murkowski
+Date: 2023-09-07
+Hearing: Recent Advances in Artificial Intelligence and the Department of Energy's Role i
+
+TEXT:
+So you have had an opportunity--a couple of opportunities--to come to Alaska. You have been read in very well as to many of the unique aspects. And unfortunately, one of the unique aspects that we have is sometimes we have a lack of data. We just haven't done the mapping. We haven't done the review, the analysis, and so, we know that with AI, your output is just as good as your input. And if you have these holes in that, it can be a concern in itself. So how can--again--how can we utilize the benefits of AI in government processes for good while ensuring that, perhaps, some states, some areas, like Alaska, where data is just not complete, that they are not actually disadvantaged? Have you given thought to that?
+---
+
+---
+ID: 128
+Speaker: Ms. Puglisi
+Date: 2023-09-07
+Hearing: Recent Advances in Artificial Intelligence and the Department of Energy's Role i
+
+TEXT:
+Sure. I think that is also important, as we look at AI as a tool of discovery, and in some ways you could say that the study that the classroom did was a discovery. There are a lot of steps though that need to happen from the time you go from a sequence into something that can really have a large-scale damage that is talked about. And since one of the things that we are actually taking a closer look at is--having the sequence is one thing, but then what are those follow-on steps? And so that is something that there is still a lot of-- what chemistry, what biology has to go on in between that? The Chairman. I guess in a nutshell, is it too late to put any guardrails on? Have we missed it?
+---
+
+---
+ID: 129
+Speaker: Senator Kennedy
+Date: 2023-05-16
+Hearing: Oversight of A.I.: Rules for Artificial Intelligence
+
+TEXT:
+I'm not sure I agree with it, but that's a good one. What else? Professor Marcus. You didn't ask for three that you would agree with. Number two, a nimble monitoring agency to follow what's going on, not just prereview but also post as things are out there in the world, with authority to call things back, which we've discussed today. And number three would be funding geared towards things like AI constitution, AI that can reason about what it's doing. I would not leave things entirely to current technology, which I think is poor at behaving in ethical fashion and behaving in honest fashion. And so I would have funding to try to basically focus on AI safety research. That term has a lot of complications in my field. There's both safety, let's say, short term and long term. And I think we need to look at both. Rather than just funding models to be bigger, which is the popular thing to do, we need to fund----
+---
+
+---
+ID: 130
+Speaker: Chairman Peters
+Date: 2023-03-08
+Hearing: Artificial Intelligence: Risks and Opportunities
+
+TEXT:
+Thank you. The last question before we wrap up this hearing I am going to pose to each of you. I will start with you, Ms. Givens, and then we will just work down the dais there. We have heard commentators and academics have warned about the risk of human-like artificial intelligence, or artificial general intelligence, and those tend to be a lot of apocalyptic, scary stories that people talk about. But my question to each of you is, what are the risks that artificial general intelligence pose, and realistically, how likely is that actually in the near future? What is your assessment of how fast this is going and when we may beconfronted with some of those even more challenging questions and issues? I will start with you, Ms. Givens.
+---
+
+---
+ID: 131
+Speaker: Mr. Worthington
+Date: 2024-01-29
+Hearing: The Future of Data Privacy and Artificial Intelligence at VA
+
+TEXT:
+Well the ADS project in particular I am not personally familiar with. I think you are raising a great point around engaging with our workforce on the topic of AI. The way that AI I think could be most usefully applied in the VA and elsewhere is by augmenting the capabilities of our existing people. That means giving them new capabilities but also training them how to use it. What it can and cannot do. What its limitations are. I think we are going to have to have a lot of engagement with the workforce, not just AI experts but really anyone that is using the VA software--including this system-- about what the system is intending to do, how it works and getting to the point about transparency and explainability. I think being very communicative about what the system did and why is an important way to build that trust with our users.
+---
+
+---
+ID: 132
+Speaker: Ms. Miller-Meeks
+Date: 2024-02-15
+Hearing: Artificial Intelligence at VA: Exploring Its Current State and Future Possibilit
+
+TEXT:
+Welcome, everyone. That is my signal. I am going to thank you all for participating in today's hearing. Our witnesses on our second panel: Mr. Prashant, I said it in my brain, Natarajan, an author on the topics of artificial intelligence in healthcare and machine learning (ML); Mr. Gary Velasquez, chief executive officer and president of Cogitativo; Mr. Charles Rockefeller, co-founder and head of partnerships at CuraPatient; Dr. David Newman-Toker, director of the Armstrong Institute Center for Diagnostic Excellence at Johns Hopkins University School of Medicine. Dr. Natarajan will deliver his opening statement. You have 5 minutes. STATEMENT OF PRASHANT NATARAJAN
+---
+
+---
+ID: 133
+Speaker: Ms. SIMON
+Date: 2025-11-18
+Hearing: Markup Of: H.R. 5763, Main Street Parity Act; H.R. 5788, 504 Program Risk Oversi
+
+TEXT:
+Simone gives it a little French flair. My family is from Louisiana, sir. Thank you so much. And it has been an honor to work with you on this bill together, you and I, championing this bill and others. It has been a real honor. And I want to thank our Ranking Member Velazquez for really lifting up the freshman Members of this Committee to ensure that we are a part of this legislative process full scale. The Main Street Parity Act is a simple way to support a broad range of small businesses in this country, not just the ones with standard commercial property. So right now, businesses in my district and in districts across the country operate in what is called a special purpose property and they are being penalized simply for having unique construction or building needs. You referenced bowling alleys, and you are absolutely right. These include places, not just bowling alleys, but car washes and marinas and funeral homes and recreation centers. These are the kind of small businesses in our community that serve local families, that create real jobs, and keep our communities running. The Main Street Parity Act lowers the equity requirement for these borrowers to the same 10 percent required for everyone else. This is definitely a commonsense bill that supports small business owners throughout the country. This bill is a simple fix. It is nonpartisan and it really does what our constituents have asked us to do, making small business work on main street in rural and in urban communities throughout this country. It is about promoting fair, inclusive economic growth and recognizing that opportunity should not depend on something as small as the type of building your business happens to own or run in. I urge all of my colleagues today to support the Main Street Parity Act and ensure fair capital access across all small business industries in our great nation. Thank you, sir, and I yield back.
+---
+
+---
+ID: 134
+Speaker: Ms. Miller-Meeks
+Date: 2024-02-15
+Hearing: Artificial Intelligence at VA: Exploring Its Current State and Future Possibilit
+
+TEXT:
+It is imaging as well, imaging, blood work. Mr. Velasquez, and I can tell that you are winning, but in your written testimony, you spoke to the ability of AI to help with capacity and resource management, specifically with aligning medical staff levels, optimizing wait times across the direct and community care networks, rationalizing the use of direct and community care, and efficiently tying those options is a major concern, both for access and cost. Perhaps if we can save money on one or spend money wisely on another, we will have money that can go to, i.e., I am thinking of tech sprints. Why are we giving a million-dollar prizes if we need people to be able to solve a backlog on FedRAMP? Mr. Velasquez, can you talk about how AI would do this, particularly with a decade worth of community care data the VA has, and what some of the obstacles would be?
+---
+
+---
+ID: 135
+Speaker: Mr. Joyce
+Date: 2025-05-21
+Hearing: AI Regulation and the Future of U.S. Leadership
+
+TEXT:
+Thank you, Chairman Bilirakis, and thank you for our witnesses who have agreed to come here today to testify. Every day, every hour, the development of artificial intelligence is transforming the way that we consume information, that physicians treat American patients, even how we travel. As the chair of the Privacy Working Group, it is clear to me more than ever that we need a solution to the patchwork. What do I mean by ``patchwork''? States are introducing AI laws left and right, and it is our responsibility here at the Federal level to ensure that businesses can continue to innovate while complying with this patchwork of laws. This is especially true when it comes to AI's involvement in the healthcare field. AI has the ability to elevate the care of American patients--the care that they expect, the care that they deserve. But we must ensure that the physician-patient relationship is not left behind. Mr. Bhargava, I am interested in how innovative AI products and services can improve the lives of my patients, improve the lives of my constituents. Can you highlight some of the General Catalyst investments in innovative American AI startups that this committee should take note of as we consider AI legislation?
+---
+
+---
+ID: 136
+Speaker: Ms. Budzinski
+Date: 2025-09-15
+Hearing: Advancing VA Care Through Artificial Intelligence
+
+TEXT:
+Thank you very much, Chairman Barrett. I appreciate our subcommittee coming together to have a frank conversation about the underlying Information Technology (IT) challenges at the Department of Veterans Affairs and how we can support the VA in closing those gaps through technology. However, today's review of artificial intelligence use cases at the Veterans Health Administration (VHA) feels like a distraction. VA is struggling with the basics. We are here discussing the newest technologies while the VA is still working with a crumbling IT infrastructure and still grapples to modernize systems and workflows. As the ranking member on the Technology Modernization Subcommittee, I am certainly excited by the potential of both AI and innovation. AI could improve some of VA's challenges through large language models and higher processing speeds. We have seen promising studies of providers using AI to identify cancers more easily, improve patient outcomes, and ease clinician burnout by taking on more administrative tasks. The VA has certainly been the leader in the research and development and widespread usage of a number of significant and groundbreaking technologies. It stands to do so again with AI. However, success in these efforts requires adequate resources and investments in its budgets, its processes, and its people. Veterans choose VA for the community it provides, the people it employs, and for the fact that it is not driven by profit. What VA does best is make veterans feel seen and understood. As we have seen, AI can be a tool to provide decision support, ease provider burdens, and help with notetaking so doctors can be more present with the patient. We should also acknowledge that it is not the answer to every challenge the VA faces. Also, we as a committee and as Congress need to have a real conversation about AI policy and how to implement it safely. I am excited about the opportunities that AI presents. I am not convinced that VA is prepared to deploy this 
+---
+
+---
+ID: 137
+Speaker: Mr. Schiff
+Date: 2024-02-02
+Hearing: Artificial Intelligence and Intellectual Property: Part II-Identity in the Age o
+
+TEXT:
+Let me ask our other witnesses that exact point--what should be done about it? Mr. Mohr, the companies you represent, some of them are the behemoths in the technology industry. They have a role and a responsibility to take down content that is inauthentic, take down deep fakes. What are your companies doing to make sure that artists don't go through what Ms. Wilson earlier described as the gut punch of seeing their likeness, their voice, their image used in deceptive ways? I would like to ask Mr. Mason and Ms. Rothman if they could comment also on both what Mr. Mohr says they are doing, but also what you think they should be doing that they are not.
+---
+
+---
+ID: 138
+Speaker: Mr. Obernolte
+Date: 2025-05-21
+Hearing: AI Regulation and the Future of U.S. Leadership
+
+TEXT:
+So I just wanted to spend a minute talking about some of the things that have been said regarding the moratorium so far in this hearing. And I kind of feel an obligation to speak up as the chairman of the House AI Task Force last year and as someone who kind of saw this group of 24 Members of Congress from both sides of the aisle come together on this issue. It really hurts my heart that it is being painted as such a divisive, partisan issue, because I don't think it is. The assertion has been made that this was a last-minute thing, and in the dead of night--I think someone used the phrase--it was inserted. But I want to talk about the motivation here. It has been very alarming as we have seen the first 5 months of this year go by to see the number of bills introduced on the topic of AI regulation in State legislatures across the country. Over a thousand now have been introduced, and this is what is lending urgency to this issue. We wanted to put some money into the reconciliation bill to bring the same productivity gains to the Federal Government that we are seeing in private industry, but it quickly became apparent that it was going to be nonsensical to deploy $500 million to make that happen in the Federal Government when this array of State legislation was going to interfere with the deployment of that effort, which is why we thought this was a timely time to do it. It has been asserted this is a giveaway to Big Tech. I strongly would push back on that. Big Tech are the ones who have the regulatory sophistication to deal with a thousand different State laws. The people who can't deal with that are two innovators in a garage trying to start the next OpenAI or the next Google. Those are the people that we are trying to protect. I know there has been pushback about the 10 years, that it is too long, that it is draconian. No one wants this to be 10 years. I would love to see this be months, not years, but I think it is important to send the message that everyone nee
+---
+
+---
+ID: 139
+Speaker: Mr. Bhargava
+Date: 2025-05-21
+Hearing: AI Regulation and the Future of U.S. Leadership
+
+TEXT:
+Well, first of all, thank you so much for the kind words. It is true, General Catalyst has been around 25 years, and we started in Cambridge, Massachusetts, and still have an office and strong presence there. Absolutely. There was a reason we started in Cambridge. It was right down the street from Harvard and MIT, and so the funding for those sorts of institutions and for startups and for research grants is extremely key. Another part that is key as well is, if you look at the Fortune 500 here in the United States, 46 percent are founded by immigrants or children of immigrants. One of the biggest advantages we have over China is that we attract the smartest people in the world to our universities and to build companies here. So I think a lot of what you mentioned is absolutely true, and I agree with your sentiment that there has to be regulation as well. And I am here today to try to advise on what regulatory frameworks at the Federal level could be meaningful to protecting consumers.
+---
+
+---
+ID: 140
+Speaker: Mr. Schneier
+Date: 2025-06-05
+Hearing: The Federal Government in the Age of Artificial Intelligence
+
+TEXT:
+I am not sure it is government versus private industry. I mean, we probably might expect the same standards as, like, banking or in university admissions, right? There are going to be these instances where the decisions made are important enough that we have rules and laws prescribing how they can be made, and it is really a matter of making sure the AI is suitable for the task, being able to audit what the AI is doing, correct for mistakes. You know, humans make mistakes all the time, and we as a society has had thousands of years dealing with human mistakes, from double entry bookkeeping to checklists of surgical equipment, make sure they are not left in bodies. We know when a human makes a mistake how to deal with it. To the extent that AI makes human mistakes, we are covered, but AI makes different sorts of mistakes, so a lot of our systems for dealing with them just do not work. So, when I think about an AI being used as something important like a benefits administration, it is going to be how it is used. So, I am going to make this up. Like, we will have the AI do the work, but it is only allowed to say easy yeses. Cannot say no. Just say yes. Everything it does is reviewed, and all the noes, that anything that is hard, humans review. We can watch the AI get better or worse. We might give more responsibility, but again, with a lot of audit, it is really a matter of replacing versus augmenting. And one of the early questions was about AI in procurement. So, I can think of two things where an AI is a negotiating assistant, assisting a human in negotiating. Walmart does this right now. Like, they use AIs because they have to buy a gazillion things, to help with that, but the humans are in charge, and also possibly using AI for auditing. There is a really interesting work done on using AI to figure out which slaughterhouses human ag inspectors should visit, right? There are a lot out there. We can pick at random, or we can have some algorithm. Again, the AI is not
+---
+
+---
+ID: 141
+Speaker: Mr. McGuire
+Date: 2025-06-05
+Hearing: The Federal Government in the Age of Artificial Intelligence
+
+TEXT:
+Thank you, Madam Chair. Thank you to our witnesses for being here today. I want to start by saying that I agree with Madam Chair, Congresswoman Marjorie Taylor Greene, that somehow we missed this 10-year ban on AI state laws, and I am hoping that we will fix that in the U.S. Senate. The President Trump and the White House, they said that we must ensure American AI dominance, and just yes or no real quick-- just yes or no real quick--do you agree with the Trump Administration that the U.S. must have AI dominance? Just yes or no real quick.
+---
+
+---
+ID: 142
+Speaker: Mr. Sikorski
+Date: 2024-05-22
+Hearing: Advancing Innovation (Ai): Harnessing Artificial Intelligence to Defend and Secu
+
+TEXT:
+Yes, I think that's a great question, and I think that one way that we do is just by that fact we're a little bit more open with regards to how we're able to innovate and in what regard we're able to innovate. I think as, sort-of, putting that together with your previous question, I think about, you know, what is the high- risk AI models we're building that are impactful to our citizens? Things like maybe somebody applying for credit or for university, right? Those kinds of things are high-risk and maybe something we should need to hunker down on as far as, you know, how are they being built up? Versus on the cybersecurity side, I think the risk is a lot different and, therefore, like, really pouring in a ton of innovation, which we're doing in industry and we see organizations like CISA doing. So us coming together with the Government to really iterate fast and thinking about the charge of how do we sift through the noise, which I've talked about a few times of all this security alerts and actually make sense of it to find, you know, the next big attack.
+---
+
+---
+ID: 143
+Speaker: Ms. Perumal
+Date: 2025-07-16
+Hearing: Artificial Intelligence and Criminal Exploitation: A New Era of Risk
+
+TEXT:
+Yes, few things that we see with our clients. One is there's a big challenge to identity in terms of online identity. The AI-generated agents can more explicitly scrape, use websites for fraud. Then on the other side you also see things like ID fraud where people are using this to hide their identity and commit online crimes. That's an area that the industry is generally trying to adapt and respond to because that's how so much of fraud and scams and extortion has been carried out. Another thing that comes to mind is to the earlier point on innovation, if it's easier to share and collaborate, that would be incredibly helpful for us in the private sector.
+---
+
+---
+ID: 144
+Speaker: Mr. Ariga
+Date: 2024-01-30
+Hearing: Artificial Intelligence (Ai): Innovations Within the Legislative Branch
+
+TEXT:
+Thank you, Ranking Member Morelle. I absolutely agree; data governance is crucial, making sure that the data we use to train and run AI systems are complete, accurate, timely. GAO has a lot of experience dealing with data-quality challenges historically. What I also think is important is whether users of AI systems can interpret information in a probabilistic way. AI, by definition, gives a sort of value, a confidence value, on what the outcome might look like. What that means is, it is never 100-percent certain. Do the users of AI understand how to interpret that information, then act upon that information? I think digital literacy is an important attribute of a successful implementation and usage of AI.
+---
+
+---
+ID: 145
+Speaker: Mr. Oswalt
+Date: 2024-01-29
+Hearing: The Future of Data Privacy and Artificial Intelligence at VA
+
+TEXT:
+We have identified approximately 250 applications, IT applications that use SSN that require this type of remediation. A number of those are legacy systems that will be retiring. Rather than invest in removing the SSN for those which are going to be retired in the foreseeable future, we take a risk management approach to try and eliminate that because in an austere fiscal environment we can only attack so much. There is a request in the President's fiscal year 2024 budget for funds to be begin this remediation effort. The biggest part of this is and it is not necessarily an IT issue, it is the business practices of the administrations. I liken it to an iceberg where there is the IT part that is above the water but underneath the surface is a whole set of business practices from VBA, VHA.
+---
+
+---
+ID: 146
+Speaker: Mr. Moskowitz
+Date: 2025-06-05
+Hearing: The Federal Government in the Age of Artificial Intelligence
+
+TEXT:
+Thank you. Thank you, Mr. Chair. I appreciate the waive-on today. You know, obviously, this is an important topic on artificial intelligence. I got to be honest. I definitely want to meet the person in the Capitol who was like, we are going to have a hearing on intelligence. Let us give that to Chairman Comer. But, you know, we saw some language wind up in a bill that everyone is complaining that, you know, they did not read. Remember, they were the ones who had the 72-hour rule. That was their rule. In fact, they cried and demanded that every bill come forward and be given 72 hours to read a bill. They complained when Democrats were in control. Meanwhile, they passed this bill in the dead of night. Do not listen to me. That is what Elon Musk is now saying on Twitter. Yesterday, in the DOGE Subcommittee hearing, Chairman Comer announced new investigations into the Biden Administration, and I thought, of course. This makes total sense, right? We have recently brought back measles and the dire wolf and the tariff policies of the 1930s, so you know, why not resurrect the failed Biden impeachment? I do not want to go down memory lane about what happened last year, but, you know, they said they would call for impeachment. That is what they said, and they never did. After hundreds of interviews, fundraising emails, and speeches, and lying to their base, they never called for impeachment. So, I want to do the do not listen to what they say, watch what they do, and this is, of course, all a distraction, right? They said they would lower food costs. They said they would take us into the golden age. They said they would end the war in Ukraine and Gaza. They said they would not touch Medicaid. They said they would lower interest rates. They said they would lower our debt. They said they would release the Epstein files. Remember that? This is not one of the ones that Pam gave out. I made my own. It is not hard, right? And the biggest one, the biggest one, my favorite, they said
+---
+
+---
+ID: 147
+Speaker: Mr. Sikorski
+Date: 2024-05-22
+Hearing: Advancing Innovation (Ai): Harnessing Artificial Intelligence to Defend and Secu
+
+TEXT:
+Yes it's a great question. I think back to my experience, right, when I was in school it wasn't until I was a senior in college in New York City and 9/11 happened that I was, like, I want to go work for the NSA. Like, that's what I want to go do. But I didn't really think about that before. It was things like video games and stuff like that, right? I think getting people excited earlier on is a really good place that we can focus, right, of, like, there's cybersecurity hacking clubs, like, at universities and high schools and this gets people really excited to gamify it and play along. So I think, you know, while we look at the work force gap I think as Palo Alto Networks goes, I already mentioned our work force capability where we have, like, the Unit 42 Academy where we're bringing people in and who don't maybe have the hands-on experience. We're giving it to them with on-the-job-training. Then I also think about Government programs like I was in when I went to NSA. I was in a technical development program there where I got ramped up on all the things that I didn't learn during my education previous to that. So those types of programs that are feeders, I think, are really powerful in getting people to level up the skills that maybe they didn't get during college.
+---
+
+---
+ID: 148
+Speaker: Ms. SCHOLTEN
+Date: 2025-11-18
+Hearing: Markup Of: H.R. 5763, Main Street Parity Act; H.R. 5788, 504 Program Risk Oversi
+
+TEXT:
+Thank you so much, Mr. Chairman. You are sensing a theme today. And I am so glad that this Committee takes the inclusion and implementation of AI in the small business arena seriously. It is absolutely critical. As we know, artificial intelligence is rapidly shaping industries across the globe. But small businesses, who are the backbone of our economy, often struggle to keep up with fast- paced technological change. My--oops, sorry, hold on. I think I got the wrong--this is the AI for main street. Sorry, I was like that sounds really familiar. AI WISE. We can vote on that one now, too. We are on AI for main street--we are on AI WISE. We are on AI WISE. Yes. Okay, sorry. Apologies. This is when you get all these great AI bills. The AI WISE Act requires the SBA to create AI literacy resources tailored specifically to small businesses. Through the SBA's e-learning platform, entrepreneurs and small business owners will be empowered with clear, actionable information on how to leverage AI in their operations, whether that is through automating tasks, improving customer service, or making smarter decisions using data. According to the U.S. Census Bureau, nearly one in four businesses do not know whether they will use AI in production within the next 6 months. They just don't know if it is going to be a part of their business or not. That is untenable in a rapidly evolving technological landscape where small businesses cannot afford to be left behind. This bill will level the technological playing field for small businesses, providing them the tools they need to thrive in an ever-changing global economy. AI isn't just for the tech giants. It is for everyone, especially small businesses. Whether we are talking about a local bakery, a landscaping company, or a digital startup, AI has the potential to increase productivity, reduce costs, and open up new growth opportunities. The AI WISE Act gives our small businesses the knowledge they need to embrace AI and remain the top jo
+---
+
+---
+ID: 149
+Speaker: Mr. Chilson
+Date: 2025-04-02
+Hearing: Artificial Intelligence: Examining Trends in Innovation and Competition
+
+TEXT:
+Well, it's a sea change from the Biden Executive Order, which was the third longest Executive Order in history, and basically set a governmentwide call for agencies to figure out how to regulate AI. This Trump Executive Order is the opposite. It's focused on figuring out how we can create the opportunities, or how can we maximize the opportunities from this amazing technology which is grown here in America. Some of its mechanisms. It directs the Office of Science and Technology Planning to create an AI action plan. Those comments have gone into that agency, and they're going to come out with a comprehensive approach. The main thing here is the total change in perspective. It's gone from fear and risk that this technology is going to hurt people to recognizing that it has huge opportunities, not just for consumers, not just for everyday price--everyday things that they use, but also, in creating a lot of competition in the AI industry, but also across the economy as a whole.
+---
+
+---
+ID: 150
+Speaker: Mr. Oswalt
+Date: 2024-01-29
+Hearing: The Future of Data Privacy and Artificial Intelligence at VA
+
+TEXT:
+One of the Asheville incidents was three individuals received electronic files containing, I think approximately 1,500 veterans' protected information. I believe that it was through My Healthy Vet portal so it was not open email. The three individuals, one of them self reported back to the medical center, like, hey, I think I got something that I should not have gotten. Two of the messages were indicated as being read. The third was retrieved; pulled back. The normal process of responding to that would be as I indicated before working with the privacy officer at the facility, the information security officer and then the Data Breach Response Service will do the investigation and the adjudication of how that--and I believe this indicated it was a personal protected health information so it did warrant notification to HHS as a protected HIPPA entity and resulting in a press release also. The other event----
+---
+
+
+## Output Format
+Return a JSON array with one object per segment:
+```json
+[
+  {
+    "id": 1,
+    "primary_frame": "ECO",
+    "secondary_frames": ["REG"],
+    "valence": "POS",
+    "confidence": "high",
+    "notes": "Speaker emphasizes economic competitiveness and innovation"
+  },
+  ...
+]
+```
+
+Code all segments now. Output ONLY the JSON array, no other text.

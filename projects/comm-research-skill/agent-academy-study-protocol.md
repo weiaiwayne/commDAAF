@@ -889,6 +889,8 @@ Synthesize critiques and address ALL major concerns before claiming publication-
 | Kimi batch truncation | Missing posts in output | Reduce to 25-post batches | **Always use 25 for Kimi** |
 | GLM stalling | Process hangs | Smaller batches, retry | Monitor progress, timeout |
 | API timeout | Exception | Exponential backoff retry | Build retry logic |
+| Tool history corruption (`unexpected tool_use_id`) | API error mid-batch | Reset session, re-run batch | **Isolated sessions per batch** |
+| Session context overflow | Slow responses, truncation | Split into sub-sessions | Max 3 batches per session |
 
 ### Analytical Failures
 
@@ -927,6 +929,45 @@ Synthesize critiques and address ALL major concerns before claiming publication-
 - Use `exec(pty=true)` for all OpenCode calls
 - Monitor for stalls and timeouts
 
+### Preventing Tool History Corruption
+
+**The Problem:** Long-running annotation sessions accumulate tool calls. If history gets pruned or corrupted, the API throws `unexpected tool_use_id found in tool_result blocks` — orphaned tool results referencing deleted tool calls.
+
+**Solutions (choose one):**
+
+1. **Isolated sessions per batch (RECOMMENDED)**
+   - Use `sessions_spawn` for each annotation batch
+   - Each batch starts with fresh context — no history accumulation
+   - Results save to file, not conversation memory
+   ```python
+   # Instead of running all batches in one session:
+   for batch_file in batch_files:
+       sessions_spawn(
+           task=f"Code {batch_file} using CommDAAF prompt, save to outputs/",
+           cleanup="delete"  # Clean up after completion
+       )
+   ```
+
+2. **Explicit checkpointing between batches**
+   - Save all results to files after each batch
+   - Start new conversation/session for next batch
+   - Never rely on in-session memory for results
+
+3. **Smaller batches with fresh context**
+   - Even for Claude, use 25-post batches (not 50-100)
+   - Fewer tool calls per session = lower corruption risk
+
+4. **For OpenCode/Claude Code CLI**
+   - Use `--no-context` or equivalent fresh-start flag
+   - Run each batch as separate invocation:
+   ```bash
+   # Per-batch invocation (fresh context each time)
+   opencode -m zai-coding-plan/glm-4.7 run "Code batch_1.json" --output outputs/glm/batch_1.json
+   opencode -m zai-coding-plan/glm-4.7 run "Code batch_2.json" --output outputs/glm/batch_2.json
+   ```
+
+**Rule: Never run >3 annotation batches in a single session. Start fresh for each batch when possible.**
+
 ---
 
 ## 11. Quality Control Checklist
@@ -945,6 +986,8 @@ Synthesize critiques and address ALL major concerns before claiming publication-
 - [ ] JSON parses without errors
 - [ ] No obvious coding errors in spot checks
 - [ ] All models complete all batches
+- [ ] Using isolated sessions or fresh context per batch (prevents tool history corruption)
+- [ ] Results saved to files, not relying on session memory
 
 ### After Coding
 - [ ] All models' outputs merged correctly
@@ -1030,6 +1073,10 @@ projects/[study-name]/
 | 1.1 | 2026-03-04 | Added Phase 7.5: Adversarial Peer Review (REQUIRED) |
 | | | Added peer review to Quality Control checklist |
 | | | Learned from Ukraine cross-context study reliability issues |
+| 1.2 | 2026-03-12 | Added "Preventing Tool History Corruption" section |
+| | | Added tool_use_id error to Technical Failures table |
+| | | Added session isolation checks to QC checklist |
+| | | Learned from API error during annotation batches |
 
 ---
 

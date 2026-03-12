@@ -1,0 +1,305 @@
+You are coding congressional hearing testimony for a framing analysis study.
+
+
+## Frame Codes
+
+| Code | Frame | Definition | Key Indicators |
+|------|-------|------------|----------------|
+| ECO | Economic Opportunity | AI as driver of growth, competitiveness, jobs | innovation, leadership, competitiveness, economic growth, jobs creation, productivity |
+| SEC | National Security | AI as defense/intelligence asset or threat | China, adversaries, defense, military, intelligence, strategic competition |
+| EXI | Existential Risk | AI as potential civilizational threat | alignment, extinction, superintelligence, control problem, catastrophic |
+| REG | Regulation/Governance | AI requiring oversight and rules | oversight, accountability, transparency, regulation, guardrails, legislation |
+| CIV | Civil Rights | AI and bias, privacy, discrimination | bias, discrimination, fairness, privacy, civil liberties, surveillance |
+| LAB | Labor/Automation | AI impact on workforce | displacement, automation, workforce, reskilling, jobs loss, workers |
+| HEA | Healthcare | AI in medical applications | diagnosis, treatment, patients, healthcare, medical, clinical |
+| CON | Consumer Protection | AI risks to consumers | scams, fraud, deepfakes, misinformation, consumer harm |
+
+## Valence Codes
+- POS: Positive framing (opportunity, benefit, progress)
+- NEG: Negative framing (risk, threat, harm, concern)
+- NEU: Neutral/balanced framing (descriptive, both sides)
+
+## Confidence Levels
+- high: Clear frame, obvious indicators
+- medium: Frame present but less explicit
+- low: Ambiguous, could be multiple frames
+
+
+## Instructions
+1. For each segment, identify the PRIMARY frame (most dominant)
+2. List any SECONDARY frames present (0-2 max)
+3. Assign a VALENCE (POS/NEG/NEU)
+4. Rate your CONFIDENCE (high/medium/low)
+5. Add brief NOTES explaining your coding decision
+
+## Segments to Code
+
+
+---
+ID: 151
+Speaker: Mr. Sikorski
+Date: 2024-05-22
+Hearing: Advancing Innovation (Ai): Harnessing Artificial Intelligence to Defend and Secu
+
+TEXT:
+That's an excellent question as we want to have a very secure election, obviously. I think CISA is doing a great job with the JCDC, which is the collaboration with private industry to work with us, Palo Alto Networks, and many other private entities on thinking through, like, what are we actually seeing in the threat landscape? So one of the things I'm tasked with as running the Threat Intelligence Division at Palo Alto Networks, is how do we take all of the information that we're getting from other private entities, from government agencies around the world, bring that all together and then share that back with the Government itself to say this is where we're seeing these threat actors go, right? Whether it be what China is up to today, what Russia is doing in the war in Ukraine, staying on top of those threats and finding the new ones. For example, we saw, you know, a novel attack of how Russia was sending emails, phishing emails, to Ukrainian embassies and actually making that discovery and showing how that actually went down. So that hyper collaboration is definitely going to move the needle.
+---
+
+---
+ID: 152
+Speaker: Mr. Schneier
+Date: 2025-06-05
+Hearing: The Federal Government in the Age of Artificial Intelligence
+
+TEXT:
+Thank you, and thanks for inviting me. So, I am a technologist. I have been working in cryptography and cybersecurity since the early 1990s. I write, I teach, I consult, I start companies. I thought a lot about the role of AI in democratic government. I actually wrote a book on this topic that will be published in October. The previous four speakers have talked about the promises of this technology. I want to talk about the national security implications of the way our country is consolidating data and feeding it to AI models. Chairman Comer said in his statement about this hearing that he wanted to unleash AI responsibly while protecting interests and rights of all Americans. DOGE's actions do exactly the opposite. Over the last few months, DOGE's affiliates have spread across government. They are still exfiltrating massive U.S. data bases, processing them with AI, and offering them to private companies such as Palantir. These actions are causing irreparable harm to the security of our country and the safety of everyone, including everyone in this room, regardless of political affiliation. This unprecedented security risk is a result of two things: DOGE's sloppy cybersecurity regarding our data and regarding the networks they have accessed, and also the over trusting of AI, current technology, to take over human tasks. You all need to assume that our adversaries have copies of all the data DOGE has exfiltrated and have established access into all the networks that DOGE has removed security controls from, and your data can be used against you. Consider the coercive power of your financial records or your medical records or the government clearance form you filled out. Whoever you think of as your enemy or an enemy of the United States, they can use this data to coerce you or a family member or a member of your staff, and this is true for any elected official or CEO or police officer or judge or nuclear power plant operator. Like, really, it is true for everyone. The
+---
+
+---
+ID: 153
+Speaker: Ms. Miller-Meeks
+Date: 2024-02-15
+Hearing: Artificial Intelligence at VA: Exploring Its Current State and Future Possibilit
+
+TEXT:
+Thank you very much. It is been a very insightful testimony, and as a physician and a veteran, Dr. Newman-Toker, I can wholeheartedly agree. It is not just what data is available to put in, but what the clinician observes, whatever level that clinician is, because that data, whether it is verbal data, whether it is observed data, nonverbal communication, and then actual physical findings, that data goes into that system, which will then help with the diagnosis. If that data is poor or bad, then the result will be equally bad, which brings up another question, and that is the VA does have an opportunity, because it is a relatively closed system, to have a great input of data, but we have Health Insurance Portability and Accountability (HIPAA) regulations. Has there been a thought to allowing a voluntary waiver of HIPAA for deidentified data that could go into that matrix and be utilized to further help with both machine learning and smarter augmented intelligence?
+---
+
+---
+ID: 154
+Speaker: Mr. Shah
+Date: 2025-06-05
+Hearing: The Federal Government in the Age of Artificial Intelligence
+
+TEXT:
+Yes. I think, you know, what we have seen, especially in cybersecurity, the NIST has created standards there that became adopted by a majority of the industry. And I think when it comes to AI and protecting data, coming from the lens of a startup, from a young company, we have looked at the new standards that they have around AI and they are actually pretty good, and they do provide for a lot of recommendations that we actually follow. And then furthermore, you know, going through the FedRAMP process, while I found it to be very expensive, there was a lot of amazing sort of things that they recommended in terms of infrastructure, software, process, and procedures that allow us to really make sure that the data is secured. And so, I think that if we can have more of these types of frameworks, more of a lighter touch, it will allow us to continue to innovate fast but still give us all a true north of where we should take things in terms of our infrastructure and our processes.
+---
+
+---
+ID: 155
+Speaker: Mr. Halpern
+Date: 2024-01-30
+Hearing: Artificial Intelligence (Ai): Innovations Within the Legislative Branch
+
+TEXT:
+Thank you, Mr. Chairman, Ranking Member Morelle, and Members of the Committee. I am pleased to appear here before you today to share some potential uses of AI and related technologies at GPO. GPO is fundamentally a manufacturing operation. We publish, produce, and maintain materials for all three branches of Government. Our 1,600 craftspeople and professionals produce virtually all of Congress's documents, along with numerous other publications, as well as manufacture secure-credential products like the U.S. passport. We also provide digital information, either through our own trusted digital repository, GovInfo.gov, or by serving data to our partners like the Library of Congress, where they use that data on Congress.gov. No matter what you call it--artificial intelligence, machine learning, or a large language model--GPO's operations are just as susceptible to disruption as any commercial firm's. That is not necessarily a bad thing. My written testimony describes GPO's policy approach to this new generation of tools, so today I am going to focus on three potential applications for AI and related technologies in our day-to-day operations. First, we believe these tools can improve our quality- assurance process by automatically recognizing defects that a human inspector might miss. We already use a rudimentary form of this technology in the production of the current version of the U.S. passport. GPO uses equipment that optically scans the pages that will become the identity page in a personalized passport. This equipment looks at each strip of three pages for variances that exceed the specifications from the material and rejects them as pages that do not conform to the standard. AI technology has the potential to further refine this review, allowing machines to learn what may constitute a natural variation and what is not. This has the potential to reduce defect rates, lower waste, and free up our quality- assurance team to focus on solving more difficult quality pro
+---
+
+---
+ID: 156
+Speaker: Mr. Amlani
+Date: 2024-05-22
+Hearing: Advancing Innovation (Ai): Harnessing Artificial Intelligence to Defend and Secu
+
+TEXT:
+I mean, as a father of 3 children, all of whom use digital tools regularly, I think first off we're placing a large responsibility on parents to be able to monitor the digital communications of our children. There aren't the age verification mechanisms currently today to be able to provide a gateway to make sure that the right people are accessing the right systems at any point in time. I think it goes back to the identity layer of the internet that I mentioned before. As you mentioned, there's all kinds of on-line bullying, you know, extremism, recruiting, other things like that that are happening on-line and it's all being done, you know, not just in the dark web but actually out in the open. But it's because we don't have the ability to be able to properly recognize who people are on-line and it creates mechanisms and difficulties for making sure that we can actually have stronger values enforced and allow parents to be empowered.
+---
+
+---
+ID: 157
+Speaker: Ms. Lee
+Date: 2025-06-05
+Hearing: The Federal Government in the Age of Artificial Intelligence
+
+TEXT:
+Thank you for entertaining that. Trump and his Administration can take all this collected data and use it to profile people, to make decisions about them, to deny them benefits, and we know from his Twitter rants that he is incapable of being unbiased. Then they are trying to prevent any state-passed guardrails on AI through the provision in the reconciliation bill that you guys unseriously called the Big Beautiful Bill. That provision would ban any state regulation of AI for 10 years. Our government cannot just play loose and fast when it comes to people's personal data and lives. We have already seen the consequences of improperly deployed AI. Michigan had to refund $21 million to residents who were wrongfully accused of unemployment fraud from their AI system. A tenant screening system called SafeRent was accused of violating the Fair Housing Act because their AI algorithm disproportionately scored Black and Hispanic renters lower than White applicants. Most of this technology is still so new, it needs time to be vetted and improved. Look at what happens when AI is used just in government reports. The Make America Healthy Again reports cited to multiple studies that did not exist. Can you imagine if ChatGPT was deciding if you qualify for housing or not? That is not to say that all AI is bad, but it is dangerous to work quickly. When you move fast and break things in the government, people get hurt. Carnegie Mellon University, which is in my district, has a Center for AI Standards and Innovation, and has been working with the National Institute of Standards and Technology to make a methodical approach to assessing the benefits and risks of AI models. Thinking about the ethics of AI, work like theirs is vital to ensuring that AI programs are used safely, accurately, and without bias to the best of our ability, recognizing that a society without biases is far off. But that is the approach the Trump Administration should be taking, not packaging up all of our person
+---
+
+---
+ID: 158
+Speaker: Ms. Aistars
+Date: 2024-04-10
+Hearing: Artificial Intelligence and Intellectual Property: Part III-- IP Protection for 
+
+TEXT:
+So, I don't think that there is a randomness necessarily implied by using a GAI tool any more than there is randomness implied by using any other tool or media by an artist. I think we should look at what the artist's process is. When an artist decides to create a work, an artist, typically, has a preconception for a work, an idea in their mind. What do they want to convey to the world? They approach their work with that spirit in mind, and then, they decide what tools are they going to pick up. Are they going to pick up a paint brush? Are they going to pick up the engagement with an AI, right? What is their creative process going to look like, as they move through that engagement, whatever that tool is? I guess what I'm saying to the Committee is we should have a sort of technologically neutral approach as to what tool the artist is choosing. We should, instead, be asking: What is the artist doing?
+---
+
+---
+ID: 159
+Speaker: Mr. Timmons
+Date: 2025-06-05
+Hearing: The Federal Government in the Age of Artificial Intelligence
+
+TEXT:
+Thank you, Madam Chair. The greatest national security threat we face is debt. We have $37 trillion in debt. We have a $1.8 trillion annual deficit. The work this Administration has done over the last few months has been designed to try to find waste, fraud, and abuse to help mitigate that. They are also working to help grow the economy through tax reform, through renegotiating trade agreements, through deregulation, through streamlining permitting. The list goes on and on. But I think that AI has a huge opportunity to grow the work that DOGE has done as it relates to seeking out waste, fraud, and abuse. So, the main thing that they did early on was to get all the government agencies to communicate using the same language, to code the same, to then be able to create transparency and track data from all the different government agencies. And that effort was really the beginning because now that everything goes through Treasury, now that we can track payment systems, we now have to layer on technology, and some of that is fairly simple. For example, I have introduced the TABS Act, Timely Accurate Benefits, and that what that act does is it uses a pilot program that was done in Missouri where they, instead of using antiquated ways of confirming income eligibility for Medicaid, they use third-party website to verify eligibility immediately. And then the second you are no longer eligible, you are removed from whatever benefit it is, and so that resulted in a 17-percent reduction. So, the way this technology works is you say, all right, I am on hard times. I want to get whatever government benefit, and they say, all right, well, you got to log into your bank account. And then when you log into your bank account, it says, OK, you have a Venmo, you have a Cash App, you have a Zelle, you have to log into that, too, and then immediately they say you are eligible or you are not eligible, and so you are actually getting benefits faster than normal. And this has a huge potential
+---
+
+---
+ID: 160
+Speaker: Ms. Tews
+Date: 2024-01-29
+Hearing: The Future of Data Privacy and Artificial Intelligence at VA
+
+TEXT:
+I think in general it goes to my idea-- transparency and accountability are important whenever you are using technology. You always want to regulate or put license on the outcome not the technology. I mean, the idea is what is it you are trying to accomplish and do not worry about what the actual tech is because it is going to change. Absolutely I think that any time you--any time somebody uses your healthcare information or you enter into something you should know what is going on just as a human element. I think we do that continue our general healthcare system. We absolutely should the should be doing that in the veteran system. I would believe it probably is going on. I also am somebody though that I am the first one to volunteer and be like you want to throw that in the machine, please do. You know, I idea of having AI look at my results first and then an intern I do not have a problem with that. I think that actually would probably perhaps get me an earlier recognition on a few things but I would want to be notified.
+---
+
+---
+ID: 161
+Speaker: Ms. VELAZQUEZ
+Date: 2025-11-18
+Hearing: Markup Of: H.R. 5763, Main Street Parity Act; H.R. 5788, 504 Program Risk Oversi
+
+TEXT:
+Thank you, Mr. Chairman, for convening this markup today. As we consider legislation to shape the future of small businesses across the country, it is important to address both the opportunities and challenges facing small businesses today. I plan to lend my support to the six bipartisan bills under consideration and I will lay out my concerns with the last bill. And I appreciate the Chairman's efforts to mark up a fair ratio of Republican and Democratic bills. I am encouraged to see us working together on commonsense, bipartisan bills that provide more opportunity for small businesses because expanding opportunities shouldn't be a partisan issue. With that said, we need the SBA to be a more accountable partner. Ignoring congressional oversight letters and requests for meetings undermines trust. It needs to change and my hope is that you will join me in ensuring the agency is more responsive to this Committee. And I am hopeful we can work together on issues that really matter: lowering costs for small businesses. These critical employers who account for a large portion of jobs in this country are not hiring because they are grappling with inflation and escalating costs. According to the Center for American Progress analysis, more than 5 million self-employed small business owners have health insurance coverage through the ACA. We cannot allow these tax credits to expire, causing premiums to double for millions of Americans. And our ranchers and farmers are reeling from decisions on tariffs and beef purchases that have been unilaterally made by this administration. I urge you to schedule a hearing so we can hear directly from small businesses about these important issues. Thank you again, Mr. Williams, and I look forward to a productive markup. I yield back.
+---
+
+---
+ID: 162
+Speaker: Mr. Sikorski
+Date: 2024-05-22
+Hearing: Advancing Innovation (Ai): Harnessing Artificial Intelligence to Defend and Secu
+
+TEXT:
+Yes. I think the days of a ransomware attack where they just encrypt files and you're just paying for a key, we actually miss those days because now they're stealing the data and harassing our customers to get ransomware payments. So they're taking that data which has their customer information, patient data in some instances, threatening to leak that out and really going to what I call a dark place of, like, the level of harassment they're willing to go to. They're sending flowers to executives, and they're even going after companies' customers pretending to spam them as the company when, in fact, they're the threat actor harassing their customers and then leading to getting the payment that they're after.
+---
+
+---
+ID: 163
+Speaker: Ms. VELAZQUEZ
+Date: 2025-11-18
+Hearing: Markup Of: H.R. 5763, Main Street Parity Act; H.R. 5788, 504 Program Risk Oversi
+
+TEXT:
+Thank you, Mr. Chairman. I am really pleased to support the AI for Main Street Act, which would allow the Small Business Development Centers to assist small business owners on how to evaluate artificial intelligence. I commend Mr. Alford and Ms. Scholten for working together on this bipartisan legislation. Among other things, AI has the potential to boost productivity, enhance customer service, and save costs, but small businesses must learn to use and manage AI tools effectively. If they don't, it can backfire and cause serious problems. We all heard the story of the Chevy dealership in Watsonville, California, that deployed an automated customer service chatbot that was manipulated into offering a Tahoe for a dollar and stating the deal is legally binding. As AI advances, so do the inherent risks. That is why it is important for SBA and its entrepreneurial ecosystem to help small businesses make the most of this technology. And it also makes sense to further empower the national network of SBDCs to guide and train small businesses for the future. I urge my colleagues to vote yes. I yield back my time.
+---
+
+---
+ID: 164
+Speaker: Mr. Harris
+Date: 2025-09-15
+Hearing: Advancing VA Care Through Artificial Intelligence
+
+TEXT:
+For sure. One thing to note--even Mr. Worthington talked about these high-impact systems--VHA has 72 percent of their AI use cases as being high impact, so meaning that they affect people and entities and their rights. That is quite a number, a high number of systems that have that implication. Yes, you have to go through additional hoops, as he had mentioned, with pre-deployment and during monitoring to make sure that, you know, rights are not compromised. The VA has told us that there is a need for more privacy officers to handle increased data security demands. We would like to see more of those positions being filled to ensure that privacy is really taken care of as it relates to these high-impact uses case.
+---
+
+---
+ID: 165
+Speaker: Ms. Lofgren
+Date: 2024-04-10
+Hearing: Artificial Intelligence and Intellectual Property: Part III-- IP Protection for 
+
+TEXT:
+OK. So, one of the things that I agree that we ought to tread carefully that the PTO and Copyright Office are working diligently. Here is the question, whether we ought to deal with remedies. Because I believe that if there was infringement on the data collection for learning, there ought to be compensation, but I do worry if there were injunctive relief so that AI in America was enjoined, that would put us at a tremendous disadvantage versus China and others. Do you think we should consider whether we should direct the remedy toward monetary compensation as opposed to shutting down AI in America?
+---
+
+---
+ID: 166
+Speaker: Mr. Brookman
+Date: 2024-11-19
+Hearing: Protecting Consumers from Artificial Intelligence Enabled Fraud and Scams
+
+TEXT:
+Yes, thank you for the question. It is--yes, there have been lots of academic research showing that older Americans, even setting aside dementia, are more likely to fall prey to these schemes. I think anecdotally we probably all recognize that. My own grandfather called me and said, hey, I got an e-mail from FrenchLottery@yahoo.com--I am a billionaire now. I said, no, papa, you are not. But I think--like, I mean user education is, sadly, the most important thing, like, talk to your family members. The government can try--should be doing more. Senator Blackburn mentioned the FTC says it is a $10 billion problem. That probably massively understates that. I am sure it is much greater than that. So we need to expand the resources to teach people about it and it is going to be a constantly changing battle because, again, these techniques are going to get more and more sophisticated. So each of us individually should be talking to our family members but the government should be investing a lot more in education.
+---
+
+---
+ID: 167
+Speaker: Mr. Shen
+Date: 2024-02-08
+Hearing: Artificial Intelligence and Health Care: Promise and Pitfalls
+
+TEXT:
+Yes, that is a great question, Senator, and thank you for that. So what we see as a real key component for innovation is adoption, and we believe that the adoption of these new and emerging technologies like artificial intelligence will fuel innovation, innovation here in the U.S., innovation by technology companies like ourselves, to be able to continue to push the forefront around artificial intelligence. So a key component again here is really driving adoption. So, enabling providers to be able to embrace this technology without any uncertainty in terms of making the investment in this technology, and by encouraging adoption, that is going to fuel innovation going forward.
+---
+
+---
+ID: 168
+Speaker: Mr. Brookman
+Date: 2024-11-19
+Hearing: Protecting Consumers from Artificial Intelligence Enabled Fraud and Scams
+
+TEXT:
+Yes. So we have a lot of tools. We have a tool called ``Security Planner'' that we try to franchise out to folks. We try to make a lot of our guidance available in Spanish language as well to make folks like this aware. Like, what are the basics--what are you worried about? What is your threat model? Are you worried about an ex-boyfriend? Are you are you worried about a scammer? And we tried to walk them through, like, you know, what they should do. You know, look for the warning signs. false urgency, right--like, you know, we need the money right now. Anyone asking being paid through dodgy means. Like, if your boss is asking for, like, $500 of gift cards from CVS that is probably not actually a legitimate thing. We try to--you know, and so we try to give practical guidance. Again, we cannot make it too overwhelming for folks like this cannot be a full-time job for folks. We try to give people the basic information that they have and they need to get through their day. Basic cyber security practices, having different passwords because if you do get hacked on one site you can use a different pass phrase on another site. One thing that could potentially help for some of these grandparents scam attacks is having a family safe word so only--it is only an accident if you say rutabaga or whatever your family's safe word happens to be. Again, this does put a lot of onus on individuals but, unfortunately, that is the world that we live in and so we all have an obligation to be a little bit more--a little bit more savvy.
+---
+
+---
+ID: 169
+Speaker: Mr. Ferris
+Date: 2025-03-25
+Hearing: Harnessing Artificial Intelligence Cyber Capabilities
+
+TEXT:
+Yes. Thank you, Senator. So, obviously, I would say that, currently, we're supporting or we're seeing AI deployed in an environment with humans in the loop, as you described, and on the loop where there's some oversight. But certainly, I don't think we're yet at that over the loop where they're elevated outside of the analysis and execution of the mission set, if you will. But, certainly, as agentic AI becomes more advanced, and the models improve, and become more precise, and relevant, which is happening at an incredible pace, I would say we'd be able to see some of that. But again, our position at Cohere would be that we want to work--we would develop--because we deploy models, you know, with our customers in their environments, we would suggest that that integration on the front end with the customer and with our partners having that partnership in development, deployment, and then, you know, ultimately the decisions in how those guardrails are put in place. I think that's important on the front end of really understanding where in that loop it's necessary to have the human placed.
+---
+
+---
+ID: 170
+Speaker: Senator Rounds
+Date: 2025-03-25
+Hearing: Harnessing Artificial Intelligence Cyber Capabilities
+
+TEXT:
+Well, look here, and I'm going to lead into this a little bit, too. I'm going to start with Mr. Ferris. We talked about right-sizing systems, and kind of along the same line here, I'm going to compare that because I'm not sure if I'm thinking the same thing that you're proposing. But loitering, munitions as an example, we have clear evidence that in the Nagorno-Karabakh War between Azerbaijan and Armenia, loitering munitions were used. They were able to, as you know, basically unmanned aerial vehicles, they moved into a particular kill box, identified targets that were there. Then without a human in the loop, they were able to identify the types of systems that were there, whether it was a tank and an armored personnel carrier, a command center, a radar station aircraft, and so forth. But because they had that capability, they could then choose which weapon system based upon which drone was there in the area and at an appropriate time attack each of them. Is that the type of--can you talk about, is that what you mean when you say right-sizing in terms of having the capability for that particular mission set? Or share with me what you mean by that.
+---
+
+---
+ID: 171
+Speaker: Chairwoman Klobuchar
+Date: 2024-01-24
+Hearing: The Use of Artificial Intelligence at the Library of Congress, Government Publis
+
+TEXT:
+Calling this hearing to order. Good afternoon. I would like to thank Ranking Member Fischer, as always, and our colleagues for helping us put together this hearing. With us today is Dr. Carla Hayden, who is the Librarian of Congress. Thank you. We always enjoy having you here. Also here is Hugh Halpern, the Director of the Government Publishing Office. Back again, thank you. As well as Meroe Park, thank you for being here, the Deputy Secretary and Chief Operating Officer of the Smithsonian. We understand that the Secretary is ill. Just--he will recover but was not able to make it, so we really appreciate it. Today, we are going to talk about the very important topic of artificial intelligence and the agencies that play such a critical role in serving the American people. AI has the potential, as we know, to lead to incredible innovation by supercharging scientific research, improving access to information, and increasing productivity. But like any emerging technology, AI comes with significant risks and our laws need to be as sophisticated, as the potential threats are there to our own democracy. Understanding these risks and benefits has been a major bipartisan focus of the Senate, with Senators Schumer, Rounds, Young, and Heinrich leading a series of nine forums since the fall, and a number of us on various committees working on proposals so that we are going to be ready when this hits. I think, as you all saw from the reports of the robocalls in New Hampshire with the fake voice of the President or other things that ] have also occurred to candidates on the Republican side of the aisle, this is not going to be one side or another. It is something that we as a Congress have to deal with to put some guardrails. That includes, of course, the work that goes on in these agencies. At our hearing in September, all the witnesses agreed that AI poses risks to our elections, and we heard testimony on why we must work to put guardrails in place. That is why I am leading a b
+---
+
+---
+ID: 172
+Speaker: Mr. Shen
+Date: 2024-02-08
+Hearing: Artificial Intelligence and Health Care: Promise and Pitfalls
+
+TEXT:
+Yes; thank you for the question, Senator. So, while CMS has recognized the value and the complex nature of FDA-cleared AI solutions, the agency's reimbursement decisions have not been uniform or consistent in terms of ensuring appropriate levels of payment for those products. We support a solution that ensures a predictable and consistent approach by CMS, an approach that recognizes the cost of AI used in the clinical patient care and that reimburses with a temporary and separate payment for the distinct service clinical AI tools like Algorithm-Based Health- care Services provide, which otherwise would be unavailable based on the qualitative and quantitative AI analysis that those solutions provide. More specifically, we advocate for CMS to implement a consistent and reliable payment policy for technologies and services that are first, FDA cleared; second, a covered benefit under Medicare; and third, that the service must provide a clinical output that supports the physician's decision-making. Furthermore, we encourage Congress to encourage CMS to formalize its existing Software as a Service policy, which would allow for separate and distinct payment for Algorithm- Based Health-care Services with at least 5 years of consistent payment, while given a new technology payment assignment. We believe all of this will allow for better adoption of Algorithm-Based Health-care Services to help CMS collect more data to evaluate the overall value of AI to patients. We also believe that more data will demonstrate AI's ability to increase access to care and improve patient outcomes.
+---
+
+---
+ID: 173
+Speaker: Senator Rounds
+Date: 2025-03-25
+Hearing: Harnessing Artificial Intelligence Cyber Capabilities
+
+TEXT:
+Thank you, and it is a pleasure to have you here on the team with us. This is one of those subcommittees in which it is very bipartisan, and we have focused on this since the creation of this by Senator McCain back in 2017, I believe. The path forward, I think, has been made better because of the work that we've done in the past on a bipartisan basis to keep everything on the straight and narrow. I want to thank all of you once again for coming in and participating in this open session, and we have with us, today, all three of you here. Beginning with Mr. Jim Mitre, Vice President and Director of RAND Global and Emerging risks. Mr. Mitre, welcome. Mr. David Ferris, Global Head of Public Sector, Cohere. Welcome, and Mr. Dan Tadros, Head of Public Sector, Scale AI. I understand that the agreement has been made that Mr. Mitre, you will begin today. So, we welcome you for your opening statement, sir. STATEMENT OF MR. JIM MITRE, VICE PRESIDENT AND DIRECTOR, RAND GLOBAL AND EMERGING RISKS
+---
+
+---
+ID: 174
+Speaker: Mr. Halpern
+Date: 2024-01-24
+Hearing: The Use of Artificial Intelligence at the Library of Congress, Government Publis
+
+TEXT:
+Thank you. Good afternoon, Chairwoman Klobuchar, Ranking Member Fischer, Senator Capito. It is always good to see you. I am pleased to appear before you today to share some of the potential uses of AI and related technologies at the Government Publishing Office. GPO differs from the Library and the Smithsonian in that it is fundamentally a manufacturing operation. We publish, produce, and maintain materials for all three branches of government. Our 1,600 craftspeople and professionals produce virtually all of Congress's documents, along with numerous other publications, and manufacture secure credential products like the United States passport. We also provide digital information either through our own trusted digital repository, Govinfo.gov, or by serving data to our partners like the Library where they use that data on sites like Congress.gov. No matter what you call it, artificial intelligence, machine learning, or a large language model, GPO's operations are just as susceptible to disruption as any commercial firms, and that is not necessarily a bad thing. My written testimony describes GPO's policy approach to this new generation of tools, so my statement today will focus on three potential applications for AI and related technologies in our day-to-day operations. First, we believe these tools can improve our quality assurance process by automatically recognizing defects that a human inspector might miss. We already use a rudimentary form of this technology in the production of the current version of the United States passport. GPO uses equipment that optically scans the pages that will become the identity page in a personalized passport. ] This equipment looks at each strip of three pages for variances that exceed the specifications for the material and rejects those pages that do not conform to the standard. AI technology has the potential to further refine this review, allowing the machines to learn what may constitute a natural variation that is within the 
+---
+
+---
+ID: 175
+Speaker: Mr. Ibrahim
+Date: 2024-11-19
+Hearing: Protecting Consumers from Artificial Intelligence Enabled Fraud and Scams
+
+TEXT:
+Thank you, Chairman Hickenlooper, Ranking Member Blackburn and members of this committee. My name is Mounir Ibrahim. I am with Truepic, a technology company that is focused on digital content, authenticity, and transparency online today. As you noted, Senator, I was a former Foreign Service Officer with the U.S. Department of State and it was there I saw firsthand the importance and critical need for transparency and authenticity in digital content from conflict zones around the world including on the ground in Damascus, Syria. I fundamentally believe that deciphering what is human generated from AI is one of the most pressing challenges we have today. I applaud this committee for its leadership on this issue. I would like to address the threat very briefly, echoing my colleagues here, to local communities and everyday individuals. This dynamic is most clearly seen in the prevalent and alarming rise of nonconsensual pornography as we heard, often targeting young women and even minors. Meanwhile, catfishing and sextortion scams are on the rise, often powered by AI. I fear we are witnessing the early stages of AI being weaponized against local communities and individuals who do not have the resilience or resources to defend themselves. We know that businesses face the same challenges, too. It is reported that deepfake phishing scams on businesses grew by 3,000 percent in the last year alone, 700 percent in the FinTech sector. These trends harm consumers and jeopardize America's economic competitiveness in the AIH. The reality is there is no single solution to stop this problem. However, there are effective strategies to mitigate the threat and one key approach I would like to talk about is digital content provenance. Content provenance is cryptographically and securely attaching information metadata to digital content, images, videos, audio that we see online every day. It can help you tell if something is AI generated or if it was camera captured and what edits might
+---
+
+
+## Output Format
+Return a JSON array with one object per segment:
+```json
+[
+  {
+    "id": 1,
+    "primary_frame": "ECO",
+    "secondary_frames": ["REG"],
+    "valence": "POS",
+    "confidence": "high",
+    "notes": "Speaker emphasizes economic competitiveness and innovation"
+  },
+  ...
+]
+```
+
+Code all segments now. Output ONLY the JSON array, no other text.

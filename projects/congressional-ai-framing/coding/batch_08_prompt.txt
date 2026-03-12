@@ -1,0 +1,305 @@
+You are coding congressional hearing testimony for a framing analysis study.
+
+
+## Frame Codes
+
+| Code | Frame | Definition | Key Indicators |
+|------|-------|------------|----------------|
+| ECO | Economic Opportunity | AI as driver of growth, competitiveness, jobs | innovation, leadership, competitiveness, economic growth, jobs creation, productivity |
+| SEC | National Security | AI as defense/intelligence asset or threat | China, adversaries, defense, military, intelligence, strategic competition |
+| EXI | Existential Risk | AI as potential civilizational threat | alignment, extinction, superintelligence, control problem, catastrophic |
+| REG | Regulation/Governance | AI requiring oversight and rules | oversight, accountability, transparency, regulation, guardrails, legislation |
+| CIV | Civil Rights | AI and bias, privacy, discrimination | bias, discrimination, fairness, privacy, civil liberties, surveillance |
+| LAB | Labor/Automation | AI impact on workforce | displacement, automation, workforce, reskilling, jobs loss, workers |
+| HEA | Healthcare | AI in medical applications | diagnosis, treatment, patients, healthcare, medical, clinical |
+| CON | Consumer Protection | AI risks to consumers | scams, fraud, deepfakes, misinformation, consumer harm |
+
+## Valence Codes
+- POS: Positive framing (opportunity, benefit, progress)
+- NEG: Negative framing (risk, threat, harm, concern)
+- NEU: Neutral/balanced framing (descriptive, both sides)
+
+## Confidence Levels
+- high: Clear frame, obvious indicators
+- medium: Frame present but less explicit
+- low: Ambiguous, could be multiple frames
+
+
+## Instructions
+1. For each segment, identify the PRIMARY frame (most dominant)
+2. List any SECONDARY frames present (0-2 max)
+3. Assign a VALENCE (POS/NEG/NEU)
+4. Rate your CONFIDENCE (high/medium/low)
+5. Add brief NOTES explaining your coding decision
+
+## Segments to Code
+
+
+---
+ID: 176
+Speaker: Senator Bennet
+Date: 2024-02-08
+Hearing: Artificial Intelligence and Health Care: Promise and Pitfalls
+
+TEXT:
+Thank you. Thank you both, and thank you to the panel. Thank you, Mr. Chairman. The Chairman. Thank you, Senator Bennet. I would just say, the first thing Senator Bennet said--and he is always very informed on these issues--is also worth just a quick comment. He mentioned that we are spending $4.5 trillion a year on health care. And ever since I was director of the Gray Panthers, what we would do is divide the number of Americans into the collective spending. Today, far different than when I was coming up, $4.5 trillion divided by 330 million Americans means that what Senator Bennet was just saying, that if we wanted to do it--and this is not how we are approaching health policy--but if we wanted to do it, we could send every family of four in America a check for $50,000 and say ``good evening, happy to be here''--$50,000 for a family of four. So Senator Bennet, as usual, gets us off on the right track. I thank my colleague. Senator Young, welcome.
+---
+
+---
+ID: 177
+Speaker: Senator Menendez
+Date: 2024-02-08
+Hearing: Artificial Intelligence and Health Care: Promise and Pitfalls
+
+TEXT:
+Thank you, Mr. Chairman. Dr. Obermeyer, there is a growing concern that algorithms may produce racial and gender disparities via the people building them or through the data used to train them. For example, health systems often rely on commercial prediction algorithms to identify and help patients with complex health needs. A study conducted by you and your team found evidence of racial bias in a widely used algorithm. Because this algorithm used ineffective proxies and falsely concluded that Black patients were healthier than equally sick White patients, Black patients were significantly less likely to be identified for extra care. As Congress considers appropriate payment and coverage policies for AI, we need to ensure that AI is not building upon biases in health research, and compounding health equity issues. What steps can policymakers take to ensure that AI can be used to improve health outcomes for underserved and underrepresented populations, rather than build on the current health disparities?
+---
+
+---
+ID: 178
+Speaker: Ms. Mani
+Date: 2024-11-19
+Hearing: Protecting Consumers from Artificial Intelligence Enabled Fraud and Scams
+
+TEXT:
+Well, thank you, Senator. I think I am going to just start with saying that in our case--in our high school it will allow the platform for the school to act and do anything at this point. In schools in general I feel, as I mentioned it before, laws are form of education to our society, especially right now that we are dealing with schools and the problem of deepfakes over there. They are a form of education our society of what is acceptable and what is not and what has not been delivered at home or in school can be delivered through laws and by fear of being criminally or in a civil way anyway affected by their actions, will allow, I guess, or will prevent, at least in some instances, from deepfakes being created. At the same time, as I mentioned before, criminal laws and civil laws even though they are so important not always the victims will choose to use them in their advocacy for their image. But the 48 hours take it down component of your bill is something that gives the victims immediate way to take the ownership of their image and some of them that is what they want.
+---
+
+---
+ID: 179
+Speaker: Senator Hagerty
+Date: 2024-01-24
+Hearing: The Use of Artificial Intelligence at the Library of Congress, Government Publis
+
+TEXT:
+I think, as a result, you are in a unique position to ensure the proper implementation of AI. I think, we all know that AI offers many promising benefits, but with its increasing prevalence, it is not without drawbacks. ] I would like to take this home, and you and I have talked about my affinity for the songwriting and music business in my home State of Tennessee. We are actually home to thousands of performing artists there in Tennessee, songwriters, artists, all of whom have the potential to be greatly impacted by artificial intelligence. I am concerned that AI-generated deepfake recordings, voice clones, or other infringements on the works of copyright holders could cause serious damage to an artist's reputation and to their livelihood. Earlier this month, Governor Bill Lee announced plans for legislation to protect the voices of performing artists by adding their voices and sound to Tennessee's Protection of Personal Rights law. I am pleased that my home State of Tennessee is leading the Nation in providing legal protection for our artists and for our songwriters. My first question, Dr. Hayden, is given the growing pervasiveness of AI, how does the Copyright Office plan to protect the copyrighted works and uses of voices of performing artist at the federal level?
+---
+
+---
+ID: 180
+Speaker: Mr. Tadross
+Date: 2025-03-25
+Hearing: Harnessing Artificial Intelligence Cyber Capabilities
+
+TEXT:
+Yes, ma'am. So, the way that I kind of look at this is as these technologies start to be fielded, there's always an interest in the Department of Defense in order to be able to operate in a disconnected environment. So, what that requirement's going to come along with is fine tune smaller models that can interact together, which is similar to the approach that we're taking with INDOPACOM and EUCOM for agentic warfare. So, what this really results in is a lower power requirement because back at home station, while we've been doing the development and training, we're able to tune these models. You've been using very specific data sets. So, individual models are very good at a specific thing. They've been tested and evaluated, and then the interaction between those models is what can be fielded at the edge. So, that minimizes the energy requirements as these things begin to get fielded and proliferated.
+---
+
+---
+ID: 181
+Speaker: Ms. Park
+Date: 2024-01-24
+Hearing: The Use of Artificial Intelligence at the Library of Congress, Government Publis
+
+TEXT:
+We take our cybersecurity responsibilities very seriously, both in terms of our own internal practices, but also in terms of our public domain. We do comply with NIST standards when it comes to our cyber profile. Our CIO is very much checking constantly to make sure that we are following those standards. Our Inspector General is also there to regularly check on our progress. The other thing we do is we regularly report and, participate in federal forums where you share information about the latest threats that might be coming through various channels, including, the emergence of AI and how it is being used. For one, for example, phishing has become much more sophisticated now with the emergence of AI and the ability to create much more easily emails and other things that appear to be real. There are--so we are stepping up our testing of our own work force in their terms of their ability to recognize these things. There is a lot of work going on there. Finally, I would mention there is an internal group led by our CIO right now that is really trying to develop or evolve our policy structure to make sure that we are prepared for whatever threats that might be coming from emerging technologies, including AI.
+---
+
+---
+ID: 182
+Speaker: Dr. Hayden
+Date: 2024-01-24
+Hearing: The Use of Artificial Intelligence at the Library of Congress, Government Publis
+
+TEXT:
+That is part of the LC Labs, and working directly with a service unit, NLS, National Library Service for the Blind and Print Disabled. They have had quite a bit of success with the e-reader rollout. They are looking at how AI can be used to help this population. There are some exciting opportunities, but they are working hand in hand to make sure that what is being presented to that community is trustworthy. You can see that that is the main theme, I think for all of us, that we want to use this tool for a number of reasons, for efficiency, effectiveness, but also we have to make sure that there is that oversight of use.
+---
+
+---
+ID: 183
+Speaker: Senator Rosen
+Date: 2025-03-25
+Hearing: Harnessing Artificial Intelligence Cyber Capabilities
+
+TEXT:
+Well, thank you, Chairman Rounds, and I'd like to begin by welcoming our panel, and thanking you all for joining us. This topic has profound implications for our national security, I would say, for our personal security, for everything in our world to come. But this is actually my first hearing as Ranking Member of this Subcommittee, and I am really honored to work alongside Chairman Rounds, our colleagues, and each of you on how we can responsibly integrate innovation and the increasing pace of technology including artificial intelligence into our national defense strategy and into the hands of our service members to enhance their speed, their capabilities, and their operating picture. Well, of course, all the time we have to balance the risks and rewards concerns of AI and what it teaches us. So, with great promise comes great responsibility. We know that our adversaries are developing new AI tools and have the potential to fundamentally shift the nature of warfare. We've began to see how new uses of AI can help our own service members counter such threats and take proactive offensive actions in the moment as well. However, the rapid pace of AI innovation also raises really important questions about its ethical implications, its governance, and the security risks it poses as well. We're operating in a new world without guardrails and we need to tread carefully, balancing such caution with the need to create an environment that allows for innovation and agility. There are also challenges we must overcome in order to both mitigate the risks of AI and make the most of the opportunities that I know it presents. In particular, we need to further invest in and expand the AI workforce, both at DOD, and across the Government, across the private sector. We have to increase it everywhere to harness our full potential. I truly believe this. As a former computer programmer, systems analyst, myself, I can say from firsthand experience that AI has vastly changed the technology 
+---
+
+---
+ID: 184
+Speaker: Chairwoman Klobuchar
+Date: 2024-01-24
+Hearing: The Use of Artificial Intelligence at the Library of Congress, Government Publis
+
+TEXT:
+Very good. Thank you. Some of the risks of AI are already clear. I talked about what just happened with those robocalls and what we are seeing on--really in fake videos on both sides of the aisle. It is not just one side. I know the Republican Attorney General is investigating what happened in New Hampshire. But we know that there is going to be other security issues, from our infrastructure, cyber-attacks. Could you talk about what your agencies have done to guard against cybersecurity threats to ensure that your systems remain strong in the face of potential AI threats? Each one of you could answer. Dr. Hayden.
+---
+
+---
+ID: 185
+Speaker: Mr. Farid
+Date: 2024-11-19
+Hearing: Protecting Consumers from Artificial Intelligence Enabled Fraud and Scams
+
+TEXT:
+Yes. So the first thing to understand is as a consumer your ability to distinguish reality from AI is becoming increasingly more difficult. I do this for a living and I am pretty good at it, and it is getting really hard. So putting that onus on the consumer is look for the hands, look for this, look for that. That is a false sense of security that will simply not be true tomorrow, let alone three months from now. In terms of automation of tools, there is two basic approaches to automation, what we call proactive and reactive. Proactive, you have already heard of it from Mounir and Truepic. This is you are at the point of creation. Whether it is an AI-generated voice, an AI-generated image, or an image that I took with one of these devices in my hand, you can cryptographically sign the source of that so you know provenance. That today is the only tool that works, and this is the important part, at scale. Your question needs a little bit of additional thing, which is at what scale do you want to operate, and if you want to operate at the scale of the Internet with billions of uploads a day, this today is the only technology that works at that scale. The reactive techniques say, well, we have a bad actor who is not using credentials, or the credentials have not been deployed widely. So we wait. We wait to get the phone call. We wait for the image to show up on social media and we respond to that. And there the answer of efficacy is it depends. If you give us enough time we will figure it out. We are pretty good at this. But the half life of a social media post is measured in about 30 to 60 seconds. So it is not like you have a lot of time once it gets onto the social media platforms for you to respond. So my view of these things is we need the proactive solutions. We need the reactive solutions to clean up the mess that is left behind and for consumers I think it is not so much about educating them on how to detect this but it is educating them on good digital hygiene
+---
+
+---
+ID: 186
+Speaker: Senator Rosen
+Date: 2025-03-25
+Hearing: Harnessing Artificial Intelligence Cyber Capabilities
+
+TEXT:
+I have one last question. I think for those of you who don't know, Maven means ``know it all'' in Yiddish, I should say. We should have the Maven marketplace. How about that? There you go. That maybe that solves what you need. What I want to talk about and just finish up with, we can't do any of this without building our AI workforce. That is something that Congress can help invest and promote, and we can only go as far as we are willing to invest in all of that. It's just so very important. So, for all of you, as we just finish up in our last few minutes, the workforce issues that you see in adoption of AI, what do we need to do to grow? Well, coders, engineers? All of the things that we have to do to build out this robust workforce? Because these are the kinds of things that Congress does work on and does fund. What advice would you give to us? No one starts in the center. We started on the ends. We'll start with you, and I think it's a good way that's something that is in our wheelhouse and work on that Maven marketplace. Will you? There you go. I'm going to trademark that name. You heard it here first.
+---
+
+---
+ID: 187
+Speaker: Dr. Mello
+Date: 2024-02-08
+Hearing: Artificial Intelligence and Health Care: Promise and Pitfalls
+
+TEXT:
+Thank you. They have difficulty challenging those decisions. So, the number one piece of advice I would give is, do not look at grievance appeal and overturn rates as a good indicator of humans in the loop correcting errors, because even if we see--as we have with some other health plans in Medicare Advantage--90 percent overturn rates of these initially mistaken algorithmic decisions, this group of enrollees does not appeal in force. Again, they just simply do not have the social capital to do that. So, second, I think we want to get a handle on which algorithms are being used and for what purpose; and then third, really look under the hood at the kinds of incentives and constraints the front-line reviewers have, the amount of power they actually have to overturn those decisions, by talking with them, confidentially, if possible, about, again, what will happen to them if they say ``no.'' The Chairman. The staff was writing very quickly, so you connected. Dr. Obermeyer?
+---
+
+---
+ID: 188
+Speaker: Senator Blackburn
+Date: 2024-11-19
+Hearing: Protecting Consumers from Artificial Intelligence Enabled Fraud and Scams
+
+TEXT:
+Yes, and I know some of the senior specific organizations are beginning to do education because so many people are now using at home health and other conveniences, that much of their data is being transmitted and sensitive data--things that are HIPAA protected. So, Mr. Farid, I want to come back to you on--as you are looking at this, and we say 5 years from now, 10 years from now, because we look at the fact that, as I just said, privacy, we have never gotten that Federal standard. So people have treasure troves of information as out there. So when you look at advancements and changes in AI five years down the road what do you expect? Ten years down the road what do you expect?
+---
+
+---
+ID: 189
+Speaker: Senator Markey
+Date: 2024-11-19
+Hearing: Protecting Consumers from Artificial Intelligence Enabled Fraud and Scams
+
+TEXT:
+And I appreciate that. We should not just leave it to the individuals to figure out how to protect themselves. We have to take action against the companies that set up these algorithms. So as Congress considers AI legislation we just cannot ignore how those algorithms will impact marginalized communities and that is why we have to pass my AI Civil Rights Act and all of this, you know, requires that consumers be able to authenticate the digital content and we need to put those protections in place. So I thank all of you for everything that you are doing to help to inform the public about these very important issues.
+---
+
+---
+ID: 190
+Speaker: Senator Cassidy
+Date: 2024-02-08
+Hearing: Artificial Intelligence and Health Care: Promise and Pitfalls
+
+TEXT:
+If I ask questions and say things that you have already answered, I have just been running and dodging protestors. So the question is, how do we regulate this? And I have had three options presented to me, and I would like your kind of take on it--or maybe four. One, have AI validate AI. And someone says, you've got to be kidding me. AI cannot validate AI because it depends upon making sure that they have the same data sets upon which they are trained and are equally robust. Second, let's do what we did with the Sherman Antitrust Act. Just give the Court some sort of barriers, guidelines. Okay, courts, you have to stay within this. We cannot imagine what is going to happen in 100 years; courts, figure it out. But then someone said, you've got to be kidding me. You have to understand something before you can have a court ruling, and you think some judge is going to understand this? It was a lawyer who told me that. I am a gastroenterologist, so I am just going to take his kind of minimization of the judge's ability to comprehend. The third is to say, if we are talking about health care, to go, for example, to the American College of Cardiology and say we want you to be the third party that will validate that everything out here is going to be okay for a cardiology patient. Now, since a cardiology patient with congestive heart failure can have kidney disease and can have diabetes and hypertension and be at risk of stroke--and by the way, be HIV positive--it almost seems like you end up with the whole shebang, even though you think you are going to limit it. But actually, that is the one that seems most valid to me, because you actually have subject matter expertise kind of penetrating there. Now, I have given you that context. Clearly, I am meditating on this before I go to bed. Let's start with you, Dr. Baicker, and then just work down, and please be tight with your answers.
+---
+
+---
+ID: 191
+Speaker: Senator Sullivan
+Date: 2024-11-19
+Hearing: Protecting Consumers from Artificial Intelligence Enabled Fraud and Scams
+
+TEXT:
+Thank you, Mr. Chairman, and I am going to just follow up on this line of questioning because I think it is a really important one. I want to start with you, Ms. Mani. I am really sorry about what happened to your daughter. I have three daughters and, you know, it is horrendous. I can only imagine what you guys are going through. So I want to start with you but I am going to kind of pose the question to everybody once you answer, and it just goes to what Senator Hickenlooper was asking about--I think it is what we are all struggling with--and it is responsibility and consequences, and when the responsibility and consequences are too diffuse then there is nobody who is deterred from taking this kind of action. So in the 2022 Violence Against Women Act Congress passed legislation that created a civil cause of action for victims to sue individuals responsible for publishing nonconsensual intimate imagery. So that is different from the deepfakes but it is kind of along the same lines. So my question as I am thinking through this, the consequences could fall on a number of different entities--the AI platform that generates a deepfake of, you know, someone's daughter and something that is fake but, you know, looks real; the social media platform that posts it and I would welcome to hear about your experience on trying to get them to take it down. Because just having constituents in Alaska who deal with this, trying to get these companies to take something down that is harmful can be very challenging. And then, third, of course, the person who was behind it. In this case I think it was a classmate of your daughter's, who only received a brief suspension. So all of these are different kind of potential parties to be responsible. So I would ask for your view, first, in your specific situation and then I would ask all of you--I am a big believer in deterrence, right. You lay it out. Hey, if you do this you are going to get hammered. Hammered. You are going to go to jail. You 
+---
+
+---
+ID: 192
+Speaker: Mr. Ibrahim
+Date: 2024-11-19
+Hearing: Protecting Consumers from Artificial Intelligence Enabled Fraud and Scams
+
+TEXT:
+Thank you, Senator. So from our perch the incentives--the largest incentives has been the scale and the proliferation of generative and AI material. We have seen entire industries that were digitizing because of the efficiency and the cost savings well before the advent of AI, unable to compete in today's economy if they do not have authenticity, transparency, or provenance in the digital content that they are operating on. So we have seen that as the greatest incentive and that is why entire industries like insurance, business credentialing, warranties, supply chain monitoring, et cetera, et cetera, are adopting this technology. However, on the consumer facing side, you know, think peer to peer commerce, home rental sites, online dating sites. The incentives although are there there have not been the financial incentives, at least from our perch, or consequences, for these platforms to better protect or at least give more transparency to their consumers and that has been lagging. In the past year we have seen four of the largest social media platforms--LinkedIn, all the Meta sites, YouTube and TikTok, I believe, all begin implementing at various levels and at various commitments the C2PA open specification and that is great. But much more could be done in this regard.
+---
+
+---
+ID: 193
+Speaker: Dr. Obermeyer
+Date: 2024-02-08
+Hearing: Artificial Intelligence and Health Care: Promise and Pitfalls
+
+TEXT:
+Thank you for asking, Senator. I think the two principles that I would say are important, that I believe Congress should enforce for algorithms that are being used on patients are, number one, transparency in the form of specificity. We should know exactly what algorithms are predicting. So, if an algorithm is predicting cost, it should say that very clearly. And I think that will be part of educating the market of health systems and others who use those algorithms, that if this is just predicting how much someone is going to cost, I probably should not use that to figure out how much health care somebody needs, because there are some people who are low-cost who face barriers to access and discrimination that has reduced that cost, who actually need more care than their costs would indicate. So transparency, in the form of clearly labeling what an algorithm outputs, is important. The second is that we need more accountability in the form of evaluating those algorithms in new data sets and by third parties, so that we do not have to take an algorithm developer's word that the algorithm is working well and equitably across groups.
+---
+
+---
+ID: 194
+Speaker: Mr. Mitre
+Date: 2025-03-25
+Hearing: Harnessing Artificial Intelligence Cyber Capabilities
+
+TEXT:
+That's a great question, and I welcome it. I wholeheartedly agree that it's in America's interest to stay at the forefront of the development of generative AI and AI technologies more broadly. So, the way in which we can address this issue is, first, it's helpful for the U.S. Government to really understand what the current State of the technology is, and make sure that folks within the Government, particularly those that are working in the national security community, really understand what's happening with the technology. Because one of the challenges with this technology is that it's not being developed by Government, it's being developed by the private sector. So, just understanding what the current State is critical so there aren't technological surprises that come out that shock people in the national security community. The second thing that Government should be doing here is really looking for applications in the national security context. What are the specific use cases that it can be applied? What are potential pathways to wonder weapon or ways in which it could be highly advantageous in a military competition that's critical to do, and that means having the AI in an environment where you've got sufficient compute, where you've got the right networks, et cetera. You can actively experiment with it, and get the technology in the hands of the operators to play around with it. The third thing is preparing for contingencies. There's a wide range of possible things that could happen. A loss of control scenario, for example, areas where there is technological surprise and the Chinese get ahead. What would the U.S. Government do in such contingencies? We should think that through in advance and have plans ready to address it.
+---
+
+---
+ID: 195
+Speaker: Mr. Shen
+Date: 2024-02-08
+Hearing: Artificial Intelligence and Health Care: Promise and Pitfalls
+
+TEXT:
+Yes, thank you for the question, Senator. Certainly, I think working with our clinical partners is very critical, not just in the development of our AI algorithms, but also in the adoption of those AI algorithms as well. So, from our perspective, we work closely with those clinicians to really identify what is the need that they have. What is the challenge that they have from a clinical standpoint that we should try to create that AI algorithm to help them address? And more importantly then is, what is the patient population that they are representing, so that the data that we use to train that AI algorithm is reflective of that patient population? And then, once we actually apply that AI algorithm into clinical practice, it is important that we facilitate the adoption. So what does that mean? That also means educating the clinician in terms of what is the intent of that AI algorithm. What was the purpose, as some of my colleagues have talked about here, of that AI algorithm? And then also to provide transparency as to why is that AI algorithm making the clinical decision or recommendation that it is making--so, giving that education to the clinician as to why that is happening. And finally, I think the other important aspect is that we work very closely with our clinical partners to gather feedback from them, to really understand how do we improve and continue to innovate that AI algorithm going forward? These are all critical steps where we believe we need to have a key partnership with the clinician. The Chairman. We are going to have to move on, Mr. Shen. Thank you. Senator Cortez Masto. Thank you, Mr. Chairman. The Chairman. We have a lot of our colleagues. I thank my colleague. Next is Senator Johnson.
+---
+
+---
+ID: 196
+Speaker: Senator Menendez
+Date: 2024-02-08
+Hearing: Artificial Intelligence and Health Care: Promise and Pitfalls
+
+TEXT:
+Thank you, Mr. Chairman. The Chairman. I thank my colleague. Senator Cortez Masto? Senator Cortez Masto. Thank you. I want to thank the chairman, ranking member, and the panelists. This is a very timely and important discussion. If you have not been to CES, the Consumer Electronics Show in Nevada, I would welcome you there. Cutting-edge technology in this space that we are talking about right now in the use of AI, the impact it has to our patients, but also the health-care industry and access---- But this is a concern for me: how do we overlay necessary regulation when it comes to AI, necessary regulation and guard rails for data privacy? Because I think that is all part of it when we are having this discussion. But one of the things that also comes up--and, Dr. Mello, I am going to ask you if you would address this, and any of the other panelists are welcome. I have been reviewing recent investigative news coverage of the use of AI and algorithms in limiting access to skilled nursing services. We have heard this happening in other post- acute settings as well, like home health and rehab care. I share concerns expressed here today about Medicare Advantage plans' use of AI tools in prior authorization decisions. So, Dr. Mello, I appreciate you highlighting these issues with AI and health insurers in your testimony. As you note, CMS finally recently finalized a rule requiring Medicare Advantage plans to have a medical professional review in AI-assisted decisions. So my question to you--and I have two of them. And one is, in your view, is human review an adequate guard rail to ensuring plans are individualizing coverage decisions, and does the CMS rule provide enough oversight of the use of AI tools in coverage decisions? Those two questions. Thank you.
+---
+
+---
+ID: 197
+Speaker: Senator Baldwin
+Date: 2024-11-19
+Hearing: Protecting Consumers from Artificial Intelligence Enabled Fraud and Scams
+
+TEXT:
+Thank you. Mr. Brookman, in Wisconsin we are seeing a prevalence of technology being used to scam families including seniors. This past March the Dane County Sheriff's Office put out a warning about phone scams using artificial intelligent tools to mimic the voices and faces of loved ones to trick senior citizens into believing their loved ones are in danger and need help. I know other law enforcement agencies in Wisconsin and across the country are hearing from victims of similar scams. I also hear directly from constituents on this matter. In 2023, Wisconsinites lost approximately $92 million to fraudsters and scamsters. So once people realize they have become a victim of a financial fraud or scam can you speak to what steps people must take to report the crime and recover damages?
+---
+
+---
+ID: 198
+Speaker: Mr. Brookman
+Date: 2024-11-19
+Hearing: Protecting Consumers from Artificial Intelligence Enabled Fraud and Scams
+
+TEXT:
+I have thoughts. So, I mean, I strongly agree with you. Deterrence is incredibly important. Everyone on the staff probably has some responsibilities, certainly the perpetrator. But the people who make these tools, like, some of these tools have very, very limited positive societal use cases. To create intimate images based on a real person--voice cloning. Like, I mean, maybe some very edge cases but overwhelmingly likely to be used for harm. If you are putting a product out in the market that is overwhelmingly likely to be used for harm you should bear some responsibility. That was the FTC's Ryder case.
+---
+
+---
+ID: 199
+Speaker: Senator Warren
+Date: 2024-02-08
+Hearing: Artificial Intelligence and Health Care: Promise and Pitfalls
+
+TEXT:
+All right; thank you. So, over 31 million Americans are enrolled in Medicare Advantage, or MA, the program that allows private for-profit insurers to offer Medicare coverage. Now, under Federal law, these private insurers are required to cover all Medicare Part A and Part B services. But in recent years, government watchdogs have found that private insurers are routinely delaying and denying care because doing so boosts their profits. In 2019, the Health and Human Services Inspector General found that nearly one in five payment denials by insurers in MA violated Medicare coverage rules, meaning seniors were unlawfully denied access to services that they were, by law, entitled to. Some of the largest insurers that offer MA are now relying on flawed artificial intelligence tools like predictive algorithms to scale up their efforts to deny coverage to seniors. These algorithms sift through millions of medical records to determine the level of patient need that the algorithm thinks they need. So, Professor Mello, you are an expert on AI and health policy. Let us start with an easy question. Does Federal law require all insurance companies to follow Medicare coverage guidelines, even if they are using AI algorithms to determine coverage?
+---
+
+---
+ID: 200
+Speaker: Senator Markey
+Date: 2024-11-19
+Hearing: Protecting Consumers from Artificial Intelligence Enabled Fraud and Scams
+
+TEXT:
+Yes. So I agree because any effort to address AI-enabled fraud and scams must be spent given special attention to the unique harms that are facing those populations, and as we discuss AI's impact on marginalized communities we must also remember that AI-powered algorithms can supercharge preexisting bias and discrimination. For example, a 2019 report found that due to bias in mortgage approval algorithms lenders were 80 percent more likely to reject Black applicants than similar White applicants. On another occasion, a major tech company found that its AI resume screening tools penalized resumes that included the words ``women'' and recommended male applicants for jobs at much higher rates than similar female applicants. That is unacceptable. We cannot let AI stand for accelerating inequality and it is why in September, I introduced the AI Civil Rights Act which would ensure that companies review and eliminate bias in their algorithms and put Americans back in control of key decisions in their lives. Mr. Brookman, do you agree that Congress should pass my AI Civil Rights Act?
+---
+
+
+## Output Format
+Return a JSON array with one object per segment:
+```json
+[
+  {
+    "id": 1,
+    "primary_frame": "ECO",
+    "secondary_frames": ["REG"],
+    "valence": "POS",
+    "confidence": "high",
+    "notes": "Speaker emphasizes economic competitiveness and innovation"
+  },
+  ...
+]
+```
+
+Code all segments now. Output ONLY the JSON array, no other text.
