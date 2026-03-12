@@ -1,0 +1,1500 @@
+- BEYOND I, ROBOT: ETHICS, ARTIFICIAL INTELLIGENCE, AND THE DIGITAL AGE
+
+[House Hearing, 117 Congress]
+[From the U.S. Government Publishing Office]
+
+                        BEYOND I, ROBOT: ETHICS,
+                        ARTIFICIAL INTELLIGENCE,
+                          AND THE DIGITAL AGE
+
+=======================================================================
+
+                             VIRTUAL HEARING
+
+                               BEFORE THE
+
+                 TASK FORCE ON ARTIFICIAL INTELLIGENCE
+
+                                 OF THE
+
+                    COMMITTEE ON FINANCIAL SERVICES
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED SEVENTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                            OCTOBER 13, 2021
+
+                               __________
+
+       Printed for the use of the Committee on Financial Services
+
+                           Serial No. 117-52
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+                               __________
+
+                    U.S. GOVERNMENT PUBLISHING OFFICE                    
+46-195 PDF                 WASHINGTON : 2022                     
+
+-----------------------------------------------------------------------------------   
+
+                 HOUSE COMMITTEE ON FINANCIAL SERVICES
+
+                 MAXINE WATERS, California, Chairwoman
+
+CAROLYN B. MALONEY, New York         PATRICK McHENRY, North Carolina, 
+NYDIA M. VELAZQUEZ, New York             Ranking Member
+BRAD SHERMAN, California             FRANK D. LUCAS, Oklahoma
+GREGORY W. MEEKS, New York           BILL POSEY, Florida
+DAVID SCOTT, Georgia                 BLAINE LUETKEMEYER, Missouri
+AL GREEN, Texas                      BILL HUIZENGA, Michigan
+EMANUEL CLEAVER, Missouri            ANN WAGNER, Missouri
+ED PERLMUTTER, Colorado              ANDY BARR, Kentucky
+JIM A. HIMES, Connecticut            ROGER WILLIAMS, Texas
+BILL FOSTER, Illinois                FRENCH HILL, Arkansas
+JOYCE BEATTY, Ohio                   TOM EMMER, Minnesota
+JUAN VARGAS, California              LEE M. ZELDIN, New York
+JOSH GOTTHEIMER, New Jersey          BARRY LOUDERMILK, Georgia
+VICENTE GONZALEZ, Texas              ALEXANDER X. MOONEY, West Virginia
+AL LAWSON, Florida                   WARREN DAVIDSON, Ohio
+MICHAEL SAN NICOLAS, Guam            TED BUDD, North Carolina
+CINDY AXNE, Iowa                     DAVID KUSTOFF, Tennessee
+SEAN CASTEN, Illinois                TREY HOLLINGSWORTH, Indiana
+AYANNA PRESSLEY, Massachusetts       ANTHONY GONZALEZ, Ohio
+RITCHIE TORRES, New York             JOHN ROSE, Tennessee
+STEPHEN F. LYNCH, Massachusetts      BRYAN STEIL, Wisconsin
+ALMA ADAMS, North Carolina           LANCE GOODEN, Texas
+RASHIDA TLAIB, Michigan              WILLIAM TIMMONS, South Carolina
+MADELEINE DEAN, Pennsylvania         VAN TAYLOR, Texas
+ALEXANDRIA OCASIO-CORTEZ, New York   PETE SESSIONS, Texas
+JESUS ``CHUY'' GARCIA, Illinois
+SYLVIA GARCIA, Texas
+NIKEMA WILLIAMS, Georgia
+JAKE AUCHINCLOSS, Massachusetts
+
+                   Charla Ouertatani, Staff Director
+                 TASK FORCE ON ARTIFICIAL INTELLIGENCE
+
+                    BILL FOSTER, Illinois, Chairman
+
+BRAD SHERMAN, California             ANTHONY GONZALEZ, Ohio, Ranking 
+SEAN CASTEN, Illinois                    Member
+AYANNA PRESSLEY, Massachusetts       BARRY LOUDERMILK, Georgia
+ALMA ADAMS, North Carolina           TED BUDD, North Carolina
+SYLVIA GARCIA, Texas                 TREY HOLLINGSWORTH, Indiana
+JAKE AUCHINCLOSS, Massachusetts      VAN TAYLOR, Texas
+
+                           C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hearing held on:
+    October 13, 2021.............................................     1
+Appendix:
+    October 13, 2021.............................................    25
+
+                               WITNESSES
+                      Wednesday, October 13, 2021
+
+Broussard, Meredith, Associate Professor, Arthur L. Carter 
+  Journalism Institute of New York University....................     4
+Cooper, Aaron, Vice President, Global Policy, BSA--The Software 
+  Alliance.......................................................    12
+King, Meg, Director, Science and Technology Innovation Program, 
+  The Wilson Center..............................................     8
+Vogel, Miriam, President and CEO, EqualAI........................     6
+Yong, Jeffery, Principal Advisor, Financial Stability Institute, 
+  Bank for International Settlements.............................    10
+
+                                APPENDIX
+
+Prepared statements:
+    Broussard, Meredith..........................................    26
+    Cooper, Aaron................................................    33
+    King, Meg....................................................    74
+    Vogel, Miriam................................................    79
+    Yong, Jeffery................................................    88
+
+              Additional Material Submitted for the Record
+
+Garcia, Hon. Sylvia:
+    Written responses to questions for the record submitted to 
+      Jeffery Yong...............................................    90
+
+                        BEYOND I, ROBOT: ETHICS,
+                        ARTIFICIAL INTELLIGENCE,
+                          AND THE DIGITAL AGE
+
+                              ----------                              
+
+                      Wednesday, October 13, 2021
+
+             U.S. House of Representatives,
+             Task Force on Artificial Intelligence,
+                           Committee on Financial Services,
+                                                   Washington, D.C.
+    The task force met, pursuant to notice, at 12 p.m., via 
+Webex, Hon. Bill Foster [chairman of the task force] presiding.
+    Members present: Representatives Foster, Casten, Pressley, 
+Adams, Garcia of Texas, Auchincloss; Gonzalez of Ohio, 
+Loudermilk, Budd, and Taylor.
+    Chairman Foster. The Task Force on Artificial Intelligence 
+will come to order.
+    Without objection, the Chair is authorized to declare a 
+recess of the task force at any time. Also, without objection, 
+members of the full Financial Services Committee who are not 
+members of this task force are authorized to participate in 
+today's hearing.
+    As a reminder, I ask all Members to keep themselves muted 
+when they are not being recognized by the Chair. The staff has 
+been instructed not to mute Members, except when a Member is 
+not being recognized by the Chair and there is inadvertent 
+background noise.
+    Members are also reminded that they may only participate in 
+one remote proceeding at a time. If you are participating 
+today, please keep your camera on, and if you choose to attend 
+a different remote proceeding, please turn your camera off.
+    Today's hearing is entitled, ``Beyond I, Robot: Ethics, 
+Artificial Intelligence, and the Digital Age.''
+    I now recognize myself for 4 minutes to give an opening 
+statement.
+    Thank you, everyone, for joining us today at a time when 
+the power and perils of artificial intelligence (AI) are very 
+much on people's minds. Each generation has its own cautionary 
+tales about AI. Recent big-screen adaptations--The Matrix, 
+Terminator, and Tron--echo the episodes of the old 1960s Star 
+Trek starring William Shatner as Captain James D. Kirk of the 
+Starship Enterprise, and those episodes themselves were taken 
+from the short stories of Isaac Asimov, Arthur Clarke, and all 
+of the old masters of 1950s sci-fi pulp magazines. And 
+parenthetically, I should offer our congratulations that today, 
+William Shatner was able to boldly go into suborbital near 
+space where X-15 pilots have been boldly going since the late 
+1950s. But I digress. Asimov's classic, I, Robot, showed us 
+what can happen when we deploy technology or AI without fully 
+comprehending its consequences.
+    There is an ancient joke in AI that I first heard as an 
+undergraduate back in the 1970s about an all-powerful AI that 
+was given a simple command: Maximize paperclip production. It 
+thought about it for a moment and then began killing off all 
+humans on Earth because humans interfere with paperclip 
+production.
+    Now, it may have taken us 50 years, but we are kind of 
+there. Facebook's AI was given the simple command, ``maximize 
+Facebook's profits,'' whereupon they thought for a moment and 
+then began killing off all rational political debate in our 
+country because that interferes with Facebook's profits. And 
+the situations with social media in Myanmar and around the 
+world are even uglier and more deadly.
+    In previous hearings of this task force, we have looked at 
+the biases and unexpected side effects of using AI in financial 
+services and housing. We have also looked at the implications 
+of artificial intelligence's voracious appetite for personal 
+data and the implications for privacy, at technological 
+approaches to maximally preserve privacy while retaining AI's 
+effectiveness, and the importance of secure digital identity.
+    In this hearing, we are going to take a closer look at the 
+frameworks for developing, monitoring, and recognizing AI to 
+ensure that the technology we develop and deploy will be of 
+overall benefit to society.
+    In past hearings, we have examined instances of algorithmic 
+bias that have produced discriminatory effects in the lending 
+space. We have seen facial recognition technology that is far 
+less effective at identifying minorities correctly, despite the 
+fact that the developers of these tools did not include a 
+discriminatory line of code in their products. So, we clearly 
+cannot allow technology to treat humans differently based on 
+race and appearance, unless, of course, perhaps we are 
+explicitly correcting for past unjust biases, which brings up a 
+set of issues that my father struggled with as a civil rights 
+lawyer back in the 1950s, and continues with us today. We have 
+to understand whether we should hold AI to standards that are 
+higher than we would expect of an ordinary human-based 
+decision-making process.
+    As we start defining frameworks for developing and 
+performance-testing AI, it seems possible that we are starting 
+to place requirements on AI that are more strict than we would 
+ever place on human decision-makers. For example, most of our 
+witnesses today have advocated for defining minimum diversity 
+standards for the training datasets for AI, but we have never 
+considered requiring that a human bank officer would have a 
+minimum number of friends of different races or protected 
+classes, even though it might arguably result in more fair 
+decision-making. And we may already be seeing the positive 
+results of holding AI to higher standards than humans with the 
+recent reports that fintech apps were apparently more effective 
+than human-based banks in issuing Paycheck Protection Program 
+(PPP) loans to minority customers.
+    As policymakers, we also have to understand to what extent 
+we should concentrate on so-called black-box testing that only 
+focuses on the inputs and outputs from opaque neural networks 
+and other decision-making algorithms, or whether we should 
+expect ourselves and the public to receive and to understand a 
+detailed explanation of what goes on under the hood. So, there 
+is a lot to be examined here. It is my hope that in this 
+dialogue, we will discover which frameworks exist and which 
+should be created or fleshed out to ensure that AI is working 
+effectively and safely for everyone.
+    And the Chair will now recognize the ranking member of the 
+task force, Mr. Gonzalez of Ohio, for 5 minutes for an opening 
+statement.
+    Mr. Gonzalez of Ohio. Thank you, Chairman Foster, for your 
+leadership on ethics in AI and for convening today's hearing, 
+and I also thank our witnesses for being here. It is vital that 
+Congress continues to consider how we can best promote 
+innovative advancement in the private sector while also 
+ensuring that AI is both transparent and ethical. Today's 
+hearing provides an opportunity to hear directly from industry 
+experts and stakeholders on the importance of this topic.
+    A few months ago, the task force held a similar hearing 
+examining how human-centered AI can address systemic racism. 
+One of our witnesses at that hearing, Professor Rayid Ghani of 
+Carnegie Mellon University, testified that algorithms 
+themselves are neither inherently biased or unbiased, but work 
+by analyzing past data and making generalizations about future 
+outcomes. I believe that these discussions on bias and 
+algorithms are important to have. We must acknowledge and 
+recognize these technologies at times are not perfect due to 
+the inherent nature of a technology created by humans. It is 
+vital, though, that we do not take steps backwards by 
+overregulating this industry, which may have a chilling effect 
+on the deployment of these technologies.
+    If there are problems with AI and algorithms, we should not 
+abandon our push to innovate and move forward. It is through 
+further innovation that we are likely going to be able to fix 
+these issues and to improve the technology. As Chairman Foster 
+recognized, we have seen the benefits in the disbursement of 
+PPP loans. I think that is an important thing for us to keep in 
+mind as we continue forward.
+    We should also continue to work with the experts in 
+industry in order to move forward in a bipartisan way that both 
+celebrates technical advancements and ensures that there is 
+transparency and fairness through the use of artificial 
+intelligence. There have been multiple efforts in the 
+government and the private sector to address this issue, and we 
+have seen tremendous advances not only in AI technology, but in 
+efforts to address bias in algorithms internally. There is 
+recognition of a business incentive to have transparent 
+algorithms that are fair and ethical.
+    Beyond the obvious concerns of ethics and transparency, I 
+am also looking forward to learning more today from our 
+witnesses about ways that we can strengthen data transparency 
+for families, and consider reforms that would protect our 
+children from being targeted by harmful algorithms. As the 
+financial internet and the traditional internet merge--and we 
+have seen recently-reported social media companies, like 
+TikTok, employing algorithms that promote inappropriate content 
+to young users--I think it is extremely troubling and extremely 
+timely that we start to discuss these things. An AI-powered 
+world where parents have no control over what content or 
+products are being fed to their kids, no transparency around 
+the algorithms that are funneling the content, and no control 
+over the underlying data itself is not an ideal outcome.
+    In summary, AI has great promise to innovate industries 
+like the financial services sector, but there are still 
+opportunities to improve. I look forward to hearing from our 
+witnesses today how Congress should be thinking about this 
+balance, and I yield back.
+    Chairman Foster. Thank you.
+    The Chair will now recognize the Chair of the full 
+Financial Services Committee, the gentlewoman from California, 
+Chairwoman Waters, for 1 minute.
+    [No response.]
+    Chairman Foster. It is my understanding that she is not 
+able to make it right now, so we will move on.
+    Today, we welcome the testimony of our distinguished 
+witnesses: Ms. Meredith Broussard, an associate professor at 
+the Arthur L. Carter Journalism Institute of New York 
+University; Ms. Miriam Vogel, the president and CEO of EqualAI; 
+Ms. Meg King, the director of the Science and Technology 
+Innovation Program at the Wilson Center; Mr. Jeffery Yong, 
+principal advisor at the Financial Stability Institute of the 
+Bank for International Settlements; and Mr. Aaron Cooper, the 
+vice president for global policy at BSA--The Software Alliance.
+    Witnesses are reminded that their oral testimony will be 
+limited to 5 minutes. You should be able to see a timer on your 
+screen which indicates how much time you have left. I would ask 
+you to be mindful of the timer, and quickly wrap up your 
+testimony once the time has expired, so that we can be 
+respectful of both the witnesses' and the members' time.
+    And without objection, your written statements will be made 
+a part of the record.
+    Ms. Broussard, you are now recognized for 5 minutes to give 
+an oral presentation of your testimony.
+
+STATEMENT OF MEREDITH BROUSSARD, ASSOCIATE PROFESSOR, ARTHUR L. 
+       CARTER JOURNALISM INSTITUTE OF NEW YORK UNIVERSITY
+
+    Ms. Broussard. Thank you. Chairman Foster, members of the 
+task force, thank you for hosting this important hearing and 
+for giving me the opportunity to testify. My name is Meredith 
+Broussard. I am a professor at NYU, the research director at 
+the NYU Alliance for Public Interest Technology, and author of 
+the book, ``Artificial Unintelligence: How Computers 
+Misunderstand the World.'' In my written testimony, I explore a 
+practical vision for recognizing AI, and in my short time, I'll 
+talk about AI generally as well as discrimination algorithmic 
+auditing and regulatory sandboxes.
+    The first thing I want to say is that AI is not what we see 
+in Hollywood. There is no robot apocalypse coming. There is no 
+singularity. We do not need to prepare for artificial general 
+intelligence because these things are imaginary. What is real 
+is that AI is math, very complicated and beautiful math. 
+Machine learning, the most popular kind of AI, is a poorly-
+chosen term because it suggests that there is a brain or 
+sentience inside the computer. There is not. When we do machine 
+learning, we take a large set of historical data and instruct 
+the computer to create a model based on patterns and values in 
+that dataset. The model can then be used to predict or make 
+decisions based on past data. The more data you put in, the 
+more precise your predictions will become. However, all 
+historical datasets have bias. For example, if you feed in data 
+on who has gotten a mortgage in the past in the United States 
+and ask the computer to make similar decisions in the future, 
+you will get an AI that offers mortgages to more White people 
+than people of color.
+    AI needs to be regulated because it has all of the flaws of 
+any human process, plus some. My own regulatory vision begins 
+with frameworks, high-level governance models that guide a 
+company's use of AI and data. A company can make sure its 
+frameworks are implemented by performing regular algorithmic 
+audits, ideally using a regulatory sandbox. The process could 
+be monitored by regulators using tools we already have, namely 
+compliance processes inside existing regulatory agencies. 
+Agencies and companies might decide which AIs need to be 
+regulated and monitored by looking at the user and the context. 
+Automated license plate readers used at toll booths might be a 
+reasonable use of AI. Automated license plate readers used by 
+police as dragnet surveillance might be an unreasonable use of 
+AI.
+    An open secret in the AI world is everyone knows that these 
+systems discriminate. Any conversation about a robot apocalypse 
+is a deliberate distraction from the harms that AI systems are 
+causing today. Right now, AI is preventing people from getting 
+mortgages. A recent investigation by The Markup found that 
+nationally, loan applicants of color were 40 to 80 percent more 
+likely to be turned down by mortgage approval algorithms as 
+compared to their White counterparts.
+    When the International Baccalaureate used AI to assign 
+student grades during the pandemic, high-achieving, low-income 
+students received terrible grades, which prevented them from 
+getting college credits that would allow them to graduate early 
+and incur less student loan debt.
+    AI is used to generate secret predictive consumer scores, 
+like health risk scores or identity and fraud scores. It is 
+likely that Black, Indigenous, and People of Color (BIPOC) 
+people are systematically disadvantaged by most of these 
+scoring systems. The EU's proposed AI regulation calls for 
+categorizing AI into high and low risk, which I think is a good 
+strategy. A low-risk use might be using facial recognition to 
+unlock your phone. A high-risk use might be the police using 
+facial recognition on real-time surveillance video feeds. 
+Facial recognition has been shown to consistently misidentify 
+people with darker skin; people of color are at a high risk of 
+being harmed by facial recognition when it is used in policing. 
+In the U.S., we can register and audit high-risk AI to ensure 
+that AI is not harming citizens.
+    The process for uncovering algorithmic bias is called 
+algorithmic auditing. ORCAA, a company I consult with, performs 
+bespoke algorithmic audits in context, asking how an algorithm 
+might fail and for whom. Audits can show how an algorithm might 
+be racist, or sexist, or ableist, or might discriminate 
+illegally. Once we identify a problem, it can be addressed, or 
+the algorithm can be discarded. There is also software like 
+Parity, or Aequitas, or AI Fairness 360, that can evaluate 
+algorithms for 1 of 21 known kinds of mathematical fairness.
+    I'm enthusiastic about the potential of a regulatory 
+sandbox, a protected environment where companies can test their 
+algorithms for bias. If and when the bias is discovered, they 
+can then address the issue in their code and rerun the test 
+until they're in compliance with acceptable thresholds. I'm 
+currently working with ORCAA to develop a regulatory sandbox 
+prototype. In our version, regulators would also have a limited 
+view inside the sandbox to see if the company is auditing their 
+algorithms for bias and fixing the problems that they find 
+without the companies revealing any trade secrets.
+    Thank you for the opportunity to testify today on this 
+important topic, and I welcome your questions.
+    [The prepared statement of Ms. Broussard can be found on 
+page 26 of the appendix.]
+    Chairman Foster. Thank you, Ms. Broussard, and I have to 
+say I am fascinated with the thought of figuring out for which 
+of the 21 definitions of fairness you will be advocating.
+    Ms. Vogel, you are now recognized for 5 minutes to give an 
+oral presentation of your testimony.
+
+     STATEMENT OF MIRIAM VOGEL, PRESIDENT AND CEO, EQUALAI
+
+    Ms. Vogel. Chairman Foster, Ranking Member Gonzalez, and 
+distinguished members of the task force, thank you for 
+conducting this important hearing and for the opportunity to 
+provide this testimony. My name is Miriam Vogel. I'm president 
+and CEO of EqualAI, a nonprofit founded to reduce unconscious 
+bias in AI systems. At EqualAI, we are AI net positive. We 
+believe AI is and will be a powerful tool to advance our lives, 
+economy, and opportunities to thrive, but only if we're 
+vigilant to ensure that the AI we use does not perpetuate and 
+mass produce historical and new forms of bias and 
+discrimination.
+    We're at a critical juncture. AI is increasingly becoming 
+an important part of our daily lives, but decades of progress 
+made and lives lost to promote equal opportunity can be 
+unwritten in a few lines of code. And the perpetrators of this 
+disparity may not even realize the harm they're causing. For 
+instance, we can see our country's long history of housing 
+discrimination now replicated at scale in mortgage approval 
+algorithms that determine creditworthiness using proxies for 
+race and class.
+    At EqualAI, we try to help avoid such harms by supporting 
+three main stakeholders: companies; policymakers; and lawyers. 
+Often, our work involves helping organizations understand they 
+are effectively AI companies because they are now using AI in 
+pivotal functions. As such, they need an AI governance plan, 
+particularly given that with AI, as you know, key assessments 
+occur behind the proverbial black box where inputs and 
+operations are generally unknown to the end user.
+    As discussed in your past hearings, implicit bias 
+infiltrates AI in a variety of ways. Our operating thesis is 
+that bias can embed in each of the human touch points 
+throughout the AI lifecycle, from the ideation phase deciding 
+what the problem is you even want to solve with AI, to the 
+design, data collection, development, testing, and monitoring 
+phases. But we are optimistic and we think each touch point is 
+also an opportunity to identify and eliminate harmful biases. 
+As such, risk management should occur at each stage of the AI 
+lifecycle.
+    There are several helpful frameworks to identify and reduce 
+harms in the AI systems, including GAO's, GSA's, and the 
+important efforts under way at NIST. The EqualAI framework 
+offers five pillars to consider when establishing responsible 
+governance, including, first, invest in the pipeline. Our basis 
+tenet is that AI needs to be created by and for a broader 
+cross-section of our population. There are several 
+organizations promoting diversity in tech effectively right 
+now--AINU, AI4All, and several others--and we need to support 
+these efforts.
+    Second, hire and promote people with your values. To create 
+and sustain a diverse workplace and produce better AI, AI 
+programs used in H.R. functions should be checked routinely to 
+ensure they're in sync with the values of your organization and 
+our country.
+    Third, evaluate your data. The more we know about datasets, 
+the safer we are as a society. We encourage identifying gaps in 
+data so that they can be rectified and, at a minimum, clarified 
+for end users.
+    Fourth, test your AI. AI should be checked for bias on a 
+routine basis. As you know, AI constantly iterates and learns 
+new patterns as it is fed new data. On our website, 
+EqualAI.org, we offer a checklist to help get you started, and 
+we offer additional steps to take in our written testimony. We 
+highly recommend as well the use of routine audits.
+    And fifth, redefine the team. An often-overlooked 
+opportunity to reduce bias in AI is by creating testing teams 
+that include those underrepresented in the AI creation and the 
+underlying datasets.
+    There are numerous ways that Congress can play a key role 
+in ensuring more effective, inclusive AI. Several are listed in 
+our testimony. A few include, one, Congress can reinforce the 
+applicability of laws prohibiting discrimination to AI-
+supported determinations. Two, Congress can lead by example, 
+create a framework for AI procurement, acquisition, and 
+development and ask vendors if they do the same.
+    Three, incentivize investment in the future of work. Like 
+all transformative technologies, AI will eliminate jobs, but it 
+will also open up opportunities. To lead in the AI revolution, 
+safeguard our economy, and support greater prosperity among 
+more communities, we should re-skill our workforce by 
+understanding what jobs are likely to emerge, and offering 
+incentives for upscaling and loan forgiveness for those 
+committing to a term in public service.
+    Finally, we enthusiastically support the bill of rights put 
+forward by the White House Office of Science and Technology 
+Policy last week to level-set expectations and inform the 
+public about their rights.
+    In conclusion, we believe we're at a critical juncture to 
+ensure that AI is built by and for a broader cross-section of 
+our population. It's not only the right thing to do; a strong 
+U.S. economy and our leadership depend on it. Thank you for the 
+opportunity to testify, and I look forward to your questions.
+    [The prepared statement of Ms. Vogel can be found on page 
+79 of the appendix.]
+    Chairman Foster. Thank you, Ms. Vogel, and I echo your 
+enthusiasm for the White House's effort to come up with an AI 
+bill of rights, though I don't believe I have seen even a draft 
+of it at this point.
+    Ms. King, you are now recognized for 5 minutes to give an 
+oral presentation of your testimony.
+
+    STATEMENT OF MEG KING, DIRECTOR, SCIENCE AND TECHNOLOGY 
+             INNOVATION PROGRAM, THE WILSON CENTER
+
+    Ms. King. Thank you, Chairman Foster, Ranking Member 
+Gonzalez, and members of the AI Task Force for inviting me to 
+testify today. My name is Meg King. I'm the director of the 
+Science and Technology Innovation Program at the Wilson Center, 
+a nonpartisan think tank created by Congress nearly 60 years 
+ago. My program studies the policy opportunities and challenges 
+of emerging technologies, and investigates methods to foster 
+more open science and to build serious games. We also offer 
+hands-on training programs, called the Technology Labs, to 
+Legislative and Executive Branch staff on a variety of issues, 
+including artificial intelligence. Next month, we will offer a 
+series of individual trainings on AI for Members as well.
+    As with any technological evolution, the benefits of AI 
+come with associated costs and risks. Focusing only on the 
+benefits misses the nuances of the potentials and pitfalls of 
+this advance. To help the task force understand the risks to 
+any industry and, in particular, the financial services 
+industry, I will focus my remarks on the nature of AI 
+generally, to understand the environment in which creation is 
+occurring.
+    Today, there aren't significant incentives for the private 
+sector to include ethics directly in the development process. 
+At the current pace of advancement, companies cannot afford to 
+develop slowly, or a competitor might be able to bring a 
+similar product to market faster. Largely due to consumer trust 
+concerns, international organizations, regions, and private 
+companies have all begun to issue ethical frameworks for AI. 
+Most are very vague principles, as you mentioned, Chairman 
+Foster, with little guidance as to application.
+    Two that this committee should pay close attention to are 
+the Organisation for Economic Co-operation and Development 
+(OECD), and the European Commission (EC). In addition to their 
+principles on AI, the OECD is developing process and technical 
+guidelines ranging from pinpointing new research to making 
+available software advances which will become part of a 
+publicly-available interactive tool for developers and 
+policymakers alike. As Ms. Broussard noted, European regulators 
+announced a risk-based plan this year to establish transparency 
+requirements, including biometric identification and chatbots. 
+Chatbots, in particular, are expected to have a significant 
+impact on the financial services industry as many companies see 
+value in customer service process improvement and the prospect 
+of gaining more insight into customer needs in order to sell 
+more financial products.
+    As regulators ask developers more questions about the 
+ethics of their AI systems, they have the potential to slow the 
+process, which could cost businesses money. However, if ethical 
+concerns are identified too late in the development process, 
+companies could face considerable financial loss if not 
+addressed properly. No ethical AI framework should be static, 
+as AI systems will continue to evolve, as will our interaction 
+with them. Key components, however, should be consistent, and 
+that, specifically for the financial sector, should include 
+explainability, data inputs, testing, and system life cycle. 
+Explainable Artificial Intelligence (XAI) is the method to ask 
+questions about the outcomes of AI systems and how they achieve 
+them. It helps developers and policymakers identify problems 
+and failures, possible sources of bias, and helps users access 
+explanations. There are a number of techniques available to 
+carry out XAI, as well as open source tools, which make these 
+techniques more accessible.
+    In the financial sector, XAI will become critical as 
+predictive models increasingly perform calculations during live 
+transactions, for example, to evaluate risk or the opportunity 
+of offering a financial product or specific transaction to a 
+customer. Establishing a clear process for XAI will be critical 
+to address flaws identified in these real-time systems and 
+should be an area of focus for the committee.
+    Additionally, producing policies on how these systems will 
+be used and in what context will be helpful. Without context, 
+data pulled from a mix of public/private records can produce 
+inaccurate results and discriminate in access to financial 
+products. One of the near-term questions this committee should 
+ask about systems you will encounter in your oversight is how 
+the COVID-19 pandemic experience is factored into these 
+systems. One promising possibility to address the data input 
+problem might be to synthesize artificial financial data to 
+correct for inaccurate or biased historical data. Just today, a 
+major tech company announced acquisition of a synthetic data 
+startup. Watch this space.
+    While quality assurance is part of most development 
+processes, there are currently no enforceable standards for 
+testing AI systems, and, therefore, testing is uneven at best. 
+Additionally, users are far removed from AI system developers. 
+Carefully assessing the growing field of Machine Learning 
+Operations Tools (MLOps) and machine learning operations and 
+identifying ways the committee can participate in that process 
+will be useful.
+    AI breaks, often in unpredictable ways, at unpredictable 
+times. Participants in the Wilson Center's AI Lab have seen AI 
+function spectacularly using a deep learning language model to 
+produce the first-ever AI-drafted legislation, as well as fail 
+when a particular image loaded into a publicly-available 
+generative adversarial network produced a distorted picture of 
+a monster rather than a human. Lab learners also study why 
+accuracy levels matter, as they use a toy supply chain 
+optimization model to predict whether and why a package will 
+arrive on time and how to improve the prediction by changing 
+the variables used, such as product weight and length of 
+purchase.
+    Beyond mistakes, some AI systems carry out tasks in a way 
+humans never would. Many examples exist of scenarios producing 
+results developers didn't intend, like a vacuum cleaner 
+injecting collected dust so it can collect even more, and a 
+racing boat in a digital game looping in place to collect 
+points instead of winning the race. Anyone who has played the 
+game, ``20 Questions'' understands this problem. Unless you ask 
+exactly the right question, you won't get the right answer.
+    As more and more AI systems are built and distributed 
+widely with varying levels of user expertise, this problem will 
+continue. Establishing a framework of ethics for the 
+development, distribution, and deployment of AI systems will 
+help spot potential problems and provide more trust in them. 
+Thank you.
+    [The prepared statement of Ms. King can be found on page 74 
+of the appendix.]
+    Chairman Foster. Thank you, Ms. King.
+    Mr. Yong, you are now recognized for 5 minutes to give an 
+oral presentation of your testimony.
+
+    STATEMENT OF JEFFERY YONG, PRINCIPAL ADVISOR, FINANCIAL 
+    STABILITY INSTITUTE, BANK FOR INTERNATIONAL SETTLEMENTS
+
+    Mr. Yong. Thank you. Good afternoon, Chairman Foster, 
+Ranking Member Gonzalez, and distinguished members of the task 
+force. My name is Jeffery Yong, and I'm the principal advisor 
+at the Financial Stability Institute of the Bank for 
+International Settlements, or the BIS. I offer my remarks today 
+entirely in my personal capacity based on a publication that I 
+co-authored with my colleague, Jermy Prenio, entitled, ``FSI 
+Insights No. 35: Humans keeping AI in check--emerging 
+regulatory expectations in the financial sector.'' And the 
+views expressed in that paper are our own and do not 
+necessarily represent those of the BIS, its members, or the 
+Basel ommittees. I'm appearing before the task force 
+voluntarily. I would like to note that my statements here today 
+are similarly my personal views, and they do not represent the 
+official views of the BIS, its members, or the Basel 
+Committees.
+    By way of background, the Financial Stability Institute 
+(FSI) is a unit within the BIS with a mandate to support 
+implementation of global regulatory standards and sound 
+supervisory practices by central banks and financial sectors, 
+supervisory and regulatory authorities worldwide. One of the 
+ways the FSI carries out this mandate is through its policy 
+implementation work which involves publishing FSI Insights 
+papers. The papers aim to contribute to international 
+discussions on a range of contemporary, regulatory, and 
+supervisory policy issues and implementation challenges faced 
+by financial sector authorities.
+    In preparing FSI Insight No. 35, my co-author and I found 
+that regulatory expectations on the use of AI in financial 
+services were at a nascent stage. Accordingly, we drafted a 
+paper with four key objectives: to identify emerging common 
+financial regulatory themes around AI governance; to assess how 
+similar or different these common regulatory themes are viewed 
+in the context of AI vis-a-vis that of traditional financial 
+models; to explore how existing international financial 
+regulatory standards may be applied in the context of AI 
+governance; and to examine challenges in implementing the 
+common regulatory themes.
+    To this end, we can select a section of policy documents on 
+AI governance issued by financial authorities or groups formed 
+by them as well as other cross-industry AI governance guidance 
+that applies to the financial sector. In total, we examined 19 
+policy documents issued by 16 regional and national authorities 
+and 2 international organizations. Most of these documents are 
+either discussion papers or high-level principles, which 
+underscores the fact that financial regulatory thinking in this 
+area is at a very early stage.
+    We identified five common themes that recur in policy 
+documents that we examined: reliability; accountability; 
+transparency; fairness; and ethics.
+    On the theme of reliability, emerging supervisory 
+expectations for AI and traditional models appear to be 
+similar. What seems to be different is that the reliability of 
+AI models is viewed from the perspective of avoiding harm to 
+data subjects or consumers, for example, through 
+discrimination.
+    On the theme of accountability, it is acknowledged that 
+both traditional and AI models require human intervention. In 
+the case of AI, however, this requirement is motivated by the 
+need to make sure that decisions based on AI models do not 
+result in unfair or unethical outcomes. Moreover, external 
+accountability is emphasized in the case of an AI model, so 
+that data subjects are aware of AI-driven decisions and have 
+channels for recourse and moving on transparency.
+    Supervisory expectations related to explainability and 
+auditability are similar for AI and traditional models. 
+However, expectations or external disclosure are unique to AI 
+models. This refers to expectations that firms using AI models 
+should make data subjects aware of AI-driven decisions that 
+impact them, including how their data is being used.
+    On the theme of fairness, there's a distinct and strong 
+emphasis in emerging supervisory expectations on this aspect in 
+the case of AI models. Fairness is commonly described in the 
+documents as avoiding discriminatory outcomes.
+    Similarly, on ethics, as a distinct and strong emphasis on 
+this aspect of AI models, ethics expectations are broader than 
+fairness, and relate to ascertaining that consumers will not be 
+exploited or harmed.
+    Now, given the similarities of the themes between AI and 
+traditional models, existing financial literacy standards that 
+govern the use of traditional models may be applied in the 
+context of AI. However, there may be scope to do more in 
+defining financial regulatory expectations related to fairness 
+and ethics. The use of AI in the financial sector presents 
+certain challenges, and the key challenge relates to the level 
+of complexity and lack of explainability. Given these 
+challenges, one way to approach this is to consider a tailored 
+and coordinated regulatory policy approach, meaning 
+differentiating potential and conduct treatment depending on 
+the risk that the AI models pose.
+    With that, I conclude. Thank you.
+    [The prepared statement of Mr. Yong can be found on page 88 
+of the appendix.]
+    Chairman Foster. Thank you, Mr. Yong.
+    Mr. Cooper, you are now recognized for 5 minutes to give an 
+oral presentation of your testimony.
+
+STATEMENT OF AARON COOPER, VICE PRESIDENT, GLOBAL POLICY, BSA--
+                     THE SOFTWARE ALLIANCE
+
+    Mr. Cooper. Thank you very much. Good afternoon, Chairman 
+Foster, Ranking Member Gonzalez, and members of the AI Task 
+Force. My name is Aaron Cooper. I'm vice president of global 
+policy for BSA-The Software Alliance. BSA is the leading 
+advocate for the global enterprise software industry. Our 
+members are at the forefront of developing cutting-edge, data-
+driven services that have a significant impact on U.S. job 
+creation. I commend the task force for convening today's 
+important hearing, and I thank you for the opportunity to 
+testify.
+    Enterprise software services, including AI, are 
+accelerating digital transformation in every sector of the 
+economy, and BSA members are on the leading edge, providing 
+businesses with the trusted tools they need to leverage the 
+benefits of AI. In fact, last year, software supported more 
+than 12.5 million jobs outside the tech sector. AI is not just 
+about robots, self-driving vehicles, or social media. It's used 
+by businesses of all sizes to improve their competitiveness. 
+It's the power and industrial design that improves 
+manufacturing performance and reduces environmental impact. 
+It's the tool that streamlines transportation and logistics 
+operations, and that detects cyberattacks and improves H.R. 
+operations. In the financial services industry, AI is being 
+used to reduce the risk of fraudulent transactions and deliver 
+a better customer relations experience.
+    While the adoption of AI can unquestionably be a force for 
+good, it can also create real risks if not developed and 
+deployed responsibly. We commend the task force for its work to 
+explore domestic and international AI frameworks because they 
+play a critical role in ensuring the responsible use of AI.
+    As you explore these issues, we offer our perspective on a 
+risk management approach to bias which has been a particular 
+focus for BSA, and that we hope will also inform the broader 
+conversation. For BSA members, earning trust and confidence in 
+AI and other software services they develop is crucial, so 
+confronting the risk of bias is a priority. We, therefore, set 
+out to develop concrete steps companies can take to guard 
+against this. The resulting framework is included in full in my 
+written testimony. It is built on three key elements: impact 
+assessments; risk mitigation practices; and organizational 
+accountability modeled on NIST frameworks, which includes more 
+than 50 actionable diagnostic statements for performing impact 
+assessments that identify risks of bias and corresponding best 
+practices for mitigating those risks.
+    Among the unique features of the BSA framework is that it 
+recognizes that these steps need to be followed at all stages 
+of the AI life cycle: design; development; and deploymentt. 
+Also, different businesses will have different roles throughout 
+the life cycle, so risk management responsibilities will need 
+to be tailored to a company's role. Who's developing the 
+algorithm? Who's collecting the data, training the model, and 
+ultimately deploying the system? What does that all mean in 
+practice?
+    A few examples. First, when designing an AI system, 
+companies should clearly define the intended use and what the 
+system is optimized to predict, identify who may be impacted, 
+and, if the risk of bias is present, document efforts to 
+mitigate that risk. They should examine data that will be used 
+to train the model to ensure that it's representative and not 
+tainted by historical biases.
+    Second, at the development stage, they should document 
+choices made in selecting features for the model and document 
+how the model was tested.
+    Third, at the deployment phase, they should document the 
+process for monitoring the data and model and maintain a 
+feedback mechanism to enable consumers to report concerns.
+    And to be clear, at every phase, it is important for 
+companies to have a team that brings diverse perspectives and 
+background, which can help anticipate the needs and concerns of 
+people who may be affected by AI in order to identify potential 
+sources of bias. Bias is only one of the important ethical 
+considerations for responsible AI, but addressing it is 
+critical. And the risk management approach we recommend in this 
+context can be tailored to address other ethical 
+considerations.
+    In conclusion, digital transformation across industry 
+sectors is creating jobs and improving our lives, but industry, 
+civil society, and academia must work together with Congress 
+and other policymakers on guidelines and laws which will ensure 
+that companies act responsibly in how they develop and deploy 
+AI. We appreciate the task force's strong focus on these issues 
+and hope that our framework on confronting bias will contribute 
+meaningfully to this discussion. Thank you for the opportunity 
+to testify, and I look forward to your questions.
+    [The prepared statement of Mr. Cooper can be found on page 
+33 of the appendix.]
+    Chairman Foster. Thank you, Mr. Cooper.
+    I will now recognize myself for 5 minutes for questions.
+    My first general question is to Ms. King or Mr. Cooper, 
+whomever wants to field it. How much should we expect of AI, 
+and, in particular, should we be asking more of AI than we do 
+of humans? For AI-driven cars, should the standard be that you 
+should outperform humans on average or in all circumstances? 
+With similar things regarding fairness as well, in general, is 
+it reasonable? Are there real dangers in using human-based 
+decision-making as the standard of fairness and safety for what 
+is acceptable in AI?
+    Mr. Cooper. I am happy to jump in. I will give one example 
+and a way of thinking about this, that things which are illegal 
+in the physical world should be illegal in the digital world 
+when we use AI or any other system. In the realm of 
+discrimination, for instance, a practice that would be 
+discriminatory if a person did it, should still be 
+discriminatory and illegal if an AI system does it.
+    And I think what we are finding in other areas is that AI 
+is increasingly being used, both in everyday features of what 
+companies are doing as they go through a digital transformation 
+but will also increasingly be used in more high-risk areas. And 
+in those situations, we need to make sure that there is a 
+proper impact assessment so we know, whether it is related to 
+bias or safety or another issue, that companies are thinking 
+through what those implications are going to be and taking 
+steps to mitigate the risks.
+    Ms. Vogel. I am happy to answer if you would like, as well. 
+I think the answer is, honestly, we don't know. Certain systems 
+are designed very narrowly right now, and that is because AI 
+outperforms humans in those systems. But in others, with 
+context, with heuristics, the shortcuts that we use as humans 
+don't perform well. And as one of the Wilson Center machine-
+learning researchers who has written a paper about it reminds 
+us regularly, autonomous agents optimize the room, floor, and 
+function that we give them. So, until we can improve AI to a 
+level where we feel comfortable that moves beyond that narrow 
+capability, I don't think we have an answer yet about how to 
+think about the consequences, but also the opportunities. They 
+are just so varied across so many sectors at this point.
+    Chairman Foster. Are there any other comments on the 
+deployment decision that has to be made here? You need some 
+sort of absolute standard that this is good enough for this 
+application, and it is something we are going to have to pace 
+because that is probably, at best, the level at which Congress 
+will be specific about how these decisions should be set up.
+    Another thing that I know we all struggle with is this 
+question of black-box testing versus expecting that the public 
+should have a detailed understanding of what goes on inside. If 
+you look at the trouble that we have had trying to convince 
+people to get vaccinated, it is not clear that it helps to tell 
+them the details of how the immune system in the human works. 
+And, that may make it better. It may make it worse. We had this 
+situation very recently where we apparently fired a football 
+coach, not, to my knowledge, for mistreating athletes, but for 
+what went on in his private decision-making.
+    Should we accept or reject algorithms based only on their 
+inputs and outputs, or should we actually demand to look inside 
+at all of the intermediate levels of the neural network and see 
+if there are objectionable racist nodes in them? What is your 
+thinking on that, the black box versus detail, and also how to 
+convey that to the public? Anyone? Should I just pick someone 
+at random?
+    Ms. King. I am happy to jump in.
+    Chairman Foster. Okay.
+    Ms. King. I think it is a great question, and I think that 
+the challenge also includes that even if you show the general 
+public all of the nodes, it wouldn't necessarily make sense. In 
+this case, you wouldn't know which are prioritized, so there is 
+a balance to strike. There are intellectual property issues, 
+privacy issues, and so forth. So, just opening the box, first 
+of all, would be somewhat technically challenging as well as 
+legally. Compliance testing, as you say, can be a helpful way 
+to demonstrate compliance, safety, and legality. And to the 
+extent that more data becomes available, we don't need to 
+expect everyone in the general public to understand it. We have 
+seen so many cases already where the limited publicly-available 
+data has been used for important findings, like with the 
+UnitedHealth Care Optum case, where scientists, researchers 
+were able to go backwards, look at the algorithms, and identify 
+biases in the algorithms.
+    Chairman Foster. Thank you. And when you figure all this 
+stuff out, let us know.
+    The Chair will now recognize the ranking member of the task 
+force, Representative Gonzalez of Ohio, for 5 minutes.
+    Mr. Gonzalez of Ohio. Thank you, Chairman Foster, and thank 
+you to our witnesses. Ms. Vogel, I am going to try to pick up 
+where Chairman Foster just left off on compliance testing. Is 
+it fair to say, based on the response you gave, that the right 
+way to think about this is more to look at the outputs of AI as 
+opposed to opening up the hood and trying to understand each 
+individual node and network? Is that the right way to think 
+about it?
+    Ms. Vogel. My view is that it should be a balance. I think 
+that, absolutely, the outputs are indicative. They are helpful 
+to look at now because so much of the AI is already deployed, 
+and so we are not at the design stages for so much of the AI in 
+common use, and for that understanding, what the outputs are is 
+important and helpful. I think there are elements of what is 
+under the hood that would be helpful and important to 
+understand, particularly when you are talking about AI used in 
+a pivotal sensitive function. So, I don't think it is one or 
+the other. I do think it is a balance, but no matter what I 
+think, the outputs are very important to be testing and 
+watching.
+    Mr. Gonzalez of Ohio. No, I appreciate that. I think, as I 
+mentioned in my opening statement, it is encouraging that we 
+are seeing some AI algorithms produce better results, 
+significantly better results in some instances, from a bias 
+standpoint. And obviously, the hope is to understand what it is 
+that they are doing right and doing more of that or making that 
+more transparent, and then helping foster a more collaborative 
+innovation environment.
+    Ms. King, I want to shift to you, and I want to ask about 
+transparency in AI algorithms. Also, as I mentioned in my 
+opening statement, the use of algorithms in social media has 
+had a detrimental effect on young users, which, as a parent, I 
+find extremely problematic. Do you think that more can be done 
+to ensure parents have additional transparency about their 
+child's data being collected by these apps or their own, and 
+how can we strike the right balance and the right line between 
+encouraging innovation, managing problematic algorithms, and 
+providing data sovereignty to users?
+    Ms. King. Thank you, sir. As a parent as well, that is the 
+one thing that terrifies me, is my children getting access to 
+these capabilities. And unfortunately, I wish there was one 
+significant answer that could fix it, but it is going to be a 
+constant ever-moving group of things that we have to do. And 
+explainability is significant in that problem because, as 
+Miriam just said, we have to understand what the outputs are, 
+but we have to understand enough about how we are getting there 
+to be able to make informed decisions about whether there is 
+too much data that is being collected or whether there isn't, 
+and there are many ways to do this. One of the most popular is 
+this local and interpretable model agnostic explanation. This 
+was created by the University of Washington to try to see what 
+happens inside, so model agnostic. It should be across models. 
+That is one of many ways to do that.
+    Another piece to this is, as you just mentioned, that AI 
+can be positive and there are some impressive advances 
+happening right now in synthetic data that can both hopefully 
+correct for some of those historical data biases, but also give 
+just a better picture of the people who are going to be 
+impacted by the system being created. Now, of course, you have 
+to understand what that synthetic data looks like, so you 
+probably should have a wide group of interdisciplinary experts 
+assessing that to make sure you are not missing something. But 
+I think it is a combination of constantly reviewing the 
+outcomes, constantly trying to take at least a sample of 
+explainability across some of the most important, as Europeans 
+are suggesting, high-risk models, and then also assessing kind 
+of what are the new technical capabilities we are developing 
+now that can help address this problem.
+    Mr. Gonzalez of Ohio. Thank you. Shifting to Mr. Cooper for 
+a second with my final minute, I want to ask you about BSA's AI 
+risk management framework included in your testimony. One 
+aspect that seems to be of importance is that a one-size-fits-
+all framework will not work for small companies and startups. I 
+completely agree. Could you elaborate on why flexibility in any 
+framework is important for fostering innovation?
+    Mr. Cooper. Sure. Thank you very much. I think it is 
+important to have flexibility in a variety of ways of achieving 
+a desired outcome for a number of reasons, including that not 
+all systems are going to be used for the same purposes. The 
+algorithm and the data that is used to determine what shows our 
+kids watch or what videos our kids watch online is one form of 
+algorithm and one use of AI. But there is also database 
+management, and customer relations management tools, and 
+farmers who use AI in order to improve crop yield, and one set 
+of regulations across-the-board isn't going to be able to be 
+flexible enough to address the range of different use cases for 
+AI.
+    Mr. Gonzalez of Ohio. Yes, thank you. And I also think it 
+is almost always the case that the higher the regulatory 
+burden, the more you entrench incumbents, and the less 
+innovation you have at the startup level as the regulatory 
+burden is just too high to even contemplate a startup. So with 
+that, I thank the witnesses, and I yield back.
+    Chairman Foster. Thank you. The Chair now recognizes Ms. 
+Pressley of Massachusetts for 5 minutes.
+    Ms. Pressley. Thank you, Chairman Foster, for convening 
+this important hearing, and to our witnesses for joining us 
+here today. Certainly, systemic racial discrimination is 
+widespread in the financial services industry. The damage of 
+redlining, banking deserts, and employment discrimination has 
+never been fully redressed or repaired in America, and all of 
+the data supports those facts. Today, mortgage lenders deny 
+Black applicants at a rate 80 percent higher than White 
+applicants, and payday lenders continue to target low-income 
+people of color, charging 500-percent interest even in the 
+midst of a pandemic. Many believe artificial intelligence 
+presents an opportunity to make the allocation of credit and 
+risk fairer and more inclusive. However, AI technology and 
+machine learning can easily go in the other direction, 
+exacerbating existing bias, and reinforcing bias credit 
+allocation, and making discrimination in lending even harder to 
+prove.
+    Cases of racial bias in AI are well-documented and have 
+impacted everything from mortgage loans and tenant screening to 
+student loans. The deciding factor between whether the 
+technology has a positive or damaging impact could be its 
+developers.
+    Ms. Broussard, who is writing the algorithms that are being 
+used to make important financial decisions, like 
+creditworthiness? Do the teams writing these algorithms 
+generally reflect the diversity of people in America?
+    Ms. Broussard. Generally, these teams do not represent the 
+diversity of people in America. Silicon Valley and its 
+developers tend to be very pale, male, and Yale. Compared to 
+overall private industry, the EEOC found that the high-tech 
+sector employed a larger share of Whites, Asian Americans, and 
+men, and a smaller share of African Americans, Hispanics, and 
+women.
+    Ms. Pressley. Thank you. In fact, in February 2020, the 
+Financial Services Committee released a report on the diversity 
+of America's largest banks, which found that banks were largely 
+undiversified at all levels and departments. Those data points 
+you offered there support that.
+    Ms. Broussard, one more question, will this lack of 
+diversity affect AI used by financial institutions? What is the 
+impact?
+    Ms. Broussard. Absolutely, yes, there is an impact. The 
+problem is that people tend to embed their unconscious biases 
+in the technology that they create. When we have a small and 
+homogeneous group of people creating AI, that AI then gets the 
+collective blind spots of the community of people who are 
+creating the algorithms. So, the more diversity you have in the 
+room when you are creating algorithms, the better the algorithm 
+is going to be for the wide variety of people who live in 
+America.
+    Ms. Pressley. Thank you, Ms. Broussard. And just to further 
+unpack the impact of that on people's lives, there are many 
+different facets that AI companies developing these 
+technologies really need to consider, from, as we are speaking 
+to here, who is developing the algorithms to the AI's impact on 
+job loss. A recent report from the World Economic Forum 
+predicted that by 2025, the next wave of automation amplified 
+by the pandemic will disrupt 85 million jobs globally.
+    Ms. Vogel, what role should independent auditors play in 
+helping to assess the human cost and the ethical implications 
+of AI technologies so that both developers and the public can 
+fully understand the ethical impacts these technologies have 
+for actual consumers?
+    Ms. Vogel. Thank you for that question. It is a really 
+important point. We do have this growing body of experts--in 
+fact, we have one on this very panel--who do this important 
+work of checking in, of taking the temperature and 
+understanding where these gaps are. I think it is really 
+important that we build our reliance and our infrastructure to 
+support more algorithmic auditing because these are the people 
+who will tell us if the AI doing what we expect it to. Are we 
+discriminating? Are we creating opportunity? For whom will this 
+fail, and how do we create more opportunity through our 
+algorithms?
+    Ms. Pressley. Thank you. I agree. Frequent and independent 
+audits are critical. AI-supported recommendations in the 
+financial services industry directly impact people's lives and 
+economic opportunities, and yet the algorithms used are trained 
+on data that is rife with imbalance and discrimination. So as 
+we do the work deliberately to enact long-overdue economic 
+justice, we can't allow the AI industry to create new problems 
+and to compound these already persistent and deeply-embedded 
+inequities. Thank you, and I yield back.
+    Chairman Foster. Thank you.
+    The Chair now recognizes Mr. Loudermilk from Georgia for 5 
+minutes.
+    Mr. Loudermilk. Thank you, Mr. Chairman. One important 
+thing to keep in mind as we discuss AI is the types of bias we 
+need to eliminate and the types of bias that we actually want 
+to keep. Sometimes, the main purpose of an algorithm is to be 
+biased. For example, in loan underwriting, algorithms are 
+generally used to distinguish between who can pay back a loan 
+and who is not able to pay back a loan. With that in mind, we 
+must work toward eliminating the types of bias that have no 
+place in our financial system, such as the bias based on race 
+or gender or any other factor like that.
+    One important way of doing that is when an algorithm is 
+being built, there should be a thorough record-keeping of 
+everything that is added to the algorithm. That way, if bias is 
+suspected, companies and regulators can see everything that 
+went into the algorithm and see where the bias may be coming 
+from. I think this would help make it where algorithms are not 
+a black box and where the outputs cannot be explained, but you 
+would have a record where you could see where the problems may 
+be.
+    Mr. Cooper, your organization's framework for AI best 
+practices recommends maintaining records of the data that is 
+used to train AI models. I agree with that. Expanding on that, 
+do you believe that maintaining thorough records of all of the 
+inputs used to build an algorithm can be useful for identifying 
+the source of any unwanted bias?
+    Mr. Cooper. Thank you very much, Congressman. Yes, I think 
+it goes even beyond what the data is. I think that there is a 
+whole set of considerations that companies need to go through 
+to figure out whether there is a high risk that the AI system, 
+as it is intended to be deployed or as it is being deployed, 
+may have consequential impacts on people. And the decision-
+making about what those risks are and what the right mitigation 
+practices are, how the data was tested, what historical biases 
+may or may not be present in them, keeping a record of that as 
+part of a risk management framework, can be both useful in 
+order to make sure that companies are not putting systems out 
+into the world or using systems that are going to lead to 
+discriminatory results. But it could also be useful, as you 
+say, after the fact, if there is a problem, to go back and 
+audit and find out why it happened and make sure it doesn't 
+happen again.
+    Chairman Foster. Representative Loudermilk, I believe you 
+are muted.
+    Mr. Loudermilk. I don't know why it is cutting off like 
+that. Can you hear me now?
+    Chairman Foster. Yes, we can.
+    Mr. Loudermilk. Okay.
+    Chairman Foster. And feel free to exceed your time by 40 
+seconds.
+    Mr. Loudermilk. Thank you. Mr. Yong, in your testimony, you 
+discuss the importance of accountability and transparency in 
+AI. Can maintaining records when algorithms are being built 
+help achieve those goals?
+    Mr. Yong. Yes. Accountability is very important, especially 
+when it comes to AI, and without record-keeping, there is no 
+transparency. In our testimony, we mentioned that transparency 
+is a prerequisite to enabling financial institutions to meet 
+the other general AI governance principles. And if the AI model 
+is not transparent, then it is very difficult to assess whether 
+it is reliable, whether it is sound, and whether there is bias 
+involved. So definitely, record-keeping is a prerequisite to 
+meeting this accountability and general principles.
+    Mr. Loudermilk. Thank you for that. Ms. King, you have 
+written that policymakers must govern AI in a way that is 
+flexible enough to adapt when technology inevitably changes, 
+wand we know that it continually changes in today's 
+environment. I agree with that, and I believe that is needed to 
+have an environment that fosters innovation. With that in mind, 
+how can policymakers ensure that AI governance remains 
+flexible, but robust, at the same time?
+    Ms. King. Thank you, sir, for that question, and I think it 
+is all about having a set of goals that are measurable and 
+achievable. One of them is, how can you explain these systems, 
+and, again, the complexity here is really because these systems 
+cross so many sectors. Yours obviously is financial services, 
+so you have some very specific use cases to identify, which is 
+helpful, but you need to be able to explain those specific use 
+cases. You need to ask a lot of questions, and those questions 
+will change, too, but the big ones are why was it developed. 
+What are the [inaudible]? How does it possibly fail because it 
+is the unexpected failure that is really a lot of the problem 
+here.
+    And then again, how can we correct those errors and report 
+them? So if you can kind of have those four ways of addressing 
+this challenge and work with companies, and you work with both 
+governments who are buying this and the companies who are 
+producing this to have sort of the four methods of regularly 
+checking that you are getting, you are producing what you want, 
+you are getting what you want out of it, and that it is not 
+discriminatory, then I think that is a flexible way to move 
+forward.
+    And I think the sandbox concept that Ms. Broussard has 
+suggested is also very helpful, because while records are great 
+and it is easy for us to say, let's keep records here, if you 
+have ever taken a look at the code behind some of these systems 
+and how often it changes as you shift weights, it gets pretty 
+complicated pretty quickly. So, the more you can have these 
+kinds of places where companies and organizations can feel safe 
+testing is going to be critical going forward well.
+    Mr. Loudermilk. Thank you. And, Mr. Chairman, I yield back 
+the balance of my time.
+    Chairman Foster. Thank you,.
+    The Chair now recognizes Representative Casten for 5 
+minutes.
+    Mr. Casten. Thank you so much. I think Mr. Loudermilk 
+really hit it on the head with the transparency question, and I 
+want to follow on that, but I want to specifically get to the 
+auditability issue, and I think you alluded to this, Ms. King. 
+It is one thing to be able to see the code. It is something 
+else completely to be able to understand the code. And I say 
+this as someone who, before I came to Congress, ran a utility. 
+And my biggest risk was predicting revenue--did it vary with 
+the weather, did it vary with economic conditions--and I built 
+a genetic algorithm that figured all that stuff out. I have no 
+idea how it worked, but it was amazingly effective and it made 
+our investors much happier because we could predict our 
+revenue.
+    That is trivial. It is not at all implausible for me to 
+imagine that we get to a world where an investment fund has 
+figured out from looking at global data that there is about to 
+be a massive human rights abuse committed, and it is shorting 
+the affected businesses and properties, right? That would be 
+deeply unethical, and if we understood it, it would be a 
+problem, but it is totally possible that we could never 
+actually understand that and saying that is what it is doing.
+    So my question is, and I think all of you can answer this, 
+but I am going to start with Ms. King, just because I see you 
+nodding so vociferously, what is the best regulatory practice 
+for ensuring that these algorithms remain auditable, and 
+ensuring that they apply to everyone in the system, because 
+presumably, as soon as some subset of people agree to have 
+auditable algorithms, people who violate that might have an 
+investing edge, whether that is a bad actor in our country or a 
+foreign actor who wishes us harm. What is that standard, both 
+domestically and internationally? How would you recommend we 
+think about that?
+    Ms. King. Thank you, sir. I will take a quick stab at it, 
+and I am going to use a hypothetical because I think it is 
+always helpful to have it. Yours is very complicated, and I am 
+not going to try and explain your very impressive example. At 
+the Wilson Center, in one of our trainings, we use a supply 
+chain prediction model. Will it or won't it arrive? Will the 
+USPS deliver a package on time? And you have a series of 
+variables. You have product wait. You have the month that it 
+was ordered. You have things that you probably, as a consumer, 
+wouldn't think matter, but about 10 different variables. And as 
+you play with the model and you change the variables, you 
+change the weights--how much weight do we give to a particular 
+variable or not--you understand more why the prediction you get 
+comes out, and then you can kind of take that and you can go 
+back through the system and check it.
+    I would say you need a couple of standards. One is not 
+going to work, unfortunately, but a couple of standards that 
+have that sort of ability to use a couple of methods, probably 
+a model agnostic method, if it is possible, to go back and just 
+understand, at least at a strategic level. You may not be able, 
+as you know very well, to go and explain the whole thing, but a 
+confidence level and then explainability that you could 
+achieve. So, you are looking for some sort of confidence trust 
+level and some sort of agnostic model verification, and you are 
+also looking to make sure as you are going through that 
+process, that if you are going to have regulators as part of 
+this conversation, you have a number of regulators across 
+sectors. As your example points out, you can't just have 
+financial services regulators. You are going to have to have 
+others from other parts of the government at the table because 
+of these unexpected outcomes.
+    Mr. Casten. If I could, though, that approach you described 
+works where there is a finite number of known inputs. If you 
+are using sort of a neural network model that, for all 
+practical purposes, has an infinite number of inputs, I don't 
+know how you audit that at some level of complexity. To follow 
+on from that, and I am sure this varies market to market, is 
+there any good analysis? Is there a percentage of algorithmic 
+trading or algorithmic investing, wherever it sits, that we 
+really don't want to have more than X percent because now the 
+algorithms are responding to algorithms? Is there a robust 
+mathematical way to think about that? And maybe it is different 
+for housing credit decisions than it is for equities 
+investments or something else. But is there some robust way to 
+think about that so that we don't sort of unwittingly introduce 
+too much volatility into the system? And if any of the other 
+witnesses want to chime in on this, you would be welcomed for 
+your thoughts as well.
+    Ms. Vogel. I can speak to auditing algorithms. What we want 
+to do is, we don't want to think about auditing all algorithms 
+to the same standard. We want to think about auditing 
+algorithms in context because the context matters a lot. So, we 
+do need to keep track of inputs. We do need explainability. We 
+do need to enforce real-world laws inside algorithms. We do you 
+need to be aware of bias in, bias out. And so to your point 
+about thresholds, the acceptable thresholds would be determined 
+based on the context.
+    Mr. Casten. I see I am out of time, but I would welcome 
+further thoughts offline from any of the witnesses, and I yield 
+back.
+    Chairman Foster. Thank you.
+    The Chair now recognizes Ms. Adams from North Carolina for 
+5 minutes.
+    Ms. Adams. Thank you, Chairman Foster. And thank you, 
+Ranking Member Gonzalez and Chairwoman Waters, for this hearing 
+today. And to our witnesses, thank you for your testimony.
+    Professor Broussard, in your testimony, you noted that all 
+historical data sets have bias, and that AI needs to be 
+regulated as soon as possible because it has all of the flaws 
+of any human process plus more. You also cite in your testimony 
+the potential impact of bias in AI to students and consumers of 
+lower socioeconomic status, such as when the International 
+Baccalaureate used AI to assign grades to students, to their 
+detriment. So, building off of what my colleague, Ms. Pressley, 
+discussed, would you tell us more about what happened in these 
+scenarios?
+    Ms. Broussard. Sure. Thank you for that question. The 
+International Baccalaureate (IB) example is a situation where, 
+because of the pandemic, the International Baccalaureate exams 
+were canceled, and the IB decided to use an algorithm to assign 
+imaginary grades to real students, which had disastrous 
+consequences, because the inputs to the algorithm were things 
+like a school's performance in the past. We know that the 
+economic divide is particularly profound when it comes to 
+America's schools, and so the students at the poor schools were 
+predicted to do poorly, and the students at the rich schools 
+were predicted to do well. We have a racial divide there. Who 
+are the students at poor schools? They are mostly Black and 
+Brown students. Who are the students at rich schools? Well, 
+they are mostly White students. So, the algorithm made very 
+predictable decisions that disadvantaged Black and Brown and 
+poor students. This is what happens most of the time with 
+algorithmic decisions.
+    Ms. Adams. Would you explain what algorithmic auditing is, 
+and how we can encourage public and private entities to adapt 
+it as a best practice?
+    Ms. Broussard. Thank you. Yes. Algorithmic auditing, as I 
+mentioned in my testimony, is something that I do with a 
+company called O'Neil Risk Consulting and Algorithmic Auditing, 
+Inc. (ORCAA). What we do is we look at an algorithm and we ask, 
+who could this algorithm negatively affect, and we look at the 
+inputs to the algorithm. We do look at the code. We act as an 
+information fiduciary, so we keep everything extremely private. 
+We look at the outputs and we do mathematical and statistical 
+analysis as necessary in order to figure out what is going on 
+in the algorithm. Once you actually figure out where the 
+algorithm is going wrong, you can fix it, but in a lot of 
+industries now, people are pretending that there is nothing 
+wrong. For example, Ms. Vogel mentioned before the Optum case. 
+There is also the case of the Apple card, where a man was 
+offered a credit limit that was about 10 times higher than his 
+wife, even though they shared all of their finances.
+    Companies are pretending that they don't collect 
+information like race in order to make decisions. But, on the 
+other hand, if you are using a factor, like a ZIP Code, that is 
+an input to your algorithm, then, actually we have enough 
+residential segregation in the United States that if you are 
+using a ZIP Code, you are actually using race as a proxy. So, 
+there are--
+    Ms. Adams. Thank you.
+    Ms. Broussard. Thank you.
+    Ms. Adams. I want to move on, if I can, quickly.
+    Ms. Broussard. Sure.
+    Ms. Adams. Ms. Vogel, I was happy to see that part of your 
+recommendations related to diversifying the AI field, including 
+supporting Historically Black Colleges and Universities 
+(HBCUs). Specifically, what shoud Congress be doing to ensure 
+that HBCU and Minority Serving Institution (MSI) students are 
+able to participate in the AI revolution that is currently 
+underway?
+    Ms. Vogel. Thank you for that question. We strongly believe 
+that we need AI to be built by and for a broader cross-section 
+of the population, both so that more can benefit from the AI, 
+so that more can benefit from the economic support that comes 
+from it, but also so that our AI is better. So, we need to make 
+sure that we support HBCUs and MSIs to ensure that their 
+students are part of this current AI revolution that is 
+undeway. We know that HBCUs produce nearly 20 percent of all 
+Black graduates, 25 percent of Black graduates who earned 
+degrees in the disciplines of STEM technology, science, 
+engineering, and math, and we need to make sure that we have 
+all hands on deck. We can't afford to not bring all of these 
+students into the AI revolution. Industry is depending on their 
+participation.
+    Ms. Adams. Thank you, ma'am. I think I am out of time. Mr. 
+Chairman, I am going to yield back, but thank you very much for 
+your response.
+    Chairman Foster. Thank you.
+    The Chair now recognizes Mr. Auchincloss of Massachusetts 
+for 5 minutes.
+    Mr. Auchincloss. Thank you, Mr. Chairman. I would like to 
+talk about two specific applications of algorithms that have 
+been and are front and center these days, and really invite the 
+panel to weigh in on one or both of them. The first is the use 
+of algorithms in hiring. A number of organizations, some from 
+the center-left, some from the left, and some from the center-
+right, have all converged that there are somewhere between 25 
+to 30 million ``hidden workers'' in the United States, people 
+who could be employed, who, under the right conditions, want to 
+be employed. And yet, we are not tapping into their 
+productivity, and they are not getting to realize their fullest 
+aspirations.
+    That is obviously a multifaceted problem, but one element 
+of it is algorithms that some of the biggest companies are 
+using, something like 75 to 80 percent of Fortune 100s, for 
+example, in how they sort resumes that get put forward. They 
+are screening out resumes that have discontinuity in 
+employment. They are screening out resumes of formerly-
+incarcerated individuals. They are screening out resumes that 
+don't have a college degree, even for jobs that don't require a 
+college degree. I welcome input from the panel on this first 
+application, kind of the state of play right now in these 
+resume-screening algorithms, and what can be done to improve 
+them, and whether they have any role at all going forward?
+    Ms. Broussard. I can offer that my colleague, Hilke 
+Schellmann, has been writing about these topics, and has done 
+some really excellent work in the MIT Technology Review, that 
+is an in-depth review on what is going on with hiring 
+algorithms.
+    Mr. Cooper. Yes. This is one of the reasons why we need a 
+risk management framework for when there is going to be an AI 
+system that has a highly-consequential impact on somebody's 
+lifec, so making sure that there is a thought process that is 
+auditable about what the factors are that are considered in 
+determining what resume is going to go where is a good example 
+of something where we need to make sure that there is a 
+thought-through and documented impact assessment, and then 
+steps taken to mitigate risk.
+    Mr. Auchincloss. And I would just add also that this should 
+be a triple-line win for everybody. Companies don't want to be 
+screening out high-quality workers for esoteric reasons. They 
+are struggling for employees, as we speak. And as a society, we 
+want people to be working and contributing, and people 
+themselves want meaningful work. So, I would hope that this can 
+be an area of actual bipartisan work going forward on how we 
+encourage the private sector to be more thoughtful about their 
+use of these hiring algorithms and the other elements of this 
+challenge of hidden workers.
+    The second area that I want to dig into and invite the 
+panel to speak on is about what many of us have been reading 
+about these last 2 weeks, which is Facebook's algorithm. The 
+whistleblower addressing the Senate exposited that while she 
+did not think Section 230 should be revised for user-generated 
+content, she did think that Facebook's algorithm itself should 
+be subject to liability laws. And I would welcome input from 
+any of the panelists here about how that might be applicable in 
+terms of Facebook, in particular, but really any social media's 
+algorithm, whether that should be subject to regulation itself?
+    Mr. Cooper. I am happy to jump in again. We don't represent 
+Facebook, but I would say that I think it is important to make 
+sure that where you have particular high risk in the way an 
+algorithm is working--in this case, feeding certain videos or 
+certain social media feeds to certain people, particularly 
+where it has to do with children--is a high risk, and we need 
+to make sure that the decision-making process is appropriate. 
+And there is a combination of a regulatory aspect of that and 
+also just good practices internally to make sure that there is 
+organizational accountability so that when decisions are made, 
+that there is somebody at a senior level who signs off on those 
+decisions, and that there is documentation of why certain 
+choices were made.
+    Mr. Auchincloss. Yes. I can see why it would be challenging 
+to try to unpick liability for an algorithm that was put into 
+place, how you can draw causality directly, and yet part of me 
+thinks that we have to answer that question. We have to wrestle 
+with that problem because, otherwise, we are going to be in a 
+place where I think organizations will be distancing themselves 
+from accountability instead of embracing it by being able to 
+point towards these black box algorithms and say that they are 
+just part of part of their toolkit, and you can never pay cause 
+and effect. I think we need to reject that explanation and hold 
+companies liable for the algorithms that they choose to use.
+    I yield back my time, Mr. Chairman.
+    Chairman Foster. Thank you, and I would like to thank our 
+witnesses for their testimony today.
+    The Chair notes that some Members may have additional 
+questions for these witnesses, which they may wish to submit in 
+writing. Without objection, the hearing record will remain open 
+for 5 legislative days for Members to submit written questions 
+to these witnesses and to place their responses in the record. 
+Also, without objection, Members will have 5 legislative days 
+to submit extraneous materials to the Chair for inclusion in 
+the record.
+    This hearing is now adjourned.
+    [Whereupon, at 1:16 p.m., the hearing was adjourned.]
+
+                            A P P E N D I X
+
+                            October 13, 2021
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]  
+
+                               [all]

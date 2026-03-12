@@ -1,0 +1,2136 @@
+- ARTIFICIAL INTELLIGENCE IN FINANCIAL SERVICES
+
+[Senate Hearing 118-483]
+[From the U.S. Government Publishing Office]
+
+                                                        S. Hrg. 118-483
+
+             ARTIFICIAL INTELLIGENCE IN FINANCIAL SERVICES
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                              COMMITTEE ON
+                   BANKING,HOUSING,AND URBAN AFFAIRS
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                                   ON
+
+   EXAMINING THE USE OF ARTIFICIAL INTELLIGENCE IN FINANCIAL SERVICES
+
+                               __________
+
+                           SEPTEMBER 20, 2023
+
+                               __________
+
+  Printed for the use of the Committee on Banking, Housing, and Urban 
+                                Affairs
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]                                
+
+                Available at: https: //www.govinfo.gov /
+
+                               __________
+
+                   U.S. GOVERNMENT PUBLISHING OFFICE                    
+57-363 PDF                  WASHINGTON : 2025                  
+
+-----------------------------------------------------------------------------------     
+
+            COMMITTEE ON BANKING, HOUSING, AND URBAN AFFAIRS
+
+                       SHERROD BROWN, Ohio, Chair
+
+JACK REED, Rhode Island              TIM SCOTT, South Carolina
+ROBERT MENENDEZ, New Jersey          MIKE CRAPO, Idaho
+JON TESTER, Montana                  MIKE ROUNDS, South Dakota
+MARK R. WARNER, Virginia             THOM TILLIS, North Carolina
+ELIZABETH WARREN, Massachusetts      JOHN KENNEDY, Louisiana
+CHRIS VAN HOLLEN, Maryland           BILL HAGERTY, Tennessee
+CATHERINE CORTEZ MASTO, Nevada       CYNTHIA M. LUMMIS, Wyoming
+TINA SMITH, Minnesota                J.D. VANCE, Ohio
+KYRSTEN SINEMA, Arizona              KATIE BOYD BRITT, Alabama
+RAPHAEL G. WARNOCK, Georgia          KEVIN CRAMER, North Dakota
+JOHN FETTERMAN, Pennsylvania         STEVE DAINES, Montana
+
+                     Laura Swanson, Staff Director
+
+               Lila Nieves-Lee, Republican Staff Director
+
+                       Elisha Tuku, Chief Counsel
+
+                  Amber Beck, Republican Chief Counsel
+
+                      Cameron Ricker, Chief Clerk
+
+                      Shelvin Simmons, IT Director
+
+                       Pat Lally, Assistant Clerk
+
+                                  (ii)
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                     WEDNESDAY, SEPTEMBER 20, 2023
+
+                                                                   Page
+
+Opening statement of Chair Brown.................................     1
+        Prepared statement.......................................    28
+
+Opening statements, comments, or prepared statements of:
+    Senator Rounds...............................................     3
+
+                               WITNESSES
+
+Melissa Koide, Director and CEO, FinRegLab, and Former Deputy 
+  Assistant Secretary for Consumer Policy, Department of the 
+  Treasury.......................................................     5
+    Prepared statement...........................................    30
+    Responses to written questions of:
+        Chair Brown..............................................    70
+Daniel Gorfine, Founder and CEO, Gattaca Horizons, LLC; Adjunct 
+  Professor of Law, Georgetown University; and Former Chief 
+  Innovation Officer, Commodity Futures Trading Commission.......     7
+    Prepared statement...........................................    51
+Michael Wellman, Professor, Computer Science and Engineering, 
+  University of Michigan.........................................     9
+    Prepared statement...........................................    67
+
+                                 (iii)
+
+             ARTIFICIAL INTELLIGENCE IN FINANCIAL SERVICES
+
+                              ----------                              
+
+                     WEDNESDAY, SEPTEMBER 20, 2023
+
+                                       U.S. Senate,
+          Committee on Banking, Housing, and Urban Affairs,
+                                                    Washington, DC.
+    The Committee met at 10 a.m., in room SD-538, Dirksen 
+Senate Office Building, Hon. Sherrod Brown, Chair of the 
+Committee, presiding.
+
+            OPENING STATEMENT OF CHAIR SHERROD BROWN
+
+    Chair Brown. The Banking Housing Urban Affairs Committee 
+will come to order, joined today by new Ranking Member, I 
+assume temporarily, but you never know, Senator Rounds of South 
+Dakota.
+    Technology in our financial system, new technology, has 
+done plenty of good for Americans. The ATM gave people easier 
+access to their money, their own money. The internet simplified 
+bill paying and gave people new ways to access credit and save 
+for the future. The smartphone allows people to check their 
+bank balance anywhere, at any time.
+    But of course, technology has done plenty of harm, too. 
+Automation allowed high frequency trading that created the 
+flash crash and contributed to the '08 financial crisis. 
+Automation allows consumers to send instant payments to each 
+other through peer-to-peer payment platforms, but it also 
+allows consumers to be defrauded and scammed out of millions of 
+dollars on these platforms.
+    Just this spring, social media fueled a bank run that 
+crashed Silicon Valley Bank, the second-largest bank failure in 
+history. Of course, there are other elements to that. 
+Artificial intelligence could cause even bigger changes in our 
+financial system. We cannot sleepwalk into a major 
+transformation of our economy and put Americans' money and 
+financial futures at risk.
+    Increasingly, banks and brokers and insurance companies are 
+allowing AI to process data, decide who can get a loan, tailor 
+financial products to customers. With the advent of this new 
+and potentially transformative technology, we have a 
+responsibility to assess what AI means, not just for our 
+financial system, but overall for the American people.
+    AI is a tool. We have the responsibility to set policies to 
+ensure that when and if this tool is used, it is used to make 
+our economy work better for consumers and savers, not to 
+exploit them. This Committee will begin to examine current and 
+future applications of AI today in our financial system. We 
+will discuss how we can ensure that AI does not just become 
+another way--another way, another way--for Wall Street and 
+Silicon Valley to supercharge existing tools to rig the system 
+for their benefit.
+    In an ideal world, new technologies can make us better off 
+by increasing productivity and making goods and services more 
+affordable and accessible. Unfortunately, as history has shown 
+many times, the benefits of technology are often overhyped, 
+while the downsides do real damage to people's lives and to 
+society as a whole.
+    The ones doing the overhyping are generally big 
+corporations. For example, the companies that mentioned AI over 
+a thousand times during the quarterly earnings calls in April 
+and May--over a thousand times--those companies stand to make a 
+lot of money off the so-called efficiency that new technology 
+brings. Of course, we all know, and this Committee mostly 
+should understand, or does understand, Wall Street's version of 
+efficiency usually means lower wages, fewer jobs, and less 
+economic security for workers and much higher profits for 
+corporate America, and particularly billions of dollars, for a 
+select few.
+    Go to Toledo, Ohio. Visit the picket line at the Jeep 
+plant. Talk to the workers I spoke with over the weekend. CEO 
+of Stellantis makes 365 times what the average worker makes--
+365 times what the average worker makes. Workers have been the 
+casualties of an inevitable march toward progress too many 
+times before, and anyone who dares to question it gets mocked 
+and gets called a Luddite.
+    With the emergence of AI, we have a responsibility to 
+ensure this technology is used, when it is used at all, to 
+protect consumers and savers while promoting a fair and 
+transparent economy that works for middle-class Americans 
+rather than taking advantage of them. At a minimum, the rules 
+that apply to the rest of our financial system should apply to 
+these new technologies. We need to make sure that our existing 
+laws are used to protect consumers. And if emerging 
+technologies are not covered by existing rules, then we must 
+pass new ones to create real guardrails.
+    Companies are already using AI in their financial system. 
+Banks use algorithms and machine learning to make credit 
+underwriting decisions and to allocate people's investments. 
+They automate trading. Proponents claim they are making our 
+financial system fairer and less expensive, making financial 
+services more accessible, and of course, making it all--here is 
+this word again--more efficient. But efficient for whom?
+    Algorithmic trading has evolved over decades with bigger 
+and more powerful computers processing billions of bytes of 
+stock market data. It has made a lot of people in Wall Street a 
+lot of money, but it is not clear it has done anything for our 
+economy other than speed up the financialization that has 
+already done so much harm to American workers.
+    We have already had to put in place guardrails like stock 
+market circuit breakers to prevent electronic trading programs 
+from crashing our markets. Without guardrails, without consumer 
+protections, AI would be just a new tool for Wall Street and 
+Silicon Valley to swindle Americans out of their savings, to 
+trap them in debt, to strip them of their financial security. 
+Have we not seen that before?
+    And while some uses for AI--automated credit, underwriting 
+algorithmic trading--have been in practice for years, what is 
+known as generative AI is creating new ways to remove human 
+decision making from financial services. These so-called 
+advances make it harder to determine who is accountable when 
+things go wrong.
+    Look at what is happening in consumer lending markets where 
+AI models used to determine borrowers credit worthiness too 
+often automate and supercharge biases that exclude Black and 
+Latino Americans. It is hard to eradicate discrimination when 
+even the developers cannot really explain how the models get to 
+the decisions they make.
+    Instead of removing human biases from consumer lending 
+markets, AI data models essentially bake the worst ills of our 
+past into the cake, and then they disguise it as impartiality. 
+Discrimination is discrimination, regardless of whether it 
+comes from a human being or from a machine created by human 
+beings. Meanwhile, fraudsters use cyberattacks and so called 
+deepfake AI technologies to deceive American savers.
+    I recently wrote to several banks in the Consumer Financial 
+Protection Bureau about what steps they are taking to address 
+the alarming rise in deepfakes to fool voice authentication 
+security systems and scam consumers. We have laws to deal with 
+fraud, and those laws will be enforced whether it is a human or 
+a machine defrauding Americans. But we need to go further to 
+protect Americans. We cannot make these technologies safe for 
+consumers and savers without being honest with ourselves about 
+their limitations.
+    With the wide availability and growing adoption of AI, we 
+also must be wary of unleashing untested technology into 
+widespread public use. Consumers should expect Congress should 
+require rigorous testing and evaluation of AI models and 
+programs before they are used in the real world, determining 
+whether they can cause real harm.
+    None of this is to say, of course, that AI has no place in 
+the economy. But Americans have every right to be skeptical, 
+particularly when it comes to their finances. We must assure 
+that innovations benefits flow to all Americans, not, as far 
+too typical, just a handful of Silicon Valley billionaires and 
+Wall Street executives. We have seen it far too many times.
+    I think one thing my colleagues and I agree on is Silicon 
+Valley ethos of move fast and break things is dangerous for 
+both our financial system and our entire economy. I look 
+forward to working with my colleagues to ensure that we end up 
+with AI technology that is well tested, that protects privacy, 
+preserves civil rights, and consume protections.
+    And finally, I would like to thank Senator Rounds for his 
+efforts, and they have been many, to help the entire Senate 
+better understand the challenges and opportunities proposed by 
+AI. Senator Rounds, nice to see you.
+
+            OPENING STATEMENT OF SENATOR MIKE ROUNDS
+
+    Senator Rounds. Thank you, Chairman Brown, and thank you to 
+our witnesses for being here today to discuss what I believe to 
+be an extremely important topic and on a bipartisan basis. The 
+entire Senate is trying to learn more about this very important 
+topic, and I have appreciated being a part of it, but it has 
+been a team effort. I also want to thank Ranking Member Scott 
+for giving me the opportunity to fill his large shoes today.
+    We stand in the middle of a journey of monumental change. 
+While artificial intelligence, or AI, has been around in 
+various forms for years, recent advances in the most cutting-
+edge models have shown us just how capable the technology has 
+become. The financial services industry has already been 
+effectively utilizing AI for decades, just under a different 
+name. Whether it is algorithms modeling, predictive analytics, 
+or data management, the industry has been using AI and other 
+emerging technologies to utilize data and improve the customer 
+experience.
+    Take fraud prevention, just as one example. Despite the 
+billions spent to protect institutions and the billions paid to 
+buy off attackers, things are only getting worse. With 
+synthetic identity fraud costing banks nearly $50 billion last 
+year, as many as 95 percent of phony identities go undetected.
+    Traditional methods of fraud detection rely on manual 
+verification and human analysis, which, unfortunately, have 
+failed to keep up with more sophisticated fraud schemes. By 
+using AI and machine learning, companies can analyze 
+relationships between entities, identify suspicious patterns 
+and visualize intricate connections, revolutionizing fraud 
+detection and investigations. This allows for a more proactive 
+approach where AI is used to prevent fraud before it happens, 
+as opposed to the traditional reactive approach to fraud 
+detection.
+    Machine learning and AI have also opened the door to 
+accurate forecasting and prediction. While a number of 
+industries are asking for regulation, the financial services 
+industry is uniquely poised to adapt to emerging technology. In 
+a large number of instances, financial regulation is already 
+technology neutral and outcome based. If a lender uses AI to 
+determine credit worthiness by harnessing data to predict the 
+probability of default, any technology needs to be compliant 
+and fair lending focused. That said, transparency and 
+explainability in decision making, especially where credit is 
+involved, are important areas where Congress may play a role. 
+Lending algorithms cannot simply exist in a black box, and 
+human control is necessary.
+    AI is data dependent. The technology is only as useful as 
+the quality of data that goes into its models. The finance 
+sector is one of the few industries that has been collecting, 
+storing, and protecting verified data for decades, making its 
+models some of the most useful. Therefore, it is imperative 
+that we continue to invest in cyber infrastructure to protect 
+these data bases. It is critical that we understand how bad 
+actors could abuse AI technology to disrupt our financial 
+system.
+    However, we must always remember that what was illegal 
+before AI remains illegal and individuals abusing technology to 
+carry out illicit activities should and will be prosecuted to 
+the fullest extent of the law. I believe Chairman Brown 
+mentioned the same thing in his opening statement.
+    That brings me to the role Congress will play in the 
+regulation of AI. Moving forward, I think it is important that 
+we take a pro-innovative stance which will allow the United 
+States to keep and attract the best and brightest talent. 
+Although we will have many discussions about the dangers, we 
+must also acknowledge that halting progress can be dangerous, 
+especially as our global competitors such as China have no 
+intentions of slowing down.
+    Financial regulators should allow Congress to act and 
+resist the urge to over-regulate new technology as they run the 
+risk of unintended consequences. We are already seeing this 
+take place in the proposals like the Predictive Data Analytics 
+rule published by the SEC. In this attempt to control emerging 
+technology, the proposal would cause current successful uses of 
+the technology to suffer.
+    The U.S. continues to be the birthplace of new innovation 
+in this field. Congress should help shepherd the development of 
+American AI, artificial intelligence that is embodied with key 
+principles to promote confidence and trust, principles which 
+include a right to privacy and transparency.
+    We are at a crossroads. Artificial intelligence is real and 
+it is not going away. We have the opportunity to shape it in a 
+way that reflects the values that are important to us. AI is a 
+tool, and it is up to us whether we harness it to make 
+improvements to our financial system or if we simply fall 
+behind.
+    Thank you, Mr. Chairman.
+    Chair Brown. Thank you, Senator Rounds. I will introduce 
+the three witnesses. Melissa Koide is Director and CEO of 
+FinRegLab, a nonprofit that tests new technologies and data the 
+financial marketplace. Prior to FinRegLab, she served as U.S. 
+Treasury Department's Deputy Assistant Secretary for Consumer 
+Policy. Welcome.
+    Professor Michael Wellman is a professor and division chair 
+of Computer Science and Engineering at the University of 
+Michigan. His research is focused on computational market 
+mechanisms and game theoretic, reasoning methods with 
+applications in electronic commerce, finance, and 
+cybersecurity. Welcome.
+    Daniel Gorfine is the Founder and CEO of Gattaca Horizons. 
+He currently serves as Adjunct Professor of Law at Georgetown 
+Law Center teaching fintech law and policy. Previously 
+appointed to serve as the Commodities Future Trading 
+Commission's first Chief Innovative Officer and Director of 
+LabCFTC during the Trump administration.
+    Ms. Koide, please proceed.
+
+ STATEMENT OF MELISSA KOIDE, DIRECTOR AND CEO, FINREGLAB, AND 
+    FORMER DEPUTY ASSISTANT SECRETARY FOR CONSUMER POLICY, 
+                   DEPARTMENT OF THE TREASURY
+
+    Ms. Koide. Thank you very much, Chairman Brown. It is a 
+pleasure to be here this morning. I am the CEO and founder of 
+FinRegLab. We are a nonprofit research organization that has 
+been conducting research looking at data and technology and the 
+potential implications for public policy, market practices, and 
+financial inclusion.
+    FinRegLab has been working on machine learning and 
+artificial intelligence in financial services since 2019, 
+focusing specifically on machine learning models and data in 
+credit underwriting. Although interest in machine learning AI 
+topics has clearly skyrocketed with the advent of ChatGPT, it 
+is early days and the financial sector has used various forms, 
+as you point out, of statistical analyses and automation for 
+decades.
+    My testimony is going to start by addressing the adoption 
+of machine learning in credit underwriting, given it is an 
+application with high risk, but also the potential for high-
+reward opportunities as we think about the 50 million U.S. 
+adults in the U.S., as well as the millions of small businesses 
+who cannot be sufficiently credit risk assessed with more 
+traditional methods of underwriting and the data that are 
+typically used.
+    Questions about using machine learning and credit 
+underwriting, however, anchor, as you all point out, around the 
+legal requirements on lenders to communicate when credit 
+decisions are made, the factors that drove a credit decision 
+denial of credit access, pricing of a credit decision, as well 
+as legal requirements around evaluating for disparities and the 
+important safety and soundness expectations that models are 
+safe, sound, and robust.
+    To examine these issues, FinRegLab evaluated proprietary 
+and open source machine learning tools used to perform tasks 
+relating to model risk management, adverse action notice 
+generation, and fair lending compliance. Our research, in 
+short, found certain techniques were able to generate reliable 
+explanations as to which features were most important for the 
+model's predictions, even for more complex machine learning 
+algorithms. There was, however, no one-size-fits-all approach 
+or technique, and overall it really depended upon the human 
+oversight, engagement, and understanding of the models and the 
+data choices that were being used to train those models.
+    We also found machine learning has the potential to improve 
+fairness and inclusion. Machine learning automated approaches 
+produced a range of alternative model options, with smaller 
+demographic disparities than more traditional methods for fair 
+lending analysis. We are encouraged by the interest in machine 
+learning techniques, both by banks, nonbanks as well as 
+consumer advocates and regulators.
+    As for generative AI, while it is still very early days, it 
+is obviously attracting considerable interest and investment. 
+However, financial services providers are taking a cautious 
+approach, specifically with internal testing of internal report 
+generation as well as code generation. Customer-facing use 
+cases are especially high risk due to the potential for gen AI 
+models to provide inaccurate information, discriminatory or 
+otherwise harmful outputs, and expose sensitive information. 
+Regulatory compliance demands a level of explainability and 
+transparency, which you both referred to, that many providers 
+are not confident they can attain at this point with gen AI 
+applications.
+    To that end, Federal regulatory frameworks and laws play a 
+foundational role in how financial firms are approaching the 
+testing, development, and use of models. In fact, the legal 
+requirements and governance expectations apply regardless of 
+the technology underneath the models being deployed. While use 
+cases of AI are still very early days, several actions taken 
+from actors importantly across the credit--I am sorry--the 
+financial services ecosystem, from the advocates to the market 
+actors themselves to researchers, would benefit and help all of 
+us move forward toward best practices and safeguards in the use 
+of AI and machine learning in financial services generally.
+    First, a review of risk management and customer protection 
+frameworks that apply to automated decision making. Model risk 
+management expectations and fair lending requirements do not 
+apply equally to actors across a financial ecosystem, and some 
+stakeholders have pointed out that imposing basic governance 
+expectations on nonbank financial providers could be beneficial 
+to the broader ecosystem.
+    Second, an articulation of frameworks to govern AI. What is 
+good in AI when we are deploying it in financial services, 
+consistent with high level principles or standards could be 
+valuable at this stage, aiming all the financial actors moving 
+in the same direction as they are thinking about using more 
+simple or more complex AI techniques.
+    Third, careful consideration of data governance practices, 
+standards and policies would be helpful. While Federal laws 
+provide more detailed and robust protections for consumer 
+financial data than other types of consumer data, key laws like 
+the Gramm-Leach-Bliley Act are old, 20 years, and we have not 
+updated them.
+    Finally, Congress could dedicate resources to support 
+public research in these areas and ensure engagement by 
+historically underrepresented and under-resourced actors in the 
+financial ecosystem. We are all going to have to learn and keep 
+up with how this technology works. We all have an important 
+role to play in making sure that the evolution of our laws and 
+our market practices are for the good and the benefit of 
+consumers, households, and the broader financial system. So the 
+education and the research is critical for all of us getting 
+there.
+    Thank you very much.
+    Chair Brown. Thank you. Mr. Gorfine.
+
+STATEMENT OF DANIEL GORFINE, FOUNDER AND CEO, GATTACA HORIZONS, 
+   LLC; ADJUNCT PROFESSOR OF LAW, GEORGETOWN UNIVERSITY; AND 
+   FORMER CHIEF INNOVATION OFFICER, COMMODITY FUTURES TRADING
+                           COMMISSION
+
+    Mr. Gorfine. Thank you, Committee Chair Brown, Senator 
+Rounds, and Members of the Committee for the opportunity to 
+testify before you today. I am the Founder and CEO of Gattaca 
+Horizons, an adjunct professor at Georgetown University Law 
+Center, and former Chief Innovation Officer and Director of 
+LabCFTC at the U.S. Commodity Futures Trading Commission. My 
+testimony presented here today reflects my personal views.
+    The topic of today's discussion has gained renewed interest 
+given recent AI-related advancements. It is an area of fierce 
+global competition where the U.S. holds many competitive and 
+first-mover advantages and an area that should be responsibly 
+fostered through thoughtful policy approaches. I commend the 
+Committee for engaging on this topic and support deliberative 
+efforts to understand the role of AI in financial services, 
+existing legal and regulatory frameworks, and potential policy 
+approaches that can foster the tremendous opportunity presented 
+while mitigating risks.
+    To level set, AI in financial services is not new and 
+instead is part of a steady progression of using computers and 
+advanced analytics to increase automation in the sector since 
+the 1980s. Over the decades, AI-related technologies have 
+continued to develop as have financial services applications. 
+Most recently, we have witnessed the public rollout of large 
+language models and a subset of LLMs known as generative AI.
+    AI applications in financial services have already yielded 
+benefits to consumers, small businesses, market participants 
+and regulators through greater efficiencies, enhanced insights, 
+expanded access and lower costs. As with any area of 
+innovation, however, there are important risks associated with 
+AI, including the potential for perpetuating bias, infringing 
+on data privacy and IP, failing to operate as expected, and 
+advancing frauds and scams.
+    The mere speculative fear or fear of future harm, however, 
+should not broadly block development of AI in financial 
+services, including by those small firms and community banks 
+seeking to remain competitive in an increasingly digital 
+economy. To this end, as a key guiding principle, I would 
+encourage the Committee and regulators to assess new AI-based 
+models on their ability to improve off of a highly imperfect 
+status quo. This principle should apply across AI applications, 
+since a singular focus on risk can blind us to greater benefits 
+as compared to legacy approaches.
+    As noted, financial services regulations have long governed 
+the adoption of emerging technologies in this sector, whether 
+through rules to ensure consumer protection and investor 
+protection or principles-based model risk management to ensure 
+safety and soundness. These frameworks apply to conduct and 
+activities regardless of the technological tools used by the 
+regulated entity, and they are capable of identifying and 
+mitigating risks while fostering innovation.
+    That said, this discussion also makes clear that as with 
+any area of technological advancement we will need to evolve 
+how we apply governing frameworks. The following are 
+recommendations that can help to achieve balance in this 
+effort.
+    First, encourage innovation but monitor for novel risks. It 
+is important that policymakers use their soft power to 
+encourage ongoing measured and compliant innovation, especially 
+with respect to small firms and community banks.
+    Second, enhance clarity and consistency within existing 
+risk management and activity-specific guidance. Regulators 
+should also encourage and help foster the development of 
+standards, including through collaboration, recognition of 
+standard-setting organizations, and use of safe harbors and 
+guidance that explicitly encourage adherence to such standards.
+    Third, modernize a Federal data privacy framework. Given 
+the centrality of data in AI, it is imperative that Congress 
+work to establish a national framework that governs data 
+privacy, advances cybersecurity, and ensures that consumers 
+have control over how their data and information is being used.
+    Fourth, avoid hasty and speculative regulation that can 
+chill innovation. Given existing regulation, it is important 
+for policymakers and regulators to avoid hasty and prescriptive 
+rules based on speculative or hypothetical future risks that 
+have not yet emerged. Only once actual risks have been 
+identified should targeted policy or regulatory interventions 
+be considered.
+    Fifth, monitor broader gen AI developments and discussions 
+to inform financial regulation. Some of those broader 
+discussions may benefit by looking to and incorporating 
+existing risk management frameworks common in financial 
+services, and those broader discussions should also inform 
+financial services regulation, but not create unnecessary 
+duplication, conflicts, or ambiguity.
+    Finally, prioritize law enforcement, collaboration, and new 
+technologies to combat fraud and scams. It is appropriate that 
+law enforcement agencies take the lead in investigating and 
+prosecuting illegal activity. It is further necessary that 
+these agencies work collaboratively with the private sector and 
+regulators to ensure the sharing of information and best 
+practices, increased tech literacy, and the adoption of 
+advanced tools to combat threats.
+    Thank you for inviting me to speak with you today. AI is a 
+technology that will be at the center of the remainder of the 
+21st century. It is a technology where the U.S. must lead in a 
+world of increasing competition, and I am happy to answer any 
+questions that you may have.
+    Chair Brown. Thank you. Professor Wellman.
+
+ STATEMENT OF MICHAEL WELLMAN, PROFESSOR, COMPUTER SCIENCE AND 
+              ENGINEERING, UNIVERSITY OF MICHIGAN
+
+    Mr. Wellman. Chair Brown, Senator Rounds, distinguished 
+Members of the Committee, it is a privilege to testify before 
+you today. My name is Michael Wellman, and I am Chair of 
+Computer Science and Engineering at the University of Michigan.
+    I earned my Ph.D. in artificial intelligence from MIT in 
+1988, and have worked as an AI researcher ever since. For the 
+past dozen years or so, my research has focused on 
+understanding the implications of AI for financial markets and 
+the financial system. All opinions expressed in this testimony 
+are my own.
+    It seems everyone is excited these days about rapid 
+advances in artificial intelligence. AI promises extraordinary 
+benefits, expanding knowledge, automating onerous tasks, and 
+making valuable services accessible and affordable to broad 
+segments of our society. AI also poses risks, to security from 
+malicious exploitation of AI, to safety from inadvertent AI 
+behaviors, and of disrupting how we work. Promises and risks of 
+AI pervade every area of our economy and society, including 
+quite distinctly the financial sector.
+    Of course, the future path of AI is highly uncertain. If 
+somebody tells you they know where AI technology will be in 5 
+years or 10 years or even next year, do not believe them. AI 
+has surprised us many times, including within the past year by 
+the stunning performance of ChatGPT. It is likely to keep 
+surprising us.
+    In financial markets, AI is already widely employed, a 
+situation that has developed largely under the radar. Gauging 
+the exact extent of AI in algorithmic trading today is not 
+possible for lack of public information. Trading firms do not 
+publish their strategies and methods for obvious proprietary 
+reasons.
+    This opacity is itself a source of risk. There is a keen 
+public interest in understanding how trading practices affect 
+market fairness, efficiency, and stability. The question is not 
+whether algorithmic trading is beneficial or harmful. We must 
+tease apart which practices and circumstances help versus hurt, 
+and identify market designs or regulations that promote the 
+beneficial and deter the harmful practices.
+    For example, consider latency arbitrage leveraging 
+minuscule advantages and response time, milliseconds or 
+microseconds, to extract profits from trades that would have 
+happened anyway. We and others have advocated for thwarting 
+this with a mechanism called frequent batch auctions, where 
+markets clear at fixed intervals, perhaps every half second, 
+rather than continuously improving both fairness and 
+efficiency.
+    Now to some newer issues posed by the latest AI 
+developments. The first is market manipulation. This is an old 
+problem, but AI manipulators could make it worse. We can tackle 
+it by likewise exploiting AI for enhanced surveillance. This 
+sets up what is called an adversarial learning situation, a 
+kind of AI arms race between the regulator and the manipulator. 
+An inherent feature of adversarial learning is that any advance 
+in detection technology can be exploited by the manipulator to 
+evade better. Where this leads in any given situation is an 
+open question.
+    It is also possible that AI-developed trading algorithms 
+could produce manipulative strategies even if not instructed 
+to. Our research has demonstrated automatic learning to 
+manipulate a financial benchmark given only the objective of 
+seeking profit. Are current regulations adequate to handle such 
+a situation? Much of the existing law depends on intent to 
+manipulate, and how that would apply to an AI that learned on 
+its own is unclear.
+    This is just one example of an AI loophole. Our existing 
+laws, generally speaking, assume that people make the 
+decisions. When AIs are deciders, do our laws ensure 
+accountability for those putting the AIs to work?
+    A second issue relates to advances in language processing 
+exhibited by systems like ChatGPT. Language understanding and 
+generation opens up new channels for AI influence. Just as 
+human manipulators employ social media in their pump-and-dump 
+schemes, AI systems could inject misleading information. This 
+brings us back to market manipulation, which is really just a 
+special case of the broader problem of misinformation and 
+fraud. In the wrong hands, AI can be great technology for 
+deploying scams.
+    Finally, the new AI technology obtains its power through 
+training over massive datasets. The concern is that only 
+entities with access to the largest scale information can 
+produce AI at the highest level. In financial trading, 
+concentrations of information access and ownership could convey 
+extraordinary advantages. How might trading on information 
+aggregated at massive scale affect fairness and efficiency of 
+our financial markets?
+    These are a few ways that new AI technology could pose 
+novel concerns for financial markets. AI also offers the 
+potential to protect market integrity and level the investment 
+playing field. Which outcome we get will be determined by how 
+we reconsider market designs and governance mechanisms for the 
+world of AI-powered trading.
+    Thank you for the opportunity to present this perspective 
+to the Committee. I look forward to answering your questions.
+    Chair Brown. Thank you.
+    The questioning will begin with Senator Smith of Minnesota.
+    Senator Smith. Thank you very much, Mr. Chair. I appreciate 
+your generosity. And welcome to all of you. Thanks so much for 
+being at the Committee. It is a very interesting topic.
+    Professor Wellman, I would like to start with you. Last 
+fall, the Consumer Financial Protection Bureau issued reports 
+raising serious concerns about the increased use of automated 
+tenant screening programs. And these programs are intended to 
+help landlords determine how risky a prospective tenant is, 
+maybe assigning them a score, or even recommending whether the 
+landlord should accept or deny that rental application.
+    Of course, these determinations can be seriously flawed, 
+just as the determinations that humans make could be seriously 
+flawed. But in some cases, they have been found to rely on 
+outdated, or incomplete, or just flat-out wrong data, and 
+others seem to be based on some of the same flawed assumptions 
+and biases that have never been predictive of risk for tenants.
+    So my question is these AI models are complex. They are 
+opaque. This is the black box problem that you were alluding to 
+in your testimony. How can companies effectively assure 
+landlords and prospective tenants that their rental screening 
+programs are accurate and neutral? How can they make that 
+assurance in this black box problem?
+    Mr. Wellman. Thank you for the question. So as you point 
+out, humans make mistakes and AIs will too. The danger, of 
+course, is that when an AI can make a mistake, it can be 
+deployed at large scale, systematically. So unfortunately, 
+there is no general way to ensure the credibility of an AI-
+developed model. In principle, they could end up being better. 
+But it really requires third-party scrutiny and ways of 
+validating, and providing, ultimately, accountability, I think, 
+is the ultimate solution, whether that is up front through 
+certification of the validity of the models or on the back end, 
+through auditability.
+    Senator Smith. Is that a place where, as you are talking 
+about, where we are looking at setting, assigning, figuring out 
+standards? Is that a place where this concept of standards 
+could come into play, establishing standards for these tools to 
+assure that bias is not creeping in?
+    Mr. Wellman. Yes, I think that is a valuable role for 
+Government to take is to establish standards, criteria for 
+evaluation, and on a continual basis.
+    Senator Smith. And I note that you talked about audits, 
+sort of outside third-party audits. This is a topic, Chair 
+Brown and Ranking Member Rounds, that came up in the AI summit 
+that we had last week that I thought was very interesting.
+    Ms. Koide--I hope I am saying your name correctly--the 
+allure of AI is that it has the capacity to learn without human 
+intervention, and human intervention can be slow and expensive 
+and even emotional. At least that is the theory. But as we have 
+seen with early generative AI models, the technology is not 
+perfect. It is sometimes erratic and can be prone to error. And 
+this may not be a big issue when people are chatting with bots, 
+but it has very high stakes when AI models are used in lending 
+decisions, for example, or other applications that can have a 
+big impact on a family's livelihood.
+    So my question is, how can financial regulators effectively 
+oversee and evaluate something that is as fast changing as AI? 
+You touched on this in your testimony.
+    Ms. Koide. Sure. Thank you for the question. This is a 
+really critical consideration, and it is why we spent 3 years 
+looking at questions around what are the types of machine 
+learning algorithms as a form of AI are being used in credit 
+decisioning by banks and nonbanks or fintechs. And the laws 
+that we have in place that require lenders to tell a consumer 
+why they got a certain credit decision, denied or priced, are 
+actually factors that are affecting the choice of models that 
+the financial sector is using.
+    We are not seeing lenders, banks or nonbanks at this 
+point--to be fair, we have not done a complete canvassing--
+moving into gen AI for these credit underwriting decisions but 
+instead using supervised machine learning algorithms where 
+there is human oversight. I do appreciate the bigger question 
+of as gen AI advances, we are all asking the question, will it 
+have applicability in things like credit decisioning? But those 
+governance expectations, fair lending plus explainability, are 
+critical and are affecting what models are being used by 
+lenders, banks or nonbanks.
+    Senator Smith. Thank you. Thank you very much, Mr. 
+Chairman.
+    Chair Brown. Senator Rounds, from South Dakota, is 
+recognized.
+    Senator Rounds. Thank you, Mr. Chairman. First of all, 
+thank you, all of you, for coming in today and being a part of 
+this.
+    Suitable talent is in high demand. JPMorgan said in May of 
+2023, that it has hired 900 data scientists, 600 machine 
+learning engineers, and 200 AI researchers to execute its 
+technology initiatives. I want to begin just very quickly, 
+because I have got a couple of questions, but just what are 
+your thoughts? Can you just briefly give us a thought on what 
+steps we need to take now to provide the AI workforce of 
+tomorrow? Mr. Gorfine, I will start with you.
+    Mr. Gorfine. Yeah, thank you for the question. And I am a 
+huge believer in education, and I think education into tech 
+literacy needs to be happening at the earliest stages for a 
+child. I am a father of three daughters, and I am a huge 
+believer, whether you move into the tech field or not, you need 
+to at least understand the language. You need to understand 
+what people are describing, because the reality is that 
+technologies and machines are going to underpin all of the 
+economic activity that takes place in our country and around 
+the world. So we need to start early. I tell law students, take 
+a computer science class, take a data science class, so you can 
+also suss out what is real and what is not. So I think 
+education and tech literacy is critical at the earliest levels.
+    I think it is also critical in the Government level and in 
+the private sector. I encourage all senior leaders in 
+Government to make sure that you fully understand the language 
+being spoken, and the same goes for business leaders in 
+financial services. I think it is a risk if you do not know 
+what technology underpins your operations.
+    So education is really the answer and sending a clear 
+message that we are here to build and develop these 
+technologies according to U.S. norms and values. And I think 
+that is the way we outcompete on a global scale.
+    Senator Rounds. Ms. Koide, do you agree with that analysis?
+    Ms. Koide. I agree with that analysis, and I also think Mr. 
+Gorfine is correct, starting early on. But I want to also 
+recognize the challenges are in terms of what models get 
+developed, stem from the fact that there is human oversight of 
+these models, and that we need diversity and different 
+perspectives in the humans who are ultimately making the 
+decisions about what data are we training the models on, what 
+models are we deploying. And that means going all the way back 
+to making sure that we have tech education happening in our 
+schools and in our communities across, looking even at--and I 
+know there is been an effort to look at historically Black 
+colleges and universities to make sure that we are bringing 
+technology, focus, and education so that we really, in the end, 
+end up with people working at JPMorgan Chase, or I would like 
+to think FinRegLab, with real diversity and perspectives, with 
+expertise.
+    Senator Rounds. Mr. Wellman, anything to add to that?
+    Mr. Wellman. What I would add as a chair of a computer 
+science department, I am proud that we are contributing quite a 
+bit to the development of our tech workforce. And I think 
+another strength that we have had in the United States is the 
+ability to attract talent from around the world to come for 
+advanced education and join our workforce.
+    Senator Rounds. Thank you. I think it is important to 
+recognize that as this technology has been effectively utilized 
+for decades, the surge in advancement is prompting our 
+discussion today. As we move to regulate AI, we have to avoid 
+the unintended consequences of being overly broad.
+    This is a question for all of you. How do we not screw it 
+up? Mr. Gorfine.
+    Mr. Gorfine. Yeah. I think it is critically important to be 
+principled in how we approach this space. So we have to 
+recognize that we are starting from a base where there is a 
+regulatory framework in place. Melissa and I were speaking--Ms. 
+Koide and I were speaking about the fact that in financial 
+services, there is the right scaffolding in place around 
+regulation and governance. However, you need to monitor for 
+where there are emerging risks. And once you identify specific 
+risks, you tailor interventions to solve for those specific 
+risks. Over-broad rulemakings will have unintended consequence. 
+They will capture activities that you are not intending to. 
+They will make it very difficult for small firms, for community 
+banks to be able to adopt new technologies.
+    So you do not want to be premature preemptive. You want to 
+make sure that it is reasoned and principled, and that is a 
+balance that we have to strike.
+    Senator Rounds. Mr. Wellman.
+    Mr. Wellman. Well, to be honest, I do not think we could 
+prevent the advent of powerful AI in our economy if we really 
+wanted to. That said, I think how regulation evolves will shape 
+the economic development.
+    I must disagree with my colleague, respectfully, that I 
+think responding before the risk materializes is sometimes 
+essential to avoiding really terrible outcomes. We can 
+reasonably understand areas that pose risks and shape the 
+environment so that we are more robust before they happen, 
+rather than wait until after it is too late.
+    Senator Rounds. Ms. Koide.
+    Ms. Koide. Yeah, I think the one thing I would add--I 
+thought those were great comments--is just how important the 
+data are that are actually being used in the models and the 
+need to really focus on, broadly, how do we get consumer data 
+privacy right? How do we think about updating our data privacy 
+expectations? In financial services, I say this often, the 
+financial sector, the financial services offering is based on 
+risk mitigation, which is based on data information. How are we 
+striking that balance so that data are available to be used? We 
+are making sure, importantly, that we are not leaving out 
+marginalized communities because the data does not reflect an 
+understanding of them, but also thinking about the data privacy 
+needs and expectations. But the data piece is really critical.
+    Senator Rounds. Thank you. With the Chairman's indulgence, 
+very quickly, Mr. Gorfine, any other comment or correction or 
+discussion in terms of the response from----
+    Mr. Gorfine. No. I think we are more like-minded when I say 
+that this is a balance. It is more art than science of knowing 
+when the right time for an intervention is. I identify data, as 
+well, as a place where we need a national framework, because 
+that is clear. Risks around data, data control, data privacy 
+and use, especially in AI, are absolutely appropriate.
+    We have also been able to identify this with high frequency 
+trading. We know the risks that exist. That was an area where 
+there was awareness--you know, this is over a decade ago--
+around new techniques, and it was absolutely right that more 
+controls should have been put in place.
+    So it is a balance. I think that the risk of going over 
+broad can send a message, and it stunts development, it stunts 
+innovation, especially for small players who do not have the 
+resources to figure out, is this going to work? Is this going 
+to be compliant? Should I invest here or not, if it is going to 
+be blocked in the future?
+    Senator Rounds. And I am out of time. And I thank the 
+Chairman for his indulgence.
+    Chair Brown. Senator Menendez, of New Jersey, is 
+recognized.
+    Senator Menendez. Thank you, Mr. Chairman. I want to follow 
+up on the preemptive nature of this issue. I worry that AI has 
+the power to compound the existing problem of fraud in the 
+financial system. According to the FTC, consumers reported 
+losing nearly $9 billion to fraud in 2022, with more than a 
+quarter of those losses coming from imposter scams. So, Ms. 
+Koide, do you agree that AI could contribute to a rise in this 
+type of fraud?
+    Ms. Koide. So I am very interested in the potential of data 
+and more advanced analytics, including AI, to address fraud. 
+This is not an area that FinRegLab has studied deeply, but I do 
+think there are ways that we could be potentially leveraging 
+the more complex analytics with comprehensive data to do a 
+better job of catching fraud actors of different types. So I 
+would love to come back to you on the other side of potential 
+research.
+    Senator Menendez. Well, consumers could see themselves 
+becoming victims of increasingly sophisticated scams as a 
+result of AI, both due to increasingly accurate deepfakes, more 
+precisely targeted social engineering attacks. And it is not 
+just the consumers that are being targeted. There have been 
+reports of scammers using AI to imitate a consumer's voice in 
+order to trick their bank or credit card servicer into 
+transferring funds or giving away information.
+    What can and should financial institutions be doing to 
+minimize the risk of AI-powered scams targeting them and their 
+customers? And I would open that up to any member of the panel.
+    Mr. Gorfine. I am happy to jump into that, and I think that 
+there are a few things that should happen first. Law 
+enforcement agencies should be taking a lead in terms of 
+understanding the broad nature of the scams that are taking 
+place. Just this past week, NSA, FBI, and CISA put out a very 
+good report on deepfakes and scams. And it is that type of 
+information that can then be circulated amongst financial 
+regulators and the private sector to look at the best ways to 
+combat this. And just like any other technology that is 
+developed, it can be used for fraud, crime, and other scams. 
+But you can also leverage that technology for good.
+    So I think it is critical that financial institutions 
+invest in AI-related technologies to detect fraud and scams. It 
+is also important for financial regulators to have the 
+resources to be able to invest in that type of technology as 
+well. From a surveillance perspective and transaction 
+monitoring perspective, you can use tech to combat. I also 
+think collaboration between public and private sector on this, 
+sharing threats is really important.
+    Senator Menendez. All right. I like some of those.
+    Mr. Wellman. If I might add, so I agree that AI is 
+potentially very powerful fraud-scamming technology. It is 
+really on the dimension from misinformation to new kinds of 
+fraud.
+    I think that Senator Rounds made some really important, 
+excellent points about we have existing fraud protection laws. 
+We also have the ability to enlist AI in combating fraud, and I 
+think that could be a really powerful tool.
+    The things that I would suggest also focusing on, though, 
+is that when you have the AI on the fraud side and on the 
+regulation side, that is another example of one of these arms 
+races, and where that leads to is somewhat indeterminate, and I 
+think it needs more study.
+    The other is that there could be new kinds of fraud that 
+are falling through the cracks of the existing legal or 
+regulatory system, in part because of some of the AI loophole 
+notion that I mentioned in my testimony, where laws that were 
+developed not thinking of this kind of super-impersonation or 
+are there other new kinds of things, or things that were done 
+by automation rather than by people are not really covered.
+    Senator Menendez. Let me go to a different topic. Because 
+of the way AI learns by studying large sets of data, if there 
+is a bias in the underlying data then it can become encoded in 
+the AI decision-making process. In financial services, this can 
+exacerbate existing disparities in areas such as mortgage 
+lending, capital allocation, and credit availability, among 
+others.
+    Professor Wellman, how can we work to ensure that AI does 
+not stratify or even expand existing disparities in access to 
+financial services?
+    Mr. Wellman. Yes, and I think, as Ms. Koide in her 
+testimony points it out, it really can cut either way. And what 
+we really need are better tools for interrogating our models to 
+understand what is the basis that they are making decisions on. 
+Are they using factors that we would rather they not use? 
+Again, it is another area where the existing discrimination 
+legal framework may or not be adequate in all senses to capture 
+the kinds of discrimination that could come from AI models.
+    Senator Menendez. Yeah, my experience, unfortunately, is 
+that when it can cut either way, it normally cuts against us as 
+a minority community. So how should we think about issues of 
+accountability and oversight when it comes to AI models? Anyone 
+have any ideas on that?
+    Ms. Koide. Yes, I would be happy to answer. Yeah, I mean, 
+what is really important here is making sure, to start, that 
+the data that you are using to build the models in the first 
+place sufficiently represent full populations. And one of the 
+challenges we have had in terms of access to wealth-building 
+opportunities like mortgages is we have 50 million U.S. adults 
+who cannot be credit risk assessed with traditional data and 
+traditional methods.
+    So we have studied cash-flow data is a type of financial 
+data from a bank account or a transaction account, and 
+interrogated is that data enabling lenders to actually credit 
+risk assess populations who otherwise would be excluded. We 
+looked at short-term, revolving, small-dollar lines of credit, 
+but we did find that cash-flow data are predictive, and they 
+are more representative of underserved populations and 
+communities.
+    So to start with, making sure that the data that these more 
+complex models or even simple logistic models are using is 
+fully representative is an important place to start.
+    I do think the disparate impact requirement assessment, our 
+fair lending laws, are putting obligations, legal obligations, 
+on interrogating forward disparities between different 
+demographic populations. And we did interrogate the extent to 
+which approaches for finding less discriminatory model 
+alternatives using automated techniques and machine learning 
+techniques work. And there we actually did find you can 
+identify models that create less disparities using these more 
+automated and machine learning approaches.
+    And so we are quite encouraged by that. But let me be 
+clear. We were looking at supervised machine learning 
+algorithms, not the types of gen AI, large language models that 
+I think are capturing a lot of our attention right now.
+    Chair Brown. Senator Kennedy, of Louisiana, is recognized 
+for 5 minutes.
+    Senator Kennedy. Professor, when a consumer interacts with 
+AI-generated content, let's say as voiced by a robot, do you 
+think the consumer has the right to know that he or she is 
+talking to a robot?
+    Mr. Wellman. I think that question is to me, and yes I do, 
+and I think that is really a key area, new kinds of necessary 
+disclosures where we can try to reduce the incidence of this 
+kind of fraud.
+    Senator Kennedy. That is a yes. Does anybody disagree with 
+the professor? You agree? Both of you?
+    Ms. Koide. I generally agree. I would like to know 
+personally.
+    Senator Kennedy. OK.
+    Mr. Gorfine. I do also generally agree with that. I do 
+think it depends a little bit on your definition of AI and the 
+particular function or use case we are discussing. But 
+generally when you are talking to financial services----
+    Senator Kennedy. Professor, do you think the consumer 
+should be able to know not only that the content is generated 
+by AI, but do you think this consumer is entitled to know who 
+owns the robot and therefore the generated content?
+    Mr. Wellman. Yes. And I think that is part of a more 
+general principle of knowing, in any entity that you are 
+interacting with, what interest are they representing.
+    Senator Kennedy. OK. When a bank loans money, it has a 
+profit motive, does it not?
+    Mr. Wellman. Yes, sir.
+    Senator Kennedy. It wants to be paid back. Is that correct?
+    Mr. Wellman. Yes, sir.
+    Senator Kennedy. And if the bank is not paid back enough 
+times, the bank goes broke. Am I right?
+    Mr. Wellman. That is correct.
+    Senator Kennedy. OK. Do you think it is possible to 
+generate, through artificial intelligence, an underwriting 
+system that precisely determines who is unlikely to pay back a 
+loan?
+    Mr. Wellman. I believe that machine learning models with 
+lot of data and AI can significantly increase the accuracy by 
+which such decisions could be made.
+    Senator Kennedy. Can it do that right now?
+    Mr. Wellman. Lending firms use models right now to predict 
+the best they can, subject to the kinds of factors they are 
+allowed to consider to determine whether a loan will be paid.
+    Senator Kennedy. But I want to use, as the benchmark, the 
+current underwriting system, the different approaches that 
+various financial institutions take. Do you think AI can 
+improve on that in terms of determining precisely who is likely 
+to pay the loan back and who is not?
+    Mr. Wellman. It can improve on that in part on the ways 
+that it could potentially take into account much more 
+information than is generally available to assist.
+    Senator Kennedy. OK, let's suppose that system is developed 
+and all of you experts agree, yes, this system is more precise 
+in determining who is likely to pay the money back as opposed 
+to someone else. It is better than what we have now. By 
+definition, it is going to have a disparate impact, is it not? 
+I mean, some people are going to get alone and some are not, 
+right?
+    Mr. Wellman. That is right. But I think that we need to 
+make a distinction between----
+    Senator Kennedy. OK. Can I just finish this thought because 
+I only have a minute. If we all agree on that system, this is a 
+really good system to predict who can pay the money back and 
+who it cannot, and we know by definition it is going to have a 
+disparate impact. Some people are going to get a loan. Some 
+people are not going to get a loan. Do you think at that 
+juncture Government should step in or has the right to step in 
+and say, no, we do not like the result because it did not 
+include enough people from this area or enough people of this 
+educational level?
+    Mr. Wellman. I think there are other interests besides 
+accuracy that are legitimate to be considered in the public 
+interest rate.
+    Senator Kennedy. If you could answer my question, do you 
+think Government, at that point, should be able to step in and 
+say, no, we do not like the results?
+    Mr. Wellman. I think that in some circumstances, if the 
+reason for that decision has systematic negative effects in our 
+society, that would be a legitimate interest.
+    Senator Kennedy. But we all agree, did we not, that this 
+system was the best system available.
+    Mr. Wellman. It was the most accurate, which I do not 
+necessarily think is the same thing as being the best.
+    Senator Kennedy. So what other factors do you think should 
+be considered other than whether someone is going to pay back 
+the loan?
+    Mr. Wellman. Notions of fairness.
+    Senator Kennedy. So you think a loan should be made to 
+someone who is less likely to pay back the loan, as opposed to 
+someone who is more likely to pay back the loan on the basis of 
+fairness, and Government ought to make that decision?
+    Mr. Wellman. I think if the processes by which the 
+decisions are made are not fair, those processes should not 
+be----
+    Senator Kennedy. You want quotas, in other words, right?
+    Mr. Wellman. No, that is not correct.
+    Senator Kennedy. Sounds to me like it is correct. I do not 
+know. Mr. Chairman, can I let this gentleman----
+    Chair Brown. That is fine.
+    Mr. Gorfine. I would just add that under the law a lender 
+has to look for a less discriminatory alternative when they use 
+a model. But I think the promise of AI here is that FICO and 
+other kind of legacy scoring systems are known to very heavily 
+correlate with protected class characteristics.
+    AI done right----
+    Senator Kennedy. Yes. This would improve on FICO. And if we 
+all agree that it is an improvement on FICO and it still has a 
+result that Government does not like, should Government have 
+the right to step in and say, yeah, it is a better system, but 
+we do not like the results?
+    Mr. Gorfine. No. I think if it is more fair and more 
+accurate, that is an absolute win for society. And I think even 
+under existing tests that we have in the law, AI can be a big 
+improvement on the status quo.
+    Chair Brown. Your time has expired.
+    Ms. Koide, I would like to start with you. For some time, a 
+number of us have raised concerns about how big corporations 
+are using people's data. Now companies are using data to train 
+AI and machine learning systems. There is little clarity in 
+where this data comes from, how this data is being used, and to 
+what end. What action should Congress and regulators take to 
+protect people's right to privacy?
+    Ms. Koide. I think that is a great question. Everybody 
+knows we do not have a general data protection Federal law in 
+the United States. Yet we do have in financial services the 
+Gramm-Leach-Bliley Act, but as I mentioned, it is 20 years old.
+    I think starting with understanding where the data, what 
+type of consumer data are being used by different entities, 
+what are the purposes of the data that are being used? We focus 
+clearly on financial services applications. What are the 
+objectives that we have for the data? And again, inclusion is a 
+really important policy objective I think we all share. And 
+then going back and looking at what does Gramm-Leach-Bliley 
+offer, who is not covered--and small businesses and data 
+privacy protections for small businesses is an area for further 
+exploration with GLBA.
+    The CFPB is currently writing rules with respect to 
+consumer data sharing under 1033 authority with Dodd-Frank. We 
+still, nevertheless, have important questions around downstream 
+protections when the data are shared with consumer consent and 
+how do we make sure that there are protections, accuracy 
+protections, ability to correct with downstream flow of data?
+    So I think a holistic look at what are the data privacy 
+laws that we have writ large, but also how are we looking at 
+it. very holistically. in financial services would be a service 
+to all of us.
+    Chair Brown. Thank you. Professor Wellman, AI surely can 
+increase efficiencies, can reduce cost. Financial service 
+providers certainly have to have access to substantial and 
+expensive resources to acquire the data. Small and regional 
+banks may not be so not be readily able to adopt these new 
+technologies, in part to further industry concentration. How 
+will the adoption of AI affect competitiveness in the banking 
+sector?
+    Mr. Wellman. Yes, thank you for the question. I raised the 
+point about concentration of information ownership and access 
+being a new lever and source of power disparities that will 
+exist to a new level that they did not before. And I think that 
+is something that needs to be looked at and understood in 
+considering in what sectors, in what realms, use of information 
+collected for different reasons may be applied.
+    Chair Brown. Another question for you. Large language 
+models like ChatGPT sometimes behave unpredictably abuse, as 
+you have pointed out, by providing sometimes consumers with 
+unauthorized access to sensitive information, or hallucinating, 
+if you will, false information. LLMs could be used to 
+compromise consumers' safe, sensitive data. Despite these 
+risks, financial institutions are using chatbots.
+    Professor Wellman, how do we encourage responsible 
+development of public AI tools while ensuring that consumers 
+and savers are protected from bad actors that could exploit 
+these vulnerabilities?
+    Mr. Wellman. So I think it ultimately boils down to 
+accountability and ensuring that whoever is deploying these 
+tools is responsible for the behaviors they conduct. I think 
+that there are also ways to help to improve the technology that 
+makes them less susceptible to certain kinds of hallucination. 
+Even if you cannot absolutely rule out the possibility of these 
+loopholes, they can be subjected to rigorous inspection, 
+testing, sandbox exercises that could improve the robustness of 
+the technology that all are using.
+    Chair Brown. Thank you.
+    Last question, Ms. Koide. You stated, quote, more complex 
+models exhibit higher predictive performance, smaller 
+disparities across all metrics. However, there are concerns 
+that complex models are less transparent. How should regulators 
+navigate this implied tradeoff between fairness and 
+transparency?
+    Ms. Koide. Yeah, so to clarify, that references 
+specifically to the models that were built such that we could 
+then interrogate questions around explainability and fairness. 
+I think, as I have shared, we independently interrogated 
+machine learning algorithms and the extent to which post-talk, 
+after-the-fact techniques could actually generate explanations 
+for how those models derive their outcomes. And there we found 
+these techniques were able, some of the techniques, again with 
+human oversight, were able to generate reliable explanations of 
+which features were most important for the model's predictions.
+    Then we separately interrogated questions around fairness, 
+and we found there that more automated techniques produced a 
+range of alternative models that had smaller demographic 
+disparities. So again, compared to more traditional methods of 
+looking for correlations in the data and dropping problematic 
+variables.
+    So we find that to be encouraging in terms of what a 
+machine learning as a form of AI may be able to produce in 
+terms of getting us to more fair and ultimately more inclusive 
+credit underwriting decisions.
+    Back to Mr. Kennedy's or Senator Kennedy's question, I do 
+not think anybody wants people, household, small businesses to 
+be able to access credit that they cannot repay, right? Safety 
+and soundness is important for the financial sector, but it is 
+important for people and small businesses too. And so the 
+extent to which machine learning and data can help us find and 
+understand risk within, that is a really important piece in, I 
+think, the opportunity that we see in front of us with machine 
+learning as a form of AI.
+    Chair Brown. Thank you.
+    Senator Britt, of Alabama, is recognized.
+    Senator Britt. Thank you, Mr. Chairman.
+    Technological innovations and the use of artificial 
+intelligence and machine learning spaces have just emerged all 
+over our Nation and in various sectors. For instance, in 
+Alabama, we have seen examples of positive capabilities of AI 
+and how it can help enable effective military operations. I am 
+particularly proud of the work that goes on there in the 
+defense and the intelligence community.
+    The role AI plays in financial services directly impacts 
+individuals and small businesses in my great State of Alabama 
+and across the country each and every day. And while it has 
+received significant attention only in recent weeks in 
+Washington, DC, many in the financial industry have been using 
+this type of technology for years. Not only have banks and 
+insurers utilized these capabilities of AI in their 
+underwriting practices and risk management, but you have also 
+seen a history of mature AI governance that can be a model for 
+other industries to use.
+    There have been calls from some of my colleagues to what I 
+believe amounts to overregulation of the industry. I believe, 
+as legislators, we should take a more strategic look at this 
+and be very thoughtful about how we approach a governance 
+framework for any type of emerging technology, being sure that 
+appropriate guardrails are in place that allow for innovation 
+and enable positive use cases while mitigating potential risk.
+    To do so, it is important we continue to have these types 
+of conversations we are having today so that we can learn how 
+AI is helping customers to access financial services so that 
+they may otherwise not be able to access and to recognize that, 
+like in many spaces, that bad actors find a way to utilize 
+these things in a way that we hope to be able to curtail.
+    So my first question is for you, Mr. Gorfine. How should we 
+properly balance the strong capabilities of AI to help improve 
+fraud detection and cybersecurity while managing the fact that 
+these technologies can and have been used by bad actors?
+    Mr. Gorfine. Yeah, thank you, Senator, for the question, 
+and I think that is absolutely right. I think one of the more 
+promising areas of artificial intelligence is in this reg tech 
+space, regulatory technology. There is incredible potential in 
+terms of market surveillance, trade surveillance, that 
+certainly capital markets regulators are able to deploy. There 
+is also anti-money laundering and other type of financial crime 
+tools and technologies that are being developed that are far 
+better at identifying anomalies patterns that traditional 
+analytic tools would not be able to use.
+    So I think that there is an opportunity for Government 
+regulators are able to use this, law enforcement is able to use 
+this, and the private sector is able to use it. The first line 
+of defense will typically be whether it is exchanges or banks 
+that deploy these types of reg tech tools to more effectively 
+and efficiently find bad actors and look for fraudulent or 
+manipulative activities.
+    On the flip side, absolutely. As we have always seen, 
+criminals will use new tools and new technologies to engage in 
+crime. You use, I think, a law enforcement approach. I was 
+noting earlier, the NSA, FBI, and CISA putting out, I think, 
+thoughtful guidance on some of their research into deepfakes 
+and scams. And I think it is really important for that 
+information sharing to take place. We have done it before, and 
+I think we can continue to do it with this technology.
+    Senator Britt. I am hopeful that we see more guidance, 
+particularly out of the CFPB, for general consumers and 
+alertness on that, in particular.
+    My time is kind of winding down, so I want to make this as 
+quick as possible. But I am very interested in how we can 
+utilize AI to reach underserved communities. So if each of you 
+can just very quickly tell me kind of your top thought on what 
+we need to be thinking about to make sure that we reach those 
+that may not be reached otherwise.
+    Yes, please.
+    Ms. Koide. Happy to go first. I think the data is really 
+critical, making sure the data that are being used are actually 
+representative of underserved communities, and I am happy to 
+follow up.
+    Senator Britt. Absolutely. Please. I would love to work 
+with you on that.
+    Ms. Koide. Sure.
+    Mr. Gorfine. I think in the retail banking space, the 
+ability to use models to provide access to capital to 
+underserved communities is tremendous. On the capital market 
+side, I think digital investment advisors that are using these 
+tools to bring down the cost of advisory services that used to 
+cost tens of thousands of dollars, and only the wealthiest 
+could afford it, now, retail investors are able to access sound 
+investment advice as well because of these tools.
+    Senator Britt. OK, thank you.
+    Mr. Wellman. I second that last point. I think that AI has 
+a tremendously potentially democratizing dimension by making 
+really powerful tools and broad knowledge available to many 
+people if that access can be ensured to be equitable.
+    Senator Britt. OK, thank you so much. Thank you, Mr. 
+Chairman.
+    Chair Brown. Senator Warner, from Virginia, is recognized.
+    Senator Warner. Well, thank you, Mr. Chairman.
+    I was hoping to grab Senator Kennedy on the way out because 
+I think his premise on his question of, well, we have decided 
+this model really worked, well, whose judgment do we take on 
+that? I am not going to pick Facebook out as a foil here, but 
+we had Yann LeCun yesterday testifying before the Intel 
+Committee, and Senator Rounds was there, and he went through 
+all the iterations of what they were doing to test out the 
+Llama model before they released it. By the way, letting that 
+large language model into the wild has dramatically changed the 
+economics around all of AI.
+    But do we really want to take that company's testing format 
+and accept that as kind of the standard? I think that is one of 
+the questions we have got to grapple with.
+    You know, Senator Britt, I agree with her as well. We do 
+not want to overdo it. But we also have to recognize when 
+Senator Rounds and Senator Schumer had the kind of who's who, 
+from the big tech folks to the civil society, all 22 folks 
+raised their hand and said, yes, we need guardrails. Yet what 
+is ironic to me is that most of those, particularly the tech 
+guys in the room, were the very same people who had framed the 
+social media platforms, and Congress' record on doing anything 
+with social media is a big fat zero. So I think we have to be 
+humble, modest enough to realize getting from yes, we ought to 
+have guardrails to how we write those in a way that we could 
+actually legislate is going to be a huge challenge.
+    So let me drill down a little bit more. Where I hope we 
+would start is, and again I caveat this. We had that 
+presentation last week. We still do not have a general 
+agreement on an AI definition. But where are the areas where AI 
+could have the most immediate devastating effect today? I would 
+argue that the two domains that completely rely on public 
+trust, that where AI could be hugely manipulative, are faith in 
+our elections and the tools that were used in 2016 are child's 
+play based upon what deepfakes and other tools could be used on 
+an effort on steroids.
+    And the other is around public trust in our markets. And 
+while we have seen a little bit of disruption, and Professor 
+Wellman, I know you have done some work in this space, we have 
+really not seen the catastrophic effects.
+    So maybe I will start, keep with public markets because it 
+is easier than some of the First Amendment issues on elections. 
+But try this out. I think the potential negative effects of AI 
+tools on our public markets are so great that we may need to 
+introduce a concept of, like overweighting, so that just as we 
+say, murder is murder, but we are going to have a higher 
+penalty if it is caused by a terrorist, or weapons of war are 
+bad, but we are going to have an extra sanction on chemical 
+weapons versus other traditional weapons, do we need to think 
+about, one, do you agree that the tools on AI in terms of 
+undermining trust in public markets and destroying, potentially 
+destroying public markets is an unprecedented number tool? 
+Number one.
+    Number two--and we will go down the whole list--does that 
+mean we need a new law or does it mean we have already got laws 
+against market manipulation and we need to either have a lower 
+standard of proof or a higher level of penalty because the 
+absolute decimating effects of a fully launched AI attack on 
+the markets could be so catastrophic that we have got to think 
+differently?
+    So one, are these greater tools in terms of threats to the 
+public markets, two, do we need a new law or three, do we just 
+need to rethink penalties and/or burdens of proof? Whoever 
+wants to go.
+    Mr. Wellman. Thank you for the question. I could not agree 
+more that the fundamental issue here is trust and the potential 
+of undermining the trust. When I talked about market 
+manipulation, any particular incident of market manipulation is 
+just stealing a little, some money. The real danger, of course, 
+is that if it is systemic and parties no longer believe that 
+there is a level playing field, and investors are afraid to 
+enter the market and we lose trust, and our capital markets 
+just would cease to function.
+    Senator Warner. And to the question, are not the AI tools 
+ability to do that at scale so much greater than a traditional 
+individual market manipulator of even 5 years ago?
+    Mr. Wellman. I believe that potentially AI can supercharge 
+market manipulation and potentially evade kind of the current 
+regulatory schemes around market manipulation. That is what I 
+would be concerned about and needs to be addressed.
+    Mr. Gorfine. Yeah, listen, I think that trust and market 
+integrity are absolutely critical. I do think we have circuit 
+breaker controls. There are model risk controls that are in 
+place. But given the fact that we now are learning what these 
+tools are capable of doing, I think it does mean that what 
+market participants need to do to comply is heightened in terms 
+of are you taking the right controls, practices, and governance 
+around your models to prevent a market disruption or 
+manipulation?
+    Senator Warner. Ms. Koide.
+    Ms. Koide. I concur with all of that.
+    Senator Warner. Know my time is about up. But I would just 
+say for the record, if we all agree there is a bigger threat 
+here, the question of what we do, because I do not think we can 
+simply accept the validation of the vendor without any check 
+that, hey, this system works. And then does that mean you need 
+a new law? Do you need a higher penalty? Do you need a lower 
+burden of proof if you think this tool could be this 
+devastating? Do you want to quickly?
+    Ms. Koide. Yeah, I mean, I think the risk we hear is 
+definitely there. And I would yield to the experts on how we 
+think about setting expectations so that there is oversight, 
+sufficient oversight for these kinds of risks.
+    Senator Warner. Well, I hope we think about public 
+elections and public markets and there might be this 
+collaboration where we could actually put points in the board 
+because my fear is I just do not want to see us repeat what we 
+did in the social media, which is a big fat zero.
+    Ms. Koide. So I know we are out of time. Broader 
+conversations about setting expectations, even using 
+potentially the frameworks we have in financial services, 
+principles based expectations on non-financial actors who are 
+using more complex AI techniques I think is an area for 
+exploration. It is not only good governance expectations, it is 
+also fairness and risks of bias and thinking more holistically 
+about how we set expectations with these more complex models.
+    Senator Warner. Thank you. Thank you, Mr. Chairman.
+    Chair Brown. Senator Warren, from Massachusetts, is 
+recognized.
+    Senator Warren. Thank you, Mr. Chairman.
+    So AI is getting a lot of attention in Washington. You know 
+the tech giants have come to tell us how to shape new laws that 
+will advance their business models. But laws already exist 
+governing some aspects of AI. Earlier this year, the Consumer 
+Financial Protection Bureau reminded us that, quote, ``Existing 
+legal authorities apply to the use of innovative technologies 
+just as they apply to other practices,'' in other words, 
+breaking the law with fancy new tools is still breaking the 
+law.
+    So I want to talk about one of those laws today. A biased 
+home appraisal can be a terrible financial blow to a family. 
+One study of mortgage approval algorithms showed that in 2019, 
+lenders were 80 percent more likely to deny home loans to Black 
+applicants than to White applicants with similar financial 
+characteristics. In June, the CFPB proposed a rule that would 
+require mortgage lenders to have quality controls in place that 
+would ensure that the algorithms that appraise home loans are 
+not discriminatory.
+    So, Ms. Koide, you are an expert in consumer protection and 
+financial inclusion. Does CFPB have legal authority to 
+implement such a rule?
+    Ms. Koide. Thank you, Senator Warren. I join you completely 
+in the importance of access to home ownership. It is a wealth-
+building opportunity. And, yes, I do agree that the CFPB does 
+have these authorities.
+    You are correct. There has been research by the Urban 
+Institute. Fannie Mae, Freddie Mac have also both recently 
+found home appraisals systemically undervalue homes in majority 
+Black neighborhoods. And the CFPB, both under the Fair Housing 
+Act and the Equal Credit Opportunity Act, are able to cover the 
+appraisals as reflected by Federal regulatory guidance, which 
+dates back all the way to 1994.
+    Senator Warren. OK. I think what this says is the lender 
+cannot discriminate and then claim, ``AI made me do it.''
+    Ms. Koide. Absolutely.
+    Senator Warren. The lender remains legally responsible for 
+outcomes that violate the law. Is that right?
+    Ms. Koide. That is correct.
+    Senator Warren. OK. Similarly, the Equal Credit Opportunity 
+Act, which you just referenced, and its current law, says that 
+when lenders decide who gets credit and who does not, they 
+cannot discriminate on the basis of age, race, sex, national 
+origin, religion, family status, or use of public assistance. 
+And that is true whether they do it face to face or they do it 
+through AI.
+    So, Ms. Koide, has the CFPB identified other potential 
+violations of consumer protection laws involving AI?
+    Ms. Koide. So, again, the consumer protection laws are in 
+place and agnostic on whether or not it is a complex technology 
+that is being used or a human decision, and they do have the 
+authorities to take action around discriminatory behaviors as 
+such.
+    Senator Warren. OK. So in other words, the Bureau is saying 
+that if big banks like Wells Fargo, that they will be held 
+responsible if they use AI to cut costs, and as a result, end 
+up misleading consumers who are just trying to resolve a 
+dispute with the bank or ask for advice on some of the most 
+critical financial decisions of their lives. You know, good for 
+the CFPB. There is no AI exception to our consumer protection 
+laws.
+    So this is another example of why the CFPB's work is so 
+essential. Over the past 13 years, the CFPB has returned $17 
+billion directly to American families that have been cheated by 
+financial institutions, money that otherwise would have stayed 
+in the pockets of those Wall Street executives. I am proud of 
+the work that the CFPB has achieved, and I look forward to 
+working with my colleagues to support their work in the future.
+    Thank you, Mr. Chairman.
+    Chair Brown. Thank you, Senator Warren.
+    Senator Van Hollen, from Maryland, is recognized.
+    Senator Van Hollen. Thank you, Mr. Chairman. I thank all of 
+you for your testimony here today. And just focusing on my home 
+State of Maryland for now, we are the home to NIST, which many 
+have talked about as being a test bed for certain AI systems 
+before they are, quote, ``let out into the wild.'' So we are 
+very focused on that.
+    And the University of Maryland recently received a $20 
+million grant to investigate what trust in AI is all about. We 
+are obviously discussing very high-level principles, trust, 
+safety, trying to figure out a way to actually make those 
+concepts more particular through possible legislation down the 
+road. But it is important to begin to define those terms and 
+try to implement those terms. We also have a number of our 
+HBCUs that are involved in this important AI work.
+    Professor Wellman, I wanted to turn to an issue that you 
+raised in your comments about using AI to intentionally 
+manipulate markets. And you indicated that your research has 
+demonstrated the possibility of an AI independently learning to 
+manipulate a financial benchmark given only the objective of 
+seeking profit, right. So as I understand it, you tell the 
+program, we want to maximize profit. You have a sophisticated 
+system. It can go out and essentially accomplish that goal and 
+without necessarily any human intervention. Could you talk a 
+little bit more about that?
+    Mr. Wellman. Yes. Thank you. That is correct. Using a 
+technique called reinforcement learning, basically what the 
+system does is it tries a lot of different actions and it sees 
+what works. And if it will naturally stumble on actions that we 
+would consider manipulative as an effective way to make 
+profits. And we have demonstrated that could be made to work. 
+So it turns out, even if not only did they not instruct it, but 
+even if the developer of the AI did not want to manipulate, 
+having to make sure that they do not accidentally do something 
+that would constitute manipulation would be very hard to do.
+    Senator Van Hollen. Could you talk to a specific, just an 
+example of how an AI system might accomplish that manipulation?
+    Mr. Wellman. So, in benchmark manipulation, that happens 
+when the price of some asset is used to determine the value of 
+something else. And so by putting in orders or making trades 
+that would increase the price, say, of that benchmark, even if 
+you lose money in those trades you could make money because of 
+something else that is tied to that price. That is an example 
+of a benchmark manipulation, and it is something that is pretty 
+easy for an AI to figure out.
+    Senator Van Hollen. And what you are suggesting, at least, 
+I think, in your testimony, is that because a lot of our anti-
+fraud, anti-market manipulation statutes are built on intent, 
+human intent, that if someone simply programmed this to, say, 
+maximize profit without necessarily wanting it to manipulate 
+prices, there is a question about whether or not that 
+individual who let that system wild would be subject to 
+liability.
+    Mr. Wellman. My understanding from speaking with my law 
+school colleagues at the University of Michigan is that it is 
+at best unclear what the law would say about that.
+    Senator Van Hollen. I appreciate that. Is that Ms. Koide?
+    Ms. Koide. Koide.
+    Senator Van Hollen. And if you could bring your experience 
+to bear on answering that question. I mean, there are so many 
+issues with AI, and I appreciate the
+    Chairman getting us sort of started in this Committee on 
+this, but that is clearly one. Could you talk to your sense of 
+whether the laws need to be updated for that purpose?
+    Ms. Koide. Our focus, research, and expertise is more on 
+the retail, financial services, banking side. So I would yield 
+to my colleague on the market side.
+    Senator Van Hollen. OK. Thank you.
+    Mr. Gorfine. Thank you. And so I think the way that I look 
+at that is that model risk techniques should identify potential 
+risks. And this is an important risk that the professor is 
+identifying. So proper model building technique would then be 
+to build controls and governance to ensure that that form of 
+manipulation does not occur. It is an interesting question. If 
+someone blindly or willfully blindly tries to avoid building in 
+those controls, that sounds reckless to me. Now, I have not 
+looked specifically, would a reckless standard satisfy intent? 
+It seems to come very close.
+    So I think that is an important area to identify these 
+types of risks and make sure controls are built equally, so the 
+financial market regulators, CFTC, SEC, need to be upgrading 
+the market surveillance tools to be able to look for these new 
+forms of manipulation, because I think that is going to be 
+really important going forward.
+    Senator Van Hollen. Well, I appreciate that, and that is 
+actually why I started my comments by referencing NIST. Whether 
+it is NIST or some other entity, it is important to have, first 
+of all, some set of rules that apply to everybody and then some 
+capacity to measure whether or not a particular AI system is 
+complying with those rules and preventing the kind of outcomes 
+that we are talking about here. That is just one example. 
+Obviously, it is one in the financial sector. But thank you all 
+for your testimony.
+    Thank you, Mr. Chairman.
+    Chair Brown. Thanks, Senator Van Hollen. Thanks to the 
+three of you. Thanks, Ms. Koide, Professor Wellman, Mr. 
+Gorfine, for joining us today and your insight and your words. 
+For Senators who wish to submit questions for the record, those 
+questions are due 1 week from today, Wednesday, September 27th. 
+The witnesses will have 45 days to respond to any of those 
+questions. Thank you for that.
+    With that, the hearing is adjourned. Thank you.
+    [Whereupon, at 11:25 a.m., the hearing was adjourned.]
+    [Prepared statements and responses to written questions 
+supplied for the record follow:]
+               PREPARED STATEMENT OF CHAIR SHERROD BROWN
+    New technology in our financial system has done plenty of good for 
+Americans. The ATM gave people easier access to their own money.
+    The Internet simplified bill paying and gave people new ways to 
+access credit and save for the future.
+    The smartphone allows people to check their bank balance anywhere, 
+at any time.
+    But of course, technology has also done plenty of harm too.
+    Automation allowed high frequency trading that created the Flash 
+Crash and contributed to the 2008 financial crisis.
+    Automation allows consumers to send instant payments to each other 
+through peer-to-peer payment platforms.
+    But it also allows consumers to be defrauded and scammed out of 
+millions of dollars on these platforms.
+    Just this spring, social media fueled a bank run that crashed 
+Silicon Valley Bank--the second-largest bank failure in history.
+    Artificial intelligence could cause even bigger changes in our 
+financial system. We cannot sleepwalk into a major transformation of 
+our economy, and put Americans' money and financial futures at risk.
+    Increasingly, banks, brokers, and insurance companies are employing 
+AI to process data, decide who can get a loan, and tailor financial 
+products to customers.
+    With the advent of this new and potentially transformative 
+technology, we have a responsibility to assess what AI means not just 
+for our financial system, but for the American people.
+    AI is a tool, and we have the responsibility to set policies to 
+ensure that when and if this tool is used, it's used to make our 
+economy work better for consumers and savers--not to exploit them.
+    Today, this Committee will begin to examine current and future 
+applications of AI in our financial system.
+    And we will discuss how we can ensure that AI doesn't become 
+another way for Wall Street and Silicon Valley to supercharge existing 
+tools to rig the system for their benefit.
+    In an ideal world, new technologies can make us better off by 
+increasing productivity and making goods and services more affordable 
+and accessible.
+    Unfortunately, as history has shown, the benefits of technology are 
+often over-hyped, while the downsides do real damage to people's lives 
+and our society as a whole.
+    And the ones doing the over-hyping are generally big corporations--
+for example, the companies that mentioned AI over a thousand times 
+during their quarterly earnings calls in April and May. Those companies 
+stand to make a lot of money off the so-called ``efficiency'' that new 
+technology brings.
+    Of course, Wall Street's version of ``efficiency'' usually means 
+lower wages, fewer jobs, and less economic security for workers--and 
+higher profits for corporate America.
+    Go to Toledo, Ohio. Visit the picket line at the Jeep plant. Talk 
+to the workers I spoke with over the weekend. The CEO of Stellantis 
+makes 365 times what the company's average worker makes.
+    Workers have been the casualties of an ``inevitable march toward 
+progress'' too many times before.
+    And anyone who dares to question it gets mocked, called a Luddite.
+    With the emergence of AI, we have a responsibility to ensure this 
+technology is used--when it is used at all--to protect consumers and 
+savers, while promoting a fair and transparent economy that works for 
+middle-class Americans--rather than taking advantage of them.
+    At a minimum, the rules that apply to the rest of our financial 
+system should apply to these new technologies.
+    We need to make sure that our existing laws are used to protect 
+consumers. And if emerging technologies aren't covered by existing 
+rules on the books, then we must pass new ones, to create real 
+guardrails.
+    Companies are already using AI in the financial system.
+    Banks use algorithms and machine learning to make credit 
+underwriting decisions and allocate people's investments.
+    They automate trading.
+    Proponents of these technologies claim that they are making our 
+financial system fairer and less expensive, making financial services 
+more accessible, and of course, making it all more ``efficient.''
+    But we have to ask--efficient for whom?
+    Algorithmic trading has evolved over decades, with bigger and more 
+powerful computers processing billions of bytes of stock market data.
+    It's made a lot of people on Wall Street a lot of money--but it's 
+not clear it's done anything for our economy, other than speed up the 
+financialization that has done so much harm to workers.
+    We've already had to put in place guardrails, like stock market 
+circuit breakers, to prevent electronic trading programs from crashing 
+our markets.
+    Without guardrails and consumer protections, AI could just be a new 
+tool for Wall Street and Silicon Valley to swindle Americans out of 
+their savings, trap them in debt, and strip them of their financial 
+security.
+    And while some uses for AI--like automated credit underwriting and 
+algorithmic trading--have been in practice for years, what's known as 
+generative AI is creating new ways to remove human decision making from 
+financial services.
+    Those so-called ``advances'' make it harder to determine who is 
+accountable when things go wrong.
+    Look what's happening in consumer lending markets, where the AI 
+models used to determine borrowers' credit worthiness too often 
+automate and supercharge biases that exclude Black and Latino 
+Americans.
+    It's hard to eradicate discrimination when even the developers 
+can't explain how the models get to the decisions they make.
+    Instead of removing human biases from consumer lending markets, AI 
+data models bake the worst ills of our past into the cake--and disguise 
+it as impartiality.
+    Discrimination is discrimination, regardless of whether it comes 
+from a human or a machine.
+    Meanwhile, fraudsters are using cyberattacks and ``deepfake'' AI 
+technologies to deceive American savers.
+    I recently wrote to several banks and the CFPB about what steps 
+they are taking to address the alarming rise in deepfakes to fool voice 
+authentication security systems and scam consumers.
+    We have laws to deal with fraud, and those laws will be enforced 
+whether it is a human or machine defrauding Americans. But we may need 
+to go further to protect Americans.
+    We can't make these technologies safe for consumers and savers 
+without being honest with ourselves about their limitations.
+    With the wide availability and growing adoption of AI, we must also 
+be wary of unleashing untested technology into widespread public use.
+    Consumers should expect, and Congress must require, rigorous 
+testing and evaluation of AI models and programs before they are used 
+in the real world, where they can cause real harm.
+    None of this is to say that AI has no place at all in the economy. 
+But Americans have every right to be skeptical, particularly when it 
+comes to their finances.
+    We must ensure that innovation's benefits flow to all Americans--
+not just a handful of Silicon Valley billionaires and Wall Street 
+executives. We've seen it too many times before.
+    I think one thing my colleagues and I can agree on is that the 
+Silicon Valley ethos of move-fast-and-break-things is dangerous for 
+both our financial system and our entire economy.
+    I look forward to working with my colleagues to ensure that we end 
+up with AI technology that is well-tested, protects privacy, and 
+preserves civil rights and consumer protections.
+    And finally, I would like to thank Senator Rounds for his efforts 
+to help the entire Senate better understand the challenges and 
+opportunities posed by AI.
+                  PREPARED STATEMENT OF MELISSA KOIDE
+Director and CEO, FinRegLab, and Former Deputy Assistant Secretary for 
+              Consumer Policy, Department of the Treasury
+                           September 20, 2023
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+                  PREPARED STATEMENT OF DANIEL GORFINE
+   Founder and CEO, Gattaca Horizons, LLC; Adjunct Professor of Law, 
+ Georgetown University; and Former Chief Innovation Officer, Commodity 
+                       Futures Trading Commission
+                           September 20, 2023
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+                 PREPARED STATEMENT OF MICHAEL WELLMAN
+  Professor, Computer Science and Engineering, University of Michigan
+                           September 20, 2023
+    Chair Brown, Ranking Member Scott, and distinguished Members of the 
+Committee, it is a privilege to testify before you today. The 
+Committee's attention to artificial intelligence and its implications 
+for the financial system in particular is timely and important.
+    It seems that everyone is in an excited state these days about the 
+apparently rapid advances in artificial intelligence, and its potential 
+to solve big problems or create new ones. This excitement is warranted, 
+on both sides. AI promises to bring us extraordinary benefits through 
+new capabilities to expand knowledge and automate difficult tasks, and 
+by making a variety of valuable services accessible and affordable to 
+broad segments of our society. AI also threatens us with an array of 
+potentially negative consequences, including risks to security posed by 
+malicious exploitation of AI, risks to safety due to inadvertent AI 
+behaviors, and the risk of systemic disruption to the ways we work and 
+live. The promises and threats of AI pervade essentially every area of 
+our economy and society, including quite distinctly the financial 
+sector.
+    In my testimony this morning, I will focus on the nexus of AI and 
+Finance, and particularly on implications of advanced AI for financial 
+markets. I will aim to describe at a high level how AI is employed in 
+markets today, and convey a general sense of the possible implications 
+of the newest AI developments. Following some background on algorithmic 
+trading, I will focus on three areas where the latest AI technology may 
+bring some new considerations for security, efficiency, and fairness of 
+our capital markets.
+    Before getting into the substance, let me provide some background 
+on myself for context on where I am coming from. As noted in the 
+introduction, I am Professor and Chair of Computer Science & 
+Engineering at the University of Michigan. I earned my Ph.D. in 
+Artificial Intelligence from MIT in 1988. I have worked in the field as 
+an AI researcher ever since, first in the U.S. Air Force and for the 
+last 30+ years on the faculty at the University of Michigan. I am known 
+for research at the intersection of AI and economics, including 
+contributions to the field of autonomous agents and multiagent systems, 
+and applications to electronic commerce. I am a Fellow of the 
+Association for the Advancement of Artificial Intelligence (AAAI) and 
+of the Association for Computing Machinery (ACM). For the past dozen 
+years or so, my research has focused on understanding the implications 
+of AI for financial markets and the financial system. Regarding this 
+topic, I have served on advisory committees for the U.S. Treasury 
+Office of Financial Research (OFR), and the Financial Industry 
+Regulatory Authority (FINRA). All opinions expressed in this testimony 
+are my own, and not attributable to organizations I am or have been 
+employed by, received funding from, or provided advice to.
+    I would also like to preface my remarks with the necessary 
+qualifier that the future path of advanced AI is highly uncertain. If 
+somebody tells you they know where AI technology will be in 5 years or 
+10 years--or even next year--don't believe them. Technical 
+breakthroughs are inherently unpredictable, and AI has a particular 
+capacity to surprise. It has surprised us many times, including within 
+the last year by ChatGPT and its ilk. Even experts with the deepest 
+understanding of generative AI techniques such as large language models 
+(LLMs) were surprised at the quality and utility of results they can 
+produce. We are also sometimes surprised by limitations and weaknesses 
+of AI technology, or roadblocks to advancement. Either way, AI is 
+likely to keep surprising us.
+    Please also keep in mind that we have limited visibility into 
+developments that are already in the pipeline. There are likely 
+thousands of active projects aiming to harness the latest generative AI 
+advances in novel products and services. Startup companies, corporate 
+development teams, and public and private research labs around the 
+world are all exploring how to put generative AI to work. Many of these 
+will fail but some are likely to surprise us with new capabilities and 
+impactful use cases.
+    Under-the-radar development is actually the story of the deployment 
+of AI in financial markets up to now. In fact, AI is already widely 
+adopted in support of trading in markets, where it has had a 
+significant impact. The shift to electronic markets over the past few 
+decades has had many effects, notably on speed of reaction to 
+information. One effect has been to enable implementation of 
+algorithmic strategies developed using AI technology such as advanced 
+machine learning. Whereas the term ``algorithmic trading'' does not 
+necessarily entail that there is ``AI inside,'' it is surely the case 
+that developers of trading algorithms often employ cutting-edge AI 
+techniques. I would even go as far as to claim that algorithmic trading 
+represents the first widespread use of ``autonomous agents'' (i.e., AI 
+decision making without humans in the loop) in a high-stakes and 
+economically significant domain.
+    Gauging the exact extent and nature of AI employed in algorithmic 
+trading today is not possible, due to a lack of public information. 
+Trading firms do not publish information about their strategies, for 
+obvious proprietary reasons, and they also tend to be extremely 
+protective about information regarding broad approaches, technology 
+employed, data and information sources, and really everything about 
+their strategic methodology and operations. Nevertheless, there are 
+exceptions, and some information occasionally leaks out or is inferable 
+from hiring practices, technology investments, or market observations. 
+As a result, we can be quite confident about the high-level assessment 
+that use of cutting-edge AI for trading is pervasive in current 
+financial markets.
+    The opacity of state-of-the-art trading technology is itself one 
+source of risk. There exists a keen public interest in understanding 
+how various trading practices affect the fairness, efficiency, and 
+stability of financial markets. The need for open information on AI 
+trading strategy was a major motivation for my own group's research in 
+this area. I should emphasize that the goal of this research--by us or 
+others--is not to assess whether algorithmic trading in general is 
+beneficial or harmful to financial markets. The goal of the research is 
+to tease apart the practices and circumstances that help or hurt, and 
+further to identify market designs or regulations that promote the 
+beneficial practices and deter the harmful ones.
+    For example, we have found that algorithmic market making improves 
+efficiency and can be beneficial to those trading for investment, 
+particularly when markets are thin and the market makers are 
+competitive. In thick markets, though, algorithmic market making can 
+extract surplus from investors. Another issue that we have investigated 
+is ``latency arbitrage'': the deployment of practices that leverage 
+miniscule advantages in response time, measured in milliseconds or 
+microseconds, to extract profit from trades that would have happened 
+anyway. We and others have advocated for a mechanism called frequent 
+batch auctions, where markets clear at fixed intervals, such as every 
+half-second, rather than continuously, to short-circuit the latency 
+arms race, thus improving both fairness and efficiency.
+    Let me now move more specifically to some newer issues posed by the 
+latest AI developments.
+    The first issue is market manipulation. Practices that inject 
+misleading information about market conditions can seriously compromise 
+the transparency and thereby the fairness and efficiency of public 
+markets. Of course market manipulation is an old practice, but AI can 
+be more effective at achieving its manipulative purpose, with lower 
+cost and risk of detection. In response, sophisticated machine learning 
+techniques can also be used by market regulators for enhanced 
+surveillance, detection, and enforcement. This naturally sets up what 
+is called an ``adversarial learning'' situation, a kind of AI arms 
+race, between the detector and evader. An inherent feature of 
+adversarial learning is that any advance in detection technology can be 
+immediately exploited by the evader to improve its evasion. Where this 
+leads in any given situation is an open question. In our market 
+manipulation studies, we have found that evading detection also weakens 
+the manipulation, but whether that will always be the case we cannot be 
+sure.
+    What I have been discussing so far is the concern that malicious 
+parties could use AI intentionally to manipulate markets. It is also 
+possible that AI-developed trading algorithms could produce strategies 
+that employ manipulation or other harmful tactics, even if such 
+manipulation was not the specified objective. In fact, our research has 
+demonstrated the possibility of an AI independently learning to 
+manipulate a financial benchmark, given only the objective of seeking 
+profit. Are current regulations regarding market manipulation adequate 
+to handle such a situation? Much of the existing law depends on 
+``intent'' to manipulate, and how that would apply to an AI algorithm 
+that learned manipulation on its own is unclear.
+    This is just one example of what I call an ``AI loophole''. Our 
+existing laws, generally speaking, are written based on the assumption 
+that it is people who make decisions. When AIs are deciders, do our 
+laws adequately ensure accountability for those putting the AIs to 
+work?
+    The second issue is specific to the advances in language processing 
+exhibited by LLM-based systems like ChatGPT. Arguably, one of the 
+reasons that AI has been so successful in financial trading already is 
+that the interface to markets (streams of buy and sell orders) is so 
+simple. Text processing techniques based on machine learning have also 
+been employed in trading to some extent, but the new LLMs can 
+potentially take this to a new level. This opens up massive bodies of 
+human-generated information as material that can be traded on.
+    The new models also provide the capacity to generate text, thus 
+opening up new language channels for AI influence. With generative 
+capacity, systems can actively query humans to elicit information that 
+may not have been available otherwise. They can also use this channel 
+to inject misleading information, which brings us back to market 
+manipulation. Just as human manipulators employ social media in their 
+``pump-and-dump'' schemes, we should expect efforts to amplify such 
+messages using AI.
+    This manipulation concern is just a special case of the broader 
+problem of misinformation and fraud. In the wrong hands, AI can be 
+great technology for deploying scams. Of course, this issue is relevant 
+well beyond the financial domain.
+    The final issue I would like to raise today relates to how the new 
+AI technology obtains its power through training over massive datasets. 
+It appears that qualitative leaps in capability can come from large 
+scale source information. A corollary is that only entities with access 
+to such large bodies of information can produce AI systems with the 
+greatest performance. In the realm of financial trading, this could 
+mean that concentrations of information access and ownership could 
+convey extraordinary advantages. This naturally raises questions about 
+how trading on information aggregated at massive scale could affect 
+fairness and efficiency of our financial markets.
+    The three issues I have highlighted here are a few of the ways that 
+new AI technologies pose novel concerns for financial markets. AI also 
+offers the potential to protect market integrity and level the 
+investment playing field. Which effects predominate will be in large 
+part determined by how we reconsider market designs and governance 
+mechanisms for the world of AI-powered trading.
+    This concludes my prepared remarks. I am grateful for the 
+opportunity to present this perspective to the Committee and welcome 
+your questions.
+         RESPONSES TO WRITTEN QUESTIONS OF CHAIR BROWN
+                       FROM MELISSA KOIDE
+
+Q.1. Our country, unfortunately, has a long history of 
+discrimination in lending, from redlining to the Great 
+Recession where underserved communities were targeted for bad 
+mortgages. One of the many promises of AI is that it will 
+lessen or remove these human biases.
+    Ms. Koide, how can we ensure that AI does not replicate or 
+exacerbate the bias and discrimination in consumer lending?
+
+A.1. The quality and representativeness of the data being used 
+to train machine learning or other types of underwriting models 
+are critical first questions. As I noted in my original 
+testimony, many of the worst headlines concerning ML/AI 
+applications gone wrong relate to flaws in the nature or 
+treatment of underlying data, \1\ and many of the most 
+promising use cases of ML/AI for financial inclusion also hinge 
+in significant part on the ability to access new, more 
+inclusive data sources in conjunction with more sophisticated 
+analytical techniques. \2\ In particular, FinRegLab's prior 
+empirical study suggests bank account data could produce 
+significant improvements in credit underwriting because it is 
+available for a broader range of applicants and provides 
+insight into how applicants manage a broader range of finances 
+than traditional credit bureau information focusing primarily 
+on past credit payment history. \3\
+---------------------------------------------------------------------------
+     \1\ See, e.g., Gianluca Mauro and Hilke Schellmann, `` `There Is 
+No Standard': Investigation Finds AI Algorithms Objectify Women's 
+Bodies'', The Guardian (Feb. 8, 2023); Janus Rose, ``Facebook's New AI 
+System Has a `High Propensity' for Racism and Bias'', Vice (May 9, 
+2022); Leonardo Nicoletti and Dina Bass, ``Humans Are Biased and 
+Generative AI Is Even Worse'', Bloomberg (2023). Steve Lohr, ``Facial 
+Recognition Is Accurate, If You're a White Guy'', N.Y. Times (Feb. 9, 
+2018); Ed Yong, ``A Popular Algorithm Is No Better at Predicting Crimes 
+Than Random People'', The Atlantic (Jan. 17, 2018); Starre Vartan, 
+``Racial Bias Found in a Major Health Care Risk Algorithm'', Scientific 
+American (Oct. 24, 2019).
+     \2\ For discussion of the potential combination of new data 
+sources and ML/AI applications in credit underwriting, see FinRegLab, 
+``Machine Learning Market & Data Science Context Report'' 2.1.2. The 
+combination of more inclusive data sources and ML/AI applications also 
+holds promise in identity verification for purposes of other financial 
+products and services. Kathleen Yaworksy, et al., ``Unlocking the 
+Promise of (Big) Data To Promote Financial Inclusion'', Accion (2017).
+     \3\ FinRegLab, ``The Use of Cash-Flow Data in Underwriting Credit: 
+Market Context & Policy Analysis'' (2020); FinRegLab, ``The Use of 
+Cash-Flow Data in Underwriting Credit: Empirical Research Findings'' 
+(2019).
+---------------------------------------------------------------------------
+    In addition, regulatory steps to ensure that more 
+representative data of the underserved population is safely and 
+responsibly available will go a long way to ensure the AI/ML 
+tools--and even simple regression models--are less biased. This 
+includes completing the rules that implement section 1033 of 
+the Dodd-Frank Act in such a way that enables consumer 
+financial data to be used for building models that are more 
+representative and inclusive.
+    Careful human oversight of model development, validation, 
+and monitoring processes is also essential, particularly for 
+complex machine learning models that can be more challenging to 
+understand and manage than prior generations of automated 
+systems. Our research findings suggest that new explainability 
+techniques can provide reliable information about key aspects 
+of model behavior but that it is important to choose the right 
+tool for the particular ML model and task, deploy it in a 
+thoughtful way, and interpret the outputs with an understanding 
+of the underlying data. Similarly, while we found that new 
+automated approaches hold promise for identifying model 
+alternatives that reduce demographic disparities compared to 
+more traditional fair lending strategies, humans must play 
+critical oversight roles in applying the techniques, evaluating 
+and validating the alternatives produced, and continuing to 
+refine the toolkit for managing machine learning models.
+    Finally, as I noted in my testimony, it is also important 
+to emphasize that while filling information gaps and adopting 
+more predictive models could help substantial numbers of 
+consumers and small business owners access more affordable 
+credit, such actions will not by themselves erase longstanding 
+disparities in income and assets or recent hardships imposed by 
+the pandemic. These factors are likely to result in many 
+individual applicants being assessed as presenting significant 
+risk of default, which will continue to affect whether they are 
+granted credit and at what price. This underscores the 
+importance of using many initiatives and policy levers to 
+address the deep racial disparities in income and assets and 
+how our country responds to disasters. The financial system can 
+enhance its ability to provide fair and inclusive products and 
+services, but it cannot single handedly address these 
+cumulative and structural issues.
+
+Q.2. Models can be very different depending on which algorithms 
+they use, what data they are trained on, and many other 
+factors.
+    Ms. Koide, in light of this variability, what steps should 
+regulators take to ensure that they are using the correct 
+diagnostics and processes to evaluate AI tools--for example, 
+when checking for bias in models?
+
+A.2. The tools and techniques that we evaluated in our recent 
+research are potentially useful to regulators as well as 
+lenders in understanding the operation of particular machine 
+learning underwriting models. However, as I discussed in my 
+testimony, it is important to select the right tool for the 
+particular task and model in question. For both regulators and 
+lenders alike, articulating the critical qualities of 
+diagnostic tools and developing consistent methodologies to 
+assess their performance could help encourage the adoption of 
+best practices. Our research methodology in testing tools for 
+fidelity, consistency, and usability in different regulatory 
+contexts could be a useful starting point in thinking through 
+these questions.
+    Another key challenge for regulatory agencies is in 
+investing substantial human and technology resources and 
+engaging with a broad range of stakeholders--including not only 
+various types of financial services providers but other 
+technologists and regulators of other sectors--to keep up with 
+evolving technologies and market practices. These include not 
+only different explainability techniques--as well as 
+methodologies for testing and interpreting their outputs--but 
+also different ways of measuring fairness and reducing 
+disparities. Public research by regulators themselves could 
+also help agencies both equip their examiners and update their 
+guidance and policies.
+
+Q.3. What is disparate impact?
+
+A.3. Disparate impact prohibits lenders from using facially 
+neutral practices that have a disproportionately negative 
+effect on protected groups, unless those practices meet a 
+legitimate business need that cannot reasonably be achieved as 
+well through less discriminatory alternatives. The disparate 
+impact doctrine is sometimes described as an ``effects test'' 
+because it focuses on the effects of a process rather than its 
+intent. However, analyzing outcomes is only the first stage of 
+a disparate impact analysis, which then shifts to assessing 
+whether the practice furthers a legitimate business need (such 
+as predicting default risk) and whether there are alternative 
+criteria or processes that would reasonably achieve the same 
+goal while producing fewer disparities. In a courtroom setting, 
+the burden is on the challenger to show the existence of less 
+discriminatory alternatives, although lenders may perform all 
+three analyses as part of their compliance programs. \4\
+---------------------------------------------------------------------------
+     \4\ See, e.g., 12 CFR 1002, Supp. I; Consumer Financial 
+Protection Bureau, ``Supervision and Examination Manual: Equal Credit 
+Opportunity Act Baseline Modules (2019)'', 2; see also Patrice 
+Alexander Ficklin, ``Fair Notice on Fair Lending'', Consumer Finance 
+Protection Bureau (2012); Federal Deposit Insurance Corporation, 
+``Consumer Compliance Examination Manual IV-1.3 (2021)''; Federal 
+Agencies, ``Policy Statement on Discrimination in Lending'', 59-73 FR 
+(1994). The analysis is derived from employment law. See Griggs v. Duke 
+Power Co., 401 U.S. 424, 439 (1971); Reyes v. Waples Mobile Home Park 
+Ltd. P'ship, 903 F.3d 415, 424 (4th Cir. 2018).
+
+Q.4. Do disparate impact rules or standards require lenders to 
+lend to consumers that cannot afford a loan and will not be 
+---------------------------------------------------------------------------
+able to repay a loan?
+
+A.4. No, as noted above, the analysis focuses on whether there 
+are alternative underwriting criteria that would reasonably 
+achieve the same legitimate business need (such as predicting 
+default risk) while producing fewer disparities on the basis of 
+race, ethnicity, gender, age, or other protected 
+characteristics.
+    Machine learning techniques when combined with data that 
+are more representative and insightful of financial management/
+behavior offer the potential to develop credit underwriting 
+models that can accurately identify consumers and small 
+businesses who are creditworthy but difficult to assess using 
+traditional models and techniques because of limited credit 
+history.
+
+                              [all]

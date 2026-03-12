@@ -1,0 +1,2591 @@
+- MACHINES, ARTIFICIAL INTELLIGENCE, AND THE WORKFORCE: RECOVERING AND READYING OUR ECONOMY FOR THE FUTURE
+
+[House Hearing, 116 Congress]
+[From the U.S. Government Publishing Office]
+
+                   MACHINES, ARTIFICIAL INTELLIGENCE,
+                   AND THE WORKFORCE: RECOVERING AND
+                  READYING OUR ECONOMY FOR THE FUTURE
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                        COMMITTEE ON THE BUDGET
+                        HOUSE OF REPRESENTATIVES
+
+                     ONE HUNDRED SIXTEENTH CONGRESS
+
+                             SECOND SESSION
+                               __________
+
+          HEARING HELD IN WASHINGTON, D.C., SEPTEMBER 10, 2020
+                               __________
+
+                           Serial No. 116-30
+                               __________
+
+           Printed for the use of the Committee on the Budget
+
+                  [GRAPHIC NOT AVAILABLE IN TIFF FORMAT]           
+
+                       Available on the Internet:
+                            www.govinfo.gov                            
+                              ___________
+
+                    U.S. GOVERNMENT PUBLISHING OFFICE
+
+42-322                    WASHINGTON : 2021                             
+
+                        COMMITTEE ON THE BUDGET
+
+                  JOHN A. YARMUTH, Kentucky, Chairman
+SETH MOULTON, Massachusetts,         STEVE WOMACK, Arkansas,
+  Vice Chairman                        Ranking Member
+HAKEEM S. JEFFRIES, New York         ROB WOODALL, Georgia
+BRIAN HIGGINS, New York              BILL JOHNSON, Ohio,
+BRENDAN F. BOYLE, Pennsylvania         Vice Ranking Member
+ROSA L. DELAURO, Connecticut         JASON SMITH, Missouri
+LLOYD DOGGETT, Texas                 BILL FLORES, Texas
+DAVID E. PRICE, North Carolina       GEORGE HOLDING, North Carolina
+JANICE D. SCHAKOWSKY, Illinois       CHRIS STEWART, Utah
+DANIEL T. KILDEE, Michigan           RALPH NORMAN, South Carolina
+JIMMY PANETTA, California            KEVIN HERN, Oklahoma
+JOSEPH D. MORELLE, New York          CHIP ROY, Texas
+STEVEN HORSFORD, Nevada              DANIEL MEUSER, Pennsylvania
+ROBERT C. ``BOBBY'' SCOTT, Virginia  DAN CRENSHAW, Texas
+SHEILA JACKSON LEE, Texas            TIM BURCHETT, Tennessee
+BARBARA LEE, California              CHRIS JACOBS, New York
+PRAMILA JAYAPAL, Washington
+ILHAN OMAR, Minnesota
+ALBIO SIRES, New Jersey
+SCOTT H. PETERS, California
+JIM COOPER, Tennessee
+RO KHANNA, California
+
+                           Professional Staff
+
+                      Ellen Balis, Staff Director
+                  Becky Relic, Minority Staff Director
+                                CONTENTS
+
+                                                                   Page
+Hearing held in Washington, D.C., September 10, 2020.............     1
+
+    Hon. John A. Yarmuth, Chairman, Committee on the Budget......     1
+        Prepared statement of....................................     5
+    Hon. Steve Womack, Ranking Member, Committee on the Budget...     7
+        Prepared statement of....................................     9
+    Susan Athey, Ph.D., Economics of Technology Professor, 
+      Stanford Graduate School of Business, and Associate 
+      Director, Stanford Institute for Human-Centered Artificial 
+      Intelligence (Hai).........................................    13
+        Prepared statement of....................................    16
+    Daron Acemoglu, Ph.D., Institute Professor of Economics, 
+      Massachusetts Institute of Technology......................    38
+        Prepared statement of....................................    40
+    Darrell West, Ph.D., Vice President and Director of 
+      Governance Studies, Brookings Institution..................    49
+        Prepared statement of....................................    51
+    Jason Matheny, Ph.D., Founding Director, Center for Security 
+      and Emerging Technology at Georgetown University, and 
+      Commissioner, National Security Commission on Artificial 
+      Intelligence...............................................    58
+        Prepared statement of....................................    60
+    Hon. Sheila Jackson Lee, Member, Committee on the Budget, 
+      statement submitted for the record.........................    95
+
+                   MACHINES, ARTIFICIAL INTELLIGENCE,
+                  AND THE WORKFORCE: RECOVERING AND
+                  READYING OUR ECONOMY FOR THE FUTURE
+
+                              ----------                              
+
+                      THURSDAY, SEPTEMBER 10, 2020
+
+                          House of Representatives,
+                                   Committee on the Budget,
+                                                   Washington, D.C.
+    The Committee met, pursuant to notice, at 1:04 p.m., via 
+Webex, Hon. John A. Yarmuth [Chairman of the Committee] 
+presiding.
+    Present: Representatives Yarmuth, Boyle, Schakowsky, 
+Kildee, Panetta, Morelle, Scott, Jackson Lee, Sires, Khanna; 
+Womack, Woodall, Johnson, Flores, Hern, Burchett, and Jacobs.
+    Chairman Yarmuth. This hearing will come to order. Good 
+afternoon and welcome to the Budget Committee's hearing on 
+Machines, Artificial Intelligence, and the Workforce: 
+Recovering and Readying Our Economy for the Future.
+    Before we begin, I want to welcome the newest Member of the 
+Budget Committee, Chris Jacobs. Welcome, Chris. Before coming 
+to Congress, Chris was a New York State Senator, and the 
+Committee is happy to have you here.
+    Mr. Jacobs. Thank you.
+    Chairman Yarmuth. Now before I welcome our witnesses, I 
+will go over a few housekeeping matters.
+    At the outset, I ask unanimous consent that the Chair be 
+authorized to declare a recess at any time to address technical 
+difficulties that may arise with such remote proceedings.
+    Without objection, so ordered.
+    As a reminder, we are holding this hearing virtually in 
+compliance with the regulations for committee proceedings 
+pursuant to House Resolution 965. First consistent with 
+regulations, the Chair, or staff designated by the Chair, may 
+mute participants' microphones when they are not under 
+recognition for the purpose of eliminating inadvertent 
+background noise.
+    Members are responsible for unmuting themselves when they 
+seek recognition or when they are recognized for their five 
+minutes. We are not permitted to unmute Members unless they 
+explicitly request assistance. If I notice that you have not 
+unmuted yourself, I will ask you if you would like the staff to 
+unmute you. If you indicate approval by nodding, staff will 
+unmute your microphone. They will not unmute you under any 
+other circumstances.
+    Second, Members must have their cameras on throughout this 
+proceeding and must be visible on screen in order to be 
+recognized. As a reminder, Members may not participate in more 
+than one committee proceeding simultaneously. For those Members 
+not wanting to wear a mask, the House rules provide a way to 
+participate remotely from your office without being physically 
+present in the hearing room.
+    Now, I will introduce our witnesses.
+    This afternoon we will be hearing from Dr. Susan Athey, 
+Economics of Technology Professor at Stanford Graduate School 
+of Business, and Associate Director at the Stanford Institute 
+for Human Centered Artificial Intelligence.
+    Dr. Daron Acemoglu, Institute Professor of Economics at the 
+Massachusetts Institute of Technology.
+    Dr. Darrell West, Vice President and Director of Governance 
+Studies at the Brookings Institution.
+    And Dr. Jason Matheny, Director for the Center For Security 
+and Emerging Technology at Georgetown University and 
+Commissioner for the National Security Commission on Artificial 
+Intelligence, who I might add has just informed me he is from 
+Louisville, Kentucky, so we are especially glad to have him 
+here with us.
+    Thank you all for being with us today.
+    I will now yield myself five minutes for an opening 
+statement.
+    This year Labor Day felt different than previous years. 
+While most of us still honored our workers and celebrated their 
+vital contributions to our nation, especially our frontline 
+workers, we also recognize the hardships faced by millions of 
+laid off Americans and their families struggling to get by amid 
+global pandemic and the worst economic downturn since the Great 
+Depression.
+    Yet these twin crises have amplified problems that existed 
+long before the coronavirus: devastating healthcare inequities, 
+the loss of stable well-paying jobs, and stagnating wages. 
+While our economy has slowed, exacerbating these underlying 
+issues, technological change has marched on creating even more 
+challenges.
+    As we look to the future artificial intelligence, or AI, 
+has significant potential to disrupt the world. It presents 
+opportunities to improve lives, livelihoods, productivity, and 
+equality. However, it also poses serious risks of large scale 
+economic changes.
+    Today's hearing will help us ground our thinking in facts 
+and better prepare for this impending economic transition.
+    Like the arrival of the steam engine, electricity, and 
+computers, AI will reshape a broad swath of industries and 
+jobs. However, history shows us that while technological 
+advancements can create new jobs that increase productivity and 
+growth, these benefits have been paired with the elimination of 
+old jobs and increased inequality as some workers are left 
+behind.
+    Today we are losing jobs because the administration's 
+failed response to the pandemic and economic crisis, but as the 
+economy eventually recovers, workers may find it difficult to 
+get their job back as companies replace jobs with new AI 
+enabled automation.
+    So while advancements in AI technologies could create more 
+opportunities for workers with advanced education or 
+specialized skills, workers without these skills could see 
+fewer opportunities in the near future, and it is low and 
+middle waged jobs that are most at risk.
+    Since the mid-1980's, but prior to the pandemic, 88 percent 
+of middle skilled job losses associated with the automation of 
+routine tasks took place within 12 months of a recession. 
+Absent concerted efforts to foster inclusive recovery, AI and 
+automation could exacerbate income inequality, widen racial and 
+gender income gaps, and push more people into poverty when we 
+eventually emerge from this recession.
+    There is already a large and persistent racial wealth gap 
+in America. And since Black and Latino Americans are over 
+represented in occupations at high risk for automation, they 
+are disproportionately at risk of job and wage losses. 
+Additionally, there are 40 percent more women than men who work 
+in occupations at high risk for automation.
+    The Organization for Economic Cooperation and Development 
+estimates that AI and automation could eliminate upwards of 14 
+percent of today's jobs and disrupt an additional 32 percent.
+    Current AI technologies have also raised concerns around 
+replicating human biases and discrimination in algorithms. 
+Given the range of AI applications emerging in employment, 
+housing, healthcare, financial services, and criminal justice, 
+improved transparency and oversight are needed to ensure AI 
+tools do not replicate or expand discriminatory practices.
+    Just like previous technological breakthroughs, AI will 
+broadly impact the federal budget. Along with IT modernization, 
+AI can directly improve the efficiency and effectiveness of 
+government operations leading to savings.
+    With the industry set to generate additional economic 
+activity of up to $13 trillion worldwide by 2030, Federal R&D 
+investments will remain essential to U.S. leadership and 
+competitiveness in AI technology. However, the benefits will 
+only be available to all Americans if paired with strategic 
+investments to support our workforce through this impending 
+evolution.
+    The pandemic and economic crisis have already shown that 
+income security and related programs are crucial for supporting 
+Americans during challenging times. The shifting job landscape 
+expected with widespread AI implementation could further 
+demonstrate this need. This will require strong federal 
+investments and social programs and affordable healthcare, 
+childcare, and housing, as well as new approaches for 
+retraining and upskilling our workforce.
+    IBM estimates that between 2019 and 2022, more than 120 
+million workers in the world's 12 largest economies may need to 
+be retrained and reskilled as a result of AI-enabled 
+automation. If we fail to plan ahead, the underlying problems 
+illuminated by the pandemic and recession will continue to 
+create barriers to success for American workers.
+    We have a responsibility to get Americans through the COVID 
+crisis, but we also must address the long-term economic 
+challenges we know are coming. These issues are complicated and 
+nuanced, but that is why we are here today. With the help of 
+our expert witnesses, we can begin to chart a path forward that 
+leads to inclusive economic growth, broad social benefits, and 
+a better prepared workforce.
+    I look forward to learning more about the magnitude of the 
+potential changes to our economy and job market and the federal 
+policies that will be needed in response.
+    I now yield five minutes to the Ranking Member, Mr. Womack, 
+of Arkansas.
+    [The prepared statement of Chairman Yarmuth follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Womack. And I thank the Chairman for holding this 
+hearing and my thanks to the witnesses who will be with us 
+today.
+    I would like to also add my bit of welcome to Chris Jacobs, 
+the newest Member of the Committee, native of Buffalo, New 
+York. Long history of public service, Erie County clerk, state 
+Senator now joining us as a Member of Congress. This isn't his 
+first tour of duty at the Capitol. He began his career working 
+for former Congressman and Buffalo Bill quarterback Jack Kemp.
+    Chris, welcome to the Budget Committee. To your wife and 
+daughter, Martina and Anna, thank you for allowing your husband 
+and father to continue his public service career by spending 
+time in Washington with all of us. Chris, we welcome you to the 
+Committee.
+    We are here to talk about AI capabilities, both current and 
+future, and the impacts on the economy and the federal budget. 
+It is a critical technology to be sure that will benefit the 
+lives of many Americans and touch nearly every sector of the 
+U.S. economy. While it will likely change the way many jobs are 
+performed as technological advances have for many decades, we 
+must harness the capabilities of AI to help drive our economy 
+and society forward.
+    Congress has to ensure that its actions do not stifle 
+innovation, rather government should work in partnership with 
+the private sector to move our country forward in AI research 
+and development.
+    By making strategic federal investments in AI R&D, 
+Washington can help unleash America's pioneering and 
+entrepreneurial spirit. It also means creating a regulatory 
+environment that supports, not hinders, private industry by 
+allowing technological advancements to flourish in a safe, 
+trustworthy, and effective way. Congress should also move to 
+encourage more American high-tech manufacturing in general.
+    The U.S. currently relies on countries located in 
+geopolitical hot spots for many critical components and as the 
+coronavirus pandemic has shown with medical supplies, we need 
+to ensure we have reliable, secure, and diverse supply chains 
+for vital materials.
+    Now while this is an interesting, important topic, it 
+should not be the reason why the Budget Committee is convening 
+this afternoon, in my strong opinion.
+    The dire fiscal outlook--notably the recent deficit and 
+debt projections--and the discussion on how to tackle these 
+challenges should be the focus of today's Committee meeting. 
+Last week the Congressional Budget Office released its budget 
+outlook update, and let me tell you the findings are incredibly 
+sobering, but not surprising.
+    We did not do our job when this pandemic--before the 
+pandemic hit. This Committee is charged with writing a budget 
+to put our country on a responsible fiscal path, but we failed 
+in that duty. Once COVID hit, we were obligated to respond to 
+the crisis. For those of you who don't know, let me summarize 
+where our nation stands fiscally. And let me just warn you, it 
+isn't good.
+    The deficit for fiscal 2020 is protected to be $3.3 
+trillion, more than triple the previous year's deficit and by 
+far the highest in American history. Every single year for the 
+next 10 years, CBO is projecting that annual deficits will 
+exceed a trillion dollars and total $13 trillion over this 
+period.
+    The public debt is projected to be larger than the size of 
+the entire economy by next year, that is 104 percent of GDP, 
+and will continue to increase to more than $33 trillion by 
+fiscal 2030. That is 109 percent of projected GDP. Once again, 
+CBO confirmed the driver of the fiscal problem, federal 
+spending, particularly mandatory spending.
+    Mandatory spending, including interest payments on the debt 
+is expected to account for 75 percent of total federal spending 
+by 2030. And I don't need to be the guy to tell you, you 
+already know. That is squeezing resources for many 
+discretionary priorities. The job of this Committee is to write 
+a budget resolution that sets a fiscal path for the government 
+to follow. We didn't write one. We don't have one. Instead of 
+considering a budget resolution, we are talking about 
+artificial intelligence, which is, as I mentioned before, while 
+an interesting topic and an important topic, it is not the 
+mandate of this Committee.
+    The Democrat majority has neglected to do a budget 
+resolution for the past two years. CBO's projections illustrate 
+the necessity for the Democrat majority to do its job--write 
+and pass a budget resolution that provides a responsible, 
+fiscal framework to correct this current, fiscal trajectory.
+    With that, I look forward to hearing from our witnesses, 
+and always look forward to the discussion. Thank you, Mr. 
+Chairman.
+    I will yield back the balance of my time.
+    [The prepared statement of Steve Womack follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Womack. Chairman, you'll need to unmute, I think.
+    Chairman Yarmuth. Thank you. Should be up to that by now.
+    In the interest of time, once again, if any additional 
+Member has an opening statement, you may submit those 
+statements electronically to the Clerk for the record.
+    Once again, I want to thank our witnesses for being here 
+this afternoon. The Committee has received your written 
+statements and they will be made a part of the formal hearing 
+record. Each of you will have five minutes to give your oral 
+remarks. As a reminder, please unmute your microphone before 
+speaking.
+    I now introduce and yield five minutes to Dr. Susan Athey. 
+Please unmute your mike and begin when you are ready.
+
+   STATEMENTS OF SUSAN ATHEY, PH.D., ECONOMICS OF TECHNOLOGY 
+PROFESSOR, STANFORD GRADUATE SCHOOL OF BUSINESS, AND ASSOCIATE 
+  DIRECTOR, STANFORD INSTITUTE FOR HUMAN-CENTERED ARTIFICIAL 
+INTELLIGENCE (HAI); DARON ACEMOGLU, PH.D., INSTITUTE PROFESSOR 
+ OF ECONOMICS, MASSACHUSETTS INSTITUTE OF TECHNOLOGY; DARRELL 
+WEST, PH.D., VICE PRESIDENT AND DIRECTOR OF GOVERNANCE STUDIES, 
+BROOKINGS INSTITUTION; JASON MATHENY, PH.D., FOUNDING DIRECTOR, 
+   CENTER FOR SECURITY AND EMERGING TECHNOLOGY AT GEORGETOWN 
+ UNIVERSITY, AND COMMISSIONER, NATIONAL SECURITY COMMISSION ON 
+                    ARTIFICIAL INTELLIGENCE
+
+                STATEMENT OF SUSAN ATHEY, PH.D.
+
+    Dr. Athey. Hello, Chairman Yarmuth, Ranking Member Womack, 
+and Members of the Committee. Thank you so much for inviting me 
+to speak today.
+    Artificial intelligence seems to inspire extreme views. 
+Some focus on a future where robots take all the jobs, while 
+others point out that so far its effects on the economy are 
+barely detectable. My own view is that AI has enormous positive 
+potential for society and for the efficiency and finances of 
+government, and that governments and universities have a 
+crucial role to play in ensuring that the potential is 
+realized.
+    AI, of course, also creates challenges, contributing to an 
+era where workers transition more frequently and require more 
+reskilling throughout their careers. So we need to ensure that 
+our institutions are prepared to meet this reality, especially 
+in light of the many fiscal and labor market challenges created 
+by an aging population and workforce. But when R&D is directed 
+at technology that augments human workers and support citizens 
+in their lives and health, we may be able to expand the 
+circumstances in which people engage in rewarding work while 
+experiencing a high-quality of life in areas with a more 
+moderate cost of living.
+    Some of the most promising areas where technology can be 
+part of the solution include education, training, remote work, 
+medicine, and government services. In each case, digital 
+technology powered by AI can be used to make services cheaper 
+to provide, higher quality, more tailored to the individual 
+need, and substantially more accessible and convenient.
+    The accessibility matters particularly to people with 
+limited time, like working people with caregiving 
+responsibilities and especially rural residents who face a dual 
+burden of high transportation costs and insufficient density to 
+support specialized services and job opportunities in their 
+local communities.
+    One reason the potential is so great for these problems is 
+that digitization and the adoption of AI can lead to low 
+marginal cost scalable and thus more efficient services.
+    Digitization and AI are inextricably linked to measurement 
+and optimization, which naturally improves the accountability 
+and effectiveness of the organizations who adopt them, 
+including the government. In addition, general trends that have 
+led to the rapid diffusion of AI relate to the lowered fixed 
+cost in time required to adopt it.
+    One trend is just a digitization of everything from 
+consumer interactions to supply chains. That creation of data 
+is what powers and makes possible AI to be an optimization. The 
+way IT is implemented has also changed. Cloud computing allows 
+companies to rent computing as they need it rather than buy 
+allowing infrastructure to be shared across firms and that 
+reduces cost.
+    Software as a service lets companies subscribe to services 
+and purchase the best products use case by use case and that 
+software as a service then can also make available AI and 
+machine learning innovation without firms having to do that R&D 
+themselves.
+    Finally, we have seen a big expansion of open source 
+software and, in general, data management analytics tools are 
+widely available. They are shared across firms and across 
+academia, and thus diffuse very quickly. The latest machine 
+learning algorithms are typically free. For example, for my 
+class we used algorithms that we downloaded that were trained 
+using Facebook's image data setting computing infrastructure 
+allowing the students to move on to the analytics on top of the 
+image recognition.
+    The reason that firms are willing to share those types of 
+algorithms is that it is customer relationships and data, as 
+well as know-how to optimize the algorithms at large scale that 
+give companies their competitive advantage.
+    And the general purpose technologies in algorithms have 
+actually been fairly widely available. That means the cost of 
+developing services is reduced as these general purpose 
+innovation from academia and for-profit organizations can be 
+repurposed by entrepreneurs, governments, and social impact 
+organizations.
+    Now an important precursor to a policy discussion is 
+demystifying the technology. In practice, rather than sort of 
+general intelligence, most of what we have seen in the past 15 
+years can be thought of as more automation on steroids. For 
+software, automation is like following prespecified rules 
+without real-time human direction, but the latest innovations 
+have concerned implementing automation using decision rules 
+that are learned from past data using machine learning.
+    And a common example of machine learning and algorithm 
+might take as input a digital photo and output a guess of what 
+animal is in the photo.
+    Traditionally, analysts had to do a lot of manual work to 
+customize the statistical models so the models were simplified, 
+but modern machine learning allows the analyst to just feed in 
+raw data and the algorithm does a lot of work to determine what 
+is important for the task. This makes things general purpose, 
+but the fact that they are general purpose also means they are 
+black boxed and sometimes even the engineers building them 
+don't understand them. Thus we need a lot more research and 
+best practices to make sure that this technology is implemented 
+safely and without unintended consequences.
+    Just to close, machine learning is diffusing across the 
+economy use case by use case, but in most cases, this has led 
+to an incremental innovation and incremental changes over time 
+rather than sudden shifts.
+    So I look forward to continuing the discussion in the 
+question and answer. Thank you.
+    [The prepared statement of Susan Athey follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Chairman Yarmuth. Thank you for your testimony.
+    I now recognize Dr. Acemoglu for five minutes. Please 
+unmute and the floor is yours.
+
+               STATEMENT OF DARON ACEMOGLU, PH.D.
+
+    Dr. Acemoglu. Chairman Yarmuth, Ranking Member Womack, and 
+Members of the Committee, thank you for inviting me to testify 
+on this important subject.
+    The U.S. economy today and U.S. workers are suffering from 
+what I view as excessive automation. The extent of automation 
+is excessive in that it is not leading to sufficient 
+productivity growth, creating new tasks for humans or 
+increasing wages.
+    Automation, the substitution of machines and algorithms for 
+tasks previously performed by labor, is nothing new. It has 
+often been an engine of economic growth, but in the past, for 
+example, during the year of the mechanization of agriculture, 
+it was part of a broad technology portfolio and its potentially 
+negative effects on labor were counterbalanced by other 
+technologies. Not today.
+    Recent advances in AI and machine learning are not 
+responsible for these trends. In fact, AI, a broad 
+technological platform with great promise, can be used for 
+helping human productivity in creating new human tasks. But it 
+could exacerbate the same trends if we use it just for 
+automation.
+    The COVID-19 pandemic will also contribute to this 
+predicament as there are now more reasons for employers to look 
+for ways of substituting machines for workers and recent 
+evidence suggests that they are already doing so.
+    Excessive automation has already been a major drag for the 
+U.S. economy. Private sector spending on workers, which 
+increased steadily and rapidly almost every year in the four 
+decades following World War II, has been essentially stagnant 
+over the last 20 years. The decline in the share of labor in 
+national income, the stagnation of middle class wages, and a 
+huge increase in inequality are all connected to our recent 
+unbalanced technology portfolio prioritizing automation and not 
+much else.
+    Excessive automation is not an inexorable development. It 
+is a result of choices and we can make different choices. While 
+there is no consensus on exactly what brought us to this state, 
+we know of a number of factors that have encouraged greater 
+automation. Chief among these has been the transformation in 
+the technology strategies of leading companies.
+    American and world technology is shaped by the decisions of 
+a handful of very large and very successful tech companies with 
+tiny workforces and business models centered on the 
+substitution of algorithms for humans.
+    There is, of course, nothing wrong with successful 
+companies pushing their vision, but when this becomes the only 
+game in town, we have to watch out. Past technological 
+successes have often been fueled by a diversity of perspectives 
+and approaches. The dominance of the paradigm of a handful of 
+companies has been exacerbated by the dwindling support of the 
+U.S. Government for fundamental research. The transformative 
+technologies over the 20th century, such as antibiotics, 
+sensors, modern engines, and the internet have the fingerprints 
+of the government all over them. The government funded and 
+purchased these technologies and often set the agenda, but no 
+longer.
+    Last but not least, government policies encouraging 
+automation excessively through its tax code. The U.S. tax 
+system has always treated capital more favorably than labor. My 
+own research estimates that over the last 40 years, via payroll 
+and federal income taxes, labor has paid an effective tax rate 
+of over 25 percent.
+    Even 20 years ago, capital was taxed more lightly, with 
+equipment and software facing tax rates around 15 percent. This 
+differential has significantly widened with tax cuts on high 
+incomes, the shifts of many businesses to S-Corporation status 
+that are exempt from corporate income taxes, and very generous 
+depreciation allowances.
+    Software and equipment are now taxed at about 5 percent, 
+and in some cases corporations can get a net subsidy when they 
+invest in capital. This generates a powerful motive for 
+excessive automation. One result of this has been the 
+disappearance of good jobs, especially for workers without 
+postgraduate degrees or very specialized skills.
+    The only way to alter this technology is to redirect 
+technological change. That will require changes in federal 
+policy. A first step would be to correct the asymmetric 
+taxation of capital and labor. This would go a long way, but is 
+not sufficient by itself.
+    A second step is to re-evaluate the role of big tech 
+companies in our lives, including in the direction of 
+technology. This, of course, goes beyond debates about 
+automation and AI as it relates to the issue of limiting the 
+size and dominance of big tech.
+    These measures can be strengthened with government R&D 
+policies specifically targeting technologies that help human 
+productivity and increase labor demand. Research policies that 
+target specific classes of technologies are rightly 
+controversial. They may be particularly challenging in the 
+context of choosing between automation and human-friendly 
+technologies since identifying these is nontrivial.
+    Nevertheless, I would like to end my comments by 
+emphasizing that such policies have been adopted and have had 
+successes in the past. Four decades ago, renewable energy was 
+prohibitively expensive and the basic know-how for green 
+technology was lacking. Today, renewables already make up 19 
+percent of energy consumption in Europe and 11 percent in the 
+United States, and have costs in the ballpark of fossil fuel 
+based energy. This has been achieved thanks to a redirection of 
+technological change away from a singular focus on fossil fuels 
+toward greater efforts for advances in renewables.
+    In the U.S., the primary driver of this redirection has 
+been the government subsidies to green technologies, as well as 
+the changing norms of consumers in society. The same can be 
+done for the balance between automation and human-friendly 
+technologies.
+    Thank you.
+    [The prepared statement of Daron Acemoglu follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Chairman Yarmuth. Thank you very much for your testimony.
+    I now recognize Dr. West for five minutes.
+
+                STATEMENT OF DARRELL WEST, PH.D.
+
+    Dr. West. Chairman Yarmuth, Ranking Member Womack, and 
+Members of the Committee, thanks for the opportunity to 
+testify. I am coauthor with Brookings' president, John Allen, 
+of a new AI book entitled, ``Turning Point: Policymaking in the 
+Era of Artificial Intelligence.'' And I also am the co-editor 
+of the Brookings technology policy blog Tech Tank and 
+coproducer of the Tech Tank Podcast.
+    In my testimony, I am going to argue that artificial 
+intelligence is one of the transformative technologies of our 
+time and likely to have major ramifications for the workforce. 
+AI is being deployed in a number of different sectors, and its 
+usage will accelerate in coming years. Its development is going 
+to necessitate rethinking our policies in the areas of 
+budgeting, infrastructure, healthcare, education, workforce 
+development, and economic development.
+    As AI and other emerging technologies become widely 
+deployed, there are several possible ramifications for the 
+workforce--job loss, job dislocation, job redefinition, job 
+mismatch, and job churn.
+    For example, there could be job losses in entry level 
+positions as firms automate routine tasks. There can be 
+geographical dislocations as positions migrate to urban 
+population centers and there can be job churn as people move 
+from company to company.
+    In an economy where benefits are tied to full-time 
+employment, any increase in job churn will create instability 
+in people's ability to maintain income and benefits.
+    Most of the issues noted above have grown worse with the 
+advent of COVID-19. The pandemic has revealed stark inequities 
+in access to online education, telemedicine, and opportunities 
+for remote work. As an illustration, African Americans are far 
+less likely than Whites to access online educational resources, 
+but far more likely to suffer from the coronavirus.
+    It is hard to estimate the precise impact of technology 
+innovation on the federal budget because there is so many 
+ramifications for government revenues and expenses. But one 
+thing that appears clear is we are going to need greater 
+investment by both the private and the public sectors.
+    One area is digital infrastructure. Right now there are 
+around 18 million Americans who lack sufficient access to the 
+internet. You need an online connection to apply for many jobs. 
+A number of people do not have the connectivity required for 
+online education, telemedicine, and remote work. So it is vital 
+that we close that gap so that all can benefit from the digital 
+economy.
+    The emerging economy presents challenges with respect to 
+ensuring health and retirement benefits. Any increases in 
+unemployment or people having part-time jobs will create some 
+hardships. In today's digital world, workers need benefit 
+portability to survive a turbulent working environment.
+    Organizations need to shorten their vesting periods for 
+people to become eligible for company retirement contributions. 
+Right now many organizations do not vest employees until they 
+have worked at the firm for one or two years, and if there is 
+increased joblessness, lengthy vesting periods will lead to 
+shortfalls in retirement income.
+    In the world of rapid change it is imperative that people 
+engage in lifelong learning. The traditional model in which 
+people focused their learning on the years before age 25 and 
+then get a job and devote little attention to education 
+thereafter is becoming obsolete. In the contemporary world, 
+people can expect to see whole sectors disrupted and they will 
+need to develop additional skills. The type of work that people 
+do at age 30 is going to be very different from what they will 
+be doing at ages 40, 50, and 60.
+    One possibility to encourage continuing education is 
+through the establishment of lifelong learning accounts. They 
+would be analogous to individual retirement accounts or state 
+government-run 529 college savings plans, but the owners of the 
+account could draw on that account to finance online learning, 
+certificate programs, or job retraining expenses.
+    As America deploys AI and moves to a digital economy, its 
+two coasts have fared much better economically than the 
+heartland. According to research by my Brookings colleague, 
+senior fellow Mark Moro, only about 15 percent of American 
+counties generate 64 percent of GDP. Far too many parts of the 
+United States are being left behind. One way to address this is 
+through regional innovation districts. These are public-private 
+partnerships that boost innovation in heartland cities. And the 
+districts include regulatory relief, tax benefits, workforce 
+development, and infrastructure.
+    To summarize, it is crucial to think proactively as tech 
+changes unfold. The longer we wait, the more painful the 
+transition will be. Now is the time to start having the 
+discussions required to make meaningful changes. And I applaud 
+the Committee for providing a platform for this important 
+conversation.
+    [The prepared statement of Darrell West follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Chairman Yarmuth. Thank you, Dr. West, for your testimony.
+    I now recognize Dr. Matheny from Louisville, Kentucky.
+
+               STATEMENT OF JASON MATHENY , PH.D.
+
+    Dr. Matheny. Thank you, Chairman Yarmuth, thank you Ranking 
+Member Womack, and Members of the Committee. And thanks also to 
+my colleagues at the Center for Security and Emerging 
+Technology at Georgetown whose research I will be drawing from 
+today.
+    AI is a general purpose technology with a broad range of 
+applications in healthcare, agriculture, energy, 
+transportation, national security, and scientific discovery. 
+Advances in AI are likely to be applied across many sectors of 
+the economy spurring growth and enabling new technologies. 
+Policies to strengthen U.S. leadership in AI have enjoyed 
+bipartisan support, at least during the decade that I have 
+worked on the topic.
+    I worked on AI strategies for both the current 
+administration and the last administration, and there are more 
+similarities than there are differences. Both administrations 
+emphasize the points that I will make here today and each had a 
+positive outlook on the potential for AI to improve American 
+health and prosperity.
+    As Michael Kratsios, the U.S. chief technology officer 
+recently said, our future rests on getting AI right. AI will 
+support the jobs of the future. Jason Furman, the previous 
+chair of the Council of Economic Advisers in the last 
+administration said that his biggest worry about AI is that we 
+do not have enough of AI.
+    So while AI will cause changes to the labor market, this 
+has been true of every technology since the industrial 
+revolution and this country has adapted. I believe we will 
+adapt to AI and will be helped by more economic research on the 
+likely effects of AI and automation on the labor force. And by 
+benchmarking to assess progress in various applications of AI.
+    The United States is in a strong position globally. By most 
+measures, we lead the world in AI and our lead is key--is due 
+to key structural advantages. We have an open society that 
+attracts the world's top scientists and engineers. The National 
+Science Foundation shows that over the half of the master's and 
+Ph.D.-level computer scientists who are employed in the United 
+States were born abroad. We have a competitive private sector 
+that spurs innovation, and we maintain strong international 
+partnerships.
+    While the U.S. alone funds only 28 percent of global R&D, 
+with our allies we fund more than half. We should double down 
+on these strengths. We should ensure that we remain an 
+attractive destination for global talent by broadening and 
+accelerating the pathways to permanent residency for scientists 
+and engineers. Most research suggests that increases in high 
+skilled immigration yield increases in jobs and wages for 
+Americans due to immigrants' contributions to economic growth 
+and the creation of new companies.
+    We should also ensure that small and mid-sized businesses 
+have access to the computing power needed for AI applications. 
+We can leverage the purchasing power of the federal government 
+to buy commercial cloud computing credits in the private market 
+and award them through federal grants and contracts 
+competitively as the National Science Foundation has done 
+through its cloud bank program. We should also strengthen our 
+alliances and foster the responsible use of AI through 
+organizations, such as the Global Partnership on AI, of which 
+the United States is a founding member.
+    China has made extraordinary technological progress in 
+recent decades and its future prospects should not be 
+underestimated, but U.S. policy should be based on an 
+appreciation of the strengths that have driven our leadership 
+in AI thus far and how they can be leveraged in the future.
+    While our private sector leads in AI, the federal 
+government plays a key supporting role. Federal research 
+funding laid the foundation for the current wave of AI 
+progress. Federal funding should continue to focus on areas 
+where the private sector is likely to underinvest. That 
+includes basic research, safety and security, testing and 
+evaluation, and verification and validation.
+    The National Institute of Standards and Technology should 
+be given the resources needed to lead interagency and public-
+private collaborations on AI testing and evaluation, including 
+establishment of a national AI test bed: A digital platform 
+containing public and nonpublic data sets, code, and testing 
+environments on which AI systems from industry, academia, and 
+the government can be developed, stored, and tested.
+    Fourth and last, the United States should ensure that it 
+has access to leading edge microelectronics. This country is 
+the birthplace of microelectronics and we continue to design 
+most of the world's leading edge systems, but most devices are 
+now manufactured elsewhere.
+    Offshoring most of our semiconductor industry has increased 
+the risk of supply chain disruptions during crises. The United 
+States should strengthen U.S. based semiconductor manufacturing 
+to reduce supply chain risks and to increase the number of 
+high-quality jobs at home.
+    At the same time, we should work with our allies to ensure 
+that democracies remain at the leading edge of microelectronics 
+by investing in joint research programs and by enforcing 
+multilateral export controls on the manufacturing equipment 
+needed to produce advanced chips.
+    The United States and our allies produce more than 90 
+percent of this equipment, so we are in a particularly strong 
+position. Legislation, such as the bipartisan proposals for the 
+CHIPS for America Act and the American Foundries Act can help 
+maintain that position.
+    With these four points on the benefits of AI as a general 
+purpose technology, the sources of U.S. leadership in AI, the 
+federal government's role in supporting the private sector, and 
+the importance of microelectronics, I thank the Committee for 
+the opportunity to speak with you today, and I look forward to 
+your questions.
+    [The prepared statement of Jason Matheny follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Chairman Yarmuth. Thank you for your testimony.
+    Once again, I thank all the witnesses for those statements.
+    We will now begin our Q&A session.
+    As a reminder, Members can submit questions to be answered 
+later in writing. Those questions and their responses will be 
+made part of the formal hearing record. Any Members who wish to 
+submit questions for the record may do so by sending them to 
+the Clerk electronically within seven days.
+    As we usually do, the Ranking Member and I will hold our 
+question periods till the end.
+    So I now yield five minutes to the gentleman from 
+Pennsylvania, Mr. Boyle.
+    Mr. Boyle. Thank you. I hope you can hear me OK, Mr. 
+Chairman.
+    All right.
+    Chairman Yarmuth. Yes.
+    Mr. Boyle. Thank you.
+    So whoever said this in the very beginning was right, that 
+no topic, perhaps more--while exciting some people, I would 
+say, inspires more fear, consternation/paranoia than AI. So all 
+of the presentations were very interesting. I want to go back, 
+though, to a point that was made very early on by one of the 
+witnesses because something that I learned, certainly today if 
+you look at our tax code, we treat capital and labor very 
+differently and certainly make it much more attractive for 
+capital versus labor.
+    I didn't realize that that is not just been a recent 
+tendency, which was always my impression, but one of the 
+witnesses stated that that goes back a ways.
+    So I was wondering what any of the witnesses would think 
+about constructive ways that we could bring equality to our tax 
+code, ideas like treating capital gains as ordinary income. 
+There is a discussion right now obviously, perhaps started 
+unintentionally by the President in terms of the use of the 
+payroll tax for funding Social Security and Medicare.
+    I am curious about these ideas because as my line of 
+questioning probably suggests, I am certainly one who thinks 
+that, at the very least, labor and capital should be treated 
+equally in our tax code and we shouldn't have our thumb on the 
+scale, which in my view we heavily do in treating capital more 
+favorably and thus making it actually more attractive for 
+companies to replace the McDonald's worker with the touch 
+screen that I now use--I am advertising my bad eating habits, 
+but--that now we have at so many of our fast food restaurants.
+    So I will open that up to any of the witnesses and 
+certainly any ideas or proposals you would have, and if you 
+agree with my view that capital and labor should be treated 
+more equally in our tax code.
+
+    Chairman Yarmuth. Who wants to take that? Dr. Acemoglu.
+    Unmute, please.
+    Dr. Acemoglu. OK. Yes. Somehow I was muting and unmuting 
+and muting myself at the same time. Thanks for that question.
+    Yes, I was the one who talked about the taxation of capital 
+and labor and it is a complex topic. Economists actually 
+differ, in all full disclosure. There are some economists who 
+passionately think that capital should be taxed at the very low 
+rate or not at all, but I think in the age of automation, the 
+asymmetric treatment of capital and labor in the tax code has a 
+lot of costs.
+    If you live in a world where every piece of capital needs 
+to be combined with some human operators, there are still 
+problems with asymmetric treatment of capital and labor, 
+certainly distributional consequences, but there is a better 
+case that increased demand for capital equipment is going to 
+trickle down to workers.
+    But during our current era where automation is so prevalent 
+from the McDonald's checkout kiosks, to customer service, to 
+machinery, numerically controlled machinery, robots and 
+algorithms everywhere, I think the asymmetric treatment of 
+capital and labor does create more severe problems.
+    Now if that wanted to be reversed, for example, going back 
+to the 1980's or the 1990's when capital and labor were still 
+treated asymmetrically, but the gap was smaller, you know, a 
+couple of items would help a lot. For example, reversing the 
+very generous depreciation allowances which were often 
+introduced during recessionary times as temporary measures and 
+then weren't completely reversed later. That would be a very 
+major step.
+    Then there is also the issue of, you know, why we have 
+corporations that choose their own tax status, S-corporations 
+versus C-Corporations, and that has changed a lot over recent 
+decades.
+    And often that is a way of reducing the tax base for 
+capital through some sort of tax arbitrage and I think that is 
+something that needs to be followed through especially since 
+Ranking Member Womack said this Committee is going to look for 
+ways of increasing tax revenues.
+    And exactly like you have expressed, Representative Boyle, 
+one has to also consider the taxation of capital gains and 
+other items.
+    If you wanted to go on the other side, there has been a 
+long line of argument in economics going back several decades 
+that payroll taxes are particularly problematic. And in the 
+United States that is actually a very important part of the 
+taxes that labor faces, but, of course, I recognize that right 
+now, with the budget deficit, makes more sense to think of, you 
+know, creating that symmetry by increasing the taxation of 
+capital especially broadening the tax base for capital rather 
+than eliminating taxes, but certainly payroll taxes are 
+something to think about in the future as well.
+    Thank you.
+    Chairman Yarmuth. All right. The gentleman's time is 
+expired.
+    I now recognize the gentleman from Georgia, Mr. Woodall, 
+for five minutes. Is Mr. Woodall on? Unmute if you are on. Not 
+answering. Well, then, I will recognize the gentleman from 
+Ohio, Mr. Johnson for five minutes.
+    Mr. Johnson. Well, thank you, Mr. Chairman. And I 
+appreciate you holding this hearing today and many thanks to 
+our witnesses too.
+    I am in my car, so I apologize if things are jumping 
+around, but I am an IT guy. I was in undergraduate and graduate 
+school in the late 1970's, early 1980's when AI first came on 
+the horizon. And today there is no doubt, we all know it, 
+technology spans every sector of our economy.
+    Investments and emerging technologies, such as AI, 
+blockchain, and the internet of things have the exciting 
+potential to drastically improve our economy, national 
+security, and our very way of life through greater efficiency, 
+increased global competitiveness, and creating countless other 
+applications.
+    In addition to domestic uses for AI, the Department of 
+Defense has been developing and utilizing AI applications for a 
+range of military capabilities, including intelligence 
+collection and analysis, cyber and information operations, 
+logistics, command and control and also for semi or fully 
+autonomous vehicles, but we all know, the United States is not 
+the only country developing AI capabilities.
+    China, in particular, is investing billions in AI. It is 
+imperative to our national security that the United States 
+continues to be the leader in developing AI and other emerging 
+technologies. However, China resorts to stealing innovation or 
+subsidizing state-owned enterprises. This is not the role of 
+America's federal government, nor should it be given the 
+innovative spirit of the American people and the exciting 
+advances in technology already occurring right here at home.
+    Rather it is imperative that our federal government enable 
+the private sector to flourish by removing barriers to 
+innovation, something that President Trump and his 
+Administration has taken important steps to do so.
+    And supporting private sector research and development 
+collaboratively through strategic federal investments in 
+agencies such as the National Institute of Standards and 
+Technology.
+    So I am very pleased to have introduced H.R. 6940, the 
+Advancing Tech Startups Act, which is part of a larger public 
+energy and tech agenda to create policies that foster American 
+innovation, secure our supply chains, and protect American 
+consumers.
+    Specifically, my legislation promotes a national strategy 
+for encouraging more tech focused startups and small businesses 
+in all parts of the United States. It is vital to our national 
+security to reduce our reliance on other countries, such as 
+China. And as I have stated, we don't need to rely on any other 
+country. We should, once again, tap into American ingenuity and 
+unleash the American innovation and entrepreneurship that we 
+are famous for.
+    So Dr. Matheny, some suggest that the United States may be 
+at risk of falling behind in AI development. For example, some 
+experts predict China could in the near future surpass the U.S. 
+and take the lead in AI development. In your opinion, where 
+does the U.S. currently stand globally on AI? Are we leading 
+the way or falling behind?
+    Dr. Matheny. Thank you, Congressman Johnson. I think that 
+the U.S. has a strong lead, but that we can maintain it by 
+drawing on our structural advantages compared to China.
+    First, most scientists and engineers in the world weren't 
+born in either the U.S. or China, and many more of those 
+scientists and engineers would prefer to work and live in the 
+United States than they would like to live or work in China. 
+That is a great advantage to the United States.
+    High-skilled immigration was key to our victory during 
+World War II and during the cold war. We were simply able to 
+get more scientists and engineers on our side to win.
+    Second, as we do have a more competitive private sector 
+and, sir, I think your efforts to empower small businesses 
+where there is so much innovation is really key to our success.
+    Thank you.
+    Mr. Johnson. OK. Are there some actions that we, in 
+Congress, can take or do we need to do more to maintain our 
+global competitive edge in AI, especially given where China's 
+going and the major investments that are in place?
+    Dr. Matheny. I think there are two things that I would 
+emphasize. The first is just how important our immigration 
+policy is to allowing us to lead globally given that this is 
+one of the asymmetric strengths that the United States has 
+compares to China.
+    And the second is our lead in microelectronics. It would be 
+very difficult for China to match us if we play our cards 
+right. We shouldn't rest on our laurels, but if we pursue 
+policies that strengthen our semiconductor industry while also 
+placing the appropriate controls on the manufacturing equipment 
+that China doesn't have and that China currently doesn't have 
+the ability to produce itself and is probably a decade away 
+from being able to produce itself, we will be in a very strong 
+position.
+    Thank you.
+    Mr. Johnson. OK, well, thanks. Mr. Chairman, I yield back.
+    Chairman Yarmuth. The gentleman's time is expired.
+    And I now recognize the gentlewoman from Illinois, Ms. 
+Schakowsky, for five minutes.
+    Ms. Schakowsky. Thank you, Mr. Chairman, and thanks to our 
+witnesses.
+    So technology has certainly addressed some of the isolation 
+problems that people have felt during the pandemic, and look 
+how we are communicating today, so there has been a lot of 
+important changes that technology and opportunities that 
+technology has provided for us, but even before the pandemic, I 
+think there were many, many consumers that reported feelings of 
+helplessness when it comes to with respect to the digital 
+economy.
+    You know, on my subcommittee in Energy and Commerce, which 
+is the Consumer Protection Subcommittee, we have talked a lot 
+about technology and its ups and downs, and we know that big 
+tech has actually allowed fraud and fake news and fake reviews 
+and counterfeit and stolen products that are thriving on their 
+platforms.
+    And we have talked about--they come in and talk about self-
+regulation, and I think it is pretty clear that we need--that 
+that isn't working very well.
+    But here is the other question. They ask about consumers 
+are concerned about privacy. So Dr. West, I want to ask you. A 
+functioning AI needs data, but we also need to protect consumer 
+privacy.
+    So in your view, what are the main issues related to 
+consumer privacy and control and ownership of data that we need 
+to consider through as we think through the use of AI 
+technology?
+    Dr. West. Thank you, Congresswoman, for that question. It 
+is a great question. Privacy is very important to consumers. 
+You can look at any set of public opinion surveys and that 
+often ranks very high on the list next to security.
+    The problem with our current approach to policy at the 
+national level is it is mainly based on what is called notice 
+and consent. Like when you download software or even install an 
+ad, you get this 20-page document that nobody reads and at the 
+bottom, if you want to use the app, you basically have to agree 
+to it.
+    Nobody reads these. We did a national public opinion survey 
+and basically found that that to be the case. So my Brookings 
+colleague Cam Kerry has been doing a lot of work on thinking 
+about new privacy legislation and what he proposes is basically 
+get rid of the notice and consent because it is not effective 
+in protecting peoples' privacy and basically holding companies 
+responsible for their data sharing practices.
+    Improving transparency so consumers know more about what is 
+going on, improve everybody's sense of how--what kind of data 
+practices are being deployed.
+    I mean, there are all sorts of geolocation features that 
+are now built-in to apps. Like if you check the weather, 
+basically the weather app is localized to you so there is a 
+geolocation feature there, there is all sorts of privacy 
+problems that get developed there. So basically we suggest a 
+greater accountability for companies.
+    California, of course, at the state level has adopted a 
+much tougher law than what we have had nationally. We really 
+encourage Congress to embrace the issue of privacy at the 
+national level. We don't want to end up in a situation where 
+there are 50 different privacy laws. I mean, that creates havoc 
+for the tech companies, makes it difficult for them to 
+innovate. We need a national privacy law that can really 
+address the concerns that consumers have.
+    Ms. Schakowsky. Thank you.
+    In the remaining time that I have, I wanted to really ask 
+any of you who wanted to comment on this. You know that AI is 
+used in policing, in social work, in banking, in healthcare, 
+and we also know that this is a time of racial reckoning in 
+this country, disparities that we see, and we had a hearing in 
+my subcommittee on the issue of discrimination built into 
+algorithms, built into our technology, built into AI.
+    And I wanted to just ask whoever to talk about how we can 
+ensure that there is accountability to make sure that there is 
+not the kind of built-in bias that discriminates against many 
+in our population?
+    Someone grab this.
+    Chairman Yarmuth. Anyone want to handle that real quickly?
+    Dr. Athey. I can speak quickly. I think that we have to 
+consider what the algorithms are replacing, and in some cases 
+they are replacing human decisions, which have perhaps a 
+different set of biases sometimes driven by the fact that the 
+humans are using less information or don't have a full view of 
+someone's circumstance like in resume screening being too 
+superficial.
+    So in principal, when well-designed, when training data is 
+carefully selected and when best practices are used, actually 
+digitization can improve the situation and reduce bias, but it 
+has to be done well and it has to be done carefully.
+    So I believe that we need more research, we need more best 
+practices, and whenever they are used in government situations 
+or regulated situations, we do need to include accountability 
+and ongoing monitoring in order to make sure there are no 
+unintended consequences.
+    Often engineers themselves don't understand the source of 
+the problem and they won't look for it unless they are asked 
+to, but they also like to use best practices if those are 
+delineated and available. And so this is partly just a 
+maturation of the industry and a maturation of the best 
+practices.
+    So I am long-term optimistic, but we have to do the hard 
+work to make it improve things rather than make them worse.
+    Ms. Schakowsky. Thank you so much.
+    I yield back.
+    Chairman Yarmuth. The gentlewoman's time is expired.
+    And I yield five minutes to the gentleman from Georgia, Mr. 
+Woodall.
+    Mr. Woodall. Thank you, Mr. Chairman, for giving me a 
+second chance. You have always been gracious in that way.
+    Chairman Yarmuth. Of course.
+    Mr. Woodall. Mr. Matheny, I wanted to thank you for 
+mentioning the stability in national AI policy between the two 
+administrations that you have had an opportunity to serve. We 
+tend to focus on the chaos, which I think leads to less 
+confidence as opposed to the leaders in the room who are 
+working hand-in-hand administration to administration.
+    Could you talk a little bit about that? We are about to 
+come up on another major election. Do you anticipate that 
+stability in policy continuing whether it is into a second term 
+of the Trump Administration or the first term of a Biden 
+Administration?
+    Dr. Matheny. Thank you, Congressman Woodall. I would expect 
+there to be continuity in the U.S. strategy on AI. I think 
+there really has been a bipartisan consensus that I have seen 
+and a lot of continuity at the Office of Science and Technology 
+policy, in particular, which I think has done a great job both 
+in the last administration and in this administration 
+continuing much of the strategic work that was laid out.
+    Michael Kratsios and Lynn Parker, in particular, at the 
+office had been outstanding in coordinating the interagency. 
+They led a smart and ambitious AI strategy, which I hope to see 
+continued. It is, I think, one of the best cases of bipartisan 
+coordination around a key technology topic.
+    Thank you.
+    Mr. Woodall. I very much appreciate that.
+    Dr. Athey, you mentioned not just in your response to Ms. 
+Schakowsky, but also in your opening statement a need to be 
+aware of unintended consequences.
+    Are there particular unintended consequences that weigh on 
+you in your work or is that just a general admonition as we 
+plow new ground?
+    Dr. Athey. Well, I think maybe one--one answer relates back 
+also to the question about labor versus capital and excessive 
+automation. In general, firms are going to be thinking 
+primarily about their bottom line and they are often short-
+term.
+    So it is going to be--you know, a firm might be indifferent 
+between a worker and a machine from a cost perspective and if 
+they are indifferent they will go with the machine. But, of 
+course, from society's perspective, we care about the jobs and 
+we care about the people and we care about their transitions.
+    So we do want to think about how are we investing in this 
+R&D generally. We can't always count on companies to take the 
+longer term perspective and our national innovation strategy 
+and R&D strategy can, in principal, develop this general 
+purpose technology in a way that focuses more on augmentation 
+of humans.
+    So one thing about this general purpose technology is that 
+somebody makes better AI and then lots of people adopt it. And 
+so if somebody makes AI that helps replace humans, lots of 
+other people can copy it. But if universities or a particular 
+company or government invests in AI that augments humans, it is 
+also the case that that can diffuse.
+    So I think that we can--we need to be intentional about our 
+strategies and recognize the places where we as a society care 
+about the direction of technological innovation so that it 
+pushes more and makes it cheaper and easier for the private 
+sector to then pick up augmenting technologies.
+    A second thing that I worry a lot about is just that the 
+most recent innovation has been in black box technology. It is 
+powerful in general purpose because it does the work for you.
+    An engineer who doesn't know anything about a domain can 
+plop down modern machine learning and the machine learning will 
+spit something out, but if it is just applied without a 
+context, without domain experts, without ethical experts or 
+legal experts or people who are thinking about your national 
+security consequences, we might end up in dangerous situations.
+    And so actually like the privacy and security issues, I 
+think, are especially concerning when we realize that all of us 
+are being observed and monitored sort of 24/7 by our phones and 
+by everything that we do as it all gets digitized. That can 
+create national security issues in that somebody always does 
+something wrong, so we are available for blackmail.
+    And we are also going to see in the future, because it is 
+so easy and cheap, a lot more worker monitoring, which can be 
+good for safety. We can make sure people are driving safely. We 
+can make sure truck drivers aren't asleep. We can make sure 
+that workers aren't going to be injured on an assembly line if 
+we use video to monitor them.
+    But, again, we are creating this massive corpus of 
+information about people. And we also need to make sure that 
+that information is applied in a fair way and for benefit 
+rather than being exploiting in various ways.
+    Mr. Woodall. Mr. Chairman, I know Dr. Acemoglu referenced 
+companies that were doing it wrong. I hope as this hearing 
+continues we will have an opportunity to talk about some of 
+those companies that are doing it right so that we can benefit 
+from that experience.
+    I yield back, Mr. Chairman.
+    Chairman Yarmuth. Absolutely. I will make sure we do that.
+    Thank you, Mr. Woodall.
+    I now recognize the gentleman from Michigan, Mr. Kildee, 
+for five minutes.
+    Mr. Kildee. Well, first of all, thank you, Mr. Chairman. I 
+assume you can hear me OK?
+    Chairman Yarmuth. We can.
+    Mr. Kildee. I very much appreciate you holding this 
+hearing. It is a very interesting and, I think, obviously very 
+important topic.
+    I represent an area that has seen a pretty drastic drop in 
+manufacturing jobs over the last 30 or so years. Often, and 
+almost exclusively, attributed to trade policy. And while trade 
+has clearly contributed to the loss of manufacturing jobs in my 
+region of East Central Michigan, Flint, Saginaw, Bay City area, 
+clearly technology has played a pretty significant role in that 
+job loss. We have gone from, in my hometown, of about 80,000 
+direct manufacturing employees in the auto sector to something 
+around 10,000 right now; but we still produce about half the 
+cars that we used to produce.
+    So that technology disruption obviously has had a pretty 
+dramatic impact on my community, and now we are trying to 
+imagine and you are thinking and researching about how AI may 
+have that same disruptive effect. So I am curious about any 
+thoughts that any of you have about the pace of development of 
+AI as it relates to manufacturing and specifically around the 
+production of automobiles. I know this might require some 
+speculation, but I think it is really important that we engage 
+in that speculation.
+    And I am particularly interested, Dr. West, your references 
+to the work of Mark Moro, I have a past relationship with 
+Brookings and did a lot of work around this space, particularly 
+around communities being left behind.
+    So I am curious if, maybe starting with you, Dr. West, but 
+others might comment on those two aspects: The pace of these 
+trends as they might relate to heavy manufacturing, 
+particularly the auto sector, and then any thoughts you have on 
+compensating interventions that we can deal with that might add 
+to the way we typically deal with trade disruption through 
+trade adjustment assistance, or something like that, how we 
+might think about support for those communities that are being 
+disproportionately impacted by these trends.
+    So maybe starting with Dr. West.
+    Dr. West. Thank you, Congressman.
+    I do worry about job losses, and manufacturing is one of 
+the areas where there is already a lot of automation and AI 
+that is being introduced, and we fully expect that to 
+accelerate.
+    When you look around the world, there are countries that 
+have almost fully automated factories right now where it is 
+basically a bunch of robots driven by AI technology and a 
+handful of humans just monitoring the computer control panels.
+    But it is not just manufacturing. Finance is going to be 
+disrupted. The retail sector, Amazon already has opened a 
+number of stores with basically no retail clerks. They 
+basically use computer vision to see what you have put in your 
+bag or, you know, what it is that you are purchasing, and they 
+automatically charge you as you are exiting it. So there 
+certainly is going to be, I believe, an acceleration of job 
+losses.
+    And in terms of the geographic thing, the thing I would 
+worry about here is if you look at venture capital investment, 
+three-quarters of it now is going into New York, California, 
+and Massachusetts. So, if anything, the geographical inequity 
+is going to accelerate. Already, you know, much of the high 
+tech industry is centered on the East Coast and West Coast and 
+a few metropolitan areas in between, but much of the country is 
+being left behind. My Brookings' colleagues in our Metro 
+Program have done a lot of work on this. This is very 
+worrisome. It creates political anger. People get upset. They 
+feel the system is rigged. They feel like they are being left 
+behind.
+    So we do need to think about public policies that will 
+address the geographic aspects. Now, one positive development 
+is the growing tendency to move toward remote work. It turns 
+out you no longer have to live in Seattle or San Francisco or 
+Boston or New York in order to work for these tech companies.
+    In fact, you know, the real estate is growing so expensive 
+in those areas that they are kind of pricing a lot of employees 
+out of that market. So they are starting to rely more on remote 
+work and telework, and so I think public policy can contribute 
+to that.
+    There is a rural digital divide where people living in the 
+country have less access to broadband and less access to high-
+speed broadband. They are less able to take advantage of these 
+remote work things. So Congress should definitely invest in 
+infrastructure, development in the broadband area just to 
+reduce that digital divide so that, as companies start to move 
+to telework and remote work, everybody can take advantage of 
+that, including people living in the heartland.
+    Mr. Kildee. Thank you. It is a fascinating subject. I look 
+forward to pursuing it further.
+    My time has expired, so I yield back. Thank you, Mr. 
+Chairman.
+    Chairman Yarmuth. I thank the gentleman. The gentleman's 
+time has expired.
+    I now recognize the gentleman from Texas, Mr. Flores, for 
+five minutes.
+    Mr. Flores. Thank you, Chairman Yarmuth, and I appreciate 
+you holding this informative hearing today.
+    I want to note something that you said at the beginning, 
+that the government moves at 10 miles an hour when the rest of 
+the economy is moving at 100 miles an hour, and I will talk 
+about that in a minute.
+    I personally am excited about the opportunities that AI 
+brings moving forward. I know that several people are 
+apprehensive about it, but I think that we as policymakers need 
+to be excited about it.
+    A couple of things I want to comment on before I go on to 
+my questions. Number one is, I think that there has been a lot 
+of discussion about R&D, and I think one of the essential roles 
+of the federal government is robust investment in basic 
+research and development, and I say this from the perspective 
+that I represent two large tier 1 research and education 
+institutions and also have a great high tech footprint in 
+several parts of my district that rely on that, and those 
+discoveries that come out of the search for basic knowledge 
+from basic R&D.
+    The second thing is I think we as policymakers need to be 
+very careful about trying to get into adjusting the mix of 
+capital versus labor because, as you said early on, Chairman 
+Yarmuth, the government moves slowly, and I think we as 
+policymakers could wind up being well behind where the economy 
+is if we are not careful with that.
+    I would like to thank all of the witnesses for 
+participating. Dr. Matheny, I have a couple of questions for 
+you. As we are all aware, Taiwan through its TSMC Foundry is a 
+leading semiconductor manufacturer for many countries, and 
+particularly we in the U.S. rely on them for AI development.
+    The first question is this: Does the U.S. rely too heavily 
+on other countries for AI development, and what can the U.S. do 
+to put less of this reliance on other countries?
+    Dr. Matheny. Thank you. Thank you, Congressman Flores. And, 
+first, thanks also for your emphasis on research. I think one 
+of the most exciting opportunities is for AI to be applied to 
+research itself, to accelerate science and engineering. I think 
+some of the more exciting demonstrations that we have seen on 
+this include DeepMind's use of AI to solve protein folding 
+problems, which are really important for biomedical research. 
+So I hope we will see more of that in ways that can expand the 
+economy and produce jobs.
+    To your very good question about Taiwan Semiconductor 
+Manufacturing Corporation. I think the U.S. does rely too much 
+on imported semiconductors, which introduces at least three 
+risks.
+    The first is that our dependence on manufacturing in Taiwan 
+means that we have a supply chain that could be disrupted by a 
+conflict with China.
+    The second is that Taiwan is vulnerable to having its 
+workforce and its IP poached because of its proximity to China.
+    And third is we risk having our own know-how vanish in a 
+key industry the more we import.
+    I think Intel's recent announcement that they were 
+considering outsourcing their most advanced manufacturing, 
+which would be really the only U.S. based advanced 
+manufacturing of semiconductors, is extremely worrying. So I 
+think it is prudent to reshore some semiconductor manufacturing 
+to the United States, particularly the leading edge chips that 
+are used to power many of the AI applications that will be 
+valuable in the future.
+    And beyond the security benefits, this would also create 
+new manufacturing jobs for Americans.
+    Thank you.
+    Mr. Flores. Thank you.
+    You know what, you actually answered the second part of my 
+question that talked about the economic and national security 
+threats that exist if we rely on other regions and other 
+countries. Let me ask a second question.
+    As you are aware AI development requires talented workers 
+with particular skill sets. In order for the U.S. to continue 
+leading the way in AI development, it is critical that we 
+continue to develop domestic talent in addition to attracting 
+talent from abroad.
+    When you answered Mr. Johnson's question a minute ago, you 
+talked about attracting the best talent from abroad. What 
+policy recommendations do you have to ensure that the U.S. 
+successfully cultivates a domestic talent supply for AI?
+    And, for instance, talk in particular about what the 
+education system will look like for that group of persons.
+    Dr. Matheny. Thank you for asking the question.
+    My sister is a school teacher and a great one, so I have a 
+deep sympathy for school teachers who are trying to teach 
+computer science and mathematics. These are difficult topics to 
+teach, but we need to find ways of teaching more of our 
+students the strong math skills that they are going to need.
+    Mathematics is really the discipline that is most useful to 
+succeeding in AI. And we simply need to find better ways of 
+teaching math to our students and finding ways to teach more of 
+it.
+    We also need to address the AI labor needs that aren't in 
+research and development. I know discussions around tech talent 
+often center around the scarcest and most educated parts of the 
+workforce; but a critical talent gap also sits in skilled 
+labor, and for our skilled labor to compete globally, it will 
+need help from technology.
+    China enjoys a manufacturing advantage due to its vast 
+workforce, which is about 11 times the size of the U.S. 
+manufacturing workforce. But despite its larger size, the 
+Chinese manufacturing sector only produces about twice the 
+amount of value-adds. So the average U.S. manufacturing worker 
+is about six times as productive as the average Chinese 
+manufacturing worker.
+    So reshoring manufacturing will require that we both 
+increase the parts of our labor force while also increasing the 
+productivity per worker, which is going to have to be achieved 
+through both training and technology. One example is cobots, 
+robotic systems that complement human workers in order to 
+increase their productivity per person.
+    Thank you.
+    Mr. Flores. OK. Thank you, Dr. Matheny. And my time has 
+expired.
+    Chairman Yarmuth. The gentlemen's time has expired.
+    I now recognize the gentleman from California, Mr. Panetta, 
+for five minutes.
+    Mr. Panetta. Great. Thank you, Mr. Chairman. I appreciate 
+this hearing, appreciate this opportunity, Ranking Member 
+Womack. I apologize if my connection is spotty, but I have two 
+daughters learning remotely, sucking up a lot of the bandwidth. 
+I guess it would be in more ways than one, not just virtually 
+but mentally for their parents; but that is a whole other 
+story.
+    Let me just say I appreciate this opportunity to have this 
+type of hearing, especially when it comes to the risks of 
+automation for workers, especially for those jobs where 
+automation only provides a marginal cost in productivity 
+benefit over the human worker.
+    Now, I think we all sort of agree that we need to focus on 
+these workers and how such changes will affect them, but we 
+need to be very careful not to discourage automation or 
+technological progress because I think all of us agree that 
+automation and, yes, AI hold tremendous promise when it comes 
+to improving our lives and our economy.
+    Now, it can also eliminate, as we know, some very tedious 
+tasks so that workers can focus on being more productive, and 
+it does lower prices for consumers, improving our daily lives, 
+and raising the standard of living for low-income families. So 
+because automation has that ability to increase worker 
+productivity, it is our responsibility to ensure that workers 
+benefit from their increased value.
+    But taxing or otherwise disincentivizing automation I don't 
+think saves jobs, and I do think it will make our economy less 
+nimble and risk us falling further behind our competitors, like 
+China.
+    And that is why I believe we need to continue to invest in 
+automation and cutting edge technology like artificial 
+intelligence. That is why we should continue to keep the U.S. 
+competitive in these areas for the sake of our security.
+    And yet if the successes in these areas do lead to 
+displacement, it is our responsibility to help those workers, 
+and we should be prepared to support those workers, rethinking 
+our social safety net, how we retrain those workers, bolstering 
+their workers' rights, strengthening collective bargaining for 
+higher wages and job security so that the productivity 
+increases.
+    That also means we need to study how workers can best 
+complement automation and artificial intelligence, but we 
+should not, we should not shy away from these fundamental 
+challenges by stunting progress and protections for our 
+national, economic, and food security.
+    Now, here on the Central Coast, when it comes to food 
+security, we live up to our jobs, we live up to our 
+responsibilities. We have a lot of farms, farmers, and farm 
+workers. And as Dan Kildee will tell you, I live in the salad 
+bowl of the world because of it. We have a lot of specialty 
+crops that cannot be harvested like traditional row crops in 
+the Midwest, concerning corn, soy, and wheat. We have crops 
+where human discernment as to what is a ripe, safe, and 
+aesthetically pleasing product is really difficult to replace.
+    But our ag workforce is very necessary right now. 
+Unfortunately, though, it is an age thing and it is shrinking. 
+And the pandemic is highlighting not just how valuable that 
+workforce is but how vulnerable they are.
+    Now, obviously, it is a two-prong solution. Yes, one is 
+immigration reform, looking at the Farm Workforce Modernization 
+Act that passed out of the House this year. The other, though, 
+is investment in specialty crop mechanization, dealing with how 
+you can harvest those types of very difficult to harvest crops.
+    Now, obviously, the private industry is working more to 
+develop these technologies and to fulfill that labor gap, but I 
+believe the federal government has a critical role to play in 
+helping oversee and scale up these investments, if I may say 
+so.
+    Now my first question, Dr. Athey, is as we develop these 
+types of technologies to save labor, to save our food security, 
+what steps do you think are necessary to protect existing farm 
+workers and for them to transition and adapt to these new types 
+of existing circumstances?
+    Dr. Athey. Thank you for that question.
+    I believe that historically we have not really done the 
+greatest job in dealing with displaced workers in general. In 
+economics class we teach about, you know, all of the benefits 
+from trade and, you know, more efficient production of 
+products; but then as a society we forget about that second 
+step where you actually get the redistribution done and deal 
+with the consequences.
+    But where I am optimistic is that I think we have a lot 
+more tools at our disposal now to reach people, to use data to 
+figure out what is the best next step for a worker, what types 
+of up-skilling will actually work for a person in this 
+circumstance. And that in turn can help people feel comfortable 
+in the investment because, of course, for a worker to take 
+their scarce time and invest in trying to acquire a skill, they 
+need to have confidence that if they do make that effort and 
+take that scarce time and money, they will be able to use that 
+to get a new job.
+    And so I think we have just had services in the past that 
+haven't really responded to the individual worker, to the 
+individual worker's circumstance, and then provided them with 
+effective training and relocation services.
+    But I believe that we can do better. I am collaborating 
+with a project in Rhode Island working with the state 
+government to try to improve both the data to evaluate training 
+programs and as well try to help workers to have better 
+information for making choices. And I think that with 
+technology and data we can do better, and we can also reduce 
+the cost of delivery by bringing services to people remotely in 
+their homes at a time that is convenient for them, so they 
+don't have to get in their car, they don't have to hire a 
+babysitter and, you know, sacrifice income in order to receive 
+the training that they need.
+    So I am optimistic about the future, but we have to be 
+intentional about it, and we actually have to execute and 
+follow through on those types of promises.
+    Mr. Panetta. Agreed. Thank you, Doctor.
+    Thank you, Mr. Chairman. I yield back.
+    Chairman Yarmuth. The gentleman's time has expired.
+    I now recognize the gentleman from Oklahoma, Mr. Hern, for 
+five minutes.
+    Unmute. Mr. Hern, unmute. Oh, you need to be helped?
+    Mr. Hern. I did it twice. It is good. OK. We are good 
+again.
+    Chairman Yarmuth. There you go.
+    Mr. Hern. Thank you, Chairman, Ranking Member Womack, for 
+holding this important hearing today, and thanks to all of our 
+witnesses for being her today. This is a topic that I find 
+quite fascinating, being an engineer myself.
+    Unfortunately, due to the unforeseen spread of a particular 
+virus from China, economic growth has been stunted, and so this 
+really gets to be a real exacerbated issue right now that it is 
+up to us really to fix.
+    The U.S. economy has been forced--it is force built by hard 
+working, first starting Americans, and we only move forward as 
+a country if we continue to support innovation and encourage 
+workers to get back into the workforce.
+    AI can act as a great catalyst to both needs, and the U.S. 
+Government should create a regulatory environment which enables 
+growth and innovation, rather than creating hurdles to both, if 
+we want and would like to beat China and others in this space 
+as our own available workforce declines.
+    My question now is--there has been many answers to the 
+questions that I had; but one of the witnesses really is pretty 
+fascinating as we get into it. We talked a lot about the 
+technical aspects of this.
+    But, Dr. Athey, let's just talk about the workforce. There 
+has been a lot of talk about workforce replacement, but we 
+haven't talked at all about the lack of workforce. And for the 
+first time in at least a generation government figures show a 
+larger of open jobs than people out of work. Obviously, this 
+was pre COVID, but it was only six months ago. And certainly a 
+lot of us, probably all of us, hope we get back there very 
+quickly.
+    And part of that problem is demographics, labor and market 
+growth. The U.S. birth rate has been falling and is at a 30-
+year low, and simultaneously baby boomers are hitting 
+retirement age, a big force behind the falling number of 
+unemployed. Some would argue it is the real problem of our 
+Medicare issues and our Social Security issues. We don't have 
+enough people working to fund those programs, along with the 
+aging population.
+    In fact, McKinsey Global Institute research on the 
+automation potential of the global economy focuses on 46 
+countries representing about 80 percent of the global workforce 
+and has examined more than 2,000 work activities and quantified 
+the technical feasibility of automating each of them. But the 
+proportion of occupations that can be fully automated using 
+current technology is actually pretty small, only about 5 
+percent.
+    And if you could speak to that AI as our workforce 
+continues and declines and our need for consumption grows, I 
+would like to get what your thoughts are on policies--and I am 
+being flippant in this; but, you know, if you go back to the 
+McKinsey group, it forces higher fertility and prevent us all 
+from getting older, which are two driving forces. And while 
+that is ridiculous, you can't, there is at least one--and I 
+would like to piggyback off on my colleague from California 
+when he talks about immigration. You know, there is a big push, 
+and the President has pushed for this, for merit-based 
+immigration, bringing people in that can add to where we need 
+to go from a technology standpoint to help us continue our 
+drive for AI.
+    So as you are aware, AI requires talented workers from 
+particular skill sets so that we can continue to lead the way 
+as our witnesses have testified. And so what policy 
+recommendations do you have to ensure the U.S. successfully 
+cultivates a domestic talent supply in this space? Will 
+students need a different education to pursue careers in AI 
+versus what they are doing right now?
+    Dr. Athey. Thank you, Congressman, for the question. And 
+you raised a number of really crucial issues.
+    Of course, everyone on the Budget Committee I am sure is 
+acutely aware that the amount of our budget that we are 
+spending on older Americans is increasing dramatically, and so 
+we need to really think about how we are going to deliver 
+services to our aging population more efficiently and also what 
+can we do to keep people in the workforce, preferably in the 
+workforce longer, which might be in a second career or a part-
+time job that looks very different than how work was done in 
+the past.
+    So I think the first important consideration is to think 
+about what will all of these elderly people need and how can we 
+help them live independently, live fulfilling lives, and get of 
+the services they need. I think AI and automation can actually 
+help quite a bit because some of the things that make it 
+difficult to work as you age include, you know, physical 
+challenges, as well as memory challenges and, you know, certain 
+cognitive aspects of the job, all of which can be alleviated 
+through augmenting AI or physical robots, which might allow 
+humans to work longer and focus on the aspects of the job that 
+involve interpersonal relationships, comforting seniors, 
+helping them get their psychological needs met.
+    So you might have seniors helping seniors. It is also the 
+case that actually there is a lot of service work at that time 
+that in the end may not be fully replaced by automation.
+    So I see that this aging population is a challenge, but it 
+also points our way toward solutions for those people. And, 
+more broadly, the demographic crisis highlights for us that 
+immigration will be important because we see a shortage of 
+workers on the horizon and a shortage of taxpayers in the 
+working age when you look at the demographics.
+    It is much harder to predict what is exactly going to 
+happen to automation in 10 years, but we already know how many 
+20-year-olds we have in the country who will be 40 in 20 years. 
+Unless we bring in more 40-years-old, you know, we are kind of 
+stuck with what we have got.
+    So we can expand immigration, but we can also think about 
+how to most effectively use the people we have and allow our 
+aging population to contribute in meaningful ways as they age.
+    Thank you.
+    Mr. Hern. Thank you so much.
+    Mr. Chairman, I yield back.
+    Chairman Yarmuth. The gentleman's time has expired.
+    I now recognize the gentleman from New York, Mr. Morelle, 
+for five minutes.
+    Mr. Morelle. Thank you very much, Mr. Chairman, for holding 
+another really, really important issue facing the country.
+    Before I begin, I do want to also add my welcome to 
+Representative Jacobs, who I had the privilege of serving with 
+in the New York State Legislature, and I am delighted that he 
+has joined this Committee. I am looking forward to continuing 
+to work with my neighbor to the west in up-state New York.
+    I just want to say a couple of things. I think some of the 
+comments by the other members have been really, really 
+provocative, and there are a ton of questions here. To me this 
+isn't a question of whether or not AI, machine learning, 
+robotics, and innovative technology will reshape the landscape 
+economically and as it relates to the workforce. It is doing 
+it. It will continue to do it. It is happening, in many 
+respects, at breakneck speed. And I think then the question for 
+us, we have always marketed ourselves as a nation of 
+opportunity, a nation of innovation.
+    So the question is, as public policy challenges emerge 
+because of it, what do we do? How do we think through this? I 
+think that is why this hearing is so critical.
+    The way I see AI, I guess I think about it in a couple 
+different buckets. One is, to the extent that it could displace 
+human beings in some jobs and in some occupations, the more I 
+see it as ways to create tools that will allow people to do 
+their jobs faster, better, more efficiently. But there is no 
+question it is going to have an impact and we need to think 
+about it.
+    One of the things, as it relates to the budget--and perhaps 
+people can talk about this--you know, the President has talked 
+about elimination or deferral of payroll taxes. Obviously, that 
+has an impact on Social Security. It has an impact on Medicare. 
+But even beyond the call for reduction of payroll taxes, to the 
+extent that there is a displacement of workers or lessening of 
+wages because jobs become a focus of commodity-like activities, 
+what I am struck by is so much of what we have built on the 
+safety net, Medicare and Social Security being two of the most 
+obvious, built into a system where we get revenues based on 
+payroll.
+    So, you know, there have been suggestions by some folks 
+looking at this, to the extent that we look at displacement, 
+should there be alternative ways of looking at taxation so we 
+can continue to provide resources to Social Security, to 
+Medicare to make sure that particularly as the baby boom 
+generation starts to move into some of these programs, you are 
+going to see this significant percentage of the population in 
+Medicare, in Social Security, and given the reproduction rate 
+in the United States is at an all-time low, and mix that in 
+with AI and machine learning, robotics.
+    Could anyone--and perhaps, Dr. West, maybe you can help 
+answer this. Is there something we should be looking at in 
+terms of a replacement for payroll taxes that is based on--I 
+know people have talked about the difference between capital 
+and people when it comes to investment and tax payments.
+    Can you talk a little bit how we can make sure that our 
+revenue base doesn't decline if we see jobs displaced by either 
+AI, robotics, machines, et cetera.
+    Dr. West. That is a great question, Congressman.
+    I think we do need to think about the tax system both in 
+terms of tax rates, tax credits but possibly also new types of 
+taxes. And if you go back a hundred years to the start of the 
+industrial revolution, you know, we found our tax system to be 
+inadequate at that time, and so we developed new taxes, we 
+developed new social programs. And I think now as we are moving 
+to the digital economy, we need to be asking big questions like 
+that.
+    So I am not sure exactly what the kind of new taxes could 
+be, like people propose a financial transactions tax that would 
+kind of help with income inequality in general. Some countries 
+are implementing digital services taxes. So there is a lot of 
+new ideas that are being formulated there.
+    And on the first part of your question, you are right about 
+the importance of market competition, and the key in innovation 
+has always been small and medium size enterprises. We are 
+worried about a loss of market competition, and so I think 
+Congress should really think about ways to promote small and 
+medium size enterprises just so we can maintain the startup the 
+economy that has fueled American prosperity for several 
+decades.
+    Mr. Morelle. Yes, thank you. I think that is a really 
+important comment.
+    And I would just say in the few seconds that I have left, 
+what I do worry about is we don't want to create disincentive 
+for investment in innovative technologies. We also don't want 
+to put ourselves in a position where, as a result of that, we 
+have displaced workers and the payroll taxes that support much 
+of our social infrastructure.
+    So I want to thank the panelists. Thank you, Mr. Chair, for 
+a great hearing. I yield back.
+    Chairman Yarmuth. Thank you. The gentleman's time has 
+expired.
+    And now I recognize, in his debut Budget Committee 
+appearance, Mr. Jacobs from New York.
+    Mr. Jacobs. All right. Can you hear me, or no?
+    Chairman Yarmuth. You are live.
+    Mr. Jacobs. I am having some problems here.
+    Chairman Yarmuth. You may have muted yourself.
+    Now you are fine. You should be good.
+    Mr. Jacobs. Can you hear me?
+    Chairman Yarmuth. Yes.
+    Mr. Jacobs. OK. Sorry about that.
+    Thank you, Mr. Chairman. Thank you, everybody. Great to be 
+on. And I guess I need a little AI to help me with the unmuting 
+here.
+    I just wanted to first comment, Dr. Matheny, on some things 
+you talked about regarding semiconductors. I have an area, 
+Batavia, New York, in my district where they have been working 
+for a number of years in developing an advanced manufacturing 
+park. One of their hopes would be to lure a semiconductor 
+facility there because of the inherent assets we have in terms 
+of low-cost power due to the proximity of the Niagra Falls 
+Power Plant and also abundant water.
+    And in talking with them, they discussed this issue of the 
+loss of our semiconductor industry nationally, and one 
+statistic I just wanted to echo why this is so important what 
+you are talking about, in the year 2000, the United States had 
+24 percent of the semiconductor production in the world. Now we 
+are at 12 percent. In the year 2000, China had zero percent of 
+the production, and now they have 16 percent, and they are 
+investing another trillion dollars in this sector in the next 
+decade.
+    So, you know, this is a major issue and look forward to 
+pushing for policy nationally that will help level the playing 
+field so that we can make sure that we maintain and grow this 
+sector for the important reasons that are mentioned here.
+    I wanted to ask a question of Dr. West. My district, as we 
+talk about inequalities, would be geographic. My district is 
+rather rural and definitely have concern--we have major issues 
+with lack of high-speed internet access, and it is being more 
+pronounced right now with the needs for distance learning and 
+telehealth, but in an effort to be economically competitive in 
+the future.
+    And I was just curious--so, clearly, I am all in for any 
+additional money and programs to push for rural broadband 
+because it is important as any other piece of infrastructure 
+right now for our area. But in terms of you mentioned 
+innovation districts as the model of something to try to allow 
+areas that are not on the coast to be competitive in the new 
+day era, and I was wondering if there is examples of success 
+that you have of innovation districts? Thank you.
+    Dr. West. Well, it is funny you should ask that--and the 
+Chairman will love this because Louisville is actually an 
+example. Louisville is an example where they have developed a 
+pretty successful regional innovation district. Brookings 
+actually is helping advise some of the organizations there. It 
+is a public-private partnership. So you can talk to the Chair 
+about how they did that.
+    On the rural part of your question, I can really appreciate 
+this because I grew up on a dairy farm in rural Ohio many years 
+ago, and rural areas are really being left behind right now. So 
+we really need to address the infrastructure part and 
+especially the broadband part because, as I mentioned earlier, 
+like there are opportunities for remote work, like you don't 
+have to live in San Francisco, you could live in your district 
+and still work for any of these tech companies, but you need 
+high-speed broadband.
+    Just this week my Brookings' colleague, Tom Wheeler, had a 
+short report where he gave a couple of very specific ideas for 
+the Federal Communications Commission, which he used to head. 
+One is a reform of the E-Rate program, which was set up to 
+connect classrooms. It turns out there is a $2 billion surplus 
+in that fund, meaning there is unspent money that was designed 
+to connect classrooms. Now that so many people are engaged in 
+home schooling, you know, we could actually redirect some of 
+that $2 billion to improve rural broadband in order to 
+facilitate home schooling. It is very consistent with the 
+purpose of that program, so you should talk to the people at 
+the FCC about that.
+    And then, second, with the Lifeline program, which the FCC 
+also runs, including cable companies, not just phone companies, 
+in rolling out digital services and broadband, just because 
+today people are almost as likely to get their broadband via a 
+cable company as a phone company. So if we could broaden the 
+Lifeline program to basically address the ways people are 
+ordering broadband, that would help, and also making--including 
+companies that offer prepaid services.
+    So in the Tom Wheeler post, he talked about all of these 
+ideas. But I think they are particularly relevant for your 
+district and other rural areas across America.
+    Mr. Jacobs. Great. Thank you very much.
+    I yield back the rest of my time.
+    Chairman Yarmuth. The gentleman yields back.
+    I now recognize the gentleman from California, Mr. Khanna, 
+for five minutes.
+    Mr. Khanna. Thank you, Mr. Chairman. And thank you, Dr. 
+West. I highly recommend Mark Moro's paper, and it is not just 
+in Chairman's Louisville district, but even in Paintsville, 
+Kentucky, they have had quite a lot of success in bringing 
+technology to rural communities, and I appreciate your work and 
+Brookings' work on that.
+    I had a question for Professor Acemoglu, whose work I 
+admire very much. I was struck by this idea of excessive 
+automation, and I understand the tax incentives that may be 
+off, but bracketing that aside, what explains the move toward 
+excessive automation? Is it a sense that there is some kind of 
+market failure where companies are actually making irrational 
+decisions to automate in ways that aren't profitable, or is it 
+that it is marginally profitable but it is not having aggregate 
+productivity gains for society?
+    Dr. Acemoglu. Thank you very much, Congressman Khanna. I 
+think that is a great question. And it is a variety of factors.
+    First of all, it is indeed the tax incentives, so we cannot 
+ignore that. You know, there is no natural rate at which 
+capital and labor are going to be taxed, so it is a policy 
+choice, and that policy choice is going to have consequences.
+    A second important factor is that labor and capital use may 
+have social consequences and economic consequences that go 
+beyond what companies calculate.
+    So, for example, if people are better citizens or they 
+contribute more to their community or to their families when 
+they are employed, that is not going to be part of the 
+calculation of companies, and it is part of policymakers to 
+actually decide that.
+    So do we, for the same GDP, would we be happy when that is 
+produced by humans partly versus when a lot of it is produced 
+by capital? I think a lot of policymakers would say actually 
+for the same GDP, we would like it quite a bit if humans are 
+part of that equation, which means that we actually value as a 
+community, as a society, humans being part of that calculation.
+    And technology has gone in a way that makes it possible for 
+greater substitution of machines and algorithms, so some of 
+those external effects that were less relevant now become more 
+relevant.
+    And the third factor is that it is not necessarily 
+irrational, but different companies have different business 
+models. So if you look at the periods in which the American 
+economy has done very well while it was also automating, this 
+diversity of perspective, diversity of approaches was very 
+important.
+    Let me give you one example. Mechanization of agriculture. 
+That is an even more transformative automation event than the 
+ones that we are talking about right now. More than half of the 
+U.S. economy was agriculture, and there was a huge, tremendous 
+decline in labor share in agriculture as machines started 
+performing tasks that were previously done by humans.
+    But during that period, American growth didn't just come 
+from agriculture. It also came from other sectors that picked 
+up labor that was displaced or the children of the labor that 
+were displaced often because some greater human capital was 
+necessary. So the manufacturing sector introduced a lot of both 
+production and non-production jobs, a lot of the non-
+manufacturing sector expanded.
+    So it is sort of diversity of approaches, diversity of 
+technologies was quite critical. So one of the things that may 
+be less active today is that we are not using the enormous 
+technological platform that AI presents us in ways that can 
+create jobs, tasks, opportunities for labor in other sectors of 
+the economy.
+    So, for example, when earlier on there was a discussion of 
+robots and what was going on in Flint, Michigan, you know, that 
+is absolutely central that there were a lot of production jobs 
+that were eliminated.
+    The same has happened everywhere. If you look at South 
+Korea, if you look at Germany, other countries that have 
+introduced a lot of robots, production jobs were eliminated in 
+more or less the same number as in the United States. But in 
+many of these cases, there were also non-production jobs that 
+were created more or less simultaneously, sometimes in the same 
+companies, sometimes in the same markets, and that is what we 
+haven't seen in the United States.
+    When you look at Flint, when you look at Saginaw or other 
+parts of the industrial heartland, you have these production 
+jobs disappearing, but we are not using the technology to 
+create other jobs to compensate for this.
+    Mr. Khanna. Very briefly, how would you create other jobs? 
+What would be one or two bullets points of what we could have 
+done in Flint to create those other jobs?
+    Dr. Acemoglu. Well, I think in Flint, you know, it is a 
+little bit hard for me to say from here what exactly the skills 
+that would be easily transferable. But when you look at 
+broadly, you know, there are many applications of AI in 
+education, in healthcare, in manufacturing that are completely 
+capable of creating jobs.
+    For instance, automation in manufacturing also enables job 
+creation because it reduces offshoring, so there is mounting 
+evidence that, you know, not the jobs that were destroyed to 
+trade with China or to the first wave of automation are not 
+going to come back. But there are certainly opportunities for 
+many jobs to come back, offshore jobs to come back as the 
+automation process continues because it is a cost-saving 
+possibility.
+    So many of those are not in the production line. They are 
+in the supporting capacities. But they are very, very important 
+and potentially high wage jobs. And, again, evidence from 
+Germany suggests that many of the jobs that were created, even 
+in the same companies that were automating at the same time, 
+were paying higher wages or comparable wages to the production 
+jobs that were destroyed.
+    Mr. Khanna. Thank you.
+    Chairman Yarmuth. The gentleman's time has expired.
+    I now recognize the gentleman from Virginia, Mr. Scott, for 
+five minutes.
+    Mr. Scott. Thank you, Mr. Chairman. I had to find it.
+    I am sorry, I came on a little late, so let me just ask a 
+couple of general questions.
+    First, to any of the panelists, how real is the threat to 
+laid off workers that their employers might decide to increase 
+artificial intelligence rather than rehire their workers?
+    Chairman Yarmuth. Any takers?
+    Dr. Acemoglu. I can give a quick answer to that.
+    We don't know. We don't know for sure, but in recent 
+surveys, about 75 percent of companies are saying that they are 
+either taking steps to increase automation or they are planning 
+to do so. So there is a real possibility that some of those 
+jobs will not come back even if the economy picks up.
+    The other issue that we need to think about is that the 
+sectoral composition of the economy is going to change in a 
+post COVID-19 world. The hospitality sector will probably be 
+much slower to come back, so there will be a natural 
+reallocation.
+    Some of that reallocation is, obviously, healthy and 
+efficient, but it will still have great costs on some of the 
+poorer communities and some of the poorer segments of U.S. 
+society.
+    So I think those are, as some of the earlier comments 
+indicated, questions related to the social safety net; but 
+broadly--and this has been one of the main themes that I have 
+tried to emphasize--it is not just a social safety net issue. 
+If we think that displacement is just a social safety net 
+issue, that would mean that we would be happy to have a lot of 
+workers being displaced and find ways of providing good social 
+services and a decent standard of living to them.
+    But, again, I don't think that would be a healthy economy 
+or a healthy society. That is why it is important for us to 
+find ways of using our existing and technology know-how and our 
+technological capabilities in order to find ways of deploying 
+our enormously productive, our very well skilled workforce in 
+other activities.
+    Thank you.
+    Mr. Scott. Let me ask you a followup question to that. If 
+there are going to be fewer workers, does that have budget 
+implications on your people having taxes and, therefore, lower 
+revenues?
+    Dr. Acemoglu. Oh, I am glad you asked that. That is a very, 
+very important question as well.
+    So if you--one of the themes that I emphasize is that our 
+tax system is asymmetric. It taxes capital less than labor, and 
+it has become more so. That has major budgetary implications 
+because if you look at the U.S. distribution of income, the 
+share of labor has gone down from around 67 percent of national 
+income to less than 58 percent.
+    So that means that income is shifting away from the more 
+heavily taxed factor to the more lightly taxed factor, and it 
+will have budgetary implications.
+    And another theme that I have tried to emphasize, but it 
+was very quick so this gives me an opportunity to underscore it 
+one more time, is that part of the reason is because our 
+capital tax base is very narrow.
+    It is not just a question of jacking tax rates on capital 
+and introducing huge wealth taxes or anything like that. There 
+is just a big chunk of capital income that we don't tax, and 
+that means it is costly, it is asymmetric, it may distort the 
+allocation of capital and labor in work places, but 
+increasingly has major budgetary implications.
+    Thank you.
+    Mr. Scott. Does that include--you know, we have tax credits 
+for investments in machines but not in education. Is that 
+something we ought to address?
+    Dr. Acemoglu. Absolutely. Absolutely, 100 percent. If you 
+look at decline in the tax rates basing capital that went from 
+over 15 percent to less than 5 percent in the last 20 years, 
+about half of that is because of the very generous investment 
+tax credits, which are so generous that if you have debt 
+financed capital investment in software or S corporations, you 
+may actually be getting a small net subsidy. We have nothing 
+similar to that for education or training.
+    Thank you.
+    Mr. Scott. Well, talking about education and training, to 
+get into an AI job, you don't sign up for an education for AI. 
+I heard math is important, but what should the Committee on 
+Education and Labor be doing for higher education?
+    Dr. Matheny. I can take a piece of this.
+    One thing that I think would be especially useful is a 
+tithe, a 10 percent allocation for public research grants to go 
+toward teaching because otherwise we are eating our seed corn. 
+We are spending all of our Federal R&D on the research rather 
+than on the teaching. And in most of the major universities 
+where AI is being taught, there is a natural tension for the 
+professors to focus on research as opposed to allocating time 
+to teaching. We need to make sure that we are training the next 
+generation, and a tithe, particularly on NSF grants, could help 
+with that, turning it over to others.
+    Mr. Scott. Well, thank you, Mr. Chairman. My time has 
+expired. Thank you so much.
+    Chairman Yarmuth. The gentleman's time has expired.
+    I now recognize the gentlewoman from Texas, Ms. Jackson 
+Lee, for five minutes.
+    Ms. Jackson Lee. Thank you very much, Mr. Chairman, and 
+thank you very much for the hearing both with you and the 
+Ranking Member, and thank you to the panelists.
+    Let me just add a description that should not be taken as 
+an offense, but we are all speaking now to the have's because 
+the have-not's are not in the room. And I think this is a very 
+important basis upon which we are responding because that is 
+the focus that I will have, along with maybe a more definitive 
+question about a tax scheme that would work to help AI.
+    I am going to start with Dr. West, who early in his 
+testimony mentioned the question of income inequality and 
+worker dislocation. Those people today are not in the room. We, 
+as Members of Congress, represent a wide landscape of 
+individuals.
+    Can you pointedly, Dr. West, talk about what should be our 
+response on the apparent and existing income inequality and the 
+potential worker dislocation?
+    Dr. West. That is a great question, Congresswoman, and you 
+are exactly right. There are income disparities. There are 
+racial disparities. This is a huge problem. We are almost in a 
+situation where technology is helping to fuel the inequality in 
+the sense that the have's are doing better and getting tax 
+breaks and have programs that support them, and people at the 
+lower end aren't even in the game. They don't have access to 
+the digital economy. There are 18 million Americans who do not 
+have broadband. A larger number doesn't have a high-speed 
+broadband.
+    So the way that we need to address these issues, certainly 
+infrastructure investment, the things we have talked about 
+earlier, a rural broadband, in underserved urban areas as well, 
+putting more money into education, and especially opportunities 
+for online education, because that would be a way to help 
+overcome the disparities; but you need the broadband in order 
+to be able to access that.
+    The same thing applies in terms of telemedicine. One of the 
+features of COVID is it has jump started what already was in 
+existence, a trend toward telemedicine, and has really 
+accelerated it, but not everybody is able to share in the 
+benefits of that. And given the racial disparities in the 
+incidents and fatality rates of COVID, like that is a scandal 
+that people who need it the most are not getting access.
+    So there are a lot of different things we need to do, and 
+we certainly need to address the inequities in the tax system.
+    Ms. Jackson Lee. Well, clearly, it means that out of the 
+Budget Committee we should be focusing on just the 
+infrastructure that you mentioned. It is a shame that in 2020 
+we are still fighting to get broadband everywhere, and for 
+those of us who are watching our schools open and they are 
+hybrid or virtual, to see people standing in line trying to 
+simply get laptops because they don't even have that and as 
+well hot spots or the hot boxes so they can have the 
+opportunity to have access.
+    Let me do a round robin question dealing with COVID-19. We 
+have heard a very stark admission of the knowledge of how 
+deadly COVID-19 was as early as February 7, 2020, if I might. 
+Let me ask all of you to comment how COVID-19 could have been 
+attacked, if I might, starting with Dr. Athey and going to Dr. 
+Matheny, with artificial intelligence in terms of treatment, in 
+terms of outreach, in terms of saving lives.
+    Doctor--is it pronounced correctly, Dr. Athey?
+    Dr. Athey. Yes, Dr. Athey. Thank you very much for the 
+question.
+    And I think the telemedicine point is super important. We 
+were a little slow getting started in trying to get information 
+to people, getting people in touch with their doctors without 
+broadband access and without good access to medicine. We 
+weren't always making good decisions for patients early.
+    Another thing is that actually using AI machine learning to 
+understand what treatments work best was actually very limited 
+in the United States by our disjointed medical system and the 
+inability to do analysis that incorporates data from multiple 
+sources because, as the epidemic happened, patients were being 
+treated in hospitals. The insurance companies only get the data 
+later once bills have gone out, and that is not fast enough.
+    So it turned out that we were just unprepared to be able to 
+do analysis that spanned multiple medical centers and give 
+real-time intelligence. We also missed opportunities to have a 
+more coordinated approach to clinical trials and R&D that was 
+really focused on getting the most information and the best 
+treatment decisions possible given the patient flow that we 
+had. There was just a lack of coordination.
+    And I really hope that if anything like this ever happens 
+again, we are prepared to be able to do the right analysis and 
+coordinate the studies and the research, and that just requires 
+really advanced preparedness and a lot of kind of air traffic 
+control from the federal government. And AI machine learning 
+can only do their work if they are given the opportunity to 
+access data and really influence decisions.
+    Thank you.
+    Chairman Yarmuth. OK. The gentlewoman's time has expired.
+    I now recognize the gentleman from New Jersey, Mr. Sires, 
+for five minutes.
+    Mr. Sires. Thank you, Mr. Chairman. Can you hear me?
+    Chairman Yarmuth. I can hear you fine, yes.
+    Mr. Sires. I want to thank the panelists for being here 
+today.
+    You know, I always think of a job as something that creates 
+self-worth in a person, and we seem to be obsessed with this 
+productivity word and, obviously, artificial intelligence 
+creates a lot of productivity. But you have countries like 
+China and you have countries like India who have such large 
+populations, and as artificial intelligence is more productive, 
+more and more people are left behind.
+    Do you think that these countries with such large 
+population will ever come to a point and they say, OK, 
+artificial intelligence is great, but we have passed beyond the 
+ability to provide jobs for the people of my country. Maybe we 
+should slow down this artificial intelligence that is creating 
+so much automation and leaving, so many people behind because, 
+as you know, if there is no work in a country, it leads to 
+unrest.
+    I just wonder if any of the panelists would want to address 
+that where a country would say, hey, let's put a little brakes 
+on this because our population is staying behind, is being left 
+behind.
+    Can anybody talk to that a little bit?
+    Dr. Acemoglu. I would be happy to. I would be happy to 
+comment on that.
+    Mr. Sires. OK.
+    Dr. Acemoglu. You know, I think, first of all, I completely 
+agree a job is much more than just productivity. I think self-
+worth is important for the community, important for society. I 
+think these are critical. But the tragedy in some sense is 
+that, at least on the current measurements, we are not even 
+doing that well on productivity. Despite the bewildering array 
+of technologies all around us and all of this excitement that 
+goes on, we are actually enduring one of the eras in our 
+history where productivity growth is lowest.
+    This goes to underscore what I was trying to emphasize, 
+that it is not a question of AI versus not AI. It is a question 
+of how we are using AI technology. And if we are not using it 
+well, we would destroy jobs and all of the self-worth and 
+community contributions that we are talking about and also not 
+reap all of the benefits in terms of productivity.
+    I think that is exactly the sort of situation that we are 
+in right now, so a lot of AI goes into marginal activities, 
+such as self-checkout kiosks or things that humans can do very 
+well, then it will not bring the productivity gain. I don't 
+think that China is ever going to turn back from AI, partly 
+because they have made a huge investment in that, but also 
+because part of the AI's appeal to authoritarian regimes is 
+that it actually provides a much better monitoring system, 
+facial recognition, snooping on communications, control of the 
+internet. But those are exactly the sorts of things that are 
+not going to bring huge productivity gains and they are not 
+going to contribute to making jobs more meaningful.
+    But if you look at what American companies invest in, it is 
+not that different. We pour a lot of money into facial 
+recognition and monitoring aspects of AI as well. So that, 
+again, goes to my broader point, that I think there are ways of 
+making use of the AI platforms in a manner that is going to 
+bring much better social benefits and jobs and productivity 
+than we are doing currently.
+    Mr. Sires. So the productivity to work ratio for the United 
+States is 6:1, as somebody mentioned before, and in China it is 
+1:1. So I was just wondering, if China does not want a 6:1 or 
+an 8:1 productivity ratio.
+    Dr. Acemoglu. I would say China definitely wants that and 
+has made huge progress----
+    Mr. Sires. But doesn't that leave a lot of people behind? I 
+mean----
+    Dr. Acemoglu. Right. So----
+    Mr. Sires. If you reach that kind of productivity like in 
+the United States?
+    Dr. Acemoglu. Well, it may or may not. If consumption keeps 
+up with it and that productivity gain is broadly distributed in 
+society, it may not. In China, it hasn't taken that form. The 
+inequality has actually increased a lot, the gap between cities 
+and rural areas and even within cities between migrant workers 
+and non-migrant workers have opened up hugely.
+    But, sure, I think there is a huge drive in China toward 
+increasing labor productivity, but they are also willing to 
+invest an enormous amount of resources in order to monitor 
+these workers better, in order to monitor their communications, 
+the civil society participation, and other social activities, 
+even if those things aren't proactive because they do need to 
+maintain the current political system.
+    Thank you.
+    Mr. Sires. Thank you.
+    Thank you, Chairman.
+    Chairman Yarmuth. The gentlemen's time has expired.
+    I now recognize the Ranking Member, Mr. Womack, from 
+Arkansas for 10 minutes.
+    Mr. Womack. Thank you, Mr. Chairman, and thanks to all of 
+my colleagues who have participated, and to the witnesses, 
+thank you very much. A very interesting discussion.
+    I am going to start where I kind of left off in my opening 
+remarks, and that was about matters of fiscal accountability at 
+the federal level, and I don't need to tell anybody engaged in 
+this forum this afternoon that we are in some very difficult 
+circumstances right now.
+    COVID has exacerbated it three times more so than what we 
+would have otherwise had in terms of a deficit goes.
+    And to my colleagues on this call today, I will sound a bit 
+like a broken record. I am an appropriator by nature. I just 
+happen to be the Ranking Member of the Committee and formally 
+Chaired the Committee.
+    But as an appropriator, I am very concerned about the 
+escalating cost associated with mandatory spending, how much of 
+the federal budget it is commanding and the squeeze, as I call 
+it, that crowding out effect that it is having on the matters 
+of the discretionary budget that we appropriators are in charge 
+of, should be in charge of--the last few years is an exception, 
+but that is a whole other story.
+    Mr. Womack. But the fact is, that if we are going to invest 
+in anything in our country, if we are going to ask the federal 
+government to have a role in resourcing a lot of this R&D, then 
+it is going to face continued and escalating pressure from the 
+mandatory outlays that continue to consume a larger and larger 
+share of federal resources.
+    So here is my question and I am going to pose this to Dr. 
+Matheny, and that is, with that in mind, if we can all agree 
+that there is this crowding out effect, how would the federal 
+government prioritize spending on matters of research and 
+development and so forth in the AI spectrum?
+    And what have you seen from your federal government, if 
+anything, that is worked? So help me understand how we would 
+prioritize the spending that goes toward a more robust AI 
+circumstance in our country?
+    Dr. Matheny. Thank you. It is a great question.
+    I think that the federal government can most cost 
+effectively focus on basic research, on testing and evaluation, 
+and on safety and security, areas that suffer market failures 
+so that the commercial sector is likely to under invest.
+    Much of the current wave of AI research that we see right 
+now is due to federal investments in basic research, 
+particularly by the National Science Foundation and by the 
+Office of Naval Research, and DARPA, dating back to the mid-
+1980's, which funded early work on deep learning, provided 
+training grants to much of the current generation of AI 
+researchers.
+    And that work in basic research really does need to 
+continue so that we fund the next generation of breakthroughs 
+that will fuel future AI systems. Equally important is the work 
+of the National Institute of Standards and Technology in its 
+bench marking and its testing and evaluation that has been 
+critical for actors in both the private sector and the public 
+sector to be able to bring their tools to have them tested on a 
+level playing field, understand where they work and where they 
+break. And just as important also has been the federal 
+government's investments in microelectronics.
+    In the 1960's, NASA effectively started our 
+microelectronics industry, but we also have examples of less 
+successful programs, very large projects, overly broad goals. I 
+think the Strategic Computing Initiative which ran from the 
+mid-1980's to the mid-1990's is an example of that.
+    So where the government can help is really on the cases 
+where the commercial sector isn't going to invest on its own, 
+where the goals, though, can be clearly defined, and where we 
+can lift up and address those market failures.
+    Thank you.
+    Mr. Womack. You bet.
+    Dr. Acemoglu, am I even close on the name? OK. Good. Thanks 
+for the thumbs up.
+    And Mr. Sires reiterated the point you made--I think it was 
+you that made the point early on in your testimony--that China 
+had 11 times as many people in the workforce, but they were 
+only two times as productive. If the American worker has proven 
+to be the most productive worker, I guess, on the planet says a 
+lot about our ability and about our capacity.
+    One of my concerns has been is that the pace of the private 
+sector in virtually every area is a lot faster than our 
+education system seems to be trying to deliver.
+    Is that a fair statement?
+    Dr. Acemoglu. Yes, I believe so. I think it is definitely 
+true that our education system has lagged behind. AI, for all 
+the reasons that we have discussed today, has already started 
+changing the labor market and it will change it even more, but 
+our education system, both at the university level but also at 
+middle school and high school level, is very backward looking.
+    We continue to teach in the way that we used to, you know, 
+for the most part, 30, 40, 50, 60 years ago. AI actually 
+provides--I think Susan mentioned this already--provides 
+tremendous opportunities for revolutionizing many of the key 
+sectors such as healthcare and education.
+    AI can be used for taking over some of the tasks that 
+educators do that are quite boring, such as grading, but even 
+more importantly, it can create a much more interactive 
+classroom, enable teachers to understand the specific 
+challenges and needs of students and cater their teaching and 
+curriculum to their needs in real-time. It can enrich what we 
+teach and how we teach it. There are already companies that 
+have completely transformed their training systems using AI.
+    So I think there are a lot of opportunities, but sure, we 
+are lagging behind. And it is absolutely critical, as you have 
+pointed out, for our success that the American worker maintains 
+their productivity edge over other nations, but we have not 
+done very well in that regard either.
+    If you look at an inclusive measure of productivity growth, 
+what the economists called total factor productivity growth, in 
+the three or so decades following World War II that was growing 
+over 2 and a half percent a year and it is around 1 percent for 
+the last 20 years.
+    So we are not really doing enough to keep our productivity 
+edge relative to other nations, many of whom have faster 
+productivity growth rates.
+    Mr. Womack. Mr. Chairman, my final question--and I am going 
+to throw this on the table. I don't know really who to direct 
+it to, but we have seen some challenges in recent years of 
+building government industry partnerships in what is to me even 
+more disconcerting is a lot of the companies that we are 
+talking about are now not only not building those partnerships, 
+but they are just unwilling to work with the federal government 
+or work with, you know, partner nations or you can pick from 
+the spectrum of issues.
+    Just last year, Google pulled out of a major AI project 
+called Project Maven with the Department of Defense. It is my 
+strong opinion that we need to see some change in this area.
+    Why is this occurring and what are the long-term 
+consequences of not having the proper relationships between 
+government and industry? And is it the slow pace of government 
+in general because we all know that we don't operate with a lot 
+of speed?
+    Dr. West. And Congressman, I would be happy to jump in on 
+that question. And I agree, it is important for a government to 
+work with industry. I think the Google thing, there was some 
+idiosyncrasies to that decision. Other tech companies are 
+embracing the role of working with the federal government, but 
+I do think, as part of your concern about debt and deficit 
+issues, we do need to think about agency modernization just 
+because we have to get the federal government acting much more 
+efficiently than it is right now just in terms of the 
+administration of services.
+    And the way to cut some of the program costs without 
+hurting the beneficiaries is to make the organization more 
+effective. And so the public sector still lags the private 
+sector in using AI.
+    Just one quick example, every federal agency should be 
+using AI for fraud detection. It is something that is very 
+common in private companies. We know there is waste and fraud 
+in the federal government. The AI looks for outliers, it looks 
+for unusual activities. Like, this is one tool the federal 
+government agencies should be using to try and get a better 
+handle on the spending side. I think that is an example of 
+where technology can be part of the solution.
+    Mr. Womack. Yes. And in the budget when I was Chairman that 
+we prepared for Fiscal Year 2019, a key component of trying to 
+do the deficit reduction was the fact that we had billions and 
+billions of dollars of improper payments and there has to be a 
+way that we can get after those without unnecessarily burdening 
+ourselves.
+    Anyway, my time is expired. Thanks, again, to all the 
+panelists. Thanks to my colleagues. Chris, welcome, again, to 
+the Budget Committee.
+    And Mr. Chairman, as always, I am going to yield back my 
+time and with regrets that you didn't get to see Authentic win 
+the race there on your home track, but nonetheless a good 
+derby.
+    Chairman Yarmuth. I thank the Ranking Member. I did watch 
+it on television. Fortunately, I tried to set up a betting 
+account and they were so swamped with people trying to do that 
+I couldn't get on, so I didn't lose anything. That was a plus.
+    Mr. Womack. Well, AI, if we had a little better AI 
+platform, we could have probably fixed that early on.
+    Chairman Yarmuth. Probably so. Thank you for that.
+    And I yield myself 10 minutes for my questions.
+    Once again, thanks to all the witnesses. It has been an 
+extremely enlightening conversation and I think a very valuable 
+one.
+    I am going to kind of segue off where the Ranking Member 
+was because we spend most of the hearing talking about impact 
+on jobs and I think that is kind of the natural topic and how 
+that might impact tax revenues and so forth, but we really 
+didn't focus much on how AI might help reduce expenses for the 
+government.
+    And I can see--I think Dr. Athey you mentioned telemedicine 
+and I think there is a lot of potential as you mentioned for 
+reducing costs in Medicaid, transportation costs, as well as 
+probably getting better diagnoses and drug interactions and so 
+forth. I think there is a lot of possibilities there.
+    Where might be some other areas in which there actually 
+could be a positive impact of AI on expenses for the 
+government?
+    Dr. Athey. Thank you for that question, Chairman, and I 
+think that really does pick up from the Ranking Member's 
+comments as well that government can be much more efficient 
+than it is.
+    Now, I would have actually been pretty scared 10 or 15 
+years ago to suggest governments invest more in IT because IT's 
+projects are--often fail in private sector, frankly, and when 
+governments take them out, we have a lot of problems with 
+procurement of large IT projects, but one of the things that I 
+think has been really impactful in how AI and machine learning 
+have been diffusing through the economy in the last few years 
+is the way in which IT services delivers has changed.
+    We are having more software as a service, we are having 
+more cloud computing, so that you don't have to say take on 
+this huge project which has huge risk and then you are kind of 
+locked into a software for the next 20 years, but rather you 
+are getting services that meet your needs that are updated 
+automatically and where a lot of R&D can be centralized and 
+focused on use cases.
+    So I do believe that it is a good time to start thinking 
+about modernizing the federal government infrastructure. And 
+then alongside of that, in these very common AI applications 
+like fraud detection was mentioned, also security. 
+Cybersecurity is a huge problem and, again, because of its 
+antiquated infrastructure, the federal government and all of 
+its employees are vulnerable.
+    And so if we can start modernizing and we can put in best 
+practices, we can deliver services more efficiently and 
+effectively.
+    Now, I also want to pick up on another comment that you 
+made, which we really didn't talk enough about today, I think, 
+which is that, you know, when labor is used as an input, then 
+that is affecting the cost of a product.
+    Daron and I have both mentioned that there are some cases 
+where the worker and the machine are sort of creating similar 
+cost structures, but there are other settings where investments 
+can really lower the marginal costs of providing services, as 
+well as the marginal costs of receiving services.
+    And actually, especially for state and local governments, 
+that is very true. We--people are standing in line and wasting 
+their time and taking off of work to get needs met and a person 
+is sitting behind the counter doing something where all of this 
+would just be so much faster and better if you could just get--
+do it electronically and get your needs met.
+    And so while that loses a piece of employment for the 
+worker sitting behind the counter, maybe there is other things 
+that your government could be doing--more childcare, more elder 
+care, you know. There are other services that are under 
+provided where those human workers could be better deployed if 
+we use technology to do things where the human time is getting 
+wasted on both sides of the table.
+    Chairman Yarmuth. I appreciate that.
+    And I think, even though, we are focused--we are the U.S. 
+Congress, we are focused on the federal budget, we also need to 
+think about impacts on state and local budgets. These are all 
+tax dollars and we do have a federal system.
+    As I said before the hearing started off the air that this 
+is something I have been planning to do for about a year and a 
+half now. And when people would come to my office, different 
+groups would come to my office when they were still doing that, 
+I would invariably ask them at the end of the meeting, what 
+impact artificial intelligence is having on their profession or 
+their activity?
+    And I never forget, I had the Kentucky CPAs in the office 
+and they were there to lobby about tax policy, which is 
+understandable. At the end of the meeting I asked them, in your 
+professional meetings, do you ever talk about artificial 
+intelligence? And their eyes all opened wide and they said, 
+that is the number one topic at all of our meetings because 
+they see a dramatic reduction in the need for accountants 
+because of artificial intelligence.
+    I had the War College--people from the War College in my 
+office. I asked them that, and one high-ranking soldier said, 
+we don't think that there will ever be a battlefield decision 
+made by a human being again. And I am sure he was exaggerating 
+somewhat, but the idea was that AI can consider all the 
+hundreds, if not more, variables that would go into a decision 
+as to when or where to stage a military action.
+    And so particularly, you know, I talked to IBM people and 
+they say Watson, at least in their analysis, can now do 70 
+percent of what lawyers do with greater accuracy. They can read 
+MRIs. Watson can read MRIs and CT scans more accurately than 
+radiologists can.
+    All of these things--meaning to say, the impact is not 
+necessarily just going to be on the routine type of jobs; that 
+there are going to be some very high level jobs that are going 
+to be changed or eliminated, many cases, which connects me back 
+to the education issue, that when you look at professional jobs 
+that require years and years and years of education and 
+hundreds of thousand dollars' worth of tuition and you are 
+seeing the possibility that those jobs might be eliminated, how 
+do you think this is going to change the future of even 
+professional education?
+    Dr. West, you want to try that one.
+    Dr. West. I think you are right. It certainly is not just 
+entry level jobs that are going to be affected by AI and 
+automation, but higher level jobs, including the example you 
+gave of radiologists. Accountants should be worried. They are 
+exactly right because there is a lot of really good finance AI 
+that is out there. Financial advisers, the same thing.
+    So I do think that we need to keep our eye on the education 
+process. When I talk to young people today, I tell them one of 
+the most important skills they need to develop is adaptability 
+because they are going to face such a changing economy, a 
+changing workforce, and changing job needs and job skill needs 
+that whatever knowledge and skill they have at age 21 when they 
+are graduating from college, it is probably going to be 
+completely inadequate 10 years later. It is certainly going to 
+be inadequate 20 and 30 years later. So they are going to need 
+to constantly upgrade their job skills. It is the reason, in my 
+testimony I talked about lifelong learning.
+    I think the adult education aspect is going to end up being 
+as big as higher education today, so the education component is 
+very important.
+    Chairman Yarmuth. I am glad you said that. It is exactly 
+what I tell students when I talk to them, too. You are going to 
+have to be adaptable. It is the number one talent.
+    I promised Mr. Woodall, Dr. Acemoglu, that I would let you 
+answer--he asked about companies, corporations that are doing 
+the right thing. So in the time I have left, do you want to 
+expand on those that are good examples for us?
+    Dr. Acemoglu. Sure. I think--let me say two things.
+    One is in answer to Congressman Woodall's question, but 
+before I do that, I want to sort of build on what Dr. West has 
+said. I think adaptability is extremely important and it is 
+going to become more important.
+    But I also think that there is a lot of uncertainty about 
+which types of jobs AI is going to be more threatening to and 
+there is some disagreement, but if you look at the current 
+users of AI, which are still sort of limited, they are still 
+more geared toward more low-paying jobs.
+    And part of the reason for that is because when you look at 
+higher paying jobs, they involve a variety of tasks and only 
+some subset of those tasks can be automated. And when the rest 
+aren't, then the adaptable workers especially benefit a lot.
+    So I expect AI technology in whatever direction it goes to 
+add to our concerns about inequality. So that I think is a very 
+important thing.
+    When it comes to which companies are using AI--I think, you 
+know, there are many companies in Silicon Valley that are using 
+AI in extremely creative ways. I think the problem is that some 
+of those are not very, very good when they look--when you take 
+their social implications into account.
+    So, for instance, I think you can use AI as a sort of, 
+niche industry right now, but there are a couple of companies 
+that are working on using AI for doing test grading. That is 
+going to be a growth industry, and I think it is going to be 
+very, very useful. But there are many fewer of them that are 
+using AI technology for creating more adaptable classrooms.
+    There are a few, but I would say that is one area that is 
+actually very promising, but because of the complexity of the 
+question, I think one of the concerns is that, when I have 
+talked to some of those companies, they think that their 
+technology would not get a hold in many school districts 
+because it would involve hiring more skilled teachers and 
+school districts are not going to have the resources or the 
+interest in doing that.
+    So I think there is sort of a chicken and egg problem. 
+There is a lot of creativity that could be put to use AI in 
+very new and inspiring ways, but we may not have the 
+infrastructure to support that completely yet.
+    Thank you.
+    Chairman Yarmuth. All right. Well, thank you very much, and 
+my time is expired.
+    So as we close, let me, once again, thank all of you 
+witnesses for your time and your wisdom and knowledge, and all 
+the Members for participating.
+    And if there is no further business, this meeting is 
+adjourned.
+    [Whereupon, at 3:25 p.m., the Committee was adjourned.]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]

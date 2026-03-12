@@ -1,0 +1,1640 @@
+- MODERN SCAMS: HOW SCAMMERS ARE USING ARTIFICIAL INTELLIGENCE AND HOW WE CAN FIGHT BACK
+
+[Senate Hearing 118-179]
+[From the U.S. Government Publishing Office]
+
+                                                        S. Hrg. 118-179
+
+                       MODERN SCAMS: HOW SCAMMERS
+                   ARE USING ARTIFICIAL INTELLIGENCE
+                       AND HOW WE CAN FIGHT BACK
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                       SPECIAL COMMITTEE ON AGING
+
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                             WASHINGTON, DC
+
+                               __________
+
+                           NOVEMBER 16, 2023
+
+                               __________
+
+                           Serial No. 118-11
+
+         Printed for the use of the Special Committee on Aging
+
+        [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] 
+
+        Available via the World Wide Web: http://www.govinfo.gov
+
+                           ______
+
+             U.S. GOVERNMENT PUBLISHING OFFICE 
+ 54-250 PDF          WASHINGTON : 2024  
+
+                       SPECIAL COMMITTEE ON AGING
+
+              ROBERT P. CASEY, JR., Pennsylvania, Chairman
+
+KIRSTEN E. GILLIBRAND, New York      MIKE BRAUN, Indiana
+RICHARD BLUMENTHAL, Connecticut      TIM SCOTT, South Carolina
+ELIZABETH WARREN, Massachusetts      MARCO RUBIO, Florida
+MARK KELLY, Arizona                  RICK SCOTT, Florida
+RAPHAEL WARNOCK, Georgia             J.D. VANCE, Ohio
+JOHN FETTERMAN, Pennsylvania         PETE RICKETTS, Nebraska
+                              ----------                              
+               Elizabeth Letter, Majority Staff Director
+                Matthew Sommer, Minority Staff Director
+                         C  O  N  T  E  N  T  S
+
+                              ----------                              
+
+                                                                   Page
+
+Opening Statement of Senator Robert P. Casey, Jr., Chairman......     1
+Opening Statement of Senator Mike Braun, Ranking Member..........     4
+
+                           PANEL OF WITNESSES
+
+Gary Schildhorn, JD, Attorney and Intended Scam Victim, 
+  Philadelphia, Pennsylvania.....................................     5
+Tom Romanoff, Director of the Technology Project, Bipartisan 
+  Policy Center, Washington, D.C.................................     7
+Steve Weisman, JD, Scam Expert, Editor of Scamicide.com, Senior 
+  Lecturer, Bentley University, Waltham, Massachusetts...........     8
+Tahir Ekin, Ph.D, Professor and Director of the Center for 
+  Analytics and Data Science, Texas State University, San Marcos, 
+  Texas..........................................................    10
+
+                           CLOSING STATEMENT
+
+Closing Statement of Senator Mike Braun, Ranking Member..........    28
+
+                                APPENDIX
+                      Prepared Witness Statements
+
+Gary Schildhorn, JD, Attorney and Intended Scam Victim, 
+  Philadelphia, Pennsylvania.....................................    33
+Tom Romanoff, Director of the Technology Project, Bipartisan 
+  Policy Center, Washington, D.C.................................    36
+Steve Weisman, JD, Scam Expert, Editor of Scamicide.com, Senior 
+  Lecturer, Bentley University, Waltham, Massachusetts...........    41
+Tahir Ekin, Ph.D, Professor and Director of the Center for 
+  Analytics and Data Science, Texas State University, San Marcos, 
+  Texas..........................................................    51
+
+                        Questions for the Record
+
+Gary Schildhorn, JD, Attorney and Intended Scam Victim, 
+  Philadelphia, Pennsylvania.....................................    59
+Tom Romanoff, Director of the Technology Project, Bipartisan 
+  Policy Center, Washington, D.C.................................    60
+Steve Weisman, JD, Scam Expert, Editor of Scamicide.com, Senior 
+  Lecturer, Bentley University, Waltham, Massachusetts...........    66
+
+                       Statements for the Record
+
+Statement of Hoda Hcidari........................................    75
+Statement of Dr. Shomir Wilson...................................    80
+Statement of Gail S. Ennis.......................................    85
+.................................................................
+
+                       MODERN SCAMS: HOW SCAMMERS
+
+                   ARE USING ARTIFICIAL INTELLIGENCE
+
+                       AND HOW WE CAN FIGHT BACK
+
+                              ----------                              
+
+                      Thursday, November 16, 2023
+
+                                        U.S. Senate
+                                 Special Committee on Aging
+                                                    Washington, DC.
+    The Committee met, pursuant to notice, at 10 a.m., Room 
+106, Dirksen Senate Office Building, Hon. Robert P. Casey, Jr., 
+Chairman of the Committee, presiding.
+    Present: Senator Casey, Gillibrand, Blumenthal, Warren, 
+Kelly, Braun, and Rick Scott.
+
+                 OPENING STATEMENT OF SENATOR 
+                 ROBERT P. CASEY, JR., CHAIRMAN
+
+    The Chairman. The Senate Special Committee on Aging will 
+come to order. We want to thank everyone for being here this 
+morning. Welcome to the Special Committee on Aging's 10th 
+hearing of the 118th Congress.
+    Today's hearing is entitled, "Modern Scams, How Scammers 
+are Using Artificial Intelligence and How We Can Fight Back." 
+We are here today to discuss fraud and scams, an issue that has 
+touched millions of American families, including, of course, 
+older adults.
+    In 2022, frauds and scams cost Americans $9 billion, a 30 
+percent increase from just one year before. Older Americans 
+lose more money to scams on average than younger adults. Last 
+year, they reported losing more than $1.6 billion to fraud, 
+though the actual losses can be as high as $48 billion.
+    It has long been an Aging Committee priority to protect 
+older adults from fraud and from scams. Today, we are releasing 
+the Committee's 8th annual fraud book. This critical resource 
+captures the most common scams targeting older adults in 2022 
+and offers resources to protect against fraud. Here is the 
+book, and here is the Spanish version of the book.
+    We are very proud of the work that goes into this, the 
+staff work by members of the staff on both sides of the Aging 
+Committee, both majority and minority staff. This year, the 
+Committee's work is, among other things, focused on exploring a 
+new threat related to scams. Of course, that is what we know is 
+AI, artificial intelligence.
+    By now, we have all likely heard of what artificial 
+intelligence is all about, and we have also heard of generative 
+AI, a nascent, vast and opaque tool that many Americans don't 
+fully understand. I would include in that the work that the 
+Senate is doing.
+    Member, individual members of the Senate, both parties are 
+trying our best to understand artificial intelligence and 
+especially generative artificial intelligence. We are learning 
+as well, and at the same time as the Nation is learning.
+    While we are working to understand the potential 
+applications of AI, scammers have been integrating it into 
+their schemes to make their employees more lifelike and 
+convincing. Deepfakes or AI developed images that look nearly 
+identical to a real life person and voice clones can mimic the 
+voice of a loved one and can easily dupe consumers and 
+businesses into giving away valuable personal information or 
+money.
+    Any consumer of any age can fall victim to these highly 
+convincing scams. In preparation for today's hearing, my staff 
+spoke to numerous people around the country who were scammed or 
+nearly scammed by these bad actors using AI.
+    These stories are heartbreaking, with victim after victim 
+expressing reactions of fear, despair, disbelief, and anger. 
+One of our witnesses will share his story today, Gary 
+Schildhorn. Gary is from Montgomery County, Pennsylvania, just 
+outside of Philadelphia in the Southeastern corner of our 
+State.
+    Gary will talk about, despite knowing all the signs, talk 
+about his situation of nearly losing $9,000 to a scammer after 
+he heard a voice clone of his son on the other line pleading 
+for help. Gary, I want to thank you for being here today and 
+for telling your story. We will also have a chance to hear from 
+six other people today who are willing to share their stories.
+    The following will appear in a video, Jennifer DeStefano 
+from the State of Arizona, Amy Conley from the State of New 
+York, Janis Creason from the State of Pennsylvania, Dauphin 
+County, right in the middle of our State, and Terry and Elva 
+Holtzapple and their neighbor, Jake Rothermel, from Potter 
+County, Pennsylvania, way up on the Northern border, the New 
+York border of Pennsylvania.
+    We will share some of their experiences today and more of 
+their stories will be available on the Aging Committee's 
+website. These stories are awfully hard to hear, and they are 
+tragic. I know that as a parent, I would feel the same fear and 
+the same need to react or act if I heard about--I heard the 
+voice of one of my daughters or something that happened to 
+them, or my grandchildren on the other end of the phone begging 
+for assistance.
+    Any one of us would react in the ways that the testimony 
+today will outline. This is something we all have to be more 
+aware of, so with that, we are grateful you are here today, but 
+we will play this video clip first, and then I will turn to 
+ranking member Braun.
+    [Video playing.]
+    Female Speaker. Immediately heard, Mom, I have been in an 
+automobile accident. I have been in an accident.
+    Female Speaker. Immediately I heard sirens and my 
+daughter's voice, and she said in a crying voice, mom, I got in 
+an accident.
+    Male Speaker. My daughter was--how--she was crying on the 
+phone. I mean, profusely crying and saying, mom, mom, mom, and 
+of course, my wife was saying, Leanne, Leanne, what is the 
+matter? Leanne, Leanne, and then she repeated it again, mom, 
+mom, mom, and it was--it sounded exactly like her.
+    Female Speaker. I answered the phone, and it was my 15 year 
+old daughter crying and sobbing saying, mom, mom, mom, help me. 
+These bad men have me. Help me. Help me. Help me.
+    Female Speaker. Someone called posing as someone from law 
+enforcement--the court system, I would say someone in the court 
+system, and explained to me what had happened, that my daughter 
+had been charged, what the next steps were, and said that they 
+could get her into a program that would ensure she did not get 
+points on her record, that she would not be charged, and said 
+there would be some cost involved to it.
+    Female Speaker. The phone rang right away, and it was 
+someone who said they were from the probation agency and that 
+it would be $15,000 to get her out of jail.
+    Male Speaker. It wasn't very long, a public defender 
+called. She said, she is going to be charged and she is going 
+to go to jail. She said, but you can post bail for her if you 
+want to, and she won't go to jail. We said, well, how much is 
+the bail? She said, it is $15,000.
+    Female Speaker. He started to demand $1 million. That was 
+impossible. Then he got really angry with me about that, so 
+then he came up with $50,000.
+    Male Speaker. There was something subconscious about this 
+incident that I believe resonated with them, that things were 
+not all on the up and up.
+    Female Speaker. As I was ready to get in the car, actually 
+to head to the bank and get out money to send with the courier, 
+honestly, I just put my head down in the car and just said a 
+prayer. Out of the blue, it was just like, it is a scam.
+    Female Speaker. She sent a picture of herself at home 
+smiling, saying, I am fine, so at that point, I knew it was a 
+scam.
+    Male Speaker. Jake called us back. He found out all the 
+information. I was on the phone with him, and Elba was on the 
+phone with Leanne, and Jake said, it is a scam.
+    Female Speaker. Then finally, the mom who was with my 
+daughter, Aubrey, was able to get my husband on the phone who 
+was able to locate my older daughter, Bree. I demanded that I 
+talk to her to make sure that was really her. I started asking 
+her questions, and she is just, mom, I have no idea what is 
+going on. I am here with Dad, and at that point, then that is 
+when I knew that this was a scam.
+    Female Speaker. It is the worst feeling a parent can have.
+    Female Speaker. It has rattled us for sure.
+    Female Speaker. I was devastated when I heard it. I was 
+upset. I had tears.
+    Female Speaker. I could hear in the background pleading and 
+crying and begging for my help, and then that is when I got 
+really scared.
+    Male Speaker. Scammers are going to basically play on one 
+thing, and that is on the heartstrings of particularly family 
+members, because when it comes to family, we will do anything 
+for our families.
+    [End of video.]
+    The Chairman. Well, you heard it all there. That is what we 
+are dealing with here, and real people in real lives. Ranking 
+Member Braun.
+
+                 OPENING STATEMENT OF SENATOR 
+                   MIKE BRAUN, RANKING MEMBER
+
+    Senator Braun. Thank you, Mr. Chairman. What we just 
+listened to there, it is going to get worse because we are at 
+the leading edge of this technology, and it has always amazed 
+me in running a business for as long as I did, and when we 
+embraced technology 15 to 20 years ago, and it became such an 
+important part of running a profitable, efficient logistics and 
+distribution business, but constantly you have got folks out 
+there through credit card scams, you name it.
+    They are after everyone, and it amazes me how broad it is. 
+Now you see what happened here. I think the main takeaway is 
+that AI obviously can be used for that. It also may be the tool 
+that you can use against it. That is kind of the conundrum.
+    We just need to figure it out. Private sector has been 
+using AI, I think beneficially, for a long time. Dates back 
+into the 90's. It is important I think the Government embraces 
+the technology so it understands it, so that we can come up 
+with some paradigm that is in place to help folks like we just 
+listened to.
+    I am going to be introducing the Medicare Transaction Fraud 
+Prevention Act, which will be very simply for all the fraud 
+that comes around it using the same tools credit card companies 
+have used for a long time, and you have all been part of that, 
+where somehow they get your credit card number. They do a great 
+job at it. In most cases, the fraud does not occur.
+    There is no reason we wouldn't want to, minimally at least, 
+mimic that. It is going to target two particular areas, 
+diagnostic testing and durable medical equipment. That is 
+another way you can scam--and here you are involving the 
+Government, and these are generally expensive items, medically 
+speaking.
+    What this would do is notify beneficiaries in real time 
+with suspicious activity. While some of my colleagues have 
+called for a heavy handed Federal approach to AI, I am very 
+concerned that we don't smother it because it is already out 
+there, and the malfeasance is ahead of maybe the good results 
+that can come from it.
+    I am proud to be part of this hearing. It is very important 
+that we keep this in the discussion mode. Be sure that we don't 
+smother the technology because it is already out there, and if 
+we do not embrace it, we will not be able to counter the ill 
+effects out there. I yield back, Mr. Chairman.
+    The Chairman. Thank you, Ranking Member Braun. I will start 
+our witness introductions. I will do three, and then I will 
+turn to Ranking Member Braun for our fourth witness. Our first 
+witness, as I mentioned in my opening, Gary Schildhorn, and 
+Gary, I want to thank you for being here, for telling your 
+story.
+    Gary is a lawyer in Philadelphia. He specializes in 
+corporate law, including corporate fraud. He will share his 
+experience with a bad actor, and that is a terrible 
+understatement, who used his son's voice to try to scam him out 
+of thousands of dollars, something no parent, no family member 
+wants to endure.
+    Gary, thank you for being here with us today and for 
+sharing your story. Our second witness is Tom Romanoff. Tom is 
+the Director of the Technology Project at the Bipartisan Policy 
+Center. He has previously led IT initiatives, etcetera, for 
+several Federal agencies and explained the impact of new 
+technology on Government operations.
+    He will discuss how AI is being used to make fraud and 
+scams both more sophisticated and harder to detect. Mr. 
+Romanoff, thank you for being with us today and bringing your 
+expertise. Our third witness is Steve Weisman, a Professor, 
+Attorney, and an expert in scams, identity theft, and cyber 
+security.
+    Mr. Weisman has dedicated his career to educating consumers 
+on how to safeguard against fraud and scams. Thank you for 
+being here and for sharing your expertise with us. I will now 
+turn to Ranking Member Braun.
+    Senator Braun. My pleasure to introduce Dr. Tahir Ekin. He 
+is the Field Chair in Business Analytics and Professor of 
+Information Systems at Texas State University. His book, 
+"Statistics and Health Care Fraud, How to Save Billions," 
+covers fraud prevention strategy and many of the trends that 
+will be discussed here today.
+    Thank you for coming here to testify for us.
+    The Chairman. Thanks, Ranking Member Braun. We will turn to 
+our first witness, Gary Schildhorn.
+
+         STATEMENT OF GARY SCHILDHORN, JD, ATTORNEY AND
+        INTENDED SCAM VICTIM, PHILADELPHIA, PENNSYLVANIA
+
+    Mr. Schildhorn. Thank you, Chairman Casey, Ranking Member 
+Braun, for inviting me to this hearing. I hope my testimony is 
+useful. As you mentioned, I am a practicing attorney in 
+Philadelphia, and I was the intended victim of a scam using my 
+son's voice, and here is the story. I was on my way to work.
+    My phone rang. It was my son. He was crying. He said, dad, 
+I was in an accident. I hit another car being driven by a 
+pregnant woman. My nose is broken. They arrested me. I am in 
+jail. They assigned a public defender to me.
+    His name is Barry Goldstein. You need to call him. You have 
+to get me out of here. Help me. I said Brett, I will call him, 
+and I will call you right back. He said, you can't. They took 
+my phone. Help me, dad. I am a father. I am a lawyer.
+    My son is in trouble. A pregnant woman was hurt. He is in 
+jail. I am in action mode. Before I could do anything, my phone 
+rings again. It is Barry Goldstein. I just met with your son. 
+He is hurt. He has a broken nose, but he will be okay.
+    He hit a car being driven by a pregnant woman. She was 
+taken to the hospital. They arrested your son because he failed 
+the breathalyzer test at the accident scene. I said, wait, my 
+son would never drink and drive.
+    He said Brett told him that, but he had an energy drink 
+that morning and that may have caused the failed test. He said 
+I should take some steps if I wanted to, to bail my son out. I 
+said, of course I want to do that. He said, well, I will give 
+you the phone number for the courtroom, courthouse, and here is 
+your son's case number.
+    You should call the courthouse and bail him out. I 
+immediately called the courthouse. They answered correctly. I 
+tell them why I am calling. They said, what is your son's name? 
+They asked for the case number.
+    They said, yes, your son is here. Bail was set at $90,000. 
+You need to post 10 percent, $9,000 to bail him out, but there 
+is a problem. I said, what is the problem? The county bail 
+bondsman was away on a family emergency, and he is not 
+available. He said, but there is a solution. You can post what 
+they called an attorney's bond.
+    I said, I am an attorney. He said, yes, but you haven't 
+entered your appearance on behalf of your son. There is a Mr. 
+Goldstein that did that. You should perhaps call him back and 
+try to get him to post the attorney's bond. I hang up. I call 
+Mr. Goldstein back.
+    Mr. Goldstein, can you post the bond for my son? Yes. You 
+need to wire me $9,000. He said I am a member of a credit 
+union, so you need to take the cash to a certain kiosk, which 
+will get the money to me, and I am scheduled to leave for a 
+conference in California. I will be leaving to the airport in 
+two hours, so you need to move quickly.
+    I learned later that that kiosk was a Bitcoin kiosk that 
+would convert the money to cryptocurrency. I hang up. All of 
+these calls happened in two minutes. This is the first time I 
+had a chance to think. I called my daughter-in-law and 
+suggested that she call work and tell them that my son wasn't 
+going to make it today because he was in an accident.
+    A few minutes later, Facetime call from my son. He is 
+pointing to his nose. He goes, my nose is fine. I am fine. You 
+are being scammed. I sat there in my car. I was physically 
+affected by that. I was--it was shock and anger and relief.
+    I decided that I would try to keep Mr. Goldstein engaged in 
+the scam while I invited law enforcement to become involved. I 
+contacted the Philadelphia police and they said because I had 
+not lost the money, they couldn't help me. I called the local 
+FBI office.
+    They said, look, there is burner phones and cryptocurrency. 
+They are aware of this scam, and that they were unable to bring 
+back cryptocurrency once it was out of the country or wherever 
+it went, and so they were unwilling to get involved, and that 
+left me fairly frustrated because I had been involved in 
+consumer fraud cases in my career and I almost fell for this. 
+The only thing I thought I could then do was to warn people. I 
+approached the Philadelphia Inquirer and they did a feature 
+story, and Fox News ran a segment on their morning show.
+    The scam hasn't abated. Since that article came out, I have 
+received 20 to 25 calls throughout the country of people who 
+have been contacted by Barry Goldstein and who had lost money, 
+and they were devastated.
+    I mean, they are emotionally and physically hurt. They 
+almost were calling to get a phone call hug because they were 
+so upset. They asked me, you know, what could I recommend? I 
+said, look, the--do what I did.
+    Go public. The other suggestion I had was to go to the bank 
+where they bank and suggest the tellers inquire about anyone 
+that's taking out a lot of cash that doesn't usually do that. 
+That was the only thing I could come up with.
+    The cryptocurrency and AI have provided a riskless avenue 
+for fraudsters to take advantage of all of us. They have no 
+risk of exposure. I know that there is economic benefit to 
+cryptocurrency, but I also know that it causes substantial harm 
+to society, and financial harm.
+    To me, you know, it is fundamental if we are harmed by 
+somebody, there is a remedy either through the legal system or 
+through law enforcement. In this case, there is no remedy, and 
+that fundamental basis is broken, and I hope that this 
+committee could do something about that. Thank you.
+    The Chairman. Well, Gary, thanks very much for telling your 
+story. It will help us better be prepared in helping others. 
+Mr. Romanoff, you may begin your opening statement.
+
+             STATEMENT OF TOM ROMANOFF, DIRECTOR OF
+
+           THE TECHNOLOGY PROJECT, BIPARTISAN POLICY
+
+                    CENTER, WASHINGTON, D.C.
+
+    Mr. Romanoff. Thank you, Chairman Casey and Ranking Member 
+Braun for having me today. It is an honor to be here. Thank 
+you, Gary, for sharing your story with us today. I am Tom 
+Romanoff. I am the Director of the Technology Project at 
+Bipartisan Policy Center, where we focus on bipartisan 
+solutions for the technology sector. We started this work in 
+2019 when we formulated the AI National Strategy with 
+representatives Will Hurd and Robin Kelly.
+    The strategy passed as 1250, House Resolution 1250, 
+alongside seven other bipartisan sponsors. Prior to my role at 
+the Bipartisan Policy Center, as you mentioned, I advised C-
+suite executives on emerging technologies and policy, and 
+included in my clients were the Office of Management and 
+Budget, the FDA, General Services, among many others.
+    There are a lot of questions about what this technology can 
+do and what it cannot do, so I want to first level set about 
+generative AI.
+    First, we are speaking about a very specific type of AI. 
+There are six other disciplines, all of which profoundly impact 
+our world. We are seeing exponential growth across all of those 
+disciplines and branches of AI.
+    Second, many of the ideas we are discussing today predate 
+AI's current use and current capacity. The use of AI to amplify 
+these crimes is concerning as we already know the challenges in 
+stemming scams and frauds were difficult before the capability 
+of AI was brought to bear.
+    Third, last year, publicly available generative AI programs 
+got so good at--that most people could not tell the difference 
+between computer generated content and human generated content.
+    With the recent capacity enhancements and this technology's 
+availability, cybercriminals are increasingly adopting it. 
+Generative AI specifically poses some questions because it has 
+compounding effects beyond what we have seen to date. Number 
+one, it makes it easier, cheaper, and faster for scammers to 
+produce deceptive content, and number two, the increasing 
+quality, quantity, and targeting capabilities lend a hand to 
+fraud. It is critical to understand that while AI has numerous 
+benefits, its misuse in scams is a growing concern. Adding to 
+said concerns is that cybercrimes are on the rise.
+    As you mentioned earlier, the Federal Trade Commission 
+reported that a staggering steady increase of online fraud 
+losses year over year has been increasing, with 2022 losses 
+reaching around $9 billion.
+    Addressing this challenge requires a multi-pronged 
+approach, especially in the age of AI. We need to enhance 
+synthetic media detection capabilities, ensure content 
+verification, develop standards and response processes, and 
+implement multiple authentication factors for users, while 
+addressing issues in the defense mechanisms themselves, such as 
+bias and discrimination in the automation detection systems.
+    On that last point, please don't make any mistake. The use 
+of AI models with biased data to detect cyber fraud detection 
+may have significant consequences. AI is just a model that uses 
+data, and we never really figured out the data considerations, 
+and so the AI models will have the same questions and concerns 
+that we have around data use and decisionmaking that we have 
+been asking ourselves for 20 years.
+    If AI systems are fed garbage data, then they will produce 
+garbage outcomes. In closing, the pace at which AI is being 
+adopted and advancing is breathtaking. As we embrace its 
+benefits, we must also be vigilant against its risks, 
+especially cybercrimes.
+    The recent Executive Order by President Biden emphasizing 
+the management of synthetic content and labeling a verification 
+of AI generated media is a step in the right direction. 
+However, more concentrated efforts are needed at both the 
+Federal and State levels, and the role of Congress cannot be 
+understated.
+    We must codify and standardize the undefined aspects of 
+this technology in order to respond to the negative use cases. 
+States will continue to forge ahead with their own laws and 
+regulations, creating a patchwork of definitions, standards, 
+and enforcement that could be further exploited by cyber 
+criminals.
+    It is often said that innovation is at the heart of 
+progress, but it is critical that Congress works to strike a 
+balance between innovation and regulation to safeguard our 
+society, particularly our senior citizens, from the dark side 
+of AI. Thank you.
+    The Chairman. Thank you, Mr. Romanoff. Mr. Weisman.
+
+          STATEMENT OF STEVE WEISMAN, JD, SCAM EXPERT,
+
+       EDITOR OF SCAMICIDE.COM, SENIOR LECTURER, BENTLEY
+
+               UNIVERSITY, WALTHAM, MASSACHUSETTS
+
+    Mr. Weisman. Chairman Casey, Ranking Member Braun, thank 
+you for the opportunity to provide testimony today.
+    My name is Steve Weisman. I am a lawyer with the firm of 
+Margolis, Bloom & D'Agostino, a Professor at Bentley 
+University, where I teach white collar crime. Author and the 
+editor of scamicide.com, where each day I provide new 
+information about the latest scams, identity theft, and 
+cybersecurity developments, and tips on how to avoid these 
+problems.
+    Scamicide was named by the New York Times as one of the 
+three best sources for information about Covid related scams. 
+When it comes to fraud and scams affecting seniors, I am here 
+to tell you things aren't as bad as you think.
+    Unfortunately, they are far worse. According to the FTC's 
+Consumer Sentinel Report, which was just released a few weeks 
+ago and you mentioned, older Americans reportedly lost $1.6 
+billion to frauds and scams in 2022.
+    As you also mentioned, this number is undoubtedly lower 
+than the actual figure because many seniors, for a variety of 
+reasons, including embarrassment or shame, fail to report the 
+scams perpetrated against them.
+    The FTC estimates in 2022 the actual amount lost by seniors 
+could be as high as $48.4 billion. Now, with artificial 
+intelligence, the scams are getting worse. AI has become a 
+sophisticated weapon that can be effectively utilized by even 
+the most unsophisticated scammers.
+    Today, I would like to tell you about a few of the scams in 
+which AI is being used and how we can protect older adults. By 
+now, as you heard, many people are somewhat familiar with the 
+family emergency scam or grandparent scam in which a family 
+member receives a telephone call from someone posing as their 
+loved one.
+    The individual on the phone claims to have gotten into some 
+trouble, most commonly a traffic accident. In grandparent 
+scams, the scammer pleads for the grandparent to send the money 
+immediately to help resolve the problem and begs the 
+grandparent not to tell mom and dad.
+    Now, this scam has been perpetrated for approximately 14 
+years, but it is getting worse, and we have AI to thank for 
+that. Through the use of readily available AI voice cloning 
+technology, a scammer using a recording of the grandchild or 
+child's voice obtained from YouTube, Tik Tok, Instagram, or 
+voice mail can create a call to the grandparent that sounds 
+exactly like the grandchild.
+    All it takes is AI voice generating software readily 
+available and as little as 30 seconds of audio. Phishing 
+emails, and the more specifically targeted spear phishing 
+emails, use social engineering to lure the targeted victim to 
+click on a link, download a malware attachment, make a payment, 
+or provide personal information.
+    Spear phishing, however, is a personalized phishing email 
+that incorporates information about the targeted victim to make 
+that email more believable, and phishing is used in a variety 
+of schemes. In 2021, Google conducted a study in conjunction 
+with researchers at Stanford.
+    The researchers studied more than a billion malicious 
+emails targeting Gmail users, and they found that the number of 
+phishing and spear phishing emails users received totaled more 
+than 100 million each day.
+    Again, as bad as a threat as socially engineered spear 
+phishing emails have presented in the past, they are far worse 
+now because of AI. Using AI, scammers can create more 
+sophisticated and effective spear phishing emails that are more 
+likely to convince a victim to fall for a scam.
+    In the past, phishing emails, particularly those 
+originating overseas in countries where English is not the 
+primary language, could be recognized by their lack of grammar, 
+syntax, or spelling. However, AI has solved those problems for 
+foreign scammers and their phishing emails are now more 
+difficult to recognize.
+    So how do we protect seniors from scams? Well, forewarned 
+is forearmed. Alerting the public as to telltale signs of scams 
+and how to recognize them is a key element in protecting 
+seniors. I do this each day through scamicide, and this 
+committee has also done this through publications such as its 
+Fraud Book publication, which contains much useful information.
+    Fortunately, AI can also be an effective tool in combating 
+AI enhanced scams. Machine learning algorithms can analyze vast 
+amounts of data to identify patterns and trends associated with 
+spear phishing emails.
+    AI can also be used to identify robocall patterns and 
+detect spoofing, a technique used to manipulate caller ID and 
+mimic another phone number. Regulation of AI is critical to 
+protecting people from AI enhanced scams, and as was said, the 
+President's recent Executive Order is a promising first step.
+    The FTC has regulatory authority over AI through Section 
+five of the FTC Act, but Congress will also have a role to play 
+in crafting appropriate regulations. Unfortunately, scammers 
+may pay little attention to regulators, so regulators should 
+focus on ensuring consumers can identify and authenticate 
+content.
+    When it comes to protecting seniors from the daunting 
+challenge of AI and scams, the time to do the best we can is 
+now.
+    The Chairman. Thank you, Mr. Weisman. Dr. Ekin. Is that--
+did I pronounce that correctly, Ekin?
+
+          STATEMENT OF TAHIR EKIN, PH.D, PROFESSOR AND
+
+         DIRECTOR OF THE CENTER FOR ANALYTICS AND DATA
+
+       SCIENCE, TEXAS STATE UNIVERSITY, SAN MARCOS, TEXAS
+
+    Dr. Ekin. You did. Thank you, Chairman Casey and Ranking 
+Member Braun. Today, as we convene, it is alarming to 
+acknowledge an 81 percent increase in losses to scams among 
+older Americans, accounting to billions of dollars in the past 
+year.
+    I am Tahir Ekin, Fields Chair in Business Analytics and a 
+Professor at McCoy College of Business, Texas State University. 
+My research dives into the critical intersection of AI and 
+fraud detection. I am honored to testify on this urgent matter 
+today.
+    Scams continue to affect older Americans at alarming rates. 
+Despite improved awareness and educational campaigns, both the 
+losses and the number of victims has surged. This prompts the 
+question, are scammers becoming more sophisticated or our 
+response is lagging?
+    The reality likely involves a combination of both. AI 
+amplifies the impact of scams, enhancing their believability 
+and emotional appeal through personalization. Voice and face 
+manipulation illicit urgency and familiarity, manipulating 
+older adults' emotional responses and vulnerability. Notably, 
+there is a surge in personalized scams.
+    Recognizing the growing role of AI in scams is crucial. 
+While efforts to help scammers are underway, we should also 
+explore AI as part of the solution. My research centers on AI 
+methods for health care fraud detection draws parallels to 
+combating scams targeting older Americans.
+    Industries like credit card companies have successfully 
+used AI for fraud detection, denying suspicious transactions in 
+almost real time, and collaborating with consumers for 
+confirmation. However, health care fraud still incur 
+substantial losses as high as 10 percent of our annual health 
+expenditures, which could mean more than $300 billion.
+    Hence the name of my book, "Statistics on Health Care 
+Fraud, How to Save Billions." We have limited resources to 
+analyze billions of transactions. Statistics and AI find the 
+needle in the haystack to support the auditors and save 
+taxpayers money.
+    AI's proactive role extends to monitoring online platforms 
+and blocking potential scam calls, yet its true potential lies 
+in collaboration as seen in Government health care programs. 
+Initiatives like the Medicare Transaction Fraud Prevention Act 
+that advocate data collection and call verification with 
+beneficiaries are essential for AI integration, akin to credit 
+card fraud detection.
+    Responsible AI methods can facilitate personalized 
+education campaigns while preserving privacy and ethics. For 
+example, AI can flag a typical behavioral patterns like sudden 
+financial transactions, enabling tailored alerts and 
+educational materials for older adults. Last, fraudsters are 
+adaptive, and scams will evolve.
+    Use of adversarial AI can help proactively limit scammers' 
+abilities. Acknowledging AI's imperfections such as false 
+positives and addressing privacy concerns is crucial. However, 
+by constructing responsible AI systems, we can empower older 
+Americans while navigating potential risks.
+    To effectively combat these evolving threats, collaboration 
+among Government agencies, tech companies, financial 
+institutions, and consumer advocacy groups is crucial. Sharing 
+insights and data to train these AI models to detect and 
+prevent these scams is pivotal, including input from older 
+adults in developing AI driven tools is also necessary.
+    In the fight against AI driven scams, awareness and AI 
+literacy are critical weapons. Existing efforts, such as the 
+President's campaign, can be enhanced to include AI related 
+steps. In the context of ethical use of AI against scams, clear 
+disclosure of the use of AI in communication, marketing, and 
+financial transactions, with a focus on protecting vulnerable 
+populations is important.
+    Accessible support and reporting mechanisms such as the 
+toll free for all hotline are crucial against gaps. AI based 
+chat bots and communication channels can supplement and provide 
+additional support outside the business hours and at the time 
+of need.
+    AI also can make public scam campaigns more impactful, 
+making them tailored to the needs of specific older adult 
+groups. In conclusion, the interplay of AI and scamps brings 
+forth challenges and opportunities.
+    Striking a careful balance between fostering AI innovation 
+and protecting vulnerable populations is paramount. I advocate 
+for proactive and personalized AI based supporting measures, 
+recognizing the difficulty in recovering both lost finances and 
+mental well-being after a scam has occurred.
+    By prioritizing the enhancement of their data and AI 
+literacy, we can also actively involve older Americans in 
+prevention and detection. Understanding the impacts of dynamic 
+disruptions like AI will undoubtedly take time.
+    As a realistic optimist, I find hope in the collaborative 
+efforts to yield robust and trustworthy AI applications, 
+fostering a safer environment for older adults. Thank you for 
+providing this platform to address this critical issue.
+    Your work in safeguarding older Americans against scams and 
+raising awareness is commendable. I eagerly welcome any 
+questions or discussions the committee may have. Thank you.
+    The Chairman. Doctor, thank you very much. We will now move 
+to our questions of the witnesses, and just for folks' 
+awareness, today is Thursday, so we have Senators in and out 
+coming from other hearings and other commitments, so we should 
+have some Senators here at 10:45.
+    It will be about the time that Senator Braun and I are 
+probably through our first round of questions. I will start 
+with Gary Schildhorn. Gary, thanks again for sharing your 
+experience, and we know that when it comes to these scams, 
+these bad actors, or better way to refer to them as criminals, 
+will prey upon our vulnerabilities and our fear. They know we 
+are human beings.
+    They know they can advance their scam by playing on those 
+fears and those vulnerabilities. With artificial intelligence, 
+scammers can more easily and quickly and accurately tailor or 
+target their scams to intended victims.
+    The Committee offers resources, including the Fraud Book 
+which I mentioned earlier, that shares some red flags to watch 
+out for and steps to take to prevent against scams. We are also 
+releasing a brochure, which I have here, that will provide more 
+information in a shorter form.
+    Gary, I wanted to ask you this. Why do you think people 
+should--what do you think people should know about AI assisted 
+scams, number one, what should they know? How should they 
+identify them? What are some of the red flags or indicators 
+that you have learned since you were the target of this?
+    Mr. Schildhorn. Thank you for the question. It is very 
+difficult now to see red flags. The person that I spoke with, 
+Barry Goldstein, spoke coherent, intelligent English. There 
+were no grammatical errors or mispronunciation of words. His 
+text messages back and forth were clear and responsive.
+    When I was engaging him to, while I was trying to get law 
+enforcement in, I told him that I was trying to find this name 
+in Martindale Hubbell, and for lawyers, that is where lawyer 
+biographies are found. He sent me a biography that he had 
+already had ready.
+    It is very difficult for that--for you to see a sign that 
+it is a scam. There is one way that I recognize as a red flag. 
+When someone is asking you to send money either by cash or by 
+gift cards or other untraceable methods, that is the red flag.
+    That is when an antenna should go up and say, well, why 
+aren't they just asking me to do a regular wire transfer from 
+my bank to their bank? In answer to your question, that is the 
+main red flag that I see that a consumer could react to as a 
+possible indication of a scam.
+    The Chairman. I know that over the years and among other 
+things that our Fraud Book has talked about, just in the 
+context of certain kinds of scams, that there are red flags. I 
+understand what you are saying, they are a lot harder to 
+detect.
+    For example, we used to say that, and it is still the case 
+with these IRS scams that are somewhat related to what we are 
+talking about, but now of greater sophistication, but the rule, 
+one rule was, if someone calls you and says they are from the 
+IRS on the telephone, it is your first contact, it is not the 
+IRS. You always get something in writing.
+    I realize that is a rather simple rule. Much harder to find 
+the simple red flags with the sophistication of AI. Mr. 
+Weisman, I know you have got a website, scamicide, which 
+features a tremendous amount of information about scams.
+    You have been doing this for about 12 years, a scam of the 
+day, and it is hard to believe you have that much content, but 
+that tells you the gravity of the problem or the scope of it. 
+Your work demonstrates how pervasive and persistent scammers 
+are and how diverse their tactics are when targeting witnesses.
+    This Committee has been collecting data on scams targeting 
+older adults for about 10 years now. We have seen trends that 
+change and new technologies that emerge, and obviously some of 
+those are set forth in the Fraud Book.
+    In the time that you have been running--operating the 
+website, how have you seen technology change and tactics shift? 
+Maybe, what is your advice for us as we look forward down the 
+road, especially with the advent of AI?
+    Mr. Weisman. You mentioned when I started scamicide, I 
+wondered if I would have enough scams to do a new one every 
+day, and after more than 4,400 scams, unfortunately they don't 
+stop. You know, the scams--the scams have been with us forever.
+    The Nigerian email is just an update of a scam called the 
+Spanish Prisoner from the 1500's, and the cryptocurrency scams 
+we see, even cryptocurrency pump and dumps were done before.
+    You are right, the technology has changed it. It has 
+changed the delivery systems as far as robo calls. It is done 
+it--the voice over internet protocol where phones can be--
+messages can come in from all over the world over a computer, 
+and the phone is still the way that seniors get the most 
+scammed.
+    Then there is even something called spoofing. You mentioned 
+the IRS, and you know it is not the IRS, which is the same line 
+I have always told people. However, they look at their caller 
+ID and they see the call is coming from the IRS, and so they 
+trust it. That is where my motto comes in is, trust me, you 
+can't trust anyone.
+    AI has just enhanced that, and sort of what Tom was saying, 
+any time you are asked for personal information, any time you 
+are asked to make a payment of any kind, any time you are asked 
+to click on a link, you have got to be skeptical. You have got 
+to hold back and check it out.
+    That is a nice rule that can be very difficult when these 
+scammers, the scam artists, the only criminals we call artists, 
+have a knowledge of psychology Freud would have envied and they 
+are able to manipulate us, and that is where we need to change 
+our minds.
+    The Chairman. Thanks very much. Ranking Member Braun.
+    Senator Braun. Thank you, Mr. Chairman. Mr. Schildhorn, how 
+did the story end with Barry Goldstein? I see where he actually 
+got mad at you at the tail end. Was anybody ever able to track 
+this guy down, or is he still out there?
+    Mr. Schildhorn. Ranking Member Braun, it ended when I asked 
+him for his Social Security number.
+    Senator Braun. I see that, yes.
+    Mr. Schildhorn. He told me--he actually cursed me out. Told 
+me I didn't love my son and stopped communicating with me at 
+that point. That is how it ended. What was the second part of 
+your question?
+    Senator Braun. In other words, he got frustrated and then 
+he just disappeared into the ether then?
+    Mr. Schildhorn. He recognized that, but is he still out 
+there? Yes. I know that because the calls I got when people 
+found my article were telling me that it was Mr. Goldstein.
+    Senator Braun. He is still using the same name?
+    Mr. Schildhorn. It works. Why not? When the reporter 
+reached out to him, it was pretty incredible because the 
+reporter said, you are in California. How did you meet with 
+Schildhorn in Philadelphia? Oh, well, it was a phone meeting. I 
+mean, he had answers for everything. Yes, as far as I know from 
+the calls I have received, that scam is unabated. It still goes 
+on, and no one has----
+    Senator Braun. The traceability of using a phone or 
+whatever he does has never led authorities to Mr. Goldstein?
+    Mr. Schildhorn. When I first contacted the FBI, they said, 
+well, they use burner phones which cannot be traced, and the 
+cryptocurrency cannot be recalled. At that time, I am not even 
+sure they could find the accounts that cryptocurrency--this was 
+2020, so law enforcement had no solution.
+    As I said in my testimony, it is fundamental in our system 
+that if you are harmed, you have a remedy. Here, there seemed 
+to be no remedy, neither the courts of law or law enforcement.
+    Senator Braun. He is not the only one. Thank you for 
+explaining that thoroughly. Question for Mr. Romanoff. When you 
+look at how AI has been used in terms of credit card companies, 
+health care, we know, and we have seen some real graphic 
+examples of how it is used maliciously. Can you go over a few 
+of the things that we know it has worked at and saved time and 
+money?
+    Mr. Romanoff. Yes. The sheer amount of information and data 
+that needs to be processed in order to protect systems against 
+cybercrime and hacking is--a human can't do it, and so, there 
+is algorithms that have existed for many years now.
+    AI has been used to assist cyber defenders for years in 
+terms of processing that information, identifying trends, and 
+flagging anything that could be fraudulent in that space. That 
+continues to be a major factor in terms of defending against 
+some of these attacks.
+    In terms of, you know, some of the expanded capacity of 
+being able to detect whether a phone call is actually coming 
+from the right person or identifying trends in robo calling and 
+things like that, AI can be very useful in assisting in that, 
+which does tend to stem some of the scams that are being 
+perpetuated.
+    In terms of, you know, direct correlation between what the 
+credit card companies and this application--you know, there are 
+some obstacles there. You have to have the credit card company, 
+or a financial institution involved in order to, you know, 
+identify a fraud or scam, so when it is happening at an 
+individual level, there is some question as to who steps in and 
+uses these powerful systems to identify that.
+    Senator Braun. In your opinion then, for the bill that we 
+are introducing, I am going to--I think I am going to get 
+colleagues on the other side of the aisle, the Medicare 
+Transaction Fraud Prevention Act, which is aimed at diagnostic 
+testing and durable medical equipment.
+    Is there any reason the principles of what you just 
+described wouldn't work to prevent fraud there, you know, 
+through CMS?
+    Mr. Romanoff. Well, the first thing that comes to mind is 
+that there is different data regulations in terms of HIPAA 
+versus consumer data and protections on that front. I would 
+have to read the bill in order to provide specific insights on 
+that. In terms of the systems of AI being used to identify 
+fraud, you can see an application there, in the application of 
+health care in general, yes.
+    Senator Braun. That amount, by the way, is $60 billion a 
+year.
+    Mr. Romanoff. Oh, yes.
+    Senator Braun. Defrauding Medicare. It is a lot. I got 
+another question. Do you want to yield back and----
+    The Chairman. Go ahead. Go ahead.
+    Senator Braun. Okay. This is for Dr. Ekin. We just 
+described what was happening in our own Government. Like when 
+we did the extended unemployment benefits, which was just under 
+$1 trillion, and there is an estimate that anywhere from $100 
+to $200 billion from domestic and foreign fraudsters.
+    When the Government is involved, it is like, you know--it 
+is a lot easier, seemingly, to defraud. I have never heard 
+commercial entities--they have got all this protective gear. 
+Here, you know, it is like picking it out of a toddler's hand 
+almost.
+    What can we do here and what do you--let's just look at, 
+CMS's current Medicare fraud prevention system. Compare it to 
+what could be out there, and is it any different from what it 
+was years ago?
+    Dr. Ekin. Thank you, Senator Braun, for the question. There 
+have been many improvements actually. In 2011, basically since 
+2011 now CMS has authority to use predictive algorithms to 
+identify fraud, and they have come up with this fraud 
+prevention system, and now we have the second installment of 
+that.
+    Over time, they have been using some both prepayment and 
+post payment methods to detect fraud. Most of the focus has 
+been on post payments, which basically focuses on more pay and 
+chase transactions, so basically the system pays the providers, 
+including fraudsters, and then try to chase the potential--
+basically funds from the fraudulent transactions, which we are 
+not as successful. We are not able to recover as much.
+    Recently, with the second basic installment of the fraud 
+prevention system, they also added prepayment edits, but they 
+mostly focus on basically eligibility of billings with respect 
+to the policies and rules of Medicare.
+    Senator Braun. Is the amount of $60 billion a year going 
+down, or is it still going up?
+    Dr. Ekin. I believe it is still going up because also 
+annual health care expenditure saving going up, right, in the--
+specially the last decade. Most of the Government agencies 
+overall lost around three to ten percent, given that we are 
+spending more than $4 trillion on health care. The amount is 
+easily in----
+    Senator Braun. That is all in the context. Currently, we 
+are borrowing $1 trillion every six months to run this business 
+here. When you have got that kind of fraud nipping at its 
+flanks, something has got to give. Yield back.
+    The Chairman. Thank you, Ranking Member Braun. We are now 
+joined by Senator Blumenthal.
+    Senator Blumenthal. Thanks, Mr. Chairman, and thank you for 
+having this hearing on artificial intelligence, which is 
+growing in importance and gaining public attention at an 
+accelerating rate, almost as fast and accelerating rate as 
+artificial intelligence itself is progressing.
+    As you know, we have done a lot here in the Senate. 
+Majority Leader Schumer has held a number of forums. The 
+subcommittee that I had, a subcommittee of the Judiciary called 
+Privacy, Technology, and the Law has held a number of hearings 
+as well. Ours have been public.
+    At one of them, I--as a matter of fact, the first I played 
+a recording of my voice and introduced it by saying, now for 
+some introductory remarks. It was my voice, but it was taken 
+from speeches that I gave on the floor of the Senate, and the 
+content of what was said came from ChatGPT.
+    One of the witnesses at the hearing was Sam Altman of 
+OpenAI. It was literally my voice, content that could have 
+easily been mistaken for something I said. It sounded exactly 
+like what the chairman of a subcommittee would have said, and 
+it sounded exactly like my voice.
+    Which leads to one of the areas that I think all of you 
+have mentioned, particularly Mr. Romanoff, the impersonation 
+and deepfake dangers. You mentioned in your testimony that some 
+banks now use voice identification to authenticate account 
+ownership because some of the scammers are using voice 
+impersonation in effect to break the authentication that the 
+banks try to use.
+    Can you talk a little bit about how multiple 
+authentication, which you mentioned in your testimony, can help 
+prevent these kind of scams. Whether they would have any 
+application to the individual senior citizen who gets a call. 
+Sounds exactly like that person's nephew stranded here in 
+Topeka.
+    I have no money, please wire money. You know the standard 
+fraud, but the impersonation of the voice is used to trick. 
+Might be anyone, not just a senior citizen, but can you talk a 
+little bit about authentication as a means of breaking the 
+potential impersonation scams.
+    Mr. Romanoff. Sure thing. In terms of voice cloning, it is 
+a technology that has been around for a little bit. 1998 was 
+the first time someone cloned their voice using a computer.
+    With generative AI, as we are all aware, there has been 
+much more capacity and much more availability to access these 
+voice cloning tools. At the same time, banks are, you know, 
+want to provide services to their customers with an ease of use 
+while protecting their assets.
+    For a little while, voice banking was something that you 
+could use the biometric markers of a person's voice in order to 
+authenticate them as a user. It was very recently that a 
+reporter was able to break into their own account using voice 
+banking and demonstrate that these--this technology has 
+advanced to the point where it may not be essentially viable in 
+terms of authenticating a user.
+    In cybersecurity, you are supposed to have multifactor 
+authentication at all times. It does create obstacles to access 
+some of your assets or information or whatever it might be, 
+because the ease of use in terms of doing more than one way to 
+authenticate, you know, can cause people to not want to do that 
+service or whatever it might be.
+    It is necessary because no longer are voice biometrics 
+enough to it indicate a user. You are seeing banks move away 
+from that or shy away from voice authentication as a way to 
+verify. The second thing is behavioral.
+    When it comes to cyber hygiene, we tend to engage our 
+products or services in a way that is familiar to us. If you 
+introduce a behavior such as using your voice to authenticate 
+your bank account, then folks that get used to that will be--
+will expect that, and scammers know that, so they will look for 
+ways that they can capitalize on established behaviors such as 
+voice cloning and voice authentication to access assets.
+    The second thing is to, as Chairman Casey mentioned, if IRS 
+is calling you and it is the first time you are hearing from 
+them, then that is a red flag. It should also be a red flag if 
+your bank is calling you, because there should be more than one 
+way to authenticate that the bank is the one that is calling 
+you in that space.
+    I think the main obstacle here is that, you know, you are 
+dealing with an institution when it comes to banks and trying 
+to authenticate versus you are dealing with a psychological 
+attack, in the case of these scams, where the precedent--where 
+the emphasis is on action.
+    What I encourage folks to do, and this is a very low tech 
+way of addressing the issue, is doing a password among your 
+friends and family and making sure that you are not publicizing 
+that password or putting it in email because hackers will be 
+able to get access to that. If somebody were to call you, you 
+can say password, authenticate.
+    If they aren't able to do that, then you are probably 
+dealing with somebody who is cloning the voice. That is a very 
+low key way of doing it. When it comes to institutional 
+approaches, a multifactor authentication is probably the best 
+bet going forward.
+    Senator Blumenthal. How about the individual, you know, 
+living at home. Is there a way and will there be ways--I assume 
+this technology is also developing the authentication, multiple 
+factor technology.
+    For me, sitting in my living room, getting a call from one 
+of my children, sounds exactly like one of my children saying, 
+you know, I can't talk here at, you know, a bus terminal or 
+train station. I need money, please wire it. A lot of people 
+fall for that kind of scam.
+    Mr. Romanoff. Yes. I am aware of some use cases where 
+private sector is using AI and technology to try to cut down on 
+robo calling, and it is using some of the technology to 
+authenticate a user that is coming in.
+    I am not sure if that is--that product or those products 
+are being applied to authenticate voices per se. I can't answer 
+if there is a specific product or process out there for that.
+    Senator Blumenthal. Thank you. Thank you to all the 
+witnesses who are here today. Thanks, Mr. Chairman.
+    The Chairman. Thanks, Senator Blumenthal. We will turn next 
+to Senator Warren.
+    Senator Warren. Thank you. Thank you, Mr. Chairman and 
+Ranking Member Braun for holding this hearing. Thank you all 
+for being here. Really important topic. Crypto is a favorite 
+for those who are looking to defraud consumers.
+    According to the FBI, in 2022, crypto scams were the 
+leading cause of investment fraud in the United States. Using 
+crypto, fraudsters stole a record $2.5 billion from consumers. 
+Crypto fraud isn't hitting all consumers equally. Last year we 
+saw a 350 percent increase in crypto investment scams targeting 
+seniors.
+    That is the biggest spike among all age groups. That ended 
+up to more than $1 billion that seniors lost in crypto scams. 
+Many victims don't report their experiences, as some of you 
+have noted, out of shame or fear, that billion dollar figure is 
+almost surely an underestimate.
+    Now, Mr. Weisman, you are a nationally recognized expert on 
+scams and cyber security. Why are older Americans particularly 
+vulnerable to crypto scams?
+    Mr. Weisman. You know, it is older Americans are--they are 
+susceptible generally because there is a part of our--you know, 
+anecdotally we say, well, we have lost a little bit of the 
+fastball, which I can attribute to it. It is not going as far, 
+but there is a part of our brain dealing with skepticism that 
+becomes less viable as we age.
+    There have been studies done at Cornell, as well as the 
+University of Iowa, that has shown this. Then you get into the 
+issue of cryptocurrencies itself, and there is this fear of 
+missing out. It is, oh my goodness, this is going to be the 
+best thing since the proverbial sliced bread.
+    The seniors are susceptible to this, but it is even worse 
+than that, Senator Warren, in the sense that when a scammer 
+will scam someone with a cryptocurrency scam, and there are 
+myriads of them, from phony cryptos to using it as the funds 
+that are in various other kinds of investment scams, they 
+become scammed and then they give the list of the scammers, the 
+scammers do, of their victims to other scammers who will 
+contact the victims and say, we are from the Federal 
+Government, we are from the Justice Department, and for a fee, 
+apparently the Justice Department now charges fees, we will 
+collect for you.
+    They lose again. Fear and greed are two elements that are 
+found in every kind of scam. Unfortunately, crypto just has 
+captured the imagination of many people, particularly seniors, 
+and it is coming back to bite us.
+    Senator Warren. Well, I really appreciate your work on 
+this. You know, as you said, crypto is used in all kinds of 
+scams. Scammers claim to have embarrassing information about 
+someone they will reveal unless the person forks over a crypto 
+ransom.
+    Scammers pose as friends and loved ones to encourage people 
+to invest their life savings so long as the payment is in 
+crypto. We now understand that scammers even set up fake 
+investment platforms to trick people into buying crypto, that 
+of course they will never be able to get their money out of. I 
+am sorry, go ahead, Mr. Weisman----
+    Mr. Weisman. No, it is--because I think you are--my 
+favorite was on YouTube, there was an investment scam that was 
+going to couple cryptocurrencies and AI. AI is going to show 
+you how to make and the guaranteed millions from crypto and the 
+CEO of the company was there touting it.
+    The CEO, wasn't real. He was an AI generated avatar and 
+anyone that put money into this thing lost it. It is scary the 
+combination of AI and crypto, and with the anonymity of crypto, 
+that is why the scammers love it so much.
+    Senator Warren. Right. Well, so talk for just a second, why 
+crypto? Why is it happening through crypto rather than, say, 
+your bank account or some other transaction account?
+    Mr. Weisman. It is the new shiny object. It is catching our 
+mind, and we think that there is something there. I can't help 
+believe that to a certain extent it is the Emperor's New 
+Clothes. Cryptocurrencies are legitimate, but the idea as 
+making millions in investments on this----
+    Senator Warren. It is the new shiny object. Anything else 
+about crypto? The anonymity?
+    Mr. Weisman. The anonymity is terrific. That is one thing, 
+you have people looking for the privacy. Then of course, that 
+is something with crypto mixers where your account gets mixed 
+in with others and becomes very difficult to trace.
+    One of the things the Government did a great job was after 
+the ransomware attack with Colonial Pipeline, they were able to 
+trace those accounts and get it back, but once it goes into the 
+mixers, then you have got problems.
+    Now, there is legitimate privacy concerns some people may 
+have, but it doesn't come anywhere near to the scammers.
+    Senator Warren. Right. It also, as I understand it, it is 
+fast, so the money is gone.
+    Mr. Weisman. That is the thing. You react--in scams, it is 
+often, you got to act now. It is an emergency. We act 
+immediately, and then I have actually had clients who have been 
+scammed with a credit card fraud and managed to call and stop 
+it. That isn't happening with crypto.
+    Senator Warren. Yes and can't--yes. Look, I think that 
+Americans are getting sick and tired of these crypto crimes, 
+and it is long past time that we got some regulation in place 
+to deal with this, and that is why Senator Roger Marshall and I 
+have introduced our bipartisan Digital Asset Anti-Money 
+Laundering Act. This bill has the support of 14 other Senators, 
+both Democrats and Republicans, and the chair of our committee 
+here. It is endorsed by the AARP.
+    It would make it easier for financial regulators to track 
+suspicious crypto activity and shut down scammers. I know I am 
+over time, but so let's do this one, and we can do it as a yes 
+no. Mr. Weisman, would crypto legislation like ours help cut 
+down on crypto scams?
+    Mr. Weisman. Yes, absolutely. I love it. Here is the thing. 
+My students at Bentley University were recently studying money 
+laundering and we were talking about this very thing. The law 
+is always behind technology.
+    The banks have the know your customer rule, which helps. 
+You need to have the private sector and the Government working 
+together. This is--your legislation is long overdue. It is a no 
+brainer in the sense--not that you are a no brainer.
+    Senator Warren. No, I take that as a compliment.
+    Mr. Weisman. It is something that absolutely would help 
+immeasurably.
+    Senator Warren. Good. Thank you very much. I appreciate it. 
+We have got no time to waste on this. These scams are happening 
+every day. Thank you. Thank you, Mr. Chairman.
+    Senator Blumenthal. Thank you, Senator Warren. Senator 
+Kelly.
+    Senator Kelly. Thank you, Mr. Chairman. I want to thank you 
+for the video that you showed at the top of the hearing that 
+told the story of Jennifer DeStefano. Jennifer is a mom of four 
+from Scottsdale. I think we heard earlier, this year she got a 
+call from an unknown number, and when she picked it up, it was 
+her 15 year old daughter. Her daughter was crying and calling 
+out for her. The man got on the phone and threatened to harm 
+her kid unless she paid $50,000. The man said he needed the 
+money in cash and would be coming to her in a van, and folks 
+nearby called 9-1-1, as well as calling Jennifer's husband.
+    Turned out that her daughter was just at home, not with 
+kidnapers, and the call wasn't real. You know, scammers had 
+used in this case AI to create a voice that sounded like her 
+daughter's voice, and she couldn't tell the difference.
+    Even though in that moment of extreme, horrific, you know, 
+terror, probably shook Jennifer to her core, the police said 
+there was nothing that they could do. No money was transferred. 
+No crime they said had been committed.
+    Now, this feels to me, and I imagine many others, and to 
+many Americans, as a huge blind spot in the law. I think we 
+have a couple of lawyers on the panel here. Mr. Schildhorn and 
+Mr. Weisman, how should we in Congress be looking at filling 
+these gaps in the law?
+    Mr. Schildhorn. Thank you, Senator. As I think you have 
+just mentioned as part of your question, it is a fundamental 
+principle of our system that there is a remedy if you are 
+harmed.
+    And with crypto and AI the law enforcement does not have a 
+remedy and neither does the judicial system. You can't find 
+anyone to sue, so my answer is that there needs to be some 
+legislation that allows these people to be identified or where 
+that money has gone to be identified, so that there is a remedy 
+for the harm that's being caused.
+    Currently, there is a hole in the system. There is no 
+remedy that I am aware of.
+    Senator Kelly. Well, how about the issue that in this 
+specific case--and by the way, I have had this happen to 
+somebody I am rather close with.
+    Almost the exact same thing, and again, no money was 
+transferred. It was incredibly, you know, shocking to--in this 
+case, it was a grandparent that had the same issue, same thing 
+happened to them with a grandkid.
+    No money was transferred. To me, that still seems like a 
+crime, attempting to rip somebody off even though they weren't 
+successful. Do you feel we should make that a crime and there 
+are criminal penalties?
+    Mr. Schildhorn. Senator Kelly, I am not an expert on this, 
+but I am a lawyer, so that has never stopped me from giving an 
+opinion.
+    In this instance, I mean, there are analogies in the law to 
+intentional infliction of emotional distress. I believe that is 
+a cause of action in many states.
+    There might be a way to enhance that type of a law, that if 
+someone is using this, even if you don't spend money, and you 
+cause that kind of shock and distress, that the law allows you 
+to recover a sum of money that is not calculated by how much 
+you have actually lost, but how much pain and suffering you 
+have incurred because you have been subject to that type of 
+extortion.
+    Senator Kelly. Mr. Wiseman.
+    Mr. Weisman. Yes. I think Gary hit on the key word there. 
+Extortion is a crime. Attempted extortion is a crime. I do 
+think it already is a criminal violation. I agree with you. I 
+think that some Federal legislation to this particular medium 
+of delivery of this extortion could be done.
+    The other thing is, one thing I tell my students when we 
+are talking about white collar crime, the answer to every 
+question is, it is about the money, and so here, as has been 
+said before, it is very difficult to trace it. They are using 
+burner phones. Who knows even where they may be.
+    They may be even using voice cloning technology. They can 
+be in a foreign country where their accents are no longer going 
+to be able to be heard. What we can do is, as the Senior Safe 
+Act is, go after gift card because they pay by gift cards, go 
+after the wiring, go after the banking so you stop it there 
+where people--they are in the rush of emotion.
+    Then they go to pay by a gift card, and the gift card 
+people say, where is this going? What is this for? They 
+recognize the scam, so stop it before it actually occurs.
+    Senator Kelly. Thank you. Mr. Chairman, I am going to 
+submit a couple of questions for the record. Thank you.
+    The Chairman. Thank you, Senator Kelly. We will turn next 
+to Senator Gillibrand.
+    Senator Gillibrand. Thank you so much for being here. I, 
+like many of the Senators here, have heard so many reports 
+about how our seniors are being targeted with financial fraud, 
+financial scams, AI generated scams, cryptocurrency related 
+scams.
+    It is unbelievable the amount that criminal networks, 
+worldwide criminal networks are targeting our older Americans. 
+They have retirement funds, they have life savings, and these 
+times are very complex, and these scams are getting more and 
+more sophisticated. Unfortunately, our older Americans are soft 
+targets for these very, very sophisticated criminal networks.
+    Let's address AI. Scammers can use AI generated and power 
+technology to do deepfakes on voice, do deepfakes on 
+photographs. We know of a New Yorker whose mother received a 
+call from a scammer using voice cloning AI to mimic her 
+distressed child in need of $50,000 to get her out of jail.
+    Unfortunately, that scam worked. Mr. Romanoff, are the 
+technology development practices in applying AI that also 
+protect consumers from fraud? Are there any unintended 
+consequences of using AI for this purpose?
+    Do you believe that the existing Federal agencies are 
+properly equipped, both in their technical capability and 
+congressional appropriations, to combat these targeted scams?
+    Mr. Romanoff. Thank you for that question. I will start 
+with the latter question. Federal--some Federal agencies that 
+are more geared toward law enforcement would be better equipped 
+to deal with these scams.
+    I do think that generative AI in terms of its uses to 
+perpetuate fraud goes across multiple jurisdictions. There is a 
+need to increase the AI readiness and workforce--in the 
+workforce of AI in the Federal Government.
+    The folks that can identify these issues and use AI itself 
+to detect the fraud. In terms of your first question--and 
+please repeat, what was it? I am sorry.
+    Senator Gillibrand. It was--well, you already answered it. 
+If you can use AI for good and bad in this scenario. The second 
+was, do the Federal agencies have enough law enforcement power 
+to actually address the problem?
+    Mr. Romanoff. Yes. In both of those scenarios, yes, you can 
+use it for good and bad. I think the consideration around AI 
+and its use to detect fraud is, there is a growing concern 
+right now that, you know, do you invest in the AI systems to 
+detect fraud or do you invest in the workforce, individuals who 
+have the expertise to identify trends themselves?
+    I think as technology continues to be--kind of expand and 
+adopted, we are going to look at a gap between the folks that 
+are entry level kind of law enforcement folks and the folks 
+that are looking at these systems long term, so there needs to 
+be some sort of consideration around, you know, how do you 
+train individuals beyond using an AI to identify these issues, 
+because data has a deteriorating value over time.
+    These AI models that are used to detect fraud and train to 
+detect fraud, they need a constant source of data and updates 
+in order to figure out what the latest trend is on that.
+    Senator Gillibrand. Thank you. I only have a minute. Got to 
+do another question. The second question I have is about 
+cryptocurrency.
+    We have seen the lack of regulation in cryptocurrency being 
+an impediment to protecting consumers. I am very frustrated 
+that the Senate has not held substantial hearings yet on how we 
+can actually provide commonsense, thoughtful regulation to keep 
+good actors in the United States and to have law enforcement 
+tools to ban bad actors.
+    We have an example where our Attorney General filed a claim 
+against a cryptocurrency company defrauding hundreds of 
+thousands of investors, but one older woman, for example, a 
+retired 73 year old grandmother, invested her husband's life 
+savings of $200,000 in a scam crypto agency--a scam crypto 
+currency company.
+    We need companies to register with the SEC, with the CFTC, 
+with the IRS. We need oversight by the Fed. We need oversight 
+by all the regulatory organizations, and Congress isn't doing 
+that work.
+    The second thing is I have also heard of scams where 
+seniors are being asked to send money urgently because there is 
+some bank account problem, and they are asked to send it at a 
+cryptocurrency ATM. Even the low tech version of fraud is being 
+used to mislead seniors into thinking that that is a way to fix 
+a banking problem.
+    Mr. Weisman, I lead a bill, the Senior Financial 
+Empowerment Act, which would ensure older adults and their 
+caregivers have access to critical information regarding how to 
+report and combat fraud.
+    How would consumer education have helped in this situation? 
+Mr. Schildhorn, thank you for sharing your experience. You 
+mentioned that you were asked to wire funds. How can crypto be 
+used as a tool for scammers? What do you believe could be done 
+on the institution and consumer education, and to prevent those 
+type of scams? Both, please.
+    Mr. Schildhorn. Yes, I was a big fan of your bill, 
+particularly the areas of consumer education which are so 
+critical, but the scammers create an emergency and people 
+respond and emotionally.
+    The thing I found the most interesting was your reference 
+to the ATMs and the cryptocurrency ATMs. They are just the easy 
+access road to sending money to the scammers, and they are 
+unregulated.
+    As you said earlier, the law is always going to be behind 
+technology, but the kind of regulations you are asking for are 
+eminently reasonable, and these are the kinds of things we have 
+in other areas of the economy. This is what we should be doing.
+    Mr. Weisman. Senator Gillibrand, on an institutional level, 
+I look at the banks because there is one break where the 
+scammer does not have the direct relationship with the victim, 
+and that is at the teller.
+    Right now, you can't withdraw $9,000 from an ATM. You must 
+have a human interaction with a teller. If banks are required 
+to train their tellers to ask questions when they see an 
+unusual cash withdrawal, that is an institutional change that 
+might prevent scam.
+    On the individual basis, I think Mr. Romanoff talked about 
+a having a family password, but there is another way to do it 
+as well by asking a question that only your relative or your 
+child would know for.
+    For example, if I asked who I thought was my son Brett, 
+what is your brother's middle name? I mean, that would--as soon 
+as you ask that question, there is unlikely to be an answer. To 
+have consumers think of that while their child is hurt in jail 
+is a lot to ask, because it is the emotional part of your brain 
+that is controlling everything you are doing.
+    The rational part of your brain is suppressed during this, 
+but the teller--the teller possibility is there.
+    Senator Gillibrand. Thank you all for testifying today. 
+This is an urgent crisis in my State of New York, and your 
+leadership and your advocacy is making a difference. Thank you.
+    The Chairman. Thank you, Senator Gillibrand. I will turn 
+next to Ranking Member Braun.
+    Senator Braun. Yes, Mr. Chairman, I have one final 
+question. The Medicare Transaction Fraud Prevention Act, which 
+we are rolling out, is to empower CMS to use this tool to catch 
+fraudsters.
+    I can't believe it currently that they do not, and this is 
+for Dr. Ekin, they do not use beneficiary feedback. This bill 
+would allow that too. What do we lose to actually learn from it 
+when we are not talking to the people that actually get 
+defrauded?
+    Dr. Ekin. Thank you, Senator Braun, for the question. 
+Actually, one of the major things we are missing is we are 
+not--our algorithms are not adaptive enough because we are not 
+getting the data feedback from the beneficiaries.
+    If we are able to get that data, even our existing 
+predictive algorithms would be more accurate. Basically, they 
+will--adapt to the real scams in almost more real time fashion. 
+I think that is what we are missing now.
+    Senator Braun. Well, I think--thank you for that answer. I 
+believe getting beneficiary feedback along with being able to 
+use the latest tools--most other places that do well with 
+preventing fraud are already doing both. Thank you.
+    The Chairman. Thank you, Ranking Member Braun. I will just 
+have maybe one more question before we wrap up.
+    I wanted to turn to Mr. Romanoff. You have spoken about how 
+quickly generative AI's use by the public exploded, and it 
+seems we are dealing today with an entirely different landscape 
+than we were even a year ago.
+    I don't think it would be surprising to anyone here to see 
+even newer technology emerge in the coming year or years that 
+will change it yet again. I wanted to ask you, can you discuss 
+some of the ways you think AI will be used by both scammers and 
+these criminals in the future to prey on customers--I am sorry, 
+consumers.
+    What should companies be doing now, right now, to protect 
+their consumers and to protect their data?
+    Mr. Romanoff. Yes. I want to start by saying oftentimes the 
+quote around how much time it takes to clone a voice, around 
+three seconds, that data came from 2020. When we think about 
+generative AI and its current hype cycle, this technology has 
+already existed in the wild for many years now.
+    There is the darknet out there in which there are scammers 
+that are using packaged goods to scam adults, older adults and 
+youngsters as well. That is always going to be an issue. In 
+terms of opportunists, you can address that by watermarking 
+content that is generated by an AI.
+    The problem with that is that there is always a cat and 
+mouse, or a spy versus spy in terms of identifying that 
+generative AI. What we will see is continued adoption of some 
+of these established scams into kind of the new world of being 
+able to generate content at will, and then probably new scams 
+will emerge over time.
+    Companies can do a lot by, you know, doing some of the 
+volunteer standards that, you know, the Biden Administration 
+came out with some around watermarking and continuing to do 
+some digital work there to make sure that you can run checks 
+against whether something is generated by an AI versus not.
+    The other area that I have mentioned in my testimony is 
+multifactor authentication. You know, we are going to need to 
+get better at confirming that, you know, a collar or an image 
+or a voice is actually coming from the originator.
+    The Chairman. Thanks very much. I know we are out of time, 
+and I wish we had more time. We have lots more questions. This 
+panel was very informative for us. I am going to go through an 
+opening--or our closing statement.
+    I did also want to note for the record, Senator Rick Scott 
+was here, was not able to ask a question, but was here for the 
+hearing, and as you might know, Thursdays in the Senate are 
+busy mornings.
+    Today was a little different because we ended our voting 
+for this work period last night, so a lot of schedules changed. 
+That is why people are in and out and some weren't able to make 
+it, but we are grateful.
+    The hearing record, of course, will be available to all 
+Senators. I want to start by thanking those who are here today, 
+and especially our witnesses, for providing us information, and 
+by virtue of this hearing, giving this information to people 
+across the country, and hearing in this case, not just from 
+witnesses, but in some cases, people who lived through some of 
+these scams, impacted by highly convincing versions of family 
+emergency scams, including Gary Schildhorn, that we heard from 
+first.
+    We also heard from Mr. Weismann, who spoke broadly about 
+how scams--broadly about scams themselves and also how he has 
+seen them evolve over his 12 years of operating scamicide and 
+posting a scam of the day, and as you said, Mr. Wiseman, never 
+running out of material, unfortunately.
+    Mr. Romanoff elaborated more on the rapid growth and 
+evolution of artificial intelligence and how this technology 
+enables scammers to deploy scams quickly and cheaply, and how 
+AI is the perfect tool to deceive even the most skeptical 
+consumer.
+    Dr. Ekin shared some of his research on fraud in the health 
+care space, and we are grateful for that. It is clear that 
+Federal action is needed. You heard that from some of our 
+colleagues.
+    The action is needed to put up guardrails to protect 
+consumers from AI, while also empowering those that can use it 
+for good, and yet we need to be cautious of bias in AI. 
+Algorithms, just like humans, need to be trained not to 
+discriminate. I look forward to moving this conversation 
+forward with my partners in the Senate on this--and on this 
+committee.
+    To that end, I, along with members of the committee, will 
+be sending a letter to the Federal Trade Commission, FTC, 
+asking that the agency appropriately track AI use in scams in 
+its fraud and scams data base. For those watching this hearing 
+today, I wanted to emphasize that the committee is here as a 
+resource.
+    Whether you just want to learn more or whether you have 
+been targeted by a scam, or you have questions about a 
+potential scam, you can access our new resources, including the 
+committee's new--newest, I should say, Fraud Book with 
+information, tips, and resources, our brochure on the threat of 
+AI and scams, and a helpful bookmark that with quick tips on 
+online--equipped tips online through the Aging committee's 
+website.
+    To get to that information, it is aging.senate.gov. If you 
+receive a call, a text, an email, or social media message, and 
+something seems off, and you are skeptical, as we all should 
+be, unfortunately, even more and more skeptical, you can report 
+this to the Aging Committee's fraud hotline.
+    I will read this number twice. It is 1-855-303-9470. That 
+is 1-855-303-9470. Aging Committee staff are available to 
+answer your calls Monday through Friday 9:00 a.m. to 5:00 p.m., 
+Eastern Standard Time.
+    You can also watch the video clip that we played at the 
+beginning of the hearing and full clips from all of those 
+individuals impacted on our website. I also want to just note 
+for the record, some--every year we have this Fraud Book, but 
+we don't always highlight the top ten scams. I am just going to 
+read them into the record, so it is clear to people.
+    These are the top ten scams for the calendar year 2022. 
+Number one, financial services, impersonation and fraud. Number 
+two, health care and health insurance scams. Number three, 
+robocalls and unsolicited calls. Number four, tech scams and 
+computer scams. Number five, romance scams. Number six, 
+Government imposter scams, like the IRS that we noted earlier. 
+Number seven, sweepstakes and lottery scams. Number eight, 
+identity theft. Number nine, business impersonation and 
+shopping scams and Number ten, person in need and grandparent 
+scams that we just heard about. Also note for the record that 
+at the beginning of the--that the beginning of the Fraud Book, 
+starting on pages eight and nine, it is fashioned as an alert. 
+Use of artificial scams--artificial intelligence and scams.
+    Yve a couple of pages just on the AI threat. That is, of 
+course, new information for so many people, so we appreciate 
+folks reviewing that. I do want to urge all consumers, no 
+matter what their age, young or old, or somewhere in between, 
+to review our website, access our educational resources, watch 
+the full video stories from our participants, which will be 
+longer than the clips.
+    I also want to note for the record that Ranking Member 
+Braun will be submitting a statement, a closing statement for 
+the record. Again, thank you again to all of our witnesses for 
+contributing both their time and their expertise to this topic.
+    If any Senators have additional questions for the witnesses 
+or statements to be added to the hearing record, the record 
+will be open until Monday, November 27th. Thank you all for 
+participating today, and this will conclude our hearing.
+    [Whereupon, at 11:31 a.m., the hearing was adjourned.]
+
+    Closing Statement of Senator Mike Braun, Ranking Member
+
+    Today, we heard from experts, advocates, and people who 
+have experienced AI scams.
+    Alongside educating older Americans on common patterns that 
+lead to fraud, it's key that we continue to take a balanced 
+approach.
+    I hope that we can continue to learn from industry's 
+promising advances and integrate these solutions gradually and 
+carefully.
+    We can encourage the natural transition of our digital 
+infrastructure and services, rather than be forced to make 
+larger leaps down the line.
+    The challenge now is largely in identifying where these 
+opportunities lie and applying them safely.
+    I look forward to working with my colleagues on this, and I 
+thank Chairman Casey for holding this hearing.
+
+?
+
+=======================================================================
+
+                                APPENDIX
+
+=======================================================================
+
+=======================================================================
+
+                      Prepared Witness Statements
+
+=======================================================================
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] 
+
+=======================================================================
+
+                        Questions for the Record
+
+=======================================================================
+
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]   
+
+=======================================================================
+
+                       Statements for the Record
+
+=======================================================================
+
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]

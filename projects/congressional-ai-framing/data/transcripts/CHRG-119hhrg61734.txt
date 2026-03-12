@@ -1,0 +1,1796 @@
+- SHAPING TOMORROW: THE FUTURE OF ARTIFICIAL INTELLIGENCE
+
+[House Hearing, 119 Congress]
+[From the U.S. Government Publishing Office]
+
+                           SHAPING TOMORROW:
+                 THE FUTURE OF ARTIFICIAL INTELLIGENCE
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                     SUBCOMMITTEE ON CYBERSECURITY,
+                        INFORMATION TECHNOLOGY,
+                       AND GOVERNMENT INNOVATION
+
+				OF THE
+
+              COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED NINETEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                           SEPTEMBER 17, 2025
+
+                               __________
+
+                           Serial No. 119-49
+
+                               __________
+
+Printed for the use of the Committee on Oversight and Government Reform
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+    Available on: govinfo.gov, oversight.house.gov or docs.house.gov
+
+                                __________
+
+                   U.S. GOVERNMENT PUBLISHING OFFICE                    
+61-734 PDF                  WASHINGTON : 2025                  
+
+-----------------------------------------------------------------------------------     
+             COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM
+
+                    JAMES COMER, Kentucky, Chairman
+
+Jim Jordan, Ohio                     Robert Garcia, California, Ranking 
+Mike Turner, Ohio                        Minority Member
+Paul Gosar, Arizona                  Eleanor Holmes Norton, District of 
+Virginia Foxx, North Carolina            Columbia
+Glenn Grothman, Wisconsin            Stephen F. Lynch, Massachusetts
+Michael Cloud, Texas                 Raja Krishnamoorthi, Illinois
+Gary Palmer, Alabama                 Ro Khanna, California
+Clay Higgins, Louisiana              Kweisi Mfume, Maryland
+Pete Sessions, Texas                 Shontel Brown, Ohio
+Andy Biggs, Arizona                  Melanie Stansbury, New Mexico
+Nancy Mace, South Carolina           Maxwell Frost, Florida
+Pat Fallon, Texas                    Summer Lee, Pennsylvania
+Byron Donalds, Florida               Greg Casar, Texas
+Scott Perry, Pennsylvania            Jasmine Crockett, Texas
+William Timmons, South Carolina      Emily Randall, Washington
+Tim Burchett, Tennessee              Suhas Subramanyam, Virginia
+Marjorie Taylor Greene, Georgia      Yassamin Ansari, Arizona
+Lauren Boebert, Colorado             Wesley Bell, Missouri
+Anna Paulina Luna, Florida           Lateefah Simon, California
+Nick Langworthy, New York            Dave Min, California
+Eric Burlison, Missouri              Ayanna Pressley, Massachusetts
+Eli Crane, Arizona                   Rashida Tlaib, Michigan
+Brian Jack, Georgia                  Vacancy
+John McGuire, Virginia
+Brandon Gill, Texas
+
+                                 ------                                
+
+                       Mark Marin, Staff Director
+                   James Rust, Deputy Staff Director
+                     Mitch Benzine, General Counsel
+                Lauren Lombardo, Deputy Policy Director
+             Raj Bharwani, Senior Professional Staff Member
+            Duncan Wright, Senior Professional Staff Member
+      Mallory Cogar, Deputy Director of Operations and Chief Clerk
+
+                      Contact Number: 202-225-5074
+
+                Robert Edmonson, Minority Staff Director
+                      Contact Number: 202-225-5051
+                                 ------                                
+
+ Subcommittee on Cybersecurity, Information Technology, and Government 
+                               Innovation
+
+                 Nancy Mace, South Carolina, Chairwoman
+
+Lauren Boebert, Colorado             Shontel Brown, Ohio, Ranking 
+Anna Paulina Luna, Florida               Member
+Eric Burlison, Missouri              Ro Khanna, California
+Eli Crane, Arizona                   Suhas Subramanyam, Virginia
+John McGuire, Virginia               Yassamin Ansari, Arizona
+
+                        C  O  N  T  E  N  T  S
+
+                              ----------                              
+
+                           OPENING STATEMENTS
+
+                                                                   Page
+
+Hon. Nancy Mace, U.S. Representative, Chairwoman.................     1
+
+Hon. Shontel Brown, U.S. Representative, Ranking Member..........     2
+
+                               WITNESSES
+
+Ms. Kinsey Fabrizio, President, Consumer Technology Association
+Oral Statement...................................................     4
+
+Mr. Samuel Hammond, Chief Economist, Foundation for American 
+  Innovation
+Oral Statement...................................................     5
+
+Dr. Nicol Turner Lee (Minority Witness), Senior Fellow, 
+  Governance Studies, Director, Center for Technology Innovation, 
+  The Brookings Institution
+Oral Statement...................................................     7
+
+Written opening statements and bios are available on the U.S. 
+  House of Representatives Document Repository at: 
+  docs.house.gov.
+
+                           INDEX OF DOCUMENTS
+
+  * Article, Google, ``AlphaEvolve, A Gemini Powered Coding Agent 
+  for Designing Advanced Algorithms''; submitted by Rep. 
+  Burlison.
+
+The documents listed above are available at: docs.house.gov.
+
+                          ADDITIONAL DOCUMENTS
+
+  * Questions for the Record: Dr. Nicol Turner Lee; submitted by 
+  Rep. Brown.
+
+These documents were submitted after the hearing, and may be 
+  available upon request.
+
+                           SHAPING TOMORROW:
+                 THE FUTURE OF ARTIFICIAL INTELLIGENCE
+
+                              ----------                              
+
+                     WEDNESDAY, SEPTEMBER 17, 2025
+
+                     U.S. House of Representatives
+
+              Committee on Oversight and Government Reform
+
+ Subcommittee on Cybersecurity, Information Technology, and Government 
+                               Innovation
+
+                                                   Washington, D.C.
+
+    The Subcommittee met, pursuant to notice, at 2:02 p.m., in 
+room 2247, Rayburn House Office Building, Hon. Nancy Mace 
+[Chairwoman of the Subcommittee] presiding.
+    Present: Representatives Mace, Burlison, Crane, McGuire, 
+Brown, and Subramanyam.
+    Ms. Mace. Good afternoon. The Subcommittee on Cybersecurity 
+Information, Technology, and Government Innovation will now 
+come to order, and welcome everyone.
+    Without objection, the Chair may declare a recess at any 
+time. I recognize myself for the purpose of making an opening 
+statement.
+
+           OPENING STATEMENT OF CHAIRWOMAN NANCY MACE
+
+               REPRESENTATIVE FROM SOUTH CAROLINA
+
+    Good afternoon and thank you all for being here for today's 
+important hearing on the future of artificial intelligence. 
+From the tools powering your smartphone to the algorithms 
+predicting weather, recommending medicines, or helping farmers 
+improve crop yields, AI is already shaping the world around us.
+    Just as we once competed for dominance in space or nuclear 
+technology, the United States is now in a race for leadership 
+in AI. American companies are at the frontier for this race. 
+These companies are pushing the boundaries of what advanced 
+language models can do, and countless startups and research 
+labs are finding new applications for AI in every corner of the 
+economy.
+    The stakes are high. If the United States leads, we get to 
+shape the standards, the ethics, and the economic benefits of 
+this powerful technology. If we fail, we cede such influence to 
+adversaries who do not share our values. So, the risks are 
+high.
+    AI will have an impact on all Americans across all 
+industries. AI is driving new efficiencies and creating 
+breakthroughs to improve lives. In healthcare, AI is helping to 
+detect cancer early and accelerating drug development. And 
+transportation is making cars safer and logistics smarter. In 
+agriculture, it is reducing waste and helping farmers feed more 
+people with fewer resources.
+    These advances are not abstract. They are happening now and 
+are creating better services, lower costs, and new 
+opportunities for American workers and American families. But 
+the technological future of AI remains uncertain.
+    Some experts warn we are just a few years away from the 
+emergence of artificial general intelligence or the 
+singularity. Others argue that technology has inherent 
+limitations, and we are decades away from the singularity, if 
+it is even possible.
+    We do not know for certain what future of AI will look 
+like, but what I do know is the future is too important to 
+leave up to chance. We are going to do our best to understand 
+what kinds of impact AI can have on our economy, our society, 
+and develop potential solutions now before it is too late.
+    This Subcommittee takes seriously its responsibility to 
+examine these issues, and I am looking forward to hearing today 
+from everyone on both the current state of AI and the possible 
+futures which lie ahead.
+    It is essential the United States lead, not just in 
+building these technologies but ensuring they are developed 
+responsibly, deployed safely, and used in ways which advance 
+American values. When we get this right, we will ensure 
+artificial intelligence fulfills its extraordinary promise.
+    I look forward to today's discussion and to working with my 
+colleagues on this Committee to ensure America leads in shaping 
+the future of AI.
+    I now recognize Ranking Member Brown for her opening 
+statement.
+
+              OPENING STATEMENT OF RANKING MEMBER
+
+            SHONTEL BROWN, REPRESENTATIVE FROM OHIO
+
+    Ms. Brown. Thank you, Chairwoman Mace.
+    Artificial intelligence is here, and it is already 
+reshaping our economy, workforce, and daily life. As we work to 
+ensure that America leads in AI innovation, we must also lead 
+in responsible and trustworthy use of this technology.
+    AI holds the promise to strengthen our economy and make 
+government more efficient. However, when commonsense safeguards 
+are absent, technology can deepen inequalities, leave workers 
+behind, or allow bad actors to take advantage of gaps in 
+policy.
+    Even as we look toward the future, we cannot ignore the 
+ways AI is already changing the workplace. And, while some of 
+these changes are promising, we must also work to prepare the 
+American people for change.
+    Workers in my Cleveland district and across the country are 
+worried about what automation and emerging technologies mean 
+for their job and their security. Black workers in particular 
+remain disproportionately concentrated in positions most at 
+risk of automation according to research by McKinsey & Company. 
+If we fail to provide retraining, education, and pathways into 
+the jobs of the future, we risk leaving entire communities 
+behind.
+    A diverse prepared workforce is not just good for our 
+economy, but a necessity for our national competitiveness. If 
+we do not ensure that employees most at risk of being replaced 
+by AI have other pathways for employment, adoption of AI will 
+not only drive greater economic disparity, it will also miss 
+opportunities to diversify and elevate the workforce. A diverse 
+and adequate workforce not only builds up our communities, it 
+also advances our AI ambitions.
+    We know that foreign adversaries, particularly the Chinese 
+Communist Party, are aggressively pursuing technological 
+dominance. They are not only racing to outpace us in artificial 
+intelligence and cybersecurity, but also actively targeting our 
+institutions, businesses, and citizens.
+    At the same time, everyday Americans face scams, fraud, and 
+data breaches that threaten their livelihoods and erode trust 
+in government and the private sector. The future of AI will be 
+shaped by our commitment to getting it right today and our 
+ability to learn serious lessons and mitigate future risk.
+    That is why our oversight work must focus on several areas: 
+defending against hostile foreign governments, holding 
+accountable scammers who prey on vulnerable communities, and 
+investing in our workforce to ensure resiliency. We must ensure 
+that innovation does not come at the expense of fairness, 
+security, or opportunity.
+    Thank you to all the witnesses that are here today to 
+discuss this critically important topic.
+    And, with that, I yield back.
+    Ms. Mace. Thank you, Congresswoman Brown.
+    I am pleased to introduce our witnesses for today's 
+hearing.
+    Our first witness today is Ms. Kinsey Fabrizio, President 
+of the Consumer Technology Association.
+    Our second witness is Mr. Samuel Hammond, Chief Economist 
+at the Foundation for American Innovation.
+    And our third witness today is Dr. Nicol Turner Lee, Senior 
+Fellow of Governance Studies and Director of the Center for 
+Technology Innovation at the Brookings Institute.
+    Welcome everyone, and we are pleased to have you this 
+afternoon. And pursuant to Committee Rule 9(g), the witnesses 
+will please stand and raise your right hand.
+    Do you solemnly swear or affirm that the testimony that you 
+are about to give is the truth, the whole truth, and nothing 
+but the truth, so help you God?
+    Let the record show that the witnesses all answered in the 
+affirmative.
+    We appreciate all of you being here today. You may sit back 
+down, and we look forward to your testimony.
+    Let me remind the witnesses that we have read your written 
+statements, and they will appear in full in the hearing record. 
+Please limit your oral statements to 5 minutes.
+    As a reminder, please press the button on the microphone in 
+front of you so that is on and the Members can hear you. When 
+you begin to speak, the light in front of you will turn green. 
+After 4 minutes, the light will turn yellow. When the red light 
+comes on, your 5 minutes has expired, and we would ask that you 
+please wrap it up.
+    So, we will first recognize Ms. Fabrizio to please begin 
+her opening statement.
+
+            STATEMENT OF KINSEY FABRIZIO, PRESIDENT
+
+                CONSUMER TECHNOLOGY ASSOCIATION
+
+    Ms. Fabrizio. Thank you. Good afternoon, Chairwoman Mace, 
+Ranking Member Brown, and Members of the Subcommittee. Thank 
+you for holding this hearing and for the opportunity to 
+testify.
+    CTA represents over 1,200 companies, and more than 80 
+percent are startups, small, and mid-sized businesses. Our 
+numbers power the American economy and support more than 18 
+million jobs. But, before I talk about AI's broader impact, I 
+want to share how it is reshaping my own life.
+    I am a wife, and I am a mom of two wonderful kids, and I 
+also run CES, the world's most powerful technology event. Each 
+week, I use AI to organize my life at home, pulling together 
+school pickups, drop-offs, sports schedules; and, at work, 
+these tools help me make smarter decisions, research 
+competitors, and come up with new ideas for products and 
+services.
+    In many ways, AI is a personal assistant that gives me back 
+time, time I can spend with my family while staying focused on 
+leading a complex organization, and it makes a big difference 
+in my daily life. I am really excited to share the even greater 
+impact it has at scale across society.
+    While so much of the public debate around AI focuses on how 
+this technology might evolve in the future, AI is here now, and 
+it is integrated into our lives and delivering benefits for 
+millions of Americans. We see these technologies in action at 
+CES, where innovators come together, from AI-powered health 
+insights from Abbott and Withings, to John Deere's autonomous 
+tractor, to Oshkosh and Waymo's collision avoidance and 
+autonomous technologies, and even Siemens' digital twin 
+platform for manufacturing.
+    These products are already in the market and making amazing 
+changes. Still, we are just scratching the surface of what AI 
+can do.
+    Today we see AI and digital twins that can simulate 
+everything from factories to city planning; agentic AI, which 
+are autonomous systems that can manage everyday tasks; vertical 
+AI models, which are specialized in areas like healthcare and 
+mobility or agriculture; industrial AI, which is augmenting the 
+workforce and improving safety; and physical AI, which includes 
+more lifelike and useful robots.
+    American companies are leading the AI race, but their 
+success is not guaranteed. In China, the government has made AI 
+central to its national strategy and invested heavily in areas 
+like semiconductors, robots, and data centers.
+    To counter this strategy, we need policies that help 
+American companies out-innovate the competition. If America 
+falters in AI, we risk ceding entire industries, supply chains, 
+and influence over global standards.
+    That is why CTA has urged Congress to adopt a 10-year pause 
+on enforcement of state and local AI laws. In 2025 alone, 
+legislators across all 50 states introduced more than a 
+thousand often conflicting AI-related bills. For a startup or a 
+small business, navigating this patchwork is crippling.
+    A pause gives Congress the time it needs to develop a 
+preemptive Federal framework for AI. The Administration's 
+recently released AI Action Plan is a powerful and positive 
+blueprint ensuring American AI innovators have the guardrails 
+they need to build, grow, and compete.
+    We also need a comprehensive Federal privacy law to power 
+up innovation with more clarity and protect consumers and lower 
+compliance costs for industries that rely on responsible data 
+use and give Americans confidence in these life-changing 
+technologies.
+    Congress must also recognize where our laws and frameworks 
+are working. The law is clear. Simply reading or processing 
+content does not constitute infringement. This clarity is a 
+huge competitive advantage for America, and it is the 
+foundation that allows U.S. companies from the smallest startup 
+to the largest global brand to win the AI race.
+    America has led every major technological wave from 
+electricity to the internet, and if we get AI policy right, 
+this technology will be the next great American growth engine. 
+If we get it wrong through fragmented or restrictive 
+regulation, like the EU's AI Act, we risk exporting those jobs 
+and that leadership overseas.
+    CTA believes the path is clear: foster innovation, protect 
+consumers, and ensure America sets the rules of the road for 
+AI. I look forward to working with this Committee on a 
+bipartisan basis to shape our AI future.
+    Thank you, and I look forward to your questions.
+    Ms. Mace. Great. I now recognize Mr. Hammond to please 
+begin his opening statement.
+
+  STATEMENT OF SAMUEL HAMMOND, CHIEF ECONOMIST FOUNDATION FOR 
+                      AMERICAN INNOVATION
+
+    Mr. Hammond. Chairwoman Mace, Ranking Member Brown, Members 
+of the Committee, thank you for the opportunity to testify 
+today.
+    My name is Samuel Hammond. I am the Chief Economist for the 
+Foundation for American Innovation. We are a group of 
+technologists and policy experts focused on developing 
+technology, talent, and ideas to support a freer and more 
+abundant future.
+    The capabilities of frontier AI systems are improving at a 
+stunning rate. Five years ago, large language models could 
+barely generate coherent English text. Today, they can hold 
+forth on any topic, reason through Ph.D.-level math problems, 
+and code entire applications from scratch.
+    Recent AI progress, including the rise of reasoning models 
+and AI agents, has been largely driven by breakthroughs in 
+reinforcement learning applied to Large Language models (LLM)s. 
+Language models gain their raw intelligence by predicting 
+sequences of text but, with reinforcement learning, can be 
+trained to follow instructions, use tools, and pursue complex 
+goals.
+    Scalable reinforcement learning for language models to give 
+them reasoning goal-directed behavior was only unveiled a year 
+ago but is already driving rapid improvements in domains like 
+math and programming. The scope and significance of this 
+breakthrough is still not fully appreciated, though.
+    In principle, these techniques can be used to create 
+superhuman AI agents in any domain where success can be 
+objectively benchmarked. Math and software engineering are just 
+the low-hanging fruit.
+    The AI research organization Model Evaluation & Threat 
+Research (METR) carefully measures progress in AI autonomy and 
+has found that the length of tasks that AI agents can perform 
+doubles roughly every four to seven months, a trend that has 
+held for the past six years.
+    While the earliest chat bots could only perform tasks 
+measured in seconds or minutes, OpenAI's latest model, GPT-5, 
+can coherently execute tasks that take human engineers two 
+hours and 17 minutes on average. If this trend continues, we 
+are only two doublings away, roughly eight to 14 months, from 
+AI agents that can autonomously perform tasks that take humans 
+a full 8-hour workday.
+    Progress in nonverifiable and open-ended domains is also 
+accelerating, recently leading to some of the first major 
+examples of AIs that have made novel scientific and 
+mathematical discoveries. It is now plausible that we will have 
+the first superintelligent AI scientists and mathematicians by 
+the year's end, portending a dramatic speed-up in the pace of 
+R&D going forward. This includes AIs optimized for AI research 
+itself, creating the glimmers of a self-improving feedback loop 
+whereby AIs rapidly help build their own successors.
+    What happens when AIs get better at AI R&D than the best 
+human researchers in the world? At a minimum, we should expect 
+a discontinuous leap in the power and efficiency of the 
+frontier models. But where this process tops out is still a 
+matter of significant uncertainty.
+    It is possible that, even with fully automated AI R&D, 
+progress will remain bottlenecked by the availability of 
+compute, data, and energy. It is also possible that we are only 
+one or two major breakthroughs away from systems that can learn 
+continuously in an unbounded fashion.
+    Regardless, the jump in capabilities unlocked by 
+recursively self-improving AI is likely to be profound, even 
+within the bounds of existing infrastructure, and is coming 
+sooner than many realize.
+    It is worth emphasizing that creating Artificial General 
+Intelligence (AGI) and superintelligent AI that is capable of 
+outperforming humans in every domain is the explicit goal of 
+every leading U.S. AI company. While some dismiss this as 
+science fiction or marketing hype, I assure you the leaders of 
+these companies are deadly serious.
+    As for timing, Anthropic cofounder Jack Clark testified 
+recently that he expects transformative AI to arrive as soon as 
+the end of 2026 or early 2027. Even if these forecasts are on 
+trend, AI capabilities will remain uneven for at least several 
+more years.
+    For a brief paradoxical moment, we will have 
+superintelligent AIs that can prove new math theorems but still 
+struggle to do many things that humans find trivial. This is 
+especially true in areas like robotics, which, despite 
+remarkable progress, are still many years away from 
+outperforming humans in every physical domain given the paucity 
+of high-quality training data.
+    So, as we run headlong into this new world, I see four 
+major takeaways for national policymakers.
+    First, monitoring frontier AI capabilities in real time 
+should be a national security imperative of the U.S. 
+Government. Early and differential access to the developments 
+of the frontier can provide policymakers and national security 
+advisers with the foresight into the capabilities that are 
+coming down the pike, giving us time to prepare and adapt.
+    Second, as AI systems become human-level and beyond, 
+geopolitical power will be increasingly proxied by the global 
+distribution of computing resources. America's existing lead is 
+downstream of our massive advantages in AI hardware and data 
+centers, but this is tenuous at best. With China outbuilding us 
+on new energy, we must double down on semiconductor export 
+controls or risk being leapfrogged.
+    Third, we must quickly advance the frontier of AI control 
+interpretability, review our laws and regulations for the 
+compatibility with powerful AI, and invest in much more robust 
+cyber and infrastructure security, all priorities outlined in 
+President Trump's AI Action Plan.
+    Fourth and finally, we must open our minds to radically new 
+forms of institutions and structures of government. From the 
+printing press to the Industrial Revolution, every major 
+technological transition has driven equally transformative 
+changes to our system of government. I believe the AI 
+revolution will be no different.
+    It raises unique challenges given AI's use cases for 
+surveillance and censorship, as seen in China's model of the 
+digital panopticon. Reconciling the advent of powerful AI 
+systems with America's tradition of individual liberty and 
+limited government is, thus, the challenge of our time.
+    Thank you, and I look forward to your questions.
+    Ms. Mace. Thank you.
+    I now would like to recognize Dr. Turner Lee for 5 minutes.
+
+        STATEMENT OF NICOL TURNER LEE (MINORITY WITNESS)
+
+               SENIOR FELLOW, GOVERNANCE STUDIES
+
+           DIRECTOR, CENTER FOR TECHNOLOGY INNOVATION
+
+                   THE BROOKINGS INSTITUTION
+
+    Dr. Turner Lee. Thank you. Thank you, Chairwoman Mace, 
+Ranking Member Brown, and distinguished Members of the 
+Committee for this invitation to testify.
+    My research focuses on policies that govern AI, digital 
+divide, as well as innovation. Artificial intelligence is not 
+the future; it is here. Today several workplaces require use of 
+AI by workers, and one report shows that 92 percent of 
+companies have plans to increase their investment in the 
+technology.
+    In just about every sector, companies are figuring out the 
+role of AI-enhancing productivity, as well as the most 
+appropriate investment in talent. Beyond enterprise use cases, 
+AI is transforming the delivery of critical services, domains, 
+such as government services, healthcare, and education. And, 
+with so much on the horizon, it is imperative that we strike 
+the correct balance of innovation and regulation.
+    We must safeguard consumers, institutions, and critical 
+infrastructure from AI risk, including workplace displacement, 
+bias and discrimination, and the irreparable harm of machines.
+    In my testimony today, I just want to offer three points 
+that I think Congress should take, which will be critical to 
+the future of AI: the need for responsible and ethical 
+frameworks of AI design and governance, the importance of a 
+ready and agile talent pipeline and workforce, and the 
+importance of monitoring the unknowns in AI to ensure its 
+safety and security while addressing the clear and present 
+challenges.
+    AI depends on responsible and ethically designed models in 
+national governance. The stakes are too high. The rapid 
+advancements of generative AI in video text and voice 
+extraction have contributed to consumer fraud. Our Nation's 
+seniors are increasingly being targeted, in some cases falling 
+for financial AI voice cloning and deepfake scams that ask them 
+to send their money to relatives.
+    Being responsible requires national governance, and we have 
+laws, existing laws, for highly regulated industries that 
+protects consumers in digital spaces, including the Fair 
+Housing Act, the Equal Credit Opportunity Act, among others. 
+But, without congressional resolution in other critical policy 
+areas, like data privacy, everyday Americans will be exploited 
+by malicious uses of AI systems.
+    We need clear measures that ensure human oversight, 
+disclosures, and independent audits over automated and 
+autonomous decisions. We have started this process with the AI 
+Action Plan this past summer, but our focus on promoting U.S. 
+leadership against China as the prime goal will only allow 
+these consumer protection goals to fall to the wayside.
+    Yes, recently, states, in the absence of Federal 
+legislation, have actually moved forward with their own 
+legislation. And, since January, over a hundred measures across 
+38 states have been enacted to law. Multiple state attorney 
+generals have also issued guidance on how to apply these laws 
+to AI.
+    The rejected proposed 10-year moratorium on states would 
+have threatened states' rights and the public interest, and 
+leadership needs to continue to protect the independence of 
+Federal agencies so they can serve as the bulwark against 
+deceptive and unfair consumer-facing AI applications. Cuts to 
+these agencies weaken our ability to hold bad actors 
+accountable, but they also undermine consumer trust.
+    Second, the future of AI depends on a ready and agile 
+talent pipeline and workforce. Maintaining our edge means that 
+we have robust talent that incorporate diverse viewpoints in 
+the design, development, and deployment of AI.
+    Immigrants are central to the story of innovation. 77 
+percent of the top AI companies were founded or cofounded by 
+first-generation immigrants. Policies that restrict immigration 
+may threaten our innovation capabilities, and defunding 
+research at world-class universities and scientific 
+institutions may also do the same.
+    Let me just share a few statistics of what is happening as 
+a result of other countries exploiting these opportunities. 
+Spain opened its doors to students subject to U.S. 
+restrictions. European universities are offering scientific 
+asylum to scientists. China is using the reverse brain drain to 
+aggressively recruit our top technological talent.
+    Cultivating talent at that level has impacts as well as 
+ensuring that researchers here in the United States have what 
+they need to get the research done for the next big idea, and 
+we cannot neglect our domestic talent pipeline. Recent declines 
+in math and reading scores are warning signs that much more 
+needs to be done to cultivate homegrown talent, not only 
+through national apprenticeships, but also realigning our core 
+objectives in schools so that we meet the demands of the future 
+workforce.
+    Casualties will abound in the workplace if we have a less 
+agile, ready workforce capable of shifting gears.
+    And, finally, I will just say this. Though the future of AI 
+is largely unknown, we need to solve the first point I made and 
+the second point to ensure that we actually get to a place 
+where we understand the power of artificial intelligence or 
+artificial general intelligence, agentic AI, as well as what is 
+largely unknown at this point.
+    However, people like me are far more skeptical of AGI and 
+generally the existential threats for the foreseeable future 
+simply because we just do not know enough, and it is important 
+for us to have those guardrails in place so that we ensure the 
+rights and safety of all Americans central to that development, 
+and we not abandon consumer protection in the rush to just 
+innovate.
+    So, I will close here and implore Congress to continue to 
+think about policies that allow us to grow a healthy ecosystem 
+where consumers are centered and our economy and our trust in 
+these products are also prioritized.
+    Thank you again to the Members of the Committee. I look 
+forward to working with you and taking your questions.
+    Ms. Mace. Thank you, ma'am.
+    And I will now recognize myself for 5 minutes and for 
+questioning.
+    Ms. Fabrizio, thank you for being here today. What has 
+surprised you the most about AI?
+    Ms. Fabrizio. At CES, I think the most surprising thing are 
+all the different ways that AI is solving the world's biggest 
+challenge. The healthcare applications are the most exciting to 
+me personally. I saw a digital twin of a heart at CES, which is 
+used to train surgeons so that they can understand how to 
+safely do heart surgery. That is a huge impact and very 
+amazing.
+    Ms. Mace. And then you talked about the 10-year moratorium 
+and for states. Why is it so important--the states' rights 
+thing has to be balanced, but also we do not want to stifle 
+innovation.
+    We know China, Russia, Iran, they are not--they do not have 
+any guardrails, they do not care. Talk about that a little bit.
+    Ms. Fabrizio. Yes. Well, you said it. China does not have 
+that. It is impossible for our member companies--like I said, 
+we have 80 percent small businesses, and they cannot compete 
+and understand when there are a thousand different potential 
+laws that they have to comply to. It just stifles innovation 
+completely. And, for us to win the AI race, we need to remove 
+that barrier.
+    Ms. Mace. And it is a Federal issue because it is commerce 
+across state lines, and having all those--that regulatory 
+environment--a patchwork in every state--does make it very 
+difficult to operate.
+    And, then, Mr. Hammond, one thing that struck me in your 
+testimony, you talk about compute energy. Talk to me a little 
+bit more about that.
+    Let us go into detail because I agree with you. It is a 
+huge problem. How do we solve it?
+    Mr. Hammond. It is a great question. So, you know, there 
+are only a handful of inputs that go into training and 
+competing at the frontier with these models. There is the data, 
+the human talent, the compute, and the energy.
+    With China, we are basically at parity with talent. With 
+data, they may have advantages because they do not have privacy 
+laws. They can----
+    Ms. Mace. They have stolen a bunch of our data, right?
+    Mr. Hammond. Of course. And they also steal data and 
+intellectual property (IP).
+    Ms. Mace. Yes.
+    Mr. Hammond. And so, really, it comes down to hardware 
+energy. China has added over 400 gigawatts to their grid last 
+year. They are about to do the same thing this year, so only--
+--
+    Ms. Mace. How much have we added to our grid?
+    Mr. Hammond. Approximately zero. I mean, we have removed 
+coal and added renewables. And that has canceled out.
+    So, what that means is, in lieu--but for these export 
+controls that are barring China from our most advanced 
+hardware, they would surely leapfrog us within a matter of 
+years.
+    Ms. Mace. You think nuclear is the way?
+    Mr. Hammond. I support nuclear. I think the earliest that 
+we will see new reactors come online is in the 2030s.
+    Ms. Mace. You know, it is frustrating because we see small 
+nuclear reactors, or SMRs, in Japan and in France, and we do 
+not have them here. We have them in our nuclear subs.
+    Like, I just--can we just--it is a joke, but it is like why 
+can we not just plug one into an outlet? I mean, I just--we 
+have the technology here. Why are we not using it--particularly 
+with our data centers--and allow them to grow as data center 
+technology--as data centers to grow as well.
+    But I do want to talk to you about the future of AI. Elon 
+Musk has said that, as early as 2026, we would have 
+singularity, basically. Define singularity, and how quickly do 
+you think we are going to get there?
+    Mr. Hammond. So, I think there are two ways to think of 
+singularity. One is as a metaphor for our ability to predict 
+the future. So, whatever the technology it is, a singularity is 
+a point in time where it becomes impossible to look beyond that 
+point.
+    And then there is the technological singularity, which is, 
+when we have AIs, they can build their own successors, and then 
+potentially go off to infinity, and we do not really know what 
+comes out of that process.
+    I think 2026 is a pretty aggressive expectation, but I 
+think something like that crossing that threshold will happen 
+this decade.
+    Ms. Mace. And I have talked with some folks in tech space 
+that say a thousand days or 2,000 days.
+    What do you think it will take to get there, where AI is 
+creating its own AI?
+    Mr. Hammond. So, you know, I got into this topic as a young 
+kid reading Ray Kurzweil's 1999 book where he predicted we 
+would have human-level AI by 2029. That was a 30-year forecast, 
+and actually current trend lines suggest he was dead on 30 
+years ago. And so, I tend to lean toward that as a date.
+    But I think this will not look like some threshold that we 
+pass and looks completely different. I think we are on this, 
+sort of, continuous exponential. And the thing about 
+exponentials is they look flat looking backward and vertical 
+going forwards.
+    Ms. Mace. What is the biggest concern with when we do get 
+there, when we do hit that milestone?
+    Mr. Hammond. That we lose control in some manner, whether 
+literally over the AIs themselves or that--the proliferation 
+because, while it does cost billions of dollars to train these 
+models at first, subsequent generations, the cost comes down in 
+orders of magnitude. That there will be a mass proliferation of 
+powerful capabilities that our institutions are just not 
+capable of adapting to.
+    Ms. Mace. That can hack every system, every grid everywhere 
+all at the same time all around the world, essentially, 
+potentially. That is the way I see it.
+    Mr. Hammond. Yes. I think there are going to be attacks on 
+critical infrastructure, but there will also be, you know, the 
+high school student that hacks their school's IT system and the 
+system admin happens to be the gym teacher.
+    Ms. Mace. Or personal medical records or whatever the case 
+may be. Yes, that is one of my greatest concerns on the cyber 
+side.
+    I have run out of time. I could have--I could talk all day. 
+Maybe we will have some more time later.
+    So, I will yield back to the Ranking Member and recognize 
+her for 5 minutes.
+    Ms. Brown. Thank you, Madam Chair.
+    Artificial intelligence has the potential to be in every 
+aspect of the workforce in every corner of our daily life. This 
+means that the Federal Government and private sector must 
+collaborate to adapt to an AI present and future.
+    Algorithms and automation are not inherently harmful, but 
+the way in which they are developed and deployed has the 
+potential to have profound consequences for American workers, 
+especially those from diverse backgrounds.
+    Black and Brown communities have long carried the weight of 
+the wage gap in this country, and we cannot allow AI to deepen 
+those inequities, whether through bias algorithms in hiring or 
+automation that displaces jobs. We cannot afford to be caught 
+flatfooted or let AI run unchecked.
+    So, Dr. Turner Lee, can you speak of the work that AI 
+Equity Lab and Brookings is doing to ensure that AI does not 
+worsen historical inequities and the importance of acting 
+proactively?
+    Dr. Turner Lee. Thank you, Ranking Member.
+    So, what I actually figured out as a sociologist is that we 
+are not a lot of sociologists sitting at the table or people of 
+various backgrounds when it came to thinking about the outcomes 
+of these models. And so, writing on the back of a napkin, I 
+thought about an experiment to actually bring into disciplinary 
+experts, people from various backgrounds, various industries 
+together to think about areas in which we are going to have the 
+most high risk and consequential outcomes, particularly with 
+marginalized communities.
+    To your point, not only do some AI models come with a 
+series of bias in the training data where it is actually 
+picking up information that may be false, inaccurate, or under-
+representative, the outcomes of that data can contribute to a 
+widening wealth gap, when that algorithm suggests that I am not 
+creditworthy, I cannot get a home loan, in essence, my quality 
+of life is actually impacted.
+    So, I think one of the best ways to start with this is to 
+widen the seats at the table and to ensure that we have 
+scientists, alongside social scientists, alongside industry 
+sector, alongside people with various backgrounds who have 
+concerns with the lived experiences of populations that you 
+spoke about, especially those that are Black and Brown 
+communities.
+    Ms. Brown. Thank you. And, as more AI companies adopt AI 
+technology, we must accept that the future of work is changing.
+    Dr. Turner Lee, what steps can the Federal Government take 
+to ensure that American workforce is prepared to succeed in the 
+AI future, and what legislative steps can Congress take to 
+ensure that there are adequate guardrails overseeing AI 
+adoption throughout the economy and society while also 
+encouraging AI innovation?
+    Dr. Turner Lee. Well, first and foremost, I would like to 
+commend the work you have done in a bipartisan manner on your 
+act, which is around training the Federal workforce to be 
+exposed to AI. I think that is the first step.
+    But, to be very transparent, again, the train has left the 
+station. AI is not only dictating how they do work, but it is 
+also managing their productivity in how they are processing 
+that work as well. So, it may help them with research, but it 
+is managing the time that it takes to do the research.
+    Being transparent with the Federal Government, I think, is 
+one way to actually help disclose the use of AI there, also 
+making available all types of data. We have some concerns, 
+given the recent scrub of a lot of information from Federal 
+datasets, et cetera, that there just will not be the quality of 
+data and integrity of data that we need. So, just making sure 
+the Federal Government stays on point with that and does the 
+appropriate audits of the data that is available.
+    I would just suggest, in terms of guardrails, there is 
+enough AI for everybody to eat is a statement that I have been 
+making lately. And that means that, wherever you are in the 
+workforce, you are going to in some way touch this. Improving 
+upon our literacy, our upskilling, our ability to mentor people 
+who may be from different generations where AI was not 
+necessarily something that they ever thought of--I used to 
+watch the Jetsons. I never thought that AI would come to 
+fruition. I think, Ranking Member, those are the steps that I 
+think the U.S. Government can put in place that really in the 
+long run promote transparency, disclosure, and effective use.
+    Ms. Brown. Thank you very much. I will close with this. Our 
+future is one where AI technology will, no doubt, impact our 
+everyday lives, which is why we must carefully consider AI 
+development now. We need Federal legislation that protects 
+Americans' rights and freedoms by preventing bias and 
+injustice.
+    I look forward to continuing to explore this topic with 
+experts so that we can ensure safe and responsible innovation.
+    And, with that, Madam Chair, I yield back.
+    Ms. Mace. Thank you.
+    I will now recognize Mr. McGuire for 5 minutes.
+    Mr. McGuire. Thank you, Madam Chair, and thank you to our 
+witnesses for being here today.
+    For the first few questions, if you would, let us answer as 
+quickly as possible. Let us see.
+    Mr. Hammond, you said you think singularity, based on your 
+experience, will be 2026. And, just real quick, Dr. Lee, when 
+do you think we will have that? Just real simple.
+    Dr. Turner Lee. I am a little less optimistic. I think it 
+is going to take longer because I still think it is a little 
+bit more hypothetical in its framing.
+    Mr. McGuire. All right.
+    Ms. Fabrizio.
+    Ms. Fabrizio. I feel the same way. I think right now human 
+in the loop is still important, and we are seeing AI augment 
+what humans can do.
+    Mr. McGuire. All right. This is just a yes or no. Do you 
+believe China is using AI to manipulate their people, or do 
+they have plans for that? Yes or no, Ms. Fabrizio?
+    Ms. Fabrizio. I think China is using AI in ways that we are 
+not, and that is why it is important for us to continue to 
+focus on winning the AI race with the issues I laid out 
+earlier.
+    Mr. McGuire. Mr. Hammond?
+    Mr. Hammond. Yes. Absolutely, in some cases using U.S. 
+technologies provided by U.S. companies.
+    Dr. Turner Lee. I do agree that the Chinese Government has 
+a highly surveilled state, and they are using AI not to the 
+protection of their citizens.
+    Mr. McGuire. All right. Just yes or no, because we are 
+running out of time. Yes or no, the stakes are very high for AI 
+development in the United States?
+    Ms. Fabrizio. Yes.
+    Mr. Hammond. Extremely.
+    Dr. Turner Lee. Yes.
+    Mr. McGuire. So, very important that we have the best 
+workforce possible to win this battle, yes or no?
+    Ms. Fabrizio. Yes.
+    Dr. Turner Lee. Yes.
+    Mr. Hammond. Yes. In the short run, I wonder what the 
+workforce will look like when AIs can do everything.
+    Mr. McGuire. Yes, I am with you. So, we are developing this 
+workforce, and I got to tell you, as a Navy SEAL veteran, if 
+somebody saved my life on the battlefield, I do not care if 
+they are pink or blue, male or female, Democrat, Republican; we 
+are all human beings. But I believe that the decisions that we 
+make should be colorblind because we need the best force, and I 
+do not care if you are pink or blue.
+    Do you agree that it should be colorblind, that we should 
+have the most qualified people to win this race? Ms. Fabrizio, 
+yes or no?
+    Ms. Fabrizio. We need the best and brightest.
+    Mr. Hammond. Colorblind, yes. Not necessarily nationality 
+blind. One of the challenges here is some of the most sensitive 
+technologies are being developed by foreign nationals, 
+including Chinese nationals.
+    Mr. McGuire. But, again, if they are the best, they are the 
+best.
+    Mr. Hammond. They are the best of the best. But we have to 
+compartmentalize in some cases.
+    Dr. Turner Lee. I think we should have the best of the 
+best, but I also think that we need to have the doors open for 
+people who are the best of the best and all of our communities 
+to actually participate.
+    Mr. McGuire. Okay. Mr. Hammond, I have got a lot to learn, 
+but I am listening, and I am learning. And I liked what you 
+talked about, the digital twin and practicing the heart 
+surgeries. There is so much more I want to learn.
+    But, in your testimony, you said, even if we were to reach 
+AI singularity, we might not have enough energy to keep going. 
+So, this question is for all of the witnesses, and hopefully it 
+is an easy one. Let us keep it real simple because we do not 
+have time.
+    Would unleashing American energy give us a better chance of 
+winning the AI race? And I am talking the ability to drill, 
+nuclear, all of the above, coal plants.
+    Ms. Fabrizio. We need to modernize our energy grid. It 
+cannot handle what is in store with AI.
+    Mr. Hammond. Might be the single-most important factor, 
+yes.
+    Mr. McGuire. Ms. Lee?
+    Dr. Turner Lee. I do agree that we need to do more to 
+upgrade the energy grid, particularly if we are actually 
+building data centers, but I want us to be cautious about the 
+environmental consequences of actually moving too fast in 
+communities where we already know we have a disadvantage.
+    Mr. McGuire. And, personally, I would not care about that. 
+I want to win.
+    All right. Ms. Fabrizio, I have to say I agree with your 
+testimony that overly strict regulations can stifle innovation.
+    The first thing I think about, the so-called Green New 
+Deal, better known as the ``green new scam'', the Biden 
+Administration spent hundreds of billions of dollars on these 
+green energy projects, like solar panels and windows.
+    Yesterday, I asked an AI chat box, how many acres of solar 
+panels would you need to power AI in the United States by 2030? 
+Anyone take a guess how much that would be? A thousand acres. 
+Actually, let me see here. It is way more than a thousand 
+acres. It is 500,000 acres. That is half the size of Delaware.
+    We should be investing in fossil fuels and nuclear, small 
+modular nuclear reactors, as we discussed earlier. We will only 
+need 500 acres to do the same job nationally by 2030. We should 
+be using coal, natural gas, traditional nuclear power until 
+SMRs are ready, not solar panels.
+    All right. So, let me ask this question. Is China building 
+thousands of solar farms to power their AI, yes or no?
+    Ms. Fabrizio. China is looking at energy in different ways 
+than we are, but there are solutions that we can look at, too, 
+to modernize our energy grid, and AI will help--AI will help 
+develop solutions and help us be smarter about the future.
+    Mr. McGuire. Mr. Hammond?
+    Mr. Hammond. Both. AI--over 30 new coal plants, while also 
+adding 300 gigawatts of renewables.
+    Mr. McGuire. So, with today's technology, what is more 
+effective, solar or fossil fuels? Just keep it simple because I 
+am running out of time.
+    Ms. Fabrizio. That--I would have to get back to you on 
+that.
+    Mr. Hammond. I support all of the above. In the short run, 
+these data centers are only going to go up with natural gas.
+    Dr. Turner Lee. I cannot answer the particulars. I can get 
+back to you that from my team.
+    But I want to go back, Congressman, to your question----
+    Mr. McGuire. I am very limited on time.
+    Dr. Turner Lee. No problem.
+    Mr. McGuire. I am sorry. All right. So, let us see.
+    Mr. Hammond and Ms. Fabrizio, what are some of ways AI 
+superintelligence might actually help us solve the energy 
+problem?
+    Ms. Fabrizio. Well, when it comes to research and data and 
+looking for solutions, AI is faster and can help predict 
+different models and find different solutions where we may not 
+be able to find them on our own.
+    Mr. Hammond. I believe we are a year or two away from 
+having fully autonomous AI labs that could discover new 
+materials, new energy sources, all of the above.
+    Mr. McGuire. I am out of time. I yield back. Thank you.
+    Ms. Mace. Thank you. I will now recognize Mr. Subramanyam 
+for 5 minutes.
+    Mr. Subramanyam. Thank you, Madam Chair.
+    Thank you to the witnesses for coming today.
+    I wanted to talk about a couple things. We have had several 
+hearings on Capitol Hill about AI in recent months and since I 
+have been here, certainly. And one thing that has not been 
+talked about as much is job displacement as a result of AI.
+    I think--you know, I served in the Obama White House as a 
+technology policy adviser, and we were talking about this, but 
+it was a little bit theoretical. I mean, there was job 
+displacement happening because of emerging technologies, 
+certainly, making jobs easier, but automating some jobs and 
+some tasks. But now we are seeing it at a different level.
+    We are seeing companies now, basically, lay off entire 
+departments and replace them with AI. They are saying this 
+publicly, and they are saying this, you know, very--they are 
+not hiding it anymore, right? And it is their prerogative. I 
+mean, we are not here to tell companies how to run their 
+business.
+    But it is creating a problem that Congress has to figure 
+out how to address, which is jobs, because one thing we want is 
+jobs available for people. We have been telling people--we have 
+been telling kids for to the past 10 or 15 years, go into STEM, 
+right, learn to code, like, that is going to be your meal 
+ticket. You can have a job for 30 years being a coder, an 
+engineer. And now we have AI that can do their job.
+    I talk to a lot of kids who got their IT degrees in 
+cybersecurity or different types of technology, and now they 
+are having trouble finding a job in this market. So, I would 
+love to hear maybe 30 seconds each witness, your thoughts on 
+what Congress can do about it, whether we can do anything about 
+it at all, whether it is a fixable problem right now. Ms. 
+Fabrizio?
+    Ms. Fabrizio. Thank you for the question. I think the 
+important thing to continue to focus on is investment in STEM 
+education for AI and investment in reskilling and upskilling 
+the existing workforce. Apprenticeships will help there.
+    The White House AI and education pledge is looking at these 
+areas, and CTA was happy to sign on to that. I will also say 
+that, while the workforce will shift, workers will be given new 
+tools if they use AI properly, and they will be able to take on 
+more capacity, be more efficient, and work smarter.
+    Mr. Subramanyam. Mr. Hammond?
+    Mr. Hammond. I am relatively optimistic about the jobs 
+picture over the short run, in particular because I think the 
+people who are going to be most displaced are often white 
+collar workers who are more adaptable.
+    However, just look at wages for electricians; they have 
+spiked dramatically. We have a shortfall in Heating, 
+ventilation, and air conditioning (HVAC) and cooling, 
+construction, all these things are going--as inputs for data 
+centers that could be a major source of job growth. And, more 
+generally, I think we need to deregulate aspects of the labor 
+markets to make transitions easier.
+    Mr. Subramanyam. What do you mean by deregulate aspects of 
+the labor market?
+    Mr. Hammond. Things like occupational licensing, what kind 
+of accreditations you need.
+    Mr. Subramanyam. Okay. And Ms. Turner Lee--Dr. Turner Lee?
+    Dr. Turner Lee. Yes. I would say this, on the education 
+side, and I do agree with you, Congressman, that we spent so 
+much time in STEM and computer science, and since those efforts 
+were actually made, we have evolved and sort of retracted on 
+those investments.
+    I think we still need to use AI to augment education. We 
+often put AI in the classroom instead of talking about the 
+education of AI for students, which I think is somewhat of a 
+challenge for many teachers and educators.
+    I think it is important to ensure that there is equitable 
+distribution of resources that actually train students on AI 
+literacy so that they are actually prepared to do more of a K 
+through 20 shift as opposed to teaching it in early education 
+and then teaching it in college and different levels would 
+provide more consistency, more opportunities.
+    And I think that companies need to do a better job of 
+qualifying what jobs are going to be lost. I think it is still 
+an unknown number of where jobs--companies are going to be 
+affected by AI based on the decision of what departments they 
+choose to absorb it.
+    And then I also want to just respond to the data center 
+side. I think we need to be careful in thinking that data 
+centers will generate post-construction jobs and really focus 
+on how many jobs will actually be created as a result of the 
+data center ecosystem versus what are going to be the job 
+creation numbers going into its construction.
+    Mr. Subramanyam. Do you think AI will create more jobs than 
+it is displacing, yes or no? Ms. Fabrizio?
+    Ms. Fabrizio. Yes. I think whole new industries will be 
+developed because of AI and a tremendous amount of new jobs in 
+the workforce will be created.
+    Mr. Subramanyam. Mr. Hammond?
+    Mr. Hammond. When we have fully AI automated software 
+engineers, it is less that we lose that job category and more 
+that we all become software engineers. And I think that will be 
+a general pattern where we are all empowered as individuals to 
+take on these new roles.
+    Mr. Subramanyam. Dr. Turner Lee?
+    Dr. Turner Lee. Well, I think if we believe that AGI is 
+coming quite quickly that they will take on more of the jobs of 
+people because of the superintelligence.
+    I honestly think, Congressman, that AI will change the 
+nature of jobs, and that is a conversation that we need to be 
+having as opposed to job loss.
+    Mr. Subramanyam. I have more questions, but my time is up. 
+We might have a second round.
+    But I will yield back. Thank you.
+    Ms. Mace. All right. I am now going to recognize Mr. 
+Burlison for 5 minutes.
+    Mr. Burlison. Thank you, Madam Chair. Thank you for 
+conducting this hearing. This is one of my favorite topics.
+    I am going to begin by quoting Irving John Good, who was a 
+British cryptologist or mathematician, famous for working with 
+Alan Turing. He is quoted as saying, ``Let an ultraintelligent 
+machine be defined as a machine that can far surpass all the 
+intellectual activities of any man, however clever. Since the 
+design of machines is one of these intellectual activities, an 
+ultraintelligent machine could design even better machines, 
+there would then be unquestionably an intelligence explosion, 
+and the intelligence of man would be left far behind. Thus, the 
+first ultraintelligent machine is the last invention that man 
+may ever need to make.''
+    Mr. Hammond, can you elaborate on some of the success 
+recently of some of the AI self-improvement that is occurring, 
+where it is constantly improving itself?
+    Mr. Hammond. Yes, absolutely. I think it is coming in in 
+gradations. So, we already have AIs that are good at coding, 
+and a lot of the job of an AI engineer is coding. And so, there 
+is a joke now at these AI labs, they are no longer coding; they 
+are just kicking the AI to fix the bugs.
+    Beyond that, we also have AIs that are now writing their 
+own algorithms. So, earlier this year, Google released 
+AlphaEvolve, which was an evolutionary AI algorithm that 
+discovered new bounds on a mathematical theorem that had not 
+been beaten in 47 years.
+    Mr. Burlison. And, with that, Madam Chair, I have got an 
+article about AlphaEvolve, which is a power coding agent for 
+designing advanced algorithms, if I could submit that for the 
+record.
+    Ms. Mace. So ordered.
+    Mr. Burlison. Thank you.
+    When--Ms.--Dr. Lee, when it comes to jobs, I am of the 
+opinion--and I think you kind of touched on it--that things 
+will change. It does not mean there will not be any--there will 
+no longer be the need for us to have work to do. I think of it 
+often this way.
+    My great-great grandparents, your great-great grandparents, 
+probably everyone in this room's great-great grandparents were 
+all farmers because that is what it took. It took everyone 
+working the fields in order to produce enough food to feed 
+people. Today, very few people farm. It is because of 
+machinery.
+    And no one would go back in time--would agree that we 
+should go back in time and say, ``Do not let them have the 
+tractor or the harvester,'' right? If anything, it has taken 
+the power or the productivity of one person and magnified it 
+manyfold. And that is the way I think we should think about AI.
+    In fact, AI will be a magnifier for productivity for any 
+individual no matter what they do and, thus, you need the 
+individual. You need that individual that is the core. Would 
+you agree with that, Dr. Lee?
+    Dr. Turner Lee. Oh, I definitely agree. I published a book 
+last year called ``Digitally Invisible,'' where I went to talk 
+to farmers in places in Southern Maryland, across the country, 
+and guess what? They said, ``A tractor is only as good as the 
+broadband that it has to actually be more productive in the 
+work that they do.''
+    But, most importantly, with the compute power of AI, it 
+will only be as good as the facilities that we offer them to be 
+able to be connected to these new resources, and it will just 
+change and transform how they do their work in ways where they 
+do not have to go out there and measure how much rain came. 
+They will actually know from the comfort of their office that 
+is sitting on their land.
+    So, I do agree that we need to have conversations about job 
+loss, as well as the transformational capacities in which jobs 
+will change the way in which we work. I do not agree that we 
+will have robots bossing us around yet.
+    Mr. Burlison. I do not either. I do not either. Ms. 
+Fabrizio, the European Union has--they reportedly--their 
+regulations have kind of created a chilling effect. Can you 
+elaborate on that?
+    Ms. Fabrizio. Yes. It has been hard for companies to 
+innovate, and that is why you see fewer unicorns and fewer tech 
+innovations out of Europe. I think the United States is doing 
+it right, and we have many companies here.
+    We have the most robust startup ecosystem in the world 
+here, and we see that firsthand at CES, 1,400 startups, and 
+many of them creating new AI innovations and launching them at 
+CES. That is why it is really important to make sure that we 
+have a framework that supports them.
+    Mr. Burlison. And I think we are at a place now where we 
+just realize, if we are going to stay on top competitively, we 
+have to be the location for these data centers. We have to have 
+these AI, you know, housed in the United States. In order to do 
+that, we need electricity.
+    And, Mr. Hammond, would you agree that, right now, we are 
+in an electricity crunch? We do not have what is needed for 
+that demand, and we have got to change that?
+    Mr. Hammond. Absolutely. Not just the data centers, but all 
+forms of things are being electrified from vehicles on down.
+    Mr. Burlison. Thank you. My time has expired.
+    Ms. Mace. Okay. I will now recognize Mr. Crane for his 5 
+minutes.
+    Mr. Crane. Thank you, Ms. Chairwoman. Thank you guys for 
+coming today.
+    I want to start with Ms. Fabrizio. I meet with 
+organizations tied to blue collar jobs all the time, and they 
+are constantly in my office begging for more help and people 
+that need training in specialized fields like plumbing, 
+electrical work, and carpentry. Meanwhile, CEOs are warning 
+that AI will take 30 percent of the workforce by 2045.
+    My questions are, how do we ensure we are sending more 
+people to go to trade schools for these blue-collar jobs and 
+not just allowing them to get laid off by AI?
+    Ms. Fabrizio. We need to continue to invest in reskilling 
+and upskilling, and we need to make sure that we have the 
+resources available. At CES, we are doing AI trainings for the 
+first time at CES 2026 for people who are in the industry and 
+want to learn more. This is an important solution to this 
+challenge.
+    Mr. Crane. Do you agree with those assessments that AI will 
+take 30 percent of the workforce by 2045?
+    Ms. Fabrizio. AI is going to change the workforce, but it 
+is going to make it better. It is going to create new jobs, and 
+it is going to augment the existing jobs. It is going to make 
+people smarter. It is going to make them more efficient and 
+give them tools that they never had before to do their work.
+    Mr. Crane. Thank you. I would just like to say--make a 
+statement for the young generation out there watching, what is 
+going on with AI and who may be in college or may be in high 
+school.
+    You know, I think one of the fields that is the least 
+susceptible to AI taking over and eliminating your career 
+opportunities are the trades.
+    What advancements right now are we seeing with technology 
+that are creating new job opportunities for Americans?
+    Ms. Fabrizio. Well, we are seeing it in many areas. In 
+healthcare, you know, we are seeing individuals that are 
+learning how to create autonomous healthcare monitoring systems 
+for first-line intake that will help nurses and doctors get 
+better information so that they can be physically with patients 
+that they need to be with while an autonomous system is 
+collecting information on patients. And that would be hugely 
+helpful given the healthcare crisis we have.
+    Mr. Crane. Thank you. I want to shift to Mr. Hammond. Last 
+week, we lost a true American patriot, Charlie Kirk. Following 
+his assassination, there were reports of Chinese and Russian 
+bots encouraging violence through spreading misinformation, 
+attempting to create division.
+    Did you see any of those reports, sir?
+    Mr. Hammond. I did not.
+    Mr. Crane. Okay. How should the American people be wary of 
+the increase of inflammatory speech following the assassination 
+of Charlie and other mass violent events from Chinese and 
+Russian bots?
+    Mr. Hammond. It is a really big open challenge. These 
+social media platforms have their work cut out for them. We do 
+not yet have a reliable means of identifying what is a bot, 
+what is not, especially as these systems become more and more 
+human-like in the way they speak. And so, I think it is 
+something we need to put most of our resources into.
+    Mr. Crane. Okay. What do you think Federal agencies should 
+be doing to prevent the spreading of misinformation by these 
+bots to sow discourse in our communities and our country?
+    Mr. Hammond. I mean, at a minimum, we should stop selling 
+China and Russia the technology they use to run those bots. You 
+know, these H20 chips, which just got approved or liable to be 
+approved for export to China, if they all go through, it is 
+going to roughly double their data center capacity for running 
+advanced AI models.
+    We know from the past that they have used these chips to 
+power their surveillance drones, to power their gate 
+recognition technology. So, we have given them the ammunition 
+that now they are using on us.
+    Mr. Crane. Next question for you, sir. When I was growing 
+up in school, it was often considered cheating to use a 
+calculator on a test, right? Now we have CEOs of Fortune 500 
+companies basically telling their employees that they need to 
+be using AI a few times a day, or they will be falling behind 
+or become obsolete.
+    My question is, how do we balance the expanded use of AI 
+and not demonize the use of AI while preparing our students for 
+the future?
+    Mr. Hammond. I think education is a good example of how AI 
+is going to force a massive rethink and reckoning in how we do 
+a lot of things, including how we design curriculum for K-12. 
+And, you know, there is going to be resistance.
+    But there are already new models that are emerging. There 
+is Alpha School in Austin, which is trialing running AI-
+assisted tutoring in the mornings and project-based learning in 
+the afternoons and seeing tremendous results.
+    And so, I think we just need much more innovation in how we 
+do education.
+    Mr. Crane. What advice for this Committee and for Congress 
+do you have in regards to any regulations that you think are 
+responsible regarding AI in the future?
+    Mr. Hammond. My three big bullet points are, one, we need 
+to monitor the frontier; so we need to know what is coming and 
+be able to prepare and adapt because it is going to be a very 
+fast-moving period of human history. So, we do not want the 
+government to be the last one to know.
+    Number two is going to be investing in research and 
+development, especially around issues like control and 
+interpretability. How do we interpret how these models work? 
+How do we understand their behavior? How do we control their 
+behavior? Still, the companies are underinvesting in that.
+    And, third, we need to protect our comparative advantage, 
+which is AI hardware. So, as I mentioned earlier, our one big 
+advantage is chips and hardware. China is trying to catch up, 
+but they are cutoff right now. And, if we open up those chips 
+to China, they are going to jump ahead.
+    Mr. Crane. Thank you. I yield back.
+    Ms. Mace. All right. Thank you. We are going to do a second 
+round, if that is okay with the witnesses.
+    I request unanimous consent that the Subcommittee have a 
+second round of questioning of the witnesses.
+    So, without objection, it is so ordered.
+    I want to pick up where Mr. Crane left off about the chips. 
+You are referencing the H20 chip, right, Nvidia? Basically, I 
+know China just said that they were encouraging folks not to 
+buy from Nvidia, but it was a different chip, right? Do you 
+know anything about that?
+    Mr. Hammond. Yes. China is trying to indigenize their own 
+chips made by Huawei. DeepSeek was reported to have had some 
+botched efforts using the Huawei chips, and so the Chinese 
+companies are all hungry for American chips.
+    Ms. Mace. And how do we--I mean, how do we prevent China 
+from getting the chips?
+    Mr. Hammond. First order is we should not approve the sale 
+of the chips. And, to the extent that we do, try to minimize 
+the damage. Senator Jim Banks has a bill called the GAIN AI 
+Act, which would give U.S. companies a first right of refusal 
+to buy the chips that are destined for China. I think that is 
+the least we could do.
+    Ms. Mace. Is there a House version of that bill?
+    Mr. Hammond. I do not believe so, not yet.
+    Ms. Mace. Okay.
+    Mr. Hammond. You know, even with these controls in place, 
+China has very sophisticated smuggling operations. So, not a 
+month after the Blackwell series of chips were announced, there 
+was an FT report that China had already smuggled in a billion 
+dollars' worth of them.
+    So, we need to do much more to crack down on----
+    Ms. Mace. How did they do that? How were they able to get 
+away with that?
+    Mr. Hammond. Through third-party intermediaries in 
+Malaysia, Singapore, Taiwan. They just--they buy them through 
+these third parties that--on the list. In some cases, they are 
+even incorporated in the United States, and it is just a matter 
+of getting them over the border.
+    Ms. Mace. And are we cracking down on the intermediaries 
+here in the United States now? Have you heard anything about 
+that?
+    Mr. Hammond. There have been some DOJ-style investigations 
+that there have been actions taken in Malaysia and Singapore. 
+We have enlisted the governments in those countries in some 
+cases.
+    The challenge is really one of scale. So, once these chips 
+are at the door, how do we know where they are ending up? There 
+is a bill called the CHIP Security Act. There is a House 
+version of that that would require these chips to have basic 
+location verification.
+    Ms. Mace. Who is doing that bill?
+    Mr. Hammond. It is before the House Foreign Affairs 
+Committee (HFAC) right now.
+    Ms. Mace. Okay. And then--so, Ms. Fabrizio, you said 
+earlier in one of the questioning about China, using AI 
+differently. Can you give some examples?
+    Ms. Fabrizio. Well, China is using AI for surveillance, 
+they are using it for military purposes, they are--you know, 
+they also do not have privacy in China. So, they use the data 
+differently than we do here.
+    That is why I think it is really important that we continue 
+to move forward, we look for a national AI framework that 
+addresses some of these big issues. It is risk-based, It is 
+tech neutral, and it allows innovation to continue to flourish 
+here so we can continue to beat China.
+    Ms. Mace. Is China our greatest threat?
+    Ms. Fabrizio. Yes.
+    Ms. Mace. Do you agree, Mr. Hammond, China being the 
+greatest threat?
+    Mr. Hammond. Certainly on the chip----
+    Ms. Mace. Dr. Turner Lee, would you agree?
+    Dr. Turner Lee. Yes.
+    Ms. Mace. What are the consequences--and this is for all 
+the panelists--if the United States fails to outpace China in 
+the race for domination in AI? Ms. Fabrizio?
+    Ms. Fabrizio. Well, it is important that we move forward in 
+the best way that we can and that we focus on innovation. We 
+have the best startup ecosystem here. We have the best tech 
+companies here, but we need to not get in their way.
+    So, that means a pause on state legislation. It means a 
+Federal framework where companies can innovate and know the 
+guardrails and be able to move forward.
+    Ms. Mace. Mr. Hammond?
+    Mr. Hammond. I worry that we need to buy time with China 
+because over the last 40 years--this is part of the 
+industrialization story--we have shifted all our industries 
+into services, entertainment, law, finance, all things that are 
+about to be deflated by AI whereas--so there is a world where 
+we build the AGI, we build the general intelligence, but China 
+is the one that puts in factories and has the growth benefits.
+    Ms. Mace. There have been people--because I know one 
+personally, someone I am suing--literally, he is using ChatGPT 
+as his attorney. I just cannot think of any--I mean, okay, yes. 
+But--we are going to beat the LLM in court. Dr. Turner Lee?
+    Dr. Turner Lee. I would agree with my colleagues in terms 
+of China being a threat to our dominance in the AI space. I 
+also would put out there, though, that we have to find 
+alternative markets if we are actually going to grow the 
+economy and scale of U.S. companies.
+    So, I am thinking about my experiences with 5G, where we 
+actually opened up other markets, we missed the opportunity to 
+work with the global majority, African Union. So, just 
+thinking--rethinking our industrial policy as we think about 
+China as a threat as to if we want people to have American 
+products embedded in their technology, where are we selling it 
+to, and making sure we are agile.
+    I do also want to respond that I do think states have to 
+play a role in experimentation. I think the Federal Government 
+would be too premature to come up with a national policy that 
+limits states' rights because what we are seeing in terms of 
+experimentation of states is that they are looking at more 
+consumer protection.
+    AGs are trying to figure out ways to keep our grandmothers 
+safe from AI. They are not necessarily trying to compete 
+against China. They are just competing against the various 
+misnomers and lack of information that people----
+    Ms. Mace. We already have that. I got a Nigerian scam the 
+other day in an email that, you know, I took a screen shot and 
+forwarded to my family, and I am, like, ``Don't click on 
+this.''
+    Dr. Turner Lee. We do the same thing because we are not 
+coming to Congress; we are going to our state AGs. So, we can 
+eval what they are able to do to make sure people are safe.
+    Ms. Mace. Yes. Okay.
+    I will now recognize Mr. Subramanyam for 5 minutes.
+    Mr. Subramanyam. Thank you, Madam Chair.
+    I just want to finish the job displacement conversation, 
+and, Mr. Hammond, you said something interesting about the 
+United States has shifted its economy toward industries that 
+are susceptible to AI. You mentioned law. I am a lawyer too, 
+and so I am sensitive to that, but can you expound a little bit 
+on that as well as what should we be doing? I know Mr. Crane 
+made some good points as well about, you know, different 
+industries that might be more important moving forward, but I 
+would love to hear more about that.
+    Mr. Hammond. It is a story of relative scarcity. So, if 
+intelligence becomes abundant, if service labor, cognitive 
+labor becomes abundant, then what remains scarce? And it will 
+be the heavy industry, the factories, the actual--not just the 
+factories, but also the know-how, the tacit knowledge that is 
+embedded within the workforces that China has that we do not. 
+And so, you know, one of the reasons that we need to buy time 
+is in part to try to rebuild some of those new sectors in part 
+to ensure that we do not just give away our economy.
+    Mr. Subramanyam. And what would buy time? What can we do to 
+buy time?
+    Mr. Hammond. Well, number one, denying China access to the 
+most advanced AI chip.
+    Mr. Subramanyam. Oh, I see. Okay. Got it. You mean like 
+export controls, and that sort of thing. I would ask, I guess, 
+the other witnesses as well what your thoughts are on this? 
+Like, what jobs are we going to lose in the future as well? 
+What jobs are we going to be gained? Ms. Fabrizio mentioned 
+this is going to create more jobs than we are losing. Do we 
+even know right now what those jobs would be? I know it is--you 
+know, there is this idea of, okay, well, AI is going to 
+displace this IT department but it is going to replace it with 
+AI buddies that, you know, help fix the AI or make it better. 
+But, you know, I look at what is actually happening and that is 
+not quite the reality right now. Perhaps it will be in the 
+future, but right now what I am seeing is, you know, 40 people 
+get laid off in an IT department. They are replaced with AI 
+and, like, five people, and so I am just curious what you think 
+that future would look like, what jobs will be gained.
+    Ms. Fabrizio. Well, every major shift we have seen new 
+industries and new jobs created. Think about the internet. 
+Things--you know, so many new industries were developed, and we 
+see that at CES. You know, in terms of jobs, there are AI data 
+scientists, AI ethicists. There are new ways of building and 
+manufacturing technology that did not exist before, and we will 
+continue to see more and more of that as new industries use AI 
+and as new--whole new industries that we do not even know what 
+they are yet emerge. But agriculture is one great example where 
+we have seen new roles develop because of AI.
+    Mr. Subramanyam. Ms. Dr. Turner Lee?
+    Dr. Turner Lee. Yes. And I would just say, in sort of 
+looping back to the previous question as well, I think we have 
+to be distinguishing between the loss of jobs in the blue-
+collar sector and the white-collar sector, right? So, I think 
+on the white-collar sector it has been very clear that AI is 
+going to improve the efficiencies of lawyers or paralegals who 
+do the type of research that AI can do expeditiously. On the 
+blue-collar side, it becomes a little bit more tricky, because 
+when we are talking about trade jobs that are going to be lost. 
+I am not sure yet if a robotic plumber can come to my house and 
+fix my toilet, but we still have to see that we are going to be 
+running these parallel workforce opportunities, and it is 
+important for that plumber to have the skills necessary to be 
+able to innovate and to grow into the new economy where maybe 
+they are not actually doing the physical labor, but they are 
+managing schedule, or they are managing invoices, or they are 
+trying to do trade service calls. I want to put that out there.
+    I think the question that we all should have is we are 
+going to lose collective bargaining jobs when AI comes in, 
+because it is going to replace front line workers who 
+essentially have had that job security as well as a union to be 
+able to do the work that they do. So, I think we have to just 
+look at the scan and do a better scan of what that means when 
+we say job loss--Congressman, you are right on point--and sort 
+of divide that out based on not only productivity but where we 
+are going to see the most vulnerability.
+    Mr. Subramanyam. And I would ask all the witnesses what 
+should Congress do, if anything, about job displacement? Ms. 
+Fabrizio?
+    Ms. Fabrizio. I think investing in workforce development 
+and training and apprenticeships. I mean, you are right, you 
+might not have a robotic plumber, but you might have a plumber 
+that is able to look at a digital twin of your home and 
+identify a better solution faster that they would not have had 
+the ability to do before. So, continuing to invest in 
+upskilling is extremely important.
+    Mr. Subramanyam. Mr. Hammond.
+    Mr. Hammond. I would say two things. One, that the U.S. 
+Government has a poor track record of running employment and 
+training and retraining programs. They tend to not work very 
+well. And I believe GAO last reported that there are 46 of them 
+already. And so, I would look to opportunities that shift 
+training on the job as much as possible, and, to the extent 
+possible, reducing barriers to enter new jobs so that you do 
+not need to get that certificate or do not need to get the 
+extra piece of education just to enter the workforce.
+    Dr. Turner Lee. And I would say the same thing. Upskilling, 
+obviously, cross-skilling as the nature of jobs actually are 
+transformed. I love the example of my colleague with regards to 
+digital twins in some of the trade areas. And I also would say 
+national AI literacy so that people also understand that AI is 
+not just the job. It is the behavior in which you approach the 
+task that is before you. That is one of the most transformative 
+aspects of this technology compared to any internet 
+technologies that we have had. You can actually see AI through 
+an appliance and figure out ways in which you are interacting 
+with it. As a student, you can see it on your phone. So, really 
+thinking about what does AI literacy look like so that people 
+understand how that actually fits into the labor force.
+    Mr. Subramanyam. Thank you. I yield back.
+    Ms. Mace. Thank you.
+    Mr. Burlison, would you like to be recognized for 5 
+minutes?
+    Mr. Burlison. Sure. Thank you. Ms. Fabrizio, at one point 
+in your, I think in your, testimony you talked about that, 
+without Federal privacy law, businesses and consumers are 
+navigating the confusing state by state patchwork. I could not 
+agree more. But can you elaborate on what--by us not having 
+some kind of standardized laws in place and really kind of open 
+the door for one state to squelch this industry.
+    Ms. Fabrizio. Well, yes, and more so it is very harmful to 
+businesses, especially small businesses or startups with a 
+unique idea to try to figure out how to scale. It is very 
+stifling to try to comply with many different state laws and to 
+grow your market and to grow your product, and so that can be 
+discouraging and that can discourage innovation, and that is 
+not what we want to do here. We want to encourage innovation, 
+and a Federal privacy framework would help give some 
+consistency and some clear guardrails and rules of the road so 
+that our innovators can innovate.
+    Mr. Burlison. Right. Do you think we need in general, just 
+more broadly speaking, privacy laws related to our own personal 
+data?
+    Ms. Fabrizio. Well, in terms of looking at a framework for 
+privacy or for AI, it should be risk based, and we should 
+approach it that way, but I do think, versus a patchwork 
+approach that, again, companies just cannot adhere to it. They 
+cannot. Small companies cannot afford big privacy law firms to 
+support them. That gives the big companies a competitive 
+advantage and boxes out small companies.
+    Mr. Burlison. So, with that being said, what would you like 
+to see as a framework for setting wide sweeping Federal law?
+    Ms. Fabrizio. So, we would be looking for something that is 
+tech-neutral, that is preemptive--it is one framework--and that 
+it is risk based, and that it identifies those core categories, 
+and it also, you know, removes liability for companies that are 
+compliant, and that I think would really unlock and propel 
+innovation and move us forward.
+    Mr. Burlison. Interesting. You were speaking kind of 
+esoterically or a little bit philosophically there, but 
+specifically, can you think of specific rules or regulations 
+that you would want to see implemented?
+    Ms. Fabrizio. I would love to get back to you with 
+specifics and have a further conversation about it.
+    Mr. Burlison. I respect that. Thank you.
+    Mr. Hammond, a lot of this debate is about what the values 
+that we are going to teach this AI, which I find interesting 
+that we cannot even agree on what free speech means as 
+humanity; how can we trust AI to determine or how can we 
+attribute or provide some kind of values to AI?
+    Mr. Hammond. This is an unsolved problem as it stands. So, 
+you know, right now, you know, chat bots will adopt whatever 
+value you put into it. If you tell it to talk like a pirate, it 
+will talk like a pirate. The question is when these systems 
+become more autonomous and acting on their own, how do they not 
+just follow our values but follow them reliably. I think that 
+is an area still needed for further research.
+    Mr. Burlison. Thank you. Because I am touching back on the 
+question I asked Ms. Fabrizio, which is that I think that the 
+vulnerability for each one of us is that we are entering into 
+an era where an AI can devour as much information about you as 
+possible and weaponize that against you, and so that is 
+something I think is a concern, and the question is how do we 
+protect people's rights?
+    For example, every day I get annoying phone calls for 
+people from, like, people that want to know if I want to sell 
+my rental homes. Every day. I never signed up for anything. 
+Somehow they know which homes I have, and they just always want 
+to call me. I can only imagine how bad that is going to get 
+when--how much worse it is going to get, which is why I think 
+we should be considering as--on a Federal level having a 
+tighter grip or control on the data about individuals, 
+particularly important data, whether it is the electronic 
+medical record. We may need to do something like what we did 
+with Health Insurance Portability and Accountability Act 
+(HIPAA) or extend that beyond just your medical privacy. Dr. 
+Lee, you are nodding your head.
+    Dr. Turner Lee. I am nodding my head. We are way overdue in 
+the United States for a national privacy standard that would 
+actually dictate what goes into the machines, what comes out of 
+it in terms of what we consent to, not consent to implicitly as 
+well as, you know, the ability of third parties to get ahold of 
+that. You get calls about your rental properties. I am offered 
+$100,000 every day through some type of voice clone. So, I 
+think that, alongside deep fakes, which actually only exploits 
+the opportunities you are talking about. We really do need 
+Federal privacy legislation to slow this down.
+    Mr. Burlison. Thank you. I yield back.
+    Ms. Mace. All right. I will now recognize Mr. Crane for 5 
+minutes.
+    Mr. Crane. Thank you.
+    I want to get back on this chip conversation that we were 
+having, Dr. Hammond. You were talking about the need to buy 
+time. I believe we were talking about the H20 chip. Is that 
+correct?
+    Mr. Hammond. Yes, sir.
+    Mr. Crane. Are those manufactured in Taiwan or the United 
+States?
+    Mr. Hammond. Primarily Taiwan.
+    Mr. Crane. Do you have fears that--China has stated 
+repeatedly that their plans are to take Taiwan, and by doing so 
+would have access and control of all of these chip companies 
+that the United States has invested in?
+    Mr. Hammond. I am very concerned about a potential invasion 
+or blockade against Taiwan. I would say that, if that were to 
+occur that Taiwan Semiconductor Manufacturing Company Limited 
+(TSMC) would not be long for the world.
+    Mr. Crane. On that note, just to unpack it for the American 
+people that might be watching, what percentage of chips that we 
+use as American consumers and in AI come from Taiwan?
+    Mr. Hammond. When it comes to the most advanced AI logic 
+chips like the products Nvidia produces, over 90 percent.
+    Mr. Crane. 90 percent.
+    Mr. Hammond. With the new TSMC factories going up in 
+Arizona and elsewhere, we are going to try to grow our share, 
+but right now it is----
+    Mr. Crane. Is it not, like, 60 percent of semiconductors 
+that we use come from Taiwan as well?
+    Mr. Hammond. Yes. Across the board.
+    Mr. Crane. What do you think would look like if that 
+scenario were to unfold within the next couple years, what do 
+you think--effects that would have on the U.S. economy?
+    Mr. Hammond. I think we would have a global depression, 
+number one, and then number two, all our products from our car 
+door to our toaster have semiconductors in them.
+    Mr. Crane. When I have heard experts talk about, you know, 
+standing up these manufacturing capabilities that, you know, 
+building these advanced chips, it is not easy. It often takes 
+decades. Would you agree with that?
+    Mr. Hammond. It can from scratch, but the fab going up in 
+Arizona is actually ahead of schedule and showing very good 
+results after only a couple years.
+    Mr. Crane. So, you think, within a couple years, we can be 
+producing these most advanced chips right here in the United 
+States?
+    Mr. Hammond. If similar style, like if a CHIPS Act 2.0 were 
+to come across, we could do this again, yes.
+    Mr. Crane. Ms. Fabrizio, you talked about other eras within 
+history, like the invention of the internet, and you compared 
+that to AI to kind of make your point that, you know, any time 
+there has been serious innovation within industry, it often 
+leads to new jobs, other fields that we do not even yet know 
+about. Do you think that that is coherent and fair looking at 
+what we are facing here with AI? Do you think it will be 
+similar, or do you think AI will be a lot more disruptive for 
+jobs in the economy than anything we have ever seen?
+    Ms. Fabrizio. I think it will be a good shift that we see. 
+There will be disruption, but I think it will be positive. I 
+think it will allow us to solve some of the biggest challenges 
+that we have. Think in healthcare: we have a healthcare worker 
+shortage. We have more sick patients. Think food insecurity, 
+think farming, agriculture, energy, mobility, smart cities. I 
+see all of these solutions at CES. I see amazing groundbreaking 
+technologies, and I would invite you all to come to CES and see 
+them, too, and see how the future will be amazing once we 
+continue through this shift if we allow the United States to be 
+the leader and continue to be the leader.
+    Mr. Crane. Do you agree with that, Mr. Hammond?
+    Mr. Hammond. Yes. I would add a component to this. A vital 
+component is cybersecurity, infrastructure security. So, it is 
+one thing--we need these data centers in this country first and 
+foremost for sovereignty if we are going to be running through 
+the economy through these data centers. If they are going to be 
+contributing to GDP, they should be within our borders, within 
+our jurisdiction, but that also creates a single point of 
+failure, right? If the power goes out today, we are still able 
+to have a conversation; but, in the future, if the world is 
+running on AI, that is a huge critical piece of infrastructure 
+that could be taken out.
+    Mr. Crane. I think we did a hearing on this same topic 
+probably a couple months back, and one of the AI titans, you 
+know, we brought in an article, and he said within the next one 
+to five years, like, 50 percent of all entry-level white-collar 
+jobs are going to be gone. So, you think those folks are all 
+going to be able to find new jobs?
+    Ms. Fabrizio. Well, I do not think those jobs will be gone. 
+I think there will be different jobs, and those people 
+hopefully will be focusing on upskilling. They will be using 
+AI. We have all heard that AI will not replace people, but 
+people who use AI will replace people who do not, and so that 
+is how I look at it, and I do think that is the shift that we 
+will experience.
+    Mr. Crane. Okay. So, you guys do not think this is going to 
+be, like, one of those times where we told coal miners, ``Hey, 
+when your plant goes under and we get rid of it, we are going 
+to teach them how to code?'' Do you guys remember that a couple 
+years ago? What do you think those coal miners are thinking 
+right now? How many of them do you think learned how to code?
+    Mr. Hammond. Teach coders how to mine.
+    Mr. Crane. I am not saying it is your responsibility. I am 
+just saying this is one of the biggest concerns that I have 
+when I look at what is going on with AI.
+    Ms. Fabrizio. I agree. I think upskilling and investing in 
+the future workforce is extremely important, and it is 
+something that we have to do, and we have to bring people 
+along, but that involves education. It starts with STEM 
+education early in AI and continued investment there and being 
+future looking.
+    Mr. Crane. I get it, but a lot of these folks that already 
+have these jobs. They already got their education that, in many 
+cases, are going to be worthless. Would you agree, Dr. Turner--
+or----
+    Dr. Turner Lee. Oh, of course. I think what you are 
+actually pointing out, Congressman, is that we need to do more 
+research on this, and we need a little bit more data before we 
+jump in here and start asserting what we think the workforce 
+will look like.
+    Mr. Crane. Thank you. I yield back.
+    Ms. Mace. Okay. In closing, as we wrap this up, I want to 
+thank our panelists once again for being here this afternoon 
+and providing your testimony. I would like to yield to the 
+Ranking Member for any closing remarks.
+    Mr. Subramanyam. Thank you, Madam Chair.
+    I think some really interesting points were made by Members 
+of the Committee today, and I just--I want people to understand 
+that we should not downplay the job losses, the job 
+displacement that is already happening. This is not 
+theoretical. I had a job fair in my district a couple months 
+ago, and I was ready to meet many folks who had lost their jobs 
+because they were Federal workers, and I have a lot of Federal 
+workers in my district that have been laid off, and certainly 
+there were those. But there were even more IT students and 
+graduates who were there because they had lost the ability to 
+get a job because companies were not hiring them anymore. They 
+wanted ten years of experience. Well, if you are an IT student 
+who just graduated from a 4-year college, you were told your 
+whole life to go into STEM, and you got the best STEM education 
+from the best STEM education schools, and now there is no job, 
+and they are asking me why; what happened?
+    And then I look at what is happening at the companies, and 
+they are laying off entire departments and replacing them with 
+AI and putting out press releases in some instances, bragging 
+about it to their shareholders. Again, I am not here to run 
+their business. I think it is reality. If you could replace 100 
+people that you spend a million dollars paying with a tool that 
+costs $50,000, it is part of your mandate to do that, but I 
+think we have to understand that this is an imminent problem, 
+that certainly we have invested a lot already in STEM education 
+and in job training programs.
+    But I actually kind of agree with you, Mr. Hammond, we have 
+a lot of them already. I do not know if that is the only 
+solution here. I do not have any answers for you today. That is 
+why I was asking these questions, but I do want to work with my 
+colleagues on both sides of the aisle to figure out what comes 
+next, because I have a lot of students with really good skills. 
+They do not need to be upskilled anymore. They have really good 
+tech skills. They just cannot find jobs, right? And so, I want 
+to see if there is something we can do about that. I yield 
+back.
+    Ms. Mace. Thank you.
+    And, with that, without objection, all Members will have 
+five legislative days within which to submit materials and to 
+submit additional written questions for the witnesses which 
+will be forwarded to the witnesses for their response.
+    And, if there is no further business, without objection, 
+the Subcommittee stands adjourned.
+    [Whereupon, at 3:20 p.m., the Subcommittee was adjourned.]
+
+                                 [all]

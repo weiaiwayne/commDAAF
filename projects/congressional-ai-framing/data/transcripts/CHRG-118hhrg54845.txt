@@ -1,0 +1,2174 @@
+- ARTIFICIAL INTELLIGENCE AND INTELLECTUAL PROPERTY: PART II-IDENTITY IN THE AGE OF AI
+
+[House Hearing, 118 Congress]
+[From the U.S. Government Publishing Office]
+
+                ARTIFICIAL INTELLIGENCE AND INTELLECTUAL
+                     PROPERTY: PART II-IDENTITY IN
+                             THE AGE OF AI
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                  SUBCOMMITTEE ON COURTS, INTELLECTUAL
+                       PROPERTY, AND THE INTERNET
+
+                                 OF THE
+
+                       COMMITTEE ON THE JUDICIARY
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                        FRIDAY, FEBRUARY 2, 2024
+
+                               __________
+
+                           Serial No. 118-61
+
+                               __________
+
+         Printed for the use of the Committee on the Judiciary
+
+                 [GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+               Available via: http://judiciary.house.gov
+
+                               ______
+
+                 U.S. GOVERNMENT PUBLISHING OFFICE
+
+54-845                    WASHINGTON : 2024
+
+                       COMMITTEE ON THE JUDICIARY
+
+                        JIM JORDAN, Ohio, Chair
+
+DARRELL ISSA, California             JERROLD NADLER, New York, Ranking 
+KEN BUCK, Colorado                       Member
+MATT GAETZ, Florida                  ZOE LOFGREN, California
+ANDY BIGGS, Arizona                  SHEILA JACKSON LEE, Texas
+TOM McCLINTOCK, California           STEVE COHEN, Tennessee
+TOM TIFFANY, Wisconsin               HENRY C. ``HANK'' JOHNSON, Jr., 
+THOMAS MASSIE, Kentucky                  Georgia
+CHIP ROY, Texas                      ADAM SCHIFF, California
+DAN BISHOP, North Carolina           J. LUIS CORREA, California
+VICTORIA SPARTZ, Indiana             ERIC SWALWELL, California
+SCOTT FITZGERALD, Wisconsin          TED LIEU, California
+CLIFF BENTZ, Oregon                  PRAMILA JAYAPAL, Washington
+BEN CLINE, Virginia                  MARY GAY SCANLON, Pennsylvania
+KELLY ARMSTRONG, North Dakota        JOE NEGUSE, Colorado
+LANCE GOODEN, Texas                  LUCY McBATH, Georgia
+JEFF VAN DREW, New Jersey            MADELEINE DEAN, Pennsylvania
+TROY NEHLS, Texas                    VERONICA ESCOBAR, Texas
+BARRY MOORE, Alabama                 DEBORAH ROSS, North Carolina
+KEVIN KILEY, California              CORI BUSH, Missouri
+HARRIET HAGEMAN, Wyoming             GLENN IVEY, Maryland
+NATHANIEL MORAN, Texas               BECCA BALINT, Vermont
+LAUREL LEE, Florida
+WESLEY HUNT, Texas
+RUSSELL FRY, South Carolina
+
+                                 ------                                
+
+           SUBCOMMITTEE ON COURTS, INTELLECTUAL PROPERTY, AND
+                              THE INTERNET
+
+                    DARRELL ISSA, California, Chair
+
+THOMAS MASSIE, Kentucky              HENRY C. ``HANK'' JOHNSON, Jr., 
+SCOTT FITZGERALD, Wisconsin              Georgia, Ranking Member
+CLIFF BENTZ, Oregon                  TED LIEU, California
+BEN CLINE, Virginia                  JOE NEGUSE, Colorado
+LANCE GOODEN, Texas                  DEBORAH ROSS, North Carolina
+KEVIN KILEY, California              ADAM SCHIFF, California
+NATHANIEL MORAN, Texas               ZOE LOFGREN, California
+LAUREL LEE, Florida                  MADELEINE DEAN, Pennsylvania
+RUSSELL FRY, South Carolina          GLENN IVEY, Maryland
+
+               CHRISTOPHER HIXON, Majority Staff Director
+         AARON HILLER, Minority Staff Director & Chief of Staff
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                        Friday, February 2, 2024
+
+                                                                   Page
+
+                           OPENING STATEMENTS
+
+The Honorable Darrell Issa, Chair of the Subcommittee on Courts, 
+  Intellectual Property, and the Internet from the State of 
+  California.....................................................     1
+The Honorable Henry C. ``Hank'' Johnson, Ranking Member of the 
+  Subcommittee on Courts, Intellectual Property, and the Internet 
+  from the State of Georgia......................................     3
+
+                               WITNESSES
+
+Lainey Wilson, 2024 GRAMMY Nominee, Reigning CMA Entertainer of 
+  the Year, ACM Female Artist of the Year
+  Oral Testimony.................................................     5
+  Prepared Testimony.............................................     8
+Harvey Mason, Jr., President & CEO, Recording Academy
+  Oral Testimony.................................................    10
+  Prepared Testimony.............................................    12
+Christopher A. Mohr, President, Software and Information Industry 
+  Association
+  Oral Testimony.................................................    15
+  Prepared Testimony.............................................    17
+Jennifer E. Rothman, Nicholas F. Gallicchio Professor of Law, 
+  University of Pennsylvania Law School
+  Oral Testimony.................................................    27
+  Prepared Testimony.............................................    29
+
+          LETTERS, STATEMENTS, ETC. SUBMITTED FOR THE HEARING
+
+All materials submitted by the Subcommittee on Courts, 
+  Intellectual Property, and the Internet, for the record........    69
+
+Materials submitted by the Honorable Madeleine Dean, a Member of 
+  the Subcommittee on Courts, Intellectual Property, and the 
+  Internet from the State of Pennsylvania, for the record
+  An article entitled, ``Taylor Swift and No AI Fraud Act: How 
+      Congress plans to fight back against AI deepfakes,'' Jan. 
+      30, 2024, ABC News
+  An article entitled, ``Nicki Minaj, Cardi B & More Support `No 
+      AI Fraud' Bill In Congress,'' Feb. 2, 2024, Billboard
+
+                                APPENDIX
+
+Materials submitted by the Honorable Darrell Issa, Chair of the 
+  Subcommittee on Courts, Intellectual Property, and the Internet 
+  from the State of California, for the record
+  Letter from the Digital Media Association (DiMA) to the 
+      Honorable Darrell Issa, Chair of the Subcommittee on 
+      Courts, Intellectual Property, and the Internet from the 
+      State of California and the Honorable Henry C. ``Hank'' 
+      Johnson, Ranking Member of the Subcommittee on Courts, 
+      Intellectual Property, and the Internet from the State of 
+      Georgia
+  Statement from Motion Picture Association, Inc. (MPA)
+  Letter from Public Knowledge to the Honorable Darrell Issa, 
+      Chair of the Subcommittee on Courts, Intellectual Property, 
+      and the Internet from the State of California and the 
+      Honorable Henry C. ``Hank'' Johnson, Ranking Member of the 
+      Subcommittee on Courts, Intellectual Property, and the 
+      Internet from the State of Georgia
+
+                 QUESTIONS AND RESPONSES FOR THE RECORD
+
+Questions for Jennifer E. Rothman, Nicholas F. Gallicchio 
+  Professor of Law, University of Pennsylvania Law School, 
+  submitted by the Honorable Madeleine Dean, a Member of the 
+  Subcommittee on Courts, Intellectual Property, and the Internet 
+  from the State of Pennsylvania, for the record
+Response to questions from Jennifer E. Rothman, Nicholas F. 
+  Gallicchio Professor of Law, University of Pennsylvania Law 
+  School
+Questions for Christopher A. Mohr, President, Software and 
+  Information Industry Association, and Harvey Mason, Jr., 
+  President & CEO, Recording Academy, submitted by the Honorable 
+  Kevin Kiley, a Member of the Subcommittee on Courts, 
+  Intellectual Property, and the Internet from the State of 
+  California, for the record
+Questions for Harvey Mason, Jr., President & CEO, Recording 
+  Academy, Christopher A. Mohr, President, Software and 
+  Information Industry Association, and Jennifer E. Rothman, 
+  Nicholas F. Gallicchio Professor of Law, University of 
+  Pennsylvania Law School, submitted by the Honorable Darrell 
+  Issa, Chair of the Subcommittee on Courts, Intellectual 
+  Property, and the Internet from the State of California, for 
+  the record
+Response to questions from Jennifer E. Rothman, Nicholas F. 
+  Gallicchio Professor of Law, University of Pennsylvania Law 
+  School
+
+                ARTIFICIAL INTELLIGENCE AND INTELLECTUAL
+                     PROPERTY: PART II-IDENTITY IN
+                             THE AGE OF AI
+
+                              ----------                              
+
+                        Friday, February 2, 2024
+
+                        House of Representatives
+
+           Subcommittee on Courts, Intellectual Property, and
+
+                              the Internet
+
+                       Committee on the Judiciary
+
+                             Washington, DC
+
+    The Committee met, pursuant to notice, at 9:15 a.m., PT, at 
+the Los Angeles Convention Center, Theater 411, 1201 S. 
+Figueroa Street, Los Angeles, California, the Hon. Darrell Issa 
+presiding.
+    Present: Representatives Issa, Fitzgerald, Kiley, Moran, 
+Johnson of Georgia, Lieu, Schiff, Dean, and Ivey.
+    Also present: Representatives Gaetz and Bush.
+    Mr. Issa. The Subcommittee will come to order. Without 
+objection, the Chair is authorized to declare a recess at any 
+time.
+    Today we welcome everyone here for this hearing entitled, 
+``Artificial Intelligence and Intellectual Property: Part II.'' 
+That is because Part I was in Nashville, and Nashville is not 
+the only center of great intellectual property creation. I 
+think Mr. Schiff and I, as Californians, and some others would 
+certainly be the first to say that.
+    I now recognize myself for an official opening statement.
+    This Subcommittee has been at the forefront of intellectual 
+property protection for decades. In fact, we are entrusted with 
+that protection by the Constitution, and as one of the oldest 
+Committees of the Congress we take that seriously.
+    For all those who have been involved in AI, they recognize 
+it isn't new, and the problems of AI are not new. Just as 
+Moore's Law created an acceleration of processing power and 
+speed, regenerative AI is doing that before our very eyes 
+today. So, today we will be focusing on what has been with us 
+for a long time, problems that have been created, unsolved and 
+untreated, that must be treated sooner rather than later.
+    We also will recognize that there is already a disparity in 
+laws between States. Some of those laws are models for the 
+Federal Government to adapt. Others may, in fact, be ones in 
+which the Federal Government needs to intervene to create a 
+stable and productive platform for copyright.
+    Copyright and trademark do not exist as rights, even though 
+we call them intellectual property rights. They are 
+inducements. They are a balancing act. I always remind people 
+that this balancing act and that inducement must, from time to 
+time, be checked to find are we, in fact, rewarding the 
+creators of intellectual property sufficiently. Are we 
+protecting the rights that come from that inducement in a way 
+in which one creator does not find themselves at a disadvantage 
+to another creator?
+    Many people view themselves as creators of intellectual 
+property. More than 20 years ago, before another Committee of 
+Congress, a former Congressman came in and proudly showed us a 
+CD that he had created and given more than 100 as Christmas 
+presents for. It was, in fact, the works of half a dozen 
+different artists, in a unique way, and he said, ``This doesn't 
+exist anywhere else. I created this.'' There was not one new 
+song. They simply were put onto a CD in a very interesting way. 
+There wasn't even a voiceover from the Congressman.
+    I sat in that Committee hearing, before Energy and 
+Commerce, and, in fact, saw heads nodding saying, ``Well, yes, 
+you created something.'' He no more created something than, in 
+fact, if the perfect likeness of any performing artist were 
+simply taken and used again.
+    That is not to say that a cover band does not have the 
+ability to perform with the attempt to entertain, but it does 
+mean that AI has an unlimited ability to duplicate, and we, 
+today, will, in fact, be dealing with that question.
+    A vivid example are deep fakes. Deep fakes are clearly 
+abuses of AI that raise the question of whether AI technology 
+can be used to spread misinformation. That is not a question 
+any longer. It has been answered. The question is will we 
+protect celebrities from deep fakes? Will we, in fact, protect 
+politicians from appearing to say something even worse than 
+what we say in real life?
+    [Laughter.]
+    Mr. Issa. I knew that would be a crowd pleaser.
+    Fundamentally, what AI does is it does perfectly, or can do 
+perfectly, that which we have mimicked for generations. Most 
+great lasting pieces of music are, in fact, passed down from 
+generation to generation, and before they were passed down in 
+writing they were passed down by performers in front of each 
+other, teaching the next generation how to do something. So, 
+there is nothing wrong with that continuity. The continuity 
+that is created by man has already been legislated in a way to 
+protect for 70 years past the life of that creator. That is not 
+the case today under AI.
+    It is critical that the development of the technology be 
+ethical and not harmful. Ethnical and not harmful is a standard 
+that we believe can be achieved, but it is going to have to 
+also be uniform within the United States, and the United States 
+must lead the world in that ethical and not harmful.
+    Not only is it important for the economy, but it is 
+important for American technology leadership. It is not just 
+about the copyright holders of today and those who will 
+generate new copyright with the assistance of AI. It is about 
+whether America will lead the world into a greater efficiency 
+using AI and, quite frankly, more things that please, that 
+amuse, that, in fact, do what entertainers, artists, writers 
+have done for thousands of years.
+    This also includes a respect for the freedom that we enjoy 
+in our system. Our very Constitution was, in fact, a plagiarism 
+of great ideas of the past, but it was put together in an 
+original way that has sustained us for 200 years. There will be 
+other hearings that, in fact, will deal with the impact to 
+patents and others. There will be others that will deal 
+directly with trademarks. There will be others that deal with 
+other parts of intellectual property. Today, I think we are 
+going to focus on our witnesses and what they can show us has 
+happened to them in real life and what we can do about it.
+    With that I just want to take a moment and give us all a 
+reflection on one of my favorite artists of the past, and so 
+could we present my friend and a man I actually saw in concert.
+    [Video plays.]
+    Mr. Issa. I am sure you will all see that again in days to 
+come.
+    Our challenge is to make sure that if somebody wants to 
+make something that the late Johnny Cash didn't make and 
+couldn't make because it wasn't even available, if you will, 
+with the new Barbie movie, that his State, for that likeness, 
+be properly compensated. That will be one of the questions for 
+today.
+    With that I recognize the Ranking Member for his opening 
+statement.
+    Mr. Johnson of Georgia. Thank you, Mr. Chair, for calling 
+this important hearing today. Thank you for that visual 
+demonstration of why it is important that we are here today.
+    Mr. Issa. You can pick your star when you have got the 
+gavel too, my friend.
+    Mr. Johnson of Georgia. Well, you have set the template, so 
+I like it.
+    [Laughter.]
+    Mr. Johnson of Georgia. I thank you for hosting the 
+Subcommittee out here in Los Angeles, taking our show on the 
+road. This is the mecca of artistry and creativity, culture, as 
+well as economic vitality. Also, this hearing could not come at 
+a better time, on a weekend where the music industry is set to 
+celebrate the best and the brightest, the up and comers, and 
+the living legends.
+    We are here to examine how current laws and future 
+legislation can protect creators from misuse of a technology 
+that is posed to transform the world as we know it. Drake and 
+The Weeknd didn't collaborate to produce ``Heart on my 
+Sleeve,'' and President Biden didn't record a robocall telling 
+the New Hampshire Democrats not to vote in their primary, and 
+Tom Hanks did not appear in a video endorsing a dental plan. 
+They didn't have to. Using generative artificial intelligence, 
+or generative AI, a layperson can manipulate an individual's 
+image, likeness, or voice to produce novel content without the 
+subject's knowledge or consent. Altering voices and 
+manipulating images is nothing new, but creating new material 
+indistinguishable from reality is.
+    Because of these technological advancements, 2024 will be 
+the first AI Presidential election, where deep fake and 
+misinformation will have the power to deceive voters, making an 
+abnormally consequential election even more consequential and 
+controversial. Abuse of women through the creation of explicit 
+images with generative AI is already a problem, and if you 
+don't believe me, ask Taylor Swift about that. Consumer fraud 
+and other criminality accomplished through the replication of 
+loved ones' voices is no longer an esoteric law school 
+hypothetical.
+    Beyond the parade of horribles, generative AI poses unique 
+challenges to the creative industries in which AI has the 
+potential to create an even larger gap between the haves and 
+the have nots. Aspiring singers, songwriters, and musicians 
+move to cities like Atlanta, where I am from, every day, in the 
+hopes of breaking into the music industry. These individuals, 
+including many who become my constituents, often work multiple 
+jobs while they pursue their dream of being able to make a 
+living wage based on their creative talents alone. Between 
+COVID shutdowns of concert venues and increased costs of 
+living, artists in my district already feel their dream is even 
+farther out of reach.
+    Misuse of generative AI technologies could compound that 
+problem. For example, copyright laws protecting an aspiring 
+singer from having her work performed without compensation, but 
+that copyright does not necessarily extend to the sound of her 
+voice. AI can create an original background track in her voice 
+simply by ingesting previous recordings without her knowledge, 
+without her consent, and certainly without compensation.
+    Our question today is not if, but how, Congress should act 
+to protect artists from such treatment. It is our 
+responsibility as legislators to ensure that the creators who 
+enrich our society with their talent and work are able to live 
+and thrive in the age of AI. Many States protect the right of 
+publicity, but no such right exists at the Federal level. I am 
+looking forward to hearing from our witnesses how they believe 
+the current system is working and what protections coming out 
+of Congress should look like.
+    Finally, I recognize that change is not something we can 
+ignore. We cannot legislate a perpetual here and now into 
+existence, and we should not want to. In addition to the 
+profound medical business and therapeutic advancements offered 
+by AI, the creative industries themselves have already 
+benefited from the incorporation of AI into their artistry and 
+business models. Indeed, that same aspiring singer can 
+experiment and create new works without the resource-intensive 
+equipment and studio time needed just a few years ago.
+    I thank the Chair again for holding this important hearing. 
+I thank the witnesses for their time. I thank you all for 
+attending this consequential hearing. I yield back.
+    Mr. Issa. I thank the gentleman.
+    Seeing no other opening statements by the Chair or Ranking 
+Member, without objection all opening statements will be 
+included in the record.
+    It is now my pleasure to introduce our distinguished panel 
+of witnesses.
+    First, Ms. Wilson is singer, songwriter, and actor, whose 
+show I watch regularly. She is the reigning Country Music 
+Association Entertainer of the Year and Female Vocalist of the 
+Year, as well as Academy of Country Music Female Artist of the 
+Year. This Sunday, Ms. Wilson will be in the running for not 
+one, but two additional GRAMMY Awards, including Best Country 
+Music Album. In addition to her successful music career, Ms. 
+Wilson has appeared most recently on seasons of the hit show, 
+again mentioned, Yellowstone, which, quite frankly, is in the 
+tradition--maybe I will stay off that. Thank you for being 
+here.
+    Next, we have Mr. Harvey Mason, Jr. Mr. Mason is President 
+and CEO of the Recording Academy, the world's leading society 
+of music professionals, which is best known for putting on the 
+GRAMMY Awards themselves. Mr. Mason is also a prolific music 
+producer, songwriter, working with numerous artists including 
+the late Whitney Houston. In addition, he has also appeared and 
+been a mentor and producer of American Idol, the X Factor. 
+Additionally, Mr. Mason is an accomplished composer, music 
+director, director of films, TV, including hits like Sing and 
+the Pitch Perfect movies. Boy, are we lucky to have you here.
+    Next, we have Mr. Christopher Mohr. Mr. Mohr is President 
+of the Software and Information Industry Association, which has 
+a very diversified membership of over 400 companies. Members 
+encompass the very companies who are at the forefront of 
+developing, applying, and innovating AI technology, including 
+the creative industries. In his prior role, Mr. Mohr served as 
+the industry's Senior Vice President for Intellectual Property, 
+and for decades has been an experienced IP professor and 
+professional.
+    Next, we have Professor Jennifer Rothman. Professor Rothman 
+is at the University of Pennsylvania Law School. She also holds 
+a faculty appointment at the Annenberg School of Communication. 
+She is internationally recognized as an expert in intellectual 
+property law, rights, and publicity, the right of privacy, and 
+the intersection of such rights, which include constitutional 
+protection of those rights and freedom of speech. Professor 
+Rothman is also an elected member of the American Law 
+Institute. In addition to her JD from UCLA, Professor Rothman 
+also holds a Masters of Fine Arts degree in film production 
+from the University of Southern California--the competer to 
+UCLA. That is quite a bookend--School of Cinemato-
+graphy.
+    We welcome all our witnesses, and we are going to begin by 
+doing the mundane ask but cool thing for the photograph, of 
+asking you to rise and take the oath. If you would raise your 
+right hand because it is really good for the picture.
+    Do you solemnly swear or affirm, under the penalty of 
+perjury, that the testimony you will give today will be true 
+and correct to the best of your knowledge, information, and 
+belief, so help you God?
+    Mr. Issa. Please be seated. Let the record reflect that all 
+witnesses did answer in the affirmative.
+    We will now begin with an amazing, yes, an amazing producer 
+of the intellectual property and a victim of AI, Ms. Wilson.
+
+                   STATEMENT OF LAINEY WILSON
+
+    Ms. Wilson. Thank you so much. Chair Issa, Ranking Member 
+Johnson, and Members of the Subcommittee, thank you so much for 
+inviting me here today to share my thoughts.
+    I am Lainey Wilson. I am a recording artist, songwriter, 
+and entertainer. I use my music and my voice to tell stories, 
+to connect to my fans, and to help them connect to each other. 
+My art is uniquely, and literally, me: My name, my likeness, 
+and my voice.
+    I do not have to tell you how much of a gut punch it is to 
+have your name, your likeness, or your voice ripped from you 
+and used in ways you could never imagine or would never allow. 
+It is wrong, plain and simple. There aren't many things we can 
+control in life, but making decisions about the use of our own 
+selves, our own unique qualities, that should be one.
+    I am excited about lots of ways artificial intelligence can 
+be used to help people. I am nervous about how it can be used 
+to take personal rights. I am honored today to represent the 
+Human Artistry Campaign, a coalition of creators and 
+organizations that promote the ethical use of AI, and who 
+understand that human connection is an essential part of our 
+culture that we just can't put at risk.
+    Many creators have already seen their life's work and their 
+own voices and images thoughtlessly ingested into AI models 
+without their permission. Our identities represent years of 
+work to hone our craft and make a livelihood out of our 
+passion. Our voices and likenesses are indelible parts of us 
+that have enabled us to showcase our talents and grow our 
+audiences, not mere digital kibble for a machine to duplicate 
+without consent. AI tools are purposely being made to take a 
+lifetime of specific artists' voices and likenesses in a split 
+second.
+    Some creators are OK with AI platforms using their voices 
+and likenesses, and some are not. The important thing is that 
+it should be their choice, and not a choice that an AI cloning 
+company gets to make for them. AI-generated music and video 
+using an artists' unique identity to perform in questionable 
+settings or to sing lyrics they would never write or express, 
+that does not truly reflect who they are, is unacceptable. It 
+is a personal violation that threatens a person's dignity and 
+can put at risk everything they have worked so hard to 
+accomplish.
+    An artists' voice and likeness are their property and 
+should not take a backseat to the economic interests of 
+companies that have not invested in or partnered with the 
+artist.
+    I join with many other creators in the Human Artistry 
+Campaign in support of the No AI FRAUD Act, and I want to 
+express my deep appreciation to its sponsors. I have heard that 
+some interests have criticized it as preventing freedom of 
+expression that uses the voices and images of other people. I 
+am a big proponent of free speech and I am certainly no lawyer, 
+but I do know that if you take away the ability of artists to 
+express themselves, you are, by definition, limiting freedom of 
+expression.
+    It is not just artists who need protecting--the fans need 
+it too. It is needed for high school girls who have experienced 
+life-altering deep fake porn using their faces; for elderly 
+citizens convinced to hand over their life savings by a vocal 
+clone of their grandchild in trouble. AI increasingly affects 
+every single one of us, and I am so grateful that you are 
+considering taking action to ensure that these tools are used 
+in a responsible way.
+    I want to thank you all for your role as guardians of our 
+personal rights. We need artists to keep telling stories, 
+connecting with fans, and bringing people together--
+authentically. We need to keep humanity in art. We cannot lose 
+that. The No AI FRAUD Act is a great place to start. Thank you.
+    [Prepared statement of Ms. Wilson follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Issa. Thank you. Mr. Mason.
+
+                 STATEMENT OF HARVEY MASON, JR.
+
+    Mr. Mason. Thank you. Chair Issa, Ranking Member Johnson, 
+and the Members of the Subcommittee, thank you for inviting me 
+to testify today on the topic of artificial intelligence. My 
+name is Harvey Mason, Jr. As CEO of the Recording Academy, I am 
+happy to welcome you to Los Angeles for GRAMMY Week, music's 
+biggest week.
+    The Academy celebrates music every year at the GRAMMY 
+Awards, but we also support music through the year as a 
+membership organization representing thousands of music 
+creators and music professionals. As Chair Issa said, ``I too 
+am a music creator. As a songwriter and producer, I have worked 
+with legends and superstars from Whitney Houston to Beyonce, 
+and Elton John to Justin Bieber.''
+    Music makers have always embraced technology to innovate. 
+From multitrack recording and the electric guitar to drum 
+machines and synthesizers, there are so many examples of 
+disruptive, but really cool technologies that changed how music 
+is made. AI is the latest example of a tool that can expand 
+opportunities for different voices to follow their passion and 
+create new music, and we believe that is a good thing.
+    AI also has many valuable uses outside of the creative 
+process, including those that amplify fan connections, automate 
+efficient payment systems, and more. We embrace these advances, 
+and the Recording Academy is leading by example.
+    This year the Academy announced a new partnership with IBM 
+that will use generative AI to create customized content before 
+and during the 66th GRAMMY Awards this weekend. The content 
+will be reviewed, adjusted, and supplemented by the Academy's 
+editorial team. Through this partnership, we will be able to 
+feature more insights on GRAMMY-nominated artists, drive 
+engagement around special moments, and connect millions of 
+music fans around the artists they love.
+    Importantly, AI will be a tool that our editorial team will 
+use to enhance and expand their work, not replace it, and our 
+team will be involved in everything that is produced. In 
+addition, the AI will be drawing from our own content and our 
+own data with our permission and our oversight.
+    The Recording Academy is in the business of celebrating 
+human excellence and human creativity. That was the biggest 
+concern when we crafted our GRAMMY Award policies. We 
+understand that AI is here and it is not going anywhere, but 
+our award guidelines stay true to our mission to honor the 
+people behind the music. Only human creators are eligible to 
+win a GRAMMY Award.
+    So, as we embrace the huge potential of AI, we are also 
+mindful of the risks. More than any other issue involving AI, 
+the artists and creators I talk to are concerned that there is 
+very little protection for artists who see their own name, or 
+likeness, or voice used to create AI-generated materials.
+    Artists in every genre have seen their voices mimicked 
+using AI without their permission. Iconic artists who are no 
+longer with us have also had their voices reproduced without 
+the involvement of their families, like you heard today. This 
+misuse hurts artists and their fans alike.
+    Recently, we saw the extreme dark side of AI fakes as some 
+of the most famous and recognizable artists in the world have 
+been the target of explicit, AI-generated images put online.
+    AI fakes don't just target artists. They impact all of you 
+as well. Before New Hampshire's Presidential primary, a 
+robocall impersonating the President discouraged people from 
+voting. While it is not clear if this fake was actually AI, the 
+potential for AI to be used to spread misinformation is 
+obvious, and it is terrifying.
+    Many issues involving AI are complex, and the path forward 
+is uncertain. The problem of AI fakes is clear to everyone. 
+Right now there is a patchwork of State laws that address the 
+``right of publicity'' for individuals. These laws are 
+inconsistent with each other and they are out of date, and they 
+do not address the AI problem. Many States don't even have them 
+at all. This is a problem that only Congress can address to 
+protect all Americans.
+    For this reason, the Academy is grateful for the 
+introduction of the No AI FRAUD Act, supported by many Members 
+of this Committee. The bill establishes in Federal law that an 
+individual has a personal property right in the use of their 
+image and voice. That is just common sense, and it is long 
+overdue. The bill also empowers individuals to enforce this 
+right against those who facilitate, create, and spread AI 
+frauds without permission.
+    Importantly, the bill has provisions that balance these new 
+protections with the First Amendment to safeguard speech and 
+innovation. Freedom of expression is essential to the music we 
+create, but it also must include the ability to protect your 
+own individual expression from being misappropriated by others.
+    Last year, the Recording Academy joined other organizations 
+representing all the creative industries to launch the global 
+Human Artistry Campaign. Today, the campaign includes over 170 
+organizations in 30 countries, and this morning, the campaign 
+published an ad in USA Today featuring the names of hundreds of 
+artists and actors asking Congress to support the No AI FRAUD 
+Act. On behalf of the Academy and our over 20,000 members, I, 
+too, respectfully but strongly, ask for your support.
+    Technology has and always will play a part in amplifying 
+creativity, but human creativity is the ultimate expression of 
+creativity. Creative works shape our identity, our values, and 
+our world view. People relate most deeply to works that embody 
+the lived experience, perceptions, and attitudes of others.
+    Thank you very much.
+    [Prepared statement of Mr. Mason follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Issa. Thank you. Mr. Mohr.
+
+                STATEMENT OF CHRISTOPHER A. MOHR
+
+    Mr. Mohr. Mr. Chair, Ranking Member Johnson, and Members of 
+the Committee, it is a privilege to appear in front of you 
+today. My name is Chris Mohr, and I am the President of the 
+Software and Information Industry Association, or SIIA. Thank 
+you for this opportunity to share our views on identity in the 
+age of AI.
+    SIIA represents over 350 diverse companies in the business 
+of information. Our members range from startup firms to some of 
+the largest and most recognizable corporations in the world. 
+For over 40 years, we have advocated for the health of the 
+information lifecycle, advancing favorable conditions for its 
+creation, dissemination, and productive use. Our members create 
+educational software and content, e-commerce platforms, legal 
+research and financial data bases, and a variety of other 
+products that people depend on in wide swaths of their 
+commercial and everyday lives. We are the place where 
+information and technology meet, and sometimes collide.
+    Our members have wholeheartedly embraced the promise of AI 
+to revolutionize information management, creation, analysis, 
+and dissemination. Collectively they have invested billions in 
+its development, acquisition, and deployment, and are 
+pioneering the use of AI to address myriad social needs in the 
+classroom, in fraud detection, in market data, and money 
+laundering investigations, and in locating missing children.
+    When it comes to policy, SIIA generally advocates for 
+policy solutions that withstand changes in technology. We 
+acknowledge, however, that in some cases AI is different, and 
+support the adoption of a risk-based framework to regulate 
+those technologies. Our members have been leaders in advancing 
+AI accountability and governance. The reason is simple. AI that 
+generates the most unbiased, accurate, and trustworthy 
+information will be based on reliable data.
+    Respect for and protection of intellectual property is key 
+to our policy mission, and our members rely on the incentives 
+that IP law creates. We have been involved in antipiracy work 
+for almost four decades. We are members of the Copyright 
+Alliance. We believe that the use of AI must comply with 
+existing statutory requirements and respect for established 
+intellectual property rights, which provide crucial incentives 
+to authors, artists, technologists, and scientists to create 
+original works.
+    The use of copyrighted works without permission to train 
+generative artificial intelligence models remains the subject 
+of active litigation, and the legality of its use will be 
+heavily fact dependent. Our members are confident that the 
+courts will sort out the fair uses from the unfair, and at this 
+point in time they are the institution best situated to do so 
+with respect to the copyright law.
+    With that said, we recognize that this is not a copyright 
+hearing, and we recognize the noncopyright harms that misuse 
+and abuse of AI can cause. We are seeing examples in the media 
+of digital replicas used to fool the public or maliciously 
+target an individual. When abused, this technology can cause 
+severe harm to a person's privacy rights, and we commend the 
+Committee for examining potential legal remedies.
+    I want to highlight three points.
+    First, not all identity-based harms are the same. Many 
+identity-based harms are already covered by different doctrines 
+created by Federal and State statutes, and these doctrines 
+already apply to generative AI uses. For example, the law 
+already remedies false celebrity endorsement under the Lanham 
+Act.
+    Second, it is important to consider the limits of the First 
+Amendment. Statutory rights that regulate identity will be 
+reviewed by the courts as a form of speech regulation. To 
+survive the heightened scrutiny that such a statute would 
+receive, it is critical that it both be tailored to remedy a 
+specific harm and contain sufficient breathing space for 
+expressive works and other kinds of protected speech.
+    Third, we recognize the harm that generative AI can create 
+for individuals, most notably for the use of sexually explicit 
+deep fakes. The ability to quickly create sexually explicit 
+deep fakes is new. Congress did pass a statute to address this 
+problem as part of the Violence Against Women Act as applied to 
+revenge porn, but its application to deep fakes is, at best, 
+ambiguous. This is an area where Congress can and should act.
+    Thank you for the opportunity to present our views, and I 
+look forward to your questions.
+    [Prepared statement of Mr. Mohr follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Issa. Thank you. Professor Rothman.
+
+                STATEMENT OF JENNIFER E. ROTHMAN
+
+    Ms. Rothman. Chairman Issa, Ranking Member Johnson, and 
+Members of the Subcommittee, I appreciate the opportunity to 
+testify today about artificial intelligence and identity 
+rights.
+    I am Jennifer Rothman. I am a Professor of Law at the 
+University of Pennsylvania, and have been researching and 
+writing about identity rights and intellectual property for 
+almost two decades.
+    You asked me to consider the possibility of Federal right 
+of publicity as well as two circulated draft bills. I will 
+focus on two primary points taken from my more detailed written 
+statement.
+    First, that although the capabilities of AI are new, the 
+problem of using a person's voice, likeness, or performances 
+without permission is longstanding. We have many laws already 
+on the books that address such unauthorized uses, regardless of 
+the technology employed to do so. Accordingly, any Federal 
+legislation in this area must improve the current State of 
+affairs and not create or exacerbate problems.
+    Second, any Federal right to a person's voice or likeness 
+must not be transferrable away from that person. Allowing such 
+transfers violates our most sacred and fundamental rights and 
+thwarts the express goals of legislation addressing AI, many of 
+which have been articulated today, which are to protect the 
+livelihood of performers, the dignity of ordinary people, and 
+the ability to distinguished accurate images and sounds from 
+those which are deceptive.
+    My first point is that current laws already apply to works 
+created by artificial intelligence. From the early 1990s to 
+today, every State that has considered the issue has adopted 
+some form of right of publicity. None have rejected it. This is 
+a law that restricts others from using another person's 
+identity without permission, including in the context of 
+performances. The concerning examples of AI that have been 
+raised in these and prior hearings all violate these existing 
+laws. Tom Hanks, Drake, The Weeknd, and the various teenagers 
+such as those in New Jersey, whose images have been used in 
+pornographic images, each have likely successful lawsuits under 
+State publicity laws. Federal copyright law may also be 
+violated in these contexts, and Hanks, Drake, and The Weeknd 
+could bring successful Federal false endorsement and trademark 
+claims.
+    In short, there are already robust protections on the book. 
+This means that the bar to enacting something new should be 
+high, and legislation should not destabilize what is working 
+about current laws with hundreds of years of precedence nor 
+make things worse for performers, athletes, or ordinary people.
+    This leads me to my second point. Any Federal intervention 
+in this space must protect self-ownership and ongoing control 
+of one's own identity. No one should own another person. 
+Unfortunately, each of the circulated drafts to address the 
+problems of AI and performance rights essentially do exactly 
+this, including the No AI FRAUD Act. They allow another person, 
+or most likely a company, to own or control another person's 
+voice or likeness forever and in any context. It is essential 
+that any right created by Federal legislation that protects a 
+person's identity not be transferrable away from that person.
+    Imagine a world in which Taylor Swift's first record label 
+obtained rights in perpetuity to young Swift's voice and 
+likeness. The label could then replicate Swift's voice, over 
+and over, in new songs that she never wrote, and have AI 
+renditions of her perform and endorse the songs and videos, and 
+even have holograms perform them on tour. In fact, under the 
+proposal No AI FRAUD Act, the label would be able to sue Swift 
+herself for violating her own right of publicity if she used 
+her voice and likeness to write and record new songs and 
+publicly perform them.
+    This is a topsy-turvy world that the two draft bills would 
+create. This does not serve the interests of current and future 
+recording artists nor the public, more broadly. Allowing 
+another person or entity to own a living human being's likeness 
+or voice in perpetuity violates our fundamental and 
+constitutional right to liberty. We do not allow people to sell 
+themselves into slavery or servitude, we do not allow people to 
+sell their votes, organs, or their babies, and we should not 
+allow people to sell their names, likenesses, or voices.
+    Making publicity rights transferrable poses a particular 
+risk to student athletes, children, actors, recording artists, 
+and models. Such transferability also threatens ordinary people 
+who may unwittingly sign over those rights as part of online 
+terms of service. Allowing transferability harms not only the 
+person who loses control of their own identity, but all of us. 
+Owners or licensees of another's identity rights could generate 
+performances by that person forever, making them say and do 
+things they never did. This is a chilling prospect and poses a 
+broad threat to society by undermining trust in authentic 
+communication and seeding misinformation.
+    Accordingly, any Federal rights to a person's identity must 
+not be transferrable, and there must be significant limits on 
+licensing. Without such limits, these proposed laws will 
+exacerbate rather than combat deception, and will fail to 
+protect each of our voices and likenesses.
+    In spite of these concerns, there are some opportunities 
+with Federal law in this area, and I discuss these in more 
+detail in my written submission. I look forward to your 
+questions.
+    [Prepared statement of Ms. Rothman follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Issa. Thank you, and you have made it perfect for me to 
+recognize myself for a round of questioning.
+    Professor, under existing law, that very slavery, the 
+ability to sign away your rights, as far as you know, is there 
+any prevention of Ms. Wilson from potentially signing away both 
+her current and future rights, or any other artist, under 
+current law?
+    Ms. Rothman. So, under Federal law there is no right that 
+allows for that transferability. Under State--
+    Mr. Issa. No, no. I am saying is there any prohibition on 
+her signing a document that would say that she is doing it?
+    Ms. Rothman. Well, the State laws, some of them preclude 
+some transferability. For example, Illinois prohibits creditors 
+from getting control over a person's identity if they go into 
+bankruptcy.
+    Mr. Issa. Right.
+    Ms. Rothman. In California--
+    Mr. Issa. Bankruptcy law does not allow you to lose your 
+future earnings, is what you are saying, and that is Federal 
+too.
+    Ms. Rothman. No. I think that one of the things that is 
+really important for legislation in this area, Federal 
+legislation, is not to allow and erect a Federal law that 
+allows that transferability. I think that transferability--
+    Mr. Issa. I couldn't agree with you more, but I asked the 
+question the way I did for a reason. Ms. Wilson, I want to 
+bring it to you. You are now an incredibly accomplished artist. 
+You control your destiny perhaps at the highest level of any 
+artist because of who you are and where you are. You earned 
+that from the bottom.
+    Ms. Wilson. For sure.
+    Mr. Issa. Tell us, were the pressures when you were first 
+trying to get that break, were they such that, in fact, those 
+who signed you would, in fact, have asked you to sign away a 
+great many things, including what the professor indicated?
+    Ms. Wilson. Oh, for sure. I have been in Nashville for 13 
+years. I moved from Louisiana. I moved there to go chase a 
+crazy dream. Especially when you are just kind of diving into 
+it headfirst, you are just trying to figure things out. I am 
+not an expert when it comes to this at all, but I do know how 
+this stuff has made me feel. It is terrifying, and they are 
+taking advantage of trustworthy people, and words are powerful 
+to me.
+    Mr. Issa. Mr. Mason, would you say that what Ms. Wilson has 
+just said, is one of the pressures that, in fact, consistent 
+with what the professor rightfully so said, that Congress can 
+and should not only not create something that allows 
+essentially forward slavery of somebody's likeness being owned 
+by somebody else, such that you could literally shut down an 
+artist from their future work. In fact, that is one of the 
+challenges we have today, because the future of AI says that 
+things can be created in the future, and those who own that 
+right will be the one being able to create it.
+    Mr. Mason. It is definitely a challenge and something that 
+needs to be addressed. I will say in this particular bill there 
+are certain safeguards, and there is language that says there 
+has to be attorneys present and involved. We also believe that 
+families should have the freedom to enter into different 
+business arrangements. There needs to be a lot more discussion 
+around that and partnership with the labels and other people 
+that could be entering into those.
+    Mr. Issa. Well, I am not going to dwell on it, but I think 
+the professor hit the most important one, which is that the 
+living artist should never be prevented from future work, and 
+we all know that recording contracts have sort of, at times, 
+controlled future work and not allowed it. So, that is 
+something that I am concerned about.
+    I am going to touch quickly on one question because it is 
+slightly outside this hearing, but it is important to get in 
+the record.
+    Ms. Wilson, currently the Copyright Office has said that AI 
+per se is not copyrightable, that pure AI isn't. If today you 
+lost that distinctive voice, and yet you wanted to remix or 
+create new works, but you wanted your voice to be heard, AI 
+would allow you to sing, though your voice be lost. Do you 
+believe that Congress should look at the ability to copyright a 
+work which is original but uses AI? I say that not just for 
+you, but for all those who, quite frankly, had a voice when 
+they were young, and over the years their range dissipated, and 
+they would still like to produce the quality that made them 
+famous.
+    Ms. Wilson. Man.
+    Mr. Issa. I don't ask easy questions.
+    Ms. Wilson. No, you don't, but all I can do is speak from 
+the heart, and that is really it, because like I said, when it 
+comes to all this other stuff I am not an expert in it. I do 
+know that I have worked my entire life for this. I wrote my 
+first song at nine-years old. I started playing guitar at 11. I 
+moved to Nashville when I was 19. I have been there 13 years, 
+trying to do this. I take a lot of pride in my work ethic, and 
+I have spent years and years and years and blood, sweat, and 
+tears to be where I am today. Just having that thought in the 
+back of my head of like at any point in time people could put 
+words into my mouth or people could take things away from me, 
+and I have worked really hard on building this reputation, and 
+in a split second it could be gone.
+    I want to just see a change because there have been so many 
+things, even in the past few months, that I have seen online, 
+for me selling weight loss gummies. I have got a lot of little 
+kids watching me, a lot of little girls and a lot of little 
+boys, and I want to encourage them to feel comfortable in their 
+own skin and love themselves. I would never, in a million 
+years, ever do anything like that.
+    At the end of the day people say, I have got to see it to 
+believe it. Well, they are seeing it and they are believing it. 
+Folks that I am super close to even believe it at times too, 
+and it is really, really scary when it gets to that point.
+    Mr. Issa. We look forward to finding a way to protect that.
+    Professor, just briefly because my time has expired, the 
+answer to that question, currently you can't. Is there a 
+pathway that you see that we should produce to facilitate the 
+ability of someone to augment their own voice, the living 
+artist, or to use their own record of voice and use AI, and 
+still enjoy a copyright capability?
+    Ms. Rothman. I think that it is difficult in a global sense 
+to assess the specifics of whether that would obtain copyright.
+    Mr. Issa. Well, I can assure you that if we say it does, it 
+does. That is the good news, that the Copyright Office has made 
+a decision, and we make law. We don't want to, as you said in 
+your opening statement, ``we don't want to a make law unless it 
+is well thought out, practical, enforceable, and fair.''
+    Ms. Rothman. I think that if the AI is controlled by a 
+human being and an artist, it is not very different from some 
+of the pitch shifting and technology and mixing that already 
+goes into making sort of first-rate recordings, and people even 
+do it during live performance. So, I don't think that would be 
+prohibitive of receiving copyright protection.
+    Mr. Issa. Thank you. I now recognize the Ranking Member, 
+Mr. Johnson.
+    Mr. Johnson of Georgia. Thank you, Mr. Chair. Mr. Mason, 
+when the fake Drake song was released on streaming in April 
+2023, the public quickly discovered that this wasn't the long-
+sought-after collaboration between Drake and The Weeknd, but an 
+entirely new AI-generated song. I understand that his studio 
+was able to file a notice and takedown under the DMCA because a 
+small portion of the song was copied from an earlier Drake 
+song. If the song had not contained copyrighted material would 
+Drake and his representatives had that same recourse?
+    Mr. Mason. Currently, no, they would not have. It was taken 
+down because there was a sample.
+    Mr. Johnson of Georgia. So, what, if anything, do you 
+believe this incident says about the need for legislation?
+    Mr. Mason. It has opened the door to what is possible. It 
+has shown the power of AI when it comes to voice modeling, when 
+it comes to potentially deceiving fans. What we believe is that 
+artists, creators, people who make music and make art should 
+have the ability to approve or have some oversight into how 
+their voice and likeness is being used. There should be a 
+crediting process so that consumers can understand what it is 
+they are listening to. I want to know, is that the real Drake 
+or is that not the real Drake? Artists should also be 
+remunerated properly when their voice or likeness is used.
+    For us it really comes down to choice. If an artist would 
+like to participate in creating music through AI or allow other 
+to utilize their voice, we believe there should be a choice, 
+and some will want to do that. As Lainey said,
+
+        There will be some that would rather not, but as long as they 
+        are credited properly, they have certain approval rights, and 
+        there is a way for them to be paid fairly.
+
+We see that as a possibility.
+    Mr. Johnson of Georgia. Thank you. Professor Rothman, you 
+have testified that any Federal right to a person's voice or 
+likeness must not be transferrable away from that person. In 
+the context that was just described by Mr. Mason, how would 
+that assertion line up with what he just said?
+    Ms. Rothman. So, first, I think there would be a claim 
+under current law, including under current Federal law if 
+someone circulated a song and claimed that Drake and The Weeknd 
+recorded it, as they did. That violates the Lanham Act. They 
+have trademarks on their names. It also violates Federal false 
+endorsement law. So, they would have claims, and those are all 
+exempted from Communications Decency Act, Section 230, so it 
+wouldn't even go through the DMCA takedown provision, so it 
+would be quite straightforward in that regard.
+    Mr. Johnson of Georgia. I am really wanting to know, 
+though, about the transferability of a person's voice or 
+likeness. Mr. Mason said that, ``the artist should have a 
+choice,'' and you are advocating for, I take it, a ban on a 
+person being able to transfer their rights to their voice and 
+their likeness.
+    Ms. Rothman. That is correct. I don't think that should be 
+allowed. This doesn't mean that they can't make money from 
+licensing their voice or likeness in limited context, but it 
+means that we shouldn't allow people to transfer their voice 
+and likeness and performances in perpetuity or even in very 
+broad context, because this goes against all the concerns we 
+have talked about, which is deceptive performances where people 
+can't tell whether it is real or not. Even the protections in 
+the No AI FRAUD Act that suggest that you need a lawyer, well, 
+if you take a young, aspiring artist, they may be able to get a 
+lawyer, but they are going to have trouble paying for it. They 
+are still going to have the same bargaining power. It is not 
+the sort of thing that we allow people to sell, like forever.
+    Mr. Johnson of Georgia. Well, younger artists typically 
+don't have good legal representation in that first deal that 
+gets signed, and that deal could include language that 
+transfers to the recording company or the motion picture 
+company the right, in perpetuity, for your likeness and your 
+voice, that kind of thing, just in that first contract. So, I 
+think there is some danger right there. How would legislation 
+look that would prescribe the transfer of voice and likeness 
+rights?
+    Ms. Rothman. Thank you. I have thought a lot about this, 
+because I think that is exactly right. The initial recording 
+contracts will likely include those provisions. The NCAA has 
+tried to include those provisions for student athletes. So, 
+this is a real opportunity for Federal legislation to make 
+clear, even under States laws, this is not permissible.
+    Now, how would this, in terms of--and it could be 
+prohibited such that the only person who would have this right 
+is the actual identity holder, the person themselves. Now, that 
+doesn't mean that you couldn't draft something that provided, 
+for example, to record labels, standing to enforce the use of a 
+person's voice or likeness in a specific recording that was AI-
+generated during the terms of a recording contract with the 
+record label. It is very common for people with exclusive 
+licenses in a variety of intellectual property contexts to have 
+standing to bring legal claims.
+    So, I don't think we need to allow wide transferability to 
+protect those interests.
+    Mr. Johnson of Georgia. Thank you. My time has expired.
+    Mr. Issa. I would have given you more time.
+    Mr. Johnson of Georgia. I am trying not to take more time 
+like you did.
+    Mr. Issa. We now recognize the gentleman from Florida, no. 
+one, Mr. Gaetz.
+    Mr. Gaetz. Mr. Mohr, does your association of technology 
+companies endorse the No AI FRAUD Act?
+    Mr. Mohr. We have no position on it, and I wouldn't 
+characterize this exclusively an association of technology 
+companies.
+    Mr. Gaetz. Is your group supportive or not supportive of 
+the No FAKES Act?
+    Mr. Mohr. We have no position on it.
+    Mr. Gaetz. Do you intend to take a position on either of 
+those bills?
+    Mr. Mohr. We are examining it.
+    Mr. Gaetz. So, there seem to be two key features of the No 
+AI FRAUD Act. One is the transferability, which we have been 
+discussing, and the other is the liability. So, these 
+technology platforms that share deep fakes, Mr. Mason, do you 
+think they should be liable for the harm that that causes the 
+creator?
+    Mr. Mason. Definitely a complicated question. I think the 
+liability lies across many layers. To me it is people who 
+utilize the technology inappropriately, it is people who 
+distribute it, and it is also people who host it.
+    Mr. Gaetz. Right now they have no liability for that.
+    Mr. Mason. I understand that.
+    Mr. Gaetz. You have endorsed the bill that would oppose 
+that liability. So, you support that, right?
+    Mr. Mason. Yes.
+    Mr. Gaetz. Mr. Mohr, your association, how do you think 
+about liability for the entities that do the harms Mr. Mason 
+described?
+    Mr. Mohr. I think there are at least two issues in there. 
+One is the liability of the person who creates it.
+    Mr. Gaetz. Mine is about the publication. My question 
+directly relates to the provisions of the bill that create 
+liability if you disseminate, produce, and publish these deep 
+fakes.
+    Mr. Mohr. So, the problem that I think we would be looking 
+at as we examine this is that when regulating in this space it 
+is very important to focus on the particular harm that Congress 
+is looking to prevent. When we talk about rights of identity, 
+in general, what it does is it lumps together a bunch of 
+different harms. There is the commercial harm--
+    Mr. Gaetz. I have very limited time.
+    Mr. Mohr. OK.
+    Mr. Gaetz. The question is, if someone disseminates deep 
+fakes on their technology platform, is it your view that they 
+should be liable or that they should not be liable for that?
+    Mr. Mohr. I think the answer for now is our position that 
+current law is adequate to address it.
+    Mr. Gaetz. So, the current law doesn't create that 
+liability, Ms. Wilson. So, I hear about your concerns, and if 
+these technology companies that disseminate this stuff do it, 
+they believe the current law should exist and there should be 
+no enhanced liability.
+    I look at what happened to Taylor Swift. She is the most 
+famous person in the world. So, to me it seems as though she is 
+just the first wave in the set, and that coming is a regime in 
+which any prominent person could be subject to these deep 
+fakes. Technology platforms can then generate revenue off of 
+it, and then don't want to be liable for that. Does that strike 
+you as fair?
+    Ms. Wilson. Absolutely not.
+    Mr. Gaetz. Why?
+    Ms. Wilson. My heart is like beating out of my chest right 
+now even just thinking about it. Just like I said earlier, my 
+reputation is everything to me, and--
+    Mr. Gaetz. What about speech, right, because I just heard 
+Mr. Mohr, in his testimony, say that actually when these 
+technologies do like what we saw with Johnny Cash and Barbie 
+Girl or perhaps even with Taylor Swift and the deep fake 
+explicit videos, that this could be First Amendment protected 
+speech.
+    Ms. Wilson. Yes.
+    Mr. Gaetz. Do you think that your representatives in 
+Congress ought to propose First Amendment speech rights on 
+robots creating deep fakes and explicit videos?
+    Ms. Wilson. Absolutely not.
+    Mr. Gaetz. Robots should not be subject to free speech. I 
+can't even believe I have to say that out loud.
+    Mr. Mason, we have also talked about this transferability 
+concept, and I want to push back a little bit on what thought I 
+heard Professor Rothman say. Why shouldn't a prominent person, 
+or any person, have the right to sell their name, image, 
+likeness? I am a prominent person. If tomorrow I wanted to sell 
+my voice to a robot and let that robot say whatever in the 
+world it wanted to say, and I wanted to take the money from 
+that sale and go buy a sailboat and never turn on the internet, 
+why should I not have the right to do that?
+    Mr. Mason. I believe you should.
+    Mr. Gaetz. Right. The bill you have sported creates this 
+concept of ownership over your name, your image, your likeness, 
+and your voice. Maybe I am just a country lawyer from North 
+Florida, but the only way you own something is if you have the 
+ability to enjoy the exclusive use of it and if you have the 
+right to sell it. So, if you can't sell your own voice, do you 
+even really own it, and if you can't control the exclusive use 
+of it, I don't know if you really own it.
+    So, I think this legislation is a good first step, and I 
+think that the industry associations opposing it want to be 
+able to avoid the liability, to be able to use the tech, and to 
+be able to undermine the creative infrastructure that is 
+allowed our country to flourish.
+    I yield back.
+    Mr. Issa. That wasn't a question at the end, was there?
+    [Laughter.]
+    Mr. Gaetz. No. I asked my questions. I got the true 
+answers.
+    Mr. Issa. You got a good answer. Mr. Lieu.
+    Mr. Lieu. Thank you, Chair Issa and Ranking Member Johnson, 
+for holding this field hearing, and thank you to the panelists 
+who are here today, Ms. Wilson, Mr. Mason, Mr. Mohr, and Ms. 
+Rothman, for your testimony.
+    As a recovering computer science major I believe AI has 
+benefited society and will continue to benefit society. It can 
+also be misused and cause harm, and I think what we are trying 
+to figure out is how do we allow AI to innovate but to mitigate 
+the harms.
+    Mr. Mason, I am going to ask you some questions because I 
+want to know what the Recording Academy's position is on some 
+of these issues. As you know, these large language generative 
+AI models train themselves by scraping the entire internet to 
+get data. Some of that includes copyrighted works of artists, 
+such as, for example, Taylor Swift. Do you believe artists such 
+as Taylor Swift should be compensated by these software 
+companies when they use her material to train themselves?
+    Mr. Mason. Yes, we believe that people that have spent 
+their whole lives, like Lainey, to create art that is being 
+used and monetized should be compensated when it is being used, 
+yes.
+    Mr. Lieu. Let's say a person who was a fan of Taylor Swift 
+uses one of these models and generates lyrics in the style of 
+Taylor Swift for his or her own personal enjoyment. Do you 
+think that person has to pay anything to Taylor Swift, and do 
+you think the software that generated that has to pay anything 
+to Taylor Swift?
+    Mr. Mason. I think it would come down to use, what they 
+used it for. For their personal enjoyment might be something to 
+discuss, but as soon as they start monetizing that or trying to 
+commercialize it, that is a different question and they should 
+be paid.
+    Mr. Lieu. I gather it is the same answer if the person was 
+able to use an AI app that takes the lyrics in the style of 
+Taylor Swift and then matches it up to a video that looks like 
+Taylor Swift, and audio that sounds like her. Same answer, 
+right? It depends on what they used that for. If it is for 
+their own personal enjoying maybe it is fair use, but if they 
+try to sell it, it wouldn't be, right?
+    Mr. Mason. Yes, sir.
+    Mr. Lieu. OK. So Mr. Mohr, I am going to ask you sort of 
+the same questions. Do you believe AI models that scrape 
+copyrighted material to train themselves need to pay the people 
+who own this copyrighted material?
+    Mr. Mohr. Our position is that those are fact-dependent 
+inquiries that are going to be handled by fair use law. We 
+don't take a position on either side.
+    Mr. Lieu. If a person uses one of these software tools to 
+generate content for their own enjoyment, do you have a 
+position on whether that software tool or that person needs to 
+pay anything to the copyright holder?
+    Mr. Mohr. So in dividing that, those are two very different 
+questions. One question involves the use of the tool itself and 
+the output. So, in that particular instance, I think that is 
+another issue that going to be litigated, because in that 
+context it is a lot like a Betamax. In other words, this is a 
+technology that is capable of a lot of substantially 
+noninfringing uses. So, I am not sure that liability would 
+attach to the model itself. Again, that is something the courts 
+are going to have to work out.
+    With respect to the output, the question there becomes 
+whether or not the output is substantially similar, and at that 
+point once the user makes that product more widely available 
+there is potential exposure to copyright liability as well as 
+to Lanham Act liability, for example, if they were passing it 
+off as an original work.
+    Mr. Lieu. OK. What if the software company marketed their 
+software saying, hey, use us and we can generate for you lyrics 
+in the style of Taylor Swift and make audio and video in the 
+style of Taylor Swift. Do you think they would be liable if 
+they did that?
+    Mr. Mohr. Under existing law right now?
+    Mr. Lieu. Yes.
+    Mr. Mohr. I think you would have questions about 
+endorsement styles. They are not protected by copyright, so 
+there wouldn't be copyright liability for that. There could be, 
+again, false endorsement liability.
+    Mr. Lieu. Your association basically right now is just 
+waiting for the courts to decide these issues. You don't really 
+have a position on any number of those.
+    Mr. Mohr. On the copyright issues, that is correct. We do 
+not have a position.
+    Mr. Lieu. OK. Thank you. Ms. Rothman, I am just trying to 
+understand your testimony, and you can answer in my time. Are 
+you saying that an artist cannot contract to sell, for example, 
+their ability to have a recording that is going to be used in, 
+let's say, a future movie, a song in a future movie? I am just 
+trying to understand what it means that you cannot transfer 
+this right. Maybe I am not understanding what you are saying.
+    Ms. Rothman. Yes, that example is a license. So, you are 
+giving permission, you are authorizing the use in a specific 
+context. That is in keeping with addressing all the concerns 
+that are raised here. The person has approved a specific use, 
+they have given permission. Then the movie studio, the record 
+label who has permission for that recording would be able to 
+enforce any uses if some unauthorized person subsequently used 
+that recording or capturing of the voice, even if it was 
+manipulated by AI in the context of the sound recording or the 
+movie.
+    So, that is completely legitimate, would allow someone to 
+get income, but it wouldn't take away from that person those 
+rights. I don't think people are aware of how many contracts 
+they sign actually give rights to their voice, likeness, and 
+name to others. It is a big difference whether the Federal 
+Government passes a law that enables that versus some States 
+suggesting you can do that and then someone coming in and 
+saying that violates the U.S. Constitution.
+    Mr. Lieu. I got you. You are supporting licensing versus 
+transferring the right itself.
+    Ms. Rothman. As long as the licensing is limited enough 
+that it doesn't essentially become a transfer. So, it needs to 
+be specific enough so that the authorizing party, the identity 
+holder, knows what they have agreed to and the public can rely 
+on that person's endorsement of the performance that they are 
+going to see.
+    Mr. Lieu. Thank you.
+    Mr. Issa. Thank you. We now go to the gentleman from 
+Wisconsin, Mr. Fitzgerald.
+    Mr. Fitzgerald. Thank you all for being here today.
+    Ms. Rothman, you discussed in earlier hearings the need to 
+balance publicity laws with Federal law, in October 2023. Those 
+were comments about the Copyright Office. Can you kind of 
+expand on those comments? This is not the first time that 
+technology has clashed with artistry, with creativeness. We 
+heard a lot about it in Nashville last summer when we were 
+there. The quote, ``style'' of an artist has a lot to do with 
+it.
+    Can you comment on that?
+    Ms. Rothman. Yes. So, I didn't testify in a hearing then, 
+but you are right, I submitted comments to the Copyright Office 
+when they requested some guidance on right of publicity, 
+identity rights, and copyright law.
+    So, there are a few different issues. One, as you 
+mentioned, the style that has come up here before, and we tend 
+to say people can sing in a style like someone else, and you 
+might hear a new vocalist and think, oh wow, that reminds me of 
+this other person's voice. We allow that, if they are paying 
+homage. The Copyright Act allows cover songs to be made or 
+soundalike recordings. It is expressly allowed under the 
+Federal copyright law.
+    So, when people sue under State publicity laws then 
+sometimes there is a defense called a copyright preemption 
+defense, which says actually Federal law takes precedence here 
+and the Copyright Act expressly allows these copyrighted uses. 
+There are mixed answers to that. Sometimes it preempts if it 
+conflicts with express parts of copyright law. Sometimes it 
+doesn't.
+    Often State publicity laws will survive a defense that 
+someone is using authorized copyrighted works when the person's 
+name, likeness, voice, performance is reused in a different 
+context, say in a commercial or marketing or in an action 
+figure maybe that a studio didn't get permission for, in one 
+instance robots in a bar. So, in those instances, courts have 
+been rejecting copyright, what is called a copyright preemption 
+defense, and saying State publicity laws protect this in spite 
+of Federal copyright law.
+    In other instances, copyright law will allow such uses. So, 
+there have been some instances that the record labels have 
+litigated, for example, where someone, a recording artist, will 
+record a song and then someone will want to sample it in future 
+work. Sometimes that is licensed, and some recording artists 
+have sued, and said, ``hey, I didn't agree to this use of my 
+song in this new song,'' and the record labels have said, 
+``actually, we have the copyright and we authorized it,'' and 
+courts have generally held that in those instances Federal 
+copyright law preempts a State publicity claim because it is 
+just a record label that owns a copyright and reusing the 
+copyrighted work.
+    Mr. Fitzgerald. Very good. Thank you. So, like I said, it 
+is not the first time these technologies clashed. Cher had a 
+huge hit in the 1990's with autotune. Hank Williams and Hank 
+Williams, Jr., collaborated, even though Hank Williams, Jr., 
+had passed away many years ago, to sing a duet. The latest 
+example is the Beatles' final release here as the use 
+technology.
+    So, Ms. Wilson, I was going to ask you, can I call you 
+Lainey?
+    Ms. Wilson. You can call me whatever you want.
+    Mr. Fitzgerald. Ms. Wilson sounds weird when I call you 
+that.
+    Ms. Wilson. You can call me Lainey.
+    Mr. Fitzgerald. So, Lainey, have you been in a situation 
+where you are recording either with your solo stuff or with 
+other artists, and have you experienced this in the recording 
+studio where they have used these technologies or when they 
+play back your own songs to you? Is there a way that they 
+enhance or can work with you on those things?
+    Ms. Wilson. I have actually been in a couple of writing 
+sessions where they were like, hey, check this out, and they 
+showed me exactly like what they could do to pitch me a song 
+that sounds just like me.
+    Mr. Fitzgerald. It sounds like you.
+    Ms. Wilson. It is just wild. So, yes, I have definitely 
+seen it firsthand like that. Also, even just with ads that I 
+have seen on Facebook and everywhere else, it is literally my 
+voice, selling pots and pans, and weight loss gummies. Yes, and 
+as I said earlier, ``it is really scary when the people that 
+are really close to you, even some of your family members, 
+believe it.''
+    Mr. Fitzgerald. Yes. Have you ever used autotune in a 
+recording session?
+    Ms. Wilson. I have used autotune.
+    Mr. Mason. She doesn't need autotune. Come on.
+    Ms. Wilson. I don't need much of it.
+    [Laughter.]
+    Ms. Wilson. It depends on what day it is. It depends on 
+what day, whether I need it or not.
+    Mr. Fitzgerald. Stop talking or you will need an attorney 
+after this.
+    [Laughter.]
+    Mr. Fitzgerald. Thank you very much. I yield back.
+    Mr. Issa. The gentleman yields back. We now go to yet 
+another gentleman from California and a classmate of mine from 
+long ago, and someone who has been working on transparency in 
+this area, Mr. Schiff.
+    Mr. Schiff. Thank you, Mr. Chair, and thank you for holding 
+this hearing. Thank you all for coming. I have the good fortune 
+to represent Hollywood, Burbank, and surrounding communities, 
+and a tremendous number of people in the creative industries. I 
+always tell my colleagues in Congress it is good for us to 
+spend some time with celebrities, because we get an 
+understanding of what celebrity is, and it is not us. When 
+people are trampling you to get the autograph of some actor in 
+a B-level movie or a TV commercial you get a sense of where you 
+are in the pecking order.
+    [Laughter.]
+    Mr. Schiff. One thing we do share in common with artists is 
+none of us want to see our voice, our likeness used in a 
+deceptive way. None of us want to see that being used to say 
+things we never said, take positions we never held. Frankly, it 
+is terrifying because like you in the creative industries, our 
+reputation really matters.
+    So, Ms. Wilson, or Lainey, I wanted to ask you, what is it 
+like to hear some purported recording of yourself, that you 
+never made? What would it be like for an artist to hear a song 
+they didn't write, with a message they don't support, with a 
+quality that is not up to their own standard, after you have 
+spent your whole life trying to create your brand?
+    Ms. Wilson. I mean, it is detrimental. It is really, really 
+difficult. I try to make sure that everything I say on stage, 
+every interview that I have is thought out. That it is going to 
+stay around forever. I know people can pull it back up. There 
+have been times where I have heard something and it sounded so 
+much like me I was like, did I say that? It is just really, 
+really scary to think that we are in a time that these kinds of 
+things can happen, and I just think there needs to be something 
+done about it.
+    Mr. Schiff. Let me ask our other witnesses that exact 
+point--what should be done about it? Mr. Mohr, the companies 
+you represent, some of them are the behemoths in the technology 
+industry. They have a role and a responsibility to take down 
+content that is inauthentic, take down deep fakes. What are 
+your companies doing to make sure that artists don't go through 
+what Ms. Wilson earlier described as the gut punch of seeing 
+their likeness, their voice, their image used in deceptive 
+ways? I would like to ask Mr. Mason and Ms. Rothman if they 
+could comment also on both what Mr. Mohr says they are doing, 
+but also what you think they should be doing that they are not.
+    Mr. Mohr. So, I think certainly with respect to copyright 
+infringement, for example, many of our platform members have 
+robust schemes to take down material that infringes on those 
+works, and they use technological means, which I am sure many 
+of my co-panelists are familiar with, to take them down. That 
+is one part. Another thing they do is they have terms of 
+service against particular kinds of content, that they do try 
+to enforce, and to get those things down.
+    As you know and as you probably have seen, the practice of 
+content moderation is a really complicated one and raises a 
+bunch of issues. The Supreme Court is considering those now, 
+and it considered them last year in the application of Section 
+230 in a bunch of different cases.
+    Mr. Schiff. Mr. Mohr, let me turn to Mr. Mason on that 
+point, the takedown. What is the experience of your members 
+when they see their voice, their likeness being misused? Does 
+the takedown system work? Do they actually take it down? How 
+quickly do they take it down? How many million views, listens 
+do they get before they are taken down? Is the system working? 
+Is it broken?
+    Mr. Mason. In certain occasions it does work. It is very 
+difficult. A lot of people, I have heard it referred to as a 
+game of Whack-a-Mole. You take something down here, it pops up 
+over there. You try and take that down, it takes too long, it 
+is too difficult. It is cumbersome for independent artists who 
+do not have the support of major labels, and sometimes they 
+don't have the infrastructure or the staffing that it takes to 
+do all those takedowns. Even some of the larger labels are 
+struggling to chase their own copyright protection.
+    Mr. Schiff. If I could ask you, Ms. Rothman, if the 
+companies claim, if the platforms claim they don't have the 
+technological means to take them down quicker, is that true, or 
+is this sort of a willful design not to develop the 
+technologies that really could address this?
+    Ms. Rothman. I think one of the problems--and I agree with 
+Mr. Mason--it is a game of Whack-a-Mole. So, whatever 
+legislation is passed we are going to have the same problem, 
+because there already are laws that address this. One of the 
+problems is the CDA 230, which has limited interest in 
+technological innovation. So, I don't want to comment on what 
+the companies can or cannot do technologically, but they 
+probably could do more than they currently are.
+    A firsthand experience, this is not just about celebrities. 
+I have been impersonated online. When I said I am being 
+impersonated, take it down, nothing happened. When I said 
+someone is using my copyrighted image, it came down 
+immediately.
+    So there is a disconnect, and as Mr. Mason said, their 
+artists have more power than the average person. Regular 
+teenagers, grownups, everyone, are having their images, 
+including in sexual poses, being circulated, and it is very 
+difficult to get them down because the platforms use Section 
+230, and as I mentioned in my submission, there is a circuit 
+split on whether State right of publicity claims are exempted 
+from the 230 immunity from liability or included within it. 
+That has allowed some defenses in otherwise winning cases, and 
+the platforms need to take some responsibility for taking down 
+this material if we are going to have any effort, under any 
+laws, whether you pass new ones or just try to enforce the ones 
+on the books.
+    Mr. Schiff. Thank you, Mr. Chair.
+    Mr. Issa. Thank you. Staying on that roll of California 
+Members, Mr. Kiley.
+    Mr. Kiley. Good morning. Professor Rothman, I found your 
+testimony very interesting. You testified that we do not allow 
+people to sell themselves into slavery or servitude. We do not 
+allow people to sell their votes or their organs or their 
+babies. For that same reason you said we should not allow 
+people to sell their names, likeness, or voices.
+    Now, I want to kind of interrogate that claim, not because 
+I disagree with it--I think I actually agree with you on the 
+question of transferability. I am wondering if there might be 
+another dimension to the harm that you have identified, in that 
+I think that the reason that we don't allow people to sell 
+their organs, children, or themselves is not just because of 
+the potential for exploitation that is inherent in those 
+transactions, but because it degrades the very idea of 
+personhood. It blurs the line between a person and a product. 
+It commodifies humanity.
+    So, I am wondering, do you think that is an element of the 
+harm you see in this transferability of name, image, and 
+likeness?
+    Ms. Rothman. Absolutely. I have written an entire article 
+where I, in part, also speak to that concern, that it does 
+degrade personhood, it degrades us as a society, and it does 
+commodify people in concerning ways. There are lots of ways we 
+can empower people to control their voices and likenesses, but 
+allowing them to be transferrable to others is not one of them. 
+So, I 100 percent agree that this is also part of it.
+    Mr. Kiley. So, I guess then my followup question would be, 
+could this harm then also exist even if the right is not 
+transferred, even if the artist himself is using it. So, for 
+example, you mentioned, if Taylor Swift had sold control over 
+her identity at a young age that would be very bad if someone 
+was out just using that forever and she lost control of it. 
+Let's say that Taylor Swift retained control of this and 
+decided to create a very realistic animatronic version of 
+herself to, let's say, perform in Tokyo so the real Taylor 
+doesn't risk missing the Super Bowl.
+    [Laughter.]
+    Mr. Kiley. Do you think the fans in Tokyo might feel a 
+little ripped off, that even if this algorithmic approximation 
+was indistinguishable from the real Taylor, that maybe 
+something was lost in their experience?
+    Ms. Rothman. Yes, so I just want to be clear that I am not 
+saying people shouldn't be able to make money, but I do think 
+that the fans in Tokyo might have some consumer protection 
+claims, if they thought they were getting the real Taylor Swift 
+and then they got the hologram. On the other hand, if Taylor 
+Swift--and I don't think she would want to do this. I don't 
+think it is great for her brand--but, if she wanted to have 
+holograms go on tour, as long as that was disclosed she could 
+be able to do that.
+    My concern is that when an artist like her, or anyone else, 
+can't actually approve that any longer and so some third party 
+is doing it, and when our concerns are also about just each of 
+you being reanimated saying words you didn't do, the prospect 
+is quite chilling. You can imagine some of your, I am sure, 
+student athletes, if you had signed away early on, or your 
+parents had while you were children, because parents would have 
+these rights, signed away your rights, then someone would be 
+free to do that and people wouldn't know.
+    So, I think disclosure is really important, and ongoing 
+control by the underlying person is essential.
+    Mr. Kiley. Thank you. Yes, these questions that we are 
+dealing with today are, of course, very important in their own 
+right, given the importance of this industry, but it also sort 
+of offers a window into some more fundamental questions, given 
+how uniquely bound up in a person's individuality the arts and 
+entertainment and music are.
+    So, I think it is important that we start kind of grappling 
+with those fundamental questions of how do we have a stable 
+understanding of personhood, in the law and just in our terms 
+of our general value, in a world in which what have always been 
+sort of uniquely human virtues are no longer the exclusive 
+province of humanity.
+    You made a comment near the end of your testimony that I 
+think has a lot of wisdom. You said, ``AI technology will 
+continue to develop, and we should not lock in approaches that 
+may swiftly become outdated.''
+    I am pretty skeptical of our ability as policymakers to 
+legislate specific solutions to specific problems that we are 
+seeing with the State of the technology right now. I think even 
+the high-level engineers at OpenAI can't tell you what this 
+technology is going to look like a year from now. Perhaps what 
+we can do is look to existing laws around the right of 
+publicity, trademark, copyright, and understand their purpose, 
+that it is not just to create the right economic incentives but 
+it so to advance and value these uniquely human virtues.
+    So, if we can kind of have that conversation then maybe we 
+can try to sort of anchor our approach to these questions in 
+something that will kind of at least provide us some stable 
+point of reference against these sort of unpredictable advances 
+and risks that we are going to see coming in the future.
+    Thank you very much, Mr. Chair, for holding this hearing, 
+and I yield back.
+    Mr. Issa. I thank the gentleman. We now recognize the 
+gentlelady from Pennsylvania for her five minutes.
+    Ms. Dean. Well thank you, Mr. Chair, and I thank the 
+Ranking Member and you both for convening this field hearing in 
+this terrific, exciting, and creative space. I am Madeleine 
+Dean, and I am happy to be one of the co-authors of the No AI 
+FAKES, which I introduced alongside Ms. Salazar, who could not 
+be here today.
+    I want to tell you that I come at it from a number of 
+perspectives, sure, as a legislator, but as a mom, as a 
+grandmom, concerned with protecting children, concerned with 
+protecting women from the abuses of deep fakes, children from 
+the abuses of deep fakes. I also come at it as an author 
+myself. One of my sons and I published a book telling a story 
+about him, and my eldest son is a screenwriter and published 
+author as well.
+    So, I am looking at it, how do we balance the protections 
+for creativity and one's likeness, to give a property right for 
+voice and likeness, protect that, but also make sure that we 
+also balance the equities and do it ethically.
+    I was thinking and taking a look at some of the growing 
+pains that we are going through: Unchecked photorealistic deep 
+fakes risk public deception, as we have talked about; eroding 
+people's faith in real evidence, facts and reporting, 
+critically important in this day and age; the very graphic and 
+sexually exploitive deep fakes, encompassing everything from 
+revenge porn to child porno-
+graphy, and we know a great percentage of these deep fakes tap 
+into that gross and dark vein; and most pertinent today, maybe, 
+the possibility inability of human creators to make a living.
+    To your point, Ms. Wilson, about you have honed your craft. 
+You have spent a lot of time. You are deeply invested in it. 
+What you love about it is the ability to tell a story that says 
+something about you, that reveals your humanity. That is why we 
+have to protect against AI-generated composition that steals 
+our humanity. That is something I care an awful lot about.
+    We were talking about the Taylor Swift. From the reading I 
+saw, just one of these images was viewed 47 million times 
+before it was removed. We can't even quantify the harm that 
+something like that has.
+    When we introduced this bill it was not an attempt, in any 
+way, to chill parody and satire. I love parody and satire. That 
+is creation. That is revealing of our humanity. I don't want 
+lawmakers to turn a blind eye, to say that this is just too 
+complicated, and we are worried about transferability, we are 
+worried about other things. I want to have conversations on how 
+do we protect First Amendment rights, how do we protect 
+artists, and how do we protect the public, frankly.
+    Ms. Wilson, you were talking with Mr. Schiff about when you 
+suffered deep fakes. When did you first learn of it? What did 
+it feel like? I am very touched by your point that even those 
+who know you best were confused.
+    Ms. Wilson. Yes. It was this past summer. I think I might 
+have been scrolling on Facebook, catching up with my folks back 
+at home, and I see this ad that said, ``I had lost 70 pounds 
+from these weight loss gummies.'' First, it really hurt my 
+feelings, if I am being completely honest, because I did lose a 
+little bit of weight, and it is probably because I played 180-
+something shows last year. It had nothing to do with the 
+gummies.
+    Ms. Dean. Not something you would recommend as a weight 
+loss program.
+    Ms. Wilson. Yes, yes. I kept having people like send it to 
+me, and they are like, hey, you have got to figure out how to 
+get this down. I don't know what this is. We would get it down 
+and then another one would pop up, and then we would get it 
+down. It was just like we just could not keep up with it to the 
+point to where I finally just kind of had to swallow that pill. 
+That is a terrible feeling because I could not control it. I 
+wanted to tell these little kids, hey, this is not real. I was 
+having to tell people even in my crew. They were like, hey, I 
+want to lose a little bit of weight. Tell me about this gummy 
+stuff.
+    Ms. Dean. Oh no. I used to teach writing at a university, 
+and the origin of the word ``plagiarist''--plagiariste in 
+French--is ``kidnapper.'' So, in some ways some part of you was 
+kidnapped.
+    Ms. Wilson. Absolutely.
+    Ms. Dean. Mr. Mason, what are your hopes for the future of 
+generative AI? What are your fears?
+    Mr. Mason. My hopes are that we can use it as a tool to 
+amplify human creativity. My hopes around AI is that we can 
+find some guidelines around it to allow creators who are always 
+early adopters of technology to use it to benefit them and to 
+bring more greater creativity, more works of art to the fans 
+and to the world.
+    My fear is that it gets away from us, and we don't have any 
+guardrails, and that we are relying on sometimes hundreds-of-
+years-old laws to protect us. Sometimes we are relying on laws 
+that are in certain States but not holistic in a way that could 
+protect us. My fears are that artists' careers will be damaged. 
+My fears are that consumers will be misled, and in Ms. Wilson's 
+case, damaged artists to the point where they are upset. Their 
+brand has been affected. My fear is that we, as consumers and 
+as people who love music, get further away from the shared 
+human experience that happens when we listen to music and when 
+we create music and when music pulls us together.
+    Ms. Dean. Well, I share all of that, and I think the panel 
+does. We are interesting in finding out the right path forward. 
+What are the right guardrails that protect the balance of 
+interest.
+    I yield back, but before I do that, Mr. Chair, I seek 
+unanimous consent to introduce for the record two articles.
+    First, is ``Taylor Swift and No AI FRAUD Act: How Congress 
+Plans to Fight Back Against AI deep fakes.''
+    Second, just coming out today, I believe, ``Nikki Minaj, 
+Cardi B, and More Support No AI FRAUD Bill in Congress,'' 
+published on Billboard. To your very point, and the image you 
+used of the Johnny Cash fake, this lists more than 300 artists, 
+including the estate of Johnny Cash and others, who support the 
+bill.
+    Mr. Issa. Without objection, so ordered.
+    Even though this is the Judiciary Committee, this will be 
+heard and seen and talked about by all these Members with other 
+Committees. So, I might note that the Federal Trade Commission 
+is supposed to protect many of these things, and other 
+agencies. So, even though we are looking at new legislation, we 
+also are here to hear you out so that, in fact, we can begin 
+pushing on the Executive Branch to assert powers they have, 
+which, for example, somebody selling gummies and implying 
+that--the fact is that it is a deceptive practice, and 
+hopefully in the days and weeks to come we will see enforcement 
+that might save you the, I am tired of Whack-a-Mole, even 
+though it was important for you to do.
+    With that we got to the gentleman from Texas, Mr. Moran.
+    Mr. Moran. Thank you, Mr. Issa. Ms. Wilson, I see you have 
+your hand up, so I am just going to ask you why you have your 
+hand up.
+    Ms. Wilson. Because they tapped me on the back and they 
+said it is time for me to go to MusiCares rehearsal, right 
+across the street. I just want to say thank you all so much for 
+you all's time. This was awesome to be a part of. Thank you so 
+much. I am going to go to rehearsal.
+    Mr. Issa. Thank you.
+    [Applause.]
+    Mr. Moran. Thank you, Mr. Chair, and thank you to each one 
+of the witnesses for your time and your testimony today. I know 
+it is very valuable. Proudly, I am one of the five original 
+sponsors of the No AI FRAUD Act, along with Ms. Dean, and I am 
+hopeful that exposure from this hearing, in particular, will 
+help move this bill through Committee.
+    I also recognize that these hearings are very important to 
+hear constructive feedback, to hear criticisms, to hear 
+pushback, because we should never enter into new Federal 
+legislation lightly. In my opinion, I think we need to take it 
+in a prudent fashion, and we need to consider all the voices 
+that are here today, and we need to fine-tune what we are 
+trying to propose so that ultimately, if we pass something, 
+which I hope we do, it will be beneficial to all and it will be 
+the appropriate language. We don't want anything under-
+inclusive, and we certainly don't want anything overly broad at 
+all.
+    So, with that I specifically want to ask Ms. Rothman a 
+bunch of questions today because you have provided a lot of 
+pushback, but Ms. Rothman, a lot of it has been very 
+thoughtful, and I appreciate that.
+    Let me just start and make sure we start from the same 
+foundation on a few things. First, do you agree that 
+individuals should have a property right in their voice and 
+likeness?
+    Ms. Rothman. Well, I am supportive of it being a property 
+right as long as it is not transferrable away, and sometimes 
+people think of property as being sort of a simplistic thing 
+that is automatically transferrable, and it need not be. That 
+is another reason why I gave some examples of things we don't 
+allow you to transfer, even if we understand them to be 
+property.
+    So, I think it is appropriate to understand people as being 
+able to own themselves. You can style it as a property right. 
+Some States style State publicity laws as purely personal and 
+say it is not property. There is a conflict in the law about 
+that terminology, which is why I pause.
+    If you are asking my personal opinion, I am fine with it 
+being classified as property as long as it is not transferrable 
+away.
+    Mr. Moran. Right. I know transferability is your big issue. 
+There are differences in State law, State to State, that deals 
+with this right to publicity a little bit differently. So, do 
+you agree that there is room at the Federal level for us to try 
+to bring harmony to this issue?
+    Ms. Rothman. Yes, I do think it is an opportunity. It is a 
+very challenging task just because of the length of time these 
+publicity laws have existed. To the extent that they originated 
+in the late 1800s, early 1900s, as part of the right of privacy 
+that became the privacy rights that we more broadly understand, 
+including constitutional privacy rights, those are actually the 
+same across all the States.
+    Mr. Moran. I am going to have to just stop you because I 
+have got a lot to ask. So, hold on.
+    You mentioned in your testimony, your written testimony, 
+you said, ``Absent jurisdictional hurdles, Tom Hanks, Drake, 
+The Weeknd, each have straightforward lawsuits under State 
+rights of publicity.'' So, give us examples of those 
+jurisdictional hurdles that you are referring to there.
+    Ms. Rothman. Oh, so in the footnote of my written statement 
+I go into it. The only major jurisdictional hurdle is my 
+understanding that Drake is Canadian. So, some State laws limit 
+rights to those who are domiciled in the State, and since he is 
+not a member of any State, that may be--
+    Mr. Moran. Right. So, we have some international issues. We 
+have jurisdictional issues. We have State-to-State difference 
+on how it is going to be enforced. In certain circumstances, an 
+artist would have to go State by State by State, effectively to 
+enforce their rights. Isn't that true?
+    Ms. Rothman. So, Drake would likely have a Federal claim 
+already for trademark violation and unfair competition plus, as 
+Chair Issa mentioned the FTC.
+    Mr. Moran. In other instances, they would have to go State 
+by State by State, and they would have different remedies, and 
+they would have to go to different courts, they would have 
+different venues that they would have to pursue to have their 
+rights protected. Correct?
+    Ms. Rothman. I don't think that is true. That is not how 
+litigation currently works. Ms. Wilson departed, but she may 
+need new legal counsel. There are a lot of lawsuits she could 
+be bringing and that she would be winning. We read all the time 
+about celebrities whose images and names are used for false 
+endorsement. We could go back again to the early 1900s. These 
+are winning cases. People win them. They can publicize that 
+they win them, and there are big penalties. If you win in 
+California, you get your damages. You don't have to then 
+litigate in all the other States.
+    Mr. Moran. Yes, but you also mentioned in your written 
+testimony that case law does not provide a stable or 
+predictable roadmap for Congress to employ at the Federal 
+level. If it is not a stable or predictable roadmap for us at 
+this point, State by State, then we need to create some kind of 
+Federal roadmap, in my opinion, to protect folks.
+    Do you agree with the concept that artists have the right 
+to all three--credit, consent, and compensation--when their 
+voice and their likeness is used for commercial purposes, or 
+otherwise?
+    Ms. Rothman. Yes, so the quote, I think, was taken with 
+regard to copyright preemption specifically rather than the 
+prima facie laws. You said that very quickly about credit, 
+compensation, and consent, before someone's name, voice, and 
+likeness or performances are used. Absolutely, people should be 
+consenting for those. Whether they want compensation or not may 
+depend on context, and credit, as people in this room probably 
+know, is something that is sometimes negotiated with a lot of 
+vigor, particularly in movie and TV credits.
+    Mr. Moran. I know I am out of time. Some of my time, by the 
+way, was taken for the exit.
+    [Laughter.]
+    Mr. Moran. I will say that I have not mentioned Travis 
+Kelce's girlfriend once during this testimony.
+    I want to encourage this. I want to encourage the continued 
+dialog, and if there are additional things that we need to look 
+at sharpen up the No AI FRAUD Act, happy to do that. I think it 
+is incredibly important for us to protect human creativity, 
+both for the individual and moving forward. I do agree with Mr. 
+Gaetz and a number of other people on the panel that have said, 
+look, there is a liberty in the right to contract out that, and 
+if we need to somehow make sure that this protects their 
+personhood going forward, we can find a way to shape that. We 
+certainly have the right to say, hey, it is my name and 
+likeness. Why can't I contract out or sign out the rights to 
+that so that I can make money now, or my family can make money 
+in the future. I would like to work with you on that.
+    I would yield back my time. Thank you.
+    Mr. Issa. What time?
+    [Laughter.]
+    Mr. Issa. We now go to the gentlelady from Missouri, Ms. 
+Bush.
+    Ms. Bush. Thank you, Mr. Chair, and thank you, Ranking 
+Member, for holding this hearing, and thank you to all our 
+witnesses for being here today.
+    I always start my hearings by saying ``St. Louis and I,'' 
+and I say that because I am all about representation. I stand 
+here in solidarity with all the artists, the creators, and the 
+actors whose rights and livelihoods are at risk because of 
+artificial intelligence, and generative AI, in particular. A 
+shout-out to all the St. Louis musicians and artists and their 
+fans. I have got to say that.
+    Like any technology, generative AI is not only good and it 
+is not only bad, as we have heard here today. Its effects on 
+our society depend on how technology is developed, how it is 
+used, and how it is regulated. Many artist use it as part of 
+their creative process, as we know, from the post-recording 
+production and mastering of audio tracks to special effects in 
+movie, to the creation of visual content, and so much more.
+    We have also seen the horrific stories, which we have heard 
+about and talked about much today, like the deep fake porno-
+graphy. We have seen the effect of endorsements of products, 
+which we heard, and I am sorry for what Ms. Wilson is going 
+through. We have seen the artificially generated audio tracks, 
+like the one that has been spoken about over and over today, 
+like the collaboration between Drake and The Weeknd. The 
+potential for the confusion, the manipulation, the 
+appropriation, and exploitation is huge.
+    Beyond that, though, I want to add something that we 
+haven't talked about yet. We must address racial bias in AI 
+technology. If I asked a certain generative AI technology to 
+create a picture of Black woman, the image it creates will not 
+look like me. The facial features and hair may be distorted. 
+There is a lot of other evidence of this bias. For example, 
+Google disabled its AI program's ability to let people search 
+for gorillas and monkeys in the photo's app because pictures of 
+Black people would come up.
+    These issues aren't limited to the creative industry. We 
+see it in healthcare. We see it in employment. We see it in the 
+criminal legal system and other areas of daily life. We also 
+see evidence of other types of bias and discrimination, 
+including based on sex and disability.
+    The risks to Black artists, in particular, must be 
+considered in light of our country's history. During the 20th 
+century--crazy to say that, but for decades, during the 20th 
+century, Black musicians, who pioneered new styles of music 
+like the blues, were exploited by record companies and 
+promoters who took advantage of intellectual property law. When 
+machine learning technology was developed in the 1960s, its 
+inventors did not meaningfully account for race or sex or 
+disability or other parts of human identity.
+    Many of today's laws and algorithms are based on earlier 
+version, so when laws and technology do not treat Black and 
+Brown people as fully human, is it surprising that the end 
+products don't either? Is it surprising that Black and Brown 
+artists face even greater risks of their rights being violated? 
+I know that these are issues that artists in my hometown of St. 
+Louis and all around the country are concerned about.
+    So, as Congress considers how to regulate artificial 
+intelligence, we must address all of these issues and protect 
+all relevant rights. Yes, we should work together to ensure 
+people's voice, their image, and their likeness are protected. 
+We should also work together to address the bias built into 
+these systems. We should make sure that AI cannot be used to 
+discriminate against people, and that AI companies, in 
+particular, are required to be transparent, and that we don't 
+simply trust companies whose primary goal is to profit. We 
+shouldn't just trust them to self-regulate and do right by our 
+artists, creators, actors, and consumers, because consumers 
+matter as well.
+    So, Mr. Mason, as the Recording Academy's first Black CEO, 
+can you share your thoughts on the importance of racial equity 
+as a factor for Congress to consider as we debate whether to 
+establish a Federal right of publicity?
+    Mr. Mason. Thank you, Ms. Bush. You touched on so many 
+really, really important points, I would just simply be 
+repeating what you just said. There is an inherent racial bias 
+in AI. We know that. We have discovered that. It will affect 
+Black and Brown artists disproportionately when it comes to 
+music and art exploitation. So, I thank you for what you said. 
+It upsets me and it concerns us, absolutely.
+    With that, and I hate to interrupt the flow of the session, 
+but being that it is GRAMMY Week and we have ten more events 
+coming up in the next couple of days, I have please 
+respectfully excuse myself, if I may.
+    Mr. Issa. Mr. Mason, if Mr. Ivey has one minute or less of 
+questions, would you allow him to ask them?
+    Mr. Mason. Of course. Please. I am sorry.
+    Mr. Issa. No, I understand. You have been very good to us.
+    Mr. Mason. Thank you, Ms. Bush.
+    Mr. Ivey. I apologize for impeding your time, but I did 
+have an enforceability question, actually, a couple. The 
+training issue, using artists' voices, in this instance, to 
+train AI to create, and the discussion has been focused on 
+making sure that the artists whose performance have been used 
+for the training process get compensated for that.
+    I guess I was wondering two things. One is enforceability 
+of that, because if you use 1,000, say, artists to train the AI 
+model, who is supposed to be tracking to make sure we know 
+which of those 1,000 get compensated? Then the next level for 
+whatever it is going to be training data 2.0, how do you even 
+follow it then? Because not only will it use the 1,000, it 
+might use others? So, enforceability and tracking it would be 
+one question, and then should whatever law we are talking about 
+putting in place still apply at the secondary level? That is 
+for you and Mr. Mohr, I guess, or Professor Rothman, as well, 
+if you like. You should answer first so you can run off.
+    Mr. Mason. OK. Thank you. It is a very difficult question, 
+and it is a very difficult solution. We need to figure out how 
+we can understand what is being used to train AI. As you said, 
+there could be 1,000 songs, and I think it pertains more to the 
+song, the copyrighted songs. When you ask AI to create a song 
+in the likeness of a certain artist, it will go back and listen 
+to records or songs from that artist to decide how to emulate 
+them. There has got to be a way to do it, technically speaking, 
+and I am sure, it is scary to say, but it might even involve 
+AI, tracking AI, and what is it using. We have to be able to 
+understand whose music, whose works are being utilized and 
+scraped to create new works, and those people need to be 
+compensated.
+    Mr. Ivey. Mr. Mohr?
+    Mr. Issa. Thank you so much, Mr. Mason. Thank you so much 
+for your time, on the most important day, of the most important 
+event for intellectual property in the Nation.
+    Mr. Mason. I appreciate it very much. Thank you.
+    [Applause.]
+    Mr. Ivey. Thank you to the clerk for pausing the time. I 
+appreciate that.
+    Mr. Issa. We are fair in this, if nothing else here.
+    Mr. Mohr. So, a few things. One is that, in my own mind 
+anyway, this is why it is really important that these cases get 
+thoroughly litigated, because all the kinds of facts that you 
+are talking about right now are the subject of very, very 
+aggressive discovery, would be my guess. In other words, 
+exactly how are these machines trained? What was put into them? 
+How were they used? How were these works used, and on the back 
+end, what steps were taken to make sure that the works were 
+substantially similar or not, right. So, if you asked an AI 
+engine, hey, can you give me the lyrics to ``Stairway to 
+Heaven,'' it say no.
+    Mr. Ivey. Well, as a recovering litigator, I will say this. 
+It could take years before all that gets solved, and you will 
+have, I am sure, conflicting decisions from different courts 
+and jury trials. What should we be doing to try and fix it now 
+instead of waiting for five or 10 years from now?
+    Mr. Mohr. Well, right now, in terms of identity versus 
+copyright, for copyright, from our point of view, is the courts 
+are the institution that are best equipped to deal with these 
+issues for now. With respect to the identity issues, I think--
+    Mr. Ivey. Let me ask you then.
+    Mr. Mohr. All right.
+    Mr. Ivey. How would the copyright law apply to the 
+hypothetical I gave you, especially for training data 2.0? Is 
+there applicability under current law for that?
+    Mr. Mohr. Oh boy. So, I am a recovering lawyer too, but it 
+appears we are both having a relapse. Can you define for me, 
+one more time, what training data 2.0, what you mean by 
+training data 2.0?
+    Mr. Ivey. Well, I guess there is the fair use question, 
+right. So, you train--and I forget what he said--but let's say 
+Motown hits, you want to generate Motown hits, so it takes 
+1,000--yes, I am showing my age--you take 1,000 songs from 
+Motown and it trains it up, and then you can use that for the 
+AI system to generate new material. I think that is a fair use 
+issue, and that the performers or original creators should 
+still be compensated.
+    The question was how you track it, and then the second 
+question is even if we assume it is a fair use issue at Level 
+1, is it still a fair use at 2.0?
+    Mr. Mohr. So, in other words, at 2.0 you mean the output 
+stage?
+    Mr. Ivey. Yes, because at the next--well, no. Actually, the 
+next level you will train one system and then it will generate 
+songs then, but then you will have other systems that are doing 
+the same thing, presumably. You could have another 1,000 of 
+these new systems that then train the next level of the AI 
+generation. That is the 2.0. So, the 2.0 trained by--and I am 
+running out of time--but what do we do there, under current 
+law, because you are saying we should follow that.
+    Mr. Mohr. That is a really good question, and I am going to 
+take that one for the record, if you don't mind.
+    Mr. Ivey. Mr. Chair, I had to start right in with the 
+questioning, but I do want to thank you and the Ranking Member 
+for giving us a chance to have this hearing. The 
+transferability issue, I would love to chat with you about it 
+because I want to understand the James Earl Jones scenario. I 
+guess we will have to do that offline. Thank you so much and 
+thank you to the witnesses. I appreciate your insight.
+    Mr. Issa. Thank you. As we begin to close I am going to 
+take a couple of quick liberties. I am going to ask the Ranking 
+Member to make a closing statement. I am also going to note 
+that Congressman Schiff has been working diligently and has 
+draft legislation on transparency of ingestion. One of the 
+greatest questions is, Mr. Ivey, you said, well, if you went--
+by the way, Motown is current. Let's not pretend it is old.
+    [Laughter.]
+    Mr. Issa. At least on my albums it is.
+    Mr. Ivey. It is eternal.
+    Mr. Issa. It is eternal. If you knew you ingested it for 
+that purpose it would be relatively transparent to begin with, 
+but I think Mr. Schiff is looking at something that ingests 
+most of the internet, something that ingests vast amounts of 
+information, and how do you, in fact, find out after the fact. 
+I will yield to the gentleman for a minute to explain what he 
+is working on, because I think it is critical.
+    Mr. Schiff. Thank you, Mr. Chair. We are working on 
+legislation that would require transparency for artists when 
+their material is being ingested to essentially build these AI 
+platforms and models, so that it could be tracked, so that 
+where intellectual property is protected they have a right and 
+a remedy and a recourse. I think the key is making sure that 
+there are systems tracking what is being used to inform these 
+AI systems, so that artists can be compensated when their works 
+are used this way.
+    Mr. Issa. I thank the gentleman, and I think, Mr. Mohr, 
+that is going to go to your question of when you are building 
+software, the systems of many of the people you represent, will 
+they, in fact, be designing to be reportable. Will they be 
+designed to be accountable and transparent. So, it is outside 
+of the direct part of this hearing, but it is an important 
+issue that this Committee will be dealing with.
+    With that I would recognize the Ranking Member for his 
+closing comments.
+    Mr. Johnson of Georgia. Thank you. I want to once again 
+thank the witnesses for their testimony. I also want to thank 
+my friend and long-suffering colleague, Glenn Ivey, who always 
+catches himself at the end of the dais, the last person to ask 
+questions, but he always asks great questions, so thank you.
+    For the witnesses, I am really intrigued with this issue of 
+the contracting away of one's, or transferability as you call 
+it, of one's likeness and voice, and how that can become as 
+ubiquitous as arbitration clauses in consumer and employment 
+agreements, and just in all consumer transactions. These 
+clauses hidden in the bowels of an agreement, a use of terms 
+agreement or an agreement for personal services, embedded 
+there, a person doesn't read it, and the next thing you know, 
+boom, you have transferred your rights for a lifetime, to use 
+your voice and likeness. I am really intrigued about that, and 
+I am intrigued--I didn't get a chance to ask you, Mr. Mohr, 
+about your statement that you support the adoption of a risk-
+based framework to regulate the technology. I wanted to hear 
+more about that, but we shall reserve that discussion for 
+another time.
+    I do want to thank the witnesses for your testimony. I want 
+to thank the Chair for hosting and calling this very important 
+meeting, and also for insisting on the jurisdiction of this 
+Subcommittee to delve into this important issue when other 
+Committees in Congress are seeking to have primacy. This 
+Subcommittee and our Full Committee fully vested with the need 
+to deal in this area. So, thank you, Mr. Chair, and with that I 
+yield back.
+    Mr. Issa. Thank you. For the two of you, on behalf of the 
+four of you, I am assuming you will take questions for the 
+record.
+    As we wind this down, I am going to simply point out a 
+couple of areas that I think we will be talking about in the 
+days and weeks to come, and they will be in many of the 
+followup questions. They are stories for a moment.
+    One story is that when Priscilla Presley was one of the 
+producers of basically a documentary about the life that she 
+lived with the late Elvis Presley, the estate of Elvis Presley 
+refused to allow any of his music to be used, even though she 
+had a seat at the table. What makes that interesting is, of 
+course, would Elvis had said no? Did he think about that, or 
+did he even think about his estate being transferred to whoever 
+is in control of it rather than some decision he would make. 
+That will bring up the question for Professor Rothman of don't 
+we all ultimately transfer, lock, stock, and barrel, what we 
+own to somebody, and that somebody, in the case of Casey Kasem, 
+was not necessarily who Casey would have transferred. So, my 
+questions will undoubtedly be along that line.
+    Additionally, I will tell quickly the story that more than 
+20 years ago, I sat at the very far end of a large table at a 
+Foreign Affairs dinner, and we couldn't hear what was going on 
+with the queen of Thailand at the other end. So, I spent a lot 
+of time listening to my tablemate, and he complained about the 
+inequity of not only the major studios and how he was treated 
+on one of his follow-on pieces, but the fact that they were, or 
+could, update his movie and change it. Well, he could not, in 
+fact, go back and improve a failed movie. That man was Francis 
+Ford Coppola, and he was talking about ``Godfather III.''
+    I have never forgotten that because ultimately there are 
+individual rights, such as Lainey's rights, but then there are 
+groups and large entities, which would bring the last one. One 
+of my dearest friends, I am proud to say, is Mike Love of The 
+Beach Boys. Brian Wilson has not performed with The Beach Boys 
+for longer than most people in this room have been alive. The 
+fact is The Beach Boys went on without one of their key 
+individuals. What is The Beach Boys? Who are The Beach Boys? 
+What makes that group? There is a group entity, there is a 
+likeness, there is a sound. That sound, does it belong to Mike 
+Love? Well, if it is Kokomo it belongs to Mike Love. On the 
+other hand, if it is a host of other songs it may belong to 
+somebody else. Yet, the performers, over time, began with 
+brothers and cousins, and over time had become more brothers 
+and cousins, just different ones.
+    So, many of my questions will be that, and I think for the 
+professor, again, there will be a myriad of no one answer to 
+that question of transferring rights and so on, but rather the 
+necessity, in many cases, for a group, for example, to come 
+together and say our group rights will be transferred, at least 
+between 4, 40, or 400. I think of the major orchestras. 
+Ultimately, no violinist has individual rights.
+    So, I have tried to give complexity in the close to an 
+already detailed and complex subject. What I have heard today, 
+in closing, is we have a lot of work to do, we must do no harm, 
+but, in fact, there is harm being done to people every day by 
+the use of AI to their detriment, and in some cases there are 
+laws, but in many cases the enforcement of those laws have to 
+be streamlined for the benefit of all those who created the 
+things that we enjoy and that make our life that much better.
+    Without objection, all Members will have five legislative 
+days in which to submit additional written questions for the 
+witnesses and additional material. With that we stand 
+adjourned.
+    [Whereupon, at 12 p.m., the hearing was adjourned.]
+
+    All materials submitted for the record by Members of the 
+Subcommittee on Courts, Intellectual Property, and the Internet 
+can
+be found at: https://docs.house.gov/Committee/Calendar/ByEvent 
+.aspx?EventID=116778.
+
+                             [all]

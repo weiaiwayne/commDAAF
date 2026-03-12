@@ -1,0 +1,1902 @@
+- ARTIFICIAL INTELLIGENCE AND INTELLECTUAL PROPERTY--PART I: PATENTS, INNOVATION, AND COMPETITION
+
+[Senate Hearing 118-65]
+[From the U.S. Government Publishing Office]
+
+                                                         S. Hrg. 118-65
+
+                      ARTIFICIAL INTELLIGENCE AND
+                     INTELLECTUAL PROPERTY_PART I:
+                  PATENTS, INNOVATION, AND COMPETITION
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                 SUBCOMMITTEE ON INTELLECTUAL PROPERTY
+
+                                 of the
+
+                       COMMITTEE ON THE JUDICIARY
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                              JUNE 7, 2023
+
+                               __________
+
+                          Serial No. J-118-19
+
+                               __________
+
+         Printed for the use of the Committee on the Judiciary 
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] 
+
+                  U.S. GOVERNMENT PUBLISHING OFFICE 
+
+53-115 PDF                WASHINGTON : 2024 
+
+                       COMMITTEE ON THE JUDICIARY
+
+                   RICHARD J. DURBIN, Illinois, Chair
+DIANNE FEINSTEIN, California         LINDSEY O. GRAHAM, South Carolina, 
+SHELDON WHITEHOUSE, Rhode Island       Ranking Member
+AMY KLOBUCHAR, Minnesota             CHARLES E. GRASSLEY, Iowa
+CHRISTOPHER A. COONS, Delaware       JOHN CORNYN, Texas
+RICHARD BLUMENTHAL, Connecticut      MICHAEL S. LEE, Utah
+MAZIE K. HIRONO, Hawaii              TED CRUZ, Texas
+CORY A. BOOKER, New Jersey           JOSH HAWLEY, Missouri
+ALEX PADILLA, California             TOM COTTON, Arkansas
+JON OSSOFF, Georgia                  JOHN KENNEDY, Louisiana
+PETER WELCH, Vermont                 THOM TILLIS, North Carolina
+                                     MARSHA BLACKBURN, Tennessee 
+
+             Joseph Zogby, Chief Counsel and Staff Director
+      Katherine Nikas, Republican Chief Counsel and Staff Director
+
+                 Subcommittee on Intellectual Property
+
+                 CHRISTOPHER A. COONS, Delaware, Chair
+MAZIE K. HIRONO, Hawaii              THOM TILLIS, North Carolina, 
+ALEX PADILLA, California               Ranking Member
+JON OSSOFF, Georgia                  JOHN CORNYN, Texas
+PETER WELCH, Vermont                 TOM COTTON, Arkansas
+                                     MARSHA BLACKBURN, Tennessee 
+
+                 James Barton, Democratic Chief Counsel
+               Seth Williford, Republican General Counsel 
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                        JUNE 7, 2023, 3:01 P.M.
+
+                    STATEMENTS OF COMMITTEE MEMBERS
+
+                                                                   Page
+
+Coons, Hon. Christopher A., a U.S. Senator from the State of 
+  Delaware.......................................................     1
+Tillis, Hon. Thom, a U.S. Senator from the State of North 
+  Carolina.......................................................     3
+    prepared statement...........................................    34
+
+                               WITNESSES
+
+Witness List.....................................................    33
+Abbott, Ryan, professor of law and health sciences, University of 
+  Surrey School of Law, Guildford, United Kingdom, and adjunct 
+  assistant professor, David Geffen School of Medicine, 
+  University of California, Los Angeles, California..............     8
+    prepared statement...........................................    42
+Elluru, Rama, senior director, society and intellectual property, 
+  Special Competitive Studies Project, Washington, DC............    11
+    prepared statement...........................................    53
+Salsberg, Corey, vice president and global head of IP affairs, 
+  Novartis, Washington, DC.......................................     4
+    prepared statement...........................................    60
+Sheridan, Laura, head of patent policy, Google, New York, New 
+  York...........................................................     6
+    prepared statement...........................................    75
+Villasenor, John, professor of law, electrical engineering, and 
+  public policy, and founder and faculty co-director, Institute 
+  for Technology, Law, and Policy, University of California, Los 
+  Angeles, California............................................     9
+    prepared statement...........................................    81
+
+                               QUESTIONS
+
+Questions submitted to Ryan Abbott by Senator Tillis.............    89
+Questions submitted to Rama Elluru by Senator Tillis.............    93
+Questions submitted to Corey Salsberg by Senator Tillis..........    97
+Questions submitted to Laura Sheridan by Senator Tillis..........   101
+Questions submitted to John Villasenor by Senator Tillis.........   105
+
+                                ANSWERS
+
+Responses of Ryan Abbott to questions submitted by Senator Tillis   109
+Responses of Rama Elluru to questions submitted by Senator Tillis   114
+Responses of Corey Salsberg to questions submitted by Senator 
+  Tillis.........................................................   121
+Responses of Laura Sheridan to questions submitted by Senator 
+  Tillis.........................................................   133
+Responses of John Villasenor to questions submitted by Senator 
+  Tillis.........................................................   138   
+
+                      ARTIFICIAL INTELLIGENCE AND 
+                     INTELLECTUAL PROPERTY--PART I:                      
+                  PATENTS, INNOVATION, AND COMPETITION
+
+                              ----------                              
+
+                        WEDNESDAY, JUNE 7, 2023
+
+                                    United States Senate,
+                      Subcommittee on Intellectual Property, 
+                                     Committee on the Judiciary, 
+                                                    Washington, DC.
+    The Subcommittee met, pursuant to notice, at 3:01 p.m., in 
+Room 226, Dirksen Senate Office Building, Hon. Christopher A. 
+Coons, Chair of the Subcommittee, presiding.
+    Present: Senators Coons [presiding], Hirono, Padilla, 
+Tillis, and Blackburn.
+    Also present: Senator Blumenthal.
+
+        OPENING STATEMENT OF HON. CHRISTOPHER A. COONS,
+           A U.S. SENATOR FROM THE STATE OF DELAWARE
+
+    Chair Coons. I'd like to call this hearing to order. Thank 
+you to all of our witnesses for participating today. I'd like 
+to thank Ranking Member Tillis and your staff for working so 
+well and closely with mine to put together this hearing on a 
+consensus basis. As you can tell from the attendance, this is a 
+topic of wide interest. And so to my colleague and friend, 
+Senator Hirono, I am looking forward to a robust hearing on the 
+topic of artificial intelligence and intellectual property.
+    We're going to explore some of the recent developments in 
+AI, and in particular, patents and the impact of AI and 
+innovation and U.S. competitiveness. Make no mistake, AI 
+presents novel questions across a wide range of areas of IP 
+policy. And today's the first in a series of hearings that this 
+Subcommittee will have looking at the intersection of 
+artificial intelligence and intellectual property law and 
+policy.
+    We've all heard about different tools like ChatGPT or 
+DALLE, impressive new generative AI tools that have opened up 
+so many creative avenues and raised many concerns. These tools 
+are just a few of many popular uses, but generative AI has 
+already been put to work to help solve a wide range of very 
+serious and substantive problems. Drug development is just one 
+particularly compelling example.
+    Over the last few decades, antibiotic discovery and 
+developments have become increasingly difficult and expensive. 
+Many researchers have given up because new antibiotic drugs 
+have not been able to overcome the threat of antibiotic 
+disease. In fact, no antibiotic classes have been introduced 
+since the 1980s.
+    Enter AI. Researchers at MIT recently trained an AI model 
+using a large collection of diverse molecules and then used the 
+model to make a new and potent antibiotic that is effective 
+against antibiotic-resistant bacteria. This discovery didn't 
+take years. It didn't take weeks. It took a few days.
+    I share this story because many of the conversations around 
+AI focus on the potentially harmful uses of the technology, 
+threats of misinformation, and bias. Highlighting these uses is 
+important, but I believe we also have to act thoughtfully to 
+set critical safeguards. It's important to shine a light on how 
+AI is being used to innovate. Drug development is one 
+compelling example. Others include its role in efforts to 
+combat climate change, to address our computer chip shortage, 
+and to create renewable energy sources.
+    These innovations raise new, interesting, and complex 
+patent law issues, including whether innovations facilitated by 
+AI are, or should be, patentable, and if so, who should be 
+listed as the inventor. Currently, in the U.S., many AI-
+generated inventions are not patentable because the Supreme 
+Court has determined the law does not permit including a non-
+human inventor on a patent application.
+    The decisions we make in Congress about whether and how to 
+protect AI-related innovations will also have significant 
+consequences for U.S. innovation and competitiveness. We need 
+to ensure we establish a rights regime that encourages AI-
+generated innovation to stay here in the United States, instead 
+of incentivizing innovators to turn to other countries with 
+more favorable laws to protect their AI-generated inventions 
+and other emerging technologies.
+    Despite the critical role of IP in AI innovation, IP 
+considerations have largely been missing from proposed AI 
+regulation frameworks. Neglecting IP in an effort to regulate 
+AI would have serious unintended consequences for our 
+innovation ecosystem, our national security, our economic 
+competitiveness. In contrast, competitors, like China, 
+recognize IP policies as an important tool in national 
+strategies for AI and other emerging technologies.
+    China has elevated the role of its patent and trademark 
+office and has even been exploring data rights as a new form of 
+IP protection for AI. So what can we do? There are some initial 
+steps we can take to ensure U.S. leadership on AI policies. I 
+think it's critical that we include IP considerations in 
+ongoing AI regulatory frameworks and make certain the U.S. 
+Patent and Trademark Office has a seat at the table.
+    We should change our patent eligibility laws, and I suspect 
+my colleague agrees, so that we can protect critical AI 
+innovations. And last, we should consider whether other changes 
+to our patent laws or new and unique protections may be 
+necessary to encourage innovation in AI and emerging 
+technologies. I am excited to explore these issues with you 
+today. With Senator Tillis' cooperation, we have a superb panel 
+with a diversity of views and perspectives. You will, I 
+suspect, find 5 minutes a bracingly short period in which to 
+explain them.
+    We are grateful for your lengthy, submitted written 
+testimony and look forward to your individual summaries. But 
+first, I'll turn it over to Senator Tillis before I introduce 
+our panel. Senator.
+
+             OPENING STATEMENT OF HON. THOM TILLIS,
+        A U.S. SENATOR FROM THE STATE OF NORTH CAROLINA
+
+    Senator Tillis. Thank you, Chairman Coons. And thank you 
+for really another great hearing topic and opportunity. Before 
+I make a few brief remarks, I'm just curious, could anybody--if 
+you're under the age of 35 out there, would you raise your hand 
+right now?
+    [Audience members raise their hands.]
+    Senator Tillis. Okay.
+    [Laughter.]
+    Senator Tillis. So I kind of bring up the average a little 
+bit, but even this old guy is pretty interested in this 
+subject. But I thank you all for being here. I think this is 
+one of an endless number of hearings that we're going to have 
+to have to make sure that we get it right.
+    And it's great to highlight the importance of intellectual 
+property. Within about 24 hours of ChatGPT offering its beta 
+site, I signed up, I had--back in the mid 1980s, I was actually 
+working in AI when the state-of-the-art was character 
+recognition, pattern recognition, and voice recognition. So 
+we've come a long way since then, and as the tools continue to 
+explode, the challenges are going to be great. So this is a 
+good starting point.
+    I think the one topic--everybody's talking about all the 
+bad things that could happen with AI, ``I, Robot,'' the zombie 
+apocalypse, and the good things that are going to happen 
+category. And even if we chose not to participate as a nation, 
+it's going to happen. So the question is whether or not the 
+United States is going to maintain a leadership position in 
+innovation and what I think is one of the most promising spaces 
+for future innovation that we have today.
+    But we're having this hearing. AI is going to have a 
+massive impact on intellectual property. And I think this 
+hearing begins to allow us to start parsing this up into issues 
+related to patents, into issues related to copyrights, and any 
+number of other subjects. So I'm going to submit my opening 
+statement for the record. But the key here is, if anyone on the 
+panel thinks that AI is bad and we got to avoid it, then we'll 
+agree to disagree. But I'd be interested in your comments.
+    What I'm most interested in is seeing how this new tool, 
+this new capability, is going to continue to make the United 
+States of America the leading--the historic, leading innovator. 
+And I look forward to your comments.
+    [The prepared statement of Senator Tillis appears as a 
+submission for the record.]
+    Chair Coons. Thank you, Senator Tillis. I'm now going to 
+turn to an introduction of our witness panel. We welcome five 
+witnesses to testify about the intersection of AI and patents, 
+innovation, and competition.
+    Our first witness is Corey Salsberg, a vice president, 
+global head of IP affairs at Novartis, a global healthcare 
+company. He's responsible for defining and developing Novartis' 
+core positions and directing its advocacy efforts with respect 
+to IP law and policy.
+    Next, we have Laura Sheridan. Ms. Sheridan is head of 
+patent policy at Google and advocates for an effective patent 
+examination process, a patent litigation system that operates 
+fairly for all, and transparency in these areas. She's part of 
+the IP Owners Association, a delegation to IP5 Industry, and a 
+group which engage--a group which engages the IP5 Offices on 
+procedural harmonization matters.
+    Next is Ryan Abbott, professor of law and health sciences 
+at the University of Surrey and an adjunct professor of 
+medicine at UCLA. Professor Abbott is the author of ``The 
+Reasonable Robot: Artificial Intelligence and the Law.'' He 
+also leads the Artificial Inventor Project, representing Dr. 
+Stephen Thaler in the global legal test cases seeking IP rights 
+for AI-generated inventions.
+    Next, we'll hear from John--Professor John Villasenor. 
+Professor Villasenor teaches law, electrical engineering, and 
+public policy at UCLA, where he founded the UCLA Institute for 
+Technology, Law, and Policy. His work considers the 
+intersection of technology and law in areas including 
+artificial intelligence, digital privacy, and the technology 
+supply chain. He's written on the implications of AI in 
+relation to patents.
+    Finally, we have Rama Elluru, senior director for society 
+and intellectual property at the Special Competitive Studies 
+Project. She leads a team working on shaping AI governance and 
+IP policy. Previously served as staff to the National Security 
+Commission on Artificial Intelligence, she led the NSCAI's IP 
+efforts and worked on the ethical and responsible use of AI.
+    After I swear in our panel of witnesses, each witness will 
+have 5 minutes to provide your opening statement. I know that 
+will be difficult, but please restrain yourselves. We will then 
+proceed and have each Senator question for 5 minutes, and we'll 
+do our best to live within those limits. I hope we will have 
+time for a second round of questioning. It really depends on 
+how many of our colleagues join, so could you all please stand 
+to be sworn in? Please raise your right hand.
+    [Witnesses are sworn in.]
+    Chair Coons. Thank you. Mr. Salsberg, you may proceed with 
+your opening statement.
+
+       STATEMENT OF COREY SALSBERG, VICE PRESIDENT AND  
+     GLOBAL HEAD OF IP AFFAIRS, NOVARTIS, WASHINGTON, DC
+
+    Mr. Salsberg. Thank you, Chairman Coons, Ranking Member 
+Tillis, Senators Hirono and Blackburn, and distinguished 
+Members of the Subcommittee. My name is Corey Salsberg, and I 
+am vice president and global head of IP affairs for Novartis. 
+On behalf of the company, thank you very much for the 
+opportunity to testify today. Today's hearing is timely and 
+extremely important because, as everyone in the room knows, AI 
+is already here.
+    It's in wide use across industries and society, and it is 
+fast shaping our future. As an early adopter of AI in the life 
+sciences, Novartis is using today's AI tools to help us 
+accelerate drug discovery, to make our clinical trials more 
+efficient, and even as an aid in molecule design. As some 
+examples, machine learning tools are helping us more quickly 
+screen the millions of compounds in our libraries to accelerate 
+the selection of candidates with desirable properties, such as 
+the ability to bind to a disease-implicated target in the body.
+    Our AI-enabled platform Nerve Live uses AI tools to help us 
+anticipate and resolve operational issues at our thousands of 
+global clinical trial sites, and in a field known as generative 
+chemistry our scientists recently trained, guided, and used our 
+AI-enabled research platform called Jaeger to assist in 
+generating new virtual molecules for potential use in treating 
+malaria.
+    Tomorrow's AI tools promise to expand on these activities 
+and enable many more, helping us to unlock medical insights 
+like the secrets of the human genome and to ultimately develop 
+more effective, personalized, safe, and efficient medicines. 
+What this means is that the time is right to ensure that the 
+right laws and policies are in place to enable that future. But 
+the right policies depend on the right information being shared 
+and the right questions being asked, which makes this hearing 
+especially timely.
+    While everybody knows that AI is here, not everyone 
+understands or agrees what that means. It's easy and perhaps 
+tempting to equate the outputs of a generative AI chatbot or 
+the familiar sounds of an AI-generated pop song with human-
+level thoughts and creativity and equally easy to assume that 
+the role that AI plays in one field or situation is the same as 
+in all others. But when it comes to AI, ubiquity does not mean 
+uniformity.
+    Last month, with reference to our Jaeger platform that I 
+mentioned, a headline in Politico posed the question, ``Can 
+Jarvis hold a patent?,'' apparently referring to the fictional 
+artificial superintelligence entity Jarvis in the Marvel movie 
+franchise. While this may make an intriguing headline and it 
+certainly delighted my three kids, Jaeger is not Jarvis, and 
+whether AI can or should be awarded a patent is not, in our 
+view, the right question at this point in time.
+    As a foundational matter, before addressing whether AI can 
+earn or own a patent, the right question is whether today's AI 
+is even inventing. In our experience, as a matter of fact, the 
+answer is no. At least in our field, AI tools today are still 
+just that, tools that are helping to facilitate, optimize, and 
+enhance human activity and ingenuity and to advance human-
+defined goals.
+    Non-generative machine learning tools that improve or 
+accelerate tasks we would otherwise do ourselves or that help 
+reveal information that we're unable to observe on our own are 
+largely analogous to other tools, that such as high-throughput 
+screeners, calculators, and microscopes. While generative AI 
+tools like Jaeger may be used to generate new things, 
+generating is not the same as inventing, at least not where it 
+takes a human to define the problem, guide the solution, and 
+recognize, appreciate, and synthesize the results. But that 
+does not fully resolve the matter.
+    A second question, which is top of mind for innovators like 
+us, is whether using AI to assist in R&D compromises the 
+ability of our human scientists to patent the resulting 
+inventions. Here, as a matter of law, we believe the answer is 
+no. But we must ensure that the doctrine of inventorship law, 
+known as conception, which traditionally considers whether an 
+invention occurred inside the mind of the inventor, is not 
+applied too rigidly to deprive human inventors of patent rights 
+simply because generative AI now allows some of the inventive 
+process to occur in silico or on a computer.
+    Other principles of existing competition law such as the 
+ability--conception law, sorry, such as the ability of an 
+inventor to obtain ideas and materials from others so long as 
+he or she maintains intellectual domination over the process 
+and the rule that an invention is only conceived when it is 
+operable, recognized, and appreciated, can address this concern 
+provided the Patent Office and courts properly apply them. 
+Because conception law is unique to the United States, though, 
+we believe this is a critical issue to get right, so we do not 
+put our Nation's innovators at a disadvantage and compromise 
+America's economic and strategic leadership.
+    A third important question is whether we will even need 
+patents if and as AI advances to the point where it's able to 
+fully invent on its own. Here, as a matter of policy, we 
+believe the answer is resoundingly yes because the patent 
+system's constitutional goal of promoting progress cannot be 
+realized unless innovators are encouraged to not only invent, 
+but to publish, develop, and commercialize their inventions. In 
+this regard, it's important to remember that in our field, the 
+invention of new molecules, proteins, and other substances is 
+only the start of the long, complex, and risky process of 
+developing new medicines.
+    Without patents or comparable incentives to enable that 
+work, we would not have new treatments and cures, no matter how 
+many new molecules appear on computer screens. Thank you very 
+much for the opportunity. I look forward to your questions.
+    [The prepared statement of Mr. Salsberg appears as a 
+submission for the record.]
+    Chair Coons. Thank you very much, Mr. Salsberg. Ms. 
+Sheridan.
+
+       STATEMENT OF LAURA SHERIDAN, HEAD OF PATENT POLICY,   
+                  GOOGLE, NEW YORK, NEW YORK
+
+    Ms. Sheridan. Good afternoon, Chairman Coons, Ranking 
+Member Tillis, and Members of the Committee. Thank you for the 
+opportunity to appear before you today. My name is Laura 
+Sheridan and I'm head of patent policy at Google. For more than 
+20 years, I have witnessed firsthand how patent policy and the 
+law have adapted to match the pace of innovation. Today, I look 
+forward to answering the Committee's questions on artificial 
+intelligence and patenting.
+    Google's approach to artificial intelligence is both bold 
+and responsible. We believe we must develop AI in a way that 
+maximizes the positive benefits to society while addressing the 
+challenges. The only way to be truly bold in the long term is 
+to be responsible from the start. We're committed to developing 
+AI technology responsibly, applying strong safety and security 
+practices, and continuing to develop our AI innovations in 
+accordance with best practices.
+    We introduced our AI principles in 2018 to guide our 
+development of this critical technology, and we work closely 
+with external partners to draw on their expertise and share our 
+learnings on responsible AI practices. Google is utilizing AI 
+across our entire business. We use AI in our groundbreaking 
+products used by people everywhere, our contributions to 
+scientific advances that benefit people, and our efforts 
+helping to address societal challenges.
+    The potential of AI to solve big problems is rapidly 
+increasing. We're proud of efforts to partner in the use of 
+this technology to help address problems and improve the lives 
+of people around the world. For example, we're deploying AI to 
+help forecast floods, monitor prenatal health, and detect 
+genetic variations linked to disease. We're also using AI in 
+the innovation process to help expedite chip floor planning, 
+identify optimal neural network architectures, and improve upon 
+the drug design process. These advances are described in 
+greater detail in my written testimony.
+    We have significant experience seeking coverage for AI 
+inventions in the United States and around the world and have 
+one of the largest portfolios of AI-related patents. And we are 
+engaging extensively with the U.S. Patent and Trademark Office 
+on issues related to inventorship and artificial intelligence, 
+including by submitting comments, offering testimony, and 
+participating in listening sessions.
+    We agree with the USPTO that there is a spectrum of 
+inventive behavior. We believe current industry uses of AI are 
+well within the zone where humans are properly named as 
+inventors and where AI is leveraged as a tool in the invention 
+process. We expect to remain in this zone for some time. 
+However, we do encourage the USPTO to shed light on 
+inventorship, and we believe that guidance from the office 
+would allow for a clear conversation between patent applicants 
+and their counsel.
+    We also respectfully suggest that the USPTO encourage 
+patent applicants to document inventor contributions. And we 
+encourage the USPTO to implement robust technical training for 
+any patent examiner who is examining AI-related innovations, 
+whether those are inventions on core AI technology or on 
+specific applications of core AI technology. The number of 
+patent examiners who are now examining these AI-related 
+inventions makes up a substantial portion of the examining 
+core, and that number is only going to increase.
+    We urge that a comprehensive technical training program be 
+put in place so patent examiners are well-situated to assess 
+whether or not to grant a patent. Google also supports 
+increases to patent fees for large companies, while ensuring 
+that small and micro entity fees remain low. We believe the 
+USPTO will be in the best position to issue robust and reliable 
+patent rights, including in complex emerging technologies like 
+AI, when the fees before the grant of a patent more closely 
+match the costs.
+    We believe large companies like Google should shoulder more 
+burden and support the overall health of the patent system. We 
+appreciate this important discussion on the current state of AI 
+and patenting. Google continues to engage with Government 
+officials and the public to further discussions on AI and 
+responsible development principles. Google will continue to 
+provide feedback on the intersection of AI and patents to 
+ensure we continue to strike the right balance for our patent 
+system to incentivize AI innovation.
+    Thank you for the opportunity to appear before you today, 
+and I look forward to your questions.
+    [The prepared statement of Ms. Sheridan appears as a 
+submission for the record.]
+    Chair Coons. Thank you, Ms. Sheridan. Professor Abbott.
+
+STATEMENT OF RYAN ABBOTT, PROFESSOR OF LAW AND HEALTH SCIENCES,  
+  UNIVERSITY OF SURREY SCHOOL OF LAW, GUILDFORD, UNITED KINGDOM,  
+  AND ADJUNCT ASSISTANT PROFESSOR, DAVID GEFFEN SCHOOL OF  
+  MEDICINE, UNIVERSITY OF CALIFORNIA, LOS ANGELES, CALIFORNIA 
+
+    Professor Abbott. Thank you, Chairman Coons, Ranking Member 
+Tillis, and Members of the Committee. A picture is worth a 
+thousand words, and I've tried to do one better with a 3D-
+printed model of an AI-generated invention. We call this the 
+fractal container because it's a beverage container based on 
+fractal geometry. The United Kingdom Intellectual Property 
+Office, the U.K. analog of the United States Patent and 
+Trademark Office, conducted a substantive examination on this 
+and determined it was new, inventive, and useful, which are the 
+major requirements to get a patent.
+    The invention came from an AI system called Davis. Davis 
+was built and trained by people, but on general knowledge 
+rather than on knowledge specifically about container design. 
+It was not asked to solve a specific problem, and its user had 
+no training in container design or specific intent to design a 
+new container. Davis was built to combine simple ideas and 
+concepts into more complex ones and identify when a complex 
+concept had a positive outcome.
+    Here it identified that a beverage container based on 
+fractal geometry would have higher surface area, which would 
+improve heat transfer like the opposite of a thermos, and it 
+would make it easier to grip. All that before a human being 
+laid eyes on the AI's output. If the AI had been a human being, 
+it would be the patent inventor. When I actually had one 3D-
+printed, I was surprised at how easy it was to grip, which 
+might make it easier for someone with Parkinson's disease to 
+use.
+    I was also surprised to see how difficult it was to drink 
+out of, and it is effectively impossible to clean. But it is an 
+invention rather than a commercial product. And yet 
+troublingly, the United States has emerged as an international 
+outlier in terms of refusing to provide a patent for this 
+invention, not because the invention itself isn't deserving of 
+protection, but because of how it was invented.
+    I know that because I have been leading, on a pro bono 
+basis, a series of legal test cases on the patentability of AI-
+generated inventions and the copyrightability of AI-generated 
+works, the outcome of which has sadly been to see U.S. courts 
+adopt a strongly antipatent position. We didn't have a 
+traditional human inventor in our case, so when we filed the 
+applications, which we've now done in 18 jurisdictions, we 
+transparently disclosed it was invented by an AI.
+    Different jurisdictions have very different rules about 
+inventorship. Some jurisdictions don't require inventors to be 
+disclosed, others allow companies to be inventors, which is not 
+so strange. The U.S. has allowed companies to be authors under 
+the Copyright Act for more than a century. The United States 
+has a strict test for inventorship. The person who conceived of 
+an invention, and usually an inventor, has to sign a 
+declaration under threat of criminal sanctions that they 
+genuinely believe themselves to be an inventor.
+    The Federal Circuit last year held for the first time in 
+Thaler v. Vidal that if you don't have that traditional human 
+inventor, you can't get a patent. Of course, no one was ever 
+arguing that the AI would own the patent. Most inventions are 
+not owned by inventors, but rather by their employers. An AI 
+isn't a legal person, it can't own property, and I see no good 
+reason to change the law to allow that. But it is a bedrock 
+principle of property law that you own property made by your 
+property.
+    So if I have a 3D printer make a physical beverage 
+container, I own that. There is no reason why I should be any 
+less entitled to intangible property made by my AI. That's the 
+right outcome, as a matter of policy, that the owner of an AI 
+system should own inventions made by that system because the 
+system is designed to provide incentives regardless of how 
+inventions are made. Allowing this to be patented will provide 
+encouragement to the use and development of inventive AI that 
+will generate more socially valuable inventions. It will 
+encourage the owners of these systems to disclose inventions 
+rather than keep them as trade secrets. And it will encourage 
+the investment needed to commercialize inventions.
+    So what should Congress do? Amend the Patent Act to allow 
+the protection of AI-generated inventions by prohibiting 
+patentability from being based on how an invention is made. 
+Designation of inventorship is less important than 
+patentability, but it would be best to keep legal inventorship 
+based on factual inventorship.
+    In other words, where an AI has invented something, it 
+should be disclosed that it is AI-generated. This will tell the 
+public how it is made, it will facilitate ownership 
+determinations, and it will keep people from claiming credit 
+for work done by AI. That's not unfair to AI, which has no 
+self-interest, but it's unfair to other inventors displaying 
+legitimate ingenuity and by equating their work to someone just 
+asking an AI to solve a problem.
+    Protecting AI-generated inventions and AI inventorship is a 
+simple, common-sense solution that will not cause other 
+complications.
+    And it is critical for Congress to act on this now, not 
+just because of the state of AI today, but because investments 
+need to be made now in the AI and innovation of tomorrow. And 
+there is a universal consensus that AI is only going to get 
+better at doing this sort of thing. If the right frameworks are 
+in place, the outcome of that should be significant benefits 
+for everyone. Thank you.
+    [The prepared statement of Professor Abbott appears as a 
+submission for the record.]
+    Chair Coons. Thank you, Professor Abbott. Professor 
+Villasenor. 
+
+STATEMENT OF JOHN VILLASENOR, PROFESSOR OF LAW, ELECTRICAL  
+  ENGINEERING, AND PUBLIC POLICY, AND FOUNDER AND FACULTY 
+  CO-DIRECTOR, INSTITUTE FOR TECHNOLOGY, LAW, AND POLICY, 
+  UNIVERSITY OF CALIFORNIA, LOS ANGELES, CALIFORNIA
+
+    Professor Villasenor. Chair Coons, Ranking Member Tillis, 
+Members of the Subcommittee, thank you for the opportunity to 
+testify at today's hearing. I'm testifying today on my own 
+behalf and not on behalf of any institution. When discussing 
+the intersection of AI and patents, it's helpful to identify 
+three categories.
+    First, there can be patents about AI. Second, there can be 
+patents describing inventions created using AI. And third, AI 
+can be used to write patent applications or public disclosures 
+intended to serve as prior art.
+    Regarding patents about AI, my point is simple. The U.S. 
+Patent and Trademark Office is well equipped to handle patent 
+applications for inventions about AI and has been doing so for 
+years.
+    Now, the second category, inventions made using AI, poses a 
+complex set of policy questions. First, should AI inventions be 
+patentable? Second, how should inventorship be handled?
+    I believe that AI inventions should be patentable, and that 
+inventorship should be attributed to the natural persons who 
+use AI as a tool to enhance their ability to innovate. More 
+specifically, as I explained in a recent law review publication 
+in the Santa Clara High Technology Law Journal, conception 
+should encompass ideas formed through collaboration between a 
+person and tools that act as extensions of their mind.
+    To operationalize this approach, I believe that no 
+statutory changes are needed. I believe that this view of 
+conception is consistent with current U.S. patent law. Some 
+people propose that AI systems should be named inventors. I 
+respectfully disagree. First of all, as we know from the Thaler 
+litigation, this would require a change to U.S. patent law. 
+Many Members of Congress would be rightly concerned about the 
+consequences of that change. There are other problems as well 
+that would arise if that change were made.
+    An AI system cannot provide the required inventor's oath or 
+declaration that must accompany a utility patent application. 
+An AI system cannot get deposed in litigation regarding an 
+invention. It can't give sworn testimony.
+    Another approach that has been proposed is to deem AI 
+inventions wholly unpatentable. I do not support this approach. 
+It would disincentivize investment in the use of AI in areas 
+where it has high potential. For instance, a pharmaceutical 
+company would be unlikely to make significant investments in 
+AI-assisted drug development if it expected that any resulting 
+drugs would be deemed unpatentable. It would create a new 
+category of patent ineligibility based on having used too much 
+AI when making an invention. The resulting ``How much is too 
+much?'' question would generate years of confusion and 
+litigation.
+    The third and final category is the use of AI to write 
+patent applications or preemptive prior art, publications 
+designed to foreclose patentability. Let me emphasize here that 
+the use of AI writing tools to help create explanatory text or 
+figures regarding inventions is not inherently problematic. It 
+is reasonable for an inventor to use AI as a timesaving tool 
+for describing an invention.
+    However, a problem arises when AI is used to describe 
+alleged inventions for which there is no conception by a human. 
+Computer algorithms, whether or not AI-enabled, can be used to 
+write and publish large online disclosure databases intended to 
+foreclose patentability. This idea is not new. There is at 
+least one website in this category that has been online for 
+multiple years.
+    To the extent that such publications occur without any 
+substantive nexus to human understanding of their contents, 
+there is a good argument that they should not count as printed 
+publications under 35 U.S.C. 102(a). The entire concept of 
+prior art is tied to what a person of ordinary skill in the art 
+would know. The person of ordinary skill is a hypothetical 
+person who is presumed to know all prior art in the relevant 
+field at the relevant time.
+    But I do not believe that a person of ordinary skills 
+knowledge should be so broad as to include purported art 
+embedded in computer-generated text for which there is no 
+evidence that any human has ever understood the significance.
+    In closing, I will emphasize that AI has extraordinary 
+promise. In the mid-21st century, maintaining U.S. global 
+economic competitiveness will require that the United States be 
+a leader in AI innovation. A patent system that incentivizes 
+the use of AI to innovate is a key component of that 
+leadership. Thank you, and I look forward to your questions.
+    [The prepared statement of Professor Villasenor appears as 
+a submission for the record.]
+    Chair Coons. Thank you, Professor. Last but not least, 
+certainly, Ms. Elluru.
+
+STATEMENT OF RAMA ELLURU, SENIOR DIRECTOR, SOCIETY AND  
+  INTELLECTUAL PROPERTY, SPECIAL COMPETITIVE STUDIES 
+  PROJECT, WASHINGTON, DC 
+
+    Ms. Elluru. Chairman Coons, Ranking Member Tillis, and 
+Members of the Committee. Thank you for the honor to testify 
+today. I'm here to discuss the implications of artificial 
+intelligence on our intellectual property regime. Specifically, 
+I want to share the IP recommendations from the final report of 
+the National Security Commission on AI, the independent 
+commission Congress created to provide recommendations for 
+advancing the development of AI to further U.S. national 
+security needs.
+    The United States is in a global technology competition. 
+The Chinese Communist Party understands that the way to achieve 
+dominance is through supremacy in key emerging technologies. AI 
+is at the center of this competition. I emphasize that AI is a 
+foundational technology. AI will influence nearly every aspect 
+of our lives, especially as generative AI becomes ubiquitous. 
+AI is a technology like electricity, upon which other 
+technologies are built.
+    AI in combination with other technologies like faster 
+semiconductors and biotechnology, will only accelerate our 
+discoveries. We are in a race to develop the future of AI, a 
+race we are in with China. This innovation competition will 
+shape the world's future. The nations that hold the leadership 
+and dominant market share in the combination of emerging 
+technologies will be able to reinforce their societies and 
+their economies, and importantly, assert geopolitical 
+influence.
+    Which nations and how these nations shape the development 
+and adoption of these technologies will determine the 
+geopolitical order. The United States must lead in the tech 
+competition because at stake is a values competition. We want 
+these technologies to be developed and used according to our 
+standards and norms, which is the opposite of how China is 
+using this innovation, such as surveillance of its citizens and 
+oppression of minority groups. And we cannot do it alone. The 
+United States, along with our many close partners and allies, 
+must maintain our technology lead over China.
+    So how does the United States retain its global tech 
+leadership? We leverage the strength that has allowed the 
+United States to outpace and outmatch every technology 
+challenger we have faced over the past century. Our strength 
+and power is American innovation. Intellectual property rights 
+have historically been a critical lever in ensuring America's 
+innovation leadership.
+    America's IP regime has spurred American ingenuity since 
+the 18th century with the 1790 Patent Act. The last major 
+overhaul of the patent system was in the early 1950s, right 
+before the field of AI emerged in 1956. Patents are property 
+rights that incentivize new ideas and inventions by rewarding 
+inventors for sharing valuable information with the public 
+domain. These incentives are especially important now when the 
+majority of funding and tech development in the United States 
+is from the private sector.
+    The NSCAI addressed the asymmetry in U.S. and PRC IP 
+strategies in Chapter 12 of its final report. What can the 
+United States do in practical terms to implement patent 
+policies that promote AI innovation?
+    First, the United States must recognize IP policy as a 
+national priority and require the development of a 
+comprehensive plan to reform and create IP policies that 
+further our technology competitiveness goals.
+    Second, we need an entity with IP expertise that can 
+coordinate the various IP equities across our Government to 
+develop and propose IP policies on an ongoing basis.
+    Third, the United States must elevate and coordinate 
+technology policy in the White House by empowering a single 
+entity to implement a comprehensive technology strategy, a 
+strategy that integrates IP proposals.
+    Last, we must prioritize IP considerations that need to be 
+assessed. The NSCAI proposed a non-exhaustive list of 10 IP 
+considerations, which are included in my written testimony.
+    Last, at the Special Competitive Studies Project, we are 
+exploring a number of these considerations in partnership with 
+the Renewing American Innovation Project at CSIS, which is 
+headed by US--former USPTO Director Andrei Iancu. I'm happy to 
+go into any of these topics during our discussion. Thank you 
+again for the opportunity to be here today.
+    [The prepared statement of Ms. Elluru appears as a 
+submission for the record.]
+    Chair Coons. Thank you, Ms. Elluru. We'll now begin a 5-
+minute round of questions for the members of the panel who are 
+here--Members of the Committee to ask members of the panel.
+    If I might, Mr. Salsberg, just to open, could you speak a 
+little bit more about the difference between non-generative AI 
+and generative AI in the biotech field and why generative AI 
+may raise patent law issues that other AI doesn't? In the 
+example you gave of developing new molecules that might be 
+useful in the fight against malaria, you referenced Jaeger.
+    Why is Jaeger not an inventor in the example you gave when 
+it was generating novel virtual molecules? And why are the 
+human scientists the inventors, and the AI simply a tool?
+    Mr. Salsberg. Thank you for the question, Senator. So all 
+AI today, at least at Novartis, and I cannot speak for other 
+fields, are tools that are trained on data to basically 
+recognize patterns and apply them in new ways, either to 
+existing data in the case of non-generative AI. So it's 
+learning a pattern, then looking at our data, such as our 
+compound library, or data from past clinical trials, or images 
+of cells after different experiments, and trying to find a 
+similar pattern there. That we call non-generative because, as 
+the name implies, nothing new.
+    Generative AI is basically doing the same thing. It is 
+being taught a pattern. It's being taught to recognize it, but 
+it's applying that pattern then to create something new or 
+generate, I should say is a better word, something new. In the 
+case of Jaeger, I think the reason why this raises concerns is 
+because of the confusion between generation on the one hand and 
+invention on the other.
+    We would say they're not the same because Jaeger, at least 
+in our example, is not an inventor, because both factually and 
+legally, what it's doing is not equivalent to human 
+inventorship. It neither identified a problem, at least in our 
+case. In our case, the problem is malaria. Right? It was to 
+design new malaria drugs. It didn't know that there was malaria 
+out there. It was told, do a drug that does this. It didn't 
+consider how to address the problem.
+    It had to be seeded with 20--or taught first with 20,000 
+examples of compounds, then seeded with three lead compounds 
+that we know have antimalarial properties to teach it how to 
+design a molecule. After that, the key point, I think, between 
+invention and non-invention is an area of the law called--its 
+recognition and appreciation. That is part and parcel of 
+conception, and also just factually from common sense, we know 
+that to be conscious, we have to recognize what's going on.
+    We don't believe that at this point in time, even 
+generative AI is recognizing anything that it is doing. Last 
+point I'll make really quick. I know I'm short on time for your 
+questions, but a lot has to be done after these molecules 
+appear on a computer screen. They need to be validated. They 
+need to be synthesized, which is actually not obvious or easy 
+to do.
+    Chair Coons. Understood.
+    Mr. Salsberg. Yes.
+    Chair Coons. Thank you. Ms. Sheridan, can you imagine a 
+time in the relatively near future when AI will advance such 
+that it really is possible for AI to generate meaningful 
+inventions with no human intervention at all?
+    Ms. Sheridan. Thank you for the question, Senator. It's in 
+our written testimony that our current experience and what we 
+expect to be the experience for, you know, the foreseeable 
+future is no. The human involvement is so great at this point 
+when AI is being used as a tool in the innovation process from 
+start to finish.
+    Chair Coons. You mentioned guidance from the PTO and 
+inventorship would be really helpful. You expounded on that 
+just a little bit. Is there anything you missed that you think 
+we should hear about what that guidance from the Patent and 
+Trademark Office should look like as we move forward in 
+examining this intersection between patent law and AI?
+    Ms. Sheridan. I would have it really look at two big 
+things. One, it should be broader than AI. I think AI is 
+creating this conversation, but I think inventorship is 
+challenging. So I think that guidance should more broadly 
+encompass AI usage, but also other tools. You know there are 
+computer simulations. There are other things that are being 
+used in the innovation process.
+    And I think, too, it really should give comfort to 
+inventors that they are doing their best to memorialize the 
+inventorship for their patent applications and, you know, 
+taking a position from the PTO in terms of what we're talking 
+about with joint inventorship, that the humans are properly 
+named.
+    Chair Coons. Professor Abbott, you mentioned--you've led or 
+managed I think it's 18 now foreign patent cases involving Dr. 
+Thaler's AI-generated inventions. And you called the United 
+States an outlier in failing to recognize inventions that are 
+AI-generated for patent protection. What are the consequences 
+of that? What do you see as the costs or the risks to the U.S. 
+system? And you asserted that it wouldn't cause any other 
+complications for us to modify patent law in a way that allows 
+essentially co-invention.
+    I'd be interested in whether other members of the panel 
+agree, and if you'd address my question about what are the 
+consequences of our being an outlier.
+    Professor Abbott. Sure. Well, I mean, I think the most 
+pressing commercial problem here is not where you have co-
+invention, although that can sometimes be an issue, but where 
+you don't have a traditional human inventor you could identify. 
+And I agree, in Mr. Salsberg's example, you have that or a good 
+argument for it, where you do have a lot of human intervention 
+and there's always human intervention. The question is, under 
+inventorship law, there's a thing that someone does that makes 
+them an inventor.
+    And sometimes that thing is now being done by a machine, 
+and perhaps not that much right now, but it is increasingly 
+going to be the case that AI is doing this, that companies like 
+Microsoft are pretraining these drug-seeking AIs on how to 
+generate new molecules and how to validate them. You can have 
+AI that will evaluate the utility of its own output.
+    When you are, for example, modeling industrial components 
+and you know, I want an industrial component that is lighter or 
+that is longer or that meets some preset criteria that's well 
+understood in the art. So as AI----
+    Chair Coons. So in your instance, was it simply a failure 
+to instruct that the container should be easily cleanable?
+    [Laughter.]
+    Professor Abbott. Well, if someone was now making--you 
+know, one can get a lot of patents on a single product. Right? 
+So it might be that this was the first product. Someone uses 
+that and says, ``You know what? This is great, but I need it to 
+also be cleanable, so how can we redesign it for that?'' And if 
+a person did that, they might be an inventor on that second 
+patent. You know, but basically, it's all a question of degree 
+and what specific input a person has into invention, but the--
+--
+    Chair Coons. What are the consequences of our being an 
+outlier?
+    Professor Abbott. The consequences are that companies will 
+be discouraged to use AI in the invention process because it 
+will risk them getting patents on their inventions. Right? And 
+that will depend very much on the field in which AI is being 
+used, the systems being used, and the specific facts of how 
+this is done.
+    Chair Coons. Thank you. I have a lot more questions for the 
+panel. But respecting that I'm already over time, I'll yield to 
+my Ranking Member.
+    Senator Tillis. I think I would have started by asking AI 
+how I could develop an accessory that I could pay for--that I 
+could sell, after I sell the bottle, that cleans it very well.
+    [Laughter.]
+    Senator Tillis. I'm sure somebody's probably already 
+working on that. Ms. Elluru, you--did I pronounce that right?
+    Ms. Elluru. Correct.
+    Senator Tillis. Tell me a little bit about your current 
+assessment of--you and your opening comments were talking about 
+really Western world versus China in this competition. Where 
+are we now in terms of the pacing threat of China surpassing 
+us, or have they?
+    Ms. Elluru. I think the U.S. is in the lead with respect to 
+AI, but barely. Had the U.S. as leading in cutting-edge chip 
+design, but manufacturing of semiconductors is still a 
+contested space with Taiwan at the center. I think the U.S. is 
+forefront in novel algorithms and architecture, and it has the 
+frontier large language models. But China is leading in data in 
+part due to its pervasive domestic governance and collection 
+regime.
+    And I think with respect to large language models, it is a 
+little bit hindered because these large language models are 
+trained on the internet, and the internet is mostly in English. 
+They also have censorship, which constrains their access to 
+data.
+    Senator Tillis. You also mentioned in your opening 
+testimony--you didn't use these words, but I inferred from it 
+that you feel like the administration needs a kind of whole-of-
+Government view with respect to AI? But would you elaborate on 
+that? What would that look like?
+    Ms. Elluru. I think, as we recommended at the NSCAI, that 
+we need a single entity with IP expertise that can coordinate, 
+and importantly, unify the different IP equities across the 
+Government. And we recommended that that sit with the United 
+States PTO Director as well as the Department of Commerce 
+Secretary, and that other Federal Government agencies and 
+departments resource efforts and--resource their efforts to 
+support that, this PTO Director.
+    Senator Tillis. Mr. Salsberg, you mentioned in your 
+testimony clarifying the law surrounding conception would 
+restore certainty. Can you state that if too narrowly 
+construed, the law could potentially be misapplied to deprive 
+human inventors of legitimate patent rights to their own 
+inventions?
+    Mr. Salsberg. Yes, we do believe that if it's too rigidly 
+applied, that could be the result, because we have a standard 
+that has been established in a different context. It was about 
+priority of inventorship, meaning which of two inventors 
+invented first. For 100 years, we've had a law developed that 
+looks at what happens in the mind of the inventor. And we 
+believe that that is way too rigid of a standard.
+    But we also think that existing law has multiple principles 
+available. I know to be very brief in my answer, but there's a 
+case called Morse v. Porter which says that as long as an 
+inventor has intellectual domination over the process, you can 
+even adopt key ideas from outside. And also, if you don't 
+recognize, appreciate, and have an operable invention at the 
+time that it is created, it is not actually conceived until 
+someone else recognizes and appreciates it.
+    So, we think combining these doctrines together--and 
+there's a bunch of cases in our written testimony that stand 
+for these propositions--if the courts and Patent Office apply 
+this properly, we can resolve that issue under existing law.
+    Senator Tillis. Just briefly, could you explain how we 
+compare to other countries, other jurisdictions?
+    Mr. Salsberg. Yes. We're the only country in the world, to 
+the best of my knowledge, that has anything like a conception 
+requirement. In much of the world, you don't even need to--you 
+never even get asked about inventorship. Many countries, you 
+list an inventor and it's just of your own accord. It only 
+comes up in situations where a remuneration dispute or a joint 
+inventorship dispute comes up. Some countries don't even 
+require you to list an inventor, like Israel and Austria.
+    Senator Tillis. Final question, I may also stick around and 
+ask some further--not a question, but you know, it feels like 
+to me, in everything that we do on Capitol Hill, we're doing 
+well when we're providing certainty in various areas. And I 
+feel like if we don't tackle these IP issues, that we are 
+likely to be the jurisdiction where these inventions occur. 
+Would anybody disagree with that? I mean, there is work that we 
+have to do.
+    There are some that are saying it can work within the 
+current law, but I, for one, feel like we have to have 
+certainty and clarity, or we really run the risk of having the 
+gap. Maybe our competitive advantage today will not be the same 
+just a few short years from now, given the pace, the rate of 
+change that we're observing in AI space. Anybody disagree with 
+that? That it's not broke, don't fix it. We've got something 
+we've got to work on here. Professor Villasenor?
+    Professor Villasenor. As I've argued in the law review 
+article I mentioned, and in the testimony, I think U.S. patent 
+law already accommodates AI inventions and that the inventor 
+should be the human who uses the AI as a tool, as an extension 
+of their mind. I think that's consistent with the understanding 
+of conception that's been in place since--and actually 
+conception is not defined in Title 35. It actually comes from 
+an 1890 treatise by Robinson, and the Federal Circuit has cited 
+that as recently as, I believe, 2021.
+    And I think just viewing the conception through that 
+broader lens, consistent with that original, commonly cited 
+definition, is enough to encompass and take account of 
+inventions made using AI.
+    Senator Tillis. Yes, I think my concern is, if we don't 
+identify some of the bigger threats here and provide clarity, 
+this could be sorted out in the courts. Which is one of the 
+reasons why we're working on patent reform because we have a 
+lot of really bad decisions that came out of the courts with 
+people who really didn't understand the underlying concepts of 
+the case they were overseeing. Thank you, Mr. Chair.
+    Chair Coons. Thank you, Senator Tillis. Senator Hirono.
+    Senator Hirono. Thank you, Mr. Chairman. So, the thing with 
+AI is that it is being developed, the use of AI, through so 
+many--in so many different ways is happening by leaps and 
+bounds. And as we sit here struggling to figure out a way to 
+regulate AI in an appropriate way without really discouraging 
+invention, etc., it's not the easiest thing to try to decide 
+what to do. And in fact, none of you mentioned the, for 
+example, the White House blueprint for an AI Bill of Rights and 
+the Bill of Rights that individuals should have.
+    And as we sit here knowing that some entity out there can 
+replicate our voices, put out a campaign ad that we've had 
+nothing to do with, and what are we supposed to do about that? 
+We have no awareness of it. We don't even know if this was an 
+AI-generated thing. So, the implications are vast on how we 
+should be regulating AI. We just know we should, can't decide 
+what to do quite yet. But it's interesting to hear your 
+testimony about what should be patentable and after the Thaler 
+decision, where it seems very clear that the human element has 
+to be there in order for something to be patented.
+    Except, I believe, Mr. Abbott, you know, your approach 
+seems to be so simple. Whoever owns the AI system should own 
+whatever is invented through that system. I'd like to know from 
+the rest of the panelists whether that is the way we should go, 
+in spite of the Thaler decision. Let's start with you, Mr. 
+Salsberg.
+    Mr. Salsberg. Thank you for the question, Senator. That is 
+one option. If and when we get to the point where AI is truly 
+inventing. As I said in my testimony, we're not sure we're 
+there yet, but if and when we get there, we totally----
+    Senator Hirono. Well, things are moving so fast that I can 
+envision that we're going to get there. So, go ahead.
+    Mr. Salsberg. And when we get there, we're in full 
+agreement that we do need to make sure that patents still issue 
+to those who use AI to create useful inventions for society and 
+promoting progress. We think there are three ways to address 
+it, though. One is to award a patent to AI. Another is to 
+simply change our inventorship standards and expand what it 
+means to invent. And we believe, again, we can get there by 
+taking existing principles of conception law and applying them 
+properly.
+    And if that doesn't work, we also think we can eliminate 
+the inventorship requirement in most situations and get to the 
+same result without having impact on other aspects of patent 
+law, such as the level of ordinary skill in the art of an AI 
+and the inventor's oath and things like that.
+    Senator Hirono. Ms. Sheridan.
+    Ms. Sheridan. Thank you for the question. You know I agree 
+with Mr. Salsberg. Our current experience is the human is very 
+much involved. The human is the inventor. I have kind of two 
+concerns with the approach of going with, you know, the system 
+being an inventor or the ownership vesting in the owner of the 
+system. I think one just sort of sits with the Constitution and 
+the--really the reason for the patent system, which is to 
+incentivize the behavior of humans to innovate.
+    And you know, I question whether that incentive is needed 
+for an AI system. I think that's not really the purpose of the 
+patent system in the first place. So I would want to think more 
+about, does that line up with the purpose of the system.
+    I think the other question, though, which is more the one 
+that would keep me up at night is obviousness. You know, 
+inventions need to be nonobvious, and if you have this ability 
+for an AI to be named, what does that mean for the obviousness 
+test? Where is the bar? And who are you kind of measuring this 
+against? And how does a patent examiner, one of 8,000 in the 
+PTO's workforce, apply that?
+    So, I think there are a lot of open questions that would 
+come up from what seems to be a simple fix.
+    Senator Hirono. I'm going to move on to Mr. Villasenor.
+    Professor Villasenor. Yes, very briefly, I'll just say that 
+everything an AI system does is ultimately traceable back to 
+one or more people. And I think that when we focus only on the 
+AI system, we miss potentially the incredibly important and 
+relevant in this context, contributions of the people who have 
+ultimately enabled an AI system to do what it does.
+    Senator Hirono. So you're not particularly troubled by the 
+idea that whoever owns the system should own whatever the 
+system generates?
+    Professor Villasenor. Well, actually, I am in the sense--in 
+the sense that I think the owner--I mean, whoever owns the 
+system shouldn't be the dispositive question. Again, I believe 
+that the people who use AI as extensions of their minds should 
+be the inventors. And that would be true even if they, for 
+example, you know, leased under a contract, an AI system that 
+they use to expand their creative capacities.
+    Senator Hirono. Mr. Chairman, could I ask Ms. Elluru, too?
+    Chair Coons. Absolutely. You got it.
+    Ms. Elluru. Thank you, Senator. I have two comments to 
+make, and the first one is open source. If we recognize patent 
+owners as having the right, what happens when a user uses open 
+source models to invent? And the second comment is, with 
+respect to obviousness, I think that AI is going to be commonly 
+used in the invention-creation process. So, I think we will 
+have the obviousness issue regardless of whether we recognize 
+AI as an inventor or not.
+    Senator Hirono. Thank you, Mr. Chairman.
+    Chair Coons. Thank you, Senator Hirono. Senator Blackburn.
+    Senator Blackburn. Thank you, Mr. Chairman. Thank you to 
+each of you for being here and for your testimony. And I so 
+appreciate that we are looking at this issue. I'm from 
+Tennessee. We have a lot of entertainers. The voice cloning is 
+an issue. ChatGPT, being able to write a song that sounds like 
+it would be in the style of so-and-so, some artist--that's an 
+issue. And making certain that we're able to preserve these 
+intellectual property rights is--this is coming up a lot as we 
+talk with our entertainment community.
+    And then also, we have a lot of people that are doing work 
+in the energy space, automobile manufacturers, and they're 
+busy. Ford has done a huge investment in Tennessee with SK 
+batteries, billions of dollars there. GM has its Ultium battery 
+facility in Tennessee. Now, these innovators are saying, ``I 
+want to hold my invention.''
+    And of course, China, which we've discussed some today, is 
+a pro at lifting intellectual property and not protecting that 
+intellectual property. And I look at what they're doing, 
+stealing it, our intellectual property, the emergence of China, 
+and their aggressiveness in the field of AI. And Ms. Elluru, I 
+want to come to you on this. I pulled a number, 2021. China was 
+the global leader for patent filings, and they had 1.59 million 
+filings. They were double us. Then 2011 to 2021, Chinese AI-
+related patents accounted for nearly 75 percent of the global 
+total. That should be a wake-up call to every one of us, 
+especially those of us that represent so many innovators.
+    And I decided to go on and look at what was happening with 
+PTAB because so many of our innovators have their patents 
+challenged. And China has been very aggressive using this. And 
+primarily ZTE and Huawei are the companies that are the 
+leaders, if you will, in challenging U.S. patents.
+    So, Ms. Elluru, as we look at this and we look at the 
+global marketplace, I want you to go a little bit further than 
+you did in your response with Senator Tillis and talk for a 
+minute about that threat that is there with China trying to 
+dominate in this space to the point that they've doubled our 
+number of filings.
+    They've got 75 percent of that global share, and then 
+they're coming at it from the other angle, trying to discredit 
+our patents.
+    Ms. Elluru. Thank you, Senator, for that question. I think 
+with respect to China's prolific patent filing, quantity does 
+not always equate with quality. However, there are implications 
+with those numbers. First, they're using it as a narrative that 
+they're winning the tech competition.
+    Senator Blackburn. Well, and that they're kind of blocking 
+competitors. Right?
+    Ms. Elluru. Absolutely. And so I think there's a real 
+parties in interest issue, too, with China abusing--using our 
+system against us.
+    Senator Blackburn. I agree with that. And I think it's why 
+we have got to push back on that narrative, because of the 
+numbers and the way they're trying to be the first to file in 
+certain areas.
+    Ms. Elluru. Agreed.
+    Senator Blackburn. Yes, I have quite a few concerns about 
+that. And what they're going to do with really pushing through 
+on this system and using the system of protection we have to 
+advantage themselves. I do want to move to one other thing. I'd 
+like for you to speak for just a minute about what we do to 
+counter this aggressiveness. As you look at it, what steps 
+would you say we need to take? And anybody else after Ms. 
+Elluru weighs in on this, anybody else that has a suggestion, 
+I'd love to hear that.
+    Ms. Elluru. Thank you, Senator. I think the first thing we 
+need to do is recognize IP policy as a national security 
+priority across our departments and agencies. And as I 
+mentioned earlier, we need a central entity----
+    Senator Blackburn. Yes. I heard you say.
+    Ms. Elluru [continuing]. With IP expertise that can 
+coordinate across the Government.
+    Senator Blackburn. Okay. Anyone else? Anything to add?
+    Mr. Salsberg. Yes. Thank you, Senator.
+    Senator Blackburn. Mr. Salsberg.
+    Mr. Salsberg. I would just quickly add that we should fix 
+patent eligibility under Section 101 for both software and 
+diagnostics.
+    Senator Blackburn. Okay.
+    Mr. Salsberg. And two, we should clarify conception law, if 
+the courts--and this body should do it if the courts in the 
+Patent Office don't apply it properly to make sure that the use 
+of AI is encouraged and adopted by American innovators.
+    Senator Blackburn. Okay. Anything else from any of you? No. 
+Thank you, Mr. Chairman.
+    Chair Coons. Thank you, Senator Blackburn. Senator Padilla.
+    Senator Padilla. Let me begin by just thanking you, Mr. 
+Chair, for holding this hearing and a special welcome to the 
+majority of the witness panel that are Californians. Not a 
+coincidence. Certainly a timely topic, since our innovation 
+ecosystem should be a prominent element of our ongoing AI 
+development and regulatory discussions taking place here in 
+Congress and within the administration. And our patent laws 
+obviously play a significant and vital role in shaping that 
+ecosystem.
+    I know there's growing anxiety about AI systems and tools' 
+potential to replace or displace the work being done by humans. 
+And the questions raised today about how much invention needs 
+to come from humans to preserve intellectual property rights 
+mirrors actually some of the discussion taking place in the 
+world of copyright law. So, I want to take the time--take time 
+right now to ask about how AI is impacting human invention and 
+innovation, and I want, to help us focus that discussion, cite 
+Stanford's AI Index 2023 Annual Report. Quote, ``AI models are 
+starting to rapidly accelerate scientific progress and in 2022 
+were used to aid hydrogen fusion, improve the efficiency of 
+matrix manipulation, and generate new antibodies.'' So, clearly 
+AI has been, and should continue to be, a great tool for 
+invention and discovery.
+    I know I've said a lot, that's just to tee up the following 
+question and I'll address it to Ms. Sheridan. Can you speak to 
+the way AI is helping not just your company, but the industry, 
+invent? And under current U.S. patent law, as you understand 
+it, how does the use of AI affect the ability of your 
+respective industries to patent those inventions?
+    Ms. Sheridan. Thank you for the question. So, I mean, in 
+our observations and use of AI, it's really been a powerful 
+tool in the inventing process. We create machine learning 
+models and then we're able to use those models in further 
+development, whether it's for chip floor planning or neural 
+network architecture search. So it's been an incredibly 
+important tool to us. I think there's two topics here.
+    One is the use of AI as a tool for innovation, and then 
+there is simply the topic of AI innovation in general and 
+making sure that the system is both balanced to encourage both 
+of those things. And the conversation we're having around 
+inventorship that really relates to this question of using AI 
+as a tool in the innovation process and the conversation we 
+have just around the general patent system and making sure it's 
+striking the right balance, that's for innovation writ large.
+    And I think I--there's a statistic from an IEEE report that 
+shows, you know, 70 percent of all AI patents are held by U.S. 
+companies as of 2018. And I think that really shows right now 
+in the U.S. innovation in AI is growing, it is flourishing. And 
+we have patenting activity that reflects that, both in the core 
+AI innovations, but also in the use of AI as a tool to 
+innovate.
+    Senator Padilla. Thank you. Clearly much to continue 
+discuss on that point, but also want to make sure I talk about 
+the innovation trends that we're seeing. AI innovation has 
+grown at a rapid pace. We all acknowledge that. And the use of 
+AI by innovators, as Ms. Sheridan just referenced, whether it's 
+individuals to startups to large enterprises, is also growing 
+rapidly.
+    One study found that AI will potentially contribute $15.7 
+trillion to the global economy by 2030. But the Patent Office 
+has found that the volume and the share of public U.S. AI 
+inventions has grown significantly in the last decade alone, 
+more than 15 percent of all published patent applications in 
+2020 were directed to AI technologies, equivalent to almost 
+80,000 patent applications, just to give you a flavor for the 
+volume here. And there's been a tremendous investment, 
+obviously, in artificial intelligence R&D among U.S. companies.
+    Question for Ms. Elluru and Ms. Sheridan: Do you believe 
+our current innovation ecosystem, including our patent laws, 
+are incentivizing AI-related innovation? Or how else would we 
+interpret the increase in AI patent applications?
+    Ms. Elluru. Thank you, Senator, for that question. I think 
+there's a lot of uncertainty in our patent laws currently with 
+respect to patent eligibility, also with respect to whether AI-
+generated inventions are patentable. I think that the common 
+view right now is that AI is a tool, a very sophisticated tool 
+that's used in the invention-creation process. I think some 
+people would say that you still need an inventor to frame the 
+problem set, analyze the output of the AI, recognize and 
+appreciate the results.
+    But I think an argument can also be made, especially in 
+litigation, that the AI is contributing to the conception 
+process itself. It's augmenting or supplanting cognitive 
+capabilities. And under current law, an AI machine cannot be an 
+inventor. So the argument would be that the AI machine was a 
+co-inventor, but it cannot be an inventor. So under current 
+laws, that's unpatentable. And I think that uncertainty leaves 
+to unpredictability, and it diminishes the patent system. Thank 
+you.
+    Senator Padilla. Ms. Sheridan.
+    Ms. Sheridan. Thank you for the question. We have seen AI 
+innovation flourishing, and I think the patent numbers are one 
+thing that reflects that. There are other ways we see it in the 
+investment. You mentioned the growth of the economy, but it's 
+really important, and I mentioned this in my opening statement, 
+that training is in place for examiners because you mentioned a 
+statistic about the growth in AI patenting at the Office. That 
+means, at some point, the majority of patent examiners are 
+going to get an invention that crosses their desk that relates 
+to AI in some way.
+    And they may not be experts in AI. They're experts in the 
+field that AI is being applied. And it is critically important 
+to make sure that examiner knows what they're looking at and 
+knows, yes, this is a deserving patent, I can grant this, or 
+no, this is an obviousness issue, or whatever it might be. 
+Training is really just a fundamental issue that to continue to 
+incentivize this level of innovation, which we already have, we 
+need to make sure that PTO examiners are given the tools that 
+they need.
+    Senator Padilla. Thank you. And last, just a comment to 
+Professor Abbott. Please don't show that cup to my kids, 
+because no doubt they're going to want to put their fruit 
+smoothies in there, and then I'm going to be stuck scrubbing it 
+out. Thank you, Mr. Chair.
+    Professor Abbott. Well, Senator, very briefly, on behalf of 
+the California academic contingent, thank you for having us and 
+for not inviting anyone from USC.
+    [Laughter.]
+    Chair Coons. Thank you. Thank you, Senator Padilla. Senator 
+Blumenthal.
+    Senator Blumenthal. Not going there. But I am going to make 
+a very non-scientific observation here, at great risk, I must 
+say, because it could lead to unwarranted conclusions. But I 
+would say, looking at the audience in this room and the group 
+waiting outside to get into the room, that the average age of 
+our audience is roughly one-half the average age of United 
+States Senators.
+    Senator Tillis. Senator Blumenthal, we confirmed that. I 
+had a show of hands.
+    [Laughter.]
+    Senator Tillis. There's only one in the audience who's over 
+the age of 35.
+    Senator Blumenthal. Which is enormously exciting for me. 
+And I make this statement not out of any ageism, but I 
+guarantee that in China or in many of the other countries that 
+are potential competitors, there are not groups like this one 
+voluntarily--voluntarily pursuing research, innovation, 
+invention in this area and coming all the way from other parts 
+of the country to listen to this kind of proceeding. So, I want 
+to thank you all for being here today.
+    And when I thank you, I'm thanking literally thousands, 
+tens of thousands, hundreds of thousands of young people who 
+are studying this area and who will be the source of invention. 
+And you're right, Ms. Sheridan, AI invention and innovation are 
+flourishing in this country, which should be a source of pride 
+and excitement to my colleagues and myself. Which brings me to 
+my first question.
+    A number of experts in the industry have suggested we ought 
+to have some kind of pause on innovation or on the release of 
+new products, put aside the issue of testing them. Even if I 
+thought it were a good idea, I don't. I think the idea of a 
+pause is totally impractical. So, let me ask any of you whether 
+you think a pause on AI--I know it's a somewhat simplistic 
+question, is a good idea and even doable?
+    Professor Abbott. Well, just to briefly address that, 
+although I think you addressed it yourself a bit. I think the 
+biggest reason a pause would be bad, as Senator Tillis 
+mentioned, is a lot of social good is going to come out of AI, 
+and with the right frameworks in place, predominantly good 
+rather than risk. And pausing it means that we're not going to 
+get this innovation and creativity and value from AI that we 
+otherwise get. On top of which, I don't think you really could 
+enforce a pause. And on top of that, other jurisdictions are 
+not going to similarly pause so----
+    Senator Blumenthal. That's my next--unless anybody 
+disagrees, just in the interest of time, I'm going to move to 
+my next question. Yes, sir?
+    Professor Villasenor. Well, I was just going to say I agree 
+that it would be a bad idea for many of the same reasons, 
+totally unenforceable, and I could list lots of reasons why 
+it's a bad idea. I don't support the idea of a pause.
+    Senator Blumenthal. And the ones who would love it the most 
+are the Chinese, our competitors in other jurisdictions, as 
+you've said, Mr. Abbott. So it's a bad idea for a lot of 
+reasons, and it's impractical and unenforceable. I want to ask 
+a question because you mentioned the word framework, Mr. 
+Abbott.
+    And in a hearing that Senator Hawley and I had in a 
+different Subcommittee of the Judiciary Committee, the Privacy 
+and Tech Committee, we focused a lot on this idea of a new 
+agency, licensing and registration, guardrails and safeguards, 
+like, maybe what I call the nutrition label, means of 
+distinguishing and stopping deep fakes, audio clones, and so 
+forth. Some of the bad outcomes of AI innovation. I have in 
+mind a framework, probably a new agency that would not in any 
+way impinge on the current patent system.
+    Do you think that kind of new agency is compatible with our 
+current intellectual property protection system? I'm going to 
+open it to anyone who wants to respond.
+    Ms. Elluru. Thank you for that question, Senator. I think 
+that we need to use existing regulators to adopt AI regulation 
+with existing authorities as in the short and medium term, but 
+I think also exploring the new agency--a new AI agency and its 
+functions is a great idea. I think it'll take time. So I don't 
+think those two recommendations are mutually exclusive, and I 
+think we need to pursue both at the same time.
+    Professor Villasenor. I'll just say I think it's important 
+to recognize the protections we already have under broader 
+existing frameworks. For example, if a company uses an AI 
+system to make hiring decisions in a manner that discriminates 
+based on a protected characteristic, that would already be 
+unlawful under Title VII of the Civil Rights Act of 1964. So we 
+already have a lot of the frameworks that would apply to AI, 
+even though they are not AI-specific.
+    Senator Blumenthal. Mr. Abbott.
+    Professor Abbott. Just to briefly weigh into that, I mean, 
+I think you are completely correct that it is the Government's 
+responsibility at some level to manage some of these risks for 
+the public and that having an administrative agency dedicated 
+to that would be helpful. I do think that as a general matter, 
+a technologically neutral approach to the issue is the right 
+way to go.
+    So, for example, if we want to, and we do prohibit 
+discrimination based on protected characteristics, that there 
+are laws that apply to companies doing that, whether you have a 
+human resource manager or an AI system operating to do that 
+sort of thing. You know, so I think in principle it's a good 
+idea, but very much depends on the details of how it's 
+implemented.
+    Senator Blumenthal. Thank you. Ms. Sheridan or Mr. 
+Salsberg, do you have observations? I'm going a little bit over 
+my time.
+    Mr. Salsberg. Sure, I agree with the other speakers. I 
+would just add that it's also important that we make sure that 
+there's public sector and private sector collaboration in 
+forming this kind of commission, or at least into the input 
+because we also want to make sure that we're not undermining 
+innovation. And I would also add just one more point, which is 
+that there are other agencies, like FDA in the case of our 
+industry, that are already looking at these issues, and it's 
+very important that they continue to be a part of this.
+    One statistic is that over 100 applications to FDA in 2021 
+have already contained AI or machine learning components. So 
+they're already looking to these issues. And if we had a new 
+commission, we'd have to make sure there's coordination between 
+those agencies.
+    Ms. Sheridan. Thank you. I'll keep it very briefly. So our 
+CEO has said AI is too important not to regulate, and it's too 
+important not to regulate well. I think our view of regulation 
+as a sectoral approach, is appropriate, and when it comes to 
+patents, that would mean the Patent Office kind of handles 
+issues related to patent policy. But we do believe it's--
+regulation is important.
+    Senator Blumenthal. I welcome all of these comments and 
+this hearing and the one that my Subcommittee did, I regard as 
+just the beginning. And I hope that we can call on all five of 
+you and many others to be involved, because we do, to take Mr. 
+Salsberg's point, want to regulate. I think everyone has agreed 
+regulation is necessary, maybe through some kind of Federal 
+agency, call it an administrative agency.
+    But we also want to continue to encourage innovation and 
+the startups and the folks who are in this room who are going 
+to be inventing stuff in their parents' garages, not to 
+deprecate anybody who's in this room, but, as you know, that is 
+a well-founded source of innovation in this country. And we 
+want to make sure that we don't heavy-handedly deprecate or 
+discourage innovation. Thanks, Mr. Chairman.
+    Chair Coons. Thank you, Senator Blumenthal. Before I defer 
+to Senator Tillis to begin a second round, I just want to 
+follow up on that point, if I could, because one of my concerns 
+about how we regulate AI is that we may end up favoring well-
+funded and established companies and make it dramatically more 
+difficult for the startup, the innovator, the category breaker, 
+smaller companies that are the backbone, often of American 
+innovation, to compete.
+    I'd be interested in any brief comments from the panel on 
+how you think we strike that balance. How do we regulate AI 
+responsibly without hampering innovation? Ms. Elluru, do you 
+want to begin? And I'll just welcome any brief comments from 
+members of the panel.
+    Ms. Elluru. Thank you, Senator. I think we do so very 
+carefully. One of the things that we've recommended at the 
+Special Competitive Studies Project is that we focus our 
+governance efforts on high-consequence use cases. To going to 
+Senator Tillis' comments earlier, AI can have benefits as well 
+as harms, and we need to focus our efforts on those benefits 
+and harms that are going to have the most significant impacts 
+on societies and individuals. So it is a risk-based approach, 
+and we need an American model of identifying what high-
+consequence use cases look like.
+    Professor Villasenor. I'll just say that, as we all know, 
+new market entrants, new companies have been the source of an 
+incredibly large amount of innovation historically in the 
+technology space in the United States. And there's no reason to 
+believe that's going to change at all in the sense of AI.
+    And given that, it would be a mistake to implement a 
+regulatory regime that, as the Senator, as you said, favors the 
+large, well-funded incumbents who have the resources to comply 
+with very burdensome regulation while disfavoring the new 
+market entrants who are going to be the future Googles of the 
+world.
+    Chair Coons. Thank you. Professor Abbott.
+    Professor Abbott. I might make a broader point, which is 
+that I think when confronted by this technological evolution 
+and how it's challenging current laws, that you should take a 
+step back and think, you know, what is the purpose of patent 
+law and what is it that we want to do. Right?
+    Someone earlier said, well, it's to benefit inventors, you 
+know, in copyright law, for example, despite the Copyright 
+Clause of the Constitution, the U.S Supreme Court has held 
+copyright law is not primarily to benefit authors, it's 
+primarily to benefit the American public by encouraging the 
+creation and dissemination of new works. So do we want a patent 
+law that is going to specifically encourage human behavior and 
+discourage people automating?
+    Do we want something that's going to benefit small 
+companies over more than bigger ones, or do we want something 
+that's just going to generate more public good and more 
+innovation? You know, I think the right place is for Congress 
+to decide what the goals of the system are and then, you know, 
+implementing it follows from that.
+    Chair Coons. Yes. The point that Professor Villasenor just 
+made was historically across technology broadly, if you come up 
+with a system that disfavors the innovator, the small, the 
+startup, then you will, as a consequence, have less innovation. 
+Would you disagree with that as----
+    Professor Abbott. No, I agree with that. I took his point 
+also to be, you know, the more regulatory requirements you 
+place, it tends to be more burdensome on small and medium 
+enterprises than companies like Novartis and Google that have 
+large teams of people that can help comply with this sort of 
+thing. So, you know, that sort of approach, I think, is more 
+warranted the higher risk use you're looking at.
+    Chair Coons. Thank you. Ms. Sheridan.
+    Ms. Sheridan. Yes, you know, to bring this into a patent 
+context, I think I support something as simple as fee 
+increases, and I mentioned that in my opening statement. But I 
+think if you want to make sure that small and micro entities 
+before the Patent Office have, you know, a robust examination 
+when they have that AI innovation before an examiner, you need 
+to make sure the Office has enough fees to do that examination, 
+and large companies like Google can support that and make sure 
+that the resources available to the Patent Office are greater 
+upfront.
+    Chair Coons. And of course, we need to permanently end the 
+pernicious practice of fee diversion.
+    Ms. Sheridan. We would agree that that would certainly be a 
+good thing to do.
+    Chair Coons. One of my goals in getting elected to the 
+Senate, literally. Mr. Salsberg.
+    Mr. Salsberg. Yes, thank you. I would just echo the 
+importance of following a fact-based and a risk-based approach 
+to this to strike the right balance, and also the importance of 
+involving the different entities within the private sector in 
+that conversation. I think it's critically important. Last 
+point I'd make is the risk-based approach is roughly what I 
+believe the European Commission is following in its proposed 
+AI--the AI Act. It's not a perfect Act, but that is the general 
+approach. And I do think it needs to be tailored to the 
+specific risks identified in each application of AI.
+    Chair Coons. Thank you. Senator Tillis.
+    Senator Tillis. I'm just imagining the scene of where 
+you're on the stump campaigning for the Senate, the applause 
+line when you talk about ending fee diversion. I'm sure that's 
+a crowd-pleaser.
+    [Laughter.]
+    Senator Blumenthal. They'd probably applaud the diversion.
+    [Laughter.]
+    Senator Tillis. But you know, back to Senator Blumenthal, 
+he looked at the crowd much the way I did, and it's good news 
+to see young people focused on this subject.
+    I think one thing we have to do here is educate the Members 
+of Congress well in advance of making any policies that could 
+have a significant impact on regulatory burden or regulatory 
+certainty.
+    And I am pleased to hear, I think, that the House--the 
+Speaker, has actually had a course curriculum put together by 
+an East Coast institution to educate our Members on AI policy 
+implications--and I think also quantum computing. I'm going to 
+reach out and see if that's something that we can get here. I'm 
+actually going to another meeting here on AI with Senator 
+Warner shortly. And one of the subjects that we're talking 
+about are the possible results from improperly developed and 
+secured models. We haven't talked about this here, but that's 
+another thing that we can't assume that all AI engines are 
+equal, all of them are fully vetted, all of them are safe.
+    I mean, that's a completely different--outside of the 
+jurisdiction of Judiciary Committee, but something we have to 
+look at and get a light touch, but start recognizing those 
+outcomes.
+    Ms. Sheridan, I should have mentioned to you--I mentioned 
+that I'm in the ChatGPT beta program, but I have also explored 
+Google's offerings, Microsoft's adaptation of ChatGPT, and the 
+dozens of other engines that are out there. One of the things 
+I'm trying to wrap my head around and honestly, it came to me 
+as I heard you all talking, is explain to me how--I'm in the 
+group of let all inventors invent.
+    I don't care how big you are, I don't care what scale you 
+have. Let's just have a healthy ecosystem with a lot of mom-
+and-pop shops and individuals having a level playing field. But 
+it would just seem to me, as this space evolves, that there 
+would--in some respects am I wrong in thinking that this could 
+be a great enabler for the mom-and-pop shop, the people that 
+don't--I worked at Wang Laboratories up in Boston in my 
+research and development. We had floors of computer scientists 
+and engineers working on things.
+    It seems like this becomes an invaluable resource to a 
+handful of really smart people without a lot of capital to 
+accelerate. Am I missing that, or would you all generally agree 
+with that? Where's the risk to the small inventor that I'm 
+missing?
+    Ms. Elluru. As I said in my opening statement, I think that 
+AI is going to be very ubiquitous in the invention-creation 
+process and just use--and so I think it will raise the boats 
+for everyone, and I think it will make mom-and-pop businesses 
+much more productive and efficient as well.
+    Professor Villasenor. I'll just say, I think that one of 
+the really amazing things about AI is it does help democratize 
+the innovation process.
+    Senator Tillis. Exactly the word I've used.
+    Professor Villasenor. Yes. It puts in the hands of a far 
+greater number of people, including people who wouldn't 
+necessarily have had the funds to do these things before, an 
+enormously powerful set of tools to innovate. And I think, you 
+know, if we play our cards right with the policy side of it, we 
+as a country will benefit from that.
+    Senator Tillis. Mr. Abbott.
+    Professor Abbott. You know, I would agree with that. And 
+mentioned that Dr. Thaler's business is a small business 
+located in the Midwest, and you know, we've seen this, 
+particularly with the generative AI systems and copyright. You 
+know, now, I can make creative things that I couldn't have made 
+before if I wasn't a major motion picture. I mean, they're 
+still pretty bad, but I have these tools and I can make 
+something with them.
+    Ms. Sheridan. I agree. And we're seeing how it can be 
+useful in the patenting process itself in terms of drafting of 
+an application, you know, how can these tools be used to help 
+someone, you know, get their ideas down on paper as a starting 
+point. So that's yet another way it can kind of help assist in 
+the patenting process.
+    Mr. Salsberg. I would agree with that as well, with the one 
+caveat that I do think it's important that you also have human 
+supervision and human review of the outputs. We've seen report 
+after report of situations where ChatGPT and the equivalent 
+were used and the results ended up being inaccurate. So, I 
+think right now it's a balance until we are more assured that 
+the outputs are reporting accurate data, even for a small 
+business, that they're actually getting the right answer that 
+they're looking for.
+    Senator Tillis. And that gets into the--whatever models 
+you're using and whether or not they're secure, whether or not 
+they're relying on a base of data that produces a safe or sound 
+result.
+    Mr. Salsberg. That's right. The quality of the data is 
+very, very important.
+    Senator Tillis. Yes. Well, I appreciate--I think this is 
+going to be one of many hearings that we have on this and maybe 
+work groups as we move forward if we can find any areas for 
+legislative action. I thank you all for your testimony today. 
+And I thank the audience for participating as well. Thank you, 
+Mr. Chair.
+    Chair Coons. Thank you, Senator Tillis. I understand 
+Senator Blumenthal would like a second-round question. Then I 
+have two or three, and then we will conclude. Senator 
+Blumenthal.
+    Senator Blumenthal. Yes. Thanks, Mr. Chairman. And I will 
+be very brief. I would ask each of you, not here, but in 
+writing afterward, to address two questions. One may seem 
+pretty simple. Mr. Salsberg, in your prepared remarks, you talk 
+about generative chemistry and how your company has developed 
+new potential treatments for malaria, which is extremely 
+promising. I would like from each of you--pick three, five of 
+the most positive developments, inventions, but emphasizing the 
+positive.
+    Because around here, we tend to be talking a lot about the 
+dangers and the harms because that's what attracts people's 
+attention, the potential for extinction. Not my word, but as 
+you know, a word used by many experts in the industry to raise 
+the potential for harm.
+    So, the second question I have for you, which doesn't 
+really relate to your reason for being here today, is jobs, 
+employment, impacts on our economy.
+    For me, what keeps me up at night, one of the main reasons 
+to stay awake when thinking about AI is the impact on our 
+economy. I think we're on the verge of another industrial 
+revolution, or the equivalent of the industrial revolution, 
+when many, many jobs were destroyed in the course of raising 
+the level of productivity for the jobs that were then created 
+as a result of industrialization. And the people who tried to 
+stop it, obviously the Luddites and so forth, failed.
+    But there was a lot of human impact there. Maybe if you 
+could address that issue and then maybe now, or in written 
+testimony--in written submissions. On the issue of open source, 
+Senator Hawley and I wrote to Meta earlier this week about an 
+AI model they released to the public in February. I'm sure 
+you're familiar with it, the LLaMA AI model. And open source 
+software obviously can be an enormously important resource for 
+innovation and invention, for science, standards, transparency.
+    It can foster competition. At the same time, even in the 
+near term, that kind of generative AI tool can be dangerously 
+abused. And we raised this issue in our letter to Meta. Once 
+the AI model and software are out there, there's no reeling it 
+back. And Meta didn't seem to put a lot of thought into the 
+risk before they released LLaMA. That's an issue, in my view. 
+Senator Hawley and my Subcommittee will consider this an issue, 
+open source, enormously promising, also potential dangers. I 
+don't know whether any of you now, or in writing, would like to 
+offer some observations.
+    Ms. Elluru. Thank you, Senator. We are working on assessing 
+the implications of open source models and trying to come up 
+with some policy recommendations and would be happy to get back 
+to your office on that.
+    Senator Blumenthal. Thank you. Any others? Ms. Sheridan, 
+did you have any thoughts?
+    Ms. Sheridan. Similar to what Ms. Elluru shared, everyone's 
+taking a look at this question right now and how it fits into 
+responsible AI innovation. So we'll certainly follow up with 
+more after the hearing.
+    Senator Blumenthal. But I think all of you would agree that 
+there's a need for thought and consideration here before these 
+models are just thrown into the wild, so to speak. Correct? 
+Thank you all. For the record----
+    Chair Coons. Thank you. Thank you, Senator Blumenthal. I'm 
+just going to ask three quick questions, then we'll conclude. 
+Ms. Elluru, if I might, just on the question of patent 
+eligibility, about Section 101 law, something we're going to be 
+turning to in a future hearing, how does the patent eligibility 
+status of core AI technologies and technologies applying AI 
+under U.S. law compare to eligibility under competitors Europe, 
+China? And is there a reason that the United States should 
+adopt a different eligibility test?
+    Is it necessary to harmonize eligibility laws globally as 
+we consider the role AI and other emergency--other emerging 
+technologies are playing in that race for critical technologies 
+in which AI is a critical, facilitating technology that you 
+described in your opening statement?
+    Ms. Elluru. That's a great question, Senator. Thank you. I 
+think, generally speaking, eligibility is not a hurdle in the 
+EU. Their law for exceptions is written pretty narrowly, and 
+it's interpreted narrowly. There's no dogma from courts 
+deciding what is patentable and what is not patentable. I think 
+China has a similar picture. They stopped--however, stopped 
+filing--publishing patent filing data in 2020. So it's hard to 
+get a picture of what's going on there.
+    However, I would say based on data from the last few years, 
+they were trending toward being more liberal in their 
+allowances for patent eligibility. That is not the case in the 
+United States. Since 2010, the patent eligibility uncertainty 
+has only expanded, and that's leading to unpredictability. And 
+so the patent incentives are----
+    Chair Coons. Eligibility has only expanded?
+    Ms. Elluru. Exceptions have only expanded.
+    Chair Coons. Exceptions have only expanded. Thank you. Just 
+wanted to make sure I understood.
+    Ms. Elluru. And so that is leading to uncertainty and 
+unpredictability and weakening the patent incentive. There is 
+no incentive to invent in the first place. And if there are 
+inventions, it's not shared with the public and is kept as a 
+trade secret. Either scenario is bad for innovation. As far as 
+harmonization, I think we need to be consistent with other 
+jurisdictions. I think different eligibility barriers for 
+companies is burdensome, which is not good for the innovation 
+ecosystem.
+    And the United States should not be an unwelcoming 
+jurisdiction with respect to patent eligibility. Patent 
+eligibility has implications on funding, job growth, the 
+economy. And so I think we need to be consistent, especially 
+with the partners and allies that we want to collaborate with.
+    Chair Coons. Thank you. Well stated. Briefly, if I could, 
+Professor Villasenor, Professor Abbott, is it something we 
+should be concerned about, that either a private actor or a 
+state actor is going to use AI to either write and file a very 
+large number of patent applications in an attempt to lock up 
+patenting opportunities, or will draft and publish a large 
+number of prior art publications to prevent inventors from 
+obtaining patents in the entire field?
+    Is this likely? Is it something we can forestall? And what, 
+if any, advice would you have for us on policy in this area, if 
+you would, Professor?
+    Professor Villasenor. So I do think it's a concern. I think 
+when there are the incentives in place which with the continued 
+advance of generative AI will be there, I think it's possible 
+that either a private entity and/or a state actor might do 
+exactly what you've asked in your question. The particular 
+policy responses depend specifically on what the pattern is. 
+It's very different if someone is publishing massive databases 
+of online preemptive prior art as opposed to filing massive 
+numbers of patent applications.
+    For the patent applications, there's some friction. It 
+costs money, for example, and patent--utility applications are 
+examined. But I do think it's sort of a watch this space area 
+where I do think we need to be agile with looking at how the 
+patent system might be used or misused in that way and 
+responding to it.
+    Chair Coons. And Ms. Sheridan, would the idea of raising 
+patent fees have any deterrent impact on this?
+    Ms. Sheridan. It certainly would. And with the caveat, of 
+course, that we're just talking about for large entities. But 
+yes, raising fees would disincentivize that sort of behavior.
+    Chair Coons. Professor Abbott.
+    Professor Abbott. Some slightly different thoughts on that. 
+I mean, if the concern is that AI is going to be generating so 
+much invention that it's filing a lot of applications on 
+legitimate ingenuity, I don't think that's a bad outcome. It 
+means we have too much good stuff. If an actor was deliberately 
+filing bogus patent applications to try and jam up the USPTO, I 
+think that's something we would have more of a technical 
+solution to. As to someone publishing a massive database----
+    Chair Coons. What would that technical solution be, sir?
+    Professor Abbott. Oh, well, I mean, if it was getting an 
+overwhelming number of kind of auto-generated applications 
+then, you know, the Patent Office is also leveraging its use of 
+AI and might have AI trying to detect kind of the use of 
+inappropriate filings that don't have legitimate claim and 
+specification structures in it, for example. You know, so 
+detecting essentially just fake applications. But you know, 
+that might be a complex subject.
+    To the extent, someone's just publishing a whole lot of 
+data to try and keep people from getting patents, that is 
+something I think patent law might have a solution to because 
+prior art has to be anticipatory and enabling. And I would say 
+if somewhere in a trillion, you know, document database, 
+somewhere there's some disclosure related to an application 
+that no one could usefully access or use, that would not be an 
+enabling anticipatory disclosure. But that might also be 
+something that if you are considering amending the Patent Act, 
+that Congress could clarify.
+    Chair Coons. Last question, Ms. Elluru, I think you raised, 
+but I've also heard about data being just as important when it 
+comes to AI as patents. And China allegedly is experimenting 
+with a new form of IP rights in data because of its relevance 
+to this race to be preeminent in AI. Should we be exploring 
+similar rights around data sets that would be designed to 
+incentivize innovation and promote disclosure and transparency, 
+some of the core goals of the patent law?
+    Ms. Elluru. That's a great question, Senator. Thank you 
+very much. In short, yes, data is a critical input to the 
+innovation ecosystem. We should be treating data across our 
+industry, public sector, and academia as a strategic asset. So 
+we need comprehensive data strategies to maximize the value of 
+that data. That comprehensive data strategy should include 
+several components, including data privacy, of course, but it 
+should also explore intellectual property rights and data.
+    Is it going to incentivize data-related inventions? Will it 
+incentivize data-driven products and services that are great 
+for the public? Is it going to help raise our economy--increase 
+our economy? It's estimated that the market for data in a few 
+years will be over a trillion dollars. Will intellectual 
+property rights and data help increase that economy? And I 
+think that is something we should explore.
+    Chair Coons. We might be able to continue that discussion 
+in our next hearing, which will be about the intersection of AI 
+and copyright. I am so grateful to Senator Tillis, his staff, 
+for making this possible. To all of you, for bearing with us, 
+for your great testimony. To the Members of the Committee who 
+came and asked questions, I will mention it's important, 
+technically, that I say Members can submit questions for the 
+record for you, the witnesses. They're due by 5 p.m. a week 
+from today on June 14th. And with that, this hearing is 
+adjourned.
+    [Whereupon, at 4:35 p.m., the hearing was adjourned.]
+    [Additional material submitted for the record follows.]
+
+                            A P P E N D I X
+
+              Additional Material Submitted for the Record
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] 
+
+                                 [all]

@@ -1,0 +1,2065 @@
+- ADVANCING VA CARE THROUGH ARTIFICIAL INTELLIGENCE
+
+[House Hearing, 119 Congress]
+[From the U.S. Government Publishing Office]
+
+                       ADVANCING VA CARE THROUGH
+                        ARTIFICIAL INTELLIGENCE
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                        SUBCOMMITTEE ON TECHNOLOGY 
+                               MODERNIZATION
+
+                                 OF THE
+
+                     COMMITTEE ON VETERANS' AFFAIRS
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED NINETEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                       MONDAY, SEPTEMBER 15, 2025
+
+                               __________
+
+                           Serial No. 119-34
+
+                               __________
+
+       Printed for the use of the Committee on Veterans' Affairs
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]       
+
+                    Available via http://govinfo.gov
+
+                                __________
+
+                   U.S. GOVERNMENT PUBLISHING OFFICE                    
+61-916                  WASHINGTON : 2025                  
+
+-----------------------------------------------------------------------------------     
+
+                     COMMITTEE ON VETERANS' AFFAIRS
+
+                     MIKE BOST, Illinois, Chairman
+
+AUMUA AMATA COLEMAN RADEWAGEN,       MARK TAKANO, California, Ranking 
+    American Samoa, Vice-Chairwoman      Member
+JACK BERGMAN, Michigan               JULIA BROWNLEY, California
+NANCY MACE, South Carolina           CHRIS PAPPAS, New Hampshire
+MARIANNETTE MILLER-MEEKS, Iowa       SHEILA CHERFILUS-MCCORMICK, 
+GREGORY F. MURPHY, North Carolina        Florida
+DERRICK VAN ORDEN, Wisconsin         MORGAN MCGARVEY, Kentucky
+MORGAN LUTTRELL, Texas               DELIA RAMIREZ, Illinois
+JUAN CISCOMANI, Arizona              NIKKI BUDZINSKI, Illinois
+KEITH SELF, Texas                    TIMOTHY M. KENNEDY, New York
+JEN KIGGANS, Virginia                MAXINE DEXTER, Oregon
+ABE HAMADEH, Arizona                 HERB CONAWAY, New Jersey
+KIMBERLYN KING-HINDS, Northern       KELLY MORRISON, Minnesota
+    Mariana Islands
+TOM BARRETT, Michigan
+
+                       Jon Clark, Staff Director
+                  Matt Reel, Democratic Staff Director
+
+                SUBCOMMITTEE ON TECHNOLOGY MODERNIZATION
+
+                    TOM BARRETT, Michigan, Chairman
+
+NANCY MACE, South Carolina           NIKKI BUDZINSKI, Illinois, Ranking 
+MORGAN LUTTRELL, Texas                   Member
+                                     SHEILA CHERFILUS-MCCORMICK, 
+                                         Florida
+
+Pursuant to clause 2(e)(4) of Rule XI of the Rules of the House, public 
+hearing records of the Committee on Veterans' Affairs are also 
+published in electronic form. The printed hearing record remains the 
+official version. Because electronic submissions are used to prepare 
+both printed and electronic versions of the hearing record, the process 
+of converting between various electronic formats may introduce 
+unintentional errors or omissions. Such occurrences are inherent in the 
+current publication process and should diminish as the process is 
+further refined.
+
+                         C  O  N  T  E  N  T  S
+
+                              ----------                              
+
+                       MONDAY, SEPTEMBER 15, 2025
+
+                                                                   Page
+
+                           OPENING STATEMENTS
+
+The Honorable Tom Barrett, Chairman..............................     1
+The Honorable Nikki Budzinski, Ranking Member....................     3
+
+                               WITNESSES
+                                Panel I
+
+Mr. Charles Worthington, Chief Technology Officer & Chief 
+  Artificial Intelligence Officer, Office of Information & 
+  Technology, U.S. Department of Veterans Affairs................     5
+
+        Accompanied by:
+
+    Dr. Evan Carey, Ph.D., Acting Director, National Artificial 
+        Intelligence Institute, Digital Health Office, Veterans 
+        Health Administration, U.S. Department of Veterans 
+        Affairs
+
+Mr. Sid Ghatak, Chief Technical Advisor, National Artificial 
+  Intelligence Association.......................................     7
+
+Dr. Mohammad Ghassemi, Ph.D., Assistant Professor, Department of 
+  Computer Science and Engineering, College of Engineering, 
+  Michigan State University......................................     9
+
+Ms. Carol Harris, Director, Information Technology and 
+  Cybersecurity Issues, U.S. Government Accountability Office....    10
+
+                                APPENDIX
+                    Prepared Statements Of Witnesses
+
+Mr. Charles Worthington Prepared Statement.......................    31
+Mr. Sid Ghatak Prepared Statement................................    32
+Dr. Mohammad Ghassemi, Ph.D. Prepared Statement..................    35
+Ms. Carol Harris Prepared Statement..............................    40
+
+                       ADVANCING VA CARE THROUGH
+                        ARTIFICIAL INTELLIGENCE
+
+                              ----------                              
+
+                       MONDAY, SEPTEMBER 15, 2025
+
+  Subcommittee on Technology Modernization,
+                    Committee on Veterans' Affairs,
+                             U.S. House of Representatives,
+                                                    Washington, DC.
+    The subcommittee met, pursuant to notice, at 2:58 p.m., in 
+room 360, Cannon House Office Building, Hon. Tom Barrett 
+(chairman of the subcommittee) presiding.
+    Present: Representatives Barrett, Luttrell, Budzinski, and 
+Cherfilus-McCormick.
+
+           OPENING STATEMENT OF TOM BARRETT, CHAIRMAN
+
+    Mr. Barrett. The subcommittee will come to order.
+    Without objection, the chair may declare a recess at any 
+time.
+    Like many who have worn the uniform and received U.S. 
+Department of Veterans Affairs (VA) health care, I know the 
+frustration when the system is slow, the paperwork stacks up or 
+the technology fails, or does not lead us in the direction we 
+are trying to go. That is why this subcommittee's work is so 
+critical and why it is important that we have the folks here 
+joining us today.
+    It is our duty to ensure VA's technology is efficient and 
+reliable, helping veterans rather than standing in the way of 
+their care. That brings us to the focus of today's hearing, 
+artificial intelligence, or AI, as it is of course commonly 
+referred to right now. For some, AI sounds like a science 
+fiction movie--we have all seen many of them--something only 
+computer scientists worry about or even something scary because 
+it is unknown and not well understood. It feels like today 
+everything is about drones or artificial intelligence. The 
+world has shifted quite a bit.
+    Within VA, AI is already being used in ways they are making 
+a real difference for our veterans. In fact, U.S. Government 
+Accountability Office (GAO) recently released a report 
+highlighting how VA is among the most active adopters of 
+artificial intelligence, from analyzing medical images and 
+workflows to creating summary diagnostic reports. The report 
+identified more than 200 reported use cases across the system. 
+As we were preparing for this hearing, my staff had told me 
+about some, even very early prototype AI systems that the VA 
+had integrated decades ago.
+    In clinical care, AI can help doctors detect cancer earlier 
+and identify warning signs of heart disease before a crisis 
+occurs.
+    A recent study led by VA researchers at the VA Long Beach 
+Health Care System showed how AI can enable providers to detect 
+the risk of calcium buildup in heart arteries. This new 
+technology could give providers the chance to prevent heart 
+attacks rather than respond to them.
+    AI is also being used to enhance mental healthcare. One of 
+the greatest challenges we face as a Nation remains around 
+veteran suicide. In 2017, VA launched the react vet program--or 
+the Recovery Engagement and Coordination for Health Veterans 
+Enhanced Treatment (REACH VET) program. This program uses an AI 
+model to help identify a very small group of veterans who are 
+at the greatest risk of suicide. The results were promising. 
+The program helped VA step in early, guiding veterans to care 
+before crisis strikes.
+    It is not just about medical breakthroughs. AI is also 
+helping doctors and nurses relieve the day-to-day burden of 
+paperwork and things that are not spending time with the 
+patients. The most common complaint from providers is that they 
+spend too much time filling forms and not enough time taking 
+care of their patients.
+    The VA is exploring AI tools, like Ambient scribes, which 
+can listen to a provider's conversation with the patient and 
+automatically create a clean and accurate medical note. On 
+average, this saves providers 2 or 3 hours per week. Now 
+multiply that across thousands of staff. It means more time 
+spent caring for veterans and less time staring at a computer 
+screen and doing paperwork. The promise of AI is real. I want 
+to be clear: Our job here is not applaud the promise. It is to 
+make sure that AI is being used responsibly, safely, and 
+transparently. Every great innovation comes with risk, and AI 
+is of course no exception. If the data is biased, the results 
+can be unfair. If safeguards are weak, privacy is compromised. 
+If the systems are not carefully monitored, mistakes could harm 
+the very people they are trying to protect. That is why the 
+governance of AI matters.
+    The VA has been one of the first agencies in the government 
+to step up a framework for how AI should be reviewed and 
+approved. By law, VA already has some of the strongest privacy 
+protections in government, and those protections extend 
+directly to AI technology in veterans health and benefits, that 
+it cannot be used by vendors for other purposes, period. We are 
+going to hear more about that today.
+    Veterans deserve to know when AI is being used in their 
+care. They deserve to know the technology has been tested and 
+that it is working for them, not against them. Congress 
+deserves to see evidence that taxpayer dollars are being well-
+spent.
+    I see today's hearing as an opportunity to highlight what 
+is working, to dig into what still needs improvement, and to 
+set clear expectations for the road ahead.
+    AI does not and will not replace doctors or nurses, nor the 
+human touch that every veteran deserves when receiving their 
+care. Done right, AI can give clinicians another tool in their 
+tool box, helping them focus more on patients and ultimately on 
+saving lives.
+    We need to find the balance between moving efficiently 
+enough to give veterans the benefit of innovation and 
+cautiously enough to make sure that no veteran is put at risk. 
+Our veterans should never be guinea pigs for untested 
+technology, but they should also not be denied the benefits of 
+safe and proven innovations.
+    This subcommittee will hold VA to that standard, and I 
+intend to make sure that we get it right. It is not about 
+technology; it is about trust. Veterans give this Nation their 
+trust through their service. When they in turn go to the VA, 
+they deserve to know that trust will be given back and honored. 
+It is our duty to make sure that that trust is never broken. I 
+know the ranking member will join me in this pursuit, and I 
+appreciate your joining me in this committee today.
+    Then, last, before I yield to her, I sat next to another 
+physician on my flight here last night. We were talking about 
+AI and actually about this hearing coming up. She was saying, 
+``We are never going to replace the element of patient care 
+that is done by doctors, nurses, and other medical 
+professionals.'' If we can expand the reach that they have, 
+look at it as, in the Army, we used to say a force multiplier 
+to deliver benefits in a more deliberative fashion that 
+benefits everybody. That is what we ought to be pursuing here.
+    With that, I will yield to Ranking Member Budzinski for 
+your opening statement.
+
+      OPENING STATEMENT OF NIKKI BUDZINSKI, RANKING MEMBER
+
+    Ms. Budzinski. Thank you very much, Chairman Barrett. I 
+appreciate our subcommittee coming together to have a frank 
+conversation about the underlying Information Technology (IT) 
+challenges at the Department of Veterans Affairs and how we can 
+support the VA in closing those gaps through technology.
+    However, today's review of artificial intelligence use 
+cases at the Veterans Health Administration (VHA) feels like a 
+distraction. VA is struggling with the basics. We are here 
+discussing the newest technologies while the VA is still 
+working with a crumbling IT infrastructure and still grapples 
+to modernize systems and workflows.
+    As the ranking member on the Technology Modernization 
+Subcommittee, I am certainly excited by the potential of both 
+AI and innovation. AI could improve some of VA's challenges 
+through large language models and higher processing speeds. We 
+have seen promising studies of providers using AI to identify 
+cancers more easily, improve patient outcomes, and ease 
+clinician burnout by taking on more administrative tasks.
+    The VA has certainly been the leader in the research and 
+development and widespread usage of a number of significant and 
+groundbreaking technologies. It stands to do so again with AI. 
+However, success in these efforts requires adequate resources 
+and investments in its budgets, its processes, and its people. 
+Veterans choose VA for the community it provides, the people it 
+employs, and for the fact that it is not driven by profit.
+    What VA does best is make veterans feel seen and 
+understood. As we have seen, AI can be a tool to provide 
+decision support, ease provider burdens, and help with 
+notetaking so doctors can be more present with the patient. We 
+should also acknowledge that it is not the answer to every 
+challenge the VA faces. Also, we as a committee and as Congress 
+need to have a real conversation about AI policy and how to 
+implement it safely. I am excited about the opportunities that 
+AI presents. I am not convinced that VA is prepared to deploy 
+this technology just yet.
+    I have a number of concerns that I hope to address today, 
+like the lack of regulation and governance structures and the 
+need for better transparency around what data is involved in 
+training such models.
+    Further, like all technology modernization efforts, 
+implementing AI successfully requires a highly skilled, 
+adequately staffed workforce. Almost 2 weeks ago, the acting 
+head of the Department on Government Efficiency stressed the 
+need to ``hire and empower great tech talent in government.'' I 
+could not agree more with that. However, I think we should all 
+note the irony of that statement considering Office of 
+Information and Technology (OIT) is proposing a massive 
+reorganization and intends to cut at least 20 percent of its 
+workforce.
+    Success is also reliant on strong IT leadership. If OIT is 
+in fact undergoing significant changes to its organizational 
+structure, priorities list, and workforce makeup, we need a 
+confirmed Chief Information Officer (CIO) at VA. This position 
+is particularly critical as we see the acceleration and 
+progression of modernization efforts at the Department. It 
+seems the VA still lacks a coherent enterprise IT strategy, 
+leaving projects AI integration to happen in silos. Without 
+stable and competent leadership, veterans and VA employees will 
+continue to be stuck with cobbled-together systems and 
+workflows that do not meet their needs rather than a solid 
+strategy for technology usage to guide its decision-making.
+    I hope that we can get some clarity into the 
+administration's plan to propose a nominee for the CIO position 
+and that one can be confirmed before many of these substantial 
+changes occur.
+    Last, I understand this subcommittee held a similar hearing 
+in January 2024, though neither I nor the chairman were on this 
+subcommittee at that point. In that hearing, data privacy was 
+an intrinsic part of the discussion. I hope that it still is 
+the case today.
+    As we become more interconnected through technology 
+advancements like artificial intelligence, we must become 
+increasingly aware of the concerns about the privacy of users' 
+data, especially in healthcare. Since this last hearing, the 
+Department has been entangled in multiple cybersecurity 
+incidents, which have potentially placed veterans' data at 
+risk. Though many of these breaches have been targeted at VA 
+contractors, veterans' data has still been implicated, and VA 
+maintains some responsibility for its safety. Though I do feel 
+that this hearing is perhaps too early, considering VA has yet 
+to develop and release some of its policies and plans to align 
+its efforts with the administration's, I hope to hear from our 
+VA witnesses today about how data privacy and security, as well 
+as the views of both VA employees and patients, will be 
+integrated into such plans.
+    Thank you and I yield back, Mr. Chairman.
+    Mr. Barrett. Thank you, Ranking Member Budzinski.
+    I join you in making sure that we have adequate ethics 
+guardrails around this, and certainly privacy is paramount in 
+that as well.
+    I now want to introduce our witnesses. Again, thank you for 
+joining us today from the Department of Veterans Affairs, we 
+have Mr. Charles Worthington, the Chief Technology Officer and 
+Chief Artificial Intelligence Officer. Thank you for being 
+here. Accompanying Mr. Worthington is Dr. Evan Carey, Acting 
+Director over the National Artificial Intelligence Institute at 
+the VA. We also have Mr. Sid Ghatak.
+    Did I say that correctly?
+    Mr. Ghatak. Yes, sir.
+    Mr. Barrett. Thank you. The chief technical advisor from 
+the National Artificial Intelligence Association. Dr. Mohammad 
+Ghassemi, assistant professor at Michigan State University. Go 
+green.
+    Dr. Ghassemi. Go white.
+    Mr. Barrett. Thank you for being here today as well.
+    Finally, from the Government Accountability Office we have 
+Ms. Carol Harris, a familiar face to all of us on this 
+committee. Thank you again for being here and joining us. She 
+is also Director of IT and Cybersecurity at the GAO. Again, 
+thank you all for being here.
+    At this time, I ask the witnesses to please stand and raise 
+your right-hand.
+    [Witnesses sworn.]
+    Mr. Barrett. Thank you. Let the record reflect that all 
+witnesses have answered in the affirmative.
+    Mr. Charles Worthington, you are now recognized for 5 
+minutes to deliver your opening statement on behalf of VA.
+
+                STATEMENT OF CHARLES WORTHINGTON
+
+    Mr. Worthington. Chairman Barrett, Ranking Member 
+Budzinski, and distinguished members of the subcommittee, thank 
+you for the opportunity to discuss the Department of Veterans 
+Affairs' use of artificial intelligence to enhance healthcare 
+and services for veterans.
+    Your steadfast support of the veterans and their families 
+is invaluable. I am joined today by Dr. Evan Carey, Acting 
+Director of the National AI Institute in the Digital Health 
+Office of the Veterans Health Administration.
+    While AI is not new to VA, recent advancements in AI 
+systems presents a tremendous opportunity to improve VA's 
+services. When used effectively, AI can improve the efficiency 
+and accuracy of many time-consuming and error-prone tasks that 
+create burdens for VA staff and veterans alike. That is why VA 
+is rapidly working to capitalize on this technology.
+    Our strategic vision is to make VA a leader in AI, 
+providing faster services, higher quality care, and more cost-
+effective operations. We will aggressively deploy this new 
+technology while remaining committed to strong controls that 
+ensure security, privacy, and effectiveness of our technology 
+systems.
+    We have distilled this vision into five key priorities. 
+First, we are aggressively expanding AI across our workforce. 
+Second, we are reimagining high-impact workflows through AI and 
+automation.
+    Third we are prioritizing investment in data and 
+infrastructure that supports those high potential use cases.
+    Fourth, we are cultivating an AI-ready workforce. Finally, 
+we are executing transparent and effective governance, an 
+essential requirement to maintain veterans' trust. We are 
+already bringing the strategy to life, making significant 
+investments in AI-driven tools.
+    In 2024, our AI inventory had 227 use cases in it, which 
+was nearly 100 more than the previous year. We expect this 
+growth to continue in 2025 as we prepare for our December 
+update to that inventory. These investments are delivering 
+tangible results. I am pleased to report that all VA employees 
+now have access to secure generative AI tool to assist them 
+with their work. In surveys, users of this tool are reporting 
+that it is saving them over 2 hours per week.
+    Additionally, over 2,000 VA staff and contract and software 
+developers are using an AI software development copilot tool, 
+enabling faster delivery of features that help veterans. AI is 
+also revolutionizing clinical care. In fact, 82 percent of VA's 
+AI use cases come from the Veterans Health Administration.
+    VA's stratification tool for opioid risk mitigation uses 
+machine learning to identify veterans at high risk of overdose 
+and suicide, enabling healthcare teams to review and intervene 
+effectively. Since 2017, the REACH VET program, as you 
+mentioned, has used AI answer algorithms to identify over 
+130,000 veterans at elevated risk, improving outpatient care 
+and reducing suicide attempts.
+    AI-assisted colonoscopy devices have increased adenoma 
+detection rates by 21 percent, reducing late stage cancer 
+incidents and mortality. Thanks to groundbreaking research by 
+folks like Dr. Raffi Hagopian and Dr. Evan Carey, the VA is 
+exploring how AI could help providers detect heart disease 
+earlier by reviewing the millions of Computed Tomography (CT) 
+scans that are not currently evaluated for cardiovascular 
+disease risk at all.
+    As we advance our AI deployments, protecting veterans' data 
+remains paramount. All AI systems approved for use at VA must 
+meet VA rigorous security and privacy standards before 
+receiving an authority to operate. Additionally, consistent 
+with Office of Management and Budget's (OMB) policy, we conduct 
+a thorough agency-level review of each AI use case to ensure 
+that it meets the government the standards.
+    We will publish the results of this review in our annual AI 
+inventory, positioning us as one of the most transparent 
+healthcare systems in the country with regards to our use of 
+artificial intelligence.
+    Despite our progress, adopting AI tools does present 
+challenges. As you mentioned, integrating new AI solutions with 
+a complex system architecture and balancing innovation with 
+stringent security compliance is crucial. Recruiting and 
+retaining AI talent remains difficult. Scaling commercial AI 
+tools incurs additional costs. This underscores the importance 
+of full congressional funding for VA to continue this critical 
+work.
+    In conclusion, the Department of Veterans Affairs is 
+committed to harnessing AI to improve the lives of veterans. 
+Through strategic investments in AI tools and workforce 
+capabilities, we strive to it deliver faster, higher quality, 
+and more cost-effective services. Your continued support is 
+vital for VA to lead in AI innovation and set a benchmark for 
+responsible AI use in government.
+    Thank you for the opportunity to discuss our strategy, and 
+we look forward to your questions.
+
+    [The Prepared Statement Of Charles Worthington Appears In 
+The Appendix]
+
+    Mr. Barrett. Thank you, Mr. Worthington.
+    The written statement of Mr. Worthington will be entered 
+into the hearing record.
+    Mr. Ghatak, you are now recognized for 5 minutes to deliver 
+your opening statement.
+
+                    STATEMENT OF SID GHATAK
+
+    Mr. Ghatak. My name is Sid Ghatak, and for almost three 
+decades, I have designed and deployed artificial intelligence 
+forecasting systems across finance, healthcare, 
+pharmaceuticals, media, and government.
+    I currently serve as the chief technology adviser for the 
+National Artificial Intelligence Association, the premier 
+organization representing 1,500 businesses in the advancement 
+of AI. I am also the founder and chief executive officer of 
+Increase Alpha, where we use artificial intelligence to predict 
+stock prices, and we license these predictions to hedge funds.
+    In the Federal Government, I served in the General Services 
+Administration for 4 years where I was a Director of the Data 
+and Analytics Center of Excellence. In that role, I coauthored 
+the Federal AI maturity model 3 years before AI took the world 
+by storm. I also contributed previous executive orders on the 
+critical issues of data privacy and data security. At Increase 
+Alpha, I increased a predict--architected a predictive AI model 
+that generates off of once thought impossible, a deep learning 
+system that is exceptionally accurate at predicting equity 
+prices. Increase Alpha far exceeds multiple industry 
+benchmarks, including accuracy, sharp ratio, and alpha 
+generation. The solution itself is not based on large language 
+models at all, but it is purpose built, designed for this 
+specific need.
+    I want to emphasize that this company and our solution is 
+completely unrelated to the Department of Veterans Affairs, and 
+it has no bearing on today's testimony. I mention it only as an 
+example of how AI, when carefully designed with a clear 
+purpose, can achieve exceptional effectiveness.
+    Taken together, this diverse background, spanning academia 
+and government and industry, has given me the rare opportunity 
+to actually build AI systems that work well in the real world. 
+I have spent my career outside the orthodox roles of academia, 
+venture capital, and Big Tech, I am also not beholden to herd 
+mentality. Instead, I bring an expert independent perspective, 
+which is especially valuable now when much of the world is 
+caught up in the art of the possible with AI when what is most 
+urgently needed is a sober understanding of what is safe, 
+practical, and ready to serve the public.
+    Large Language Models (LLM) like ChatGPT, Claude, and 
+Gemini are a powerful subset of AI, but they come with their 
+own set of problems, specifically in healthcare where 
+hallucinations and sycophancy on the part of ChatBots can lead 
+susceptible users down psychological rabbit holes, which is why 
+it is important to clarify that AI is bigger than just ChatGPT 
+and its competitors. To use an analogy, the steam engine 
+transformed society, fueling the Industrial Revolution. While 
+steam power exists today, it gave way to other forms of power 
+over time. Until steam engines were used to create the first 
+railroads, no human had ever traveled faster than a horse. This 
+new form of transportation opened the world's eyes to what is 
+possible, just as ChatGPT has shown the world the art of a 
+possible with artificial intelligence. Early train travel was 
+dangerously unreliable. Accidents were frequent, derailments 
+common, and thousands of lives were lost before rail systems 
+matured into safe networks that we know today.
+    The lesson is clear: Revolutionary technologies will evolve 
+and improve over time when the private sector and the 
+government work in collaboration. The same applies to 
+artificial intelligence. As the committee gathers information 
+on how to modernize technology at the VA, I would like to offer 
+a few pieces of advice from my many decades on the front lines 
+of building and implementing advanced analytical solutions.
+    As I mentioned, the last several years, the world has been 
+consumed with LLMs to the point where AI has become synonymous 
+with it. However, that is not the case. Many other types of AI 
+may have similarities to these models but function very 
+differently, technologies that specialize in interpreting and 
+understanding images, video, and audio, for example, or 
+technologies that are better suited to working with numbers and 
+symbols instead of words, a new technology that is yet to be 
+invented.
+    There is an old adage about, when you are a hammer, 
+everything likes like a nail. The world has become so enamored 
+with LLMs, and rightfully so, interacting with them can feel 
+magical, giving you the sense that they are real people, but 
+they are not. This may be why little to no investment is being 
+made in these other areas. At Increase Alpha, we demonstrate 
+clearly what can be done with other forms of artificial 
+intelligence. I began building our models at the same time as 
+the research underlying ChatGPT was published. I had also 
+encountered the same compute cost energy and reliance on a 
+video that we still see today. I took a different approach to 
+conserve resources and focus on simplification, using 
+predictive intelligence which led to leading AI models that use 
+a minuscule amount of data compared to LLMs and which are small 
+enough to run on a cell phone.
+    What does all this mean for the VA and the well-being and 
+care of veterans? I do not claim to know. No one really does. I 
+want to leave you with a prediction: I believe that we truly 
+are on the verge of a scale--of a revolution on the scale of 
+the Industrial Revolution. If I could leave you with one idea 
+today, it would be this: AI is much bigger than today's LLMs. 
+It is these technologies, many of which have yet to be 
+invented, that will enable the VA to execute on its mission. 
+Thank you.
+
+    [The Prepared Statement Of Sid Ghatak Appears In The 
+Appendix]
+
+    Mr. Barrett. Thank you, Mr. Ghatak.
+    The written statement of Mr. Ghatak will be entered into 
+the hearing record. I appreciate your remarks. I think, if we 
+all use ChatGPT for cat memes, it will not be meeting its full 
+potential and leaving a lot of things behind. Thank you.
+    Dr. Ghassemi, you are now recognized for 5 minutes for your 
+opening statement.
+
+                 STATEMENT OF MOHAMMAD GHASSEMI
+
+    Dr. Ghassemi. Chairman, Ranking Member, and members of the 
+subcommittee. Thank you for the opportunity to speak today. I 
+am a scientist and an entrepreneur focused on artificial 
+intelligence but especially its applications to healthcare. The 
+views I am going to share today are my own, but they are 
+informed by roles I played as a professor at Michigan State 
+University, where I direct a research laboratory on AI and its 
+applications to health sciences.
+    I am also going to bring a perspective as the founder of an 
+AI consultancy Gamut Corporation, which has helped large 
+pharmaceutical companies, insurance companies, as well as 
+health systems, plan and execute their AI strategy.
+    I want to be clear: I am not a veteran health specialist. 
+My perspective is on how artificial intelligence can broadly 
+advance care in ways directly relevant to the needs of 
+patients, and this very critically includes our veterans.
+    This subcommittee has identified in their invitation letter 
+three priorities for AI health. These were transforming 
+healthcare delivery, streamlining services, and improving 
+outcomes. I am going to frame my remarks around three roles 
+that AI can play to help with these three priorities. The three 
+roles are automation, which is reducing low-value work through 
+the use of machines; augmentation, which is having a machine 
+assist a human in a task, so to strengthen clinical decision-
+making, as an example; and insights, which is allowing us to 
+extract complex patterns from data, patterns far too complex 
+for us to discern just with our human intuitions alone. Let us 
+talk about three.
+    First, AI can transform what happens during care itself. 
+Clinicians today spend hours on paperwork, but AI scribes can 
+generate notes automatically so they can focus more fully on 
+patients. We have heard that from more than one person in the 
+conversation today.
+    In emergency rooms, decision tools powered by AI can help 
+identify the sickest patient sooner and get them treated 
+faster. Continuous monitoring assistance can pick up on the 
+early signs of decline, like sepsis, long before they would be 
+obvious to our human eyes. These tools make the encounter 
+safer, timelier, and more patient-centered.
+    Second, AI cannot only streamline what happens during care; 
+it can streamline the plumbing of healthcare itself. Missed 
+appointments waste scarce clinician time. Automated reminder 
+systems, which do not have to use a large language model or a 
+sophisticated tool like ChatGPT, can reduce these no-shows and 
+save that time. Patients also too often fall between the cracks 
+between primary care and specialist visits. AI can flag the 
+missing referral information, track follow up, and prevent all 
+these gaps. When imaging or labs reveal unexpected findings, 
+like, God forbid, a lung nodule discovered by chance, AI 
+tracking systems can ensure these findings are followed up on 
+so that the treatable conditions do not get overlooked. This is 
+how we reduce wasted effort and ensure smoother, more reliable 
+care.
+    In conclusion, artificial intelligence is not a silver 
+bullet. I say this as a person who has been working on 
+developing the methods for several years, but it can already 
+help with the subcommittee's three priorities. It works best 
+when it reduces low-value work, strengthens rather than 
+replaces clinical judgment, and turns complex data into 
+actionable insights.
+    To succeed, we need disciplined pilots, clear metrics, and 
+safeguards for safety, equity, and privacy. If deployed with 
+care, AI can return time from paperwork to patients, ensure 
+that critical findings are not missed, and support clinicians 
+in their hardest decisions.
+    I look forward to our conversation. I am grateful for the 
+invitation to be here with you today.
+
+    [The Prepared Statement Of Mohammad Ghassemi Appears In The 
+Appendix]
+
+    Mr. Barrett. Thank you, doc.
+    The written statement of Dr. Ghassemi will be entered into 
+the hearing record.
+    Ms. Harris, you are now recognized for 5 minutes to deliver 
+your opening statement on behalf of GAO.
+
+                   STATEMENT OF CAROL HARRIS
+
+    Mr. Harris. Chairman Barrett, Ranking Member Budzinski, and 
+members of the subcommittee, thank you for inviting us to 
+testify today on the use of artificial intelligence at VA. 
+Develops in generative AI, which is a subset of AI, which can 
+create text, images, video, and other content when prompted by 
+a user, have revolutionized how the technology can be used in 
+many industries, including healthcare and at VA and other 
+Federal agencies.
+    AI holds substantial promise for improving the operations 
+of government agencies. However, it can increase risk for 
+agencies and poses unique oversight challenges because the 
+source of information used by AI is not always clear or 
+accurate. Given the fast pace at which AI is evolving, the 
+government must be proactive in understanding its complexities, 
+risks, and societal consequences.
+    It should also be noted that VA has experienced 
+longstanding challenges in managing its IT projects and 
+programs, raising questions about the efficiency and 
+effectiveness of its operations and its ability to deliver 
+intended capabilities.
+    As requested, I will briefly summarize our prior work on 
+the Department's AI use and challenges, as well as principles 
+and key practices for Federal agencies, including VA, that are 
+considering and implementing AI systems.
+    In July 2025, we reported that VA's AI use cases increased 
+from 40 in 2023 to 229 in 2024. For example, VA is a developing 
+a generative AI use to automate various medical imaging 
+processes. This use may enhance VA's ability to analyze medical 
+images, integrate existing and new data workflows, and create 
+summary diagnostic reports.
+    In the health and medical sector, agencies have adopted 
+generative AI to advance medical research and improve public 
+outcomes, including at VA. It is also worth noting that, of the 
+229 use cases, 64 percent were considered to be high-impact AI, 
+meaning that their capabilities impact the rights and/or safety 
+of individuals or entities. Looking at just VHA, that 
+percentage increases to 72 percent.
+    The Department also reported to us a number of challenges 
+they face in using and managing generative AI. The full list is 
+noted in my written statement. I will only highlight a few 
+here.
+    Challenge one, complying with existing Federal policies and 
+guidance. VA officials shared that the existing Federal AI 
+policy can present obstacles to the adoption of generative AI, 
+including in the areas of cybersecurity, data privacy, and IT 
+acquisitions.
+    Challenge number two, having sufficient technical resources 
+and budget. Gen AI can require infrastructure with significant 
+computational and technical resources. VA noted challenges in 
+obtaining or accessing the needed technical resources and also 
+in having the funding necessary to establish those resources 
+and support desired AI initiatives.
+    The last challenge, hiring and developing an AI workforce. 
+Among other things, the VA reported difficulties in 
+establishing and providing ongoing education and technical 
+skills development for their current workforce.
+    VA officials told us they are working toward implementing 
+the new AI requirements in OMB's April 2025 memorandum. Doing 
+so will provide opportunities to develop and publicly release 
+AI strategies for identifying and removing barriers and 
+addressing the challenges I noted.
+    Additionally, the GAO has identified a framework of key 
+practices to help ensure accountability and responsible AI use 
+in the design development, deployment, and continuous 
+monitoring of AI systems.
+    Our framework is organized around four complimentary 
+principles that address governance, data, performance, and 
+monitoring. Consideration of the key practices in this 
+framework can help VA as it considers, collects, and implements 
+AI systems.
+    Last, I will mention that we have 26 open recommendations 
+to VA concerning the management of its IT resources. If the 
+Department implements these recommendations effectively, it 
+will be better positioned to overcome its longstanding 
+challenges in managing its IT resources and will improve its 
+ability to address the rapidly changing AI landscape.
+    That concludes my statement. I look forward to addressing 
+your questions.
+
+    [The Prepared Statement Of Carol Harris Appears In The 
+Appendix]
+
+    Mr. Barrett. Thank you, Ms. Harris.
+    The written statement of Ms. Harris will be entered into 
+the hearing record.
+    Again, thank you to all of our witnesses.
+    We will now proceed to questioning. I will recognize myself 
+for 5 minutes to begin questioning.
+    I am going to start with Mr. Worthington. The VA--I know we 
+have got a lot of concerns obviously about data security, data 
+privacy, what can be used, what can be modeled off of veteran 
+information. The VA requires vendors to sign contracts directly 
+stipulating that it will prevent secondary use of veteran data. 
+Number one, can you kind of walk us through how that works? How 
+are you making sure that companies actually follow that rule?
+    Mr. Worthington. Thank you for the question, Chairman 
+Barrett. I think it is extremely important that everyone 
+understands that there is not a second set of rules for AI 
+systems. In the VA, we have a very clear and stringent set of 
+rules around both security and privacy for any technology 
+system. Before we bring a system into production, we have to 
+review that system for its compliance with those requirements 
+and ensure that the partners that are working with us on those 
+systems attest to and agree with those requirements. AI systems 
+receive an authority to operate just like any other system 
+would before we would put veteran data into the system.
+    Mr. Barrett. Okay. I appreciate that. For example, though, 
+I know the large language model, kind of most stereotypical use 
+of AI, we are going to be looking at, you know, the millions of 
+records that the VA has and then modeling patient outcomes from 
+that and then looking kind of retrospectively to see where 
+people are on that spectrum today, and say, ``Well, we know, if 
+this condition led to 10 years later a worse condition over 
+here, how can we stem that off earlier?'' If we allow an AI 
+vendor to have access to that to cultivate that knowledge, is 
+that something that could be then used as an outgrowth in 
+another way for, like, another I guess research tool for other 
+things? For example, if a person has a predisposition to kidney 
+disease or diabetes or something like that, we can look 
+retrospectively at their health record to show that they had 
+certain indicators ahead of time, would not we want that to be 
+to the benefit of all medicine and not just within the VA?
+    Mr. Worthington. Yes. I think that, as you are mentioning, 
+in the training phase of models, which VA does occasionally do, 
+that, if we work with a vendor, we make sure that the 
+agreements say that any protected health information can only 
+be used for that specific purpose that we have contracted with. 
+Often, that is taking place in environments that VA already 
+runs and controls.
+    Now when we are talking about using a large language model, 
+those are provided typically via one of the big cloud service 
+providers, and those environments are set aside in a VA 
+boundary that basically the vendor has to attest that they 
+already meet VA security requirements. When we are sending 
+information to a large language model to get feedback back from 
+that model, we are using a version of that model that has been 
+made secure to meet government standards.
+    Mr. Barrett. Okay. I will fully confess that I am not an 
+expert on this. Would a large language model allow a 
+practitioner to say, ``I have a veteran presenting with these 
+conditions; what are the risk factors that I ought to look for 
+to, maybe run tests that would not ordinarily be otherwise top 
+of mind?''
+    Mr. Worthington. There could be a variety of AI approaches 
+for a use case like that. Dr. Carey may just quickly provide a 
+couple of examples of those sorts of decisions support type use 
+cases.
+    Dr. Carey. Thank you. It is a fantastic question. I think 
+there are two versions of that. As you note, there are tools 
+where providers can get general advice, and they might 
+specifically articulate the needs of the veteran and for the 
+conditions that they are looking for, to point out to sort of 
+follow the different procedures that are recommended and 
+identify the guidelines. Those tools are available within the 
+VA.
+    Mr. Barrett. Okay. After the passage of the The Sergeant 
+First Class Heath Robinson Honoring our Promise to Address 
+Comprehensive Toxics (PACT) Act, you know, we have this burn 
+pit registry and everything, and they are supposed to track 
+veterans and conditions that arose from that. Obviously, the 
+specific information about a particular veteran we want to have 
+protected and not revealed. If there are outcomes of that that 
+could be useful to, you know, human medicine in total, is there 
+a way for that to be revealed?
+    Mr. Worthington. Yes, thank you for the question. VA does 
+have, as you know, a very large amount of health data. We have 
+a robust----
+    Mr. Barrett. More than anybody in the world, I think.
+    Mr. Worthington. That is right. We have a robust tradition 
+of research to advance not just VA healthcare but healthcare 
+overall. We are seeing an increasing interest in using that 
+data for AI-driven research papers, like the one that Dr. Carey 
+recently wrote.
+    Mr. Barrett. Okay, and that is the--like the benefit but 
+also the concern is we obviously have a large repository of 
+medical data. If that is being used or to the benefit of a 
+curator of artificial intelligence, should the VA be, you know, 
+should that be brought into account for the cost of services 
+and other things like that? What I do not want is for a 
+provider to come in and leach that information out solely for 
+their benefit while not providing a benefit to the VA and to 
+the veterans as well.
+    Mr. Worthington. We agree.
+    Mr. Barrett. Thank you.
+    Ranking Member Budzinski.
+    Ms. Budzinski. Thank you, Mr. Chairman.
+    Dr. Carey and Mr. Worthington, thank you so much for both 
+being here.
+    I understand that several of VA's AI use cases, like the 
+ambient dictation pilot, intend to use an opt-in practice for 
+consent. For systems that are perhaps less directly veteran-
+facing, like the use of AI in benefits determination or medical 
+assessments, how is the Department educating veterans on these 
+use cases to ensure for their awareness?
+    Mr. Worthington. At a very high level--and thank you for 
+the question. We are using our AI use case inventory as the way 
+to catalogue all of the uses of AI and make sure that that is 
+publicly available. When there is not, as you mentioned, like a 
+one-to-one interaction that provides the opportunity to explain 
+directly what is happening, as there is in many healthcare 
+settings, what we are relying on is our publishing of the 
+overall AI strategy and use case to explain how the Department 
+is using AI in various products and services.
+    Ms. Budzinski. Okay. Other than that general awareness--for 
+veterans, is there any way to kind of draw their attention to 
+this so that they know that, you know, what their situation 
+might be using to inform an AI model?
+    Mr. Worthington. We are always listening for veterans' 
+feedback through a variety of mechanisms and reacting to that. 
+That is true of AI situations and non-AI situation. We 
+certainly want to monitor this for AI in particular, because I 
+think maintaining veterans' trust in VA as we introduce these 
+new technologies is going to be critical.
+    Ms. Budzinski. Okay. Then, Mr. Worthington, I am glad that 
+you and your teams are committed to the transparency in AI use 
+cases at the Department. That is commendable. However, there 
+have been reports that certain employees had access to certain 
+data sets and systems within VA's enclave which may have been 
+used for AI related operations. I have some specific employees 
+I want to mention by name, and then I have some questions for 
+you. I am going to ask about these employees: Justin Fulcher, 
+Sahil Lavingia, Christopher Roussos, Payton Rehling, Cary 
+Volpert, or Jon Koval. I am just looking for, like, a yes or no 
+to these questions. Did you ever work with any of those 
+individuals?
+    Mr. Worthington. Yes, I have come across several of them.
+    Ms. Budzinski. Okay. Are or were these individuals 
+affiliated with the Department of Government Efficiency (DOGE)?
+    Mr. Worthington. I am not exactly clear on the 
+relationship. I believe they are VA employees. At points, they 
+were introduced as also being part of the DOGE movement.
+    Ms. Budzinski. Okay. Did any of these employees access data 
+sets that included VA patient medical records or other 
+personally identifiable information?
+    Mr. Worthington. I am not aware.
+    Ms. Budzinski. Okay. Were you or anyone you know ever asked 
+to duplicate data sets by these employees?
+    Mr. Worthington. No, I was not.
+    Ms. Budzinski. Okay. Can you commit to me that no veteran's 
+data was removed from the Department of Veterans Affairs?
+    Mr. Worthington. As far as I understand, all the VA 
+employees follow all the VA IT security processes and 
+procedures and that was a key priority for all of us and always 
+is a key priority.
+    Ms. Budzinski. Okay, Okay. Mr. Worthington, almost 2 weeks 
+ago, the Acting Director of the U.S. Digital Service noted that 
+the Federal Government needs more tech employees to--and to 
+hire and empower great talent. Do you believe that VA shares 
+that sentiment?
+    Mr. Worthington. Yes, I do. I think having technologists in 
+government is critically important, as is having great 
+researchers and doctors.
+    Ms. Budzinski. Okay. Secretary Collins has often noted the 
+importance of VA employees in direct care roles, disregarding 
+the importance of what he might call support employees in the 
+provision of this work. Do you believe that this type of 
+rhetoric has helped the Department to recruit and retain tech 
+talent?
+    Mr. Worthington. I think the good thing about working at 
+the VA is our mission is so clear. The mission of serving 
+veterans is the most important one that I have worked on in my 
+tech career. I think there are many technologists across the 
+country that are willing to sign up for that mission. I love 
+trying to recruit those people on my team.
+    Ms. Budzinski. Ms. Harris, real quick on a follow up, GAO's 
+Artificial Intelligence Accountability Framework notes the 
+workforce is a key component to ensuring effective AI 
+application. How does a highly skilled technical workforce 
+ensure adequate scalability of AI applications and protection 
+of veteran data?
+    Mr. Harris. Well, while there is great excitement around AI 
+because of the potential to improve operations, there is also 
+significant concerns, the ones that I articulated earlier about 
+cybersecurity, intellectual property, as well built-in bias in 
+the AI system, as well as environmental and other concerns. We 
+want to make sure that we have a workforce that understands 
+both the potential of these systems but also understands the 
+risks in the AI well. Having those two are vital.
+    Ms. Budzinski. Okay. Thank you.
+    I yield back.
+    Mr. Barrett. Thank you.
+    Mr. Luttrell.
+    Mr. Luttrell. Mr. Chairman.
+    Mr. Ghassemi, you laid out a well-articulated plan of 
+attack on how the VA could tackle this healthcare, artificial 
+intelligence kind of combining of forces. The problem is you 
+have--it sounds like you never worked with the U.S. Government 
+because that is what kills this effort is the U.S. Government.
+    Ms. Harris, your opening statement was very well-
+articulated, and you hit every single point precisely. The 
+problem is we have such an issue with the VA because it is a 
+big machine, and we are trying to compound--we are trying to 
+bring in artificial intelligence to streamline the process. You 
+have 172 different VA facilities, plus satellite campuses, and 
+that is 172 different silos. They do not work together. They do 
+not communicate very well with each other. We have spent almost 
+$16 billion trying to push electronic healthcare records across 
+multiple facilities. Now we are going to try to tackle 
+artificial intelligence as well. In 2024, we had 229 AI 
+actions. Correct, Mr. Worthington?
+    Mr. Worthington. Yes, approximately.
+    Mr. Luttrell. What site did that come from, because I would 
+dare say that that did not come from all or every single VA 
+installation. That sounds like to me that that is collected 
+from, like, a few. Is that correct?
+    Mr. Worthington. We did attempt to have a pretty 
+comprehensive review process to gather all of the uses of AI 
+across the country. We----
+    Mr. Luttrell. I did not get anything out of that. That was 
+almost a yes-or-no question, but go ahead again.
+    Mr. Worthington. Yes, I believe that AI is being used at 
+facilities across the country. This inventory covers those 
+uses.
+    Mr. Luttrell. The conversations I have with multiple sites 
+is they do not have artificial intelligence capabilities 
+because their sites are not ready or they do not have the 
+infrastructure in place to do that, because we keep compounding 
+software on top of software. Some sites cannot function at all 
+with the new software they are trying to implement. That is a 
+pretty fair statement, correct?
+    Mr. Worthington. I would agree that having standardized 
+systems is a challenge at the VA. There is a bit of a 
+difference in different facilities. Although I do think many of 
+them are starting to use AI-assisted medical devices, for 
+example, and a number of those are covered in this inventory.
+    Mr. Luttrell. How do we fix this problem? Again, I am going 
+to ask you, sir, because I usually ask everyone who sits in 
+front of me from the VA: How would we fix this problem? Mr. 
+Ghatak and Mr. Ghassemi have probably thought about this quite 
+a bit before they showed up in front of us, but again they have 
+not--actually, I do not know this for certain--I may be 
+throwing this at you, and course correct me if you would like--
+but I do not think they have had to deal with the U.S. 
+Government and also the VA. Now how long have you been in this 
+position, sir?
+    Mr. Worthington. I have been at the VA nearly 10 years and 
+this position for about 2 years as chief AI officer.
+    Mr. Luttrell. Okay. What comes first, the communication 
+between the sites and the ability to ask that information 
+questions, which we do not do that or we do not have the 
+ability to do that--do we run the implementation of artificial 
+intelligence in parallel with that, or do we have to do one 
+before the other?
+    Mr. Worthington. In my personal opinion, we cannot wait, 
+because AI is here, whether we are ready or not. Increasingly, 
+every solution we buy from our partners in the private sector 
+is going to have it embedded inside of it. I think our 
+challenge is we need to come up with very good standard 
+templates that every site can use and allow those standard 
+tools to be deployed, things like the VA GPT school that I 
+mentioned, which is now available to every VA employee in a 
+standard way.
+    Mr. Luttrell. Since the Department of Veterans Affairs 
+houses the most important data set on the planet arguably, and 
+everyone wants to touch it, including Dr. Ghassemi at Michigan 
+State--I would have to guess, especially when you were at 
+Massachusetts Institute of Technology (MIT) in Cambridge I am 
+sure. Pretty impressive resume, sir. Everybody is trying to 
+touch it. Everybody wants to be a part of it, and you have to 
+deal with every single subject-matter expert that walks through 
+your door that says, ``I am the best.'' I can assure you every 
+one of those corporations and companies walks into our office 
+as well. Question is, who is it? Who do you vet, and who is 
+going to touch it, because it cannot be everybody? We do not 
+have it--in my personal opinion, that I am not aware of, we do 
+not have an enclave that can house all of that information 
+where everybody can get in there and not steal it. 
+Implementation of artificial intelligence, which we do not have 
+the ability to regulate, so the question is who will do that, 
+or do you have the AI system itself regulate itself?
+    Mr. Worthington. I think it is a great observation and 
+concern; it is one we share. The reason why we are putting 
+every AI use case through that review process is to ensure 
+that, if it is being used with real veteran data, that it meets 
+VA's stringent security requirements.
+    Mr. Luttrell. Thank you, Mr. Chairman. Thank you, sir.
+    I yield back.
+    Mr. Barrett. I thank you.
+    Ms. Cherfilus-McCormick.
+    Ms. Cherfilus-McCormick. Thank you so much, thank you so 
+much.
+    I wanted to kind of piggyback off of some of Representative 
+Luttrell's questions. You mentioned standardization, and we 
+know now, from doing this for years, that standardization in 
+the VA has not been our strong suit. Are there any things that 
+you have learned from our lack of standardization for all of 
+our electronic medical records? We have been consistently 
+having an issue there with standardization. I have two 
+questions for you first. Are you confident that you can 
+actually have a standardization mechanism that will be able to 
+have a smooth transition implementation?
+    Mr. Worthington. Thank you for the question, and it is a 
+critical topic for us. I do think that the investments this 
+committee has helped make over the past years has helped with 
+that. We do have, for example, in the space of decision 
+support, we have an investment that allows AI-assisted decision 
+support tools to be purchased or built and then deployed to 
+every Veterans Health Information Systems and Technology 
+Architecture (VistA) site and also to every----
+    Ms. Cherfilus-McCormick. I guess my question really is, 
+like I said, we have been trying to be successful here, and it 
+has not been. How confident are you now? What are the missing 
+links for standardization when it comes to AI, because AI has 
+some complexities that I think we can all acknowledge, 
+especially when it comes to biases? If we are going to 
+implement AI into our system, we want to make sure that we have 
+precise implementation, and we are also taking into 
+consideration responsible implementation of AI, which actually 
+addresses the biases immediately, that deals with security 
+immediately. I was going to go into those questions first, but 
+I said, ``I cannot even go there if we do not deal with 
+standardization.'' What have we learned? How confident are you, 
+or should we really be taking some time to step back and look 
+at standardization again but through a magnifying glass to make 
+sure we get it right?
+    Mr. Worthington. I do feel confident that we are 
+approaching this in an enterprise approach. That is why 
+partnerships with the VHA and our colleagues, like Dr. Carey, 
+is so critical. AI is both a new area--it is one we need to be 
+able to experiment in before we commit to that enterprise 
+solution. Then, once we commit, we do not want to have, you 
+know, every medical center buying its own version of the same 
+product. We have got a pretty careful balance of that 
+innovation. We are doing structured pilots to help us decide 
+what to purchase and what to deploy to the enterprise.
+    Ms. Cherfilus-McCormick. I wanted to talk more about the 
+implementation development because we know that most of the 
+biases will be during the development phase and also the 
+implementation phase. What are you doing specifically to make 
+sure that these biases are not being inherently put into the 
+system, to make sure that all of our veterans actually have 
+access to equitable care?
+    Mr. Worthington. That is a great question, and it is a 
+concern that is of critical importance for us as we adopt AI. 
+The Office of Management and Budget in their policy has 
+determined, defined high-impact use cases. Those would be 
+things involved in healthcare benefits. They have provided us a 
+set of requirements that any AI needs to meet before they are 
+used. Some of the highlights of those are pre-deployment 
+testing to make sure the model performs well across different 
+demographic groups, but not just pre-deployment testing but 
+also ongoing monitoring so that we can make sure that the 
+models perform over time.
+    Ms. Cherfilus-McCormick. Could you tell me how you are 
+doing that? We have been reading--I have been loving this AI 
+conversation I have been looking at through all spectrums. One 
+of the articles that I am going to actually ask to put into the 
+record, it talks about the clinical decision-making the 
+implementations. I also want to hear from Ms. Harris about, are 
+we matching the need right now to identify bias?
+    Mr. Worthington. I do believe that we, through the AI use 
+case control process and the governance we put in place with 
+our partners in VHA, that we do have a commitment from all the 
+use case owners to meet those standards in the OMB 
+requirements.
+    Ms. Cherfilus-McCormick. Ms. Harris, what would you like to 
+see when it comes to actually being vigilant on making sure 
+that we are not utilizing a system that has inherent biases in 
+it?
+    Mr. Harris. For sure. One thing to note--even Mr. 
+Worthington talked about these high-impact systems--VHA has 72 
+percent of their AI use cases as being high impact, so meaning 
+that they affect people and entities and their rights. That is 
+quite a number, a high number of systems that have that 
+implication. Yes, you have to go through additional hoops, as 
+he had mentioned, with pre-deployment and during monitoring to 
+make sure that, you know, rights are not compromised. The VA 
+has told us that there is a need for more privacy officers to 
+handle increased data security demands. We would like to see 
+more of those positions being filled to ensure that privacy is 
+really taken care of as it relates to these high-impact uses 
+case.
+    Ms. Cherfilus-McCormick. I have a few seconds left, but I 
+did want to ask Dr. Ghassemi, are there any cases that you have 
+seen in public usage or private usage where they have done an 
+excellent job in actually removing the biases, identifying them 
+immediately?
+    Dr. Ghassemi. There is a really active domain of 
+researchers who are trying to solve exactly that problem. A lot 
+of the studies are happening with, for example, the Medical 
+Information Mart for Intensive Care (MIMIC) data base, which is 
+based out of the Boston area, something that I actually 
+contributed to.
+    To summarize, I think the broader domain of that research 
+activity, in a few words, is it is possible to do it, but it 
+requires a thoughtful approach, and each data set is different. 
+What you have in the VA and the bias in that will be different 
+than if you are doing it in the context of a data set in Boston 
+with somewhere else.
+    Ms. Cherfilus-McCormick. Thank you. I yield back. Thank you 
+for your time.
+    Mr. Barrett. Thank you.
+    I will recognize myself for 5 minutes again.
+    Dr. Ghassemi, I wanted to come back to you, and you have 
+listened to some of the back and forth testimony and some of 
+the responses, both from the VA and from members here. You are 
+outside of the VA. You have the benefit of being removed from 
+some of this internal stuff. I am curious, you know, kind of 
+what your thoughts are to me, and to Mr. Luttrell's point is we 
+are trying to upgrade this legacy health record system on a I 
+guess parallel track, to use the term you used. We are trying 
+to modernize some of the easy lift items that can be done 
+through assisted technology or augmented, I think somebody said 
+in their testimony as well. Do you think that is achievable, 
+number one? You know, how do you think that the VA can do this 
+responsibly to make sure that it is done in the appropriate 
+way?
+    Dr. Ghassemi. The short answer is I think it is achievable. 
+How can it be done responsibly? It has to start first and 
+foremost with unification of the data. I heard earlier 
+conversations that----
+    Mr. Barrett. In unification of data, are you talking about 
+having a singular system, or are you talking about the data 
+itself not being fragmented across all these different VA 
+facilities?
+    Dr. Ghassemi. What I mean is that you need a singular way 
+to represent the data so that an AI system that operates in one 
+system can move and operate in another. Now, actually the good 
+news is that artificial intelligence can be used to help with 
+that unification process itself. I will speak about some of my 
+external experiences here and say why I think there is room to 
+be helpful. It is a common problem in industry for corporations 
+to deal with. They have a large data base of customers, or 
+health systems have a large data base of patients, and they 
+want to enrich that with some data from outside of their 
+ecosystem. That is a common problem. There is reconciliation of 
+two complex data sets where column names in these data sets do 
+not match, representations of values inside these data sets do 
+not match. There is so many things that are misaligned here. 
+The same, instead of thinking of AI's role as coming in after 
+you gave done a very heavy duty and costly and inglorious task 
+of aligning that data, you can use the AI tools to perform 
+alignment of that data, right, to ask how you do the 
+combination of the information, the debiasing considerations 
+that were brought up earlier, and so on.
+    Mr. Barrett. Thank you, I appreciate that. How do you think 
+balancing, you know, the access to this and the benefit that 
+comes from it with keeping the paramount interest of, you know, 
+veterans' consent and privacy and all of those things that we 
+cannot miss the mark on as well? I would be interested in your 
+thoughts on that.
+    Dr. Ghassemi. Yes, I think disclosure is really important 
+transparency. You know, when we go to a supermarket and we turn 
+around an item that is on the shelf? On the back is disclosed 
+to us through nutrition label what are the contents inside of 
+the food that we purchase. In a similar way, if you think of 
+care that we receive as an item, then you need a similar way to 
+inspect what components, which parts of the ingredients in that 
+care came from which sources. Did they come from a model that 
+Oracle trained on their Cerner ecosystem? Did they come from an 
+academic paper? Did they come from a clinician's judgment? The 
+traceability of that decision and making it transparent back to 
+the end consumer of the care, which is the veteran, that is 
+really important because they have a right to know how care is 
+being derived prior to consenting to receive it. I think that 
+transparency sits at the beating heart of doing this correctly. 
+The reason there is trepidation, as far as I understand it, 
+behind the use of AI--not just in healthcare by the way, but in 
+a large number of industries, is because the transparency is an 
+issue, right? It could tell you--hallucinations--I think maybe 
+some of you have heard of this concept. If you have not, I will 
+quickly define it--is when a model basically confidently tells 
+you the wrong answer. There are ways to overcome this. They 
+require some expertise, but it is solvable.
+    Mr. Barrett. Thank you. I appreciate it. I am out of time.
+    Ranking Member Budzinski, I will recognize for you 5 
+minutes.
+    Ms. Budzinski. Thank you very much. September is Suicide 
+Prevention Month, and our full committee has not had a hearing 
+for many years on suicide prevention, which I think is 
+something that is a very big missed opportunity and something I 
+am hoping we can be getting to.
+    I can use this opportunity at this subcommittee hearing to 
+ask the VA some questions around suicide prevention and then 
+the connection with AI and how AI might be a useful tool 
+suicide in prevention, like the REACH VET algorithm model, in 
+particular. My question is for actually Dr. Carey. Can you 
+speak to how VA is planning to use its AI inventory to build on 
+this success?
+    Dr. Carey. Absolutely. Thank you so much for the question. 
+As you know, it is incredibly important that we take care of 
+our veterans, especially in this context of mental health 
+needs. We have been operating the REACH VET model for a number 
+of years, as Mr. Worthington noted, since 2017 successfully. We 
+have updated that model recently to ensure it has ongoing high 
+performance of identifying identification of veterans at the 
+highest risk core tiles. Then we implement that model as part 
+of a multipronged strategy to ensure veterans get the care they 
+need. Their receipt of the care they need does not depend only 
+on identification of an AI tool or being flagged as being at 
+high risk. It is just one of many strategies we use to ensure 
+that veterans are regularly screened, and, as you noted, in the 
+opening statement, if anybody falls through the cracks, that 
+they have an opportunity to still receive the care they need.
+    Ms. Budzinski. One of my concerns is just we do not want to 
+prevent human involvement from being a part of suicide 
+prevention. We can use AI as a tool. How does the VA look at-
+you know, working to ensure that human involvement is not 
+eliminated as a part of the critical nature of the care that we 
+want to be able to provide to a veteran with suicide prevention 
+efforts?
+    Dr. Carey. Thank you. That is a fantastic question, and we 
+completely agree. I want to make it absolutely clear that VA 
+clinicians deliver care to veterans. VA clinicians are in 
+control of the care that veterans receive. While we do use AI 
+tools to surface risks and ensure that all veterans are flagged 
+to get the care they need, what happens next is that a human at 
+the VA reaches out to that veteran, where it first reviews the 
+information and decides if outreach is necessary.
+    Ms. Budzinski. Okay. Could you commit for me that the VA 
+will never use AI, including chatbots, as a substitute for 
+frontline staff responders for mental health crisis 
+intervention?
+    Dr. Carey. We do not currently have any plans that I am 
+aware of to use AI as a treatment device instead of providers. 
+I personally have been a part of many conversations where we 
+ensure that continues to be the case.
+    Ms. Budzinski. Okay. Thank you.
+    Ms. Harris, could I ask, what risks are posed by using AI 
+tools for use cases other than their intended purpose, like the 
+use of chatbots that were developed for programs like Veterans 
+Readiness and Employment (VR&E) or home loans and crisis 
+intervention support?
+    Ms. Harris. Well, I think that there would be significant 
+risks in a tool that is not being performed as intended.
+    For example, if you are using an AI chatbot for one 
+program, but, you know, obviously if you use that same bot for 
+another program, it is going to produce poor results. That is 
+because the data that was used to teach that tool would not be 
+relevant to the expected role for that other program. We would 
+certainly think that there is significant risks in dealing with 
+what you have asked.
+    Ms. Budzinski. Okay. Then I guess the VA's Office of 
+Inspector General reported in April that Veterans Benefits 
+Administrations (VBA) automated decision support tool was 
+ineffective in helping claims processes assign the correct 
+effective date for PACT Act claims. This resulted in at least 
+$7 billion in improper payments. I worry that VHA's rushed to 
+expand automation will lead to similar errors that could put 
+patients at risk.
+    Shifting gears, Mr. Worthington, how do you plan to measure 
+accuracy of implemented and piloted AI tools?
+    Mr. Worthington. That is a great question. I think by 
+having all of the use cases documented, along with the owner of 
+each AI use case, we will have the consistency plans available 
+to us so that then our colleagues and VHA can be regularly 
+following up to see what they found. We agree that continuous 
+monitoring of AI in production is very important.
+    I do think our healthcare system is particularly well 
+designed to monitor for those sorts of things because that is 
+part of what they do in a non-AI context as well.
+    Ms. Budzinski. Okay. Just a quick follow up. At the hearing 
+on this topic, Mr. Worthington, last year, you mentioned that 
+the key to understanding how any particular AI may introduce 
+biases is to understand the data that it was trained on and the 
+outputs it provides.
+    Considering the efforts of this administration to limit 
+what kind of data may be available in research data sets or in 
+a veteran's medical file, do you believe that this will impact 
+the efficacy of VA's AI tools?
+    Mr. Worthington. I would have to get into the specifics of 
+any given case. I think, at a high level, it is very important 
+to understand what data went into the training and do pre-
+deployment testing before we use something in production.
+    Ms. Budzinski. Okay.
+    I yield back.
+    Mr. Barrett. Thank you. I will now recognize Mr. Luttrell.
+    Mr. Luttrell. Thank you, Mr. Chairman.
+    Dr. Ghassemi, I am fascinated with your previous statement. 
+Clean data, dirty data, retrospective, prospective data, the 
+transfer of information is very challenging. I am not going to 
+say impossible. I will never say that.
+    Currently, the VA does not house all of veterans' data. It 
+sits in the different silos of the different hospitals. I think 
+the death records lives in one spot, but everyone else is 
+assimilated, right? Correct?
+    Mr. Worthington. There is definitely siloed systems, 
+although our health data is pretty consolidated.
+    Mr. Luttrell. Consolidated. It make senses to me--and I do 
+not know the price tag on this, if this is even possible, that 
+if all the data lived in one enclave, the entire veterans space 
+lived under just say the VA data center--which I do not even 
+know what that would look like--but then the VA could control 
+access to anybody, including all the sites, plus every single 
+university and research student, whoever it wants to touch it, 
+and they could prevent the ability for data theft. Is that a 
+fair statement? Anybody?
+    Mr. Worthington. I do think that consolidating data into 
+secure platforms can be a good enabler of this sort of 
+technology for sure.
+    Mr. Luttrell. Are we even having that discussion inside the 
+VA? You can say no.
+    Mr. Worthington. Yes, we were actively working and, in 
+fact, have done a number of data consolidations to make that 
+possible.
+    Mr. Luttrell. I have been here for about 3 years now, and 
+the word ``activity working,'' it does not really resonate in 
+this place.
+    Are we really wanting to do this, or is this just something 
+that is just something you are throwing at me?
+    Mr. Worthington. No, I think like an example, like the 
+REACH Vet model that we just tried is a model that was created 
+based on that consolidated data set that draws on data from all 
+the different medical centers as well as other data into one 
+central data warehouse.
+    Mr. Luttrell. Everybody can touch it. If somebody in 
+Conroe, Texas, a VA facility that I have says, ``Hey, look I 
+have a veteran here that has this,'' they can reach out to that 
+data center, populate from tens of trillions of data points, 
+and send back, ``Hey, most likely this is what we are looking 
+at''?
+    Mr. Worthington. Well, when you are using it--it gets 
+complicated quickly, as you know.
+    Mr. Luttrell. I know.
+    Mr. Worthington. Different use cases have different degrees 
+of connectedness. In terms of building places where we can 
+create those models that we just went through like REACH VET, 
+we do already have investments that help with that.
+    Mr. Luttrell. Okay. If we do have the willingness to do 
+this, somebody is going to have to have the software in place 
+to do it. Mr. Ghatak, I am not going to let you out of here 
+without saying something. Okay.
+    Who can handle something like this? Company-wise, industry, 
+whoever? Do not say Michigan State because you are sitting in 
+the room with me.
+    Mr. Ghatak. No, sir. I would say University of Michigan 
+where I went to school, they could probably take----
+    Mr. Luttrell. They are pretty good, too? Okay. Yes.
+    Mr. Ghatak. Sir, I spent 4 years in the Federal Government, 
+I have worked in the General Services Administration under 
+Technology Transformation Services (TTS), and I had the 
+opportunity to work with a lot of different agencies in that 
+capacity. What I saw there was what I had seen throughout my 
+commercial career, which is, as I put in my written statement, 
+organizations have way more data than they realize. That data 
+exists in more locations than they are aware of. That data 
+means different things in different places at the fundamental 
+root level in terms of where the data exist. The number one 
+reason that projects fail--if it is an AI project or if it is 
+any other technology project, it is because of the data. If the 
+data is not there, then no matter what position, what solution 
+you have, it will never really work. It is sort of like what we 
+call lipstick on a pig, in other words. You have to solve that 
+problem.
+    Now, who solves that problem? That is an enterprise wide 
+problem. That is an enterprise wide acknowledgment that the 
+problem exists, and then an enterprise wide effort to make the 
+investment in solving that problem from a----
+    Mr. Luttrell. Multiple agencies are going to have to come 
+in on top of this.
+    Mr. Ghatak. I would say multiple departments within an 
+agency would report up through a business leader, a chief 
+officer, reporting up at the highest level to make that 
+investment and to solve that problem at the fundamental level. 
+Because if it is not solved fundamentally, then the underlying 
+structure of any solution will not work.
+    Mr. Luttrell. I am going to make the assumption, which I 
+probably should not. This is what is going to have to happen. 
+Yes?
+    Mr. Worthington. I think we need to find ways to get the 
+exact right piece of data from everything that VA and U.S. 
+Department of Defense (DOD) have access to the person that 
+needs it at the right time. I actually think that search-and-
+summarization capability is actually one of the things that we 
+are excited about AI may be being able to help with.
+    Mr. Luttrell. This is what AI will do for us.
+    Mr. Worthington. I think it could help with those sorts of 
+things to sift through all----
+    Mr. Luttrell. I do not think the human brain could process 
+that many data sets.
+    Mr. Worthington. That is right. This is one of the areas we 
+are actively investing in.
+    Mr. Luttrell. I should not say that. The human brain could 
+absolutely do anything; the human being cannot.
+    Mr. Worthington. I think it gives an opportunity to empower 
+people to act on more information than they would be able to do 
+manually.
+    Mr. Luttrell. That is something that--the kind of 
+downstream I would like to--you know, I would like to see the--
+how we are laying this out. At the end of the day, as 
+appropriators, in Congress, we are going to have to put a 
+dollar sign on that. Since Electronic Health Record (EHR) is 
+really giving us a great time, you kind of see where I am going 
+with this?
+    Thank you, Mr. Chairman. I yield back.
+    Mr. Barrett. Yes. Thank you, Mr. Luttrell.
+    I will recognize myself for 5 minutes.
+    Mr. Ghatak, you mentioned in your testimony, kind of 
+compared AI to the early days of the railroad, right? You know, 
+this was a great advancement, but it was fraught with all these 
+problems and challenges, and, you know, over time was 
+perfected--and I guess never truly perfected, but certainly 
+perfected to the degree that we can reasonably get to.
+    I think when it comes to artificial intelligence, there is 
+a greater risk than the occupants of a train rolling down a 
+railroad track. This could have catastrophic outcome if left, 
+you know, unguarded or breach of information or, you know, who 
+knows what. It could be truly problematic.
+    What are the guardrails that you think are appropriate and 
+necessary right now to make sure that that does not happen with 
+AI? Like how are we going to look over the horizon of what 
+could happen and prevent it from happening on the front end?
+    Mr. Ghatak. Thank you. It is a great question. I think it 
+is a very--it is sort of a fundamental question in terms of AI 
+and what it is and what it is not. As I said in my statement, 
+when you interact with AI tools today, it feels like you are 
+talking to a human being, but it is not a human being. It has 
+no moral conscience. It does not really understand the words 
+that is actually being given to it or the words that it is 
+producing.
+    There are a number of ways to really address this issue. 
+One of those is really understanding the difference between 
+correlation and causation without getting into great 
+statistical detail.
+    There is nearly a perfect correlation--as I put in my 
+testimony--in terms of the number of Google searches for the 
+word ``Nintendo'' and the number of librarians in the State of 
+Michigan. Most statistical models will rely on this relation--
+since I am using correlation--to identify patterns and then 
+reproduce those patterns in its output. What is really needed 
+is an emphasis on causation, understanding the inputs that a 
+model uses, how those inputs relate to each other, and how 
+those relate to the outputs.
+    There is very little effort being placed on that type of 
+technology and that type of investment because the dollars are 
+already chasing correlation. Correlation is a lot easier to do 
+than causation. That is where a lot of the investment goes.
+    I would say one of fundamental areas is--and I do not know 
+if it can be mandated, but I would think--I would hope that the 
+scientific and research community would realize that is the 
+power of AI, is to unlock the true potential of it, is to 
+really mimic how a human mind works, which is it sees something 
+and reacts to it, and then produces something else. To mimic 
+that with other technology would be great.
+    The other thing that I did want to say is going back to the 
+data itself. A model is trained. I think the question was 
+around bias, right? The data that the model is given, if it is 
+not inherently debiased, if a lot of thought is not given to 
+the data itself that the model receives, then the output will 
+be inherently biased. It could be biased because of the way it 
+is engineered. It could be biased because of the data that it 
+is given. Because these models are so complex and so little 
+work has been done to understand how they work, we will never 
+know if it is the model that is biased or the data that was 
+biased.
+    Again, a principle, a development principle, a research 
+principle, a standardization that is adopted by industry to 
+address all of those would be very helpful.
+    Mr. Barrett. Yes, thank you. That correlation-causation 
+thing is really important. I would bet or guess that a lot of 
+information at the beginning is correlation information. Over 
+time, maybe it can be perfected or improved into the causative 
+and non-causative, you know, parts of that. At the beginning, 
+it is ``if this, then that'' correlation. We may not know why 
+or how, but these things, especially when you are dealing with 
+medical information over a long period of time, and, you know, 
+if enough people come in with a correlating condition, enough 
+times we begin to believe it is causative for a risk factor for 
+something else.
+    I guess how do we--like how do we make good decisions based 
+on that? You know, because we may not even understand the 
+causative nature of it, but if it is enough correlation data 
+there, maybe it does tell us something.
+    Mr. Ghatak. Absolutely. I think correlation has a purpose 
+in terms of identifying patterns or identifying things that are 
+outside of the norm, absolutely. It is a wonderful tool, and it 
+is a critical tool. My position would be that it just cannot be 
+used in a vacuum. That coupled with understanding causation and 
+investing more in those types of tools to help understand the 
+true relations between these things and why one is causing the 
+other.
+    As I mentioned, there is no obvious relationship between 
+Google searches and the number of librarians. The problem is 
+correlation models do not know that.
+    Mr. Barrett. Right.
+    Mr. Ghatak. They just Google that number and run with it. 
+There are a lot of crazy examples that I can give, but that is 
+a good one and relevant. That emphasis on causation I think is 
+really one that has not been invested in as much as it should 
+be. It is something that we found that is really helpful and 
+powerful that helps us understand our models and why they came 
+that way. Also, when they fail, we understand why they fail. It 
+is likely because something broke in that relationship or did 
+not work in that relationship.
+    Mr. Barrett. Thank you. I am out of time.
+    I am going to yield to Ranking Member Budzinski for 5 
+minutes.
+    Ms. Budzinski. Thank you. Thank you, Mr. Chairman.
+    I wanted to ask Ms. Harris some follow-up questions. Just 
+as ranking member, I have spent now a lot of time asking the VA 
+how it plans to juggle all of these different numerous 
+modernization efforts the Department is pursuing, like 
+Electronic Health Record Modernization (EHRM), of course, 
+supply chain, HR modernization, and now AI.
+    I was wondering if you could speak to the types of 
+resources that the VA will need to consider having at its 
+disposal as it deploys these systems.
+    Ms. Harris. Yes, thank you for the question. I mean, first 
+and foremost, I think it is hugely problematic that VA does not 
+have a permanent CIO in place. I know you mentioned it in your 
+opening statement. That is because, under his or her 
+leadership, that is where these, you know, various IT 
+modernizations get prioritized, you know. Plus our work has 
+shown that, you know, when you have that steady leadership 
+over, you know, 3-to 4-year time period, that is essential for 
+any successful major IT initiative, including all the AI 
+initiatives, Zero Trust, EHRM, all those things.
+    The second point, OIT is obviously going through a major 
+restructuring right now. They have requested almost $300 
+million less in Fiscal Year 2026 than the previous year. They 
+have also reduced staff by 931 staff.
+    Now more than ever, VA needs to fully understand--have the 
+comprehensive grasp on the skills and inventories that they 
+have in their IT workforce, and at this time, they do not know 
+that. They are not in a position to effectively assess what 
+they need if they do not know what they have. That is an open 
+recommendation that we have. That is first and foremost 
+something that they need to do in order to answer your 
+question.
+    Ms. Budzinski. Okay. Thank you.
+    Mr. Worthington, in GAO's review from July, VA noted that 
+it faced challenges with implementing generative AI use cases 
+due to a lack of sufficient technical resources and budget. 
+Your testimony highlights this issue of cost as well.
+    As it is currently funded and staffed, do you believe the 
+VA is capable of implementing additional AI-use cases on top of 
+these other modernization efforts that I have mentioned.
+    Mr. Worthington. Thank you for the question, Ranking 
+Member. I do think that we have the resources to implement 
+high-impact AI, but it is a tough environment. Everything is 
+competing for resources with each other. It is a matter of 
+prioritizing those things that are going to have the most 
+amount of veteran impact with the resources that we have.
+    Ms. Budzinski. Okay. I guess I just go back to what Ms. 
+Harris' recommendation, getting a CIO I think is really 
+critical to helping to prioritize all of these different really 
+important initiatives.
+    Mr. Worthington, do you believe the VA's challenges with 
+retaining AI experts and other technical employees may impact 
+VA's ability to scale AI tools and other modernization efforts?
+    Mr. Worthington. I definitely think having AI experts on 
+the VA side will help make us a better purchaser of these 
+solutions, and it is an important thing for us to do. We have 
+invested a lot in trying to build this team, especially through 
+partnerships with things like the United States Digital Corps 
+and the Presidential Innovation Fellows Program. You want to 
+lean into those sorts of partnerships to help us bring AI 
+experts in, in addition to those that we can recruit ourselves.
+    Ms. Budzinski. Okay. Great. Mr. Worthington, we are hearing 
+reports of VA's ambient listening pilot will be rolled out 
+across ten facilities by the end of this year. What is the 
+Department determining a success for this pilot?
+    Mr. Worthington. Thank you for the question. I will let Dr. 
+Carey give you some details on that.
+    Dr. Carey. Thank you for the question. We have established 
+a series of criteria and evaluation as we roll this out that is 
+focused on user acceptance testing, veterans' perceptions of 
+the tool as its used in their ongoing trust, and the care they 
+receive, and just overall performance of the tool. We will 
+continue to monitor that during the pilot.
+    Ms. Budzinski. Okay. Are you measuring clinician burden, 
+and what are your targets?
+    Dr. Carey. We are--I can take that for the record to get 
+back to you with the specifics. In general, we are measuring 
+clinician burden and getting clinician feedback both 
+synchronously and through survey mechanisms to understand the 
+impacts.
+    Mr. Worthington. One thing I would love to add is the users 
+of our generative AI tool that is deployed to the workforce as 
+a whole, in a survey, 73 percent of the users of that tool 
+reported that they were able to spend more time fully using 
+their professional skills, and 68 percent reported increased 
+job satisfaction. I do think that these tools are going to be 
+value adds to our workforce to help them do more to serve 
+veterans.
+    Ms. Budzinski. Well, it seems to me that we are placing a 
+massive burden on providers. That is a concern. From being an 
+ambassador to the tool for veterans, ensuring the tools' 
+accuracy, and then reporting and mediating issues as they 
+arise, how is the Department working to be proactive about 
+receiving feedback from providers on issues with this tool?
+    Dr. Carey. Thank you. That is a great question. Just 
+briefly, I want to recognize, it is so important to balance 
+that survey response burden and burden on the clinicians that 
+are also providing care. We have been partnering with 
+clinicians on day one, designing this as they are the end 
+users. We just have ongoing conversations with them about the 
+best way to balance those competing things.
+    Ms. Budzinski. Okay. Thank you. I yield back.
+    Mr. Barrett. Thank you. I will--we are going to close here 
+momentarily. I just have one quick question.
+    On that listening and automation transcribing, is that file 
+of that recording, is that deleted after it is transcribed? Is 
+there some protection there to make sure that it is not 
+archived or held someplace?
+    Mr. Worthington. We do have procedures on that and would be 
+happy to get that back to you for the record. I do not have the 
+details in front of me, but, yes, we have got that accounted 
+for.
+    Mr. Barrett. Thank you. I will now yield to Ranking Member 
+Budzinski for her closing statement.
+    Ms. Budzinski. Okay. Thank you. I just want to thank the 
+panelists for being here today to have this conversation. I do 
+very much appreciate it.
+    I do want to go back, though, Mr. Worthington, to a 
+conversation we had earlier about the six VA employees that had 
+been working with DOGE and a letter that Ranking Member Takano 
+had written to the VA back in June. We have not gotten a 
+response. We just want similar transparency around access to 
+the data that those six employees had. That is veterans' data. 
+I just want transparency and some additional information on 
+that.
+    Anything you can do to help us get a response back for 
+Ranking Member Takano would be very appreciated. Thank you.
+    Mr. Barrett. Thank you, Ranking Member Budzinski. I 
+appreciate it.
+    I want to thank our panelists and the members today for 
+joining us for this important hearing. This hearing has made 
+clear that VA has both made a tremendous--we have had both a 
+tremendous opportunity as well as a serious responsibility when 
+it comes do using artificial intelligence within the VA.
+    VA has access to some of the best data and research assets 
+in the world. I know Mr. Luttrell pointed that out in some of 
+the questioning too.
+    If used the right way, AI could help doctors detect cancer 
+earlier, prevent heart disease, cut down on paperwork, and, 
+most importantly, save veterans' lives and hopefully prevent 
+veteran suicides in the process.
+    Programs like REACH Vet show us it is possible when 
+technology is focused on the mission, and we can improve 
+outcomes. Let us be clear, AI is a tool, not a replacement for 
+doctors, nurses, and care teams. I appreciate the VA 
+stipulating that we are not trying to replace practitioners 
+with AI tools.
+    It can help identify risks earlier and provide clinical 
+pathways, but it cannot and must not replace treatment or human 
+judgment. That is the reason we send doctors to college, right, 
+because we want them to be experts on what they are doing.
+    Veterans deserve both cutting-edge technology and a strong 
+medical team working together on their behalf. That means 
+vigilance and self-responsibility--and a sense of 
+responsibility are still required. If VA fails to safeguard 
+veterans' data or to maintain transparency, trust will be lost, 
+and progress is going to stall.
+    This subcommittee will continue to hold the VA accountable 
+to ensure that AI enhances care, reduces red tape, and 
+strengthens--not substitutes--the human touch needed in 
+medicine.
+    I ask unanimous consent that all members have 5 legislative 
+days to revise and extend their remarks and include extraneous 
+material.
+    Without objection, that is so ordered, and this hearing is 
+adjourned.
+    [Whereupon, at 4:23 p.m., the subcommittee was adjourned.]
+
+=======================================================================
+
+                         A  P  P  E  N  D  I  X
+
+=======================================================================
+
+                    Prepared Statements of Witnesses
+
+                              ----------                              
+
+               Prepared Statement of Charles Worthington
+
+    Chairman Barrett, Ranking Member Budzinski, and distinguished 
+Members of the Subcommittee, thank you for the opportunity to testify 
+regarding VA's opportunity to use Artificial Intelligence (AI) to 
+improve health care and services to Veterans. Your longstanding support 
+of Veterans and their families is greatly appreciated. I am accompanied 
+today by Dr. Evan Carey, Acting Director of the National Artificial 
+Intelligence Institute, Digital Health Office, Veterans Health 
+Administration.
+    While the use of AI at VA is not new, recent advances in the 
+capabilities of AI systems represent a significant opportunity for VA. 
+Many of the most time-consuming tasks VA employees and Veterans must 
+now complete manually could, in the future, be made dramatically faster 
+and more accurate when assisted by effective AI-enabled software. VA, 
+in partnership with industry, academia, and other Federal agencies, is 
+working rapidly to seize this opportunity.
+    VA's strategic vision is to make the Department an industry leader 
+in AI that improves Veterans' lives by delivering faster, higher 
+quality, and more cost-efficient services, with strong governance and 
+trust.
+    We have distilled this strategy into five execution priorities: (1) 
+expanding AI access across the VA workforce; (2) reimagining high-
+impact workflows with AI and automation; (3) ensuring the most 
+promising AI projects receive prioritized investment; (4) building an 
+AI-ready workforce; and (5) running transparent and effective AI 
+governance.
+    To realize this strategy, VA is increasingly investing in AI-driven 
+tools that enhance productivity, reduce manual burden, and improve 
+service delivery to Veterans. In VA's 2024 inventory, we reported 227 
+AI use cases, representing nearly 100 more use cases than in the 2023 
+report. We expect this increase to continue in our 2025 report.
+    These investments are yielding tangible results. In one highly 
+anticipated use case, VA now offers an on-network generative AI tool 
+known as VA GPT. Over 85,000 users are engaged with the tool which 
+assists with basic administrative tasks such as drafting emails and 
+summarizing documents and meetings notes. A survey of VA GPT users 
+found that the tool saves its users an average of 2.5 hours per week, 
+with more than 80 percent agreeing that it has made them more 
+efficient.
+    Furthermore, we have successfully piloted and scaled an AI-assisted 
+software development tool called GitHub Copilot, now used by over 2,000 
+developers within OIT and our contract partners. These software 
+developers indicate this AI-assisted software development tool is 
+helping them deliver capabilities faster and saving them over 8 hours a 
+week. This includes faster development of Veteran-facing features on 
+VA.gov, making it easier to refill prescriptions and apply for 
+benefits, and the improvement of backend systems that accelerate claims 
+processing.
+    AI-augmented tools are also driving improvements in clinical care, 
+with 82 percent of the over 200 use cases in VA's inventory coming from 
+the Veterans Health Administration (VHA). VA's Stratification Tool for 
+Opioid Risk Mitigation (STORM) uses machine learning to identify and 
+mitigate the risk of overdose and suicide among Veterans prescribed 
+opioids or with opioid use disorder. By summarizing patient risk 
+factors, STORM identifies high risk Veterans for review by expert 
+health teams. Health care teams reviewed the care of over 28,700 
+Veterans identified by STORM in the past year alone, decreasing 
+mortality in high-risk patients by 22 percent. Since its launch in 
+2017, the REACH VET program has used tools like STORM to identify and 
+bring clinical attention to nearly 135,500 Veterans, improve outpatient 
+care, reduce suicide attempts, and decrease the number of mental health 
+emergencies.
+    Additionally, VHA has deployed 84 AI-assisted devices that have 
+been authorized by the , including one that uses computer vision to 
+enhance clinical outcomes such as early tumor detection. One VA study 
+showed that using AI-assisted colonoscopy devices increased adenoma 
+detection rates by 21 percent, which is associated with lower late-
+stage cancer incidence and reduced mortality.
+    VA is committed to implementing innovative, AI-powered tools that 
+advance health care for Veterans, improve the experience of care teams, 
+and optimize VA's workforce. As part of this commitment, VA will pilot 
+ambient scribe technology at 10 sites beginning this fall. Ambient 
+scribe is an AI technology that listens to and documents the 
+conversations between health care providers and patients. AI processes 
+a transcript of the encounter to generate secondary outputs like 
+clinical encounter notes and coding recommendations. It has the 
+potential to transform health care by reducing clinician burdens, 
+enhancing efficacy, improving patient care quality and experience, and 
+engaging with clinical decision support services. Ultimately, it allows 
+the provider to spend more time face-to-face with Veterans.
+    As we progress, protecting Veterans' data privacy while responsibly 
+leveraging AI's potential is a top priority for the Department. Like 
+all software approved for use at VA, AI systems must meet VA's rigorous 
+security and privacy standards before they receive an Authority to 
+Operate. Additionally, consistent with the Office of Management and 
+Budget memorandum M-25-21, our team is facilitating an agency-level 
+review of each AI use case to ensure the tool meets the Government's 
+standards for innovation, governance, and public trust. Each use case 
+undergoes an AI Impact Assessment to identify and mitigate risks.
+    Further, VA has established and is committed to maintaining an 
+annual AI use case inventory. First released in December 2024, we are 
+on track to provide an update to this inventory in December 2025. This 
+inventory positions VA among the most transparent health care systems 
+in the country regarding AI.
+    Looking ahead, our focus over the next 12 months will be 
+implementing our strategic execution priorities by expanding employee 
+access to generative AI to 100 percent of VA staff, reimagining high-
+impact workflows, prioritizing investment strategy to high return-on-
+investment AI solutions, releasing new AI training opportunities for 
+employees, and maintaining transparent and effective AI governance by 
+ensuring 100 percent of VA's high-impact AI use cases meet the 
+Administration's standards.
+    Despite our industry-leading progress, VA acknowledges the adoption 
+of AI tools presents significant challenges. Among them is integrating 
+new AI solutions within VA's highly complex existing system 
+architecture, and as a Government entity entrusted with Veterans' 
+private information, balancing adoption of new and emerging tools and 
+vendors with the Government's strict security compliance standards is 
+crucial. Retention of AI experts is a challenge. Finally, scaling 
+commercial AI tools will incur additional costs, making it an ongoing 
+effort to align these costs with available technology funding. Cost is 
+one of many reasons the Department encourages Congress to fully fund VA 
+next year in lieu of another continuing resolution.
+    In conclusion, VA remains steadfast in its commitment to harnessing 
+the power of AI to improve the lives of Veterans. By strategically 
+investing in AI tools and enhancing our workforce's capabilities, we 
+aim to deliver faster, higher quality, and more cost-efficient 
+services. While we acknowledge the complexities and challenges inherent 
+in this transformation, we are dedicated to maintaining the highest 
+standards of governance, transparency, and ethical use of AI. With your 
+continued support, we can ensure that VA leads in AI innovation and 
+sets a benchmark for responsible AI use in public service. Thank you 
+for the opportunity to testify before you today. I look forward to your 
+questions.
+
+                    Prepared Statement of Sid Ghatak
+
+    Chairman Barrett and distinguished Members of the Subcommittee:
+
+    Thank you for the opportunity to testify. My name is Sid Ghatak, 
+and for almost three decades, I have designed and deployed artificial 
+intelligence and forecasting systems across finance, healthcare, 
+pharmaceuticals, media, and government.
+    I currently serve as the Chief Technical Advisor for the National 
+Artificial Intelligence Association, the premier organization 
+representing over 1,500 businesses in the advancement of AI, and am 
+also the founder and Chief Executive Officer of Increase Alpha, LLC, 
+where we use artificial intelligence to predict stock prices and 
+license these predictions to hedge funds.
+    In the Federal Government, I served in the General Services 
+Administration for almost 4 years, where I was a Director of the Data & 
+Analytics Center of Excellence. In that role, I co-authored the Federal 
+AI Maturity Model 3 years before AI took the world by storm and 
+contributed to previous Executive Orders on AI, specifically on the 
+critical issues of data security and privacy.
+    At Increase Alpha, I architected a predictive AI model that 
+generates alpha once thought impossible--a deep learning system 
+exceptionally accurate at predicting equity prices. Increase Alpha far 
+exceeds multiple industry benchmarks, including accuracy, Sharpe ratio, 
+and alpha generation. This solution is not based on Large Language 
+Models but is a purpose-built predictive engine designed for a very 
+specific need.
+    I want to emphasize that it is entirely unrelated to the Department 
+of Veterans Affairs and has no bearing on today's testimony. I mention 
+it only as an example of how AI, when carefully designed with a clear 
+purpose, can achieve exceptional effectiveness.
+    Taken together, this diverse background--spanning academia, 
+government, and industry--has given me the rare opportunity to actually 
+build AI systems that work well in the real world. Because I have spent 
+my career outside the orthodox worlds of academia, venture capital, and 
+big tech, I am also not beholden to herd mentality. Instead, I bring an 
+expert, independent perspective which is especially valuable now, when 
+much of the world is caught up in the `art of the possible' with AI, 
+when what is most urgently needed is a sober understanding of what is 
+safe, practical, and ready to serve the public.
+    LLMs like ChatGPT, Claude, and Gemini are a powerful subset of AI, 
+but they come with their own set of problems, specifically in 
+healthcare, where hallucinations and sycophancy on the part of chatbots 
+can lead susceptible users down psychological rabbit holes. Which is 
+why it's important to clarify that AI is bigger than just ChatGPT and 
+its competitors.
+    To use an analogy: the steam engine transformed society, fueling 
+the Industrial Revolution. While steam power still exists today, it 
+gave way to other forms of power over time. Until steam engines were 
+used to create the first railroads, no human had ever traveled faster 
+than a horse. This new form of transportation opened the world's eyes 
+to what was possible, just as ChatGPT has shown the world the art of 
+the possible with AI. But early train travel was dangerously 
+unreliable. Accidents were frequent, derailments common, and thousands 
+of lives were lost before rail systems matured into the safe networks 
+we know today.
+    The lesson is clear: revolutionary technologies will evolve and 
+improve over time when the private sector and government work in 
+collaboration. The same applies to AI.
+    As the Committee gathers information on how to modernize technology 
+at the VA, I would like to offer three pieces of advice from my decades 
+at the front lines of building and implementing advanced analytical 
+solutions:
+
+        1. Expand the playing field: For the last several years, the 
+        world has been consumed with Large Language Models to the point 
+        where AI has become synonymous with it; however, that is not 
+        the case. Many other types of AI may have similarities to these 
+        models, but function very differently. Technologies that 
+        specialize in interpreting and understanding images, video, and 
+        audio, for example. Or technologies that are better suited to 
+        working with numbers and symbols instead of words. And new tech 
+        that has yet to be invented.
+
+        There is an old adage that when you are a hammer, everything 
+        looks like a nail. The world has become so enamored with LLMs, 
+        and rightfully so. Interacting with them can feel magical, 
+        giving you the sense that they are real people, though they are 
+        not. This may be why little to no investment is being made into 
+        these other areas.
+
+        At Increase Alpha, we have demonstrated clearly what can be 
+        done with other forms of Artificial Intelligence. I began 
+        building our models at the same time as the research underlying 
+        ChatGPT was published. I had also encountered the same compute, 
+        cost, energy, and reliance on Nvidia GPUs issues we still see 
+        today. I also took a different approach to conserve resources 
+        and focus on simplification using Predictive Intelligence, 
+        which led to lean AI models that use a minuscule amount of data 
+        compared to LLMs, and which are small enough to run on a cell 
+        phone.
+
+        Over 4 years, the success of my models directly contradicts the 
+        notion that massive amounts of data--along with their 
+        associated infrastructural and operational costs--are needed to 
+        build AI solutions that are extremely accurate, innovative, and 
+        reliable. Not to mention that they also consume ever-increasing 
+        amounts of energy and utilize models that produce outputs that 
+        are often incomprehensible and unexplainable. I have proven, in 
+        one of the most competitive and challenging tech arenas, that 
+        modern AI does not require all this if it is designed correctly 
+        from the outset. The Administration, in its recent AI Action 
+        Plan, does not limit AI to the narrow definition of LLM and 
+        provides support for numerous types of technologies to be 
+        developed.
+
+        2. Correlation is not Causation: The difference between 
+        correlation and causation is best understood through an 
+        example. There is a near-perfect correlation between the number 
+        of Google searches for the word `Nintendo' and the number of 
+        librarians in Michigan. It doesn't take a rocket scientist to 
+        understand that there is no actual relationship between the two 
+        trends.
+
+        Why is this so important? Because AI solutions today, such as 
+        ChatGPT, are based on correlations, even if those correlations 
+        are nonsensical. It is why they hallucinate (make up answers 
+        based on nothing), and why they have an inherent bias. While 
+        they give the impression of understanding and reasoning through 
+        their rapid generation of coherent text, they have no idea what 
+        the words themselves actually mean. They excel at predicting 
+        the next best word based on a vast network of correlations and 
+        are even better at providing the user with the answer they want 
+        to hear, even if it's not accurate.
+
+        To achieve true artificial intelligence, these systems would 
+        also have to know why the next word was predicted, which cannot 
+        currently be explained. They would need to know the truth 
+        behind every output. This is causation. That is how the human 
+        mind works. Until AI systems can understand and explain the 
+        `why' of their inner workings and outputs, and become reliable 
+        sources of truth, they will never be truly intelligent. I 
+        remain hopeful that I will experience this in my lifetime, but 
+        it has not happened yet, nor is it likely to happen soon.
+
+        3. Data, Data, Data: AI is an engine that requires data. But 
+        not just any data. Accurate, functional AI systems that produce 
+        explainable and auditable outputs require vetted and cleaned 
+        data, which we feel 100 percent confident using. By some 
+        estimates, the Federal Government has more data than any other 
+        organization in the world.
+
+        As a former Federal employee, I had the opportunity to work on 
+        projects that required this type of clean data to achieve their 
+        envisioned solutions. What I saw firsthand was the same thing I 
+        had seen in every other large organization. There was always 
+        more data than anyone realized. No one really knew where all of 
+        it was located or what it meant, and the sheer effort to 
+        gather, clean, and organize that data for proper use would have 
+        been enormous and cost-prohibitive.
+
+        This is one of the key reasons many AI and data analytics 
+        projects fail. Unless an organization is willing to make the 
+        investments in organizing and cleaning their data, these 
+        solutions--to put it bluntly--will be like lipstick on a pig. 
+        They will not work over the long run, and even when they do, 
+        they will not be reliable because they are not explainable.
+
+        We can see this already in current versions of Large Language 
+        Models, which are aptly named because they are built on 
+        unfathomably large amounts of language data. Some of it is 
+        factually correct. Some of it is factually wrong. Some of it 
+        has good intentions. Some of it is prejudiced, with built-in 
+        hate, discrimination, and the bias of their very human authors. 
+        As the old saying goes, garbage in, garbage out.
+
+    What does this all mean for the VA and the well-being and care of 
+our veterans? I can't claim to know. No one does. But I want to leave 
+you with a prediction of my own. I believe we truly are on the verge of 
+a revolution on the scale of the Industrial Revolution. So, if I could 
+leave you with one idea today, it would be this: AI is actually much 
+bigger than today's LLMs. And it is these technologies, many of which 
+have yet to be invented, that will enable the VA to execute its mission 
+``To fulfill President Lincoln's promise to care for those who have 
+served in our Nation's military and for their families, caregivers, and 
+survivors.''
+    In light of this, the Committee's work is vitally important to 
+ensure that the investments the Federal Government makes into AI 
+solutions will actually fulfill its mission. Our Veterans have given 
+their bodies, minds, and very lives so that we all can enjoy ours, and 
+we owe them more than our thanks and gratitude. We owe them the help 
+and services they need when and how they need them.
+    I am privileged to be here today, amongst my esteemed colleagues, 
+and I look forward to answering your questions. Thank you for this 
+opportunity.
+
+                Prepared Statement of Mohammad Ghassemi
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+                   Prepared Statement of Carol Harris
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+                                 [all]

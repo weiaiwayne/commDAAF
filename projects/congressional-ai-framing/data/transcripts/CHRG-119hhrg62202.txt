@@ -1,0 +1,1886 @@
+- MARKUP OF: H.R. 5763, MAIN STREET PARITY ACT; H.R. 5788, 504 PROGRAM RISK OVERSIGHT ACT; H.R. 3496, NORTHERN MARIANA ISLANDS SMALL BUSINESS ACCESS ACT; H.R. 5764, AI FOR MAINSTREET ACT; H.R. 5784, ARTIFICIAL INTELLIGENCE WISDOM FOR INNOVATIVE SMALL ENTERPRISES (AI-WISE) ACT; H.R. 5778, IMPROVING SBA ENGAGEMENT ON EMPLOYEE OWNERSHIP ACT; H.R. 4305, DESTROYING UNNECESSARY, MISALIGNED, AND PROHIBITIVE (DUMP) RED TAPE ACT OF 2025
+
+[House Hearing, 119 Congress]
+[From the U.S. Government Publishing Office]
+
+             MARKUP OF: H.R. 5763, MAIN STREET PARITY
+               ACT; H.R. 5788, 504 PROGRAM RISK OVER-
+               SIGHT ACT; H.R. 3496, NORTHERN MARIANA 
+               ISLANDS SMALL BUSINESS ACCESS ACT; H.R.
+               5764, AI FOR MAINSTREET ACT; H.R. 5784,
+               ARTIFICIAL INTELLIGENCE WISDOM FOR INN-
+               OVATIVE SMALL ENTERPRISES (AI-WISE) ACT; 
+               H.R. 5778, IMPROVING SBA ENGAGEMENT ON 
+               EMPLOYEE OWNERSHIP ACT; H.R. 4305, DE-
+               STROYING UNNECESSARY, MISALIGNED, AND
+               PROHIBITIVE (DUMP) RED TAPE ACT OF 2025
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                      COMMITTEE ON SMALL BUSINESS
+                             UNITED STATES
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED NINETEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                              HEARING HELD
+                           NOVEMBER 18, 2025
+
+                               __________
+
+[GRAPHIC NOT AVAILBLE IN TIFF FORMAT]
+
+            Small Business Committee Document Number 119-022
+             Available via the GPO Website: www.govinfo.gov
+
+                               __________
+
+                    U.S. GOVERNMENT PUBLISHING OFFICE                    
+62-202                    WASHINGTON : 2026               
+--------------------------------------------------------------------------------------          
+
+                   HOUSE COMMITTEE ON SMALL BUSINESS
+
+                    ROGER WILLIAMS, Texas, Chairman
+                        PETE STAUBER, Minnesota
+                        DAN MEUSER, Pennsylvania
+                         BETH VAN DUYNE, Texas
+                           JAKE ELLZEY, Texas
+                         MARK ALFORD, Missouri
+                         NICK LALOTA, New York
+                        BRAD FINSTAD, Minnesota
+                          TONY WIED, Wisconsin
+                      ROB BRESNAHAN, Pennsylvania
+                          BRIAN JACK, Georgia
+                         TROY DOWNING, Montana
+             KIMBERLYN KING-HINDS, Northern Marina Islands
+                         DEREK SCHMIDT, Kansas
+                        JIMMY PATRONIS, Florida
+               NYDIA VELAZQUEZ, New York, Ranking Member
+                       MORGAN MCGARVEY, Kentucky
+                       HILLARY SCHOLTEN, Michigan
+                      LAMONICA MCIVER, New Jersey
+                        GIL CISNEROS, California
+                       KELLY MORRISON, Minnesota
+                        GEORGE LATIMER, New York
+                         DEREK TRAN, California
+                       LATEEFAH SIMON, California
+                       JOHNNY OLSZEWSKI, Maryland
+                        HERB CONAWAY, New Jersey
+                    MAGGIE GOODLANDER, New Hampshire
+
+                 Lauren Holmes, Majority Staff Director
+                 Melissa Jung, Minority Staff Director
+                            C O N T E N T S
+
+                           OPENING STATEMENTS
+
+                                                                   Page
+Hon. Roger Williams..............................................     1
+Hon. Nydia Velazquez.............................................     3
+
+                                APPENDIX
+
+Additional Material for the Record:
+Text of Legislation:
+    H.R. 5763 - Main Street Parity Act...........................    32
+    H.R. 5788 - 504 Program Risk Oversight Act...................    34
+    H.R. 3496 - Northern Mariana Islands Small Business Access 
+      Act........................................................    39
+    H.R. 5764 - AI for Main Street Act...........................    41
+    H.R. 5784 - Artificial Intelligence Wisdom for Innovative 
+      Small Enterprises (AI-WISE) Act............................    44
+    H.R. 5778 - Improving SBA Engagement on Employee Ownership 
+      Act........................................................    53
+    H.R. 4305 - Destroying Unnecessary, Misaligned, and 
+      Prohibitive (DUMP) Red Tape Act of 2025....................    56
+Amendments:
+    ANS to H.R. 3496, offered by Ms. King-Hinds..................    59
+    ANS to H.R. 5764, offered by Mr. Alford......................    61
+    ANS to H.R. 4305, offered by Mr. Wied........................    64
+    Amendment #1 to the ANS to H.R. 4305 offered by Mr. Cisneros.    68
+    Amendment #1 to the ANS to H.R. 4305 offered by Ms. Scholten.    73
+Support Documents:
+    E-Vote Results...............................................    74
+    OpenAI Letter................................................    83
+    INTUIT Letter................................................    85
+    Coalition for Sensible Safeguards (CSS) Letter...............    87
+    National Association of Development Companies (NADCO) - H.R. 
+      5763 Letter................................................    89
+    National Association of Development Companies (NADCO) - H.R. 
+      5788 Letter................................................    90
+    The National Cooperative Business Association (NCBA) Letter..    91
+    Small Business & Entrepreneurship Council (SBE) - H.R. 5764 
+      Letter.....................................................    93
+    Small Business & Entrepreneurship Council (SBE) - H.R. 4305 
+      Letter.....................................................    94
+    Small Business & Entrepreneurship Council (SBE) - H.R. 5763 
+      Letter.....................................................    95
+Votes:
+    H.R. 3496 - ANS offered by Ms. King-Hinds agreed to by voice.    96
+    H.R. 5764 - ANS offered by Mr. Alford agreed to by voice.....    97
+    H.R. 4305 - ANS offered by Mr. Wied agreed to by voice.......    98
+    H.R. 5763 - Main Street Parity Act Ordered to be reported by 
+      the Yeas and Nays: 27-0....................................    99
+    H.R. 5788 - 504 Program Risk Oversight Act Ordered to be 
+      reported by the Yeas and Nays: 27-0........................   100
+    H.R. 3496 - Northern Mariana Islands Small Business Access 
+      Act (As Amended) Ordered to be reported by the Yeas and 
+      Nays: 27-0.................................................   101
+    H.R. 5764 - AI for Main Street Act (As Amended) Ordered to be 
+      reported by the Yeas and Nays: 27-0........................   102
+    H.R. 5784 - Artificial Intelligence Wisdom for Innovative 
+      Small Enterprises (AI-WISE) Act Ordered to be reported by 
+      the Yeas and Nays: 27-0....................................   103
+    H.R. 5778 - Improving SBA Engagement on Employee Ownership 
+      Act Ordered to be reported by the Yeas and Nays: 27-0......   104
+    Amendment #1 to the ANS to H.R. 4305 offered by Mr. Cisneros 
+      Ordered to be reported by the Yeas and Nays: 12-15.........   105
+    Amendment #1 to the ANS to H.R. 4305 offered by Ms. Scholten 
+      Ordered to be reported by the Yeas and Nays: 12-15.........   106
+    H.R. 4305 - Destroying Unnecessary, Misaligned, and 
+      Prohibitive (DUMP) Red Tape Act of 2025 (As Amended) 
+      Ordered to be reported by the Yeas and Nays: 18-9..........   107
+
+ MARKUP OF: H.R. 5763, MAIN STREET PARITY ACT; H.R. 5788, 504 PROGRAM 
+RISK OVERSIGHT ACT; H.R. 3496, NORTHERN MARIANA ISLANDS SMALL BUSINESS 
+  ACCESS ACT; H.R. 5764, AI FOR MAINSTREET ACT; H.R. 5784, ARTIFICIAL 
+  INTELLIGENCE WISDOM FOR INNOVATIVE SMALL ENTERPRISES (AI-WISE) ACT; 
+  H.R. 5778, IMPROVING SBA ENGAGEMENT ON EMPLOYEE OWNERSHIP ACT; H.R. 
+ 4305, DESTROYING UNNECESSARY, MISALIGNED, AND PROHIBITIVE (DUMP) RED 
+                            TAPE ACT OF 2025
+
+                              ----------                              
+
+                       TUESDAY, NOVEMBER 18, 2025
+
+                  House of Representatives,
+               Committee on Small Business,
+                                                    Washington, DC.
+    The Committee met, pursuant to call, at 9:54 a.m., in Room 
+2360, Rayburn House Office Building, Hon. Roger Williams 
+[chairman of the Committee] presiding.
+    Present: Representatives Williams, Stauber, Meuser, Van 
+Duyne, Ellzey, Alford, LaLota, Finstad, Wied, Bresnahan, Jack, 
+Downing, King-Hinds, Schmidt, Patronis, Velazquez, McGarvey, 
+Scholten, McIver, Cisneros, Morrison, Latimer, Tran, Simon, 
+Conaway, and Goodlander.
+    Chairman WILLIAMS. Before we get started, I want to 
+recognize Representative Meuser from the great state of 
+Pennsylvania to lead us in the Pledge of Allegiance and a short 
+prayer.
+    Mr. MEUSER. Will you please stand and bow your heads? Dear 
+God, we appreciate this day bringing us together back here in 
+Washington, doing the best work we can for a great nation. And 
+we thank you for helping be creative. Give us the wisdom. We 
+ask for this often, but please give it to us to focus on the 
+greater good, to truly put you and country ahead of self.
+    And there is a biblical verse that is known as blessed are 
+the meek for they will inherit the Earth. The meek, of course, 
+are those that are humble, have humility, and appreciate the 
+people and the world around them most. They will inherit the 
+Earth. Allow us to follow this line from Scripture.
+    In the name of the Father, Son, and the Holy Ghost, God be 
+with you. Thank you. Amen.
+    We will now do the pledge.
+    ALL. I pledge allegiance to the Flag of the United States 
+of America, and to the Republic for which it stands, one 
+nation, under God, indivisible, with liberty and justice for 
+all.
+    Chairman WILLIAMS. The Committee will now come to order and 
+a quorum is present. Without objection, the Chair is authorized 
+to declare a recess of the Committee at any time.
+    As required by the House rules, a copy of the legislative 
+measures have been made available to Members and the public at 
+least 24 hours in advance. Without objection, the Committee 
+will vote electronically in accordance with the Committee rules 
+and regulations developed by the House Committees on Rules and 
+Administration.
+    I now recognize myself for opening remarks.
+    Today we will mark up seven important bills that support 
+small business across the country. These bills reflect the 
+commitment to equipping entrepreneurs with the tools they need 
+to innovate, grow, and compete in our ever-evolving economy. 
+From the expanding access to artificial intelligence resources, 
+strengthening oversight, removing outdated barriers to capital, 
+and tackling burdensome regulations, each of these bills will 
+support Main Street America in a meaningful way.
+    As Chairman, I am proud of the network--or proud of the 
+work being done in this Committee to support the 
+administration's efforts and ensure that small businesses 
+remain at the forefront of the American economy. These bills 
+represent the Committee's bipartisan commitment to fostering an 
+environment where small businesses can grow, innovate, and 
+invest in their communities.
+    Several of the bills we are considering today focus on the 
+transformative role of artificial intelligence and ensure that 
+small businesses have access to resources and training to help 
+them utilize AI. Our bills today will also bring greater 
+accountability and oversight of the SBA 504 loan program and 
+improve access to SBA lending by all types of industries. We 
+will also consider a bill that would finally bring SBA 
+microlending to the Commonwealth of the Northern Mariana 
+Islands.
+    I appreciate the Ranking Member and the Committee staff who 
+have supported the Committee's effort over the years on this 
+issue. Another bill will require the SBA to implement 
+requirements for the fiscal year 2019 NDAA to provide 
+information and outreach about employee ownership for small 
+businesses. And finally, we will consider a bill that empowers 
+small businesses to report burdensome regulations by codifying 
+the SBA Office of Advocacy's Red Tape Hotline.
+    I am proud of the continued bipartisan efforts that have 
+resulted in today's markup. These efforts have led to the 
+passage of 18 small business bills out of the House this year, 
+which now await Senate consideration. I look forward to working 
+with my colleagues so we can continue to pass meaningful 
+legislation that empowers small businesses and strengthens our 
+communities.
+    Now, with that, I look forward to today's markup and I 
+yield to the distinguished Member and my friend, the Ranking 
+Member from New York, Ms. Velazquez, for her opening remarks.
+    Ms. VELAZQUEZ. Thank you, Mr. Chairman, for convening this 
+markup today.
+    As we consider legislation to shape the future of small 
+businesses across the country, it is important to address both 
+the opportunities and challenges facing small businesses today. 
+I plan to lend my support to the six bipartisan bills under 
+consideration and I will lay out my concerns with the last 
+bill. And I appreciate the Chairman's efforts to mark up a fair 
+ratio of Republican and Democratic bills. I am encouraged to 
+see us working together on commonsense, bipartisan bills that 
+provide more opportunity for small businesses because expanding 
+opportunities shouldn't be a partisan issue.
+    With that said, we need the SBA to be a more accountable 
+partner. Ignoring congressional oversight letters and requests 
+for meetings undermines trust. It needs to change and my hope 
+is that you will join me in ensuring the agency is more 
+responsive to this Committee.
+    And I am hopeful we can work together on issues that really 
+matter: lowering costs for small businesses. These critical 
+employers who account for a large portion of jobs in this 
+country are not hiring because they are grappling with 
+inflation and escalating costs. According to the Center for 
+American Progress analysis, more than 5 million self-employed 
+small business owners have health insurance coverage through 
+the ACA. We cannot allow these tax credits to expire, causing 
+premiums to double for millions of Americans. And our ranchers 
+and farmers are reeling from decisions on tariffs and beef 
+purchases that have been unilaterally made by this 
+administration. I urge you to schedule a hearing so we can hear 
+directly from small businesses about these important issues.
+    Thank you again, Mr. Williams, and I look forward to a 
+productive markup. I yield back.
+    Chairman WILLIAMS. The lady yields back. And does any other 
+Member seek recognition for the purpose of making an opening 
+statement?
+    Okay. Seeing none, we will now move to consideration of the 
+first bill.
+    H.R. 5763
+    The Committee now moves to consideration of H.R. 5763, the 
+Main Street Parity Act, introduced by Chairman, myself, and 
+Representative Simon. The clerk will report the bill.
+    The CLERK. H.R. 5763, a bill to amend the Small Business--
+--
+    Chairman WILLIAMS. Without objection, H.R. 5763 is 
+considered as read and open for amendment.
+    I now recognize myself for a statement on the bill.
+    Most small business owners applying for 504 loans must 
+contribute 10 percent as a form of down payment. However, if 
+their loan involves a limited purpose property, such as bowling 
+alley, dairy farm, or doctor's office, they must contribute an 
+extra 5 percent, a total of 15 percent down. And everyday 
+businesses on main street like these are unfairly burdened with 
+this extra equity requirement that is based on outdated, 
+inaccurate assumptions that these kinds of businesses pose a 
+greater risk to the program. So most of the loans in these 
+affected industries, like bowling alleys, hospitals, and 
+wineries, perform better on average than the entire 504 
+portfolio.
+    So this bill will remove unnecessary burdens for 
+entrepreneurs who are seeking loans for these special purpose 
+buildings and will put them on equal footing with their peers. 
+This change will support the countless small businesses at the 
+center of our communities and drive the economy. And it is time 
+to bring parity back to main street.
+    So I urge my colleagues to vote yes on H.R. 5763. And I 
+yield back.
+    And I now recognize the bill's cosponsor, Representative 
+Simon from the great state of California for her remarks.
+    Ms. SIMON. It is Simon. But I really like----
+    Chairman WILLIAMS. Simon.
+    Ms. SIMON. But I like Simone. It sounds a lot more 
+dignified.
+    Chairman WILLIAMS. She is my friend. I was just checking 
+her out. Thank you.
+    Ms. SIMON. Simone gives it a little French flair. My family 
+is from Louisiana, sir.
+    Thank you so much. And it has been an honor to work with 
+you on this bill together, you and I, championing this bill and 
+others. It has been a real honor. And I want to thank our 
+Ranking Member Velazquez for really lifting up the freshman 
+Members of this Committee to ensure that we are a part of this 
+legislative process full scale.
+    The Main Street Parity Act is a simple way to support a 
+broad range of small businesses in this country, not just the 
+ones with standard commercial property. So right now, 
+businesses in my district and in districts across the country 
+operate in what is called a special purpose property and they 
+are being penalized simply for having unique construction or 
+building needs. You referenced bowling alleys, and you are 
+absolutely right. These include places, not just bowling 
+alleys, but car washes and marinas and funeral homes and 
+recreation centers. These are the kind of small businesses in 
+our community that serve local families, that create real jobs, 
+and keep our communities running.
+    The Main Street Parity Act lowers the equity requirement 
+for these borrowers to the same 10 percent required for 
+everyone else. This is definitely a commonsense bill that 
+supports small business owners throughout the country. This 
+bill is a simple fix. It is nonpartisan and it really does what 
+our constituents have asked us to do, making small business 
+work on main street in rural and in urban communities 
+throughout this country. It is about promoting fair, inclusive 
+economic growth and recognizing that opportunity should not 
+depend on something as small as the type of building your 
+business happens to own or run in.
+    I urge all of my colleagues today to support the Main 
+Street Parity Act and ensure fair capital access across all 
+small business industries in our great nation.
+    Thank you, sir, and I yield back.
+    Chairman WILLIAMS. I thank Congressman Simon for that.
+    Are there any other Members who wish to be recognized for a 
+statement on the bill?
+    I now recognize the Ranking Member to speak on the bill.
+    Ms. VELAZQUEZ. Thank you, Mr. Chairman. I support H.R. 
+5763. This bill makes important adjustments to improve SBA 504 
+CDC program. I applaud Chairman Williams and Representative 
+Simon for their leadership on this issue.
+    The 504 CDC program has long supported small businesses in 
+accessing capital for the development of major fixed assets, 
+ensuring that these businesses have the resources they need to 
+be successful and support thousands of jobs across the country. 
+As part of the 504 CDC program, loans are guaranteed for so-
+called special use properties, like bowling alleys, car washes, 
+and marinas. Since the special use designation was created in 
+1996, businesses developing these properties have been required 
+to pay a special use penalty when accessing 504 CDC loans. The 
+additional equity requirement was put in place by Congress 
+because of the belief that these special use properties will be 
+challenging to repurpose, shrinking the market pool of 
+potential buyers and making them more difficult to sell, 
+thereby posing a higher risk to the SBA loan portfolio if one 
+of these businesses ever faced financial hardship and needed to 
+be sold.
+    However, in almost 30 years since the designation was 
+created and the penalty was put in place, many of these 
+properties have been successfully repurposed for alternative 
+uses. More importantly, the shut-off rate since that time is 
+substantially similar to standard 504 CDC loans, demonstrating 
+that this loan poses no greater risk than standard loans. 
+Therefore, it is time to remove the special use penalty and 
+lower the equity barrier these properties face when accessing 
+capital through the 504 CDC program.
+    This bill reduces the minimum equity requirement for 
+special use property to at least 10 percent, in line with the 
+requirement for standard loans under the 504 CDC program. It 
+also maintains the discretionary authority to require higher 
+equity requirements of the borrower if the CDC so chooses.
+    I want to thank my Republican colleagues for their 
+collaboration on H.R. 5788, which we are also discussing, that 
+increases the SBA reporting requirements to Congress for 504 
+CDC loans, including for special use properties, so that we can 
+continue to monitor the changes we are making in this bill in 
+the future. This bill is supported by the National Association 
+of Development Companies.
+    I urge my colleagues to support the bill and I yield back.
+    Chairman WILLIAMS. The gentlelady yields back.
+    And does anyone wish to offer an amendment?
+    Okay. Seeing none, the question now occurs on favorably 
+reporting H.R. 5763.
+    All those in favor, say aye.
+    All those opposed, say no.
+    In the opinion of the Chair, the ayes have it. H.R. 5763 is 
+agreed to.
+    Ms. KING-HINDS. Mr. Chairman, I would like to request a 
+recorded vote.
+    Chairman WILLIAMS. A recorded vote has been requested. A 
+roll call vote is ordered. Pursuant to Committee rule 13 and 
+House rule XI, further proceedings on this bill are postponed.
+    H.R. 5788
+    The Committee now moves to consideration of H.R. 5788, the 
+504 Program Risk Oversight Act, introduced by Representative 
+Tran and Patronis. The clerk will report the bill.
+    The CLERK. H.R. 5788, a bill----
+    Chairman WILLIAMS. Without objection, H.R. 5788 is 
+considered as read and open for amendment.
+    I now recognize the bill's sponsor, Representative Tran 
+from the great state of California for a statement on the bill.
+    Mr. TRAN. Thank you, Mr. Chairman, for the opportunity to 
+discuss an essential piece of legislation today, the 504 
+Program Risk Oversight Act. The 504 Program Risk Oversight Act 
+would require the SBA to conduct an annual risk assessment of 
+the 504 CDC program and provide Congress with a report 
+containing the results by December 1st each year.
+    The 504 Loan Program is SBA's premier economic development 
+program providing low-cost, fixed-rate capital to help small 
+businesses expand. Since its inception in 1986, the program has 
+provided approximately 400 billion in total project financing 
+and created over 3.3 million jobs. In California, that 
+translates to 95 billion in total capital and the creation of 
+over 715,000 good paying jobs.
+    The SBA's 504 program is central to long-term business 
+growth and competitiveness for many small business owners. 
+However, as small business grow and take on larger and more 
+complex projects, I have heard from my constituents that the 
+limitation in SBA's 504 financing imposes unnecessary 
+constraints on the organic and profitable growth of their 
+business. Many times I have heard that a limitation they faced 
+was when their financing needs were more than what the SBA 
+could lend due to the loan limits. That is why I support 
+increasing the maximum loan size for 504 to allow the program 
+to have a bigger impact and adjust the loan limits which have 
+not been changed since 2010. However, it is also important to 
+ensure program performance remains a top priority and the 504 
+program stays healthy for its long-term availability to small 
+businesses.
+    Currently, SBA is not required to conduct an annual 
+portfolio risk analysis of the 504 program and provide Congress 
+with a detailed report containing the results. This bipartisan 
+bill will address the problem and help more Americans launch 
+and grow small businesses by improving oversight and risk 
+assessment of the 504 program. Transparent data is the 
+cornerstone of a productive partnership between the SBA, 
+Congress, and the industry and the work we do to modernize the 
+504 loan limit for all borrowers while keeping the program 
+healthy.
+    I am proud to lead this bill and I want to thank my 
+colleague Representative Jimmy Patronis for his partnership in 
+co-leading this important piece of legislation with me.
+    I urge my colleagues to support this important bipartisan 
+bill. Thank you and I yield back.
+    Chairman WILLIAMS. The gentleman yields back.
+    I now recognize Representative Patronis from the great 
+state of Florida for a statement on the bill.
+    Mr. PATRONIS. Thank you, Mr. Chairman. I appreciate my 
+colleague Congressman Tran's work on this good bill. I am 
+pleased also to be a original cosponsor on this legislation.
+    Transparency and responsible government is key to an 
+effective government. This bill is an example of just that. As 
+a former CFO of the State of Florida, I was responsible for 
+overseeing the state's investments, especially in the 
+retirement space. We must ensure that the taxpayers' dollars 
+are being used effectively and not set on fire. This bill will 
+make sure that there is always risk analysis being done on 504 
+program activities.
+    Thank you, Mr. Chairman, and I yield back.
+    Chairman WILLIAMS. The gentleman yields back.
+    Are there any of the Members who wish to be recognized for 
+a statement on the bill?
+    Seeing none, I would like to recognize the Ranking Member 
+to speak on the bill.
+    Ms. VELAZQUEZ. Thank you, Mr. Chairman. Let me start off by 
+thanking Representatives Tran and Patronis for working together 
+on a bipartisan basis to introduce this important bill. 
+Information and transparency are central to ensuring the proper 
+operation and functioning of the SBA lending programs, 
+including the 504 CDC program. And this bill will help our 
+Committee carry out our oversight responsibility.
+    For months I have investigated and warned about the rising 
+default levels in the SBA other main lending program, the 
+flagship 7(a) program. Federal law requires the SBA Office of 
+Credit Risk Management to conduct an annual portfolio risk 
+analysis of the 7(a) program and provide Congress with a 
+detailed report of the results. It is this report that has 
+helped our Committee examine the 7(a) program's rising defaults 
+and tailor our actions accordingly. The report provides 
+detailed information on the program's overall risks set forth 
+by industry concentration, risks created by individual lenders, 
+enforcement actions that have been taken, and other important 
+data points.
+    Unfortunately, a similar statutory requirement does not 
+exist for the 504 CDC program. H.R. 5788 will fix that by 
+compelling the SBA to conduct an annual risk analysis of the 
+504 CDC program and provide Congress with the results tailored 
+to meet the 504 CDC program's unique features. This bill will 
+require the SBA to provide many of the same data points on the 
+504 CDC program as it is currently providing us on the 7(a) 
+program.
+    Let me be clear, loan defaults do not currently seem to be 
+a concern in the 504 CDC program. Publicly available 
+information demonstrate responsible operation of the program, 
+but this bill will give us information we need to monitor the 
+program now and in the future so its zero subsidy requirement 
+is maintained.
+    Finally, H.R. 5788 will require that the 504 CDC risk 
+report also be posted on the SBA website and made available to 
+the public. H.R. 5788 is supported by the National Association 
+of Development Companies.
+    Thank you, Mr. Chairman. I yield back.
+    Chairman WILLIAMS. The gentlelady yields back, and thank 
+you.
+    And I now recognize myself to speak in support of this 
+legislation.
+    The SBA's 504 loan program plays a crucial role in 
+financing fixed assets for small businesses through community-
+based partners. While these loans help local small businesses 
+grow, there is a clear lack of reporting on the health and risk 
+within the 504 portfolio. So as Americans and policymakers need 
+a clear timely information on the program to ensure that 
+taxpayer dollars are protected, we need to know that the 
+program is sustainable and effective for small businesses 
+nationwide.
+    The 504 Program Risk Oversight Act ensures that Congress 
+can carry out its constitutional duty of oversight by requiring 
+annual data-driven reports from the SBA on the health of the 
+504 loan program. By enhancing transparency and insight, this 
+legislation will help Congress identify and mitigate risk 
+early, strengthening the long-term viability of the 504 loan 
+program and ensuring continued support for American 
+entrepreneurs.
+    So I urge my colleagues to vote yes on H.R. 5788, and I 
+yield back.
+    Does anyone wish to offer an amendment?
+    Okay. Seeing none, the question is now on favorably 
+reporting H.R. 5788 to the House.
+    All those in favor, say aye.
+    All those opposed, say no.
+    In the opinion of the Chair, the ayes have it and H.R. 5788 
+is agreed to.
+    Mr. PATRONIS. Mr. Chairman?
+    Chairman WILLIAMS. Yes.
+    Mr. PATRONIS. I would like to request a recorded vote.
+    Chairman WILLIAMS. Okay. We have got a recorded vote has 
+been requested. A roll call vote is ordered. And pursuant to 
+Committee rule 13 and House rule XI, further proceedings on 
+this bill are postponed.
+    H.R. 3496
+    The Committee now moves to consideration of H.R. 3496, 
+Northern Mariana Island Small Business Access Act, introduced 
+by Delegate King-Hinds and cosponsored by Representative 
+Conaway. And the clerk will report the bill.
+    The CLERK. H.R. 3496, a bill to amend the Small Business--
+--
+    Chairman WILLIAMS. Without objection, H.R. 3496 is 
+considered as read and open for amendment.
+    The bill sponsor Delegate King-Hinds has an amendment in 
+the nature of a substitute at the desk. The amendment has been 
+distributed in advance. The clerk will report the amendment.
+    The CLERK. Amendment in the nature of a substitute to H.R. 
+34----
+    Chairman WILLIAMS. Without objection, the amendment is 
+considered as read and the substitute will be considered as a 
+base text for the purpose of further amendment.
+    I now recognize the bill's sponsor, Delegate King-Hinds 
+from the Great Northern Mariana Islands, for a statement on the 
+bill and the amendment.
+    Ms. KING-HINDS. Thank you, Chairman Williams and Ranking 
+Member Velazquez, for agreeing to include my bill, H.R. 3496, 
+the Northern Mariana Islands Small Business Access Act, in 
+today's markup. H.R. 3496 would include my district, the 
+Northern Mariana Islands, in the Small Business 
+Administration's Microloan Program. The Microloan Program 
+issues loans of $50,000 or less at low interest rates to help 
+small businesses that may be unable to access capital 
+elsewhere, grow their businesses, or create jobs.
+    Since the program became operational in 1992, it has issued 
+over 69,000 loans totaling over 900 million and supported over 
+250,000 American jobs. Despite the program's impressive impact 
+for Americans across the country, the Northern Mariana Islands 
+is the only state or territory not explicitly included under 
+the law. This bill would simply add the CNMI to be eligible for 
+the program alongside every other territory.
+    I thank my co-lead on the bill, Representative Conaway, for 
+his best support and Congressman Cisneros for cosponsoring this 
+legislation as well. Again, my bill simply adds my district to 
+the Microloan Program that is already available to all other 
+Americans. I urge my colleagues to support this bipartisan, 
+commonsense, no-cost bill.
+    Thank you. I yield back.
+    Chairman WILLIAMS. The gentlelady yields back.
+    I now recognize Representative Conaway from the great state 
+of New Jersey for a statement on the bill and the amendment.
+    Mr. CONAWAY. Thank you, Mr. Chairman. I would like to echo 
+support for H.R. 3496, the Northern Mariana Island Small 
+Business Access Act, along with my colleague, Congresswoman 
+King-Hinds.
+    As has been said, the Commonwealth of Northern Mariana 
+Islands, you know, I don't say that very often, Northern 
+Mariana Islands is one of the six territories in the U.S. and, 
+despite its status as a territory, the Northern Mariana Islands 
+have been excluded from certain small business programs. This 
+is important legislation that would ensure that there are 
+expanded access to SBA's Microloan Program to small businesses 
+on the Northern Mariana Islands.
+    As you know, access to capital is vital for success and 
+stability of small businesses. The SBA's Microloan Program is 
+designed to assist women, low-income persons, veterans, 
+minority entrepreneurs, and small business owners. And said 
+loans can be used for a myriad of purposes, including working 
+capital, inventory, supplies, furniture, fixtures, machinery, 
+and equipment. Ensuring that the Northern Mariana Islands has 
+better access to this important SBA program is very important 
+and I urge all of my colleagues to support this important piece 
+of legislation.
+    Thank you, Mr. Chairman. I yield back.
+    Chairman WILLIAMS. The gentlemen yields back.
+    Are there any other Members who wish to be recognized for a 
+statement?
+    Seeing none, I would like to recognize the Ranking Member 
+to speak on the bill and the amendment.
+    Ms. VELAZQUEZ. Thank you, Mr. Chairman. I want to express 
+my support for H.R. 3496, as amended. I commend Delegate King-
+Hinds and Dr. Conaway for reintroducing the bill we have worked 
+on for several years now.
+    The Northern Mariana Islands Small Business Access Act is a 
+straightforward but important bill that expands access to the 
+SBA Microloan Program to small businesses in the Commonwealth 
+of the Northern Mariana Islands. The program has been hugely 
+successful.
+    With that said, small businesses in the Northern Mariana 
+Islands face unique challenges as geographic isolation leads to 
+higher costs for goods and services, and their economy is 
+heavily reliant on tourism, which can ebb and flow with economy 
+and natural disaster. Having access to affordable credit gives 
+small businesses the ability to weather the storms and economic 
+uncertainty and fully prepare for the next opportunity.
+    I worked to ensure the Commonwealth of the Northern Mariana 
+Islands had access to the Microloan Program as part of a more 
+comprehensive bill to improve the Microloan Program. Despite 
+passing the House, that bill was not considered in the Senate. 
+While I would prefer to handle this issue in a more complete 
+review of the program to make much needed improvements, I am 
+willing to set aside those concerns today to ensure that small 
+business owners in CNMI have access to the SBA Macro Loan 
+program, and I urge my colleagues to support this bipartisan 
+measure.
+    I yield back.
+    Chairman WILLIAMS. The gentlelady yields back. Thank you.
+    I now recognize myself to speak in support of this 
+legislation.
+    The SBA Microloan Program offers entrepreneurs access to 
+small dollar loans through intermediaries. By statute, the SBA 
+portions Microloan Program funding to each state and territory 
+except for the Commonwealth of Northern Mariana Islands. This 
+exclusion makes it more challenging for small businesses in the 
+Northern Mariana Islands to access capital. And the Northern 
+Mariana Island Small Business Access Act amends the Small 
+Business Act to include the Northern Mariana Islands in the 
+program's geographic coverage.
+    Expanding microloan eligibility will spark 
+entrepreneurship. It strengthens that local economy for all 
+states and territories and further assisting constituents of 
+our colleague, Delegate King-Hinds, to access opportunities to 
+grow.
+    I urge my colleagues to vote yes on H.R. 3496, and I yield 
+back.
+    Does anyone wish to offer an amendment?
+    Seeing none, the question now occurs on the adoption of the 
+substitute amendment offered H.R. 3496 by Delegate King-Hinds.
+    All those in favor, say aye.
+    All those opposed, say no.
+    In the opinion of the Chair, the ayes have it, the 
+amendment in the nature of a substitute H.R. 3496 is adopted.
+    Okay. The question is now on favorably reporting H.R. 3496, 
+as amended, to the House.
+    All those in favor, say aye.
+    All those opposed, say no.
+    In the opinion of the Chair, the ayes have it and H.R. 
+3496, as amended, is agreed to.
+    Ms. KING-HINDS. Mr. Chairman.
+    Chairman WILLIAMS. For what purpose does the gentlelady 
+seek recognition?
+    Ms. KING-HINDS. I would like to request a recorded vote.
+    Chairman WILLIAMS. Okay. A recorded vote has been 
+requested. A roll call vote is ordered, and pursuant to 
+Committee rule 13 and House rule XI, further proceedings on 
+this bill are postponed.
+    H.R. 5764
+    The Committee now moves to consideration of H.R. 5764, AI 
+for Main Street Act, introduced by Representatives Alford and 
+Scholten. The clerk will report the bill.
+    The CLERK. H.R. 5764, bill to amend the Small Business----
+    Chairman WILLIAMS. Without objection, H.R. 5764 is 
+considered as read and open for amendment.
+    The bill sponsor, Representative Alford, has an amendment 
+in the nature of a substitute at the desk. The amendment has 
+been distributed in advance. The clerk will report the 
+amendment.
+    The CLERK. Amendment in the nature of a substitute to H.R. 
+57----
+    Chairman WILLIAMS. Without objection, the amendment is 
+considered as read and the substitute will be considered as 
+base text for the purpose of further amendment.
+    I now recognize the bill's sponsor, Representative Alford 
+from the great state of Missouri, for a statement on the bill 
+and the amendment.
+    Mr. ALFORD. Well, thank you, Mr. Chair. And thank you, 
+Ranking Member Velazquez, for holding this hearing today. It is 
+so good to see everyone on both sides of the aisle.
+    This Committee exists in Congress to champion main street, 
+to ensure that the small businesses that employ about half of 
+all Americans can continue to thrive. As we all know, the AI 
+revolution is not coming. It is already here. And if any 
+company from main street to wall street is not adapting, they 
+will be left behind. This is why I was proud to introduce the 
+AI for Main Street Act along with Congresswoman Scholten.
+    This bill directs Small Business Development Centers to 
+help small businesses evaluate and adopt artificial 
+intelligence by providing guidance, training, and outreach. It 
+builds on existing efforts, like America's SBDC AIU program. I 
+urge all of my colleagues to support this important legislation 
+to ensure that main street gets the counseling they need to 
+survive and thrive during the AI era, which is not going away 
+anytime soon.
+    And with that I yield back.
+    Chairman WILLIAMS. The gentleman yields back.
+    I now recognize Representative Scholten from the great 
+state of Michigan for a statement on the bill and the 
+amendment.
+    Ms. SCHOLTEN. Thank you so much, Mr. Chairman. I have been 
+so proud to partner with Rep. Alford to lead the AI for Main 
+Street Act.
+    He said it so well and this Committee has recognized the 
+absolute revolutionary power that AI can have for so many of 
+our small business owners. Yet far too many don't know how to 
+access its power in a responsible way. This bill will help 
+small businesses get quality guidance on how to adopt 
+artificial intelligence into their operations.
+    At a time when AI tools are becoming more accessible, but 
+also more complex, small business owners need trusted local 
+resources to help them navigate this new terrain. We have seen 
+firsthand in our district how cutting-edge AI help from Small 
+Business Development Centers can be just an absolute game-
+changer, and that is where the AI for Main Street Act comes in. 
+Our bill will direct Small Business Development Centers to 
+provide guidance, training, and outreach to small business 
+owners so they can evaluate the use of AI for their businesses 
+and implement it according to their unique needs.
+    SBDCs are already a lifeline for small businesses, places 
+where they turn to for help, practical expertise, and real-
+world solutions. By equipping these centers with AI-focused 
+training, we are meeting small business owners where they are 
+and giving them tools that they can put to work immediately.
+    In our increasingly connected world, AI presents major 
+changes to our economy and our way of life, from streamlining 
+bookkeeping to managing inventory to improving customer 
+outreach. AI can help small businesses save time, cut cost, 
+stay competitive, but only if they have the knowledge how to 
+use it effectively. That makes it all the more important that 
+small businesses have the right resources. The AI for Main 
+Street Act gives small businesses, again, the key word is 
+trust, that trusted place to turn as they decide how to use AI 
+to serve their goals.
+    I urge my colleagues to support this bill, and I yield the 
+remainder of my time.
+    Chairman WILLIAMS. The gentlelady yields back.
+    Are there any other Members who wish to be recognized for a 
+statement on the bill?
+    Seeing none, I would like to recognize the Ranking Member 
+to speak on the bill and the amendment.
+    Ms. VELAZQUEZ. Thank you, Mr. Chairman. I am really pleased 
+to support the AI for Main Street Act, which would allow the 
+Small Business Development Centers to assist small business 
+owners on how to evaluate artificial intelligence. I commend 
+Mr. Alford and Ms. Scholten for working together on this 
+bipartisan legislation.
+    Among other things, AI has the potential to boost 
+productivity, enhance customer service, and save costs, but 
+small businesses must learn to use and manage AI tools 
+effectively. If they don't, it can backfire and cause serious 
+problems. We all heard the story of the Chevy dealership in 
+Watsonville, California, that deployed an automated customer 
+service chatbot that was manipulated into offering a Tahoe for 
+a dollar and stating the deal is legally binding.
+    As AI advances, so do the inherent risks. That is why it is 
+important for SBA and its entrepreneurial ecosystem to help 
+small businesses make the most of this technology. And it also 
+makes sense to further empower the national network of SBDCs to 
+guide and train small businesses for the future. I urge my 
+colleagues to vote yes.
+    I yield back my time.
+    Chairman WILLIAMS. The gentlelady yields back, and thank 
+you.
+    And I now recognize myself to speak in support of this 
+legislation.
+    Evolving artificial intelligence tools are transforming the 
+business world and reshaping how entrepreneurs and small 
+businesses operate and compete. While larger corporations are 
+already harnessing new technologies, many small businesses are 
+struggling to help keep up due to limited resources, lack of 
+training, and concerns about cybersecurity. But the AI for Main 
+Street Act addresses this gap by directing the SBA Small 
+Business Development Centers to provide training, coaching, and 
+ongoing support for integrating AI responsibility into small 
+business.
+    SBDCs are a crucial public-private partnership that operate 
+in every state to assist all small businesses, whether they are 
+just starting or fully established. Ensuring that these 
+resource partners can provide AI education will give small 
+businesses the proper tools and safeguards to compete in 
+today's economy. As AI becomes an integral driver of 
+productivity and competitiveness across the economy, small 
+businesses must not be left behind. Technology won't wait for 
+small business to catch up and Congress must help bridge that 
+gap to help close the innovation divide.
+    I urge my colleagues to vote yes on H.R. 5764, and I yield 
+back.
+    Does anyone wish to offer an amendment?
+    Okay. Seeing none, the question now occurs in the adoption 
+of the substitute amendment offered to H.R. 5764 by Mr. Alford.
+    All those in favor, say aye.
+    All those opposed, say no.
+    In the opinion of the Chair, the ayes have it and the 
+amendment in the nature of a substitute to H.R. 5764 is 
+adopted.
+    The question is now on favorably reporting H.R. 5764, as 
+amended, to the House.
+    All those in favor, say aye.
+    All those opposed, say no.
+    The opinion of the Chair, the ayes have it and H.R. 5764, 
+as amended, is agreed to
+    Mr. ALFORD. Mr. Chair?
+    Chairman WILLIAMS. For what purpose does the gentleman seek 
+recognition?
+    Mr. ALFORD. I request a recorded vote, please.
+    Chairman WILLIAMS. A recorded vote has been requested. A 
+roll call vote is ordered. Pursuant to Committee rule 13 and 
+House rule XI, further proceedings on the bill are postponed.
+    H.R. 5784
+    The Committee now moves to consideration of H.R. 5784, the 
+Artificial Intelligence Wisdom for Innovative Small 
+Enterprises, or AI WISE Act, introduced by Representatives 
+Scholten and Downing. And the clerk will report the bill.
+    The CLERK. H.R. 5784, a bill to amend the Small Business 
+Act----
+    Chairman WILLIAMS. Without objection, H.R. 5784 is 
+considered as read and open for amendment.
+    I now recognize the bill's sponsor, Representative Scholten 
+from the great state of Michigan, for a statement on the bill.
+    Ms. SCHOLTEN. Thank you so much, Mr. Chairman. You are 
+sensing a theme today. And I am so glad that this Committee 
+takes the inclusion and implementation of AI in the small 
+business arena seriously. It is absolutely critical.
+    As we know, artificial intelligence is rapidly shaping 
+industries across the globe. But small businesses, who are the 
+backbone of our economy, often struggle to keep up with fast-
+paced technological change. My--oops, sorry, hold on. I think I 
+got the wrong--this is the AI for main street. Sorry, I was 
+like that sounds really familiar. AI WISE. We can vote on that 
+one now, too. We are on AI for main street--we are on AI WISE. 
+We are on AI WISE. Yes. Okay, sorry. Apologies. This is when 
+you get all these great AI bills.
+    The AI WISE Act requires the SBA to create AI literacy 
+resources tailored specifically to small businesses. Through 
+the SBA's e-learning platform, entrepreneurs and small business 
+owners will be empowered with clear, actionable information on 
+how to leverage AI in their operations, whether that is through 
+automating tasks, improving customer service, or making smarter 
+decisions using data.
+    According to the U.S. Census Bureau, nearly one in four 
+businesses do not know whether they will use AI in production 
+within the next 6 months. They just don't know if it is going 
+to be a part of their business or not. That is untenable in a 
+rapidly evolving technological landscape where small businesses 
+cannot afford to be left behind. This bill will level the 
+technological playing field for small businesses, providing 
+them the tools they need to thrive in an ever-changing global 
+economy.
+    AI isn't just for the tech giants. It is for everyone, 
+especially small businesses. Whether we are talking about a 
+local bakery, a landscaping company, or a digital startup, AI 
+has the potential to increase productivity, reduce costs, and 
+open up new growth opportunities. The AI WISE Act gives our 
+small businesses the knowledge they need to embrace AI and 
+remain the top job creators in our country.
+    I want to express my gratitude to Congressman Downing for 
+joining me in leading this bill. And I ask unanimous consent to 
+insert into the record letters of support for the AI WISE Act 
+from Intuit and OpenAI. I urge all of my colleagues to support 
+the AI WISE Act. The future of our economy depends on helping 
+small businesses harness the power of emerging technologies 
+like AI and this bill will help make that a reality.
+    I yield the remainder of my time.
+    Chairman WILLIAMS. Without objection, we will accept your 
+papers.
+    I now recognize Representative Downing from the great state 
+of Montana for a statement on the bill.
+    Mr. DOWNING. Thank you, Mr. Chairman. And thank you to my 
+colleague, Representative Scholten, for the work on this bill.
+    You know, over the course of the last several years, we 
+have seen incredible advancements in the development of AI 
+technology. AI capabilities, like machine learning, language 
+processing, these will play a critical role in our economy 
+moving forward. Businesses across our country are rapidly 
+incorporating AI to streamline key operations, like workforce 
+recruitment, marketing, strategy development. However, like any 
+emerging technology, businesses with substantial and stable 
+access to capital tend to be better positioned for technology 
+adoption and dealing with its ramifications. Small businesses, 
+on the other hand, including businesses in rural communities 
+like in my home district of central and eastern Montana, often 
+lack the resources and information needed to facilitate 
+technology adoption.
+    Now, according to a 2025 report from the U.S. Chamber of 
+Commerce, 59 percent of Montana small businesses have adopted 
+AI into their operations. While this figure is significant, it 
+pales in comparison to the near universal adoption of AI that 
+we have seen with Fortune 500 companies. This is why I am proud 
+to co-lead H.R. 5784, the AI WISE Act, with my colleague 
+Representative Scholten.
+    The AI WISE Act directs SBA to establish educational 
+resources on AI for small businesses through its online 
+learning program. In doing so, this legislation seeks to 
+provide small businesses with the technical and practical 
+knowledge needed in order to best navigate AI adoption.
+    To assemble this information, this legislation directs the 
+SBA to work in coordination with the National Institute for 
+Standards and Technology, NIST, as well as an advisory working 
+group of public and private sector partners. The scope of this 
+new AI educational material will include resources for small 
+businesses on how AI models work, best practices for 
+coordinating with third-party providers of AI tools, and how 
+businesses can identify tasks that AI can reliably and 
+effectively perform.
+    I would like to again thank my colleague Representative 
+Scholten for co-leading this legislation with me. The AI WISE 
+Act will ensure SBA provides small businesses with the 
+information that they will need to most effectively utilize AI 
+to bolster their business.
+    I urge all my colleagues to support this legislation, and, 
+Mr. Chair, I yield back.
+    Chairman WILLIAMS. The gentleman yields back.
+    Are there any of the Members who wish to be recognized for 
+a statement on the bill?
+    Seeing none, I would like to recognize the Ranking Member 
+to speak on the bill.
+    Ms. VELAZQUEZ. Thank you, Mr. Chairman. I am pleased to 
+support legislation to create artificial intelligence literacy 
+resources at the SBA and the resource partners. I thank Ms. 
+Scholten and Mr. Downing and the numerous AI and small business 
+stakeholders for working with me to develop this bill over the 
+last 2 years.
+    I has captured the imagination, excitement, and anxiety of 
+Main Street America and Congress since the launch of ChatGPT 
+just 2 years ago. While AI has the potential to make small 
+businesses more efficient and competitive, it also has risks 
+associated with its use. The AI WISE Act will empower America's 
+small businesses with the skill needed to evaluate and adopt AI 
+in this challenging landscape. It requires the SBA to create an 
+online AI literacy resource for small businesses and allow 
+their resource partners to build upon it with specialized and 
+localized resources to better serve their communities. As AI 
+revolutionizes our way of life, it is critical to ensure small 
+businesses are not left behind by the larger firms better 
+equipped to adopt the technology.
+    With that, I urge my colleagues to vote yes, and I yield 
+back.
+    Chairman WILLIAMS. The gentlelady yields back. Thank you.
+    And I now recognize myself to speak in support of this 
+legislation.
+    As we talked about today, nearly half of small businesses 
+are using the AI in some form, and more are exploring ways they 
+could make their businesses more efficient. As AI adoption 
+accelerates, it is critical that small businesses have the 
+tools and knowledge to stay competitive and thrive in the free 
+market. The AI WISE Act directs the SBA to establish 
+educational resources and online learning tools to help small 
+businesses understand the benefits and risks of integrating AI 
+into their operations.
+    This bill brings together the SBA, the National Institute 
+of Standards and Technology, and AI leaders to leverage 
+existing AI resources and develop educational tools that don't 
+just focus on the potential risks. It includes information 
+about how AI could enhance operations, customer service, and 
+productivity across main street's businesses. The AI WISE Act 
+puts the SBA at the forefront of streamlining information 
+directly for the many small businesses that don't know where to 
+access materials they need to fully scale their businesses 
+while leveraging AI.
+    I urge my colleagues to vote yes on H.R. 5784, and I yield 
+back.
+    Now, does anyone wish to offer an amendment?
+    Seeing none, the question is now on favorably reporting 
+H.R. 5784 to the House.
+    All those in favor, say aye.
+    All those opposed, say no.
+    In the opinion of the Chair, the ayes have it and H.R. 5784 
+is agreed to.
+    Mr. DOWNING. Mr. Chair?
+    Chairman WILLIAMS. The gentleman is recognized.
+    Mr. DOWNING. I request a recorded vote.
+    Chairman WILLIAMS. The gentleman requests, a recorded vote 
+has been requested. A roll call vote is ordered. Pursuant to 
+Committee rule 13 and House rule XI, further proceedings on the 
+bill are postponed.
+    H.R. 5778
+    The Committee now moves to consideration of H.R. 5778, the 
+Improving SBA Engagement on Employee Ownership Act, introduced 
+by Representatives McIver and Bresnahan and Ranking Member 
+Velazquez. The clerk will report the bill.
+    The CLERK. H.R. 5778, a bill to direct the administrator--
+--
+    Chairman WILLIAMS. Without objection, H.R. 5778 is 
+considered as read and open for amendment.
+    I now recognize the bill's sponsor, Representative McIver 
+from the great state of New Jersey, for a statement on the 
+bill.
+    Mrs. MCIVER. Thank you so much, Chairman. And thank you to 
+our Ranking Member for holding this markup today. I would like 
+to speak in strong support of my bill, H.R. 5778, the Improving 
+SBA Engagement on Employee Ownership Act, a bipartisan bill 
+that I am proud to lead with my colleague, Congressman 
+Bresnahan, there we go--sorry for butchering that--of 
+Pennsylvania and Ranking Member Velazquez of New York.
+    Employee ownership is one of the most powerful tools we 
+have to help working people build real wealth and strengthen 
+local economies. When employees become owners, whether through 
+employee stock ownership plans or cooperatives, they share in 
+the profits, have a voice in decision-making, and gain direct 
+stake in the success of the business. These are concrete 
+pathways for everyday people to obtain financial security and 
+stable jobs and to increase community investment. We have seen 
+it through data and through real-world stories. Programs like 
+this help our communities and economy.
+    Employee ownership has made a difference for people like 
+Emilio in my district at the Urban Agriculture Cooperative in 
+Newark, New Jersey. The Urban Agriculture Cooperative operates 
+a food hub, distributing healthy New Jersey products through 
+farmers markets and wholesale. Most recently, they provided 
+high-quality, local-grown produce to families in need during 
+the SNAP crisis. As a cooperative, like those my bill would 
+further support, they help employees build retirement savings 
+and keep businesses rooted in the neighborhoods they serve. 
+Employee owners like Emilio give so much to their workplace and 
+with this model, they get something positive in return.
+    Yet for far too long, the Small Business Administration has 
+not met its obligation to support these models. Despite the 
+proven benefits of ESOPs and cooperatives, SBA lending 
+programs, especially the flagship 7(a) program, have reached 
+only a tiny fraction of employee-owned businesses. In fact, 
+over the last several years, the SBA approved just five 7(a) 
+loans for SOPs or ESOPs and fewer than 100 for cooperatives, 
+serving only a silver of the thousands of employees--a sliver, 
+excuse me, serving only a sliver of the thousands of employee-
+owned businesses operating nationwide. That is not because the 
+models don't work. It is because the federal government has not 
+kept up with the growing demand of broad-based ownership.
+    My bill changes that. The Improving SBA Engagement on 
+Employee Ownership Act ensures that the SBA finally does its 
+job to support employee-owned businesses. It requires the 
+agency to show up consistently and at the highest levels in 
+federal discussions and about employee ownership and 
+cooperative development. It expands SBA outreach, especially 
+through the SBIC program, so lenders, investors, and 
+entrepreneurs understand how to use SBA tools to finance 
+transitions to employee ownership. And it directs the SBA to 
+finally start up the Small Business Employee Ownership and 
+Cooperatives Promotion Program, I must need another cup of 
+coffee, which Congress required 6 years ago, but has yet to be 
+implemented.
+    These are practical, commonsense steps that will help real 
+people, the blue collar worker at a manufacturing plant trying 
+to buy the business before it closes, the single mother working 
+at a home care agency who wants to keep serving families in her 
+community, or the young entrepreneur building a cooperative 
+that offers good jobs and share prosperity for their neighbors. 
+This bill helps them access capital, receiving technical 
+assistance, and navigate the federal programs that exist to 
+support them.
+    Employee ownership is critical to worker dignity and shared 
+success. It is about making sure workers are treated as 
+partners, not just laborers, and building an economy that 
+rewards hard work and not just wealth. I urge my colleagues to 
+support this bipartisan effort by improving SBA's engagement 
+with employee-owned businesses and cooperatives. We are 
+protecting good jobs, ensuring working people have a fair shot 
+at wealth. This is how we build a more inclusive economy for 
+all.
+    With that, Chairman, I yield back.
+    Chairman WILLIAMS. The gentlelady yields back.
+    I now recognize Representative Bresnahan from the great 
+state of Pennsylvania for a statement on the bill.
+    Mr. BRESNAHAN. Thank you, Mr. Chairman. So great to be 
+back. And thank you to my colleague Rep. McIver for leading 
+this important piece of legislation.
+    ESOPs are a proven asset to help workers become successful 
+partners in their businesses. When employees share in 
+ownership, they share in achievement, creating a workplace that 
+promotes personal investment and a group cooperation to grow a 
+business successfully. That is why I am proud to co-lead the 
+Improving SBA Engagement on Employee Ownership Act.
+    This legislation will strengthen the Small Business 
+Administration's ability to work with cooperative and employee-
+owned businesses to enrich local economies and provide business 
+owners with critical assistance to preserve jobs and promote 
+broad-based ownership. I am looking forward to seeing this bill 
+passed through committee, so we can continue to support the 
+small businesses and strengthen their impact on our 
+communities' economic stability.
+    And with that, I yield back.
+    Chairman WILLIAMS. The gentleman yields back.
+    Are there any other Members who wish to be recognized for a 
+statement on the bill?
+    Seeing none, I would like to recognize the Ranking Member 
+to speak on the bill.
+    Ms. VELAZQUEZ. Thank you, Mr. Chairman. I support H.R. 
+5778, and I want to thank Representatives McIver and Bresnahan 
+for their leadership on this issue.
+    Employee-owned businesses are a valuable model that 
+empowers workers and create strong American businesses. 
+Employee-owned businesses, like ESOPs, and other common control 
+enterprises, like co-ops, play a significant role in the U.S. 
+economy. As of 2022, there were more than 5,500 ESOPs holding 
+more than $1.8 trillion in assets and approximately 65,000 co-
+ops generating more than $324 billion in revenue.
+    These businesses need the backing of the products and 
+technical training that SBA provides in order to reach their 
+full potential. These businesses have had only limited access 
+to the SBA products, including the flagship 7(a) loan program. 
+Technical support for employee-owned businesses has also been 
+limited. The SBA has acknowledged these shortcomings and during 
+the Biden administration began to engage with ESOPs and co-ops 
+more directly. But more needs to be done. This bill will build 
+on the progress made by providing a framework for increasing 
+engagement between the SBA and other executive branch agencies 
+currently developing policies and regulations related to ESOPs 
+and co-ops.
+    I want to thank Representatives McIver and Bresnahan for 
+working on this bipartisan legislation and I encourage my 
+colleagues to support the bill. I yield back.
+    Chairman WILLIAMS. The gentlelady yields back, and thank 
+you.
+    And I now recognize myself to speak in support of this 
+legislation.
+    For some entrepreneurs, employee ownership and cooperative 
+business models can offer opportunities to empower their 
+employees and share the success of the company. The Improving 
+SBA Engagement on Employee Ownership Act requires the SBA to 
+finally implement requirements passed in the fiscal year 2019 
+NDAA to offer information and technical assistance on employee 
+ownership. It also gives the SBA a seat at the table where 
+other agencies are discussing these types of business models.
+    I urge my colleagues to vote yes on H.R. 5778, and I yield 
+back.
+    Does anyone wish to offer an amendment?
+    Seeing none, the question is now on favorably reporting 
+H.R. 5778 to the House.
+    All those in favor, say aye.
+    All those opposed, say no.
+    In the opinion of the Chair, the ayes have it and H.R. 5778 
+is agreed to.
+    Mr. BRESNAHAN. Mr. Chairman, I ask for a recorded vote.
+    Chairman WILLIAMS. Okay. The gentlemen asks for recorded 
+votes. It has been requested. A roll call vote is ordered. 
+Pursuant to Committee rule 13 and House rule XI, further 
+proceedings on the bill are postponed.
+    H.R. 4305
+    The Committee now moves to consideration of H.R. 4305, 
+Destroying Unnecessary, Misaligned, and Prohibitive Red Tape 
+Act of 2025, or the DUMP Red Tape Act, introduced by the 
+Representative Wied. The clerk report the bill.
+    The CLERK. H.R. 4305, a bill to direct the chief----
+    Chairman WILLIAMS. Without objection, H.R. 4305 is 
+considered as read and open for amendment.
+    The bill sponsor, Representative Wied, has an amendment in 
+the nature of a substitute at the desk. The amendment has been 
+distributed in advance. The clerk will report the amendment.
+    The CLERK. Amendment in the nature of a substitute to 
+H.R.----
+    Chairman WILLIAMS. Without objection, the amendment is 
+considered as read and the substitute will be considered in 
+base text for the purpose of further amendment.
+    I now recognize the bill's sponsor, Representative Wied 
+from the great state of Wisconsin, for a statement on the bill 
+and the amendment.
+    Mr. WEID. Thank you, Mr. Chairman. After suffering through 
+4 years of regulatory onslaught by the Biden administration, 
+totaling nearly 1.8 trillion in new costs and requiring an 
+additional 360 million hours to comply with these new 
+regulations, small businesses are desperate for regulatory 
+relief. In response, earlier this year, the Small Business 
+Administration created the Red Tape Hotline under its Office of 
+Advocacy. This hotline gives small businesses a seat at the 
+table to highlight the prohibitive red tape regulations from 
+across federal agencies that hurt their ability to grow and 
+compete.
+    My bill, H.R. 4305, the Destroying Unnecessary, Misaligned, 
+and Prohibitive Red Tape Act, codifies the SBA's Red Tape 
+Hotline. It also requires annual reports to Congress from the 
+Office of Advocacy detailing the most burdensome regulations 
+for small business owners and what the steps the SBA has taken 
+to advocate on their behalf. This bill is a commonsense way to 
+gather input directly from the people most harmed by 
+overregulation. I urge all of my colleagues to support this 
+important piece of legislation and stand with America's small 
+businesses.
+    And with that, I yield back.
+    Chairman WILLIAMS. The gentleman yields back.
+    Are there any other Members who wish to be recognized for a 
+statement on the bill?
+    Mr. MEUSER. Mr. Chairman?
+    Chairman WILLIAMS. Representative Meuser, Pennsylvania, 
+recognized.
+    Mr. MEUSER. May I be recognized? Thank you. Thank you, Mr. 
+Chairman. H.R. 4305, the DUMP Red Tape Act, I commend my 
+colleague, Mr. Wied, for introducing. I do think, however, it 
+should have been named the DUMP Blue Tape Act.
+    Anyway, we would require--it requires the SBA Office of 
+Advocacy to codify the Red Tape Hotline and submit an annual 
+report to Congress and Administrator Loeffler. This will 
+provide small businesses with an outlet to report arbitrary and 
+unnecessary regulations, as stated, directly to Congress and 
+the public.
+    Small businesses are the backbone of the U.S. economy, 
+generating 44 percent of economic activity and employing over 
+60 percent of the workforce. Yet under the Biden 
+administration, small businesses were forced to navigate a 
+complex regulatory landscape, resulting in $1.7 trillion in new 
+regulatory costs and over 300 million hours of paperwork. These 
+burdens ultimately fell on small businesses, limiting their 
+ability to innovate, grow, and compete.
+    So the Red Tape Hotline demonstrates that the Trump 
+administration and Republicans want to hear directly from small 
+businesses about the regulatory challenge they are facing. 
+Unlike the Biden administration, we will continue delivering 
+for small businesses by increasing transparency, promoting pro-
+growth policies, and streamlining communications.
+    I urge my colleagues to support the bill, and I yield back.
+    Chairman WILLIAMS. The gentleman yields back.
+    Are there any other Members who wish to be recognized for a 
+statement on the bill?
+    Seeing none, I would like to recognize the Ranking Member 
+to speak on the bill and the amendment.
+    Ms. VELAZQUEZ. Thank you, Mr. Chairman. I want to express 
+my opposition to H.R. 4305. While this bill is less 
+objectionable than other anti-regulatory bills we have 
+considered this Congress, it is simply not necessary.
+    To begin with, a deregulatory hotline already exists on 
+regulations.gov. Establishing another creates duplication and 
+drains SBA resources.
+    More concerning the proposal hasn't been vetted properly. 
+In the first 100-day report, Advocacy indicated there were 96 
+small business submissions. Yet despite repeated requests for 
+more detailed information, Advocacy has failed to provide any 
+specific information about this request. We have no way of 
+knowing if the submissions are related to rules. They could 
+have easily been about tariffs or unpaid invoices to 
+contractors. That is why I cannot support it. We have no 
+information and the bill is more slogan than substance, 
+ignoring other federal actions that are harming small 
+businesses.
+    We have heard testimony that small businesses are not 
+talking about regulations. It ranks near the bottom of their 
+list of concerns. Inflation, tariffs, and finding good 
+employees are some of the top challenges facing small 
+businesses. Take a walk down main street and you will hear the 
+same concern from small business owners up and down the block. 
+The uncertainty and rising costs tied to the Trump tariffs are 
+crushing their small businesses, plain and simple.
+    And to the best of my knowledge, Advocacy has not weighed 
+in with the administration, which raises concerns over their 
+lack of independence from the administration. I recall the many 
+times the administrator from the Biden administration came here 
+to testify and, you know, she was castigated, asking her if she 
+talked to Joe Biden, the President, about the impact of taxes 
+on them. Well, now my question is, is the administrator 
+discussing with Donald Trump the impact that tariffs is having 
+on small businesses. Or healthcare subsidy expirations, how 
+will that impact small businesses?
+    Instead of looking for ways to address inflation, tariffs, 
+and labor shortages, this bill is narrowly drafted to focus on 
+rolling back rules that protect our health, environment, and 
+safety. Turning to the specifics, the bill lacks adequate 
+reporting mechanisms to identify who is making the submissions, 
+leaving it vulnerable to abuse. Advocacy has come under fire 
+for doing the bidding of big businesses in the past, and they 
+are not reporting a requirement in this bill to distinguish 
+between a small business, trade association, or law firm. And 
+the bill focuses only on the cost of regulations, not the 
+benefits, which is only one-half of the equation.
+    We need to look at both sides of the ledger, and by doing 
+so, we will see that the benefits of the rule greatly outweigh 
+the costs. For this reason, I plan to oppose the bill.
+    With that said, if we can get the specific information from 
+Advocacy as to what small businesses are actually submitting on 
+the hotline and a better understanding of the mechanics of the 
+hotline to ensure independence between SBA and Advocacy, I may 
+be then willing to work with you on this bill.
+    I yield back.
+    Chairman WILLIAMS. The gentlelady yields back.
+    Are there any other Members who wish to be recognized for a 
+statement on the bill?
+    Mr. STAUBER. Mr. Chair?
+    Chairman WILLIAMS. Recognized.
+    Mr. STAUBER. Thank you very much. I support this bill. I 
+think the intentions are pure.
+    And whenever we have had witnesses in this Committee, we 
+have asked how many of you want more bureaucrat issues, more 
+regulations, more rules, more redundancy, more impact on small 
+businesses? Every one of them said the federal government, stay 
+off our backs, get out of our pockets, let us live the American 
+dream and work in our communities. Mr. Wied understands that in 
+his town of Wisconsin. I understand that in northern Minnesota. 
+This bill is a very good bill. It is a good start to make sure 
+that they have the opportunity to succeed.
+    And the gentlelady, the Ranker, talks about, you know, 
+asking small businesses beforehand. Well, I say the 
+Unaffordable Care Act, you never ask small businesses. They are 
+damaged because of that.
+    Mr. Wied, this is a very good piece of legislation and I 
+support it. I commend you for bringing it up. This is what the 
+small business is for, to make sure that the men and women 
+across this nation who risk everything to succeed.
+    This is one of those pieces of legislation that I am in 
+favor of, and I yield back.
+    Chairman WILLIAMS. The gentleman yields back.
+    I now recognize myself to speak in support of this 
+legislation.
+    H.R. 4305, the DUMP Red Tape Act, codifies the Red Tape 
+Hotline launched by the SBA Office of Advocacy on March 10, 
+2025. The hotline gives small businesses a direct line to SBA 
+Advocacy to report burdensome regulations that are holding them 
+back and further enhances our ability to combat job-crushing 
+red tape by requiring the Office of Advocacy to bring this 
+feedback straight to Congress. And by empowering small business 
+to speak up to federal agencies accountable, this bill will 
+strengthen our commitment to pro-growth, pro-innovation 
+economy. It is necessary to get the government out of the way 
+so that our small business owners can do what they do best.
+    I urge my colleagues to vote yes on H.R. 4305, and I yield 
+back.
+    Now, does anyone wish to offer an amendment?
+    Mr. CISNEROS. Mr. Chairman?
+    Chairman WILLIAMS. So moved. You are recognized.
+    Mr. CISNEROS. I have an amendment at the desk.
+    Chairman WILLIAMS. Okay. There is an amendment at the desk. 
+We will briefly pause while staff distributes the amendment.
+    Okay. The clerk will report the amendment.
+    The CLERK. Amendment to the amendment in the nature of a 
+substitute to H.R. 43----
+    Chairman WILLIAMS. Without objection, the amendment is 
+considered as read.
+    And I now recognize the Representative Cisneros for 5 
+minutes on the amendment.
+    Mr. CISNEROS. Thank you, Mr. Chairman. And I want to thank 
+you and the Ranking Member on the great bipartisan work you 
+have done today on so many of these amendments.
+    My amendment would build on the ability of small businesses 
+and entities to not only report on potentially erroneous and 
+burdensome regulations, but to report rules that help safeguard 
+small business interests and competition. My amendment also 
+expands the hotline to better listen to small business concerns 
+on other government actions that impact them, such as tariffs, 
+healthcare, and immigration enforcement.
+    What I hear the most from small businesses is that they 
+need relief from tariffs and the uncertainty around them. If we 
+truly want to support small businesses, we need to provide them 
+with an avenue to express their grievances and truly hear what 
+they need and to act on it. Some Members of this Committee plug 
+their ears and close their eyes when tariffs are mentioned. But 
+that is what small businesses are overwhelmingly sharing as 
+their main concern right now. If the Office of Advocacy won't 
+advocate for small businesses regarding tariffs, who else in 
+our federal government will? Where can small businesses share 
+their concerns?
+    The Office of Advocacy is meant to advocate for small 
+businesses, period. Assertions about their limitations are a 
+fabrication of this administration and a byproduct of Project 
+2025. If you truly believe that Advocacy cannot advocate 
+against policies like tariffs that negatively impact small 
+businesses, then I am open to working with you to expand the 
+mandate to ensure small businesses have a voice in government 
+that advances their views and concerns before Congress, the 
+White House, across federal agencies, and the courts, as 
+appropriate.
+    The unfortunate thing about this hotline is that we have 
+not had anyone from the Office of Advocacy come to publicly 
+testify before this Committee, much less share what small 
+businesses have raised so far. So my amendment would require 
+more transparency from the Advocacy through the information it 
+needs to report to Congress. My amendment would do this by 
+ensuring Advocacy provides Congress information on all the 
+government actions small businesses are raising, the 
+recommendations for the actions to minimize those burdens, a 
+summary of actions taken by Advocacy, and a type of entity that 
+is making no submissions.
+    We all want to unleash the innovations and level the 
+playing field for our small businesses. I hope my colleagues 
+across the aisle will join me in supporting my amendment to 
+ensure that our small businesses truly have their voices heard 
+throughout the federal government.
+    And I yield back.
+    Chairman WILLIAMS. The gentleman yields back.
+    Is there further debate on the amendment?
+    Mr. Wied, you are recognized.
+    Mr. WEID. I noticed you even want to change the name of our 
+bill from DUMP Red Tape Act to Cut the Burden, Keep the 
+Benefits. Translation: Keep the red tape. But here is the 
+thing. Small businesses don't benefit from more bureaucracy. 
+They benefit when we actually cut the red tape holding them 
+back, which is exactly what my bill does.
+    This amendment tries to capture all federal actions, 
+including presidential actions, but that is far beyond the 
+scope of the SBA statutory mission. The SBA's Office of 
+Advocacy was created to be the voice of small businesses in the 
+regulatory process, not a catch-all for every executive or 
+presidential action. If you expand the scope of the Red Tape 
+Hotline, you will drown out legitimate small business concerns 
+in a sea of unrelated political disputes.
+    Ironically, this amendment adds layers of bureaucracy by 
+requiring SBA to track and report on presidential action, 
+something outside its expertise. That means more paperwork, 
+more delays, and fewer resources devoted to actually helping 
+small businesses. Our bill is about streamlining, not expanding 
+government paperwork.
+    I urge my colleagues to vote no on this amendment.
+    Chairman WILLIAMS. The gentleman yields back.
+    Is there any further debate on the amendment?
+    Okay. The Ranking Member?
+    Mrs. MCIVER. Chairman?
+    Chairman WILLIAMS. Yes, ma'am.
+    Mrs. MCIVER. I would like to yield some time to my 
+colleague.
+    Chairman WILLIAMS. And Mrs. McIver, you are recognized.
+    Mr. CISNEROS. Thank you, Ms. McIver, for yielding me my 
+time--this time. Just to answer back, you know, to my colleague 
+over there, this bill has no way of expanding red tape at all. 
+It actually simply, I think, helps make your bill better by 
+requiring the Small Business Association, the Office of 
+Advocacy, to actually come to us and report and share what they 
+are hearing from these small businesses, which only helps us be 
+more impactful in helping support their small businesses.
+    Really, that is simply all that we are asking. And we are 
+asking that they, you know, kind of broaden their scope as to 
+what, you know, as to what the small businesses can report. 
+Right? Whether it is tariffs, healthcare, other issues, you 
+know, collecting this information and then reporting what this 
+information is, what are they gathering, and bringing that to 
+us. That in no way increases the amount of red tape or anything 
+that we are asking for. We are just asking them to report on 
+what is being reported to them and sharing that information 
+with us, which helps us better help the small businesses.
+    And with that, I yield back.
+    Chairman WILLIAMS. The gentleman yields back.
+    Is there any further debate on the amendment?
+    Okay. Seeing none, the Ranking Member is now recognized to 
+speak on the amendment.
+    Ms. VELAZQUEZ. Thank you, Mr. Chairman. I lend my support 
+to the amendment being offered by my colleague, Mr. Cisneros.
+    The amendment will make a number of improvements to the 
+underlying bill. First, it strengthens the legislative text by 
+refining the definitions and scope to better align with 
+Advocacy's role and the requirements set forth in the 
+Regulatory Flexibility Act. The gentleman said that this 
+amendment is out of the scope of Advocacy. That is not true. So 
+let me read the statute. ``The Office of Advocacy should also 
+perform the following duties on a continuing basis: serve as a 
+local point for the receipt of complaints, criticism, and 
+suggestions concerning the policies and activities of the 
+administration, including the current administration and any 
+other federal agency which affects small businesses.''
+    Second, the amendment allows small entities to weigh in on 
+executive orders and other actions being taken by the 
+administration, and, more importantly, requires Advocacy to 
+report on the actions taken. This provision is particularly 
+critical now as the Trump tariffs are generating widespread 
+confusion and uncertainty and inflicting onerous burden on 
+small businesses. You don't want to talk about tariffs and the 
+impact that it is having on small businesses. You want to talk 
+about regulations. But when you go and walk down the street and 
+talk to small businesses, small farmers, they are all raising 
+the issue of the impact of tariffs in their businesses. 
+Surprisingly, or maybe not surprisingly, the Office of Advocacy 
+has been eerily silent on this topic as well as this Committee.
+    Finally, the amendment will strengthen the reporting 
+requirements and rename the bill to the Cut the Burden, Keep 
+the Benefits Act. Advocacy will be required to report on the 
+benefits of the rules, which must always outweigh the causes. 
+Mr. Cisneros is offering a commonsense amendment. I urge all my 
+colleagues to support this amendment.
+    Chairman WILLIAMS. The gentlelady yields back.
+    I now recognize myself to speak on the amendment.
+    After only 50 days of opening the hotline earlier this 
+year, the SBA Advocacy received 96 red tape hotline inquiries 
+from small businesses across the country. Small businesses have 
+been taking advantage of the hotline and Congress needs to 
+ensure stability by codifying the hotline. We need to focus on 
+how we can provide main street with the best avenues to reach 
+regulatory relief, and that is through the original amendment 
+in the nature of a substitute provided by Representative Wied.
+    I urge my colleagues to vote no on this legislation. Vote 
+no on the amendment on this legislation.
+    Ms. VELAZQUEZ. Mr. Chair?
+    Chairman WILLIAMS. Yes, ma'am.
+    Ms. VELAZQUEZ. You know, you said just now that there has 
+been 96 submissions. Since our side has not been given the 
+opportunity to look at those submissions, have you seen those 
+submissions? Are they related to regulation?
+    Chairman WILLIAMS. We can--I mean, what we can--we can find 
+out. I have not seen them. No. Okay?
+    Ms. VELAZQUEZ. I rest of my case.
+    Chairman WILLIAMS. All right.
+    The question now occurs on the amendment offered by 
+Representative Cisneros.
+    All those in favor, say aye.
+    All those opposed, say no.
+    In the opinion of the Chair, the noes have it.
+    Mr. CISNEROS. Mr. Chairman, I ask for a recorded vote.
+    Chairman WILLIAMS. A recorded vote has been requested and a 
+roll call vote is ordered, so further proceedings on the 
+amendment are postponed.
+    Does anyone wish to offer an amendment?
+    Ms. SCHOLTEN. Mr. Chair?
+    Chairman WILLIAMS. Okay. There is amendment.
+    Ms. SCHOLTEN. Yes. Mr. Chair, sorry, I have an amendment at 
+the desk.
+    Chairman WILLIAMS. Oh, so moved. There is an amendment at 
+the desk. We will briefly pause while staff distributes the 
+amendment.
+    Okay. The clerk will report the amendment.
+    The CLERK. Amendment to the amendment in the nature of a 
+substitute to H.R. 4305, offered by----
+    Chairman WILLIAMS. Without objection, the amendment is 
+considered as read.
+    And I now recognize Representative Scholten for 5 minutes 
+on the amendment.
+    Ms. SCHOLTEN. Thank you, Mr. Chair. One of the best parts 
+of the Small Business Committee is how often Democrats and 
+Republicans can come together to solve real problems facing 
+main street. Small business owners don't cut corners to get 
+results and, most of the time, neither do Members of this 
+Committee. Unfortunately, with the DUMP Red Tape Act, Committee 
+Republicans have rushed a flawed bill to solve a problem we 
+could be addressing on a bipartisan basis.
+    Small businesses are the backbone of our economy. It has 
+been said several times today. If there is no greater bedrock 
+in this Committee, it is that. And we all agree that they need 
+support in navigating the complex web of challenges that they 
+face every day. Maintaining a hotline that will help small 
+business owners report some of their most significant hurdles 
+is a good idea. It is already in practice and something that 
+Democrats and Republicans can continue to do in a bipartisan 
+fashion.
+    The problem with today's bill is that Committee Republicans 
+are trying to codify a hotline where it seems that anyone, 
+small business or not, can register a complaint. And that is 
+because they get reported to Congress anonymously, and the 
+complaint has to be about a specific regulation. So the real 
+problem is individuals from lobbying firms, attorneys 
+representing major businesses can register complaints here 
+anonymously under the guise of being a small business. Large 
+businesses themselves can come here and register these 
+complaints anonymously. Is this really about helping small 
+businesses or is this a suggestion box for billionaires?
+    If we are going to spend taxpayer money on running this 
+hotline, it is our job to make that hotline help real small 
+businesses with real challenges. The DUMP Red Tape Act needs 
+significant changes to meet that bar, and today I am offering 
+an amendment to get us one step closer to legislation that is 
+worthy of the small businesses in our districts.
+    My amendment addresses a concern I hear from so many 
+business owners in West Michigan. Running a business is 
+challenging, and doing so in an unpredictable economic 
+landscape is even more difficult. President Trump promised to 
+lower prices starting on day one, but instead he has 
+implemented a series of tariffs that have created chaos and 
+real costs for entrepreneurs. As the cost of materials have 
+jumped across the board, small businesses have borne the brunt 
+of these policies. I know my Republican colleagues have heard 
+it, too.
+    As currently written, the hotline under the DUMP Red Tape 
+Act permits submissions on burdensome rules and regulations, 
+but it does not allow for submissions on executive actions like 
+tariffs. My amendment to the DUMP Red Tape Act will allow small 
+businesses to submit concerns to the hotline about executive 
+orders and proclamations relating to tariffs. We should not be 
+afraid to receive this feedback. We should not be limiting the 
+uses of the hotline, especially when tariffs remain one of the 
+biggest challenges small business owners deal with on a daily 
+basis.
+    The Trump administration has already set up a hotline that 
+has received 96 submissions. Unfortunately, we do not know what 
+these submissions are about, as the Ranking Member pointed out. 
+They could very well be about tariffs, rules, or nonpayment of 
+government contractors, not just burdensome regulations. This 
+Committee and the people that we represent deserve to know what 
+those submissions are about. If we are going to pass 
+legislation to make this hotline permanent, we need to ensure 
+that it can receive submissions accounting for all of the very 
+real challenges of small business ownership. My amendment would 
+help to do just that.
+    I urge my colleagues to support this amendment. We want to 
+make this hotline work and be a real tool for small businesses 
+to connect and make real change.
+    I yield back the remainder of my time.
+    Chairman WILLIAMS. The gentlelady yields back.
+    And is there further debate on the amendment?
+    Mr. WEID. Yes.
+    Chairman WILLIAMS. Representative Wied.
+    Mr. WEID. As a former small business owner for my entire 
+lifetime up to this point, I would say the purpose of this bill 
+is to give our hardworking small businesses a voice in, you 
+know, exposing overbearing regulations that hurt our small 
+businesses from growing.
+    Tariffs are a matter of national trade and foreign policy 
+overseen by Congress and the administration, not the SBA. 
+Tariffs right now, they are used to protect American 
+industries, enforce fair trade, and respond to global 
+imbalances in trade. They are not red tape. They don't impose 
+compliance paperwork or permitting delays that continue to hurt 
+small businesses. Including presidential tariff actions, that 
+would turn the hotline into a political complaint desk about 
+trade policy. That undermines its credibility as a neutral, 
+business-focused tool.
+    Congress already has oversight mechanisms for tariffs and 
+trade policy. Our bill avoids duplication by keeping the 
+hotline focused on regulations. If every tariff proclamation is 
+subject to hotline review, it signals to foreign competitors 
+that U.S. trade policy is fragmented and negotiable. That 
+weakens America's hand in trade negotiations and could harm the 
+very small businesses the amendment claims to protect.
+    I urge my colleagues to vote no on this amendment.
+    Chairman WILLIAMS. The gentleman yields back.
+    Is there further debate on the amendment?
+    Mr. McGarvey is recognized.
+    Mr. MCGARVEY. Thank you, Mr. Chairman. I yield my time to 
+Congresswoman Ms. Scholten.
+    Ms. SCHOLTEN. Mr. Chairman, most small business owners 
+don't necessarily know the difference between a regulation, a 
+point of law, or the tariffs that are harming their small 
+businesses, but they sure know what is impacting their bottom 
+line. This Committee should not be afraid to receive feedback 
+and, further, to know what is included in those 96 complaints 
+that have already been received. This is a commonsense 
+amendment that would open this up for small business owners to 
+be able to have the freedom to share with this Committee how we 
+can best help them.
+    I yield back.
+    Chairman WILLIAMS. Is there any further debate on the 
+amendment?
+    Mr. CISNEROS. Mr. Chairman? Mr. Chairman?
+    Chairman WILLIAMS. Mr. Cisneros is recognized.
+    Mr. CISNEROS. Thank you, Mr. Chairman. Look, I just want to 
+address the issue we do need--the one thing that I hear from my 
+small businesses in my district is just give us stability. I 
+need stability. But when we have a President who makes a whim 
+on a tariff and raises them for Canada because he didn't like a 
+commercial that he saw during the World Series, that is no 
+stability there. Right? That is not what our small businesses 
+are asking for, and they need to be able to kind of make that 
+complaint and bring it forward. And that is something the 
+Office of Advocacy should be reporting to us in Congress, so 
+that we can help address these issues.
+    But with that, we just want to make this bill better. Give 
+the small businesses the opportunity to report what they are 
+hearing and have the SBA come to us and tell us what they are 
+hearing, which is, obviously, which is not happening now with 
+the way this is working now.
+    And with that, I yield back.
+    Chairman WILLIAMS. The gentleman yields back.
+    Is there further debate on the amendment?
+    Okay. The Ranking Member is now recognized to speak on the 
+amendment.
+    Ms. VELAZQUEZ. Thank you, Mr. Chairman. And I lend my 
+support to the amendment offered by my colleague, Ms. Scholten.
+    The amendment would allow small businesses to submit 
+concerns about tariffs and require Advocacy to report on its 
+action to limit the burden. The Office of Advocacy is the voice 
+of small businesses. It is not limited only to complaints about 
+regulations. It is open to anything that impacts small 
+businesses. The 96 submissions to the advocacy hotline could 
+have easily been about tariffs, but we don't know. The Chairman 
+doesn't know. I just asked him. He hasn't seen any of the 
+submissions. The administration didn't provide information to 
+us. So if we are here passing legislation based on what we hear 
+and what the SBA wants to tell us, but not to share the 
+specific information, we need to do better by small businesses.
+    Tariffs, not regulations, are crushing small businesses. 
+Small businesses all across the country are shouldering the 
+costs of the Trump tariffs. The cost of goods is rising 
+exponentially, making it harder and hard for small businesses 
+to do what they do best: create jobs, innovate, and flourish. 
+Despite promises made by the Trump administration to lower 
+costs on day one, President Trump's policies have inflicted 
+pain on every sector of the small business economy.
+    And where is the Office of Advocacy when small businesses 
+are under siege? Nowhere to be found.
+    I strongly support the amendment, which would allow us to 
+get a better understanding of how many small businesses are 
+contacting Advocacy about tariffs and see if Advocacy is 
+advocating for them.
+    I urge my colleagues to support this amendment, and I yield 
+back, Mr. Chairman.
+    Chairman WILLIAMS. The gentlelady yields back.
+    I now recognize myself to speak on the amendment.
+    As my colleague mentioned, the amendment is unnecessary 
+because the Red Tape Hotline needs to be targeted to address 
+the regulatory burdens main street is feeling every day, not 
+what is defined in this proposed amendment. I urge my 
+colleagues to vote no on this amendment.
+    Now, the question now occurs on the amendment offered by 
+Representative Scholten.
+    All those in favor, say aye.
+    All those opposed, say no.
+    In the opinion of the Chair, the noes----
+    Ms. SCHOLTEN. Mr. Chairman, I request a recorded vote.
+    Chairman WILLIAMS. The Member is recognized and a recorded 
+vote has been requested. A roll call vote is ordered. Further 
+proceedings on the amendment are postponed.
+    Okay. Now, the question now occurs on the adoption of the 
+substitute amendment offered to H.R. 4305 by Representative 
+Wied.
+    All those in favor, say aye.
+    All those opposed, say no.
+    In the opinion of the Chair, the ayes have it. The 
+amendment in the nature of a substitute to H.R. 4305 is 
+adopted.
+    The question is now on favorably reporting H.R. 4305, as 
+amended, to the House.
+    All those in favor, say aye.
+    All those opposed, say no.
+    In the opinion of the Chair, the ayes have it and H.R. 
+4305, as amended, is agreed to.
+    Mr. WEID. Mr. Chairman, ask for a recorded vote.
+    Chairman WILLIAMS. Okay, we recognize that and a recorded 
+vote has been requested. A roll call vote is ordered. And 
+pursuant to Committee rule 13 and House rule XI, further 
+proceedings on the bill are postponed.
+    Now, the Committee will stand in recess subject to the call 
+to the Chair. Members, please return, do we know 11:40? Please 
+return at 11:40 to resume consideration of the bill on which 
+the roll call votes were requested and postponed.
+    [Recess.]
+    Chairman WILLIAMS. Okay. The Committee will now come to 
+order.
+    The Committee will resume consideration of the bills on 
+which roll call votes were requested and postponed. We start 
+with H.R. 5763.
+    The question now is on adopting H.R. 5763 and ordering it 
+favorably to the House. The clerk will open the vote.
+    [The vote was taken.]
+    Chairman WILLIAMS. Are there any other Members who have not 
+voted or wish to change their vote?
+    If not, the clerk will close the vote and the clerk will 
+report.
+    The CLERK. Mr. Chairman, on this vote, the ayes are 27 and 
+the noes are 0.
+    Chairman WILLIAMS. Okay. The motion is agreed to and H.R. 
+5763 is adopted and will be reported favorably to the House.
+    The question now is adopting H.R. 5788 and ordering it 
+favorably to the House. The clerk will open the vote.
+    [The vote was taken.]
+    Chairman WILLIAMS. Are there any other Members who have not 
+voted or wish to change their vote?
+    Okay. If not, the clerk will close the vote and the clerk 
+will report.
+    The CLERK. Mr. Chairman, on this vote, the ayes are 27 and 
+the noes are 0.
+    Chairman WILLIAMS. The motion is agreed to and H.R. 5788 is 
+adopted and will be reported favorably to the House.
+    The question now is adopting H.R. 3496, as amended, and 
+ordering it favorably to the House. The clerk will open the 
+vote.
+    [The vote was taken.]
+    Chairman WILLIAMS. Are there any other Members who have not 
+voted or wish to change the vote?
+    If not, the clerk will close the vote and the clerk will 
+report.
+    The CLERK. Mr. Chairman, on this vote, the ayes are 27 and 
+the noes are 0.
+    Chairman WILLIAMS. Okay. The motion is agreed to and H.R. 
+3496, as amended, is adopted and will be reported favorably to 
+the House.
+    The question now is on ordering H.R. 5764, as amended, and 
+ordering it favorably to the House.
+    The clerk will open the vote.
+    [The vote was taken.]
+    Chairman WILLIAMS. Are there any other Members who have not 
+voted and wish to change their vote?
+    If not, the clerk will close the vote and the clerk will 
+report.
+    The CLERK. Mr. Chairman, on this vote, the ayes are 27 and 
+the noes are 0.
+    Chairman WILLIAMS. The motion is agreed to and H.R. 5764, 
+as amended, is adopted and will be reported favorably to the 
+House.
+    The question now is on adopting H.R. 5784 and ordering it 
+favorably to the House. The clerk will open the vote.
+    [The vote was taken.]
+    Chairman WILLIAMS. Are there any of the Members who have 
+not voted or wish to change their vote?
+    If not, the clerk will close the vote and the clerk will 
+report.
+    The CLERK. Mr. Chairman, on this vote, the ayes are 27 and 
+the noes are 0.
+    Chairman WILLIAMS. The motion is agreed to and H.R. 5784 is 
+adopted and will be reported favorably to the House.
+    The question now is on adopting H.R. 5778 and ordering it 
+favorably to the House. The clerk will open the vote.
+    [The vote was taken.]
+    Chairman WILLIAMS. Are there any other Members who have not 
+voted or wish to change their vote?
+    If not, the clerk will close the vote and clerk will 
+report.
+    The CLERK. Mr. Chairman, on this vote, the ayes are 27 and 
+the noes are 0.
+    Chairman WILLIAMS. The motion is agreed to and H.R. 5778 is 
+adopted and will be reported favorably to the House.
+    Now, we will now vote on H.R. 4305. The question is on the 
+amendment offered by Representative Cisneros. The clerk will 
+open the vote.
+    [The vote was taken.]
+    Chairman WILLIAMS. Are there any other Members who have not 
+voted or wish to change their vote?
+    If not, the clerk will close the vote and the clerk will 
+report.
+    The CLERK. Mr. Chairman, on this vote, the ayes are 12 and 
+the noes are 15.
+    Chairman WILLIAMS. The amendment is not agreed to.
+    The question is on the amendment offered by Representative 
+Scholten. The clerk will open the vote.
+    [The vote was taken.]
+    Chairman WILLIAMS. Are there any other Members who have not 
+voted or wish to change their vote?
+    If not, the clerk will close the vote and the clerk will 
+report.
+    The CLERK. Mr. Chairman, on this vote, the ayes are 12 and 
+the noes are 15.
+    Chairman WILLIAMS. Okay. The amendment is not agreed to.
+    Now, the question is now, is adopting to H.R. 4305, as 
+amended, and ordering it favorably to the House. The clerk will 
+open the vote.
+    [The vote was taken.]
+    Chairman WILLIAMS. Are there any other--okay. Are there any 
+Members who have not voted or wish to change their vote?
+    Okay. If not, the clerk will close the vote and the clerk 
+will report.
+    The CLERK. Mr. Chairman, on this vote, the ayes are 18 and 
+the noes are 9.
+    Chairman WILLIAMS. The motion is agreed to and H.R. 4305, 
+as amended, is adopted and will be reported favorably to the 
+House.
+    Now, if there is--okay. If there is no further business, 
+this concludes today's markup. I want to say I think we had a 
+good markup. Bipartisanship is strong in this Committee, and we 
+are getting things done.
+    So, without objection, the Committee staff is authorized to 
+make technically conforming changes and Members have 2 business 
+days to file additional supplemental, dissenting, and minority 
+views.
+    I want to thank all of you for being here today. Without 
+objection, the Committee stands adjourned.
+    [Whereupon, at 11:51 a.m., the committee was adjourned.]
+
+                            A P P E N D I X
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+                                 [all]

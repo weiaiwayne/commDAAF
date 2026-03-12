@@ -1,0 +1,2570 @@
+- OVERSIGHT OF A.I.: LEGISLATING ON ARTIFICIAL INTELLIGENCE
+
+[Senate Hearing 118-154]
+[From the U.S. Government Publishing Office]
+
+                                                        S. Hrg. 118-154
+
+                     OVERSIGHT OF A.I.: LEGISLATING
+                       ON ARTIFICIAL INTELLIGENCE
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                        SUBCOMMITTEE ON PRIVACY,
+                        TECHNOLOGY, AND THE LAW
+
+                                 OF THE
+
+                       COMMITTEE ON THE JUDICIARY
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                           SEPTEMBER 12, 2023
+
+                               __________
+
+                          Serial No. J-118-30
+
+                               __________
+
+         Printed for the use of the Committee on the Judiciary
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]         
+
+                        www.judiciary.senate.gov
+                            www.govinfo.gov
+
+                                __________
+
+                   U.S. GOVERNMENT PUBLISHING OFFICE                    
+53-879                     WASHINGTON : 2025                  
+
+-----------------------------------------------------------------------------------                              
+
+                       COMMITTEE ON THE JUDICIARY
+
+                   RICHARD J. DURBIN, Illinois, Chair
+DIANNE FEINSTEIN, California         LINDSEY O. GRAHAM, South Carolina, 
+SHELDON WHITEHOUSE, Rhode Island             Ranking Member
+AMY KLOBUCHAR, Minnesota             CHARLES E. GRASSLEY, Iowa
+CHRISTOPHER A. COONS, Delaware       JOHN CORNYN, Texas
+RICHARD BLUMENTHAL, Connecticut      MICHAEL S. LEE, Utah
+MAZIE K. HIRONO, Hawaii              TED CRUZ, Texas
+CORY A. BOOKER, New Jersey           JOSH HAWLEY, Missouri
+ALEX PADILLA, California             TOM COTTON, Arkansas
+JON OSSOFF, Georgia                  JOHN KENNEDY, Louisiana
+PETER WELCH, Vermont                 THOM TILLIS, North Carolina
+                                     MARSHA BLACKBURN, Tennessee
+             Joseph Zogby, Chief Counsel and Staff Director
+      Katherine Nikas, Republican Chief Counsel and Staff Director
+
+            Subcommittee on Privacy, Technology, and the Law
+
+                 RICHARD BLUMENTHAL, Connecticut, Chair
+AMY KLOBUCHAR, Minnesota             JOSH HAWLEY, Missouri, Ranking 
+CHRISTOPHER A. COONS, Delaware           Member
+MAZIE K. HIRONO, Hawaii              JOHN KENNEDY, Louisiana
+ALEX PADILLA, California             MARSHA BLACKBURN, Tennessee
+JON OSSOFF, Georgia                  MICHAEL S. LEE, Utah
+                                     JOHN CORNYN, Texas
+                David Stoopler, Democratic Chief Counsel
+                 John Ehrett, Republican Chief Counsel
+
+                           C O N T E N T S
+
+                              ----------                              
+
+                           OPENING STATEMENTS
+
+                                                                   Page
+
+Blumenthal, Hon. Richard.........................................     1
+Hawley, Hon. Josh................................................     3
+
+                               WITNESSES
+
+Dally, William...................................................     4
+    Prepared statement...........................................    46
+    Responses to written questions...............................    54
+
+Hartzog, Woodrow.................................................     7
+    Prepared statement...........................................    55
+    Responses to written questions...............................    70
+
+Smith, Brad......................................................     6
+    Prepared statement...........................................   105
+    Responses to written questions...............................   115
+
+                                APPENDIX
+
+Items submitted for the record...................................    45
+
+                     OVERSIGHT OF A.I.: LEGISLATING
+                       ON ARTIFICIAL INTELLIGENCE
+
+                              ----------                              
+
+                      TUESDAY, SEPTEMBER 12, 2023
+
+                      United States Senate,
+               Subcommittee on Privacy, Technology,
+                                       and the Law,
+                                Committee on the Judiciary,
+                                                    Washington, DC.
+    The Subcommittee met, pursuant to notice at 2:35 p.m., in 
+Room 226, Dirksen Senate Office Building, Hon. Richard 
+Blumenthal, Chair of the Subcommittee, presiding.
+    Present: Senators Blumenthal [presiding], Klobuchar, 
+Hirono, Ossoff, Hawley, Kennedy, and Blackburn.
+
+         OPENING STATEMENT OF HON. RICHARD BLUMENTHAL,
+          A U.S. SENATOR FROM THE STATE OF CONNECTICUT
+
+    Chair Blumenthal. The hearing of our Subcommittee on 
+Privacy, Technology, and the Law will come to order. I want to 
+welcome our witnesses, all of the audience who are here, and 
+say a particular thanks to Senator Schumer, who has been very 
+supportive and interested in what we're doing here. And also to 
+Chairman Durbin whose support has been invaluable in 
+encouraging us to go forward here.
+    I have been grateful, especially to my partner in this 
+effort, Senator Hawley, the Ranking Member. He and I, as you 
+know, have produced a framework, basically a blueprint for a 
+path forward to achieve legislation. Our interest is in 
+legislation, and this hearing along with the two previous ones, 
+have to be seen as a means to that end.
+    [Poster is displayed.]
+    Chair Blumenthal. We're very result oriented, as I know you 
+are, from your testimony. And I've been enormously encouraged 
+and emboldened by the response so far just in the past few 
+days, and from my conversations with leaders in the industry, 
+like Mr. Smith. There is a deep appetite, indeed a hunger for 
+rules and guardrails, basic safeguards for businesses and 
+consumers, for people in general, from the panoply of potential 
+perils. But there's also a desire to make use of the tremendous 
+potential benefits.
+    And our effort is to provide for regulation in the best 
+sense of the word. Regulation that permits and encourages 
+innovation, and new businesses, and technology and 
+entrepreneurship. But at the same time provides those 
+guardrails, enforceable safeguards, that can encourage trust 
+and confidence in this growing technology. It's not a new 
+technology entirely. It's been around for decades, but 
+artificial intelligence is regarded as entering a new era.
+    And make no mistake, there will be regulation. The only 
+question is, how soon and what? And it should be regulation 
+that encourages the best in American free enterprise, but at 
+the same time provides the kind of protections that we do in 
+other areas of our economic activity.
+    To my colleagues who say, ``There's no need for new rules, 
+we have enough laws protecting the public,'' yes, we have laws 
+that prohibit unfair and deceptive competition. We have laws 
+that regulate airline safety and drug safety. But nobody would 
+argue that simply because we have those rules, we don't need 
+specific protections for medical device safety or car safety.
+    Just because we have rules that prohibit discrimination in 
+the workplace doesn't mean that we don't need rules that 
+prohibit discrimination in voting. And we need to make sure 
+that these protections are framed and targeted in a way that 
+apply to the risks involved. Risk-based rules. Managing the 
+risks is what we need to do here.
+    So our principles are pretty straightforward, I think. We 
+have no pride of authorship. We have circulated this framework 
+to encourage comment. We won't be offended by criticism from 
+any quarter. That's the way we can make this framework better 
+and eventually achieve legislation we hope--I hope, at least, 
+by the end of this year.
+    And the framework is, basically: establishing a licensing 
+regime for companies that are engaged in high-risk AI 
+development; creating an independent oversight body that has 
+expertise with AI and works with other agencies to administer 
+and enforce the law; protecting our national and economic 
+security to make sure we aren't enabling China, or Russia, and 
+other adversaries to interfere in our democracy or violate 
+human rights; requiring transparency about the limits and use 
+of AI models.
+    And at this point, includes rules like watermarking, 
+digital disclosure when AI is being used, and data access for 
+researchers, and ensuring that AI companies can be held liable 
+when their products breach privacy, violate civil rights, 
+endanger the public, deepfakes, impersonation, hallucination. 
+We've all heard those terms. We need to prevent those harms.
+    And Senator Hawley and I, as former attorneys general of 
+our States, have a deep and abiding affection for the potential 
+enforcement powers of those officials--State officials. But the 
+point is, there must be effective enforcement. Private rights 
+of action as well as Federal enforcement are very, very 
+important.
+    So let me just close by saying--before I turn it over to my 
+colleague--we're going to have more hearings. The way to build 
+a coalition in support of these measures is to disseminate as 
+widely as possible the information that's needed for our 
+colleagues to understand what's at stake here.
+    We need to listen to the kinds of industry leaders and 
+experts that we have before us today, and we need to act with 
+dispatch more than just deliberate speed. We need to learn from 
+our experience with social media that if we let this horse get 
+out of the barn, it will be even more difficult to contain than 
+social media. And we are seeking to act on social media, the 
+harms that it portends right now as we speak.
+    We're literally at the cusp of a new era. I asked Sam 
+Altman, when he sat where you are, what his greatest fear was. 
+I said my nightmare is the massive unemployment that could be 
+created. That is an issue that we don't deal with directly 
+here, but it shows how wide the ramifications may be.
+    And we do need to deal with potential worker displacement 
+and training. And this new era is one that portends enormous 
+promise, but also perils. We need to deal with both. I'll turn 
+now to Ranking Member, Senator Hawley.
+
+             OPENING STATEMENT OF HON. JOSH HAWLEY,
+           A U.S. SENATOR FROM THE STATE OF MISSOURI
+
+    Senator Hawley. Thank you, Mr. Chairman. Thank you for 
+organizing this hearing. This is now, as the Chairman said, the 
+third of these hearings that we've done. I've learned a lot in 
+the previous couple. I think, you know, some of what we're 
+learning about the potentials of AI is exhilarating. Some of it 
+is horrifying.
+    And I think what I hear the Chairman saying, and what I 
+certainly agree with, is we have a responsibility here now to 
+do our part to make sure that this new technology, which holds 
+a lot of promise but also peril, actually works for the 
+American people.
+    That it's good for working people. That it's good for 
+families. That we don't make the same mistakes that Congress 
+made with social media where, 30 years ago now, Congress 
+basically outsourced social media to the biggest corporations 
+in the world. And that has been, I would submit to you, nearly 
+an unmitigated disaster.
+    We've had the biggest, most powerful corporations, not just 
+in America, but on the globe, and in the history of the globe, 
+doing whatever they want with social media. Running experiments 
+basically every day on America's kids, inflicting mental health 
+harms the likes of which we've never seen, messing around in 
+our elections in a way that is deeply, deeply corrosive to our 
+way of life. We cannot make those mistakes again.
+    So we are here, as Senator Blumenthal said, to try to find 
+answers, and to try to make sure that this technology is 
+something that actually benefits the people of this country. I 
+have no doubt, with all due respect to the corporatists who are 
+in front of us, those heads of these corporations, I have no 
+doubt it's going to benefit your companies. What I want to make 
+sure is, is that actually benefits American people. And I think 
+that's the test that we're engaged in. I look forward to this 
+today. Thank you, Mr. Chairman.
+    Chair Blumenthal. Thank you. I want to introduce our 
+witnesses. And then, as is our custom, I will swear them in and 
+ask them to submit their testimony. Welcome, to all of you.
+    William Dally is NVIDIA's chief scientist. He joined NVIDIA 
+in January, 2009, as chief scientist after spending 12 years at 
+Stanford University where he was chairman of the computer 
+science department. He has published over 250 papers. He holds 
+120 issued patents, and he's the author of four textbooks.
+    Brad Smith is vice chair and president of Microsoft. As 
+Microsoft's vice chair and president, he is responsible for 
+spearheading the company's work and representing it publicly in 
+a wide variety of critical issues involving the intersection of 
+technology and society, including artificial intelligence, 
+cybersecurity, privacy, environmental sustainability, human 
+rights, digital safety, immigration, philanthropy, and products 
+and business for non-profit customers. And we appreciate your 
+being here.
+    Professor Woodrow Hartzog is professor of law, and Class of 
+1960 Scholar at Boston University School of Law. He's also a 
+non-resident fellow at the Cordell Institute for Policy in 
+Medicine & Law at Washington University, a faculty associate at 
+the Berkman Klein Center for Internet & Society at Harvard 
+University, and an affiliate scholar at the Center for Internet 
+and Society at Stanford Law School.
+    I could go on about each of you at much greater length with 
+all your credentials, but suffice it to say, very impressive. 
+And if you'll now stand, I'll administer the oath.
+    [Witnesses are sworn in.]
+    Chair Blumenthal. Thank you. Why don't we begin with you, 
+Mr. Dally?
+
+  STATEMENT OF WILLIAM DALLY, CHIEF SCIENTIST AND SENIOR VICE 
+    PRESIDENT OF RESEARCH, NVIDIA CORPORATION, SANTA CLARA, 
+                           CALIFORNIA
+
+    Mr. Dally. Chairman Blumenthal, Ranking Member Hawley, 
+esteemed Judiciary Committee Members, thank you for the 
+privilege to testify today. I'm NVIDIA's chief scientist and 
+head of research, and I'm delighted to discuss our artificial 
+intelligence journey and future.
+    NVIDIA's at the forefront of accelerated computing and 
+generative AI, technologies that have the potential to 
+transform industries, address global challenges, and profoundly 
+benefit society. Since our founding in 1993, we have been 
+committed to developing technology to empower people and 
+improve the quality of life worldwide.
+    Today, over 40,000 companies use NVIDIA platforms across 
+media and entertainment, scientific computing, healthcare, 
+financial services, internet services, automotive, and 
+manufacturing to solve the world's most difficult challenges, 
+and bring new products and services to consumers worldwide.
+    At our founding in 1993, we were a 3D graphic startup. One 
+of dozens of startups competing to create an entirely new 
+market for accelerators to enhance computer graphics for games. 
+In 1999, we invented the graphics processing unit, or GPU, 
+which can perform a massive number of calculations in parallel.
+    When we launched the GPU for AI in gaming, we recognized 
+that GPUs could theoretically accelerate any application that 
+could benefit from massively parallel processing. And this bet 
+paid off.
+    Today, researchers worldwide innovate on NVIDIA GPUs. 
+Through our collective efforts, we have made advances in AI 
+that will revolutionize and provide tremendous benefits to 
+society across sectors such as healthcare, medical research, 
+education, business, cybersecurity, climate, and beyond.
+    However, we also recognize that like any new product or 
+service, AI products and services have risks, and those who 
+make, and use, or sell AI-enabled products and services are 
+responsible for their conduct.
+    Fortunately, many uses of AI applications are subject to 
+existing laws and regulations that govern the sectors in which 
+they operate. AI-enabled services in high-risk sectors could be 
+subject to enhanced licensing and certification requirements 
+when necessary while other applications with less risk of harm 
+may need less stringent licensing and/or regulation. With 
+clear, stable, and thoughtful regulation, AI developers will 
+work to benefit society while making products and services as 
+safe as possible.
+    For our part, NVIDIA is committed to the safe and 
+trustworthy development and deployment of AI. For example, NeMo 
+Guardrails, our open-source software, empowers developers to 
+guide generative AI applications to produce accurate, 
+appropriate, and secure text responses. NVIDIA has implemented 
+model risk management guidance, ensuring a comprehensive 
+assessment and management of risks associated with NVIDIA-
+developed models.
+    Today, NVIDIA announced it is endorsing the White House's 
+voluntary commitments on AI. As we deploy AI more broadly, we 
+can and will continue to identify and address risks.
+    No discussion of AI would be complete without addressing 
+what is often described as frontier AI models. Some have 
+expressed fear that frontier models will evolve into 
+uncontrollable artificial general intelligence which could 
+escape our control and cause harm.
+    Fortunately, uncontrollable artificial general intelligence 
+is science fiction, not reality. At its core, AI is a software 
+program that is limited by its training, the inputs provided to 
+it, and the nature of its output. In other words, humans will 
+always decide how much decision-making power to cede to AI 
+models.
+    So long as we are thoughtful and measured, we can ensure 
+safe, trustworthy, and ethical deployment of AI systems without 
+suppressing innovation. We can spur innovation by ensuring that 
+AI tools are widely available to everyone, not concentrated in 
+the hands of a few powerful firms.
+    I will close with two observations.
+    First, the AI genie is already out of the bottle. AI 
+algorithms are widely published and available to all. AI 
+software can be transmitted anywhere in the world at the press 
+of a button. And many AI development tools, frameworks, and 
+foundational models are open-sourced.
+    Second, no nation, and certainly no company, controls a 
+chokepoint to AI development. Leading U.S. computing platforms 
+are competing with companies from around the world. While U.S. 
+companies may currently be the most energy efficient, cost 
+efficient, and easiest to use, they're not the only viable 
+alternatives for developers abroad.
+    Other nations are developing AI systems, with or without 
+U.S. components, and they will offer those applications in the 
+worldwide market. Safe and trustworthy AI will require 
+multilateral and multi-stakeholder cooperation, or it will not 
+be effective.
+    The United States is in a remarkable position today, and 
+with your help, we can continue to lead on policy and 
+innovation well into the future.
+    NVIDIA stands ready to work with you to ensure that the 
+development and deployment of generative AI and accelerated 
+computing serve the best interest of all. Thank you for your 
+opportunity to testify before this Committee.
+    [The prepared statement of Mr. Dally appears as a 
+submission for the record.]
+    Chair Blumenthal. Thank you, very much. Mr. Smith.
+
+ STATEMENT OF BRAD SMITH, VICE CHAIR AND PRESIDENT, MICROSOFT 
+                CORPORATION, REDMOND, WASHINGTON
+
+    Mr. Smith. Chairman Blumenthal, Ranking Member Hawley, 
+Members of the Subcommittee, my name is Brad Smith. I'm the 
+vice chair and president of Microsoft. And thank you for the 
+opportunity to be here today. And I think more importantly, 
+thank you for the work that you have done to create the 
+framework you've shared.
+    Chairman Blumenthal, I think you put it very well.
+    First, we need to learn and act with dispatch. And Ranking 
+Member Hawley, I think you offered real words of wisdom. Let's 
+learn from the experience the whole world had with social 
+media, and let's be clear-eyed about the promise and the peril 
+in equal measure as we look to the future of AI.
+    I would first say, I think, your framework does that. It 
+doesn't attempt to answer every question by design. But it's a 
+very strong and positive step in the right direction, and puts 
+the U.S. Government on the path to be a global leader in 
+ensuring a balanced approach that will enable innovation to go 
+forward with the right legal guardrails in place.
+    As we all think about this more, I think it's worth keeping 
+three goals in mind.
+    First, let's prioritize safety and security, which your 
+framework does. Let's require licenses for advanced AI models 
+and uses in high-risk scenarios. Let's have an agency that is 
+independent, and can exercise real and effective oversight over 
+this category. And then, let's couple that with the right kinds 
+of controls that will ensure safety of the sort that we've 
+already seen, I think, start to emerge in the White House 
+commitments that were launched on July 21st.
+    Second, let's prioritize, as you do, the protection of our 
+citizens and consumers. Let's prioritize national security--
+always in a sense, in some ways, the first priority of the 
+Federal Government. But let's think as well as you have about 
+protecting the privacy, the civil rights, and the needs of kids 
+among many other ways of working and ensure we get this right.
+    Let's take the approach that you are recommending. Namely, 
+focus not only on those companies that develop AI, like 
+Microsoft, as well as companies that deploy AI, like Microsoft. 
+In different categories, we're going to need different levels 
+of obligations.
+    And as we go forward, let's think about the connection 
+between, say, the role of a central agency that will be on 
+point for certain things, as well as the obligations that, 
+frankly, will be part of the work of many agencies and, indeed, 
+our courts as well.
+    And let's do one other thing, as well--maybe it's one of 
+the most important things we need to do so that we ensure that 
+the threats that many people worry about remain part of science 
+fiction and don't become a new reality. Let's keep AI under the 
+control of people. It needs to be safe. And to do that, as 
+we've encouraged, there need to be safety breaks, especially 
+for any AI application or system that controls critical 
+infrastructure.
+    If a company wants to use AI to, say, control the 
+electrical grid, or all of the self-driving cars on our roads, 
+or the water supply, we need to learn from so many other 
+technologies that do great things but also can go wrong. We 
+need a safety break. Just like we have a circuit breaker in 
+every building and home in this country to stop the flow of 
+electricity if that's needed.
+    Then I would say let's keep one third goal in mind, as 
+well. This is the one where I would suggest you maybe consider 
+doing a bit more to add to the framework. Let's remember the 
+promise that this offers. Right now if you go to State 
+capitals, you go to other countries, I think there's a lot of 
+energy being put on that.
+    When I see what Governor Newsom is doing in California, or 
+Governor Burgum in North Dakota, or Governor Youngkin in 
+Virginia, I see them at the forefront of figuring out how to 
+use AI to, say, improve the delivery of healthcare, advance 
+medicine, improve education for our kids, and, maybe most 
+importantly, make government services more accessible and more 
+efficient.
+    Let's see if we can find a way to not only make government 
+better by using this technology, but cheaper--or use the 
+savings to provide more and better services to our people. That 
+would be a good problem to have the opportunity to consider.
+    In sum, Professor Hartzog has said this is not a time for 
+half measures. It is not. He is right. Let's go forward as you 
+have recommended. Let's be ambitious and get this right. Thank 
+you.
+    [The prepared statement of Mr. Smith appears as a 
+submission for the record.]
+    Chair Blumenthal. Thank you. Thank you, very much. And Mr. 
+Hartzog, I've read your testimony, and you are very much 
+against half measures. So we look forward to hearing what the 
+full measures that you recommend are.
+    Professor Hartzog. That's correct, Senator.
+
+    STATEMENT OF WOODROW HARTZOG, PROFESSOR OF LAW, BOSTON 
+  UNIVERSITY SCHOOL OF LAW, AND FELLOW, CORDELL INSTITUTE FOR 
+ POLICY IN MEDICINE & LAW, WASHINGTON UNIVERSITY IN ST. LOUIS, 
+                     BOSTON, MASSACHUSETTS
+
+    Professor Hartzog. Chair Blumenthal, Ranking Member Hawley, 
+and Members of the Committee, thank you for inviting me to 
+appear before you today.
+    My name is Woodrow Hartzog, and I'm a professor of law at 
+Boston University. My comments today are based on a decade of 
+researching law and technology issues, and I'm drawing from 
+research on artificial intelligence policy that I conducted as 
+a fellow with colleagues at the Cordell Institute at Washington 
+University in St. Louis.
+    Committee Members, up to this point, AI policy has largely 
+been made up of industry-led approaches, like encouraging 
+transparency, mitigating bias, and promoting principles of 
+ethics. I'd like to make one simple point in my testimony 
+today. These approaches are vital, but they are only half 
+measures. They will not fully protect us.
+    To bring AI within the rule of law, lawmakers must go 
+beyond these half measures to ensure that AI systems and the 
+actors that deploy them are worthy of our trust. Half measures 
+like audits, assessments, and certifications are necessary for 
+data governance, but industry leverages procedural checks like 
+these to dilute our laws and to managerial box-checking 
+exercises that entrench harmful surveillance-based business 
+models.
+    A checklist is no match for the staggering fortune 
+available to those who exploit our data, our labor, and our 
+precarity to develop and deploy AI systems. And it's no 
+substitute for meaningful liability when AI systems harm the 
+public.
+    Today I'd like to focus on three popular half measures, and 
+why lawmakers must do more.
+    First, transparency is a popular proposed solution for 
+opaque systems, but it does not produce accountability on its 
+own. Even if we truly understand the various parts of AI 
+systems, lawmakers must intervene when these tools are harmful 
+and abusive.
+    A second laudable, but insufficient approach is when 
+companies work to mitigate bias. AI systems are notoriously 
+biased along lines of race, class, gender, and ability. While 
+mitigating bias in AI systems is critical, self-regulatory 
+efforts to make AI fair are half measures doomed to fail. It's 
+easy to say that AI systems should not be biased. It's very 
+difficult to find consensus on what that means and how to get 
+there.
+    Additionally, it's a mistake to assume that if a system is 
+fair, then it's safe for all people. Even if we ensure that AI 
+systems work equally well for all communities, all we will have 
+done is create a more effective tool that the powerful can use 
+to dominate, manipulate, and discriminate.
+    A third AI half measure is committing to ethical 
+principles. Ethics are important, and these principles sound 
+impressive, but they are a poor substitute for laws. It's easy 
+to commit to ethics, but industry doesn't have the incentive to 
+leave money on the table for the good of society.
+    I have three recommendations for the Committee to move 
+beyond AI half measures.
+    First, lawmakers must accept that AI systems are not 
+neutral, and regulate how they are designed. People often argue 
+that lawmakers should avoid design rules for technologies 
+because there are no bad AI systems, only bad AI users.
+    This view of technologies is wrong. There is no such thing 
+as a neutral technology, including AI systems. Facial 
+recognition technologies empower the watcher. Generative AI 
+systems replace labor. Lawmakers should embrace established 
+theories of accountability like product liability's theory of 
+defective design, or consumer protection's theory of providing 
+the means and instrumentalities of unfair and deceptive 
+conduct.
+    My second recommendation is to focus on substantive laws 
+that limit abuses of power. AI systems are so complex and 
+powerful that it can seem like trying to regulate magic, but 
+the broader risks and benefits of AI systems are not so new. AI 
+systems bestow power. This power is used to benefit some and 
+harm others.
+    Lawmakers should borrow from established legal approaches 
+to remedying power imbalances, to require broad non-negotiable 
+duties of loyalty, care, and confidentiality, and implement 
+robust bright-line rules that limit harmful secondary uses and 
+disclosures of personal data in AI systems.
+    My final recommendation is to encourage lawmakers to resist 
+the idea that AI is inevitable. When lawmakers go straight to 
+putting up guardrails, they fail to ask questions about whether 
+particular AI systems should exist at all. This dooms us to 
+half measures. Strong rules would include prohibitions on 
+unacceptable AI practices like emotion recognition, biometric 
+surveillance in public spaces, predictive policing, and social 
+scoring.
+    In conclusion, to avoid the mistakes of the past, lawmakers 
+must make the hard calls. Trust and accountability can only 
+exist where the law provides meaningful protections for humans, 
+and AI half measures will certainly not be enough. Thank you, 
+and I welcome your questions.
+    [The prepared statement of Professor Hartzog appears as a 
+submission for the record.]
+    Chair Blumenthal. Thank you, Professor Hartzog. And I take 
+very much to heart your imploring us against half measures. I 
+think listening to both Senator Hawley and myself, you have a 
+sense of boldness and initiative.
+    And we welcome all of the specific ideas, most especially 
+Mr. Smith, your suggestion that we can be more engaged and 
+proactive at the State level or Federal level in making use of 
+AI in the public sector.
+    But taking the thought that Professor Hartzog has so 
+importantly introduced, AI technology in general is not 
+neutral. How do we safeguard against the downsides of AI, 
+whether it's discrimination or surveillance? Will this 
+licensing regime and oversight entity be sufficient? And what 
+kind of powers do we need to give it?
+    Mr. Smith. Well, I would say, first of all, I think that a 
+licensing regime is indispensable in certain high-risk 
+scenarios, but it won't be sufficient to address every issue.
+    But it's a critical start. Because I think what it really 
+ensures is especially, say, for the frontier models, the most 
+advanced, as well as certain applications that are highest 
+risk, frankly, you do need a license from the Government before 
+you go forward.
+    And that is real accountability. You can't drive a car 
+until you get a license. You can't make the model or the 
+application available until you pass through that gate.
+    I do think that it would be a mistake to think that one 
+single agency or one single licensing regime would be the right 
+recipe to address everything, especially when we think about 
+the harms that we need to address.
+    And that's why I think it's equally critical that every 
+agency in the Government that is responsible for the 
+enforcement of the law and the protection of people's rights, 
+master the capability to assess AI. I don't think we want to 
+move the approval of every new drug from the FDA to this 
+agency. So by definition, the FDA is going to need, for 
+example, to have the capability to assess AI. That would be 
+just one of several additional specifics that I think one can 
+think about.
+    Chair Blumenthal. I think that's a really important point 
+because AI is going to be used in making automobiles, making 
+airplanes, making toys for kids. So the FAA, the FDA, the 
+Federal Trade Commission, the Consumer Product Safety 
+Commission, they all have presently existing rules and 
+regulations, but there needs to be an oversight entity that 
+uses some of those rules and adapts them, and adopts new rules 
+so that those harms can be prevented.
+    And there are a lot of different names we could call that 
+entity. Connecticut now has an Office of Artificial 
+Intelligence. You could use different terms, but I think the 
+idea is that we want to make sure that the harms are prevented 
+through a licensing regime focused on risk.
+    Mr. Dally, you know, you said that autonomous AI is science 
+fiction. AI beyond human control is science fiction. But 
+science fiction has a way of coming true, and I wonder whether 
+that is a potential fear. Certainly, it is one that's widely 
+shared at the moment.
+    Whether it's fact-based or not, it is in the reality of 
+human perception. And, as you well know, trust and confidence 
+are very, very important. So I wonder how we counter the 
+perception and prevent the science fiction from becoming 
+reality?
+    Mr. Dally. So what I said is that artificial general 
+intelligence that gets out of control as science fiction, not 
+autonomous. We use artificial intelligence, for example, 
+autonomous vehicles all the time.
+    I think the way we make sure that we have control over AI 
+of all sorts is by, for any really critical application, 
+keeping a human in the loop. You know, AI is a computer 
+program. It takes an input, it produces an output. And if you 
+don't connect up something that can cause harm to that output, 
+it can't cause that harm. And so anytime that there is some 
+grievous harm that could happen, you want a human being between 
+the output of that AI model and the causing of harm.
+    And so I think as long as we're, you know, careful about 
+how we deploy AI to, you know, keep humans in the critical 
+loops, I think we can assure that the AIs, you know, won't take 
+over and shut down our power grid, or, you know, cause 
+airplanes to fall out of the sky. We can keep control over 
+them.
+    Chair Blumenthal. Thank you. I have a lot more questions, 
+but we're going to adhere to 5-minute rounds. We have a very 
+busy day, as you know, with votes, as a matter of fact. And 
+I'll turn to Senator Hawley.
+    Senator Hawley. Thank you, Mr. Chairman. Thanks, again, to 
+the witnesses for being here. I want to particularly thank you, 
+Mr. Smith. I know that there's a group of other--your 
+colleagues, your counterparts in industry who are gathering, I 
+think, tomorrow. And that is what it is.
+    But I appreciate you being willing to be here in public and 
+answer questions in front of the presses here. And this is open 
+to anybody who wants to see it. And I think that's the way that 
+this ought to be done. I appreciate you being willing to do 
+that.
+    You mentioned protecting kids. I just want to start with 
+that, if I could. I want to ask you a little bit about what 
+Microsoft has done and is doing. Kids use your Bing chatbot. Is 
+that fair to say?
+    Mr. Smith. Yes. We have certain age controls, so we don't 
+let a child of any age. But yes, in general, it is possible for 
+children to register if they're of a certain age.
+    Senator Hawley. And the age is?
+    Mr. Smith. I'm trying to remember, as I sit here. I'll get 
+you----
+    Senator Hawley. I think it's 13.
+    Mr. Smith [continuing]. The answer.
+    Senator Hawley. Does that sound right?
+    Mr. Smith. It would----
+    Senator Hawley. Maybe Senator----
+    Mr. Smith. I was going to say 12 or 13.
+    Senator Hawley. Okay.
+    Mr. Smith. I'll take it, at 13.
+    Senator Hawley. Do you have some sort of age verification? 
+I mean, how do we know what age--I mean, obviously, the kid can 
+put in whatever age he or she wants to. Is there some form of 
+age verification for Bing?
+    Mr. Smith. We do have age verification systems that then 
+involve, typically, getting permission from a parent. And we 
+use this across our services, including for gaming. I don't 
+remember off the top of my head exactly how it works, but I'd 
+be happy to get you the details.
+    Senator Hawley. Great. My impression is that Bing Chat 
+doesn't really have an enforceable age verification. I mean, 
+there's no way really to know, but again, you correct me if 
+that's wrong.
+    Let me ask you this, what happens to all of the information 
+that our hypothetical 13-year-old is putting into the tool as 
+it's having this chat? You know, I mean, they could be chatting 
+about anything and going back and forth on any number of 
+subjects. What happens to that info that the kid puts in?
+    Mr. Smith. Well, the most important thing I would say, 
+first, is that it all is done in a manner that protects the 
+privacy of children. This is----
+    Senator Hawley. And how is that?
+    Mr. Smith. Well, we follow the rules in COPPA, which is, 
+you know, exists to protect child online privacy. And it 
+forbids using it for tracking. It forbids its use for 
+advertising or for other things. It seeks to put very tight 
+controls around the use and the retention of that information.
+    The second thing I would just add to that is in addition to 
+protecting privacy, we are hyper-focused on ensuring that, in 
+most cases, people of any age, but especially children, are not 
+able to use something like Bing Chat in ways that would cause 
+harm to themselves or to others.
+    Senator Hawley. And how do you do that?
+    Mr. Smith. We basically have a safety architecture that we 
+use across the board. Think about it like this, there's two 
+things around a model.
+    The first is called a classifier so that if somebody asks, 
+``How can I commit suicide tonight?'' ``How can I blow up my 
+school tomorrow?'' that hits a classifier that identifies a 
+class of questions, or prompts, or issues.
+    And then second, there's what we call Meta-Prompts and that 
+we intervene so that the question is not answered. If someone 
+asks how to commit suicide, we typically would provide a 
+response that encourages someone to get mental health 
+assistance and counseling, and tells them how. If somebody 
+wants to know how to build a bomb, it says, no, you cannot use 
+this to do that.
+    And that fundamental safety architecture is going to 
+evolve, it's going to get better. But in a sense, it's at the 
+heart, if you will, of both what we do and, I think, the best 
+practices in the industry. And I think part of what this is all 
+about, that we're talking about here, is how we take that 
+architectural element and continue to strengthen it.
+    Senator Hawley. Very good. That's helpful. Let me ask you 
+about the information--back to the kids' information for a 
+second. Is it stored in the United States? Is it stored 
+overseas?
+    Mr. Smith. If the child is in the United States, the data 
+is stored in the United States. It's true not only for 
+children, it's for adults as well.
+    Senator Hawley. And who has access to that data?
+    Mr. Smith. The child has access if--you know, the parents 
+may or may not have access. Typically, we give----
+    Senator Hawley. In what circumstances would the parents 
+have access?
+    Mr. Smith. I would have to go get you the specifics on 
+that. Our general principle is this--and this is something 
+we've implemented in the United States even though it's not 
+legally required in the United States. It is legally required, 
+as you may know, in Europe--people, we think, have a right to 
+find out what information we have about them. They have the 
+right to see it. They have the right to ask us to correct it, 
+if it's wrong. They have the right to ask us to delete it, if 
+that's what they want us to do.
+    Senator Hawley. And you do that? If they ask you to delete 
+it, you delete it?
+    Mr. Smith. We'd better. Yes. That's our promise. And we do 
+a lot to comply with that.
+    Senator Hawley. Let me just ask about--and I have a lot 
+more questions--I'm going to try to adhere to the timeline, Mr. 
+Chairman. Five minutes, Mr. Chairman.
+    Chair Blumenthal. We'll have a second round.
+    Senator Hawley. All right. That's great news for us. Not 
+such great news for the witnesses.
+    [Laughter.]
+    Senator Hawley. Sorry. Right.
+    Let me just--before I leave this subject, last thing, just 
+about the kids' personal data and where it's stored. I'm asking 
+you this, as I'm sure you can intuit, because we've seen other 
+technology companies in the social media space who have major 
+issues about where data is stored and major access issues.
+    And I'm thinking of it, it shouldn't be hard to guess, I'm 
+thinking, in particular, of China, where we've seen other 
+social media companies who say, ``Oh, well, America's data is 
+stored in America.''
+    But guess what? Lots of people in other countries can 
+access that data.
+    So is that true for you, Mr. Smith? Is a child's data that 
+they've entered into the Bing Chat that's stored in the United 
+States--you just said, if they're an American citizen--can that 
+be accessed in, let's say, China, by a Microsoft China-based 
+engineer?
+    Mr. Smith. I don't believe so. I'd love to go back and 
+just, you know, confirm that. But I don't believe----
+    Senator Hawley. Would you? Would you be able to get that 
+for me for the record?
+    Mr. Smith. Sure.
+    Senator Hawley. Thank you. Okay. I'll have lots of more 
+questions later. Thanks, Mr. Chairman.
+    Chair Blumenthal. Thanks, Senator Hawley. Senator 
+Klobuchar.
+    Senator Klobuchar. Thank you, very much. Thank you, all of 
+you. I think I will lead with some elections questions, since 
+I'm the Chair of the Rules Committee.
+    Mr. Smith, in your written testimony you talked about how 
+watermarks could be helpful disclosure of AI material.
+    As you know, and we have talked about, I have a bill that I 
+lead--that Representative Clark leads in the House--to require 
+disclaimer and some kind of mark on AI-generated ads. I think 
+we have to go further. We'll get to that in a minute, Professor 
+Hartzog.
+    But could you talk about what you mean by in your written 
+testimony, ``the health of democracy and meaningful civic 
+discourse will undoubtedly benefit from initiatives that help 
+protect the public against deception or fraud facilitated by 
+AI-generated content'' ?
+    Mr. Smith. Absolutely. And here I do think things are 
+moving quickly, both in a positive and a worrisome direction, 
+in terms of what we're seeing. On the positive side, I think 
+you're seeing the industry come together. You're seeing a 
+company like Adobe, I think, exercise real leadership, and 
+there's a recipe that I see emerging.
+    I think it starts with the first principle: People should 
+have the right to know if they're getting a phone call from a 
+computer, from AI, if there's content coming from an AI system 
+rather than a human being.
+    We then need to make that real with legal rights that back 
+it up. We need to create what's called a provenance system, 
+watermarking for legitimate content so that it can't be altered 
+easily without our detection to create a deepfake.
+    We need to create an effort that brings the industry and, I 
+think, governments together so we know what to do and there's a 
+consensus when we do spot deepfakes, especially, say, even 
+deepfakes that have altered legitimate content.
+    Senator Klobuchar. Thank you.
+    Mr. Smith. So that would----
+    Senator Klobuchar. And let's get to that----
+    Mr. Smith [continuing]. Be the first one.
+    Senator Klobuchar [continuing]. Hot off the press.
+    Senator Hawley and I have introduced our bill today with 
+Senator Collins and--who led the Electoral Reform Act, as we 
+know, and Senator Coons--to ban the use of deceptive AI-
+generated content in elections.
+    So this would work in concert with some watermark system, 
+but when you get into the deception where it is fraudulent--AI-
+generated content pretending to be the elected official or the 
+candidate when it is not, and we've seen this used against 
+people on both sides of the aisle--which is why it was so 
+important that we be bipartisan in this work. And I want to 
+thank him for his leadership on not only of the framework, but 
+also on the work that we're doing.
+    And I guess I'll go to you, Senator Hartzog--Mr. Hartzog--I 
+just promoted you.
+    [Laughter.]
+    Senator Klobuchar. Maybe, I mean, it's very debatable.
+    [Laughter.]
+    Senator Klobuchar. Could you--in your testimony, you 
+advocate for some outright prohibitions, which we're talking 
+about here. Now, we do have, of course, a constitutional 
+exception for satire and humor because we love satire so much--
+the Senators do. Just kidding.
+    [Laughter.]
+    Senator Klobuchar. Could you talk about why you believe 
+there has to be some out-wide ban of misleading AI conduct 
+related to Federal candidates and political ads? Talk about 
+that.
+    Professor Hartzog. Sure. Absolutely. Thank you for the 
+question. I--of course, keeping in mind free expression 
+constitutional protections that would apply to any sort of 
+legislation, I do think that bright-line rules and prohibitions 
+around such deceptive ads are critical.
+    Because we know that procedural walkthroughs, as I said in 
+my testimony, are often--give the veneer of protection without 
+actually protecting us. And so to outright prohibit these 
+practices, I think, is really important.
+    And I would even go potentially a step further and think 
+about ways in which we can prohibit not just those that we 
+would consider to be deceptive, but practices that we'd 
+consider even abusive that leverage our internal limitations 
+and our desire to believe, or want to believe, things against 
+us. And there's a body of law that sort of runs alongside 
+unfair and deceptive trade practices around abusive trade 
+practices.
+    Senator Klobuchar. Okay. All right. Mr. Dally, thinking of 
+that--and I've talked to Mr. Smith about this, as well, AI used 
+as a scam--I had someone actually that I know well who has a 
+kid in the Marines who's deployed somewhere where they don't 
+even know where it is. Fake voice calls them, asks for money to 
+be sent somewhere in Texas, I believe.
+    Could you talk about what companies do--and I appreciate 
+the work you've done to ensure that AI platforms are designed 
+so they can't be used for criminal purposes because that's got 
+to be part of the work that we do.
+    Mr. Dally. Yes----
+    Senator Klobuchar. Because it's not just scams against 
+elected officials.
+    Mr. Dally. Yes. Well, I think the best measures against 
+deepfakes, and Mr. Smith mentioned it in his testimony, is the 
+use of provenance and authentication systems where you can have 
+authentic images, authentic voice recordings signed by the 
+device, whether it's a camera or an audio recorder, that has 
+recorded that voice.
+    And then when it's presented, it can be authenticated as 
+being genuine and not a deepfake. That's sort of the flip side 
+of watermarks, which would require that anything that is 
+synthetically generated be identified as such.
+    And those two technologies in combination can really help 
+people sort out, along with a certain amount of public 
+education, and make sure people understand, you know, what the 
+technology is, you know, capable of and are on guard for that. 
+But it can help them sort out what is real from what is fake.
+    Senator Klobuchar. Okay. I'll ask Mr. Smith back where I 
+started here. Some AI platforms use local news content without 
+compensating journalists and papers, including by using their 
+content to train AI algorithms.
+    The Journalism Competition and Preservation Act, a bill I 
+have with Senator Kennedy, would allow local news organizations 
+to negotiate with online platforms, including generative AI 
+platforms, that use their content without compensation.
+    Could you talk about the impacts that AI could have on 
+local journalism? You talked about, in your testimony, about 
+the importance of investment and quality journalism. But where 
+we're getting at, we've got to find a way that we make sure 
+that the people who are actually doing the work are compensated 
+in many ways, but also in journalism. Mr. Smith.
+    Mr. Smith. I would just say three quick things.
+    Number one, look, we need to recognize that local 
+journalism is fundamental to the health of the country and the 
+electoral system. And it's ailing. So we need to find ways to 
+preserve and promote it.
+    Number two, generally, I think we should let local 
+journalists and publications, you know, make decisions about 
+whether they want their content to be available for training, 
+or grounding, and the like. And that's a big topic, and it's 
+worthy of more discussion. And we should certainly let them, in 
+my view, negotiate collectively, because that's the only way 
+local journalism is really going to negotiate effectively.
+    Senator Klobuchar. I appreciate your words. You want to add 
+one thing--I'm going to get in trouble from Senator Blumenthal 
+here. Go ahead.
+    Chair Blumenthal. That's alright.
+    Mr. Smith. No, but then I will just say, and there are ways 
+that we can use AI to help local journalists. And we're 
+interested in that, too. So let's add that to the list.
+    Senator Klobuchar. Okay. Very good. And thank you, again, 
+both of you. I talked about Senator Hawley's work, but you, 
+Senator Blumenthal, for your leadership.
+    Chair Blumenthal. Thank you, very much. Thank you for 
+yours, Senator Klobuchar. Senator Hirono.
+    Senator Hirono. Thank you, Mr. Chairman. Mr. Smith, it's 
+good to see you, again. So every time we have one of these 
+hearings, we learn something new. But the conclusion I've drawn 
+is that AI is ubiquitous. Anybody can use AI. It can be used in 
+any endeavor. So when I hear you folks testifying about how we 
+shouldn't be taking half measures, I'm not sure what that 
+means.
+    What does it mean not taking half measure on something as 
+ubiquitous as AI, where there are other regulatory schemes that 
+can touch upon those endeavors that use AI? So, you know, 
+there's always a question I have of when we address something 
+as complex as how AI is looking, that there are unintended 
+consequences that we should care about. Would you agree? 
+Anybody? Mr. Smith?
+    Mr. Smith. I would absolutely agree. I think we have to 
+define what's a full measure and what's a half measure. But I 
+bet we can all agree that half measures are not good enough.
+    Senator Hirono. Well, that is the thing. How to recognize, 
+you know, going forward, what is actually going to help us with 
+this powerful tool. So I have a question for you, Mr. Smith. It 
+is a powerful tool that can be used for either good, or it can 
+also be used to spread a lot of disinformation and 
+misinformation.
+    And that happened during the disaster on Maui. And Maui 
+residents were subject to disinformation, some of it coming 
+from foreign governments, i.e., Russia, looking to sow 
+confusion and distress, including, ``Don't sign up for FEMA 
+because they cannot be trusted.'' And I worry that with AI, 
+such information will only become more rampant with future 
+disasters.
+    Do you share my concern about misinformation in the 
+disaster context in the role AI could play? And what can we do 
+to prevent these foreign entities from pushing out AI 
+disinformation to people who are very vulnerable?
+    Mr. Smith. I absolutely share your concern, and I think 
+there's two things we need to think about doing.
+    First, let's use the power of AI, as we are, to detect 
+these kinds of activities when they're taking place because 
+they can enable us to go faster--as they did in that instance 
+where Microsoft, among others, used AI and other data 
+technologies to identify what people were doing.
+    Number two, I just think we need to stand up as a country, 
+and with other governments, and with the public, and sayc, 
+there need to be some clear red lines in the world today 
+regardless of how much else or what else we disagree about.
+    When you think about what happens, typically, in the wake 
+of an earthquake, or a hurricane, or a tsunami----
+    Senator Hirono. Mm-hmm.
+    Mr. Smith [continuing]. Or a flood, the world comes 
+together. People are generous, they help provide relief.
+    And then, let's look at what happened after the fire in 
+Maui. It was the opposite of that. We had some people, not 
+necessarily directed by the Kremlin, but people who regularly 
+spread Russian propaganda, trying to discourage the people of 
+Lahaina from going to the agencies that could help them. That's 
+inexcusable.
+    And we saw what we believe is Chinese-directed activity 
+trying to persuade the world, in multiple languages, that the 
+fire was caused----
+    Senator Hirono. Mm-hmm.
+    Mr. Smith [continuing]. By the United States Government 
+itself using a meteorological weapon.
+    Those are the things that we should all try to bring the 
+international community together and agree they're off limits.
+    Senator Hirono. Well, how do we identify that this is even 
+occurring? That there is a, you know, a China- or Russia-
+directed misinformation going on? How do we--I didn't know this 
+was happening, by the way.
+    And even in the Energy Committee, on which I sit, we had 
+people testify and I asked, you know, regarding the Maui 
+disaster. I asked one of the testifiers whether he was aware 
+that there had been disinformation put out by a foreign 
+government in that example. And he said yes.
+    But I don't know that the people of Maui recognized that 
+that was going on.
+    So how do we, one, even identify that that's going on and 
+then, two, to come forward and say this is happening and to 
+name names--identify that, which country it is that it's 
+spreading this kind of disinformation and misinformation?
+    Mr. Smith. I think we have to think about two things.
+    First, I think we at a company like Microsoft have to lean 
+in, and we are--with data, with infrastructure, with experts, 
+and real-time capability to spot these threats, find the 
+patterns, and reach well-founded conclusions.
+    And then the second thing, this is the harder thing. This 
+is where it's going to need all of your help. What do we do if 
+we find that a foreign government is deliberately trying to 
+spread false information next year in a Senate or Presidential 
+campaign about a candidate? How do we create the room so that 
+information can be shared and people will consider it?
+    Senator Hirono. Yes.
+    Mr. Smith. You all, with this--the most important word in 
+your framework is bipartisan. How do we create the bipartisan 
+framework so that when we find this, we create a climate where 
+people can listen? I think we have to look at both of those 
+parts of the problem together.
+    Senator Hirono. Well, I hope we can do that. And Mr. 
+Chairman, if you don't mind, one of the concerns about AI from 
+the worker standpoint is that their jobs will be gone.
+    And Professor Hartzog, you mentioned that the--that 
+generative AI can result in job losses. And for both you and 
+Mr. Smith, what are the kinds of jobs that will be lost to AI?
+    Professor Hartzog. That's an excellent question. It's 
+difficult to project that into the future. But I would start 
+with saying that not necessarily something that can be 
+automated effectively, but things that--I think that those that 
+control the purse strings think could be automated effectively. 
+And if it gets to the point where it appears as though it 
+could, I imagine you'll see industry move in that direction.
+    Senator Hirono. Mr. Smith, I think you mentioned in your 
+book, which I am listening to, that things like ordering 
+something out of a drive-through, that those jobs could be gone 
+through AI.
+    Mr. Smith. Yes. It was 4 years ago, we published our book--
+with my co-author, behind me--and we said, ``What's the first 
+job that we think might be eliminated by AI? '' We don't have a 
+crystal ball, but I bet it's taking an order in the drive-
+through of a fast food restaurant.
+    You're not really establishing a rapport with a human 
+being. All the person does is listen and type into a computer 
+what you're saying. So when AI can hear as well as a person, it 
+can enter that in. And indeed, I was struck a few months ago, 
+Wendy's, I think it was, announced that they were starting to 
+consider whether they would automate with AI, the drive-
+through.
+    I think there's a lesson, though, in that. And it should 
+give us both pause, but I think a little bit of optimism. 
+There's no creativity involved in a drive-through, at least, 
+listening and entering an order. There are so many jobs that do 
+involve creativity.
+    So the real hope, I think, is to use AI to automate the 
+routine, maybe even the work that's boring, to free people up 
+so they can be more creative, so they can focus more on paying 
+attention to other people and helping them. And if we just 
+apply that recipe more broadly, I think we might put ourselves 
+on a path that's more promising.
+    Senator Hirono. Thank you. Thank you, Mr. Chairman.
+    Chair Blumenthal. Thank you, Senator Hirono. Senator 
+Kennedy.
+    Senator Kennedy. Thank you, Mr. Chairman. And thank you for 
+calling this hearing. Mr. Dally--am I saying your name 
+correctly, sir?
+    Mr. Dally. That's correct.
+    Senator Kennedy. Yes. Mr. Dally, if I am a recipient of 
+content created by generative AI, do you think I should have a 
+right to know that that content was generated by a robot?
+    Mr. Dally. Yes, I think you do. I think the details would 
+depend on the context, but in most cases, I think, you know----
+    Senator Kennedy. Okay.
+    Mr. Dally [continuing]. I or anybody else, if I received 
+something, I'd like to know, is this real or was this 
+generated?
+    Senator Kennedy. Mr. Smith?
+    Mr. Smith. Generally, yes. What I would say is, if you're 
+listening to an audio, if you're watching a video, if you're 
+seeing an image and it was generated by AI, I think people have 
+a right to know.
+    The one area where I think there's a nuance is if you're 
+using AI to, say, help you write something. Maybe it's helping 
+you write the first draft. Just as I don't think any of us 
+would say that when our staff helps us write something, we are 
+obliged to give the speech and say, ``Now I'm going to read the 
+paragraph that my staff wrote.'' You make it your own.
+    And I think the written word is a little more complex. So 
+we need to think that through. But as a broad principle, I 
+agree with that principle.
+    Senator Kennedy. Professor?
+    Professor Hartzog. There are situations where you probably 
+wouldn't expect to be dealing with the product of generative 
+AI. And in those instances----
+    Senator Kennedy. Well, that's the problem.
+    Professor Hartzog. Right. But as times change, it's 
+possible that our expectations change. And so----
+    Senator Kennedy. But as a principle, do you think that 
+people should have a right to know when they're being fed 
+content from generative AI?
+    Professor Hartzog. If they were--if they--well, it's--I 
+tell my students it depends on the context. Generally speaking, 
+if you're vulnerable to generative AI, then the answer is 
+absolutely yes.
+    Senator Kennedy. What do you mean, ``if you're vulnerable'' 
+?
+    Professor Hartzog. So there may be----
+    Senator Kennedy. I'm just looking for----
+    Professor Hartzog. Sure. Sure.
+    Senator Kennedy [continuing]. No disrespect----
+    Professor Hartzog. No. Not at all.
+    Senator Kennedy [continuing]. A straight answer.
+    Professor Hartzog. Absolutely.
+    Senator Kennedy. I kind of like--I like two things. 
+Breakfast food and straight answers.
+    Professor Hartzog. I love them.
+    [Laughter.]
+    Senator Kennedy. And if a robot is feeding me information, 
+and I don't know it's a robot, am I entitled to know it's a 
+robot as a consumer? Pretty straight up.
+    Professor Hartzog. Yes. I think the answer's yes. In----
+    Senator Kennedy. All right.
+    Professor Hartzog [continuing]. A lot of context.
+    Senator Kennedy. Let's start back from Mr. Dally. Am I 
+entitled to know who owns that robot and where that content 
+came from? I know it came from a robot, but somebody had to 
+goose the robot to make it give me that content. Am I entitled 
+as a consumer to know who owns the robot?
+    Mr. Dally. I think that's a harder question that depends on 
+the particular context. I think, you know, if somebody is 
+feeding me a video and it's been identified as being generated 
+by AI, I now know that it's generated, it's not real. You know, 
+if it's, you know, being used, for example, in a political 
+campaign, then----
+    Senator Kennedy. But, but----
+    Mr. Dally [continuing]. I would want to know who----
+    Senator Kennedy [continuing]. But let me stop you.
+    Mr. Dally [continuing]. Informed it. Yes.
+    Senator Kennedy. Let's suppose I'm looking at a video and 
+it was generated by a robot. Would it make any difference to 
+you whether that robot was owned by, let's say, President Biden 
+or President Trump? Don't you want to know in evaluating the 
+content who owns the robot and who prompted it to give you this 
+information?
+    Mr. Dally. I would probably want to know that. I don't know 
+that I would feel it would be required for me to know that.
+    Senator Kennedy. How about you, Mr. Smith?
+    Mr. Smith. I'm generally a believer in letting people know 
+not only that it's generated by a computer, but who owns the--
+--
+    Senator Kennedy. Yes.
+    Mr. Smith [continuing]. Program that's doing it. The only 
+qualification I would offer, and it's something you all should 
+think about and would know better than me, there are certain 
+areas in political speech where one has to decide whether you 
+want people to act with anonymity. The Federalist Papers were 
+first published under a pseudonym. And I think in the world 
+today, I'd rather have everybody know who's speaking----
+    Senator Kennedy. Okay.
+    Mr. Smith [continuing]. think about it.
+    Senator Kennedy. Professor?
+    Professor Hartzog. I'm afraid I'm going to disappoint you 
+again, Senator----
+    Senator Kennedy. Okay.
+    Professor Hartzog [continuing]. With a not-straight answer. 
+But I agree----
+    Senator Kennedy. How do you feel about breakfast food?
+    [Laughter.]
+    Professor Hartzog. Right. I am pro-breakfast food.
+    Senator Kennedy. Okay.
+    Professor Hartzog. So we agree on that. I agree with Mr. 
+Smith. I think that there are circumstances where you'd want to 
+preserve anonymous speech, and there are some where you 
+absolutely would want to know who did it.
+    Senator Kennedy. Okay. Well, I'm not--I don't want to go 
+too over. Obviously, this is an important subject, and the 
+extent to which I think--let me rephrase that. The extent of 
+most Senators' knowledge in terms of the nuances of AI, their 
+general impression is that AI has extraordinary potential to 
+make our lives better if it doesn't make our lives worse first. 
+And that's about the extent of it.
+    And in my judgment, we're not nearly ready to be able to 
+craft a bill that looks like somebody designed it on purpose. I 
+think we're more likely to take baby steps.
+    And I ask you those questions, predictably, because Senator 
+Schatz and I have a bill. It's very simple. It says if you own 
+a robot that's going to spit out artificial content to 
+consumers, consumers have the right to know that it was 
+generated by a robot and who owns the robot. And I think that's 
+a good place to start.
+    But again, I want to thank my colleagues here, my Chair and 
+my Ranking Member. They know a lot about this subject, and I 
+want to hear their questions, too. Thank you, all, for coming.
+    Senator Hawley [presiding]. Thank you, Senator Kennedy. On 
+behalf of the Chairman, we're going to start a second round. 
+And I guess I'll go first since I'm the only one sitting here. 
+It's bad news for the--bad news for the witnesses.
+    Senator Kennedy. Well, I came just to hear you.
+    Senator Hawley. Oh, I'm sure.
+    Senator Kennedy. I mean it.
+    Senator Hawley. Yes, yes.
+    Let me just--Mr. Smith, let me come back to this. We were 
+talking about kids, and kids' privacy and safety. Thanks for 
+the information you're going to get me. Let me give you an 
+opportunity, though, to maybe make a little news today in the 
+best possible way.
+    Thirteen, the age limit for Bing's Chat. That's such a 
+young age. I mean, listen, I've got three kids at home; 10, 8, 
+2 are my kids. I can't--I don't want my kids to be interacting 
+in the chatbots anytime soon at all. But 13 is so incredibly 
+young.
+    Would you commit today to raising that age? And would you 
+commit to a verifiable age verification procedure such that 
+parents can know, they can have some sense of confidence that 
+their 12-year-old is not just saying to Bing, ``Yes, yes, yes, 
+I'm 13. Yes, I'm 15. Sure. Go right on ahead. `Now let's get 
+into it back and forth with this robot' ''--as Senator Kennedy 
+said. Would you commit to those things on behalf of child 
+safety today?
+    Mr. Smith. Look, as you can imagine, the teams that work at 
+Microsoft let me go out and speak, but they probably have one 
+principle they want me to remember: Don't go out and make news 
+without talking to them first.
+    Senator Hawley. But you're the boss.
+    Mr. Smith. Yes. Let's just say wisdom is important. And 
+most mistakes you make, you make when you make them by 
+yourself. I'm happy to go back and talk more about what the 
+right age should be. That's----
+    Senator Hawley. Don't you think 13 is awfully low, though?
+    Mr. Smith. It depends for what, actually.
+    Senator Hawley. To interact with a robot----
+    Mr. Smith. No.
+    Senator Hawley [continuing]. Who could be telling you to do 
+any number of things. Don't you think that's awfully young?
+    Mr. Smith. Not necessarily. Let me describe----
+    Senator Hawley. Really?
+    Mr. Smith. It is the scenario. When I was in Seoul, Korea, 
+a couple of months ago, we met with the deputy prime minister, 
+who's also the minister of education. And they're trying to 
+create for three topics that are very objective: math, coding, 
+and learning English--a digital textbook with an AI tutor. So 
+that if you're doing math and you don't understand a concept, 
+you can ask the AI tutor to help you solve the problem.
+    And by the way, I think it's useful not only for the kids, 
+I think it's useful for the parents. And I think it's good. 
+Let's just say a 14-year-old, let's say--what's the age of 
+eighth grade algebra? You know, most parents say--I found when 
+my kids were in eighth grade algebra, I tried to help them with 
+their homework, they didn't believe I ever made it through the 
+class. I think we want kids, in a controlled way with 
+safeguards, to use something that way.
+    Senator Hawley. But we're not talking here about tutors. 
+Well, I'm talking about your AI chat, Bing Chat. I mean, 
+famously, earlier this year, your chatbot--you had a technology 
+writer for The New York Times who wrote about this. I'm looking 
+at the article right now. Your chatbot was urging this person 
+to break up his marriage.
+    Mr. Smith. I'm not sure----
+    Senator Hawley. Do we want 13-year-olds to be having those 
+conversations?
+    Mr. Smith. No, of course not.
+    Senator Hawley. Okay.
+    Mr. Smith. Which is why----
+    Senator Hawley. Well, will you commit to raising the age?
+    Mr. Smith. I actually don't want Bing Chat to break up 
+anybody's marriage.
+    Senator Hawley. I don't either.
+    Mr. Smith. So--but, but, but that----
+    Senator Kennedy. There might be some exceptions.
+    [Laughter.]
+    Mr. Smith. Yes. But we're not going to make the decision on 
+the exception. The--no, but it goes to--this is--we have 
+multiple tools. Age is a very red line.
+    Senator Hawley. It is a very red line----
+    Mr. Smith. And there's----
+    Senator Hawley [continuing]. That's why I like it.
+    Mr. Smith. And my point is, there is a safety architecture 
+that we can apply to bring----
+    Senator Hawley. But your safety architecture didn't stop an 
+adult. Didn't stop the chatbot from having this discussion with 
+an adult in which it said, ``You don't really love your wife. 
+You want to--your wife isn't good for you. She doesn't really 
+love you.''
+    Now, can you im--this is an adult. Can you imagine the kind 
+of things that your chatbot would say to a 13-year-old? I mean, 
+I'm serious about this. Do you really think this is a good 
+idea?
+    Mr. Smith. Yes. But look, wait a second. Let's put that in 
+context. At a point where the technology had been rolled out 
+for only 20,000 people, a journalist for The New York Times 
+spent 2 hours on the evening of Valentine's Day, ignoring his 
+wife, and interacting with a computer, trying to break the 
+system, which he managed to do. We didn't envision that use. 
+And then----
+    Senator Hawley. Have you----
+    Mr. Smith [continuing]. The next day we had fixed it----
+    Senator Hawley [continuing]. Have you--but----
+    Mr. Smith [continuing]. That's the key thing.
+    Senator Hawley. Are you telling me that you've envisioned 
+all the questions that 13-year-olds might ask, and that I, as a 
+parent, should be--should be absolutely fine with that? Are you 
+telling me that I should trust you in the same way that The New 
+York Times writer did?
+    Mr. Smith. What I am saying is, I think as we go forward, 
+we have an increasing capability to learn from the experience 
+of real people and----
+    Senator Hawley. Yes, see, that's what----
+    Mr. Smith [continuing]. What the right----
+    Senator Hawley [continuing]. Worries me. That's exactly 
+what worries me. Is what you're saying is we have to have some 
+failures. I don't want 13-year-olds to be your guinea pig. I 
+don't want 14-year-olds to be your guinea pig. I don't want any 
+kids to be your guinea pig. I don't want you to learn from 
+their failures.
+    You want to learn from the failures of your scientists, go 
+right ahead. Let's not learn from the failures of America's 
+kids. This is what happened with social media. We had social 
+media who made billions of dollars giving us a mental health 
+crisis in this country. They got rich, the kids got depressed, 
+committed suicide. Why would we want to run that experiment 
+again with AI? Why not raise the age? You could do it.
+    Mr. Smith. We shouldn't want--first of all, we shouldn't 
+want anybody to be a guinea pig. I think that, regardless of 
+age or anything else----
+    Senator Hawley. Good. Well, let's roll kids out right here. 
+Right today, right now.
+    Mr. Smith. No. But let's also recognize that technology 
+does require real users. What's different about this technology 
+and, which is so fundamentally different, in my view, from the 
+social media experience, is that we not only have the capacity, 
+but we have the will. And we are applying that will to fix 
+things in hours and days.
+    Senator Hawley. Well--yes, to fix things after there's 
+been--after the fact. I mean, I'm sorry. It just sounds to me 
+like you're boiling down and you're saying, ``Trust us. We're 
+going to do well with this.'' I'm just asking you why we should 
+trust you with our children.
+    Mr. Smith. I'm not asking for trust. Although, I hope we 
+will work every day to earn it. That's why you have a licensing 
+obligation.
+    Senator Hawley. There isn't a licensing obligation----
+    Mr. Smith. That's why----
+    Senator Hawley [continuing]. Right now.
+    Mr. Smith [continuing]. In your framework, in my view----
+    Senator Hawley. Well, sure. But I'm asking you as the 
+president of this company to make a commitment now for child 
+safety and protection to say, ``You know what? Microsoft is 
+going to''--you can tell every parent in America now: 
+``Microsoft is going to protect your kids. We will never use 
+your kids as a science experiment ever. Never. And therefore, 
+we're not going to allow your--we're not going to target your 
+kids, and we're not going to allow your kids to be used by our 
+chatbots as a source of information if they're younger than 
+18.''
+    Mr. Smith. But I think you're talking about--with all due 
+respect, there's two things that you're talking about. And I 
+think we're----
+    Senator Hawley. I'm just talking about protecting kids. 
+This is very simple. Yes.
+    Mr. Smith. Yes. No, but we don't want to use kids as a 
+source of information and monetizing, etc. But I am equally of 
+the view, I don't want to cut off an eighth grader today with 
+the right or ability to use this tool that will help them learn 
+algebra or math in a way that they couldn't a year ago.
+    Senator Hawley. Yes. Well [holds up document], with all due 
+respect, it wasn't algebra or math that your chatbot was 
+recommending or talking about when it was trying to break up 
+some reporter's marriage.
+    Mr. Smith. Of course not. But now we're mixing things and--
+--
+    Senator Hawley. No, we're not. We're talking about your 
+chatbot. We're talking about Bing Chat.
+    Mr. Smith. Of course we're talking about Bing Chat. And I'm 
+talking about the protection of children, and how we make 
+technology better. And yes, there was that episode back in 
+February on Valentine's Day. Six months later, if that 
+journalist tries to do the same thing again, it will not 
+happen.
+    Senator Hawley. You want me to be done, Senator Klobuchar?
+    [Laughter.]
+    Senator Klobuchar. I just don't want to miss my vote.
+    Mr. Smith. There's other--there's other witnesses.
+    Senator Klobuchar. I don't want to miss my vote.
+    Senator Hawley. Senator Klobuchar.
+    Senator Klobuchar. Oh, you are very kind. Thank you. Some 
+of us haven't voted yet.
+    So I wanted to turn to you, Mr. Dally. In March, NVIDIA 
+announced a partnership with Getty Images to develop models 
+that generate new images using Getty's image library. 
+Importantly, this partnership provides royalties to content 
+creators. Why was it important to the company to partner with 
+and pay for these--of Getty's image library--developing 
+generative AI models?
+    Mr. Dally. Well, NVIDIA, we believe in respecting people's 
+intellectual property rights and the--you know, the rights of 
+the, you know, photographers who produce the images that our 
+model is trained on and are expecting income from those images 
+we didn't want to infringe on.
+    So, you know, we did not just scrape a bunch of images off 
+the web to train our model. We partnered with Getty, and we 
+trained our model Picasso. And when people use Picasso to 
+generate images, the people who provided the original, you 
+know, content get remunerated. And we see this as a way of 
+going forward in general, where people who are providing the IP 
+that trains these models should benefit from the use of that 
+IP.
+    Senator Klobuchar. Okay. And today, the White House 
+announced eight more companies that are committing to take 
+steps to move toward safe, secure, and transparent development 
+of AI and videos. NVIDIA is one of those companies--could you 
+talk about the steps that you've taken, and what steps do you 
+plan to take to foster ethical and responsible development of 
+AI?
+    Mr. Dally. So we've done a lot already. We have, you know, 
+implemented our NeMo Guardrails. So we can basically put 
+guardrails around our own large language model, NeMo, so that 
+inappropriate prompts to the model don't get a response.
+    If the model inadvertently were to generate something that 
+might be considered offensive, that is detected and intercepted 
+before it can reach the user of the model. We have a set of 
+guidance that we provide for all of our internally generated 
+models and how, you know, they should be appropriately used.
+    We provide cards that sort of, you know, say where the 
+model came from, what the data set is trained on, and then we 
+test these models very thoroughly. And the testing depends upon 
+the use.
+    So for certain models, we test them for bias. Right? Well, 
+we want to make sure that when you refer to a doctor, it 
+doesn't automatically assume it's a him. We test them in 
+certain cases for safety. We have a variant of our NeMo model 
+called BioNeMo that's used in the medical profession. We want 
+to make sure that the advice that it gives is safe.
+    And there are a number of other measures. I----
+    Senator Klobuchar. Okay.
+    Mr. Dally [continuing]. Could give you a full list, if you 
+wanted.
+    Senator Klobuchar. Very good. Thank you.
+    Professor Hartzog, do you think Congress should be more 
+focused on regulating the inputs and design of generative AI, 
+or focus more on outputs and capabilities?
+    Professor Hartzog. Oh, can't the answer, Senator, be both?
+    Senator Klobuchar. Of course, it can.
+    Professor Hartzog. Certainly, certainly. I think that the 
+area that has been ignored, I think, up to this point, has been 
+the design and inputs to a lot of these tools. And so to the 
+extent that that area could use some revitalization, I would 
+encourage inputs and outputs, design and uses.
+    Senator Klobuchar. Okay. And I suggest you look at these 
+election bills because, as we've all been talking about, I 
+think we have to move quickly on those. And the fact that it's 
+bipartisan has been a very positive thing, so.
+    Professor Hartzog. Absolutely.
+    Senator Klobuchar. I wanted to thank Mr. Smith for wearing 
+a purple Vikings tie. I know that that maybe was an AI-
+generated message that you got to know that this would be a 
+smart move with me after their loss on Sunday. I will remind 
+you, they're playing Thursday night, so.
+    [Laughter.]
+    Mr. Smith. As a native of Wisconsin, I can assure you it 
+was an accident.
+    [Laughter.]
+    Senator Klobuchar. Very good. All right. Thank you, all of 
+you. We have a lot of work to do. Thanks.
+    Chair Blumenthal [presiding]. Senator Blackburn.
+    Senator Blackburn. Thank you, Mr. Chairman.
+    Mr. Smith, I want to come to you first and talk about China 
+and the Chinese Communist Party. The way they have gone about--
+and we've seen a lot of it on TikTok. They have these influence 
+campaigns that they are running to influence certain thought 
+processes with the American people.
+    I know you all just did a report on China. You covered some 
+of the disinformation, some of the campaigns. So talk to me a 
+little bit about how Microsoft, but then the industry as a 
+whole, can combat some of these campaigns.
+    Mr. Smith. I think there's a couple of things that we can 
+think more about and do more about.
+    The first is, we all should want to ensure that our own 
+products, and systems, and services are not used, say, by 
+foreign governments in this manner.
+    And I think that there's room for the evolution of export 
+controls and next generation export controls to help prevent 
+that. I think there's also room for a concept that's worked 
+since the 1990s in the world of banking and financial services. 
+It's these ``Know Your Customer'' requirements.
+    And we've been advocates for those. So that if there is 
+abuse of systems, the company that is offering the service 
+knows who is doing it and is in a better position to stop it 
+from happening.
+    I think the other side of the coin is using AI and 
+advancing our defensive technologies, which really start with 
+our ability to detect what is going on. And we've been 
+investing heavily in that space. That is what enabled us to 
+produce the report that we published. It is what enables us to 
+see the patterns in communications around the world.
+    And we're seeking to be a voice with many others that 
+really calls on governments to, I'll say, lift themselves to a 
+higher standard so that they're not using this kind of 
+technology to interfere in other countries, and especially in 
+other countries' elections
+    Senator Blackburn. In the report that you all did, and you 
+were looking at China, did you look at, what I call the other 
+members of the axis of evil, Russia, Iran, North Korea?
+    Mr. Smith. We did. And that specific report that you're 
+referring to was focused on what we call--it was East Asia. 
+Yes, we see especially prolific activities, some from China, 
+some from Iran. And really, the most global actor in this space 
+is Russia.
+    And we've seen that grow during the war, but we've seen it, 
+you know, really spiral in the recent years going back to the 
+middle of the last decade. We estimate that the Russian 
+government is spending more than $1 billion dollars a year on a 
+global--what we call cyber influence operation.
+    Part of it targets the United States. I think their 
+fundamental goal is to undermine public confidence in 
+everything that the public cares about in the United States, 
+but it's not unique to the United States. We see it in the 
+South Pacific. We see it across Africa. And I do think it's a 
+problem we need to do more to counter.
+    Senator Blackburn. So summing it up, you would see 
+something like a ``Know Your Customer'' or a SWIFT system, 
+things that apply to banking, that is there to help weed it 
+out. You think that companies should increase their due 
+diligence to make certain that their systems are appropriate, 
+and then being careful about doing business with countries that 
+may misuse a certain technology?
+    Mr. Smith. Generally, yes. I think----
+    Senator Blackburn. Yes.
+    Mr. Smith [continuing]. One can look at the specific 
+scenarios and what's more high-risk, but a ``Know Your 
+Customer'' requirement. We've also said a ``Know Your Cloud'' 
+requirement, in effect----
+    Senator Blackburn. Okay.
+    Mr. Smith [continuing]. So that these systems are deployed 
+in secure data centers.
+    Senator Blackburn. Okay. Mr. Hartzog, let me come to you. I 
+think one of the things as we look at AI detrimental impacts, 
+you know, and we don't always want to look at the doomsday 
+scenarios.
+    But we are looking at some of the reports on surveillance 
+with the CCP surveilling the Uyghurs, with Iran surveilling 
+women. And I think there are other countries that are doing the 
+same type surveillance. So what can you do to prevent that? How 
+do we prevent that?
+    Professor Hartzog. Senator, I've argued in the past that 
+facial recognition technologies and certain sorts of biometric 
+surveillance are fundamentally dangerous, and that there's no 
+world in which that actually should be safe for any of us, and 
+that we should prohibit them outright. In the very least, 
+prohibition of biometric surveillance in public spaces, 
+prohibition of emotion recognition.
+    This is what I refer to as the strong bright-line measures 
+that draws absolute lines in the sands rather than procedural 
+ones that ultimately, I think, end up entrenching this kind of 
+harmful surveillance.
+    Senator Blackburn. Okay. Mr. Chairman, can I take another 
+30 seconds? Because Mr. Dally was shaking his head in agreement 
+on some things. I was catching that. Do you want to weigh in 
+before I close my questioning on either of these topics?
+    Mr. Dally. I was in general agreement, I guess, when I was 
+shaking my head. I think, you know, we need to be very careful 
+about who we sell our technology to. And, you know, NVIDIA, we, 
+you know, try to, you know, sell to, you know, people who are 
+using this for good commercial purposes and not to, you know, 
+suppress others. And, you know, we will continue to do that 
+because we don't want to see this technology misused to oppress 
+anybody.
+    Senator Blackburn. Got it. Thank you. Thanks.
+    Chair Blumenthal. Thanks, Senator Blackburn. My colleague 
+Senator Hawley mentioned that we have a forum tomorrow, which I 
+welcome. I think anything to aid in our education and 
+enlightenment--``our,'' being Senators--is a good thing. And I 
+just want to express the hope that some of the folks who are 
+appearing in that venue will also cooperate and appear before 
+this Subcommittee.
+    We will certainly be inviting more than a few of them. And 
+I want to express my thanks to all of you for being here, but 
+especially to Mr. Smith, who has to be here tomorrow to talk to 
+my colleagues privately. And our effort is complimentary, not 
+contradictory to what Senator Schumer is doing, as you know.
+    I'm very focused on election interference because elections 
+are upon us. And I want to thank my colleagues, Senators 
+Klobuchar, and Hawley, Coons, and Collins for taking a first 
+step toward addressing the harms that may result from 
+deepfakes, impersonation, all of the potential perils that 
+we've identified here.
+    And it seems to me that authenticating the truth or ads 
+that embody true images and voices is one approach. And then 
+banning the deepfakes and impersonations is another approach. 
+And obviously, banning anything in the public realm, in public 
+discourse endangers running afoul of the First Amendment, which 
+is why disclosure is often the remedy that we seek, especially 
+in campaign finance.
+    So maybe I should ask all of you whether you see that 
+banning certain kinds of election interference--and Mr. Smith, 
+you raised the spectre of foreign interference, and the frauds, 
+and scams that could be perpetrated, as they were in 2016.
+    And I think it is one of those nightmares that should keep 
+us up at night because we are an open society. We welcome free 
+expression. And AI is a form of expression, whether we regard 
+it as free or not, and whether it's generated and high-risk, or 
+simply touching up some of the background in the TV ad.
+    Maybe you can, each of you, talk a little bit about what 
+you see the potential remedies there. Mr. Dally?
+    Mr. Dally. So I think it is of grave concern, with the 
+election season coming up, that the American public may be 
+misled by deepfakes of various kinds. I think, as you 
+mentioned, that the use of provenance to authenticate a true 
+image or voice at its source, and then tracking that to its 
+deployment will let us know what a real image is. And if we 
+insist on AI content--AI-generated content being identified as 
+such, then people are at least tipped off that this is 
+generated and not the real thing.
+    You know, I think that we need to avoid, you know, having 
+some, you know, especially foreign, entity interfere in our 
+elections. But at the same time, you know, AI-generated content 
+is speech, and I think it would be a dangerous precedent to try 
+to ban something. I think it's much better to have disclosure, 
+as you suggested, than to ban something outright.
+    Chair Blumenthal. Mr. Smith?
+    Mr. Smith. Three thoughts.
+    Number one, 2024 is a critical year for elections, not only 
+in this country. But it's not only for the United States, it's 
+for the United Kingdom, for India, across the European Union. 
+More than two billion people will vote for who is going to 
+represent them. And so this is a global issue for the world's 
+democracies.
+    Number two, I think you're right to focus in particular on 
+the First Amendment because it's such a critical cornerstone 
+for American political life and the rights that we all enjoy. 
+And yet, I will also be quick to add, I don't think the Russian 
+government qualifies for protection under the First Amendment.
+    And if they're seeking to interfere in our elections, then 
+I think that the country needs to take a strong stand, and a 
+lot of thought needs to be given as to how to do that 
+effectively.
+    But then number three--and this I think goes to the heart 
+of your question and why it's such a good one--I think it's 
+going to require some real thought discussion and an ultimate 
+consensus to emerge, let me say, around one specific scenario.
+    Let's imagine for a moment that there is a video that 
+involves a Presidential candidate that originally was giving a 
+speech. And then let's imagine that someone uses AI to put 
+different words into the mouth of that candidate, and uses AI 
+technology to perfect it to a level that it is difficult for 
+people to recognize as fraudulent.
+    Then you get to this question, what should we do? And at 
+least as I've been trying, and we've been trying to think this 
+through, I think we have two broad alternatives. One is we take 
+it down, and the other is we relabel it.
+    If we do the first, then we're acting as censors. And I do 
+think that makes me nervous. I don't think that's really our 
+role to act as censors. And the Government really cannot, I 
+think, under the First Amendment. But relabeling to ensure 
+accuracy, I think that is probably a reasonable path. But 
+really what this highlights is the discussion still to be had, 
+and I think, the urgency for that conversation to take place.
+    Chair Blumenthal. And I will just say--and then I want to 
+come to you, Professor Hartzog--that I agree emphatically with 
+your point about the Russian government, or the Chinese 
+government, or the Saudi government as potential interferers.
+    They're not entitled to the protection of our Bill of 
+Rights when they are seeking to destroy those rights, and 
+purposefully trying to take advantage of a free and open 
+society to, in effect, decimate our freedoms.
+    So I think there is a distinction to be made there in terms 
+of national security. And I think that rubric of national 
+security, which is part of our framework, applies with great 
+force in this area. And that is different from a Presidential 
+candidate putting up an ad that, in effect, puts words in the 
+mouth of another candidate.
+    And as you may know, we began these hearings with 
+introductory remarks from me that were impersonation taken from 
+my comments on the floor--taking my voice from speeches that I 
+made on the floor of the United States Senate with content 
+generated by ChatGPT that sounded exactly like something I 
+would say in a voice that was indistinguishable from mine.
+    And, obviously, I disclosed that fact at the hearing. But 
+in real time, as Mark Twain famously said, ``A lie travels 
+halfway around the world before the truth gets out of bed.'' 
+And we need to make sure that there is action in real time if 
+you're going to do the kind of identification that you 
+suggested. Real time, meaning real time in a campaign which is 
+measured in minutes and hours, not in days and months. 
+Professor Hartzog?
+    Professor Hartzog. Thank you, Senator. Like you, I'm 
+nervous about just coming out and saying we're going to ban all 
+forms of speech, particularly, when you're talking about 
+something as important as this, political speech.
+    And like you, I also worry about disclosure alone as a half 
+measure. And earlier in this hearing, it was asked, ``What is a 
+half measure? '' And I think that goes toward answering your 
+question today. I think the best way to think about half 
+measures is an approach that is necessary, but not sufficient. 
+That risks giving us the illusion that we've done enough, but 
+ultimately--and I think this is the pivotal point--doesn't 
+really disrupt the business model and the financial incentives 
+that have gotten us here in the first place.
+    And so to help answer your question, one thing that I would 
+recommend is thinking about throwing lots of different tools--
+which I applaud your bipartisan framework for doing, is 
+bringing lots of different tools to bear on this problem, 
+thinking about the role that surveillance, advertising plays in 
+powering a lot of these harmful technologies and ecosystems 
+that doesn't allow the system--the lie just to be created, but 
+flourish and to be amplified.
+    And so I would think about rules and safeguards that we 
+could do to help limit those financial incentives, borrowing 
+from standard principles of accountability. Things like, we use 
+disclosures where it's effective, it's not effective. You have 
+to make it safe. And if you can't make it safe, it shouldn't 
+exist.
+    Chair Blumenthal. Yes. I think I'm going to turn to Senator 
+Hawley for more questions. But I think this is a real 
+conundrum. We need to do something about it. We need more than 
+half measures. We can't delude ourselves by thinking with a 
+false sense of comfort that we've solved the problem if we 
+don't provide effective enforcement.
+    And to be very blunt, the Federal Elections Commission 
+often has been less than fully effective--a lot less than fully 
+effective in enforcing rules relating to campaigns.
+    And so, there again, an oversight entity with strong 
+enforcement authority, sufficient resources, and the will to 
+act is going to be very important if we're going to address 
+this problem in real time. Senator Hawley.
+    Senator Hawley. Mr. Smith, let me just come back to 
+something you said, thinking about now workers. You talked 
+about Wendy's, I think it was, that automating the drive-
+through and talking about, you know, this was a good thing. I 
+just want to press on that a little bit.
+    Is it--is it a good thing that workers lose their jobs to 
+AI, whether it's at Wendy's, or whether it's at Walmart, or 
+whether it's at the local hardware store? I mean, is it--you 
+pointed out that--your comment was that there's really no 
+creativity involved in taking orders through the drive-through. 
+But that is a job, oftentimes a first job for younger 
+Americans.
+    But hey, in this economy where the wages of blue collar 
+workers have been flat for 30, 40 years and running, what 
+worries me is that oftentimes what we hear from the tech 
+sector, to be honest with you, is that jobs that don't have 
+creativity, as tech defines, that don't have value. I'm frankly 
+scared to death that AI will replace lots of jobs that tech 
+types think aren't creative and will leave even more blue 
+collar workers without any place to turn.
+    So my question to you is, can we expect more of this? And 
+is it really progress for folks to lose those kind of jobs 
+that, you know--I'd suspect that's not the best paying job in 
+the world, but at least it's a job. And do we really want to 
+see more of these jobs lost?
+    Mr. Smith. Well, to be clear, at first I didn't say whether 
+it was a good or bad thing. I was asked to predict what jobs 
+would be impacted and I identified that job as one that likely 
+would be.
+    But let's, I think, step back, because I think your 
+question is critically important. Let's first reflect on the 
+fact that, you know, we've had about 200 years of automation 
+that have impacted jobs, sometimes for the better, sometimes 
+for the worst.
+    In Wisconsin, where I grew up, or in Missouri, where my 
+father grew up, if you go back 150 years, it took 20 people to 
+harvest an acre of wheat or corn. And now it takes one. So 19 
+people don't work on that acre anymore. And that's been an 
+ongoing part of technology.
+    The real question is this, how do we ensure that technology 
+advances so that we help people get better jobs, get the skills 
+they need for those jobs, and hopefully, do it in a way that 
+broadens economic opportunity rather than narrows it.
+    I think the thing we should be the most concerned by is 
+that since the 1990s, and I think this is the point you're 
+making, if you look at the flow of digital technology--you 
+know, fundamentally we've lived in a world that has widened the 
+economic divide.
+    Those people with a college or graduate education have seen 
+their incomes rise in real terms. Those people with, say, a 
+high school diploma or less, have seen their income level 
+actually drop compared to where it was in the 1990s.
+    So what do we do now? Well, I'll at least say what I think 
+our goal should be. Can we use this technology to help advance 
+productivity for a much broader range of people, including 
+people who didn't have the good fortune to go to, say, where 
+you or I went to college or law school?
+    And can we do it in a way that not only makes them more 
+productive, but actually reaps some of the dividends of that 
+productivity for themselves in a growing income level? I think 
+it's that conversation that we need to have.
+    Senator Hawley. Yes. I agree with you, and I hope that that 
+is--I hope that that's what AI could do. You talked about the 
+farm used to take 20 people to do what one person could do. It 
+used to take thousands of people to produce textiles, or 
+furniture, or other things in this company where now it's zero. 
+So we can tell the tale in different ways.
+    I'm not sure that seeing working class jobs go overseas or 
+be replaced entirely is a success story. In fact, I'd argue 
+it's not at all. It's not a success story. And I'd argue more 
+broadly that our economic policy the last 30 years has been 
+downright disastrous for working people.
+    And tech companies, and financial institutions, and, 
+certainly, banks, and Wall Street, they have reaped huge 
+profits, but blue collar workers can barely find a good-paying 
+job.
+    I don't want AI to be the latest accelerant of that trend. 
+And so I don't really want every service station in America to 
+be manned by some computer such that nobody can get a job 
+anymore, get their foot in the door, or start their climb up 
+the ladder. That that worries me.
+    Let me ask you about something else here in my expiring 
+time. You mentioned national security.
+    Mr. Smith. Mm-hmm.
+    Senator Hawley. Critically important. Of course, there's no 
+national security threat that is more significant for the 
+United States than China. Let me just ask you, is Microsoft too 
+entwined with China?
+    You have the Microsoft Research Asia that was set up in 
+Beijing back in the late 1990s. You've got centers now in 
+Shanghai and elsewhere. You've got all kinds of cooperation 
+with Chinese state-owned businesses. I'm looking at an article 
+here from Protocol Magazine where one of their contributors 
+said that Microsoft had been the alma mater of Chinese big 
+tech.
+    Are you concerned about your degree of entwinement with the 
+Chinese government? Do you need to be decoupling in order to 
+make sure that our national security interests aren't fatally 
+compromised?
+    Mr. Smith. I think it's something that we need to be and 
+are focused on. To some degree in some technology fields, 
+Microsoft is the alma mater of the technology leaders in every 
+country in the world because of the role that we've played over 
+the last 40 years.
+    But when it comes to China today, we are and need to have 
+very specific controls on who uses our technology, and for 
+what, and how. That's why we don't, for example, do work on 
+quantum computing, or we don't provide facial recognition 
+services, or focus on synthetic media, or a whole variety of 
+things.
+    While at the same time, when Starbucks has stores in China, 
+I think it's good that they can run their services in our data 
+center rather than a Chinese company's data center.
+    Senator Hawley. Well, just on facial recognition, I mean, 
+back in 2016, your company released this database, MS-Celeb, 10 
+million faces without the consent of the folks who were in the 
+database. You eventually took it down although it took 3 years. 
+China used that database to train much of its facial 
+recognition software and technology.
+    I mean, it isn't that a problem? You said that Microsoft 
+might be the alma mater of many companies AI, but China's 
+unique. No? I mean, China is running concentration camps using 
+digital technology like we've never seen before. I mean, isn't 
+that a problem for your company to be in any way involved in 
+that?
+    Mr. Smith. We don't want to be involved in that in any way, 
+and I don't believe we are. I think that----
+    Senator Hawley. Are you going to close your centers in 
+China, your Microsoft Research Asia, Beijing, or your center in 
+Shanghai?
+    Mr. Smith. I don't think that will accomplish what you are 
+asking us----
+    Senator Hawley. You're running thousands of people through 
+your centers out into the Chinese government and Chinese state-
+owned enterprises. Isn't that a problem?
+    Mr. Smith. First of all, there's a big premise, and I don't 
+embrace the premise that that is in fact what we're doing. We 
+are----
+    Senator Hawley. Well, which part is wrong?
+    Mr. Smith. The notion that we're running thousands of 
+people through, and then they're going into the Chinese 
+government----
+    Senator Hawley. Is that not right? I thought you had 10,000 
+employees in China whom you've recruited from Chinese state-
+owned agencies, Chinese state-owned businesses. They come work 
+for you, and then they go back to these state-owned entities.
+    Mr. Smith. We have employees in China. In fact, we have 
+that number. I don't--to my knowledge, that is not where 
+they're coming from. That is not where they're going. We are 
+not running that kind of revolving door. And it's all about 
+what we do and who we do it with that I think is of paramount 
+importance, and that's what we're focused on.
+    Senator Hawley. You'd condemn what the Chinese government's 
+doing to the Uyghurs, and the Xinjiang Province, and all of 
+that?
+    Mr. Smith. We do everything we can to ensure that our 
+technology is not used in any way for that kind of activity in 
+China and around the world, by the way.
+    Senator Hawley. But you condemn it, to be clear?
+    Mr. Smith. Yes.
+    Senator Hawley. What are your safeguards that you have in 
+place such that your technology is not further enabling the 
+Chinese government, given the number of people you employ there 
+and the technology you develop there?
+    Mr. Smith. Well, you take something like facial 
+recognition, which is at the heart of your question. We have 
+very tight controls that limit the use of facial recognition in 
+China, including controls that, in effect, make it very 
+difficult, if not impossible, to use it for any kind of real 
+time surveillance at all.
+    And by the way, the thing we should remember, the U.S. is a 
+leader in many AI fields. China's the leader in facial 
+recognition technology and the AI for it. And----
+    Senator Hawley. Well, in part because of the information 
+that you helped them acquire. No?
+    Mr. Smith. No. It's because they have the world's most 
+data.
+    Senator Hawley. Well, yes, but you gave them----
+    Mr. Smith. No.
+    Senator Hawley [continuing]. Ten million.
+    Mr. Smith. Well, it--I--I don't think that's----
+    Senator Hawley. You don't think that had anything to do 
+with it?
+    Mr. Smith. I don't think--when you have a country of 1.4 
+billion people and you decide to have facial recognition used 
+in so many places, it gives that country a mass of data.
+    Senator Hawley. But are you saying that the database that 
+Microsoft released in 2016, MS-Celeb, you're saying that that 
+wasn't used by the Chinese government to train their facial 
+recognition?
+    Mr. Smith. I am not familiar with that, and I add it to the 
+list. I'd be happy to provide you with information.
+    Senator Hawley. Okay.
+    Mr. Smith. But my goodness, the advance in that facial 
+recognition technology--if you go to another country where 
+they're using facial recognition technology, it's highly 
+unlikely it's American technology. It's highly likely that it's 
+Chinese technology because they are such leaders in that field.
+    Which I think is fine. I mean, if you want to pick a field 
+where the United States doesn't want to be a technology leader, 
+I'd put facial recognition technology on that list. But let's 
+recognize it's homegrown.
+    Senator Hawley. How much money has Microsoft invested in AI 
+development in China?
+    Mr. Smith. I don't know, but I will tell you this--okay. 
+The revenue that we make in China, which accounts for, what, 
+about one out of every six humans on this planet? It's 1.5 
+percent of our global revenue. It's not the market for us that 
+it is for other industries or even some other tech companies.
+    Senator Hawley. Sounds then like you can afford to 
+decouple?
+    Mr. Smith. But is that the right thing to do?
+    Senator Hawley. Yes. And again, a regime that is 
+fundamentally evil, that is inflicting the kind of atrocities 
+on its own citizens that you just alluded to, that is doing to 
+the Uyghurs, what it's doing, that it's running modern day 
+concentration camps--yes, I think it is.
+    Mr. Smith. But there's two questions that I think are at 
+least are worthy of thought. Number one, do you want General 
+Motors to sell or manufacture cars--let's just say sell cars in 
+China? Do you want to create jobs for people in Michigan or 
+Missouri so that those cars can be sold in China? If the answer 
+to that is yes, then think about the second question.
+    How do you want General Motors in China to run its 
+operations, and where would you like it to store its data? 
+Would you like it to be in a secure data center run by an 
+American company, or would you like it to be run by a Chinese 
+company?
+    Which will better protect General Motors' trades secrets? 
+I'll argue we should be there so that we can protect the data 
+of American companies, European companies, Japanese companies. 
+Even if you disagree on everything else, that I believe serves 
+this country well.
+    Senator Hawley. You know, I think you're doing a lot more 
+than just protecting data in China. You have major research 
+centers, tens of thousands of employees.
+    And to your question, do I want General Motors to be 
+building cars in China? No, I don't. I want them to be making 
+cars here in the United States with American workers. And do I 
+want American companies to be aiding in any way the Chinese 
+government and their oppressive tactics? I don't.
+    Senator Ossoff, would you like me to yield to you now? Are 
+you ready?
+    Chair Blumenthal. I have been very hesitant to interrupt--
+--
+    Senator Hawley. You've been very, very patient.
+    Chair Blumenthal [continuing]. The discussion. The 
+conversation here has been very interesting. And I'm going to 
+call on Senator Ossoff, and then I have a couple of follow-up 
+questions.
+    Senator Ossoff. Thank you, Mr. Chairman. And thank you, 
+all, for your testimony. Just getting down to the fundamentals, 
+Mr. Smith. If we're going to move forward with a legislative 
+framework or a regulatory framework, we have to define clearly 
+in legislative text precisely what it is that we are 
+regulating.
+    What is the scope of regulated activities, technologies, 
+and products? So how should we consider that question? And how 
+do we define the scope of technologies, the scope of services, 
+the scope of products that should be subject to a regime of 
+regulation that is focused on artificial intelligence?
+    Mr. Smith. I think there's three layers of technology on 
+which we need to focus in defining the scope of legislation and 
+regulation.
+    First is the area that has been the central focus of 2023 
+in the executive branch, and here on Capitol Hill. It's these 
+so-called frontier or foundation models that are the most 
+powerful, say, for something like generative AI.
+    In addition, there are the applications that use AI, or as 
+Senators Blumenthal and Hawley have said, ``the deployers of 
+AI.'' If there is an application that calls on that model in 
+what we consider to be a high-risk scenario, meaning it could 
+make a decision that would have an impact on, say, the privacy 
+rights, the civil liberties, the rights of children or needs of 
+children, then I think we need to think hard, and have law and 
+regulation that is effective to protect Americans.
+    And then the third layer is the data center infrastructure 
+where these models and where these applications are actually 
+deployed. And we should ensure that those data centers are 
+secure, that there are cybersecurity requirements that the 
+companies, including ours, need to meet.
+    We should ensure that there are safety systems at one, two, 
+or all three levels if there is an AI system that is going to 
+automate and control, say, something like critical 
+infrastructure, such as the electrical grid.
+    So those are the areas where we would say start there with 
+some clear thinking, and a lot of effort to learn and apply the 
+details--but focus there.
+    Senator Ossoff. As more and more models are trained and 
+developed to higher levels of power and capability, there will 
+be a proliferation--there may be a proliferation of models--
+perhaps not the frontier models, perhaps not those at the 
+bleeding edge--that use the most compute of all, powerful 
+enough to have serious implications.
+    So is the question, which models are the most powerful in a 
+moment in time, or is there a threshold of capability or power 
+that should define the scope of regulated technology?
+    Mr. Smith. I think you've just posed one of the critical 
+questions that, frankly, a lot of people inside the tech 
+sector, and across the Government, and in academia, are really 
+working to answer. And I think the technology is evolving and 
+the conversation needs to evolve with it.
+    Let's just posit this: There's something like GPT-4 from 
+OpenAI. Let's just posit it can do 10,000 things really well. 
+It's expensive to create, and it's relatively easy to regulate 
+in the scheme of things because there's 1, or 2, or 10.
+    But now let's go to where you're going, which I think is 
+right. What does the future bring in terms of proliferation? 
+Imagine that there's an academic at Professor Hartzog's 
+university who says, ``I want to create an open source model. 
+It's not going to do 10,000 things well, but it's going to do 4 
+things well. It won't require as many NVIDIA GPUs. It won't, 
+you know, require as much data.''
+    But let's imagine that that could be used to create the 
+next virus that could spread around the planet. Then you'd say, 
+``Well, we really need to ensure that there's safety, 
+architecture, and controls around that, as well.''
+    And that's the conundrum. That's why this is a hard problem 
+to solve. It's why we're trying to build safety architecture in 
+our data centers so that open-source models can, say, run in 
+them, and still be used in ways that will prohibit that kind of 
+harm from taking place.
+    But as you think about a licensing regime, this is one of 
+the hard questions. Who needs a license? You don't want it to 
+be so hard that only a small number of big companies can get 
+it. But then you also need to make sure that you're not 
+requiring people to get it when they really, we would say, 
+don't need a license for what they're doing.
+    And, you know, the beauty of the framework, in my view, is 
+it starts to frame the issue. It starts to define the 
+question----
+    Senator Ossoff. Let me ask this question----
+    Mr. Smith [continuing]. And how we work on----
+    Senator Ossoff [continuing]. Is it a license to train a 
+model to a certain level of capability? Is it a license to 
+sell, or license access to that model? Or is it a license to 
+purchase or deploy that model? Who is the licensed entity?
+    Mr. Smith. That's another question that is key and may have 
+different answers in different scenarios, but mostly I would 
+say it should be a license to deploy that.
+    You know, I think that there may well be obligations to 
+disclose to, say, an independent authority when a training run 
+begins depending on what the goal--when the training run ends, 
+so that an oversight body can follow it just the way, say, 
+might happen when a company's building a new commercial 
+airplane.
+    And then there are--what's emerging--the good news is 
+there's emerging a foundation of, call it best practices, for 
+then how the model should be trained, what kind of testing 
+there should be, what harms should be addressed. That's a big 
+topic that needs----
+    Senator Ossoff. When you say----
+    Mr. Smith [continuing]. Discussion.
+    Senator Ossoff. Forgive me, Mr. Smith.
+    Mr. Smith. Yes.
+    Senator Ossoff. When you say, ``a license to deploy''----
+    Mr. Smith. Yes.
+    Senator Ossoff [continuing]. Do you mean, for example, if a 
+Microsoft Office product wishes to use a GPT model for some 
+user-serving purpose within your suite, you would need a 
+license to deploy GPT in that way? Or do you mean that GPT 
+would require a license to offer to Microsoft?
+    And putting aside whether or not this is a plausible 
+commercial scenario, the question is what's the structure of 
+the licensing arrangement?
+    Mr. Smith. In this case, it's more the latter. Imagine--
+look, think about it like Boeing. Boeing builds a new plane. 
+Before it can sell it to United Airlines and United Airlines 
+can start to fly it, the FAA is going to certify that it's 
+safe.
+    Now, imagine where it--call it GPT-12, whatever you want to 
+name it. You know, before that gets released for use, I think 
+you can imagine a licensing regime that would say that it needs 
+to be licensed after it's been, in effect, certified as safe.
+    And then you have to ask yourself, well, how do you make 
+that work so that we don't have the Government slow everything 
+down? And what I would say is you bring together three things.
+    First, you need industry standards so that you have a 
+common foundation and well-understood way as to how training 
+should take place.
+    Second, you need national regulation.
+    And third, if we're going to have a global economy, at 
+least in the countries where we want these things to work, you 
+probably need a level of international coordination.
+    And I'd say, look at the world of civil aviation. That's 
+fundamentally how it has worked since the 1940s. Let's try to 
+learn from it and see how we might apply something like that, 
+or other models, here.
+    Senator Ossoff. Mr. Dally, how would you respond to the 
+question, in a field where the technical capabilities are 
+accelerating at a rapid rate, future rate unknown, where and 
+according to what standard, or metric, or definition of power 
+do we draw the line for what requires a license for deployment 
+and what can be freely deployed without oversight by the 
+Government?
+    Mr. Dally. I think it's a tough question because I think 
+you have to balance two important considerations. The first is, 
+you know, the risks presented by a model of whatever power, and 
+on the other side is the fact that, you know, we would like to 
+ensure that the U.S. stays ahead in this field.
+    And to do that, we want to make sure that, you know, 
+individual academics and entrepreneurs with a good idea can, 
+you know, move forward, and innovate, and deploy models without 
+huge barriers.
+    Senator Ossoff. So it's the capability of the model. It's 
+the risk presented by its deployment without oversight. Is that 
+the--because the thing is, we're going to have to write 
+legislation, and the legislation is going to have to, in words, 
+define the scope of regulated products. And so we're going to 
+have to bound that which is subject to a licensing arrangement 
+or wherever we land and that which is not. So----
+    Mr. Dally. I think it is----
+    Senator Ossoff [continuing]. What I want is the very--and 
+so how do you--I mean----
+    Mr. Dally. It is dependent on the application. Because if 
+you have a model which is, you know, basically determining a 
+medical procedure, there's a high-risk with that, you know, 
+depending on the patient outcome.
+    If you have another model which is, you know, controlling 
+the temperature in your building, if it gets a little bit wrong 
+you may be, you know, consume a little bit too much power, or 
+maybe, you know, you're not as comfortable as you would be. But 
+it's not a life-threatening situation.
+    So I think you need to regulate the things that are, have 
+high consequences if the model goes awry.
+    Senator Ossoff. And I'm on the Chairman's borrowed time. So 
+just tap the gavel when you want me to stop.
+    Chair Blumenthal. You had to wait.
+    Senator Ossoff. That's true.
+    Chair Blumenthal. So we'll give you a couple of----
+    Senator Ossoff. Okay. Good.
+    Chair Blumenthal [continuing]. Extra minutes.
+    Senator Ossoff. Okay. Professor--and I'd be curious to hear 
+from others as concisely with respect for the Chairman's 
+follow-ups--how does any of this work without international 
+law?
+    I mean, isn't it correct that a model, potentially a very 
+powerful and dangerous model, for example, whose purpose is to 
+unlock CBRN or mass destructive virological capabilities to a 
+relatively unsophisticated actor, once trained, it's relatively 
+lightweight to transport? And without, A, an international 
+legal system, and B, a level of surveillance, that seems 
+inconceivable into the flow of data across the internet--how 
+can that be controlled and policed?
+    Professor Hartzog. It's a great question, Senator. And with 
+respect to being efficient, in my answer, I'll simply say that 
+there are going to be limits even assuming that we do need 
+international cooperation, which I would agree with you.
+    I mean, we've already started thinking about ways in which, 
+for example, within the EU, which has already deployed some 
+significant AI regulation, we might design frameworks that are 
+compatible with that that requires some sort of interaction.
+    But ultimately what I worry about is actually deploying a 
+level of surveillance that we've never before seen in an 
+attempt to perfectly capture the entire chain of AI. And that's 
+simply not possible. And so----
+    Senator Ossoff. And I share that concern about privacy, 
+which is in part why I raised the point. I mean, how can we 
+know what folks are loading a lightweight model, once trained, 
+onto perhaps a device that's not even online anymore?
+    Professor Hartzog. Right. Yes, there are limits, I think, 
+to what----
+    Senator Ossoff. Right.
+    Professor Hartzog [continuing]. We'll ever be able to 
+know----
+    Senator Ossoff. Either of you want to take a stab before I 
+get gaveled out here?
+    Mr. Smith. I would just say you're right. There's going to 
+need--to be a need for international coordination. I think it's 
+more likely to come from like-minded governments than perhaps 
+global governance, at least in the initial years. I do think 
+there's a lot we can learn.
+    We were talking with Senator Blackburn about the SWIFT 
+system for financial transactions.
+    And, you know, somehow we've managed globally and 
+especially in the United States for 30 years to have ``Know 
+Your Customer'' requirements obligations for banks. Money has 
+moved around the world. Nothing is perfect. I mean, that's why 
+we have laws. But it's worked to do a lot of good to protect 
+against, say, terrorist or criminal uses of money that would 
+cause concern.
+    Mr. Dally. Well, I think you're right in that these models 
+are very portable. You could put the parameters of most models, 
+even the very large ones, on a large USB drive and, you know, 
+carry it with you somewhere. You could also train them in a 
+data center anywhere in the world.
+    So, you know, I think it's really the use of the model and 
+the deployment that you can effectively regulate. It's going to 
+be hard to regulate the creation of it because if people can't 
+create them here, they'll create them somewhere else.
+    And I think we have to be very careful if we want the U.S. 
+to stay ahead--that we want the best people creating these 
+models here in the U.S. and not to go somewhere else where, you 
+know, the regulatory climate has driven them.
+    Senator Ossoff. Thank you. Thank you, Mr. Chairman.
+    Chair Blumenthal. Thank you, Senator Ossoff. I hope you are 
+okay with a few more questions. We've been at it for a while. 
+You've been very patient.
+    Mr. Smith. Do we have a choice?
+    [Laughter.]
+    Chair Blumenthal. No.
+    [Laughter.]
+    Chair Blumenthal. But thank you very much. It's been very 
+useful. I want to follow up on a number of the questions I've 
+asked.
+    First of all, on the international issue, there are 
+examples and models for international cooperation. Mr. Smith, 
+you mentioned civil aviation. The 737 MAX--I think I have it 
+right--when it crashed, it was a plane that had to be redone in 
+many respects.
+    And companies' airlines around the world looked to the 
+United States for that redesign and then approval. Civil 
+aviation, atomic energy--not always completely effective, but 
+it has worked in many respects.
+    And so I think there are international models here where, 
+frankly, the United States is a leader by example and best 
+practices are adopted by other countries when we support them. 
+And frankly, in this instance, the EU has been ahead of us in 
+many respects regarding social media. And we are following 
+their leadership by example.
+    I want to come to this issue of having centers--whether 
+they're in China or, for that matter, elsewhere in the world--
+requiring safeguards so that we are not allowing our technology 
+to be misused in China against the Uyghurs, and preventing that 
+technology from being stolen, or people we train there from 
+serving bad purposes.
+    Are you satisfied, Mr. Smith, that it is possible, in fact, 
+that you are doing it in China, that is preventing the evils 
+that could resolve from doing business there in that way?
+    Mr. Smith. I would say two things. First, I feel good about 
+our track record, and our vigilance, and the constant need for 
+us to be vigilant about what services we offer to whom and how 
+they're used. It's really those three things. And I would take 
+from that what I think is probably the conversation we'll need 
+to have as a country about export controls more broadly.
+    There's three fundamental areas of technology where the 
+United States is today, I would argue, the global leader.
+    First, the GPU chips from a company like NVIDIA.
+    Second, the cloud infrastructure from a company like, say, 
+Microsoft.
+    And the third, is the foundation model from a firm such as 
+OpenAI, and, of course, Google, and AWS, and other companies 
+are global leaders as well.
+    And I think if we want to feel that we're good in creating 
+jobs in the United States by inventing and manufacturing here--
+as you said, Senator Hawley, which I completely endorse--and 
+good, the technology is being used properly, we probably need 
+an export control regime that weaves those three things 
+together.
+    For example, there might be a country in the world--let's 
+just set aside China for a moment. Leave that out. Let's just 
+say there's another country where you, all, in the executive 
+branch would say, ``We have some qualms, but we want U.S. 
+technology to be present and we want U.S. technology to be used 
+properly,'' the way that would make you feel good.
+    You might say then we'll let NVIDIA export chips to that 
+country to be used in, say, a data center of a company that we 
+trust that is licensed, even here, for that use, with the model 
+being used in a secure way in that data center with a ``Know 
+Your Customer'' requirement, and with guardrails that put 
+certain kinds of use off limits.
+    That may well be where Government policy needs to go, and 
+how the tech sector needs to support the Government and work 
+with the Government to make it a reality.
+    Chair Blumenthal. I think that that answer is very 
+insightful and raises other questions. I would kind of 
+analogize this situation to nuclear proliferation. We cooperate 
+over safety in some respects with other countries, some of them 
+adversaries, but we still do everything in our power to prevent 
+American companies from helping China or Russia in their 
+nuclear programs.
+    Part of that non-proliferation effort is through export 
+controls. We impose sanctions. We have limits and rules around 
+selling and sharing certain chokepoint technologies related to 
+nuclear enrichment, as well as biological warfare, 
+surveillance, and other national security risks. And our 
+framework, in fact, envisions sanctions and safeguards 
+precisely in those areas for exactly the reasons we've been 
+discussing here.
+    Last October, the Biden administration used existing legal 
+authorities as a first step in blocking the sale of some high-
+performance chips and equipment to make those chips to China. 
+And our framework calls for export controls, and sanctions, and 
+legal restrictions.
+    So I guess a question that we will be discussing--we're not 
+going to resolve it today, regrettably. But we would appreciate 
+your input going forward, and I'm inviting any of the listening 
+audience here in the room, or elsewhere, to participate in this 
+conversation on this issue and others--how should we draw a 
+line on the hardware and technology that American companies are 
+allowed to provide, anyone else in the world, any other 
+adversaries or friends? Because as you've observed, Mr. Dally, 
+and I think all of us accept, it's easily proliferated.
+    Mr. Dally. Yes. If I could comment on this?
+    Chair Blumenthal. Sure.
+    Mr. Dally. You drew an analogy to, you know, nuclear 
+regulation and mentioned the word chokepoint. And I think the 
+difference here is that there really isn't a chokepoint. And I 
+think there's a careful balance to be made between, you know, 
+limiting, you know, where, you know, our chips go and what 
+they're used for.
+    And, you know, disadvantaging American companies and the 
+whole food chain that feeds them because--you know, we're not 
+the only people who make chips that can do AI. I wish we were, 
+but we're not.
+    There are companies around the world that can do it. There 
+are other American companies. There are companies in Asia. 
+There are companies in Europe. And if people can't get the 
+chips they need to do AI from us, they will get them somewhere 
+else.
+    And what will happen then is--you know, it turns out that 
+chips aren't really the things that make them useful. It's the 
+software. And if all of a sudden the standard chips for people 
+to do AI become something from--you know, pick a country, 
+Singapore, you know, all of a sudden all the software engineers 
+will start writing all the software for those chips.
+    They'll become the dominant chips. And, you know, the 
+leadership of that technology area will have shifted from the 
+U.S. to Singapore or whatever other country becomes dominant.
+    So we have to be very careful to balance, you know, the 
+national security considerations and the abusive technology 
+considerations against preserving the U.S. lead in this 
+technology area.
+    Chair Blumenthal. Mr. Smith.
+    Mr. Smith. Yes. It's a really important point. And what you 
+have is the argument-counter argument. Let me for a moment 
+channel what Senator Hawley often voices that I think is also 
+important. Sometimes you can approach this and say, ``Look, if 
+we don't provide this to somebody, somebody else will. So let's 
+not worry about it.'' I get it.
+    But at the end of the day, you know, whether you're a 
+company or a country, I think you do have to have clarity about 
+how you want your technology to be used.
+    And, you know, I fully recognize that there may be a day in 
+the future after I retire from Microsoft when I look back, and 
+I don't want to say, ``Oh, we did something bad. Because if we 
+didn't, somebody else would have.''
+    I want to say, ``No, we had clear values, and we had 
+principles, and we had in place guardrails and protections. And 
+we turned down sales so that somebody couldn't use our 
+technology to abuse other people's rights. And if we lost some 
+business, that's the best reason in the world to lose some 
+business.''
+    And what's true of a company is true as a country. And so 
+I'm not trying to say that your view shouldn't be considered. 
+It should. That's why this issue is complicated. How to strike 
+that balance?
+    Chair Blumenthal. Professor Hartzog, do you have any 
+comment?
+    Professor Hartzog. I think that was well said. And I would 
+only add that it's also worth considering in this discussion 
+about how we sort of safeguard these incredibly dangerous 
+technologies and the risk that could happen if they, for 
+example, proliferated. If it's so dangerous, then we need to 
+revisit the existential question again.
+    And I just bring it back to thinking not only about how we 
+put guardrails on, but how we lead by example, which I think 
+you brought up which is really important. And we don't win the 
+race to violate human rights. Right? And that's not one that we 
+want to be running.
+    Chair Blumenthal. And it isn't simply Chinese companies 
+importing chips from the United States and building their own 
+data centers. Most AI companies rent capabilities from cloud 
+providers. We need to make sure that the cloud providers are 
+not used to circumvent our export controls or sanctions.
+    Mr. Smith, you raised the ``Know Your Customer'' rules. 
+Knowing your customers would require cloud AI, cloud providers 
+whose models are deployed to know what companies are using 
+those models.
+    If you're leasing out a supercomputer, you need to make 
+sure that your customer isn't the People's Liberation Army. 
+That it isn't being used to subjugate Uyghurs. That it isn't 
+used to do facial recognitions on dissidents or opponents in 
+Iran, for example.
+    But I do think that you've made a critical point, which is, 
+there is a moral imperative here. And I think there--there is a 
+lesson in the history of this great country, the greatest in 
+the history of the world, that when we lose our moral compass, 
+we lose our way.
+    And when we simply do economic or political interests, 
+sometimes it's very shortsighted, and we wander into a 
+geopolitical swamp and quicksand. So I think these kinds of 
+issues are very important to keep in mind when we lead by 
+example.
+    I want to just make a final point, and then if Senator 
+Hawley has questions, we're going to let him ask. But on this 
+issue of worker displacement, I mentioned at the very outset, I 
+think we are on the cusp of a new industrial revolution.
+    We've seen this movie before, as they say. And it didn't 
+turn out that well in the industrial revolution where workers 
+were displaced en masse. Those textile factories and the mills 
+in this country and all around the world went out of business, 
+essentially, or replaced the workers with automation and 
+mechanics.
+    And I would respond by saying, we need to train those 
+workers. We need to provide education. You've alluded to it, 
+and it needn't be a 4-year college.
+    You know, in my State of Connecticut--Electric Boat, Pratt 
+& Whitney, Sikorsky--defense contractors are going to need 
+thousands of welders, electricians, tradespeople of all kinds 
+who will have not just jobs, they'll have careers that require 
+skills that, frankly, I wouldn't begin to know how to do. And I 
+haven't the aptitude to do. And that's no false modesty.
+    So I think there are tremendous opportunities here, not 
+just in the creative spheres that you have mentioned where, you 
+know, we may think higher human talents may come into play, but 
+in all kinds of jobs that are being created daily already in 
+this country.
+    And as I go around the State of Connecticut, the most 
+common comment I hear from businesses: ``We can't find enough 
+people to do the jobs we have right now. We can't find people 
+to fill the openings that we have.'' And that is, in my view, 
+maybe the biggest challenge for the American economy today.
+    Mr. Smith. I think that is such an important point. And 
+it's really worth putting everything we think about for jobs 
+because I wholeheartedly endorse, Senator Hawley, what you were 
+saying before, about let's--we need--we want people to have 
+jobs, we want them to earn a good living, etc.
+    First, let's consider the demographic context in which jobs 
+are created. The world has just entered a shift of the kind 
+that it literally hasn't seen since the 1400s, namely, 
+populations that are leveling off or in much of the world now 
+declining.
+    One of the things we look at is every country and measure 
+over 5-year periods, is the working age population increasing 
+or decreasing? And by how much?
+    From 2020 to 2025, the working age population in this 
+country, people aged 20 to 64, is only going to grow by one 
+million people. The last time it grew by that smaller number, 
+you know who was President of the United States? John Adams. 
+That's how far back you have to go.
+    And if you look at a country like Italy, take that group of 
+people over the next 20 years, it's going to decline by 41 
+percent. And what's true of Italy is true almost to the same 
+degree in Germany. It's already happening in Japan, in Korea.
+    So we live in a world where for many countries, we suddenly 
+encounter what you actually find, I suspect, when you go to 
+Hartford, or St. Louis, or Kansas City. People can't find 
+enough police officers, enough nurses, enough teachers, and 
+that is a problem we need to desperately focus on solving. So 
+how do we do that? I do think AI is something that can help.
+    And even in something like a call center. One of the things 
+that's fascinating to me, we have more than 3,000 customers 
+around the world running proofs of concept. One fascinating one 
+is a bank in the Netherlands.
+    They said, you go into a call center today, the desks of 
+the workers look like a trading floor in Wall Street. They have 
+six different terminals. Somebody calls, they're desperately 
+trying to find the answer to a question.
+    You know, with something like GPT-4, with our services, six 
+terminals can become one. Somebody who's working there can ask 
+a question, the answer comes up. And what they're finding is 
+that the person who's answering the phone, talking to a 
+customer, can now spend more time concentrating on the customer 
+and what they need.
+    And I appreciate all the challenges. There's so much 
+uncertainty. We desperately need to focus on skilling, but I 
+really do hope that this is an era where we can use this to, 
+frankly, help people fill jobs, get training, and focus more--
+let's just put it this way. I'm excited about artificial 
+intelligence. I'm even more excited about human intelligence.
+    And if we can use artificial intelligence to help people 
+exercise more human intelligence and earn more money doing so, 
+that would be something that would be way more exciting to 
+pursue than everything that we've had to grapple with the last 
+decade around, say, social media and the like.
+    Chair Blumenthal. Well our framework very much focuses on 
+treatment of workers, about providing more training. It may not 
+be something that this entity will do, but it is definitely 
+something that it has to address.
+    And it's not only displacement, but also working conditions 
+and opportunities within the workplace for promotion, to 
+prevent discrimination, to protect civil rights. We haven't 
+talked about it in detail, but we deal with it in our framework 
+in terms of transparency around decision-making.
+    And, you know, China may try to steal our technology, it 
+can't steal our people. And China has its own population 
+challenges with the need for more people, skilled labor. But I 
+say about Connecticut, you know, we don't have gold mines, or 
+oil wells. What we have is a really able workforce, and that's 
+going to be the key to, I think, America's economy in the 
+future. And AI can help promote development of that workforce. 
+Senator Hawley, anything from you?
+    Senator Hawley. Nothing further.
+    Chair Blumenthal. You all have been really patient and so 
+has our staff. I want to thank our staff for this hearing, but 
+most important, we're going to continue these hearings. It is 
+so helpful to us. I can go down our framework and tie the 
+proposals to specific comments made by Sam Altman or others who 
+have testified before, and we will enrich and expand our 
+framework with the insights that you have given us.
+    So I want to thank all of our witnesses, and, again, look 
+forward to continue our bipartisan approach here. You made that 
+point, Mr. Smith. We have to be bipartisan and adopt full 
+measures, not half measures.
+    Thank you, all. This hearing is adjourned.
+    [Whereupon, at 4:52 p.m., the hearing was adjourned.]
+    [Additional material submitted for the record follows.]
+
+                            A P P E N D I X
+
+Submitted by Chair Blumenthal:
+
+ California Privacy Protection Agency (CPPA), letter..............   119
+
+ Center for AI and Digital Policy (CAIDP), letter and attachment..   123
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+    Responses of Brad Smith to Questions Submitted by Senator Hawley
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+                                 [all]

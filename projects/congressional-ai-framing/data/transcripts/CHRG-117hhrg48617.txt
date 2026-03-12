@@ -1,0 +1,2277 @@
+- TRUSTWORTHY AI: MANAGING THE RISKS OF ARTIFICIAL INTELLIGENCE
+
+[House Hearing, 117 Congress]
+[From the U.S. Government Publishing Office]
+
+                   TRUSTWORTHY AI: MANAGING THE RISKS
+                       OF ARTIFICIAL INTELLIGENCE
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                SUBCOMMITTEE ON RESEARCH AND TECHNOLOGY
+
+                                 OF THE
+
+                      COMMITTEE ON SCIENCE, SPACE,
+                             AND TECHNOLOGY
+
+                                 OF THE
+
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED SEVENTEENTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                           SEPTEMBER 29, 2022
+
+                               __________
+
+                           Serial No. 117-70
+
+                               __________
+
+ Printed for the use of the Committee on Science, Space, and Technology
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]                                     
+
+       Available via the World Wide Web: http://science.house.gov
+
+                              __________
+
+                    U.S. GOVERNMENT PUBLISHING OFFICE                    
+48-617PDF                  WASHINGTON : 2023                    
+
+-----------------------------------------------------------------------------------       
+
+              COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+
+             HON. EDDIE BERNICE JOHNSON, Texas, Chairwoman
+ZOE LOFGREN, California              FRANK LUCAS, Oklahoma, 
+SUZANNE BONAMICI, Oregon                 Ranking Member
+AMI BERA, California                 MO BROOKS, Alabama
+HALEY STEVENS, Michigan,             BILL POSEY, Florida
+    Vice Chair                       RANDY WEBER, Texas
+MIKIE SHERRILL, New Jersey           BRIAN BABIN, Texas
+JAMAAL BOWMAN, New York              ANTHONY GONZALEZ, Ohio
+MELANIE A. STANSBURY, New Mexico     MICHAEL WALTZ, Florida
+BRAD SHERMAN, California             JAMES R. BAIRD, Indiana
+ED PERLMUTTER, Colorado              DANIEL WEBSTER, Florida
+JERRY McNERNEY, California           MIKE GARCIA, California
+PAUL TONKO, New York                 STEPHANIE I. BICE, Oklahoma
+BILL FOSTER, Illinois                YOUNG KIM, California
+DONALD NORCROSS, New Jersey          RANDY FEENSTRA, Iowa
+DON BEYER, Virginia                  JAKE LaTURNER, Kansas
+SEAN CASTEN, Illinois                CARLOS A. GIMENEZ, Florida
+CONOR LAMB, Pennsylvania             JAY OBERNOLTE, California
+DEBORAH ROSS, North Carolina         PETER MEIJER, Michigan
+GWEN MOORE, Wisconsin                JAKE ELLZEY, TEXAS
+DAN KILDEE, Michigan                 MIKE CAREY, OHIO
+SUSAN WILD, Pennsylvania
+LIZZIE FLETCHER, Texas
+VACANCY
+                                 ------                                
+
+                Subcommittee on Research and Technology
+
+                HON. HALEY STEVENS, Michigan, Chairwoman
+MELANIE A. STANSBURY, New Mexico     RANDY FEENSTRA, Iowa, 
+PAUL TONKO, New York                     Ranking Member
+GWEN MOORE, Wisconsin                ANTHONY GONZALEZ, Ohio
+SUSAN WILD, Pennsylvania             JAMES R. BAIRD, Indiana
+BILL FOSTER, Illinois                JAKE LaTURNER, Kansas
+CONOR LAMB, Pennsylvania             PETER MEIJER, Michigan
+DEBORAH ROSS, North Carolina         JAKE ELLZEY, TEXAS
+
+                        C  O  N  T  E  N  T  S
+
+                           September 29, 2022
+
+                                                                   Page
+
+Hearing Charter..................................................     2
+
+                           Opening Statements
+
+Statement by Representative Haley Stevens, Chairwoman, 
+  Subcommittee on Research and Technology, Committee on Science, 
+  Space, and Technology, U.S. House of Representatives...........     9
+    Written Statement............................................    10
+
+Statement by Representative Randy Feenstra, Ranking Member, 
+  Subcommittee on Research and Technology, Committee on Science, 
+  Space, and Technology, U.S. House of Representatives...........    10
+    Written Statement............................................    12
+
+Written statement by Representative Eddie Bernice Johnson, 
+  Chairwoman, Committee on Science, Space, and Technology, U.S. 
+  House of Representatives.......................................    13
+
+                               Witnesses:
+
+Ms. Elham Tabassi, Chief of Staff, Information Technology 
+  Laboratory, National Institute of Standards and Technology
+    Oral Statement...............................................    14
+    Written Statement............................................    17
+
+Dr. Charles Isbell, Dean and John P. Imlay, Jr. Chair of the 
+  College of Computing, Georgia Institute of Technology
+    Oral Statement...............................................    28
+    Written Statement............................................    30
+
+Mr. Jordan Crenshaw, Vice President of the Chamber Technology 
+  Engagement Center, U.S. Chamber of Commerce
+    Oral Statement...............................................    36
+    Written Statement............................................    38
+
+Ms. Navrina Singh, Founder and Chief Executive Officer, Credo AI
+    Oral Statement...............................................    49
+    Written Statement............................................    51
+
+Discussion.......................................................    61
+
+             Appendix I: Answers to Post-Hearing Questions
+
+Ms. Elham Tabassi, Chief of Staff, Information Technology 
+  Laboratory, National Institute of Standards and Technology.....    86
+
+Mr. Jordan Crenshaw, Vice President of the Chamber Technology 
+  Engagement Center, U.S. Chamber of Commerce....................    87
+
+            Appendix II: Additional Material for the Record
+
+Document submitted by Representative Brad Sherman, Committee on 
+  Science, Space, and Technology, U.S. House of Representatives
+    ``Engineered Intelligence: Creating a Successor Species,'' 
+      Representative Brad Sherman................................    92
+
+                   TRUSTWORTHY AI: MANAGING THE RISKS
+                       OF ARTIFICIAL INTELLIGENCE
+
+                              ----------                              
+
+                      THURSDAY, SEPTEMBER 29, 2022
+
+                  House of Representatives,
+           Subcommittee on Research and Technology,
+               Committee on Science, Space, and Technology,
+                                                   Washington, D.C.
+
+    The Subcommittee met, pursuant to notice, at 10:42 a.m., in 
+room 2318, Rayburn House Office Building, Hon. Haley Stevens 
+[Chairwoman of the Subcommittee] presiding.
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+    Chairwoman Stevens. Welcome to the Research and Technology 
+hearing to examine the harmful impacts associated with 
+artificial intelligence (AI) systems, as well as the 
+opportunities with our artificial intelligence systems, the 
+activities that academia, government, and industry are 
+conducting to prevent, mitigate, and manage AI risks as these 
+new technologies proliferate.
+    I'm thrilled to be joined by this distinguished panel of 
+witnesses, all of whom are in the room with us today. It is 
+great to see your faces and to be together the first time since 
+a March 2020 hearing, I believe.
+    It is also of deep importance to be discussing the benefits 
+and the challenges of artificial intelligence, the potential to 
+influence many aspects of our lives and support our economic 
+and national security. The applications in our everyday lives 
+span from merely convenient like recommending your next movie, 
+to transformational, like aiding doctors in earlier detection 
+of disease. In my home State of Michigan, advances in 
+artificial intelligence by automakers are accelerating the 
+development of autonomous vehicles that will lead to reduced 
+traffic and increased road safety. Artificial intelligence 
+systems are also increasingly used to analyze massive amounts 
+of data to propel research in fields to enhance our 
+understanding of the universe and cosmology, to synthetic 
+biology, to weather prediction. Call our ancestors.
+    But ill-conceived or untested applications of artificial 
+intelligence have also on occasion caused damage. We have 
+already seen ways AI systems can amplify, perpetuate, or 
+exacerbate inequitable outcomes. Researchers have shown that AI 
+systems making decisions in high-risk situations, such as 
+credit or housing, can be biased against already disadvantaged 
+communities, causing harm. This is why we need to encourage 
+people developing or deploying AI systems to be thoughtful 
+about what they're putting out into the world. We must develop 
+the tools, methodologies, and standards to ensure that AI 
+products and services are safe and secure, accurate, free of 
+harmful bias, and otherwise trustworthy. We are in a moment of 
+trust.
+    Since taking over this gavel of the Research and Technology 
+Subcommittee a few years ago, I have worked with my colleagues 
+on both sides of the aisle to promote trustworthy AI. We're 
+working together. I was proud to secure trustworthy AI 
+provisions in the CHIPS and Science Act that was passed and 
+signed into law just last month, which also promotes the--or 
+includes the Promoting Digital Privacy Technologies Act, which 
+passed the House and awaits a vote in the Senate, supports 
+privacy-enhanced data sets and tools for training AI systems.
+    Additionally, this Committee led the development of the 
+2020 National AI Initiative Act to accelerate and coordinate 
+Federal investments in research standards and education of 
+trustworthy AI. In that act we also directed NIST (National 
+Institute of Standards and Technology) to develop an AI Risk 
+Management Framework (AI RMF) to help organizations understand 
+and mitigate the risks associated with these technologies.
+    We're all excited to be having today's hearing and to 
+discuss the progress of this work and the many other things 
+that NIST is doing to promote trustworthy AI. Academia and 
+industry are supporting ethical approaches to artificial 
+intelligence. Universities across the country are adopting 
+principles for responsible use of AI and incorporating ethics 
+into their computer science (CS) curricula. Industry is moving 
+past theoretical principles into practical approaches to 
+mitigating AI risks. There's more to do, there's jobs to be 
+had, and people's lives are being impacted.
+    With that, we're here in Congress to ensure that the United 
+States continues to lead the world in artificial intelligence 
+and trustworthy artificial intelligence. And we thank our 
+witnesses for their time.
+    [The prepared statement of Chairwoman Stevens follows:]
+
+    Good morning and welcome to today's Research and Technology 
+hearing to examine the harmful impacts associated with 
+artificial intelligence systems, and the activities that 
+academia, government, and industry are conducting to prevent, 
+mitigate, and manage AI risks. I am thrilled to be joined by 
+our distinguished panel of witnesses. It is great to be with 
+you all in person today, and I look forward to hearing your 
+testimony.
+    Artificial intelligence has the potential to benefit many 
+aspects of our lives and support our economic and national 
+security. The applications in our everyday lives span from 
+merely convenient, like recommending your next movie, to 
+transformational, like aiding doctors in earlier detection of 
+disease. In my home state of Michigan, advances in AI by 
+automakers are accelerating the development of autonomous 
+vehicles that will lead to reduced traffic and increased road 
+safety. AI systems are also increasingly used to analyze 
+massive amounts of data to propel research in fields to enhance 
+our understanding of the universe in cosmology to synthetic 
+biology to weather prediction.
+    But ill-conceived or untested applications of AI have also 
+caused great harm. We have already seen ways AI systems can 
+amplify, perpetuate, or exacerbate inequitable outcomes. 
+Researchers have shown that AI systems making decisions in 
+high-risk situations, such as credit or housing, can be biased 
+against already disadvantaged communities.
+    This is why we need to encourage people developing or 
+deploying AI systems to be thoughtful about what they are 
+putting out into the world. We must develop the tools, 
+methodologies, and standards to ensure that AI products and 
+services are safe and secure, accurate, free of harmful bias, 
+and otherwise trustworthy.
+    Since taking over the gavel of the Research and Technology 
+Subcommittee, I have worked with my colleagues on both sides of 
+the aisle to promote trustworthy AI. I was proud to secure 
+trustworthy AI provisions in the CHIPS and Science Act--which 
+the President signed into law last month. My Promoting Digital 
+Privacy Technologies Act, which passed the House and awaits a 
+vote in the Senate, supports privacy-enhanced datasets and 
+tools for training AI systems. Additionally, this Committee led 
+the development of the 2020 National AI Initiative Act to 
+accelerate and coordinate Federal investments in research, 
+standards, and education of trustworthy AI. In that Act, we 
+also directed NIST to develop an AI risk management framework 
+to help organizations understand and mitigate the risks 
+associated with these technologies. I look forward to hearing 
+about the progress of this work and the many other things NIST 
+is doing to promote trustworthy AI in today's discussion.
+    Academia and industry are also supporting ethical 
+approaches to AI. Universities across the country are adopting 
+principles for responsible use of AI and incorporating ethics 
+into their computer science curricula. Industry is moving past 
+theoretical principles into practical approaches to mitigating 
+AI risks. But there is still much more to do.
+    I'm looking forward to hearing more about this work from 
+our witnesses today and to discussing what we here in Congress 
+can do to ensure the United States leads the world in 
+trustworthy artificial intelligence. I'd like to again thank 
+our witnesses for joining us today.
+
+    Chairwoman Stevens. With that, the Chair is going to 
+recognize Ranking Member Mr. Feenstra for an opening statement.
+    Mr. Feenstra. Thank you, Chairwoman Stevens, for holding 
+this important hearing today. I very much value of this 
+hearing. And I also want to thank Ranking Member Lucas for 
+attending today. I'm very grateful for that also. And also to 
+the distinguished panel that we have before us, it's--I 
+appreciate the time and effort that you have taken to come here 
+and to give testimony on this important topic.
+    Artificial intelligence is fundamentally changing the way 
+we solve some of our society's biggest challenges. From 
+healthcare to transportation, commerce to cybersecurity, AI 
+technologies are revolutionizing almost every aspect of our 
+daily life. But with every new and emerging technology comes 
+new and evolving challenges and risks. Over the years, the 
+Science Committee has held several hearings on AI, discussing 
+challenges rang ranging from ethics to the work force needs. I 
+hope we can use today's hearing as an opportunity to further 
+these important discussions and shed light on the importance of 
+enabling safe and trustworthy AI.
+    To do that, we have to first define what makes AI safe and 
+trustworthy, and I believe our witnesses can help us shed light 
+on that today. But in general, I think we can agree that safe 
+and trustworthy AI will meet certain criteria, like including 
+accuracy, privacy, and reliability. Additionally, it is 
+important that trustworthy AI systems utilize robust data, 
+while also protecting the safety and security of the user data.
+    Some other important factors of trustworthy AI includes 
+transparency, fairness, accountability, and the mitigation of 
+harmful biases. These factors are particularly important to 
+keep in mind as these technologies are being deployed for the 
+use in our daily lives. It is also critical that the data used 
+in AI technologies is accurate because the input data is the 
+foundation, the literal foundation of AI. So that must be our 
+general goal, transparent and fair AI with accurate data and 
+strong privacy protections. We can ensure that by having the 
+standards and evaluation methods in place for these 
+technologies.
+    The integration of trustworthy AI in key industries has the 
+most potential use and significant competition to advance U.S. 
+industry. AI and other industries of the future like quantum 
+science can revolutionize how business and economics operate, 
+improving efficiency, expanding services, and integrating 
+operations. The key to these benefits, of course, is the 
+trustworthy of AI.
+    Here in Congress, Members of the Science Committee 
+introduced the bipartisan National Artificial Intelligence 
+Initiative Act in 2020, which was made into law through the 
+Fiscal Year 2021 NDAA. The legislation created a broad national 
+security to accelerate investments of responsible AI research, 
+development, and standards, as well as education for AI work 
+force. It facilitated a new public-private partnership to 
+ensure that the United States leads the world in the 
+development and the use of AI systems.
+    Related to today's hearing, the initiatives require the 
+National Institute of Standards and Technology, NIST, to create 
+the framework for managing risk associated with AI systems and 
+best practices sharing to advance trustworthy AI systems.
+    As a leader in AI research, measurement, evaluation and 
+standards, NIST has been developing their voluntary AI Risk 
+Management Framework since this last July. The framework has 
+been developed through a consensus-driven, open, transparent, 
+and collaborative process with multiple workshops for industry 
+to provide input. I look forward to hearing more about the 
+progress NIST is making in implementing this directive and 
+finalizing this important guidance from Ms. Tabassi. I believe 
+that AI risk management from this framework will be critical 
+for our industry to better mitigate risk associated with AI 
+technologies, as well as promote the incorporation of 
+trustworthiness in every stage from design to evaluation of AI 
+technologies.
+    I'm also looking forward to hearing from the U.S. Chamber 
+of Commerce to learn more about the work through the Commission 
+on the Artificial Intelligence Competitiveness, Inclusion, and 
+Innovation and how they are working to help build customer 
+confidence in AI technologies.
+    I want to thank our witnesses again for their 
+participation. I thank Madam Chair for putting this hearing on. 
+And with that, I yield back.
+    [The prepared statement of Mr. Feenstra follows:]
+
+    Thank you, Chairwoman Stevens, for holding today's hearing 
+on this important issue.
+    And thank you, to our distinguished panel of witnesses for 
+joining us heretoday. Artificial intelligence is fundamentally 
+changing the way we solve some of our society's biggest 
+challenges.
+    From healthcare to transportation; commerce to 
+cybersecurity; A.I. technologies are revolutionizing almost 
+every aspect of daily life. But with every new and emerging 
+technology comes new and evolving challenges and risks. Over 
+the years, the Science Committee has held several hearings on 
+A.I., discussing challenges ranging from ethics to workforce 
+needs.
+    I hope we can use today's hearing as an opportunity to 
+further these important discussions, and to shed light on the 
+importance of enabling safe and trustworthy A.I. To do that, we 
+have to first define what makes A.I. safe and trustworthy. I 
+believe our witnesses can help shed light on this today.
+    But in general, I think we can agree that safe and 
+trustworthy A.I. will meet certain criteria like including 
+accuracy, privacy, and reliability. Additionally, it is 
+important that trustworthy A.I. systems utilize robust data 
+while also protecting the safety and security of user data.
+    Some other important factors of trustworthy A.I. include 
+transparency, fairness, accountability, and mitigation of 
+harmful biases. These factors are particularly important to 
+keep in mind, as these technologies are being deployed for use 
+in our daily lives.
+    It is also critical that data used by A.I. technologies is 
+accurate because the input data is the foundation of A.I. So 
+that must be our general goal: transparent and fair A.I. with 
+accurate data and strong privacy protections.
+    We can ensure that by having standards and evaluation 
+methods in place for these technologies. The integration of 
+trustworthy A.I. in key industries has the potential to be a 
+significant competitive advantage for U.S. industry. A.I. and 
+other industries of the future like quantum sciences can 
+revolutionize how businesses and economies operate, improving 
+efficiency, expanding services, and integrating operations. The 
+key to these benefits, of course, is the trustworthiness of 
+A.I.
+    Here in Congress, Members of the Science Committee 
+introduced the bipartisan National Artificial Intelligence 
+Initiative Act of 2020, which was made law through the FY21 
+NDAA. This legislation created a broad national strategy to 
+accelerate investments in responsible A.I. research, 
+development, and standards, as well as education for the A.I. 
+workforce. It facilitated new public-private partnerships to 
+ensure the U.S. leads the world in the development and use of 
+responsible A.I. systems.
+    Related to today's hearing, this initiative required the 
+National Institute of Standards and Technology (NIST) to create 
+a framework for managing risks associated with A.I. systems and 
+best practices for sharing data to advance trustworthy A.I. 
+systems. As a leader in A.I. research, measurement, evaluation, 
+and standards, NIST has been developing its voluntary A.I. Risk 
+Management Framework since last July. The framework has been 
+developed through a consensus-driven, open, transparent, and 
+collaborative process with multiple workshops for industry to 
+provide input.
+    I look forward to hearing more about the progress NIST is 
+making in implementing this directive and finalizing this 
+important guidance from Ms. Tabassi. I believe the A.I. Risk 
+Management Framework will be a critical tool for industry to 
+better mitigate risks associated with A.I. technologies as well 
+as promote the incorporation of trustworthiness into every 
+stage from design to evaluation of A.I. technologies.
+    I am also looking forward to hearing from the U.S. Chamber 
+of Commerce to learn more about their work through the 
+Commission on Artificial Intelligence Competitiveness, 
+Inclusion, and Innovation, and how they are working to help 
+build consumer confidence in A.I. technologies.
+    I want to thank our witnesses again for their 
+participation. Madam Chair, I yield back.
+
+    Chairwoman Stevens. At some point in time, they will recall 
+and remember that we had today's hearing that is now actually 
+both meeting in person and virtually, so a couple of reminders 
+to Members. First, Members and staff who are attending in 
+person may choose to be masked. It's not a requirement. Any 
+individuals with symptoms, a positive test, or exposure to 
+someone with COVID-19 should wear a mask while present.
+    Members who are attending virtually should keep their video 
+feed on as long as they're present in the hearing. Members are 
+responsible for their own microphones. Please keep your 
+microphones muted or off unless you are speaking.
+    Additionally, if Members have documents they wish to submit 
+for the record, please keep them--or please email them to the 
+Committee Clerk, whose email address was circulated prior to 
+the hearing.
+    If there are Members who wish to submit additional opening 
+statements, your statements will be added to the record at this 
+point.
+    [The prepared statement of Chairwoman Johnson follows:]
+
+    Thank you, Chairwoman Stevens and Ranking Member Feenstra, 
+for holding today's hearing. And welcome to our esteemed panel 
+of witnesses.
+    We are here today to learn more about the development of 
+trustworthy artificial intelligence and the work being done to 
+reduce the risks posed by AI systems.
+    Recent advances in computing and software engineering, 
+combined with an increase in the availability of data, have 
+enabled rapid developments in the capabilities of AI systems. 
+These systems are now deployed across every sector of our 
+society and economy, including education, law enforcement, 
+medicine, and transportation. These are sectors for which AI 
+carries the potential for both great benefit, and great harm.
+    One significant risk across sectors is harmful bias, which 
+can occur when an AI system produces results that are 
+systemically prejudiced. Bias in AI can amplify, perpetuate, 
+and exacerbate existing structural inequalities in our society, 
+or create new ones. The bias may arise from non-representative 
+training data, implicit biases in the humans who design the 
+system, and many other factors. It is often the result of the 
+complex interactions among the human, organizational, and 
+technical factors involved in the development of AI systems. 
+Consequently, the solution to these problems is not a purely 
+technical one. We must ensure that the writing, testing, and 
+deployment of AI systems is an inclusive, thoughtful and 
+accountable process that results in AI that is safe, 
+trustworthy, and free of harmful bias.
+    That goal remained central in our development of the 
+National Artificial Intelligence Initiative Act, which I led 
+alongside Ranking Member Lucas and which we enacted last 
+Congress. In the National AI Initiative Act, we directed the 
+National Science Foundation (NSF) to support research and 
+education in trustworthy AI. As we train the next generation of 
+AI researchers, we must not treat ethics as something separate 
+from technology development. The law specifically directs NSF 
+to integrate ethics research and technology education from the 
+earliest stages and establishes faculty fellowships in 
+technology ethics. The recently enacted CHIPS and Science Act 
+further directs NSF to require ethics statements in its award 
+proposals to ensure researchers consider the potential societal 
+implications of their work.
+    As we will learn more about today, the National AI 
+Initiative Act also directed the National Institute of 
+Standards and Technology to develop a framework for trustworthy 
+AI, in addition to carrying out measurement research and 
+standards development to enable the implementation of such a 
+framework.
+    While AI systems continue to make rapid progress, the 
+activities carried out under the National AI Initiative Act 
+will be key to grappling with the sociotechnical questions 
+posed by rapidly advancing AI systems.
+    I look forward to hearing more from our witnesses today and 
+to discussing what more the United States can do to ensure we 
+are the world leader in the development of trustworthy AI. 
+Thank you, and I yield back my time.
+
+    Chairwoman Stevens. And at this time, I'd like to introduce 
+our witnesses. Our first witness is Elham Tabassi. Ms. Tabassi 
+is the Chief of Staff for the Information Technology Laboratory 
+at the National Institute of Standards and Technology. She 
+leads NIST's trustworthy and responsible AI program that aims 
+to cultivate trust in the design, development, and use of AI 
+technologies by improving measurement science, standards, and 
+related tools. Ms. Tabassi is a member of the National AI 
+Research Task Force and has been at NIST since 1999.
+    Our next witness is Dr. Charles Isbell. Dr. Isbell is the 
+Dean and John P. Imlay, Jr. Chair of the College of Computing 
+at Georgia Tech. His recent work focuses on building autonomous 
+systems that can interact with large numbers of other 
+intelligence agents, including humans and AI systems. Dr. 
+Isbell also studies the effects of AI bias and pursues reform 
+in computing education, focusing on broadening participation 
+and access. He is an elected fellow of AAAI (Association for 
+the Advancement of Artificial Intelligence), ACM (Association 
+for Computing Machinery), and the American Academy of Arts and 
+Sciences.
+    Our third witness is Mr. Jordan Crenshaw. Mr. Crenshaw 
+serves as the Vice President of the U.S. Chamber of Commerce's 
+Technology Engagement Center. He also manages the Chamber's 
+Privacy Working Group and which is comprised of nearly 300 
+companies and trade associations in which developed model 
+privacy legislation and principles. Prior to his current 
+position, Mr. Crenshaw led the Chamber's Telecommunication and 
+E-Commerce Policy Committee, which analyzes Federal privacy, 
+cloud computing, broadband internet, e-commerce and broadcast 
+policies.
+    Our final witness is Ms. Navrina Singh. Ms. Singh is the 
+Founder and Chief Executive Officer (CEO) of Credo. Credo AI 
+helps organizations to monitor, measure, and manage AI 
+introduce risk. Prior to co-founding Credo AI, Ms. Singh was 
+the Director and Principal of Product in Microsoft Cloud and 
+AI, where she built natural language-based conversational AI 
+products. Currently, Ms. Singh serves as a member of the 
+National AI Advisory Committee, which is tasked with advising 
+the President and the National AI Initiative Office on topics 
+related to the National AI Initiative.
+    As our witnesses know--should know, you will each have 5 
+minutes for your spoken testimony. Your written testimony will 
+be included in the record for the hearing. They're great 
+testimonies. When you have completed your spoken testimony, 
+we'll begin with questions. Each Member will have 5 minutes to 
+question the panel.
+    We will start with Ms. Tabassi.
+
+        TESTIMONY OF MS. ELHAM TABASSI, CHIEF OF STAFF,
+
+               INFORMATION TECHNOLOGY LABORATORY,
+
+         NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY
+
+    Ms. Tabassi. Good morning, Chairwoman Stevens, Ranking 
+Member Feenstra, and distinguished Members of the Subcommittee. 
+I am Elham Tabassi, and I serve as the lead for the Trustworthy 
+and Responsible AI program at the Department of Commerce's 
+National Institute of Standards and Technology known as NIST. 
+Thank you for the opportunity to testify today on NIST's effort 
+to advance the trustworthy and responsible development and use 
+of artificial intelligence. This Committee is well aware of the 
+importance of advancing research and standards to cultivate 
+trust in AI. Thank you for your dedication to this important 
+issue and for your support of NIST's role.
+    Artificial Intelligence holds the promise to revolutionize 
+and enhance our society and economy, but the development and 
+use of these systems are not without challenges or risks. 
+Through robust collaboration with stakeholders across 
+government, industry, civil groups, and academia, NIST works to 
+advance research, standards, measurements, and tools to manage 
+these risks and realize the full promise of this technology for 
+all Americans.
+    Among its work, NIST is developing the AI Risk Management 
+Framework, or AI RMF, to provide guidance on mapping, 
+measuring, and managing risks associated with AI. Like the 
+well-known cybersecurity and privacy frameworks, the AI RMF 
+will provide a set of outcomes that enable dialog, 
+understanding, and actions to manage AI risks. Critically, the 
+framework will focus on managing risks not just to 
+organizations, but also to individuals and society. This 
+approach is reflective of the sociotechnical nature of AI 
+systems as a product of the complex human, organizational, and 
+technical factors involved in their design and development.
+    As is the case with all our publications, NIST is taking a 
+stakeholder-driven and open process to coordinate the 
+development of the framework. From the start of this initiative 
+last year, NIST has engaged a broad range of stakeholders, 
+including through several workshops and public comment 
+opportunities. Based on stakeholder feedback, and consistent 
+with congressional direction, NIST is on track to publish the 
+final AI RMF 1.0 in January 2023. The technology and standards 
+landscape for AI will continue to evolve. Therefore, NIST 
+intends for the framework and related guidance to be updated 
+over time to reflect new knowledge, awareness, and practices.
+    Building off the RMF there is much more work to do to 
+develop additional guidance, standards, measures, and tools to 
+evaluate and measure AI trustworthiness, especially for 
+specific characteristics and use cases. For example, NIST has 
+significantly expanded its research efforts to mitigate harmful 
+bias with a focus on sociotechnical approach.
+    To support the advancement of AI standards, NIST seeks to 
+bolster knowledge, leadership, and coordination on AI, 
+including by engaging with other government agencies within 
+United States and internationally. NIST engages with partners 
+around the world, including through the Organization for 
+Economic Cooperation and Development, OECD, and the U.S.-EU 
+Trade and Technology Council (TTC) to advance shared goals in 
+trustworthy and responsible AI.
+    NIST also coordinates with other Federal agencies and leads 
+several policymaking and interagency efforts. This includes 
+administering the National Artificial Intelligence Advisory 
+Committee or NAIAC, which advises the President and the 
+National AI Initiative Office.
+    Advancing research and standards that contribute to more 
+secure, private, fair, rights-affirming, and world-leading 
+digital economy is a top priority for NIST. Thank you for the 
+opportunity to present on NIST's activities to improve 
+trustworthy and responsible AI. I look forward to your 
+questions.
+    [The prepared statement of Ms. Tabassi follows:]
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+    Chairwoman Stevens. Dr. Isbell.
+
+                TESTIMONY OF DR. CHARLES ISBELL,
+
+               DEAN AND JOHN P. IMLAY, JR. CHAIR
+
+                  OF THE COLLEGE OF COMPUTING,
+
+                GEORGIA INSTITUTE OF TECHNOLOGY
+
+    Dr. Isbell. Thank you, Subcommittee Chair Stevens, Ranking 
+Members Feenstra and Lucas, and distinguished Members of the 
+Subcommittee. I'm Charles Isbell. I'm a Professor in and Dean 
+for the College of Computing at Georgia Tech. Thank you for the 
+opportunity to be here today.
+    So by way of explaining my background, let me note that 
+while I tend to focus on statistical machine learning, my 
+research passion is actually interactive artificial 
+intelligence. As noted at the top of the hearing, there, the 
+fundamental research goal is to understand how to build 
+autonomous agents who must live and interact with large numbers 
+of other intelligent agents, some of whom may be human. But I'm 
+also an educator. As such, I spend much of my energy focusing 
+on providing access to all those who wish to be a part of this 
+ongoing conversation around the role of AI and computing in our 
+lives. My discussion today and answers to your questions you 
+ask will be informed by both my research and educator selves.
+    So let us begin this discussion by defining our terms. 
+There are many potential definitions of AI. My favorite one is 
+that it is the art and science of making computers act the way 
+they do in the movies. In the movies, computers are often semi-
+magical and anthropomorphic. They do things that if humans did 
+them, we would say they required intelligence.
+    This definition is borne out in our use of AI in the 
+everyday world. We use the infrastructure of AI to search 
+billions upon billions of documents to find the answers to a 
+staggering variety of questions, often expressed literally as 
+questions. We use automatically tagged images to organize our 
+photos. And we use that same infrastructure to plan optimal 
+routes for trips, even altering our routes on the fly in the 
+face of changes in traffic. In fact, we let our cars mostly 
+drive themselves in that very same traffic playing the role of 
+a tireless chauffeur.
+    As noted by the Chair, we're able to automatically detect 
+tumors from X-rays, even those that are trained--that trained 
+doctors find difficult to see. We let computers finish our 
+sentences as we type text and use search engines, sometimes 
+facilitating a subtle shift from prediction of our behavior to 
+influence over our behavior. Often, we take advantage of these 
+services by using our phones to interpret a wide variety of 
+spoken commands.
+    So in some very important sense, AI already exists. It is 
+not the AI of fanciful science fiction, neither benevolent 
+intelligence working with humans as we traverse the galaxy, nor 
+malevolent AI that seeks humanity's destruction. Nonetheless, 
+we are living every day with machines who make decisions that 
+if humans made them, we would attribute to intelligence. And 
+the machines often make those decisions faster, and some might 
+argue better, than humans would.
+    Yet like all computing systems, at bottom, AI simply makes 
+us more efficient. It amplifies our ability to make decisions, 
+including bad ones, all too often automating the biases baked 
+into our data and that of its developers. By way of example, 
+according to the Marshall Project, most States use some form of 
+automated risk assessment at some stage in the criminal justice 
+system. We set out to predict recidivism as if that means the 
+chance of committing a crime again, when in fact, what we're 
+actually predicting is the chance of being arrested and 
+convicted again. As with the shift from predicting behavior to 
+influencing it, this distinction is subtle, but important. 
+Without recognition of the difference, one can create a 
+feedback loop and make things worse, without even noticing it.
+    Although we sometimes act as if the machine is doing the 
+work, it is worth noting that these machines are making 
+decisions with us, with humans. They are partners, and as with 
+any partner, it is important that we understand what our 
+partner is doing and why. To make AI trustworthy, we need a 
+more informed citizenry, something we can accomplish by 
+requiring that our AI partners are more transparent on the one 
+hand, but that we are more savvy on the other.
+    So speaking of definitions, by transparency, I mean that an 
+AI algorithm should be inspectable, that the kind of data the 
+algorithm uses to build its model should be available, and the 
+decisions that such algorithms make should be understandable. 
+In other words, as we deploy these algorithms, each algorithm 
+should be able to explain its output. ``This applicant was 
+assigned this score because'' is more useful and less prone to 
+misuse than just ``This applicant was assigned this score.''
+    But to really understand such machines, much less to create 
+them, we should strive for all of our citizens to not only be 
+literate, but to be competent. That is, they must understand 
+computing and computational thinking and how it fits into 
+problem solving in their everyday lives. In the long term, one 
+of the key solutions to AI bias will be bringing a wider group 
+of people into computing education and into machine learning 
+more specifically. We have to improve the number and the 
+diversity of those entering the field and participating in and 
+influencing the conversation because it is the right thing to 
+do, but also because it is the only way for us to compete.
+    It should not be lost that putting these two thoughts 
+together suggests that the process by which we build AI 
+algorithms is a shared effort that requires a wide swath of 
+citizens to be informed and engaged and for developers to 
+accept the responsibility for including the users of and 
+sometimes targets of those systems in the development process 
+itself. As a field, we have not caught up to the reality of the 
+responsibility that we hold, and it is something that we simply 
+must do. We must move from tool sets and skill sets to 
+mindsets, incorporating responsibility in all that we do from 
+the ground up.
+    I'm very excited for this hearing. I think advances in AI 
+are essential to our economic and social future. These are all 
+areas in which funding--the funding power of the National 
+Science Foundation and NIST as well can make a huge difference. 
+So thank you very much, and I look forward to your questions.
+    [The prepared statement of Dr. Isbell follows:]
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+    Chairwoman Stevens. OK, Georgia Tech, you convinced me. I'm 
+signing up for his class.
+    Dr. Isbell. Done.
+    Chairwoman Stevens. All right. With that, we're going to 
+hear from Mr. Crenshaw for 5 minutes. Thanks.
+
+        TESTIMONY OF MR. JORDAN CRENSHAW, VICE PRESIDENT
+
+          OF THE CHAMBER TECHNOLOGY ENGAGEMENT CENTER,
+
+                    U.S. CHAMBER OF COMMERCE
+
+    Mr. Crenshaw. Thank you, Chair Stevens, Ranking Members 
+Feenstra and Lucas, and Members of the Research and Technology 
+Subcommittee. Good morning, and thank you. My name is Jordan 
+Crenshaw, and I'm the vice president of the U.S. Chamber of 
+Commerce's Technology Engagement Center. It's my pleasure to 
+talk to you today about how we--business, government, and 
+citizens--can work together to build trustworthy artificial 
+intelligence.
+    AI is changing the world as we know it. By 2030, AI will 
+have a $16 trillion impact on the global economy. But from a 
+practical level, what does that mean? AI is helping forecasters 
+and emergency management better track the intensification of 
+hurricanes and chart out evacuation and emergency preparedness. 
+It's allowing researchers to more easily pinpoint virus 
+mutations and tailor vaccines for new variants. It's also 
+bolstering our cyber defenses against an evolving digital 
+threat landscape. And finally, AI has the potential to fill the 
+gaps where we have worker shortages, like patient monitoring 
+where we have nursing shortages, and help tackle supply chain 
+issues where we have a lack of available truckers.
+    The United States is not operating in a vacuum. Its 
+strategic competitors also realize the benefits of this crucial 
+technology. For example, prior to the invasion of Ukraine, 
+China and Russia agreed to cooperate on developing emerging 
+technologies, specifically noting artificial intelligence. When 
+it comes to AI, we are in a race we must win. AI is here now, 
+and it's not going away. We cannot ignore it, and we cannot 
+afford to sit on the sidelines and allow those who do not share 
+our democratic values to set the standard for the world.
+    For the research and deployment of AI to be successful, 
+Americans must have trust in the technology. And while AI has 
+many benefits, as I previously mentioned, in the wrong hands 
+like those of our adversaries, there could be harms. Americans 
+are united in the belief that we must beat our competitors as 
+well. In fact, according to polling by the U.S. Chamber of 
+Commerce, 85 percent of Americans believe the United States 
+should lead in AI, and nearly that same number believes that we 
+are best positioned as a nation to develop those ethical 
+standards for its use.
+    We agree. It's why the Chamber earlier this year 
+established its Commission on AI Competitiveness, Inclusion, 
+and Innovation, led by your former congressional colleagues, 
+Representatives John Delaney and Mike Ferguson, and it's 
+comprised of experts in business, academia, and civil society. 
+The Commission has been tasked with developing policy 
+recommendations in three core areas: trustworthiness, work 
+force preparation, and international competitiveness. Our 
+Commission held field hearings in Austin, Silicon Valley, 
+Cleveland, London, and here in D.C.. And we've heard from a 
+variety of stakeholders and look forward to presenting you with 
+our recommendations early next year.
+    In the meantime, while we wait for the Commission to 
+finalize its report, we offer the following observations about 
+what it will take to maintain trustworthy AI leadership. The 
+Federal Government has a significant role to play in conducting 
+fundamental research in trustworthy AI. The Chamber was pleased 
+to see passage of the CHIPS and Science Act and hopes to see 
+the necessary appropriations to carry out the science 
+provisions. We encourage continued investment in STEM (science, 
+technology, engineering, and mathematics) education. We need a 
+trained, skilled, and diverse work force that can bring 
+together multiple voices for coding and developing systems.
+    AI is only as good, though, as the data it uses. That is 
+why it is key that both government and the private sector team 
+up to ensure there is quality data for more accurate and 
+trustworthy AI. Governments should prioritize improving access 
+to its own data and models and ways that respect individual 
+privacy. At the same time, while we talk about privacy, as 
+Congress looks to address these types of issues, it's important 
+that we look at issues to determine whether or not we inhibit 
+the collection of sensitive data and other types of data that 
+could inhibit deploying trustworthy AI systems.
+    Fourth, we need to increase widespread access to shared 
+computing resources. However, many small startups and academic 
+institutions lack sufficient computing resources to help 
+develop solutions to artificial intelligence. That's why 
+Congress took the critical step of establishing the Research--
+passing the Resource Task Force Act of 2020. Now the National 
+Science Foundation and the White House's Office of Science and 
+Technology Policy should fully implement the law and 
+expeditiously develop a roadmap to unlock AI innovation across 
+multiple stakeholders.
+    Finally, we also are encouraged and are thankful for the 
+work by NIST in its development of the AI Risk Management 
+Framework, which is a consensus-driven, cross-sector, and 
+voluntary framework to leverage best practices.
+    These recommendations are only the beginning. And I thank 
+you for your time to address how the business community can 
+partner with you to maintain trustworthy AI leadership. We 
+thank you for your leadership, and I look forward to your 
+questions.
+    [The prepared statement of Mr. Crenshaw follows:]
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+    Chairwoman Stevens. Thank you.
+    With that, Ms. Singh, yes.
+
+                TESTIMONY OF MS. NAVRINA SINGH,
+
+         FOUNDER AND CHIEF EXECUTIVE OFFICER, CREDO AI
+
+    Ms. Singh. Madam Chair, Ranking Member Feenstra and Lucas, 
+and Members of the Subcommittee, thank you for the opportunity 
+to testify today and to be part of this distinguished panel of 
+witnesses. My name is Navrina Singh. I'm the Founder and CEO of 
+Credo AI, a venture-backed startup. In addition, I'm a member 
+of the National AI Advisory Committee that is advising 
+President Biden as part of the National AI Initiative.
+    Trustworthy artificial intelligence is a topic that is 
+deeply personal to me. Growing up in India as a girl who 
+aspired to be an engineer, I learned early on that I faced an 
+uphill battle for no reason other than my gender. Part of my 
+passion for the subject and the main reason I founded Credo AI 
+in March 2020 is because I experienced firsthand what is at 
+stake. While AI is an exciting and ultimately very useful 
+technology, unless we create a culture of accountability, 
+transparency, and governance around it, we risk unchecked 
+growth and algorithms that may unintentionally encode the same 
+types of societal ceilings and perceptions that I experienced 
+as a girl in India and that many others still experience today.
+    Members of the Subcommittee know very well the power and 
+potential of AI when used responsibly. While it is a 
+transformational technology that is evolving rapidly, I realize 
+that there are different points of view on its perceived 
+advantages. But one thing we can all agree on is AI is not 
+going away, which is why we owe it to ourselves and to the 
+world that our children will inherit to ensure robust 
+compliance and governance structures to keep pace with the AI 
+development.
+    As the Subcommittee studies the question of how to manage 
+AI risk and build trustworthy AI, we think three key 
+considerations merit special attention. First, I want to focus 
+on full AI lifecycle, from design to development, to testing 
+and validation, to production and use. That means building AI 
+systems responsibly continuously. It is fit for purpose, fair, 
+transparent, safe and secure, privacy-preserving, and 
+auditable.
+    Second, context is paramount. We believe that achieving 
+trustworthy AI depends on shared understanding, that governance 
+and oversight of AI is industry-specific, application-specific, 
+model-specific, and data-specific to ensure that it is fit for 
+purpose. This necessitates a collaborative approach to metric 
+alignment, and associated assessments.
+    Third, transparency reporting and system assessments are 
+critical for responsible AI governance. Reporting requirements 
+that promote and incentivize public disclosure of AI system 
+behaviors act as a key driver for establishment of standards 
+and benchmark. And fundamental to this is access to compliant 
+and comprehensive data for assessments. For these reasons, we 
+at Credo AI advocate for context base, full AI lifecycle 
+governance of AI systems with reporting requirements that are 
+specific, regular, and transparent.
+    If you truly want to be a global leader in AI, then our 
+focus should be on building responsible technology aligned with 
+our societal values. Responsible AI is also a competitive 
+advantage. It allows companies to deploy AI at scale with 
+confidence, and this transparency promotes trust with consumers 
+in this technology. Government has a critical role to play 
+here, working together through public-private partnerships to 
+ensure the right set of standards exist to further innovation 
+in the space. And we urge the policymakers and standard-setting 
+bodies to prioritize establishing context-focused standards and 
+benchmarks that are globally interoperable and can help 
+eliminate some of the guesswork.
+    My 8-year-old daughter told me recently that she wants to 
+be an inventor and a social media influencer when she grows up. 
+While I'm grateful that in this country my daughter will have 
+the opportunity to follow her dreams, we owe it to her and the 
+generations that will follow to ensure that we build AI which 
+is developed responsibly and ethically.
+    Thank you for the opportunity to appear before you, and I 
+look forward to your questions.
+    [The prepared statement of Ms. Singh follows:]
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+    Chairwoman Stevens. Well, thank you.
+    And at this point, we're going to turn to our first round 
+of questions, and the Chair is going to recognize herself for 5 
+minutes.
+    In hearing your testimony, as I reflect on my time pursuing 
+a master's in philosophy of which my parents never understood 
+why I got, but we were asking the ethical question about 
+artificial intelligence that some ask in the theoretical space 
+that can a AI replace human behavior? Can--does AI threaten 
+what we do as people seeking to overtake, you know, the 
+decisions that we make as people?
+    Today's hearing is a little bit more instructive to the 
+theoretical question. Today's hearing is saying, hey, we have 
+artificial intelligence, and it is being utilized, but how is 
+it being utilized? How is it being implemented? And is it 
+implementing fairly and accurately for the best outcomes for 
+society and for humanity?
+    So in 2019, NIST developed the strategy for Federal 
+engagement in developing technical standards and tools for 
+artificial intelligence. And, Ms. Tabassi, I'm just wondering 
+if you could touch briefly because your testimony got me 
+thinking on this, what was included in this strategy and why it 
+is important that we have strategies for engaging in the 
+development of technical standards for artificial intelligence. 
+Has NIST's work on AI management framework revealed new or 
+underdeveloped areas for standardization with regard to 
+trustworthy AI systems? And then, because we want to hear from 
+you on that, but then I want to hear from, I guess, Crenshaw, 
+Mr. Crenshaw, about the--you know, how beneficial it is to 
+industry actors for the Federal Government to lay out 
+priorities and standards for critical technologies and 
+artificial intelligence. Are you using these?
+    But let's start with you, Ms. Tabassi.
+    Ms. Tabassi. Thank you very much for the question, 
+Chairwoman. Yes, in 2019, we developed a plan for Federal 
+Government engagement in development of technical standards, 
+and it has several recommendations on bolstering research 
+that's really important for development of good, technically 
+solid, scientifically valid standards, but also importance of 
+public-private partnership and coordination across the 
+government on bolstering our engagements in the standard 
+development and importance of international cooperations on 
+development of standards that are technically sound and correct 
+but also reflect our shared democratic values.
+    Let me also say that it also lists standards that are 
+related and needed for a trustworthy, responsible AI and of 
+course, many of the standards that's happening for information 
+technology and software systems can be related to artificial 
+intelligence and can be used there but also need for other 
+standards for addressing issues such as bias and explainability 
+and trustworthy.
+    Chairwoman Stevens. Great. And, Mr. Crenshaw, I mean, are 
+you using these or, I mean, is this helpful to what you were 
+talking about?
+    Mr. Crenshaw. The NIST process is incredibly helpful. It is 
+getting the conversation started and providing the guidance 
+that's necessary for industry to look to. It's incredibly 
+important, too, to have buy-in from the affected stakeholder 
+community. And I have to applaud NIST for the work that they 
+have done through their multiple rounds of comment, their 
+multiple rounds of public engagement and public meetings to 
+really get this right. And I think it's incredibly important, 
+the work they are doing, that there is a set of guidelines for 
+industry to look to. I think, you know, on the domestic level, 
+that that is a guiding light for industry.
+    I would note, it's also important to remember standards 
+bodies internationally as well. In order for us to maintain our 
+leadership in this front, we need to make sure that we have 
+American interests represented with American businesses and 
+American policymakers being aware of that. We do know that our 
+competitors are trying to pack those bodies, and we want to 
+make sure that we are represented as well. I think yesterday--
+--
+    Chairwoman Stevens. So are you suggesting more investment?
+    Mr. Crenshaw. I'm suggesting more participation, so----
+    Chairwoman Stevens. Well, we did just reauthorize NIST, 
+but, you know, Dr. Isbell, what I was kind of getting at was 
+the Turing test, which I know you're familiar with. But I don't 
+know if that's really the question now, is it, you know, in 
+terms of improving these outcomes with AI? And maybe this is 
+too philosophical of a question, but is it the Turing test that 
+that we should be focused on or what is the question that we 
+should be focused on with the fair implementation of AI across 
+a multitude of sectors that are determining our economy at 
+grand scale with 5 seconds left?
+    Dr. Isbell. There is no question too philosophical. The 
+short answer is, it's not the Turing test. It's about the 
+actual impact and outcomes on real people. And you have to 
+bring those real people in to understand those outcomes.
+    Chairwoman Stevens. And with that, I'm going to now 
+recognize Mr. Feenstra, our Ranking Member, for 5 minutes.
+    Mr. Feenstra. Thank you, Chairman Stevens--Chairwoman 
+Stevens, and thank you for those questions. Thank you again for 
+all witnesses. I really enjoyed your testimonies.
+    You know, there's extensive research going on in my home 
+State and my universities and--concerning AI, how it's being 
+applied now and into the future. Iowa State's AI Institute for 
+Resilient Agriculture is bringing together experts to lay the 
+groundwork for developing AI-driven predictive plant models to 
+increase the resiliency of agriculture. Researchers at the 
+University of Northern Iowa are aiming to use AI to improve 
+healthcare outcomes, increase privacy, online security, and 
+create predictive maintenance systems for our products. And 
+then in the University of Iowa, they're utilizing AI to improve 
+the effectiveness of cancer screenings, as well as the work to 
+identify and address biases in AI and healthcare models. You 
+know, these are just a few examples that are out there, and 
+they're limitless.
+    And I would just like to say, Dr. Isbell, I'm an academic 
+also, and I teach--or did teach consumer behavior. And when you 
+start looking at consumer behavior, there's a tremendous amount 
+of AI being used, good and bad.
+    Ms. Tabassi, I understand that AI won't be replacing 
+doctors, all right? I understand that, won't be replacing 
+nurses. But we also have the opportunity to learn about 
+healthcare-related AI and research, as I just mentioned. 
+Fostering trust in AI will be critical to utilizing 
+applications such as these in the healthcare sector. And this 
+is just one example.
+    My question to you, if I can flip my page, can you explain 
+how an AI Risk Management Framework will--broadly applied 
+across the different sectors and industries to minimize the 
+negative impacts of AI systems and maximize positive outcomes? 
+You can use any specific sector examples in healthcare if you 
+wish, but I'd like to know more about that.
+    Ms. Tabassi. Thank you so very much for the question, 
+Ranking Member Feenstra. And all of the examples that you said 
+just show the potential of AI to really change our lives for 
+better. I'm going to use the last example that you brought up, 
+the cancer screening. So if you have a cancer screening tool, 
+first, as mentioned several times, we wanted to make sure that 
+it's accurate, it's working well, but beyond that the accuracy 
+should also be balanced with associated risks and impact that 
+it can have. So the question comes up about the bias or 
+fairness. Does it advantage or disadvantage certain 
+demographics? Beyond that there's questions about the 
+vulnerability and security and resilience of the AI model, we 
+all hear that AI systems are brittle. Can that cause negative 
+consequences? The issue of the privacy, the data that's used to 
+train the models, can we make sure that the privacy is 
+preserved and the training data are not inferred from the 
+models?
+    And then on top of that is we heard about the 
+explainability also. If the tool comes out and gives, for 
+example, an outcome or prediction that there is a cancer there, 
+that's a very serious message to be carried to the doctor to 
+the patient. So explainability on how the model decides that 
+there's a cancer there, and another level of complexity, the 
+explanation needed for physician versus technician versus 
+patient is different. AI RMF is trying to provide a shared 
+lexicon, interoperable way to address all of these questions, 
+but also provide a measurable process, metrics and methodology 
+to measure them and manage these risks.
+    Mr. Feenstra. Thank you so much for that. That's great 
+information.
+    Mr. Crenshaw, in your testimony you say that trust is a 
+partnership? I 100 percent agree. And only when government and 
+industry work side by side can trust be built. How did NIST 
+work with industry in developing the AI Risk Management 
+Framework? And how is having a tool like the framework going to 
+strengthen consumer confidence when it comes to building trust 
+in the AI systems?
+    Mr. Crenshaw. Well, I think as I said, Congressman, trust 
+is essential. And I think NIST has done a great job of really 
+instilling trust in their work with the business community by 
+being open and transparent. If you look at the the comment 
+record, it's comments from across the board, everyone from 
+civil society all the way to industry and developers. And 
+they're really looking to develop a robust record. That I 
+believe is a really great example for other agencies as they're 
+looking at tackling this issue to look at. So they've had 
+multiple stakeholder sessions. They've come in and actually 
+spoken with our members and tried to get a good feel for where 
+they're at. And it really--the partnership has been excellent, 
+and I think it's a great example for other agencies moving 
+forward in this space.
+    Mr. Feenstra. Thank you, Mr. Crenshaw, I have questions for 
+Dr. Isbell and Ms. Singh, but I ran out of time. So with that, 
+thank you for your testimony. I yield back.
+    Chairwoman Stevens. Great. And with that, we're going to 
+hear from Dr. Foster for 5 minutes of questioning.
+    Mr. Foster. Thank you, Madam Chair.
+    So my first general question is this discussion converging? 
+You know, I've been chairing the Task Force on AI and Financial 
+Services for the last several years, and it strikes me that the 
+complexity of AI behavior is increasing much more rapidly than 
+our ability to categorize and regulate it. You know, an example 
+of that is a simple neural net classifier that's operating on a 
+static data set to calculate credit scores or something like 
+that has a relatively--it's an enormous, but it's a relatively 
+finite range of behaviors to categorize, OK?
+    On the other hand, interactive AI, which is an agent which 
+is learning from other intelligent agents and guiding its 
+behavior, has an enormously larger space of behaviors to 
+characterize. And I just don't even see how you can possibly 
+explain how an intelligent agent might react in any given 
+circumstances. Like you can say general things like, you know, 
+this child is a fast learner but makes a lot of mistakes, but 
+that doesn't give you the granularity of detail you need.
+    And so I'm just wondering, since you've been all thinking 
+about this, do you get the feeling that it is converging or 
+not? No? Dr. Isbell?
+    Dr. Isbell. The short answer is no. The problems that we're 
+talking about are exponential. All of our solutions are linear. 
+You might as well ask the question whether human behavior is 
+converging and we know how to understand or regulate that. And 
+of course, the answer is no, but that does not mean that there 
+are not things that we can do to make progress. And I do think 
+a lot of the discussions that we've had just in the last couple 
+of years around fairness, accountability, thinking about how to 
+educate people to be in the--to be a part of these discussions 
+do make real progress, and that progress doesn't--is very 
+sudden, and makes very sudden changes, so it's a good thing.
+    Mr. Foster. Any other thoughts on this? Yes, Dr. Singh?
+    Ms. Singh. Congressman, I think that's a great question. I 
+believe we are making progress toward convergence. But one of 
+the key areas that I spoke about earlier is how important 
+context is to this work. So one of the core acts that we have 
+as standards emerge in this space is really thinking about 
+context, the applications, and how we can make progress toward 
+the right metrics and assessments, along with the specific 
+reporting requirements. And we are seeing globally as well as 
+the great work that NIST is doing that there is a convergence 
+that has started to happen in terms of having those contextual 
+conversations.
+    Mr. Foster. Any other thoughts? It's a huge question. Let's 
+see--many of you have emphasized education and the need for an 
+educated public. So if you had to choose between a public that 
+knew statistics or knew calculus, which would you take? I'm a 
+physicist, so I naturally lean toward calculus, but it seems 
+like what I use every day as a politician, statistics are 
+relevant. And probably for AI, I think you're in the same bin. 
+And do you have any--well, all right, Dr. Isbell--but you have 
+to deal with curricula, so you're on the seat again.
+    Dr. Isbell. I'm not speaking for all of my colleagues. I 
+think the answer is, if I had to choose for most people, it 
+would be statistics, but I'd also like them to know information 
+theory and linear algebra. But fundamentally, it's about 
+problem solving around data mattering as opposed to just the 
+algorithms and the processes that you go through. And with that 
+you can solve a lot of the problems or at least address and 
+think about the problems that are coming down the pike.
+    Mr. Foster. Any other thoughts from any of you? What do you 
+use every day, statistics or calculus? I think--yes, machine 
+learning. It's--backpropagation is the chain rule, and I don't 
+think there's much other calculus anywhere in it. But anyway, 
+the--now, actually, this was for Mr. Crenshaw. You've 
+emphasized international competition, and it strikes me that a 
+lot of the countries that are clobbering us, you can't get out 
+of high school without knowing calculus and probably 
+statistics. There's all sorts of people showing up at school 
+boards, you know, unhappy that we're not supporting their 
+preferred theology or mythology. But very few school boards are 
+being inundated by people, you know, demanding that our kids 
+know statistics and calculus. What--is there some--is there 
+work to be done there?
+    Mr. Crenshaw. There's definitely work to be done on the 
+education front. We need to prioritize STEM education to ensure 
+that we have the fundamental knowledge base for students across 
+the country to get into this field because we are going to need 
+more coders and ethicists in this field who actually can assist 
+with our leadership.
+    The other thing I think would be important to note, too, is 
+that we also need to make sure that we have talent in this 
+country and retain talent and still attract talent. And one of 
+the things that we found out through our AI Commission is that 
+we, you know are going to lose the talent race if we don't deal 
+with our immigration issues in this country as well and make 
+sure that we can retain talent after we've educated them here 
+in the United States, make sure that we can keep our talent to 
+ensure that we have people who know how to make ethical AI 
+work.
+    Mr. Foster. Thank you. And we in a bipartisan way on this 
+Committee have been doing everything we can to try to drag that 
+across the finish line. I think we came within one Senator of 
+doing something significant in the CHIPS and Science.
+    Anyway, my time's up and will yield back.
+    Chairwoman Stevens. And with that, we will hear from the 
+Ranking Member of the Full Committee who we're so grateful is 
+here, Mr. Lucas for 5 minutes of questioning.
+    Mr. Lucas. Thank you, Madam Chairman. Ms. Tabassi, in the 
+AI Initiative that we passed in Congress last year, we gave 
+NIST the difficult task of defining what makes AI safe and 
+trustworthy. Can you walk us through the process of how NIST 
+determined that definition of trustworthiness? And while you're 
+thinking about that, do you think this measure of 
+trustworthiness also helps with the measuring of fairness in AI 
+systems, please?
+    Ms. Tabassi. Thank you so very much, Ranking Member Lucas, 
+for the question. In terms of the process of developing a 
+definition of the trustworthiness, I want to thank the kind of 
+work that has been mentioned about the NIST process. But the 
+process has been an open, transparent, collaborative process. 
+There has been many definitions and proposals for definition 
+for trustworthiness, so we ran a stakeholder-driven effort to 
+converge to the extent possible on the definition of the 
+trustworthiness. And that, as was mentioned, include rounds of 
+workshops and public comment and a listening session. So that 
+was the process.
+    Your second part of the question is about the fairness. So 
+fairness is one of the aspects of the trustworthiness as it's 
+mentioned in the AI RMF. And fairness, as it was mentioned, is 
+a complicated concept because it can depend on societal values 
+and can change from context to context. But that's also part of 
+one of the aspects of the trustworthiness mentioned in the AI 
+RMF.
+    Mr. Lucas. Ms. Singh, in your testimony, you illustrate why 
+you cannot have a one-size-fits-all definition of an 
+algorithmic fairness. How does the AI Risk Management Framework 
+exemplify this?
+    Ms. Singh. As I previously stated, I really commend NIST 
+for the Risk Management Framework and how they're thinking 
+through not only mapping different applications, but measuring 
+and then overall management of those. At Credo AI, we are 
+really focused on operationalizing responsible AI tenets and 
+ensuring that continuous oversight and governance is provided 
+of these systems. And I think for us it is really critical that 
+there are governance assets based on the context of AI 
+application that gets generated that inspires that trust that 
+Ms. Tabassi was just talking about.
+    Mr. Lucas. Mr. Crenshaw, do you foresee U.S. industry 
+widely adopting and utilizing the Risk Management Framework 
+since it's a voluntary tool, or will it need to be 
+incentivized? While you're thinking about that, do you 
+anticipate U.S. standard bodies will play a role in encouraging 
+the utilization of the framework?
+    Mr. Crenshaw. I think there's definitely a role there. I 
+think they also have really gotten the conversation out about 
+the need to develop standards. When it comes to the NIST Risk 
+Management Framework, I think what we've seen of it is 
+promising. Obviously, we'll have to comment on the final 
+product when it comes out. But I think it is a promising 
+product. And, you know, I think, given the fact that we've had 
+such robust stakeholder input, I do anticipate that, you know, 
+given the direction things are going, we definitely could see 
+stakeholder engagement to support the framework. And I think 
+that's a good thing because we need guidelines and standards to 
+get behind so we can develop trust.
+    Mr. Lucas. Ms. Singh, do you have any thoughts on this 
+point?
+    Ms. Singh. I think multistakeholder engagement is going to 
+be critical in the process. And as--you know, we've been 
+invited to give feedback on the NIST RMF, and we've done that 
+actively over the past couple of months. As mentioned, I think 
+there's a little bit more work to be done in terms of ensuring 
+that we are looking at different applications and context.
+    Mr. Lucas. Ms. Tabassi, any thoughts?
+    Ms. Tabassi. In terms of the adoption, I think that the 
+adoption and use of the AI RMF would be based on the value that 
+it provides and also giving awareness that these things exist 
+is also very important. I thank again the Committee and all of 
+my panelists for the kind words about the process. And in terms 
+of the context and specific use, agreed that a lot more work 
+needs to be done. And we have a call for contribution 
+particularly for that.
+    Mr. Lucas. One last question, and I come back to you, Ms. 
+Tabassi. Why is it important for democratic nations to lead the 
+development of international standards for trustworthy AI 
+systems?
+    Ms. Tabassi. I believe it's important to affirm our shared 
+democratic values of openness, protection of democracy and 
+human rights, and design and develop technologies that 
+operationalizes those values. And we need standards for 
+technologies that are rights-affirming and show those values.
+    Mr. Lucas. Just the way I intend to answer questions about 
+that in my town meeting someday. Thank you. Yield back, Madam 
+Chair.
+    Chairwoman Stevens. With that, we are going to hear from 
+the Congresswoman from North Carolina, Ms. Ross, for 5 minutes 
+of questioning.
+    Ms. Ross. Thank you very much, Chairwoman Stevens and 
+Ranking Member Feenstra. And thank you to the panelists for 
+joining us today. On April 29th of last year [inaudible] 
+represents a larger problem of cybersecurity and privacy issues 
+in this country. AI innovation happens fast, and we need 
+legislation that's equipped to grow into this quickly expanding 
+sector. For my constituents in the Research Triangle and for 
+national security more broadly, we need to invest in long-term 
+structural infrastructure that ensures better cybersecurity and 
+privacy in our tech sector. We also need to look at how AI 
+affects the arts and our creators, and we all have many of them 
+in our district. So I look forward to hearing from our 
+witnesses on how we can ensure that systems of machine learning 
+can be created with consideration for individual privacy, 
+corporate privacy, intellectual property, and national 
+security. But since none of the folks who have asked questions 
+yet have talked about intellectual property, and I serve on the 
+Judiciary Subcommittee on that, I'm going to ask Ms. Tabassi--
+I'm sorry if I mispronounced your name--to say I want to thank 
+you for your important work on the draft of the Artificial 
+Intelligence Risk Management Framework.
+    But I also want to talk a little bit about intellectual 
+property because the United States takes our intellectual 
+property protections very seriously. And without those 
+protections, there's a significant threat to American 
+creativity, ingenuity, jobs, and our economy. And AI offers 
+opportunities to artists and creators to enhance the creation 
+process in many ways, but that also presents risks. And there 
+are services and sites available today that use art, books, 
+music, and other American-made works as inputs to train AI.
+    Based on what is happening with image-generating AI 
+currently on the web, we can already see that artists will have 
+to compete with AI creations in their own style and trained on 
+their own content when they were either--neither consulted nor 
+compensated for this. And as a matter of fact, there was a 
+recent article that I just read about that. Is this issue on 
+NIST's radar screen, and what can we do about it?
+    Ms. Tabassi. Thank you so very much for the question, 
+Congresswoman. And we have actually received comments to that 
+effect to AI RMF. And that's a serious problem, certainly 
+something that would be part of the discussions in the future 
+drafts of the RMF. A lot of work needs to be done, and that 
+would definitely be part of the discussion. Thank you.
+    Ms. Ross. OK. I do have a couple of other questions. Dr. 
+Isbell, your written testimony talks about the Marshall Project 
+and the use of risk assessment in the criminal justice system. 
+How can transparency increase the ability of individuals to 
+protect their information and avoid undue scrutiny? And to whom 
+should individuals direct their concerns if they believe that 
+their data has been misused?
+    Dr. Isbell. So it's a very--it's actually quite a difficult 
+problem because the data that we have is out there everywhere, 
+and we leave a trail everywhere that we go. Fundamentally, 
+there has to be policy and there has to be infrastructure. This 
+is a role that government has to provide a mechanism by which 
+people can can deal with issues where their data had been 
+misused. It is not a thing that will naturally come from 
+industry. It is not a thing that naturally comes from the 
+educational sector. It is something that has to be dealt with 
+by the legal system.
+    Ms. Ross. And can you tell us about any law enforcement 
+practices that we should be aware of as we're considering 
+changes to the legal system?
+    Dr. Isbell. Well, I think the short answer is you have to 
+think very carefully about and look at the way that the systems 
+that are out there are currently being used and how they're 
+currently being misused. And having done that, it takes you 
+down a path toward understanding how you have to try to address 
+those one at a time. It's a pervasive thing that touches 
+everything. I--we don't have time to talk about this now, but 
+you--earlier, someone made a comment that doctors will not be 
+replaced by AI. Well, they're already being replaced by AI, and 
+they're being done in an unregulated way that's having an 
+impact on people. And you have to be--you have to recognize 
+that and you have to address it context by context and one case 
+at a time.
+    Ms. Ross. Thank you, Madam Chairman, and I yield back.
+    Chairwoman Stevens. Great. And with that, we're going to 
+hear from Dr. Baird of Indiana for 5 minutes of questioning.
+    Mr. Baird. Thank you, Madam Chair. And I appreciate you and 
+Ranking Member Feenstra for holding this important hearing. And 
+I really appreciate, I always do, the expertise of the 
+witnesses and their ability to answer our questions and it's 
+very important and very specific.
+    My first question goes to Dr. Isbell. And I want to know 
+what role have universities played in the development of the AI 
+Risk Management Framework? And more broadly, how are 
+universities helping to shape the future of AI by engaging in 
+public-private partnerships, Dr. Isbell?
+    Dr. Isbell. So the--higher education in general is--
+universities have participated by being invited in and being a 
+part of the conversations. Individuals and organizations have 
+continued to participate in all of these discussions around 
+standards, including things that NIST has done, but also 
+through operations of institutes that have been created, for 
+example, by NSF. What the universities do, what our role is, is 
+to do the basic research that exists to create the basic 
+research, ask the basic questions, and then educate the 
+students who are going to go forward and to do that work. A lot 
+of the work that we do, a lot of where we play that role isn't 
+actually identifying the fundamental problems. That is sort of 
+what academic freedom allows you to do, and that's what we 
+continue to do. The environment that we create is one that is--
+that allows us to ask these questions and to make them 
+available for industry, to make them available for government 
+to take the next step. That's what we do.
+    Mr. Baird. Well, thank you very much. Ms. Tabassi, to your 
+knowledge, has the People's Republic of China developed a 
+similar tool to the AI Risk Management Framework? And what 
+about any of our allies? And so what role if any has NIST 
+played in sharing findings and the best practices with the 
+international community, particularly our allies? So if you 
+have any thoughts in that area, I would appreciate it.
+    Ms. Tabassi. Thank you so very much for the question, 
+Congressman. In terms of cooperation and collaboration with our 
+allies, the stakeholder engagement effort that we run includes 
+our international partners, so they have been involved in terms 
+of providing input to the AI RMF, coming to our workshops and 
+participating in those events, but we also interact with them 
+and talk with them in forums such as Trade and Technology 
+Council, QUAD, or OECD. So there is a good, strong, robust 
+engagement going on that way.
+    Mr. Baird. Thank you. Then my last question goes to Ms. 
+Singh. So in creating the tools to help companies develop 
+responsible AI, what are some of the most common concerns with 
+AI systems that your company has seen?
+    Ms. Singh. Thank you so much for that question. You know, 
+if responsibly and not built artificial intelligence is going 
+to have very varying impacts on different use cases. So across 
+the companies that we work with, one of the things that is 
+critical is, again, really having a holistic view of from the 
+time you're designing the AI system to the actual use, making 
+sure that you're interrogating the technical systems, you're 
+interrogating the processes, as well as you're interrogating 
+the outputs. So this goes back to really identifying any 
+unintended consequences that could appear in the entire AI 
+lifecycle.
+    Mr. Baird. Thank you very much. And I appreciate the 
+witnesses' responses. And with that, Madam Chair, I yield back.
+    Mr. McNerney [presiding]. Well, I was going to--I think I'm 
+the next questioner, and I was going to thank the Chairwoman 
+for this great hearing, but I certainly want to thank the 
+panelists. Your testimony is great. What a great, incredible 
+subject. I want to get right to questions though.
+    Ms. Tabassi, how might standards and assessments be 
+developed and--for explainability and interoperability
+    Ms. Tabassi. We do that the same way that we do for any 
+type of other standards. With true stakeholder engagements and 
+working with a whole community. Broad stakeholder engagement 
+underlines everything we do at NIST and explainability, 
+interoperability are difficult, complex topics. We do have some 
+foundational research going on. Our researchers are working on 
+this, but we also augment it with the work of the whole 
+community.
+    Mr. McNerney. OK. Well, I've been on standards committees, 
+and I know what kind of work goes on. So you're saying it's a 
+similar process or would be a similar process?
+    Ms. Tabassi. Correct. Part of it, doing the internal 
+research, providing technical contributions, working with the 
+whole community on strengthening the research and taking the 
+contributions to the standard development organizations and 
+hopefully see them through become international standards.
+    Mr. McNerney. Thank you.
+    Dr. Isbell, in math and physics, systems and solutions are 
+considered unstable if small changes in the initial conditions 
+result in large changes in the solutions and outputs. Are AI 
+systems unstable in terms of the data input? And, if so, how 
+can that be mitigated?
+    Dr. Isbell. Some of them are. There's a wide range of ways 
+of doing AI and machine learning. Some of them are quite 
+stable, and some of them are less stable. There's a lot of 
+theory behind this and a lot of work that's been done over 
+decades to get there.
+    I think the most important thing actually is not the sort 
+of instability that you're talking about with small changes but 
+that we don't actually understand how the set of parameters 
+that go into the way that we build these systems have that 
+impact. It's actually less about the data in that sense and 
+more about the way that we build the systems in the first 
+place. And that has remained largely unexplored.
+    Mr. McNerney. Well, thank you. That'd be a great area for 
+research. Thank you.
+    Ms. Tabassi, can you touch briefly on what's included in 
+the strategy of engaging technical standards for tools for 
+artificial intelligence?
+    Ms. Tabassi. Thank you for that question, Congressman. And, 
+yes, happy to. So that strategy for working toward the standard 
+was developed in 2019. And we are basically implementing the 
+recommendations of that plan since it has been developed in 
+2019. What's in the plan? Basically talks about standards, 
+standard development processes, talks about AI standards, 
+what's needed, and concludes with recommendations on what's 
+needed to maintain U.S. leadership in development of the 
+technical standards and recommendations very broadly is about 
+strengthening research for development of scientifically valid 
+standards, public-private partnership, to be able to do that 
+research and build those foundations, and international 
+cooperations for development of standards.
+    I just also want to note, that plan was also developed in a 
+stakeholder-driven effort with a lot of input from the 
+community.
+    Mr. McNerney. Thank you. So what what extent is the United 
+States already collaborating with the EU and other likeminded 
+nations on developing standards for trustworthy AI?
+    Ms. Tabassi. Multiple ways. One of them is by expert-to-
+expert scientists working on what we call pre-standardization 
+research to actually provide the scientific foundations for the 
+standards and then cooperation by to the standard meeting and 
+seeing them through to become international standard, but also 
+at the forum such as TTC and QUAD.
+    Mr. McNerney. Well, thank you.
+    Mr. Crenshaw, I didn't want to leave you out. Would the 
+Chamber and presumably many U.S. businesses support the 
+development of a United States AI regulatory law?
+    Mr. Crenshaw. I think, given the state of the technology, 
+we believe it's premature to get into prescriptive regulation. 
+We support voluntary frameworks like we see at NIST. A few 
+areas, though, I think, you know, we would like to see 
+regulation is for things like consumer privacy. We'd like to 
+see a national standard put in place. But at the same time, we 
+want to make sure that the process at NIST can work itself out 
+first before we start making any kind of determinations on 
+regulation. And it's also an issue, though, our own AI 
+Commission is working through as well to make recommendations 
+for.
+    Mr. McNerney. Thank you. My time has expired, and I'm going 
+to call on Mr. LaTurner. You're up for 5 minutes.
+    Mr. LaTurner. Thank you, Mr. Chairman. I appreciate it. Ms. 
+Singh, in your testimony, you talk about the need for 
+policymakers to establish benchmarks for fairness when it comes 
+to responsible AI, yet you also talked about how industry-
+specific and context-driven artificial intelligence factors 
+preclude standard-setting bodies from creating a one-size-fits-
+all metrics. In a context-specific field, how can Congress 
+create meaningful regulation that ensures AI systems retain 
+algorithmic fairness?
+    Ms. Singh. Thank you so much for that question. I think the 
+work that NIST is doing is a good example of the public-private 
+partnership that is needed to ensure that we are doing 
+thoughtful policymaking and standards that are very context-
+specific. As I've stated previously, you know, in artificial 
+intelligence, the question that we should be asking ourselves 
+right now is how can governance and oversight keep up with the 
+development of artificial intelligence? And so we believe that 
+standards are going to be critical, especially as we think 
+about transparency reporting. And transparency reporting, is 
+going to be a complete view into the AI lifecycle that can help 
+with benchmarking.
+    Mr. LaTurner. What could we be doing differently with our--
+with Congress and the public-private partnerships? Do you have 
+any recommendations on how we could be doing it better?
+    Ms. Singh. Yes, thank you so much for that question. You 
+know, we've given some feedback to NIST on that. I think we 
+have to really step back and think about the AI application, as 
+well as what the impact to the stakeholders within that AI 
+application is. And I think going back to context-centric 
+metrics, as well as context-centric reporting requirements is 
+one of the first steps we believe is going to help move this 
+industry forward.
+    Mr. LaTurner. How can developing responsible AI give the 
+United States an economic and societal competitive advantage 
+over other countries
+    Ms. Singh. Thank you. I think that is a fantastic question. 
+We at Credo AI believe that responsible AI is a competitive 
+advantage because it is not only going to help United States 
+and the companies here deploy AI with confidence, but as we 
+make sure that the standards that emerge which are aligned with 
+our societal values, that is going to promote more consumer 
+trust, which, as you can imagine, is going to further bolster 
+our leadership in artificial intelligence.
+    Mr. LaTurner. Thank you, Ms. Singh.
+    Dr. Isbell, you state in your testimony that there are many 
+occasions where tech workers cannot be certain how AI 
+algorithms reach the correct answer, and these algorithms are 
+known as, quote, black-box models. If for any reason these 
+types of algorithms reach an incorrect or biased outcome like 
+the ones you describe in your testimony, it can be nearly 
+impossible to diagnose. If we want to solve the problem of 
+black-box models by making an algorithm's data set more 
+transparent, then what countermeasures can we take to bolster 
+AI security from hackers? To your knowledge, are there any 
+examples of AI developers that have already--that are already 
+addressing this issue?
+    Dr. Isbell. So there's a great amount--there's a large 
+amount of work that's being done in academia at the level of 
+basic research to understand differential privacy, to 
+understand how it is that people can interfere and break into 
+the way that machine learning algorithms actually work. So 
+there's a lot of work. It's in early stages, but a lot of great 
+stuff is being done. How much of the--not a lot of that has 
+necessarily been deployed in the systems that are out there now 
+I think in large part because the incentives haven't 
+necessarily been there.
+    What drives industry and drives the people who build these 
+systems and deploy them to do--to touch on this is requirements 
+that either through the market or through policy, that if they 
+don't do this, they're simply not going to be able to deploy 
+their systems and to have them used and adopted by large groups 
+of people.
+    So there's a lot of work that's been done out there, a lot 
+of specific things. I would start with differential privacy, 
+and there's lots of researchers that have done great work on 
+this. But at the end of the day, it's really going to be about 
+creating the incentives for people to want to take advantage of 
+what we know in order to keep things secure.
+    Mr. LaTurner. Thank you. Mr. Chairman, I yield back.
+    Chairwoman Stevens. Great. And with that, we're going to 
+hear from Mr. Beyer of the Commonwealth of Virginia for 5 
+minutes of questioning.
+    Mr. Beyer. Thank you, Madam Chair, very much. And thank the 
+witnesses for really interesting feedback. But also thank my 
+colleagues, Democrats and Republicans, for some very good 
+questions.
+    Ms. Tabassi, I know you take on this tremendous task of 
+managing, developing the AI Risk Management Framework. You 
+heard from Mr. Crenshaw what the Chamber is doing with its 
+commission. And I think you've heard pushback about how we're 
+not ready to have mandatory standards, that we're still so 
+early that we're--we don't want to overreact. We don't want to 
+overregulate. But at the same time is it not naive to think 
+that we can make this voluntary indefinitely, that at some 
+point there won't be a need for clarity in terms of what is 
+demanded and expected from businesses in AI?
+    Ms. Tabassi. Thank you very much for that very thoughtful 
+question, Congressman. So NIST AI RMF is a voluntary framework 
+just like any other frameworks that NIST has developed. And the 
+use and adoption of that, at least, I believe, would be based 
+on the value that it provides. And another strength of the 
+voluntary process that we are doing is based on the stakeholder 
+engagement and stakeholder-driven process that we are following 
+in development of this voluntary tool. It gives the opportunity 
+to the whole community to provide their input, their comments. 
+So by the end, the final tool would be a more effective 
+resource that everybody that participate in development of that 
+would have a buy-in in that.
+    So by that, I think, having the value on using this and 
+having buy-in because of participation in the process of 
+developing it, would help with its adoption. NIST is a 
+nonregulatory agency, and the things we put out are voluntary.
+    Mr. Beyer. We know that, so thank you. I understand you're 
+nonregulatory and ultimately it will come back to us and then 
+come back to us just based on dangers.
+    Dr. Isbell, I was fascinated by your testimony. Because so 
+much of what we talked about today is concern about biases, but 
+you also had a wonderful paragraph about the upside of machine 
+learning and artificial intelligence. Can you expand on that a 
+little bit? It seems to me that we as human beings dramatically 
+underestimate the potential for what artificial intelligence 
+can bring humanity.
+    Dr. Isbell. So there's a particular law, and I forget 
+what--escapes me right now. But what the law says is that we 
+overestimate the short term and we underestimate the long term. 
+And I think that's exactly what's been happening with AI. There 
+was a lot of hype back in the 1970's and 1980's before the AI 
+winter with all the great changes that AI was going to bring to 
+the world. They were wrong. They were overhyped.
+    But it's turned out that the impact that AI has had has 
+been profound and far deeper than anything anyone even imagined 
+back then. It has infiltrated every part of our life, and I use 
+infiltrate in a positive way. We will be doing a better job of 
+detecting when people are sick in ways that we were never able 
+to do. We will be able to help people to make decisions they 
+otherwise would not have ever been able to make. We will be 
+able to connect with one another in ways that we have not been 
+able to connect with one another before. And a large part of it 
+will be because of computing, and it'll be because of AI. It's 
+all very positive. The opportunities in front of us are huge, 
+and it will take us--it will help us to solve big problems that 
+we currently have a hard time thinking through and those 
+problems over decades and even over centuries.
+    The problem that we have, of course, is that we have to set 
+up the incentives to allow people to do that, and we have to 
+make certain that everyday people understand enough of what's 
+actually going on so that they can make rational decisions 
+about how to use that technology in their own lives.
+    Mr. Beyer. Dr. Isbell, I'd love to have a question for the 
+record if you could find one of your research assistants to 
+find out the name of that law.
+    Dr. Isbell. I will.
+    Mr. Beyer. Dr. Vint Cerf told it to me 30 years ago, and 
+I've always attributed it to him, but it probably has a deeper 
+root.
+    Dr. Isbell. Absolutely.
+    Mr. Beyer. Very powerful.
+    Dr. Singh, one quick question. You know, we've been 
+struggling with facial recognition technology on police 
+bodycams. Now, is this something that you're working on, too, 
+that the notion that people of color, especially women of 
+color, are picked up inaccurately much more frequently than 
+others?
+    Ms. Singh. Thank you so much for that question. We at Credo 
+AI work across a diverse range of applications, including 
+facial recognition. And as I stated previously, I think any 
+artificial intelligence that is not developed responsibly is 
+going to impact all of us, and especially the marginalized 
+communities, which in the past have been excluded because of 
+gender, ethnicity, color, are at a higher disadvantage here. So 
+building responsible AI is not just competitive advantage, but 
+it is going to serve humanity really well.
+    Mr. Beyer. Madam Chair, I yield back.
+    Chairwoman Stevens. Thank you. And with that, we're going 
+to hear from Mr. Gonzalez of Ohio for 5 minutes of questioning.
+    Mr. Gonzalez. Thank you, Chairwoman Stevens, Ranking Member 
+Feenstra, for holding this hearing. Thanks to all the witnesses 
+for your testimonies.
+    Ms. Tabassi, we talked a little bit about the AI Risk 
+Management Framework, and that was helpful. I'm curious, has 
+China developed a similar tool? What is China doing 
+specifically around this?
+    Ms. Tabassi. Right. So I believe it was in 2017 that China 
+put a very ambitious domestic AI plan out. To the best of my 
+knowledge, there isn't anything that they're doing similar to 
+the AI RMF. If they're doing it domestically, I don't know. 
+But--yes.
+    Mr. Gonzalez. OK. Thank you.
+    Mr. Crenshaw, I'm going to switch to you for a second. 
+Unlike most countries that have a top-down, government-led 
+approach, the United States has a bottoms-up, industry-led 
+approach to standards setting, which I think is appropriate. We 
+employ a voluntary system which relies on industry 
+participation and leadership. This market-driven approach 
+enables competition, ensures transparency, and takes advantage 
+of consensus-building to drive us to the best possible 
+outcomes. Can you explain how the U.S. approach to AI through 
+the AI Risk Management Framework drives innovation?
+    Mr. Crenshaw. Well, I think it's interesting to know, 
+during one of our hearings, we actually had one of the cochairs 
+of the National AI Advisory Committee come testify, Miriam 
+Vogel. And she said the reason we needed to maintain leadership 
+in this country is because we have a brand of trust compared to 
+other countries. And it's important that we have standards in 
+place that are voluntary, that will be adaptable to this new 
+and developing technology but at the same time will look at 
+things like risk. And it's important that we have real firm 
+guidance in place.
+    And another--I think, as I said before as well, when it 
+comes to international standards bodies, we need to make sure 
+that the United States is well-represented. The CHIPS and 
+Science Act actually helped provide funding to ensure we can 
+participate in that space. But, you know, at the same time, 
+too, as companies look at things like developing implementation 
+for compliance or following guidelines, if they go out there 
+and say we're following this guideline and then they're found 
+not to be, there is some teeth there.
+    Mr. Gonzalez. Yes.
+    Mr. Crenshaw. So there are agencies that can enforce there 
+as well.
+    Mr. Gonzalez. Great.
+    Mr. Crenshaw. So there is great trust to be had by 
+establishing leadership and trust against other countries.
+    Mr. Gonzalez. Dr. Isbell, with your role on campus as a 
+Professor and Dean, what do you believe the appropriate role of 
+the university is--are in shaping the future of AI?
+    Dr. Isbell. Twofold. One is to do research. We have one of 
+the best systems in the world around basic research. Our 
+research ones are amazing. And all the way down to our research 
+twos and even our community colleges are able to bring people 
+in and to think about and engage in the conversation around AI 
+or any other large, important issue. So the research is 
+important, and maintaining and supporting that is important.
+    But the second and perhaps the most obvious is the 
+fundamental mission, which is educating people, not just 
+educating the people who are going to do the research, but I 
+think importantly, and especially when it comes to AI and 
+machine learning, is educating everyone else who is not going 
+to do AI and machine learning research but will be affected by 
+it, who will be adjacent to it, and will be far away. As I told 
+my son who's deeply into history, you will not be able to get a 
+degree in history in 5 years without knowing machine learning 
+and AI because it's still going to be data-driven. And so our 
+responsibility is to make certain that everyone is a part of 
+that conversation.
+    Mr. Gonzalez. Great. And then I agree 100 percent on the 
+research point, actually, on both points. But, you know, one 
+thing we talk about a lot on this Committee is how do we get 
+the research--the incredible research that's happening on our 
+university campuses out into the public space and then driving 
+innovation in the private sector? So what do you think we need 
+to be doing to have a--I'll just call it a more robust sort of 
+flywheel of research taking place on college campuses, leads to 
+innovation, leads to private companies, et cetera, et cetera?
+    Dr. Isbell. So we actually do pretty well with that, I 
+think, but I think the biggest problem right now is that 
+there's a mismatch between what the company--pick whatever your 
+favorite company is--wants to do in the next 6 months to a year 
+versus what the basic research that's looking out 5 or 10 years 
+actually is. Support through organizations like NSF, for 
+example, to help partner with those companies, to partner with 
+industry to help do the basic research, universities, I think, 
+is the best way to get that translational work done from the 
+lab out into the world. And when it works, it works very well.
+    Mr. Gonzalez. Thank you. I yield back.
+    Chairwoman Stevens. Thank you.
+    With that, we'll hear from Congressman Sherman of 
+California for 5 minutes of questioning.
+    Mr. Sherman. Thank you, and thank you for allowing me to 
+participate in this Subcommittee's hearing. Without objection, 
+I'd like to enter into the record an article I wrote 22 years 
+ago, ``Engineered Intelligence: Creating Our Successors' 
+Species.''
+    My line of questioning is going to be about things that 
+won't affect us until the second half of this century. But 
+since they relate to whether humankind will continue to be in 
+domination of the planet Earth, they're important. We're--right 
+now, the computer engineers and the bioengineers are racing to 
+create a new level of intelligence. And the last time there was 
+a higher level, a new level of intelligence appeared on the 
+planet is when our ancestors said hello to Neanderthal. It did 
+not work out well for Neanderthal.
+    So my focus is on whether we're going to see artificial 
+intelligence that has general intelligence, self-awareness, and 
+what I call the ambition, or survival instinct, or care. And 
+that third thing I should go into more, I tend to think that 
+our successor species would be biological because even the 
+dumbest worm seems to care if you try to turn it off or kill 
+it, whereas the smartest computers we have so far don't care if 
+you unplug them.
+    So my concern is what are we doing to prevent or monitor 
+for general intelligence, self-awareness, and ambition or 
+survival instinct? Or are we just going to ignore those issues 
+and focus on things that affect us in the next decade? Ms. 
+Tabassi?
+    Ms. Tabassi. Thank you very much, Congressman, for the 
+question. It's hard to determine when or if we can reach or the 
+community can reach to an artificial general intelligence. I 
+will say that that's----
+    Mr. Sherman. Well, I think we're going to get there 
+someday.
+    Ms. Tabassi. Right.
+    Mr. Sherman. We just don't know----
+    Ms. Tabassi. Very good, very good. So we don't know when 
+we're going to get there. So from the NIST point of view, we 
+think that that's one reason to work on foundational 
+principles. That's why it's now timely----
+    Mr. Sherman. Is anybody doing any technical research about 
+how we can get very useful computers, that we somehow put 
+something in there, a governor if you will, that prevents 
+general intelligence or prevents self-awareness, or prevents 
+ambition and caring? Is anybody doing the research as to how we 
+can get what we want without getting what we don't want?
+    Ms. Tabassi. I'm not aware of that research being done at 
+our laboratory at NIST, across the academia, and the community. 
+I don't know. Thank you for the question.
+    Mr. Sherman. I'll ask the other witnesses. Is anybody aware 
+of us trying to prevent, as we try to harvest the benefits of 
+artificial intelligence, the creation of an ambitious, self-
+aware computer that may very well decide that we're irrelevant 
+to this planet? Is anybody figuring out how to do that, or is 
+it just an issue we're all aware of but aren't really trying to 
+confront? Does anyone just--yes, Mr.--yes, Doctor?
+    Dr. Isbell. So I guess the--yes, and thank you for the 
+question. Actually, you know, one of the reasons I got into AI 
+in the first place were these what I'd consider pretty 
+existential and philosophical questions around what does it 
+mean to build intelligence? I think the answer is that people 
+discuss these issues all the time. They try to figure it out, 
+they try to work it through. We don't have any large research, 
+at least that I'm aware of, any large research agendas around 
+preventing the issue--preventing general intelligence in part 
+because we have no idea how to get there from here. And I think 
+one of the things that I would leave----
+    Mr. Sherman. What about those two other issues, how to 
+prevent self-awareness, how to monitor for self-awareness, how 
+to prevent ambition or survival instinct, how to monitor for 
+survival instinct?
+    Dr. Isbell. I don't think it's done in those terms. I don't 
+think it's done in those terms. It's done in simpler terms 
+around preventing harm.
+    Mr. Sherman. Well, we're going to concentrate on the harm 
+that could occur in the next decade----
+    Dr. Isbell. That's right.
+    Mr. Sherman [continuing]. The Nation or artists that lose 
+their creativity and the benefits of their creativity, and it 
+doesn't seem like anybody's worried about the problems we'll 
+confront in the second half of this century. And with that, I 
+yield back.
+    Chairwoman Stevens. Great. And with that, we're going to go 
+to another round of questions because we're just having so much 
+fun here. And the Chair is going to recognize herself for 5 
+minutes. I think this question about where and how we're 
+determining the ethics is very important. Obviously, we have so 
+much respect for NIST and an understanding of the role that 
+standards play. We could go philosophical again and ask our 
+standards, ethics, and how the ethics arrive out of standards 
+that come from rigorous processes that are inputted by--you 
+know, we talked about the companies, we've heard from Dr. 
+Isbell about the people, the people element that needs to get 
+involved with the standards.
+    But, Dr. Isbell, some universities are already including 
+ethics as a curriculum and long have. You go into a philosophy 
+department, you're going to get an ethics course. Hopefully, 
+people take it. But ethics as a curriculum requirement for 
+computer science degrees in particular, a great start, but it's 
+often obviously sometimes a separate course and may not be 
+directly connected to what students are learning in other 
+courses.
+    You've changed your approach at Georgia Tech, and so I just 
+wondering if you could elaborate on what you're doing to 
+integrate ethics education and how you're assessing its 
+effectiveness. And I also just--because that's a question I 
+know you can answer it, but I just really want to applaud you 
+for a segment in your testimony that I encourage everyone to 
+look at where you said computing has long been an intellectual 
+wild west where things change so fast that the priority was 
+always to fix--to find what's next, to find the better 
+solution. Now, we've succeeded in finding solutions so good 
+that they are intertwined in nearly every area of our personal 
+lives and communities. So can our laws move fast enough? Can 
+our ethics move fast enough? And where and how do we find this 
+arising? Thank you.
+    Dr. Isbell. Sure. Thank you for the question. I really 
+appreciate it. I will say that, you know, people in my field 
+have spent 40, 50 years trying to convince everyone that what 
+we did was really important, and it turns out, we were right. 
+And then what we're living with now are the consequences of 
+having been right.
+    So when it comes to ethics and responsibility, I think 
+the--you know, Georgia Tech, we've had that as a requirement 
+for CS going back at least about 30 years. But what we had done 
+wrong--and not just us, but I think the way that we approached 
+this--is that we treat it, as you say, a separate class, 
+something that gets stapled on at the end. It's a requirement. 
+Nobody takes it till their last semester. It doesn't get 
+integrated into the rest of the curriculum and it can't.
+    So one of the things that we did recently is we kept it as 
+a requirement, and we made it a prerequisite for our junior 
+yearlong design classes. So by the time you're a sophomore, you 
+know just enough to be dangerous. You're at a place where 
+you're being forced to think carefully about the consequences 
+of the systems that you build, and then you're asked to build 
+such a big system. This is before you take Intro to AI. This 
+before you take Intro to Machine Learning. This is before you 
+take Introduction to Cybersecurity and Privacy. So it puts you 
+in a place where the people further down the chain can actually 
+now ask you the direct questions that they couldn't do before 
+because you wouldn't have the language or the experience to be 
+able to do that.
+    That is what's important. When we claim that something is 
+important, we have to operationalize it in our curriculum in 
+the way that we teach people from the very beginning and not 
+toward the end, which is the natural thing to do if you aren't 
+very careful about how important you think that it is.
+    Chairwoman Stevens. And certainly to Mr. Crenshaw, I'm sure 
+you have some some thoughts about this as well. And, you know, 
+we applaud the the point about, hey, we want to drive a--you 
+know, American leadership of what we're doing with artificial 
+intelligence.
+    And thank you, Ms. Singh, by the way. I've just so 
+thoroughly enjoyed your--not only your testimony, but the 
+answers to your questions. But how do we balance these things 
+out, right? You know, we sometimes see, you know, too much of a 
+good thing, per se. And we don't--you know, we like standards. 
+We're doing standards. You've said you like the risk 
+management. But, you know, in some ways, right, we see 
+companies getting pushback because they haven't self-regulated 
+and the ethics component isn't there. And so, you know, where 
+and how do we find that balance? And maybe that's articulated 
+through boards. Which--how does that populate? And maybe Ms. 
+Singh can chime in, too.
+    Mr. Crenshaw. I think it's critically important, one note 
+to make, that we have the critical decisionmakers in companies 
+involved in this process as well. Not only do technologists 
+have a role, but C-suite does as well. And also, you know, we 
+need more education out there about the need to build in 
+ethical AI into standards for companies and how they operate. 
+I've talked to some companies that are actually developing 
+their own ethical frameworks and have full-time ethicists who 
+are being brought on. We had a hearing actually at the 
+Cleveland Clinic about 4 months ago in which they've now 
+brought on an ethicist as well, as they're using AI to treat 
+their patients. So it's important, and I think companies are 
+beginning to see this.
+    Chairwoman Stevens. Yes.
+    Ms. Singh. Thank you, Chairwoman. I think, today, we've 
+established that AI is not a technical problem. It's a 
+sociotechnical problem that really needs multistakeholder 
+perspective and viewpoints. So I totally agree that there is a 
+need for education. There's a need for involvement from 
+multiple stakeholders. But if I may, I think the companies we 
+work with, they're still struggling with what does good look 
+like. And this is where we believe that government has a 
+critical role to play in thoughtful policymaking and in these 
+standards to at least give that context to these companies 
+because everyone right now, even if they're trying to self-
+regulate, do not know what does good look like. So our ask 
+right now is really making sure that there is more transparency 
+around how these systems are built and deployed.
+    Chairwoman Stevens. Yes, right. And there's also certainly 
+examples from throughout history where the notion of good has 
+gotten it wrong.
+    But with that, why don't I turn it over to Mr. Feenstra, 
+for 5 minutes of questioning. Thank you.
+    Mr. Feenstra. Thank you, Madam Chair. I'm so glad that we 
+could have an extra round of questions.
+    And Dr. Isbell, thank you again for all your comments. I've 
+been enjoying listening to you. And, as academics, to me, the 
+challenge is--I finished my dissertation on maternity 
+healthcare in rural America. And the challenge is, you know, we 
+talk about ethics, but there's this fine line of how we access 
+data and the barriers that are put on to try to get the data. 
+And so how do we thread that needle of, you know, there's a 
+need to have the data and to create trustworthy AI systems, and 
+yet there's that balancing act of ethics. Can you dive into 
+that a little bit?
+    Dr. Isbell. I mean, I do have my opinions about how to 
+solve all problems around ethics, which is a very deeply 
+difficult question. I think the best way of thinking about it 
+is to help people to articulate explicitly what it is that--
+what the tradeoffs are and where they want to live in that 
+space of tradeoffs. If people can understand the tradeoffs, 
+they can make informed decisions. I guarantee you that, first 
+off, there's more data out about you out there in the world 
+than you have ever imagined and that people know more about you 
+than you wish that they did, and that could be a good thing 
+because one day, it may save your life. On the other hand, it's 
+a lot--it's your privacy, and it's who you are, and people 
+shouldn't just be able to get access to that data just because 
+they can.
+    Mr. Feenstra. Is there any data, though, that you'd say 
+that would be beneficial that, you know, you look at and say, 
+OK, this is captive that we can't get at that might be helpful 
+as we move into trustworthiness and AI?
+    Dr. Isbell. I think that that's a conversation that 
+involves, as we've been saying all along, all the stakeholders 
+who are involved.
+    I will add one thing, though, which is, although I think 
+that bottom-up thinking is good and it's something that's 
+driven us to innovation, it says right there in this chamber 
+that, ``Where there is no vision, the people perish.''
+    Mr. Feenstra. That's right.
+    Dr. Isbell. And the vision has to come from elected 
+officials, it has to come from government, and it has to be a 
+conversation about where it is we agree we want to go.
+    Mr. Feenstra. Yes, I agree. Thank you, very, very good and 
+thoughtful words.
+    Ms. Singh, very intrigued by what your organization does. 
+So if you look at how we build the appropriate safety and 
+security into products, do you do you see a role in government? 
+Or how do we incentivize going down this path, especially in 
+the private sector? I mean, I think the private sector has some 
+accountability in going down this path. But do you see anything 
+that we can do? You know, we can put parameters, I get that. 
+But we also, to me, have to do something to allow people to say 
+I want to. Do you have any thoughts on that?
+    Ms. Singh. Thank you so much for that question because I 
+certainly do have many thoughts on it. But one that I would 
+love to reemphasize here is the companies we work with right 
+now, they are recognizing the importance of transparency 
+reporting and disclosures because that transparency is helping 
+them build trust with the consumers and truly get that 
+competitive advantage. While one of the reasons that these 
+companies are not sharing these transparency reports broadly is 
+because they don't know how their competitors or others in the 
+market stack up to it.
+    Mr. Feenstra. Yes.
+    Ms. Singh. So at Credo AI, we are big proponents of you 
+know, the government coming up with standards that cannot only 
+mandate disclosures, but I think we will--it will propel a 
+thoughtful benchmarking across these AI applications.
+    Mr. Feenstra. Yes, I mean, that's a great thought, that you 
+can be protective in your data, but if we say--if the 
+government says, wait a minute, this is universal data that 
+everybody could use, that can be a gamechanger a little bit. 
+Again, ethics plays a vital role in that. Thank you.
+    With that, I am out of time. Thank you.
+    Chairwoman Stevens. Yes. And we'll hear from Dr. McNerney 
+for 5 minutes of additional questioning.
+    Mr. McNerney. Well, good. Now that you're back, I can thank 
+you for having this hearing. It's great. And again, I want to 
+thank the witnesses.
+    Ms. Singh, I feel bad about leaving you out first round, 
+but I have two big concerns about AI, and I'll throw the first 
+one to you. The first one is--and machine learning, which has 
+really overtaken AI--that AI will overtake an increasing number 
+of decisionmaking from humans, pushing us more and more into 
+irrelevance and sort of dehumanizing us. What can we do to 
+prevent that, you know, pushing us aside with the 
+decisionmaking capability of AI?
+    Ms. Singh. Thank you so much for that question. You know, 
+with any disruptive technology, be it AI, we see there are huge 
+economic impacts. And we see that in, you know, changes in work 
+force, the role that humans will play in the future of work. 
+But as we step back and think about it, I think we have a great 
+opportunity right now to invest more in education. As Dr. 
+Isbell mentioned, I'm excited his son is going to be getting 
+educated on AI because I think that's going to be critical. But 
+thinking about reskilling and upskilling in this age of AI is 
+going to give us a competitive edge.
+    Mr. McNerney. So that's a great answer, educate more people 
+so that we can utilize the AI in a more productive way than 
+letting it make decisions for us. That's basically what you're 
+saying, right?
+    Ms. Singh. Yes, absolutely.
+    Mr. McNerney. Very good. OK. Thank you.
+    The next one, I guess I'll go to Dr. Isbell again. AI--one 
+of my other concerns about AI is that it's being used to 
+monitor humans and our behaviors, our habits, especially either 
+in autocratic nations or by businesses that would like to be 
+able to influence our decisionmaking in terms of the way we 
+spend our money. What do you think is a way to mitigate that 
+issue?
+    Dr. Isbell. So first off, you're right, that's exactly what 
+happened, and it's been happening for a long time. Black Friday 
+is a thing that happens because it gets people to buy things, 
+right, so this is hardly new. What has happened is computing 
+and AI has made it much more efficient and easier to deploy.
+    My answer to that--I have two. One is that it's education. 
+It's making people aware of what's happening and allowing them 
+to make reasonable decisions. The other is that there are 
+policies and there are technical mechanisms that we can employ. 
+We can encourage people to develop and to deploy that will 
+allow them--that will allow people to understand what is being 
+happened--what is happening to them. You are in fact being 
+studied. You--your data is in fact predicting this behavior, 
+and you're doing this. And giving people the tools, not just 
+the stuff that they know--the education they learn on their own 
+but the technical tools that allow others to monitor the 
+monitors, that is a place that has a lot of potential and not 
+one that we've invested a great deal into.
+    Mr. McNerney. Well, the French postmodernists in the 
+1930's--1930's and 1940's were sort of warning us that the 
+government would be getting more and more information about us 
+and being able to use that information to control our political 
+decisionmaking as individuals, and that's sort of what I was 
+worried about. And now what we're seeing with social media is 
+that these--some of these companies are using information to 
+direct people into political bubbles that may advocate violence 
+or other sorts of extreme behavior. And I think that's one of 
+the issues we have--that I'm having with how do we tamp that 
+down? Do you have any recommendations, Mr. Crenshaw, on how we 
+could go about doing that?
+    Mr. Crenshaw. Well, I think when it comes to anytime we're 
+looking at the use of algorithms, we have to look at it from a 
+risk-based approach. And I think we also need to realize that 
+there are some benefits also to artificial intelligence that 
+we've seen. And, you know, one of the things I wanted to note 
+is that what we've learned is that the more people know about 
+AI, the less scared or concerned they are about it. And I think 
+that's why education about artificial intelligence is so 
+important. But companies also need to build in ethics and 
+ethical decisionmaking into their AI as well, too. And we see 
+companies that are leading in this space.
+    Mr. McNerney. But it's hard to regulate that. And I'm 
+thrilled that we're hearing about companies hiring ethicists, 
+but how do we get that as a part of the corporate mindset that, 
+you know, we need to do this in the future? So--it's not 
+something we can regulate I don't think.
+    Mr. Crenshaw. I agree that C-suite needs to be involved. It 
+needs to be part of corporate culture is building in ethics 
+into artificial intelligence. But at the same time, I think 
+with the work we're seeing at agencies like NIST are getting us 
+in the right direction toward where we want to be.
+    Mr. McNerney. Thank you. I yield back.
+    Chairwoman Stevens. Thank you. And with that, I don't 
+believe we have any other questions. So we're going to bring 
+the hearing to a close. Do we have one more? Oh, did Baird come 
+back? OK, hold on. I'm not closing. Where is he? Dr. Baird? 
+He's not coming? Well, we got questions for the record, too. 
+OK. We're prepared to close. All right. Well, we're prepared to 
+close. But honestly, we're not going to close the door on the 
+conversation because this has only brought up more questions. 
+And in fact, we could probably have a hearing on a couple of 
+different subsets that we discussed today. I believe with this 
+Committee, and as Mr. Gonzalez who, you know, we have been so 
+privileged to work with during his couple of terms here in the 
+Congress, mentioned, you know, taking research applications, 
+commercializing them, recognizing where our economy filters in.
+    We also recognize that we're in a leadership moment, and 
+this is--you know, we have been deeply privileged to have Dr. 
+McNerney through his tenure, his mighty tenure in the Congress 
+on this Committee, and he's so, so dedicated to this Committee, 
+but this is a leadership moment for the United States of 
+America. And we are going to shape how the world's going to go 
+on this. We want to be able to shape how the world's going to 
+go, and we've got to be prepared to do some of the deeper work. 
+It's not just the question of harm, but it's also the questions 
+of, you know, the meta challenges that come before us that are 
+somewhat brought on by AI. It's forcing us to be more 
+collaborative. It is forcing us to come together in ways that 
+we didn't last century.
+    I left out that I was working at a digital research lab 
+before coming to this body and we did the taxonomy, Mr. 
+Crenshaw, on the IoT (Internet of things) jobs, you know, how 
+companies are going to have to hire. We did this in partnership 
+with Manpower Group and a host of other industry and academic 
+partners. Digital ethicists came up. That was one of the job 
+profiles we came up with. That was just 5, 6 years ago. And I 
+mentioned Turing test, and we were so possessed when I was in 
+school by the Turing test, like we thought that was going to be 
+the question. And Mr. Sherman sort of got to that in his 
+questions, you know, are we worried about replacing humanity? 
+No, we are talking about what Mr.--or Dr. Isbell said in his 
+testimony, culture, changing culture and how we influence 
+culture through the laws we pass in this body.
+    And we have been addressing some meta challenges. I didn't 
+have the privilege of having Mr. Feenstra here last term, but I 
+know we would have been working together on the trade deal, the 
+USMCA (United States-Mexico-Canada Agreement). You have unions 
+and the Chamber came together to pass USMCA. This time around, 
+we passed Inflation Reduction Act. For the first time ever, you 
+know, we're dealing with climate. You've got the environmental 
+groups and the industry partners, my automakers saying they 
+want the same thing.
+    So these digital applications, these complex artificial 
+intelligence systems that we're putting into place, they're 
+asking us to come together. So, Ms. Tabassi, I--you know, we're 
+going to come back to you because we just--we think NIST solves 
+all of our problems, the mighty agency that can with a little. 
+And we're excited about that, and we--and we're going to come 
+visit you and we're going to talk about how you're stitching 
+together with your risk management what Dr. Isbell said and 
+what Ms. Singh is saying. Who's at the table? Who's at the 
+table? You know, we solve some problems in ones and twos, and 
+then we look at some of the broader challenges. But overall, 
+we're wildly optimistic. We're working on the vision, and we're 
+excited that we had this time together today. Hopefully, the 
+rest of the Congress tunes in on C-SPAN later.
+    But with that, we're going to close it. We're going to 
+leave the record open for a couple of weeks for additional 
+questions for the record, and our witnesses are excused. Thank 
+you.
+    [Whereupon, at 12:29 p.m., the Subcommittee was adjourned.]
+
+                               Appendix I
+
+                              ----------                              
+
+                   Answers to Post-Hearing Questions
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+                              Appendix II
+
+                              ----------                              
+
+                   Additional Material for the Record
+
+           Document submitted by Representative Brad Sherman
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+                                 [all]

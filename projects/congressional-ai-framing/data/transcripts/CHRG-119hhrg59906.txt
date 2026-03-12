@@ -1,0 +1,2221 @@
+- ARTIFICIAL INTELLIGENCE: EXAMINING TRENDS IN INNOVATION AND COMPETITION
+
+[House Hearing, 119 Congress]
+[From the U.S. Government Publishing Office]
+
+                   ARTIFICIAL INTELLIGENCE: EXAMINING TRENDS 
+                        IN INNOVATION AND COMPETITION
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                  SUBCOMMITTEE ON THE ADMINISTRATIVE STATE, 
+                    REGULATORY REFORM, AND ANTITRUST
+
+                       COMMITTEE ON THE JUDICIARY
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED NINETEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                        WEDNESDAY, APRIL 2, 2025
+
+                               __________
+
+                           Serial No. 119-13
+
+                               __________
+
+         Printed for the use of the Committee on the Judiciary
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]         
+
+               Available via: http://judiciary.house.gov
+
+                                __________
+
+                   U.S. GOVERNMENT PUBLISHING OFFICE                    
+59-906                     WASHINGTON : 2025                  
+
+-----------------------------------------------------------------------------------     
+
+                      COMMITTEE ON THE JUDICIARY
+
+                        JIM JORDAN, Ohio, Chair
+
+DARRELL ISSA, California             JAMIE RASKIN, Maryland, Ranking 
+ANDY BIGGS, Arizona                      Member
+TOM McCLINTOCK, California           JERROLD NADLER, New York
+THOMAS P. TIFFANY, Wisconsin         ZOE LOFGREN, California
+THOMAS MASSIE, Kentucky              STEVE COHEN, Tennessee
+CHIP ROY, Texas                      HENRY C. ``HANK'' JOHNSON, Jr., 
+SCOTT FITZGERALD, Wisconsin              Georgia
+BEN CLINE, Virginia                  ERIC SWALWELL, California
+LANCE GOODEN, Texas                  TED LIEU, California
+JEFFERSON VAN DREW, New Jersey       PRAMILA JAYAPAL, Washington
+TROY E. NEHLS, Texas                 J. LUIS CORREA, California
+BARRY MOORE, Alabama                 MARY GAY SCANLON, Pennsylvania
+KEVIN KILEY, California              JOE NEGUSE, Colorado
+HARRIET M. HAGEMAN, Wyoming          LUCY McBATH, Georgia
+LAUREL M. LEE, Florida               DEBORAH K. ROSS, North Carolina
+WESLEY HUNT, Texas                   BECCA BALINT, Vermont
+RUSSELL FRY, South Carolina          JESUS G. ``CHUY'' GARCIA, Illinois
+GLENN GROTHMAN, Wisconsin            SYDNEY KAMLAGER-DOVE, California
+BRAD KNOTT, North Carolina           JARED MOSKOWITZ, Florida
+MARK HARRIS, North Carolina          DANIEL S. GOLDMAN, New York
+ROBERT F. ONDER, Jr., Missouri       JASMINE CROCKETT, Texas
+DEREK SCHMIDT, Kansas
+BRANDON GILL, Texas
+MICHAEL BAUMGARTNER, Washington
+                                 ------                                
+
+               SUBCOMMITTEE ON THE ADMINISTRATIVE STATE,
+                    REGULATORY REFORM, AND ANTITRUST
+
+                   SCOTT FITZGERALD, Wisconsin, Chair
+
+DARRELL ISSA, California             JERROLD NADLER, New York, Ranking 
+BEN CLINE, Virginia                      Member
+LANCE GOODEN, Texas                  J. LUIS CORREA, California
+HARRIET HAGEMAN, Wyoming             BECCA BALINT, Vermont
+MARK HARRIS, North Carolina          JESUS G. ``CHUY'' GARCIA, Illinois
+DEREK SCHMIDT, Kansas                ZOE LOFGREN, California
+MICHAEL BAUMGARTNER, Washington      HENRY C. ``HANK'' JOHNSON, Jr., 
+                                         Georgia
+
+               CHRISTOPHER HIXON, Majority Staff Director
+                  JULIE TAGEN, Minority Staff Director
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                        Wednesday, April 2, 2025
+
+                           OPENING STATEMENTS
+
+                                                                   Page
+The Honorable Scott Fitzgerald, Chair of the Subcommittee on the 
+  Administrative State, Regulatory Reform, and Antitrust from the 
+  State of Wisconsin.............................................     1
+The Honorable Jerrold Nadler, Ranking Member of the Subcommittee 
+  on the Administrative State, Regulatory Reform, and Antitrust 
+  from the State of New York.....................................     3
+The Honorable Jim Jordan, Chair of the Committee on the Judiciary 
+  from the State of Ohio.........................................     4
+
+                               WITNESSES
+
+Neil Chilson, Head, AI Policy, Abundance Institute
+  Oral Testimony.................................................     6
+  Prepared Testimony.............................................     8
+Joseph V. Coniglio, Director, Antitrust and Innovation Policy; 
+  Schumpeter Project, Competition Policy, Information Technology 
+  and Innovation Foundation
+  Oral Testimony.................................................    20
+  Prepared Testimony.............................................    22
+Jessica Melugin, Director, Center for Technology and Innovation, 
+  Competitive Enterprise Institute
+  Oral Testimony.................................................    28
+  Prepared Testimony.............................................    30
+Alvaro M. Bedoya, Former Commissioner, Federal Trade Commission 
+  (FTC)
+  Oral Testimony.................................................    33
+  Prepared Testimony.............................................    35
+
+          LETTERS, STATEMENTS, ETC. SUBMITTED FOR THE HEARING
+
+All materials submitted for the record by the Subcommittee on the 
+  Administrative State, Regulatory Reform, and Antitrust are 
+  listed below...................................................    63
+
+Materials submitted by the Honorable J. Luis Correa, a Member of 
+  the Subcommittee on the Administrative State, Regulatory 
+  Reform, and Antitrust from the State of California, for the 
+  record
+    An article entitled, ``China's top universities expand 
+        enrolment to beef up capabilities in AI, strategic 
+        areas,'' Mar. 10, 2025, The Economic Times
+    An article entitled, ``65% Of Top AI Companies Have Immigrant 
+        Founders,'' Jul. 9, 2023, Forbes
+    An article entitled, ``Trump's Science Policies Pose Long-
+        Term Risk, Economists Warn,'' Mar. 31, 2025, The New York 
+        Times
+    An article entitled, ``Trump Administration Has Begun a War 
+        on Science, Researchers Say,'' Mar. 31, 2025, The New 
+        York Times
+    An article entitled, ``China leads world in generative AI 
+        adoption, underscoring country's progress,'' Jul. 10, 
+        2024, Reuters
+    An article entitled, ``Former Google Employees Create 14 Of 
+        The Top 50 AI Startups,'' Dec. 9, 2024, Performance 
+        Marketing Insider
+    An article entitled, ``Trump Loves AI But His Tariffs Ramp Up 
+        Costs for Data Centers,'' Mar. 19, 2025, Bloomberg
+    An article entitled, ``Apple chip engineer returns to China, 
+        joins Fudan University amid push for talent,'' Mar. 31, 
+        2025, South China Morning Post
+    An article entitled, ``Immigrant Entrepreneurs Bring Jobs And 
+        Innovation, New Research Shows,'' May 23, 2024, Forbes
+    An article entitled, ``From underdog to genius: Yale computer 
+        scientist Sun Huanbo returns to China,'' Mar. 30, 2025, 
+        South China Morning Post
+    An article entitled, ``Tech companies are telling immigrant 
+        employees on visas not to leave the U.S.,'' Mar. 31, 
+        2025, Washington Post
+Materials submitted by the Honorable Jerrold Nadler, Ranking 
+  Member of the Subcommittee on the Administrative State, 
+  Regulatory Reform, and Antitrust from the State of New York, 
+  for the record
+    An article entitled, ``AI Watch: Global regulatory tracker--
+        China,'' Apr. 1, 2025, JD Supra
+    An article entitled, ``US-China AI Race: AI Policy as 
+        Industrial Policy,'' Apr. 11, 2023, AI Now Institute
+    An article entitled, ``Elon Musk, who co-founded firm behind 
+        ChatGPT, warns A.I. is `one of the biggest risks' to 
+        civilization,'' Feb. 15, 2023, CNBC
+An article entitled, ``OpenAI peels back ChatGPT's safeguards 
+  around image creation,'' Mar. 28, 2025, Tech Crunch, submitted 
+  by the Honorable Jesus G. ``Chuy'' Garcia, Member of the 
+  Subcommittee on the Administrative State, Regulatory Reform, 
+  and Antitrust from the State of Illinois, for the record
+Materials submitted by the Honorable Jim Jordan, Chair of the 
+  Committee on the Judiciary from the State of Ohio, for the 
+  record
+    An article entitled, ``The FTC must be held accountable for 
+        its widespread leaks of confidential data,'' Oct. 19, 
+        2024, The Hill
+    A letter to the Honorable Jim Jordan, Chair of the Committee 
+        on the Judiciary from the State of Ohio, Aug. 26, 2024, 
+        from Mark Zuckerberg, Founder, Chairman & CEO, Meta 
+        Platforms, Inc.
+Materials submitted by the Honorable Scott Fitzgerald, Chair of 
+  the Subcommittee on the Administrative State, Regulatory 
+  Reform, and Antitrust from the State of Wisconsin, for the 
+  record
+    A letter to the Honorable Scott Fitzgerald, Chair of the 
+        Subcommittee on the Administrative State, Regulatory 
+        Reform, and Antitrust from the State of Wisconsin, and 
+        the Honorable Jerold Nadler, Ranking Member of the 
+        Subcommittee on the Administrative State, Regulatory 
+        Reform, and Antitrust from the State of New York, Apr. 8, 
+        2025, from Morten C. Skroejer Senior Director, Technology 
+        Competition Policy, SIIA Policy
+    A letter to the Honorable Jim Jordan, Chair of the Committee 
+        on the Judiciary from the State of Ohio; the Honorable 
+        Jamie Raskin, Ranking Member of the Committee on the 
+        Judiciary from the State of Maryland; the Honorable Scott 
+        Fitzgerald, Chair of the Subcommittee on the 
+        Administrative State, Regulatory Reform, and Antitrust 
+        from the State of Wisconsin; and the Honorable Jerrold 
+        Nadler, Ranking Member of the Subcommittee on the 
+        Administrative State, Regulatory Reform, and Antitrust 
+        from the State of New York, Apr. 2, 2025, from Gary 
+        Shapiro, CEO, Vice Chair, Consumer Technology 
+        Association, and Kinsey Fabrizio, President, Consumer 
+        Technology Association
+    A statement from Jennifer Huddleston, Technology Policy 
+        Senior Fellow, CATO Institute, Apr. 2, 2025
+    A letter to the Honorable Scott Fitzgerald, Chair of the 
+        Subcommittee on the Administrative State, Regulatory 
+        Reform, and Antitrust from the State of Wisconsin, and 
+        the Honorable Jerold Nadler, Ranking Member of the 
+        Subcommittee on the Administrative State, Regulatory 
+        Reform, and Antitrust from the State of New York, Apr. 1, 
+        2025, from Graham Dufault, General Counsel, ACT | The App 
+        Association
+An article entitled, ``DOGE Plan to Push AI Across the US Federal 
+  Government is Wildly Dangerous,'' Mar. 6, 2025, Tech Policy 
+  Press, submitted by the Honorable Jesus G. ``Chuy'' Garcia, a 
+  Member of the Subcommittee on the Administrative State, 
+  Regulatory Reform, and Antitrust from the State of Illinois, 
+  for the record
+
+                                APPENDIX
+
+Materials submitted by the Honorable J. Luis Correa, a Member of 
+  the Subcommittee on the Administrative State, Regulatory 
+  Reform, and Antitrust from the State of California, for the 
+  record
+    An article entitled, ``Australia Urges Universities to 
+        Diversify Research Away From US,'' Apr. 1, 2025, 
+        Bloomberg
+    An article entitled, ``Trump's Trade War Pushes Canadian Tech 
+        Workers to Rethink Silicon Valley,'' Mar. 31, 2025, Wired
+
+                 QUESTIONS AND RESPONSES FOR THE RECORD
+
+Questions submitted by the Honorable J. Luis Correa, a Member of 
+  the Subcommittee on the Administrative State, Regulatory 
+  Reform, and Antitrust from the State of California, for the 
+  record
+
+  Questions to Alvaro Bedoya, Former Commissioner, Federal Trade 
+      Commission, Apr. 2, 2025
+  Questions to Neil Chilson, Head, AI Policy, Abundance 
+      Institute, Apr. 2, 2025
+    Response to questions from Neil Chilson, Head, AI Policy, 
+        Abundance Institute, Oct. 24, 2024
+  Questions to Joseph V. Coniglio, Director, Antitrust and 
+      Innovation Policy; Schumpeter Project, Competition Policy, 
+      Information Technology and Innovation Foundation, Apr. 2, 
+      2025
+    Response to questions from Joseph V. Coniglio, Director, 
+        Antitrust and Innovation Policy; Schumpeter Project, 
+        Competition Policy, Information Technology and Innovation 
+        Foundation, May 1, 2025
+  Questions to Jessica Melugin, Director, Center for Technology 
+      and Innovation, Competitive Enterprise Institute, Apr. 2, 
+      2025
+    Response to questions from Jessica Melugin, Director, Center 
+        for Technology and Innovation, Competitive Enterprise 
+        Institute, Apr. 17, 2025
+
+ARTIFICIAL INTELLIGENCE: EXAMINING TRENDS IN INNOVATION AND COMPETITION
+
+                              ----------                              
+
+                        Wednesday, April 2, 2025
+
+                        House of Representatives
+
+               Subcommittee on the Administrative State,
+
+                    Regulatory Reform, and Antitrust
+
+                       Committee on the Judiciary
+
+                             Washington, DC
+
+    The Subcommittee met, pursuant to notice, at 10:02 a.m., in 
+Room 2141, Rayburn House Office Building, the Hon. Scott 
+Fitzgerald [Chair of the Subcommittee] presiding.
+    Present: Representatives Fitzgerald, Cline, Gooden, 
+Hageman, Harris, Nadler, Correa, Balint, Garcia, and Johnson.
+    Also present: Representative Kiley.
+    Mr. Fitzgerald. I want to thank all the Members for being 
+here. The Subcommittee will come to order. Without objection, 
+the Chair is authorized to declare a recess at any time. We 
+welcome everyone to today's hearing on artificial intelligence 
+and trends in innovation and competition. I will now recognize 
+myself for an opening statement.
+    Artificial intelligence, AI, is a powerful new technology, 
+and it's moving fast. It already is changing the way businesses 
+operate, how people work, and how we solve problems throughout 
+our society. From agriculture to manufacturing to customer 
+service, AI is showing up in more places every day, and it's 
+helping Americans get more done faster and more efficiently.
+    There's no doubt this is a big moment for both America and 
+the rest of the world, but the question before us today is 
+this: Will we respond to it with more freedom or with more 
+government control?
+    America has always led the way in innovation, not because 
+we have the biggest government, but because we have trust in 
+our people. We believe in free markets, competition, and 
+limited government. That's what built our economy, and that's 
+how we've created new technologies from the light bulb to the 
+smartphone, and that's why the United States--not China or 
+Europe--has been the global leader in innovation for over a 
+century. That same model is working in AI.
+    The story we hear sometimes is that a few big companies are 
+dominating the AI sector. When you look closer, the story 
+unravels throughout this industry. There is real competition 
+happening at every layer of the AI sector, in cloud 
+infrastructure, in AI models, and in tools and applications.
+    It's true that big tech plays a role in this sector, but to 
+also have startups, open-source developers, university labs, 
+and solo engineers pushing the boundaries of this exciting new 
+technology. Small businesses are using AI to do things they 
+never could afford before: Automate routine tasks, improve 
+customer service, analyze data, write content, design products, 
+and more.
+    AI is helping the little guy compete with the big guys. 
+It's lowering the barriers to entry across the board. This 
+isn't a monopoly story. It's a success story. It's the free 
+market doing what it does best.
+    Unfortunately, some in government want to step in and start 
+regulating before they even understand what they are 
+regulating. They want to create sweeping new rules, or even 
+whole new agencies to oversee AI under the claim of safety and 
+of fairness. They want to decide which models are, quote, 
+``responsible,'' which tools are, quote, ``approved,'' and 
+which approaches are fair and who gets to build what. That's 
+very dangerous.
+    We see this same saga playing out time and time again. 
+Overregulation can kill innovation. When the government inserts 
+itself too early, it locks in incumbents, drives up costs, and 
+freezes the market, startups get squeezed, the rules benefit 
+the insiders, and innovation slows to a crawl.
+    Meanwhile, our competitors, especially in China, aren't 
+waiting around. They're pouring billions into AI development. 
+They're using it to monopolize their military, monitor their 
+citizens, and try to leapfrog the U.S. on the global stage to 
+the detriment of Democrat principles and values.
+    Over in Europe, the EU is rolling out a top-down AI 
+regulatory regime that already is causing problems for American 
+companies trying to do business overseas. The rules are vague, 
+burdensome, and constantly shifting. They've been written by 
+bureaucrats who aren't accountable certainly to the American 
+people.
+    We should not copy China's model of control, and we should 
+not copy Europe's model of overregulation. We need to stay true 
+to what works, and that is free enterprise, open competition, 
+and light-touch regulatory approach that allows innovation to 
+flourish.
+    That doesn't mean we ignore real problems. We should 
+enforce our existing antitrust laws if companies are abusing 
+their market power. We should be on guard against fraud, abuse, 
+and national security threats. We don't need a heavy-handed new 
+regulatory regime to do that.
+    What we need is to keep the U.S. the best place in the 
+world, to build, test, and deploy AI. That means making room 
+for new entrants, it means protecting free speech in the 
+digital age, and it means making sure American entrepreneurs, 
+not unelected regulators, are the ones shaping the future of 
+this technology.
+    AI is a tool. Whether it helps or harms depends on how we 
+use it, and whether we keep the freedom to innovate, adapt, and 
+compete. The worst thing we can do is let fear drive us into 
+giving up control to Washington, to Brussels, or to Beijing. 
+The American model has always been the best model. Let's stick 
+to it.
+    I want to thank the witnesses for appearing before us 
+today, and I look forward to hearing what each of you has to 
+say.
+    I now recognize the Ranking Member, Mr. Nadler, for his 
+opening statement.
+    Mr. Nadler. Thank you, Mr. Chair. Thank you to our 
+witnesses, particularly to Commissioner Bedoya for joining us 
+today.
+    As we examine innovation and competition with respect to 
+artificial intelligence, we must keep in mind three simple 
+truths:
+
+  First, there is no artificial intelligence exception to the 
+        antitrust and consumer protection laws.
+  Second, there is no DOGE exception to Federal privacy 
+        protections.
+  Third, there is no Presidential exception to following 
+        Federal laws.
+
+    It is a sad comment on the time we find ourselves in that 
+these undeniable and basic propositions must be continually 
+affirmed. AI technology is rapidly advancing and promises to 
+transform our society in ways we cannot even imagine today. 
+While AI will deliver many economic and social benefits, it 
+also poses tremendous risks that we are just beginning to 
+grapple with. With control of AI technology in the hands of 
+just a few entrenched companies, it is important that we keep a 
+watchful eye on the industry, with thoughtful regulation that 
+will foster growth and innovation while protecting consumers.
+    One of the most critical tools in this effort is antitrust 
+and consumer protection enforcement, led by the Federal Trade 
+Commission, an independent administrative agency that was 
+created more than 110 years ago by Congress as the Nation was 
+beset by powerful monopolies that dominated core industries and 
+society. Its specific mission is protecting the public from 
+deceptive or unfair business practices and from unfair methods 
+of competition.
+    Its structure is deliberately bipartisan with no more than 
+three members of the five-person commission able to be from a 
+single party. This makeup, along with the fact that the 
+commissioners are meant to serve staggered seven-year terms, 
+and are removable only for very specific causes, is designed to 
+increase the independence, and, thereby, the prestige of the 
+Commission.
+    We need the FTC now more than ever as we confront an AI-
+induced wave of competition, consumer protection, and privacy-
+related issues. Yet, the Trump Administration is undermining 
+the single agency best positioned to address them.
+    Years before ChatGPT burst onto the scene, the FTC was 
+already working to protect consumers by stopping the largest 
+semiconductor chip merger in history. Chips are an essential 
+input to AI, and blocking this merger helped protect innovation 
+by preserving competition for this vital tool. Using their 
+unique power as part of the Commission's study function, the 
+FTC also produced the report examining AI investments and 
+partnerships that would best enable the agency to ensure that, 
+when dominant companies pursued these practices, they did not 
+undermine competition and innovation.
+    With more and more companies relying on AI to make 
+fundamental decisions that affect consumers, the FTC has also 
+carefully examined the algorithms that power these systems. In 
+particular, the commissioners tackled algorithmic bias and 
+algorithmic collusion, which is when a computer system 
+systematically produces unfair outcomes or is used to engage in 
+anticompetitive pricing, respectively.
+    This work is essential to ensure that as AI develops, it 
+serves the American people. If we are serious about promoting 
+competition and innovation in AI, we need a strong FTC to 
+enforce the law. Instead, the Trump Administration has done all 
+it can to hobble the agency and to weaken enforcement of 
+antitrust and consumer protection laws.
+    Even more troubling, while with one hand, the 
+administration is undermining regulation of AI, with the other 
+hand it is handing massive troves of sensitive data on millions 
+of Americans to Elon Musk and his DOGE team that could be used 
+to deploy AI throughout the government. Governmental processes, 
+their workflows, and the use and interpretation of government 
+data are highly complex. There is scant evidence, however, that 
+AI can be successfully deployed in government on such a far-
+reaching scale.
+    Musk and DOGE seem intent on forcing the American people to 
+embark on a grand experiment based on little more than their 
+faith in AI technology, an experiment that places all our 
+privacy and security at great risk.
+    While all this unfolds, Commissioner Bedoya should be 
+participating in any number of matters protecting consumers. 
+Even as a minority commissioner, he and his stellar Democratic 
+commissioner, Rebecca Slaughter, occupy an important and 
+congressionally mandated role. They are fundamental to infusing 
+commission deliberations and decisions with a bipartisan 
+dimension.
+    Oftentimes, minority commissioners influence the outcome or 
+logic of the decision. Even when they do not, they perform the 
+essential function of providing transparency into the process, 
+including by highlighting key concerns in their dissents.
+    Instead of working to enhance competition in the AI 
+industry, and ensuring that proper safeguards are in place, 
+they're forced to contest their blatantly unlawful termination 
+by President Trump. This unprecedented power grab followed 
+similar efforts to remove Democratic Members of other 
+independent agencies without cause.
+    As one court noted, these efforts, quote,
+
+        Threatened to upend fundamental protections in our 
+        Constitution, but ours is not an autocracy. It is a system of 
+        checks and balances.
+
+Just as unchecked power by monopolies in the marketplace does 
+not secure the best outcomes for consumers, unchecked 
+government power does not secure the best outcomes for our 
+democracy. We should be mindful of both points as we begin 
+today's hearings.
+    I look forward to hearing from our witnesses, and I yield 
+back my time.
+    Mr. Fitzgerald. The gentleman yields back.
+    I now recognize Chair of the Full Committee, Mr. Jordan, 
+for his opening statement.
+    Chair Jordan. Thank you, Mr. Chair. American innovators 
+have always led the world, because we've always protected free 
+markets, limited government, and individual liberty. When it 
+comes to AI, the Biden Administration turned its back on 
+innovators and entrepreneurs.
+    Rather than trusting American ingenuity, the Biden 
+Administration tried to put Washington in charge, empowering 
+unelected and unaccountable bureaucrats. Who paid the price? 
+The very people we should be empowering. The startups trying to 
+challenge big tech, the researchers building open models, the 
+platforms that actually support free speech.
+    Meanwhile, around the world, we see the dangers of pursuing 
+the wrong approach to AI innovation. We see China pouring 
+billions of dollars into AI development to weaponize the 
+technology. We see Europe smothering innovation with 
+overregulation and impossible compliance burdens.
+    We should be clear; America must lead on AI. To do that, we 
+need to protect free speech, preserve real competition, and get 
+the government out of the way. That means (1) no back-door 
+censorship; (2) no weaponizing antitrust law to reward 
+political allies and punish dissent; and (3) letting no 
+international bodies or unelected regulators set the rules for 
+American technology.
+    Thankfully, President Trump--we have a President focused on 
+unleashing American innovation, on cutting red tape, and on 
+protecting free expression, and on making sure AI development 
+happens here, not in China, not in Europe. Under President 
+Trump's leadership, the focus is right where it should be: 
+Keeping America competitive, preserving free speech, and 
+getting the government out of the way.
+    Today's hearing is about how we protect innovation, protect 
+liberty, and ensure that AI remains a force for freedom, not 
+for control.
+    I want to thank our Chair for calling this hearing, and I 
+look forward to hearing from our witnesses. I yield back.
+    Mr. Fitzgerald. Gentleman yields back.
+    Without objection, all other opening statements will be 
+included in the record.
+    We will now introduce today's witnesses.
+    Mr. Neil Chilson. Mr. Chilson is the head of AI policy at 
+the Abundance Institute, a nonprofit organization focused on 
+emerging technology. He previously served as the Chief 
+Technologist at the Federal Trade Commission and as an attorney 
+adviser to then-FTC Acting Chair, Maureen Ohlhausen.
+    Mr. Joe Coniglio. Mr. Coniglio is the Director of Antitrust 
+and Innovation at the Information Technology and Innovation 
+Foundation where he leads the Schumpeter project on competition 
+policy. He focuses on digital platform, monopolization policy, 
+and dynamic competition.
+    Ms. Jessica Melugin. Ms. Melugin is the Director of the 
+Center for Technology and Innovation at the Competitive 
+Enterprise Institute. Her research focuses on technology 
+issues, including antitrust, online privacy, artificial 
+intelligence, telecommunications, and other issues.
+    Mr. Alvaro Bedoya. Mr. Bedoya is the former Commissioner at 
+the Federal Trade Commission. Prior to his appointment to the 
+FTC, he founded the Center on Privacy and Technology at the 
+Georgetown University Law School.
+    We welcome our witnesses and thank them for appearing 
+today. We will begin by swearing you in.
+    Would you please rise and raise your right hand.
+    Do you swear or affirm under penalty of perjury that the 
+testimony you're about to give is true and correct to the best 
+of your knowledge, information, and belief, so help you God.
+    Let the record reflect that the witnesses have answered in 
+the affirmative. Thank you and please be seated.
+    Please know that your written testimony will be entered 
+into the record in its entirety. Accordingly, we ask that you 
+summarize your testimony in five minutes.
+    Without objection, Mr. Kiley will be permitted to 
+participate in today's hearing for the purpose of questioning 
+the witnesses if a Member of the Subcommittee yields him time.
+    Please know that your written testimony will be entered in 
+the in its entirety. Mr. Chilson, you may begin.
+
+                   STATEMENT OF NEIL CHILSON
+
+    Mr. Chilson. Thank you, Chair Fitzgerald, thank you to the 
+Chairs and Ranking Members of the Full Committee, and to 
+Ranking Member Correa, and the distinguished Members of the 
+Subcommittee.
+    Thank you for inviting me to testify today. I'm Neil 
+Chilson. I'm the head of AI Policy at the Abundance Institute. 
+We are a nonprofit dedicated to creating policy and cultural 
+environments that allow emerging technologies to thrive and 
+expand human prosperity.
+    Last year, American AI startups raised more than $97 
+billion or approximately half of the entire Apollo program. At 
+least 49 different U.S. AI startups raised more than $100 
+million just last year. These are record numbers, and they're 
+just getting started.
+    I'm here to make a simple but important point. 
+Economically, AI isn't an industry or a market. It's an 
+ecosystem of thousands of companies, and the U.S. AI ecosystem 
+is vibrant and remarkably competitive at every level. From 
+chips to cloud infrastructure, from foundation models to 
+applications, we're seeing intense competition driving rapid 
+innovation and democratizing access to powerful AI 
+capabilities.
+    Consider that 11 different developers last year globally--
+across the globe achieved a GPT-4 level model, one of the most 
+advanced types of AI models; or that market shares in cloud 
+computing continued to shift with established players and 
+startups pressuring each other. The AI enterprise service 
+market is highly fragmented, the leading firm holding a mere 
+seven percent.
+    These are not signs of concentrated power. They're evidence 
+of healthy competition. This competitive environment is 
+spreading the benefits of AI widely. AI capabilities that were 
+cutting-edge, or even unimagined just a few years ago, are now 
+widely accessible or even free.
+    For example, many of you may have seen the most recent 
+generation of Studio Ghibli themes online. This type of use of 
+powerful image generation which once required specialized 
+knowledge and powerful computers is now available for anyone 
+for free or maybe pennies per image.
+    AI services keep getting better and cheaper with AI-API 
+access for the leading models dropping in price by 80 or 90 
+percent last year. Lower prices opened up new use cases and 
+power small businesses and new market entrants. Open-source AI 
+models are a particularly powerful vector of competition. Open 
+models level the playing field, reduce barriers to entry, and 
+give smaller players access to cutting-edge AI technology 
+without needing massive resources to train their own models. 
+This sector is growing fast; Aggregator hugging face, which 
+hosts more than a million different open source models for 
+different purposes.
+    For the most advanced models, open AI just this week, just 
+yesterday, announced that they will soon release an open-
+weights model joining major players like Meta and DeepSeek. The 
+vibrant AI ecosystem in America does face a threat, however. 
+Miscalibrated regulation. Regulation often entrenches incumbent 
+firms by creating barriers that new competitors cannot 
+overcome, and compliance costs disproportionately burden 
+smaller newer firms giving established players a competitive 
+advantage.
+    The Trump Administration recognizes this threat of 
+regulation and has shifted the Federal conversation in AI from 
+one that's based on fear to one that's focused on opportunity. 
+This is a welcome change.
+    At the State level, however, there are more than 900 bills 
+proposing to regulate AI, and they've been just introduced 
+since January. While often well-intentioned, this emerging 
+patchwork of regulation threatens to undermine both domestic 
+competition and our national competitiveness.
+    Congress should meet this challenge by creating a 
+consistent national regulatory approach to AI that maximizes 
+freedom for general purpose AI technology, while clarifying 
+obligations in specific applications, such as healthcare or 
+transportation. There are more detailed ideas in my written 
+testimony.
+    In conclusion, the U.S. AI ecosystem is remarkably 
+competitive and innovative, spreading access to powerful tools. 
+To sustain this vibrant competition and to maintain American 
+leadership, policymakers should clear regulatory barriers and 
+resist raising new ones. By doing so, we can preserve the 
+dynamic nature of AI and continue reaping its enormous economic 
+and social benefits in the years to come.
+    Thank you for your attention, and I welcome your questions.
+    [The prepared statement of Mr. Chilson follows:]
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Fitzgerald. Thank you, Mr. Chilson. Mr. Coniglio, you 
+may begin.
+
+                STATEMENT OF JOSEPH V. CONIGLIO
+
+    Mr. Coniglio. Chair Fitzgerald, Ranking Member Nadler, and 
+Chair Jordan and esteemed Members of the Subcommittee, I'm 
+honored to be here today.
+    In my remarks, I'm going to highlight three key areas where 
+I believe AI and antitrust overlap, and critique three policy 
+frameworks for dealing with AI. In my view, AI provides no 
+reason at this time for either heavy-handed antitrust 
+enforcement or changing fundamentally our antitrust laws.
+    First, the AI industry is highly competitive and developing 
+in a way that is consistent with the healthy innovation 
+competition that typifies high tech markets. Firms like Nvidia 
+reinvented themselves with huge success to lead and recoup 
+their investments in chips, while a number of newer players, 
+like OpenAI and Anthropic, are flourishing at the model level, 
+in part, due to partnerships with large digital incumbents.
+    Indeed, not only is competition robust among cloud 
+providers, it is a testament to big tech firms not resting on 
+their laurels, but aggressively also competing at many levels 
+of the AI stack.
+    Second, AI is already being heralded as the next general-
+purpose technology that, like the internet, will transform our 
+economy. As the past four years make clear, the stakes for 
+getting competition policy right are high. Whereas, the U.S. 
+pursued deregulation and a consumer welfare antitrust model 
+that was conducive to the innovation and growth that helped 
+preserve its share of global wealth amidst China's rise, Europe 
+continued with an antitrust framework more suited to protecting 
+competitors, missed the digital revolution and saw its share of 
+global wealth fall by almost half.
+    Importing a European-style competition policy to America 
+risks repeating this mistake with AI and ultimately benefiting 
+China in its own quest for AI dominance.
+    Third, the question of how AI will affect the antitrust 
+enterprise itself. For example, when it comes to combating 
+collusion, some have suggested that AI algorithms may make it 
+easier for firms to form and police cartel agreements, as well 
+as facilitate oligopoly outcomes without an agreement and, 
+thus, avoid antitrust scrutiny.
+    On the other hand, not only has the Department of Justice 
+already brought AI-related algorithmic collusion cases using 
+its existing tools, which in the future, could even be enhanced 
+by AI technologies that make it easier to detect cartels, but 
+AI may also increase firms' incentive to disrupt cartel 
+behavior, resulting in less collusion throughout the economy.
+    In the face of these complex issues, I want to now discuss 
+three flawed antitrust enforcement approaches policymakers may 
+be tempted to adopt.
+    First, the idea that antitrust is more important than ever 
+before. Some worry that AI will increase concentration 
+throughout the economy by virtue of network effects and 
+increasing returns to scale in ways that make it hard for 
+markets to self-correct. These concerns, which result in the 
+antitrust laws themselves, overlook the cost-reducing potential 
+of AI, which also may lower barriers to entry for small- and 
+medium-sized businesses and create competition.
+    Moreover, increased concentration not only isn't bad when 
+it's driven by lower costs that reduce prices for consumers, 
+but it often empowers the incentives and abilities that spur 
+innovation.
+    Second, there is the contrary view that, because AI is so 
+disruptive, there's little need to enforce the antitrust laws 
+at all. Indeed, a similar debate was had during the internet 
+revolution and noted in the seminal Microsoft case, where the 
+court discussed how, in technologically dynamic markets, 
+monopoly power may only be temporary. While, like the internet, 
+AI is poised to bring tremendous benefits and disruption, the 
+past 40 years have taught us to be wary of formalizing 
+theoretical assumptions of market self-correction.
+    Antitrust still matters, and we should continue to 
+carefully examine market realities for anticompetitive conduct 
+in age of AI.
+    Third, there is the notion that AI may undermine the very 
+market competition upon which antitrust law is premised. Some 
+commentators have claimed that AI may even render markets 
+obsolete through more sophisticated calculation techniques that 
+could make regulation superior. The central problem with this 
+perspective is that it's based on a static understanding of how 
+market competition works.
+    More dynamic competitive processes will undercut the 
+justification for State central planning and regulation in a 
+way that reaffirms the importance of healthy, well-functioning 
+markets.
+    In conclusion, I think the right approach is to maintain 
+antitrust law's traditional focus on promoting competition and 
+innovation by prescribing collusive and exclusionary 
+anticompetitive conduct. This has, since the passage of the 
+Sherman Act, withstood and helped manage the creative 
+destruction that worked to make America the world leader that 
+it is today. Ensuring that competition policy remains tethered 
+to these principles is essential for preserving American 
+leadership into the 21st century amidst the new wave of 
+general-purpose technical change that is AI.
+    Thank you, and I look forward to your questions.
+    [The prepared statement of Mr. Coniglio follows:]
+   [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Fitzgerald. Thank you, Mr. Coniglio. Ms. Melugin, you 
+may begin.
+
+                  STATEMENT OF JESSICA MELUGIN
+
+    Ms. Melugin. Chair Fitzgerald, Ranking Member Nadler, and 
+distinguished Members of the Committee, thank you for holding 
+this hearing today and inviting me to participate.
+    My work focuses on technology and antitrust with the 
+Competitive Enterprise Institute, a nonpartisan public policy 
+organization that concentrates on regulatory issues from a free 
+market perspective. I'm also an antitrust and competition 
+fellow at the Innovators Network Foundation.
+    I am pleased to have the rare opportunity to speak to you 
+today about a bipartisan goal: That of ensuring the United 
+States remains the leader on artificial intelligence 
+technologies.
+    While reasonable people can disagree about the challenges 
+AI might bring, almost everyone recognizes the technology's 
+vast potential for economic efficiency gains, life-saving 
+medical breakthroughs, environmental benefits, and more. There 
+is similar consensus around the importance of our country 
+winning the global race for AI dominance ahead of various 
+authoritarian regimes around the world, including China.
+    This broad political agreement can be found in last year's 
+bipartisan House task force report on artificial intelligence 
+that emphasizes the economic and national security importance 
+of AI's success for the United States.
+    If all agree that a flourishing domestic AI industry is 
+critical, we should next identify the biggest threat to 
+continued U.S. dominance in the field; namely, government 
+overreach. Alongside the growing patchwork of State-level AI 
+regulations that I would encourage this Congress to consider 
+preempting--but that's a whole other hearing--the threat of 
+overzealous antitrust regulation looms large.
+    Default antitrust approach to AI in the U.S. should be one 
+of humility by regulators. However well-intentioned, antitrust 
+enforcers are no better than anyone else in foretelling the 
+future and certainly not clairvoyants capable of ex ante 
+regulation of a quickly evolving technology.
+    Antitrust enforcement in the tech sector has been 
+particularly poor. From an abandoned IBM suit that lasted 13 
+years to a Microsoft case where innovation in the market 
+largely rendered the charges moot, litigating antitrust in tech 
+is especially challenging.
+    We can look across the pond to the European Union for an 
+even more cautionary tale in overregulation and excessive 
+antitrust enforcement. The result is that in the U.S., with its 
+relatively light-touch regulatory regime and consumer welfare 
+driven antitrust approach, we boast eight of the top 10 global 
+tech firms by market cap, with Europe unable to claim even one.
+    Currently, the EU has an AI regulatory framework much 
+larger than its AI industry, putting them on the now familiar 
+path to diminished prosperity. We needn't make the same mistake 
+here. We know what regulatory framework leads to success and 
+can course correct for the harmful antitrust trends of the last 
+four years.
+    The embrace of a big-is-bad approach to antitrust 
+enforcement at the prior administration's Federal Trade 
+Commission and Department of Justice must be reversed. It's 
+critical that America's AI ecosystem has both large established 
+firms with their vast resources for research and development, 
+and vibrant small startups with their nimbleness and 
+innovation.
+    In many cases, startups rely on the expectation of 
+eventually being profitably acquired by large firms to secure 
+early funding. This is why continued regulatory hostility to 
+mergers and acquisitions is a recipe for stifled AI growth.
+    We must also return to an economics-based approach to 
+identifying competitive problems should they arise. Whatever 
+challenges outside of measurable economic concerns AI might 
+bring, antitrust law will be the wrong tool for correcting 
+them. Refocusing enforcement on consumer welfare and away from 
+ambiguous vague social goals will be a productive improvement 
+over the last several years.
+    What are the current facts on the ground for AI competition 
+landscape right now? So far, competition seems to be thriving 
+in what is a nonunitary market from hardware to the data layer 
+to algorithms and applications.
+    Then newcomer OpenAI had a meteoric rise to popularity with 
+its debut of ChatGPT in November 2022, and is holding its lead 
+over even the biggest established tech competitors as the most-
+used large language model. Those tech giants plan to spend more 
+than $300 billion this year investing in AI technologies, which 
+is not the behavior one would expect from entrenched 
+monopolists insulated from competitive pressures.
+    The presence of multiple open source models that allow the 
+little guys to build on those already established models 
+ensures beneficial competitive pressure and leaves space for 
+innovation.
+    The current State of competition in AI is strong. The 
+threat of premature and unwarranted antitrust intervention 
+poses one of the greatest threats to global U.S. 
+competitiveness.
+    Thank you for this opportunity to testify, and I look 
+forward to your questions.
+    [The prepared statement of Ms. Melugin follows:]
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Fitzgerald. Thank you, Ms. Melugin. Mr. Bedoya, you may 
+begin.
+
+                 STATEMENT OF ALVARO M. BEDOYA
+
+    Mr. Bedoya. Thank you, Chair Fitzgerald, Ranking Member 
+Nadler, Chair Jordan, and the Members of the Subcommittee. 
+Thank you for having me here.
+    Right now, people think that a successful AI startup needs 
+four things: Chips, cloud, training data, and the people to 
+train those models and deploy them. So, right now, there are 
+races being run to secure access to those four key inputs.
+    In the time I have with you today, I want to issue three 
+warnings about those races. First, I want to warn that certain 
+agreements between major AI developers and two of the biggest 
+cloud service providers may be limiting the availability of 
+those cloud providers to those smaller innovative startups.
+    Just this January, FTC issued a staff report. We looked at 
+three partnerships between the major cloud providers and the 
+major AI developers out there. The report showed that cloud 
+providers typically got things you expect, equity, a share in 
+revenue from those AI developers. The agreements also required 
+the AI developers to spend a lot of the investment from the 
+cloud provider on cloud services from the cloud provider.
+    Now, unfortunately, these kinds of terms may be 
+incentivizing those cloud providers to limit access to their 
+platforms away from AI startups who they're not partnered with. 
+Unfortunately, this is not hypothetical. There were actually--
+there was actually an internal document from one of those cloud 
+providers that said, quote,
+
+        We are unable to serve a growing number of startups who need 
+        bursts of graphics processing unit capacity to train and 
+        release their models.
+
+    So, I agree, we want a world where a scrappy startup can 
+eat a powerful incumbent. We have to ask if these kind of 
+agreements, this kind of vertical integration, is leading us 
+away from that kind of innovation. That's the first warning.
+    I also want to address the race to collect and retain data 
+because in the race to scrape by access, all kinds of human-
+generated data, I'm afraid that a lot of AI developers are 
+collecting and keeping data that a lot of us would consider 
+deeply private.
+    So, here's an example. In 2023, the FTC alleged that, by 
+default, Alexa was keeping recordings of kids' voices forever, 
+and it wasn't just that. Even when parents said, ``Hey, Alexa, 
+I want you to delete that,'' Alexa wasn't doing that; it was 
+actually keeping the transcripts of that information.
+    Now, anyone who is a parent should stop and ask themselves, 
+what on Earth does my kid need to say to a smart speaker for me 
+to stop everything and say, Oh, no, we need to delete that 
+data. That's not what happened.
+    Here's a key thing, though. The FTC alleged that one of the 
+reasons Alexa--Amazon gave for retaining that data was their 
+need to train their voice recognition algorithms. So, that's my 
+second warning. We have to remind companies that the need to 
+train your algorithm doesn't override the need to follow the 
+law, including privacy law and kids' privacy law.
+    Here's the third and last flag. There's been a lot of 
+attention--and I think for good reason--paid to the apparent 
+collection and use of copyrighted works to train models. My 
+colleague, Mr. Chilson, mentioned the Studio Ghibli algorithm 
+that's out. I'm afraid we aren't paying enough attention to the 
+collection and training--of training data about people who are 
+in no way famous. Working people. Let me give you a quick 
+example.
+    During the actors' strike, a prominent director, Justine 
+Bateman, posted online asking if any extras--these are folks 
+known as background actors--if any of them had ever been asked 
+to submit to body scans on set. Suddenly these stories started 
+pouring in, people saying, yes, I got tapped on the shoulder, I 
+was told to go to this tent, and I stepped in there, and I was 
+scanned 360 degrees, head to toe. I asked why; they didn't tell 
+me. I asked if I was going to get paid; they didn't give me 
+anything. The few people who found out were told, Oh, yes, this 
+is to add you in later if we want to. Of course, at no 
+additional pay.
+    I'm talking about this because scanning people at their 
+jobs to replace them at those jobs is becoming common outside 
+of Hollywood. So, this is starting to happen in customer 
+service call centers. These are jobs that used to provide high 
+school graduates with a path to the middle class, but now 
+they're rife with surveillance. A lot of that surveillance 
+appears to be aimed at recording the best performers to create 
+algorithms that are marketed as replacements for the workers at 
+those call centers.
+    So, in closing, I would respectfully urge the Subcommittee 
+to not just look at competition between AIs, but competition 
+between AIs and workers, because it raises some pretty 
+fundamental questions like how do you compete with a digital 
+version of yourself who can work 24 hours a day seven days a 
+week with no break, no vacation, and no benefits? Is it fair to 
+force you to train your AI replacement? Is it fair to force you 
+to do it without your knowledge?
+    As I explained in my testimony, I think this is a great 
+reason to pass a workplace privacy law.
+    Thank you again, Mr. Chair, Ranking Member Nadler for the 
+opportunity to testify. I'm glad to answer any questions you 
+may have.
+    [The prepared statement of Mr. Bedoya follows:]
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Fitzgerald. Thank you very much, Mr. Bedoya.
+    I'll now proceed under the five-minute rule with questions. 
+I'm going to recognize myself.
+    In recent remarks at the AI Summit in Paris, Vice President 
+JD Vance stated that AI presents the extraordinary prospect of 
+a new industrial revolution, but it will never come to pass if 
+overregulation deters innovators from taking the risks 
+necessary to advance the ball. He was referring to the European 
+Union's Digital Markets Act, and AI Act.
+    Ms. Melugin, why would replicating Europe's heavy-handed 
+regulation of AI in the U.S. certainly be maybe unwarranted, or 
+even premature?
+    Ms. Melugin. It's kind of the European Union to have run 
+this experiment for us. It has not gone well. Their first big 
+attempt at digital regulation, the GDPR ended up hurting the 
+entire industry, but mostly hurting the little guy 
+disproportionately, which we would see the same here with a lot 
+of the regulatory moves. The big entrenched accused 
+monopolists, or just market leaders, depending on your 
+perspective, might have the resources to comply with a lot of 
+those regulations, but the runway is not clear for the next big 
+success story.
+    That's what you have to keep in mind, that a lot of times, 
+the companies that have a seat at the table might be able to 
+make this work, but we don't know what's being developed in 
+someone's garage right now that can be the next big thing. That 
+goes to the general approach in Europe, which has been that if 
+you're chilled in your innovation by worrying that everything 
+you do, every new business arrangement, every new idea could be 
+running afoul of one of the many--the DMA, the DSA, and the 
+GDPR, it just has an overall chilling effect on that industry, 
+and, of course, relatedly, on investment in that industry.
+    Frankly, the U.S. really doesn't have that time. If China--
+I don't think it's an overstatement to say they're nipping at 
+our heels in terms of the AI race. What those companies and 
+those industries are doing in China is not the regulatory 
+framework you see in the U.S., but it's also very much not the 
+one you see in the EU. It's no coincidence that you find all 
+three of those segments in a different order of success. We 
+want to make sure we keep ourselves out front.
+    As I said in my testimony, the European Union doesn't have 
+one of the top 10 global businesses. Again, that's not to say 
+that the small companies aren't important, too, to develop here 
+in the U.S. You certainly need the scaling abilities of large 
+companies, the research and development resources of these 
+large companies. You want a healthy ecosystem with the big guys 
+and the small guys. Adopting a European approach won't allow 
+that to happen at either level here in the U.S.
+    Mr. Fitzgerald. The Netherlands-based software firm, Bird, 
+which has been recognized kind of globally at this point, is 
+moving out of the EU as a direct result of the AI Act. What 
+they said was that Europe regulators are just killing 
+innovation within the EU.
+    You think there's lessons already that can be learned here 
+in the States from what we've witnessed on some of these 
+examples of what's transpiring overseas?
+    Ms. Melugin. Yes. I don't even think you have to abstract 
+very much. The EU AI Act that those regulators bragged about 
+being the first to regulate AI--which to some of our ears, 
+doesn't sound like something to brag about--means that a lot of 
+the U.S. companies that rolled out AI products that consumers 
+have found incredibly useful, have been very popular here in 
+the U.S., they were delayed in Europe because they weren't sure 
+that they could comply with all the rules and regulations.
+    At the worst-case scenario, you don't get those 
+innovations, constituents don't get those services and those 
+tools. The best-case scenario is that they're delayed because 
+of regulatory overview. Again, that's an example where the 
+little guy who is innovating something new maybe doesn't have 
+the team of lawyers that the big guys do. I don't think we want 
+to set up that dynamic here in the U.S.
+    Mr. Fitzgerald. Very good. Mr. Coniglio, you just cautioned 
+against overregulation in your testimony. You note that robust 
+antitrust enforcement promote customer welfare and innovation 
+to remain a policy focus. Can you just elaborate kind of 
+further on that point?
+    Mr. Coniglio. Absolutely. Thank you for the question.
+    Ms. Melugin pointed out the lessons we learned from 
+regulation. I will note, the U.S. also has some lessons that it 
+learned from deregulation about how deregulation can spur 
+economic growth and innovation. There's also a very important 
+story to tell regarding competition policy, and specifically, 
+two different approaches that were taken over the past 40 years 
+between America and Europe on competition policy.
+    At a high level, Europe's approach was very much focused on 
+protecting competitors. It wanted to see markets where there 
+were a lot of small firms. America's approach was focused on 
+not condemning size in and of itself but focusing on consumer 
+welfare and innovation.
+    If you look most recently at the Draghi report that was 
+issued in Europe, it was very clear that the digital revolution 
+that happened in America has really driven the productivity gap 
+between the United States and Europe that's occurred. Antitrust 
+is not the sole reason for that, but I think it's part of the 
+reason. Because if you have an antitrust policy that's not 
+conducive to innovation and consumer welfare, and instead, 
+focusing on protecting small competitors, you're not going to 
+see the dynamic innovation competition that's really driven the 
+digital industry in America, and which, in part, large firms 
+can also play a big role in driving that innovation.
+    Mr. Fitzgerald. Thank you very much. My time has expired.
+    I'm going to recognize the Ranking Member, Mr. Nadler, for 
+five minutes.
+    Mr. Nadler. Thank you, Mr. Chair.
+    Commissioner Bedoya, one of the many areas in which the 
+Federal Trade Commission has distinguished itself in its 
+groundbreak-
+ing activity to combat anticompetitive practices in the 
+pharmaceutical industry. Whether it's the pay-for-delay cases 
+or efforts to fight misuse of the FDA publication called the 
+Orange Book, the FTC has been at the cutting-edge.
+    That's why I was so disturbed to see that yesterday, the 
+FTC's general counsel stayed the administrative adjudication of 
+the commissioner's case against the three largest pharmacy 
+benefit managers over the price of insulin. The effort to bring 
+down prices for consumers is just one example of the work you 
+were doing before President Trump attempted to remove you from 
+office.
+    Can you explain the costs to be borne by consumers 
+associated with the President's unlawful attempt to fire you 
+and Commissioner Slaughter?
+    Mr. Bedoya. Thank you, Ranking Member Nadler. Maybe I can 
+just talk about this case. I'm pretty sure everyone in the room 
+cares about the cost of insulin. This is a case where FTC staff 
+is alleging that these pharmacy middlemen--they're called PBMs, 
+pharmacy benefit managers--are competing not to lower the price 
+of insulin, which is how markets normally should work, they 
+allege instead that these pharmacy middlemen are competing to 
+raise the price of insulin.
+    Commissioner Slaughter, who I'm joined--
+    Mr. Nadler. Competing or colluding?
+    Mr. Bedoya. Pardon me? I didn't hear the first part--
+    Mr. Nadler. Competing or colluding?
+    Mr. Bedoya. What was the first--beating or colluding?
+    Mr. Nadler. Competing or colluding?
+    Mr. Bedoya. Competing. The allegation in the complaint is 
+there's competition to raise the prices.
+    I'm joined by Commissioner Slaughter. She and I are the 
+only judges who are presiding over that case in an appellate 
+manner because our colleagues, Chair Ferguson and Commissioner 
+Holyoak, are both recused.
+    Now that it's the administration's contention that we are 
+removed, there are no judges to adjudicate that case. The 
+pharmacy middlemen have moved to stay it. That move--that stay 
+was granted--that request for stay was granted yesterday, and 
+this case won't be adjudicated for at least another 105 days. 
+That's 3\1/2\ months. The evidentiary hearing, I understand, 
+will occur even later.
+    Basically, it's permanent--not permanently, but 
+indefinitely on ice, and I don't think anybody wins from having 
+a case like that not adjudicated.
+    Mr. Nadler. Thank you. We know that, unfortunately, one of 
+the ways new technologies is deployed is to find ways to break 
+the law. Is computer-generated pricing or algorithmic pricing 
+being deployed to violate the antitrust laws, and what can the 
+FTC do about it?
+    Mr. Bedoya. One of the things we're hearing a lot are 
+allegations that, instead of outright colluding--to use your 
+term--just sitting down in a smoky room like the Beef Trust did 
+in Chicago in the early 1900s and just set prices.
+    What a lot of competitors are doing is saying, Oh, no, no, 
+we compete, but we happen to use the same algorithmic pricing 
+software. Although there are allegations, for example, in the 
+RealPage lawsuit from DOJ that they are, in fact, also picking 
+up the phone and just straight up colluding, increasingly what 
+you see are cases where they just use the same software. This 
+is absolutely a core concern.
+    The FTC has issued various requests for information around 
+aspects of this. We issued an interim report around algorithmic 
+pricing in January, and it's something we need to continue to 
+track closely.
+    Mr. Nadler. Thank you. We all recognize that AI carries 
+with an enormous potential, as well as possible perils. We also 
+all recognize that it's a field that continues to develop often 
+at a rapid clip.
+    Can you explain why the FTC's involvement in evolving 
+industries, even while they're undergoing changes, is a good 
+thing?
+    Mr. Bedoya. Absolutely. I understand folks who say, ``You 
+don't want too aggressive antitrust enforcement, that's a bad 
+thing.'' For me, the case that jumps out is the case you 
+mentioned, the proposed Nvidia-Arm merger. Nvidia is a chip 
+supplier, Arm is a chip designer; it's a vertical deal. Arm was 
+valued at the time of that deal at $40 billion. FTC sued. They 
+dropped that merger. As of 9:58 this morning, Arm was valued at 
+$114 billion.
+    The answer to your question, Congressman Nadler, is that's 
+so the market can continue to evolve; so that scrappy startup 
+can access all of these critical resources that the companies 
+like these provide without the limitations like the ones I 
+referenced in my opening statement where the incumbents are 
+getting locked in and startups are getting squeezed out.
+    Mr. Nadler. Thank you.
+    Finally, fields of law--all fields of law can and should 
+evolve over time. In recent years, there's been increased 
+attention as to how competition affects not only consumers, but 
+also workers.
+    With that perspective in mind, how should we be thinking 
+about how AI might impact the American workforce?
+    Mr. Bedoya. I would say the biggest thing people are not 
+talking about is the need for some kind of protection for 
+workers in the workplace so that they just can't be scanned 
+head to toe and replaced by algorithms. This isn't no longer a 
+thing from Hollywood. This is something you're seeing in jobs 
+like call centers, online therapy, et cetera.
+    Mr. Fitzgerald. Gentleman's time has--
+    Mr. Nadler. My time has expired. I yield back.
+    Mr. Fitzgerald. I now recognize the gentleman from Texas, 
+Mr. Gooden.
+    Mr. Gooden. Thank you. Ms. Melugin, the Biden 
+Administration passed sweeping Executive Orders on AI which 
+weren't authorized by any congressional action or directive.
+    Do you think the previous administration bypassed Congress 
+and micromanaged AI development without public accountability?
+    Ms. Melugin. Yes.
+    Mr. Gooden. Would you like to comment further?
+    Ms. Melugin. Sure. I do. I think that it's a perfect 
+example of the rush to regulate. What you are doing here today 
+is having a very constructive conversation about one aspect of 
+AI, and that's to be applauded.
+    Coming out with an EO that puts large restrictions on how 
+people are allowed to innovate, testing, rules that haven't 
+really been put through either the common-law process in the 
+courts or a congressional process is always a mistake. Even if 
+I had agreed with the rules that were there, I wouldn't support 
+it. I didn't. The lifting of that executive order with the 
+current administration is generally a very positive step.
+    Mr. Gooden. What role should Congress play, in your mind, 
+in ensuring that AI governance reflects competitive neutrality, 
+market dynamics, and constitutional accountability?
+    Ms. Melugin. As I somewhat snarkily mentioned in my 
+testimony, I do think that the biggest thing Congress could do 
+would be to consider preempting the rush of State regulations 
+on AI. I think there's very well-intentioned State legislators. 
+They see that Congress isn't moving on this. They want to do 
+something.
+    A patchwork of potentially 50-plus different regulatory 
+regimes for AI is the kind of hurdle that could really slow 
+U.S. innovators down, and certainly not the kind of hurdle that 
+they're facing in China. It's an infinitely, like, 
+unpolitically satisfying answer, but I think Federal preemption 
+should be something serious lawmakers consider.
+    To the antitrust question that we're talking about today, 
+let's wait and see until what problems arise, and also, what 
+laws and tools are already on the books that regulators and 
+lawmakers can use to react to those problems. Price fixing is 
+still price fixing, whether it's done in a smoky room with 
+meat--which actually sounds kind of great, the meat part.
+    Mr. Bedoya. The meat wasn't--
+    Ms. Melugin. The meat wasn't--OK. It was a good visual, 
+though. I want to give you full credit for that--or done with 
+AI technology in an algorithm. These things are still illegal. 
+Fraud is still illegal whether it's--whatever kind of 
+technology you use.
+    Taking things on a case-by-case basis is a smarter approach 
+to not making the mistake of overregulating and hurting 
+innovation in the U.S.
+    Mr. Gooden. You mentioned China. Do you feel--where do we 
+rank in terms of attracting investors, and are we doing better 
+or worse than China with respect to AI?
+    Ms. Melugin. Well, I think the structure is so different, 
+right? Happily, it's private investment here in the U.S. for 
+the most part. China is pouring billions of dollars into these 
+technologies, and I do think that without tying one arm behind 
+our back, my money is on the U.S. I would innovate always.
+    I do think that this State patchwork of regulations or 
+unwarranted and overzealous antitrust intervention could put us 
+at a real disadvantage. We've been saying, there's different 
+points along the AI ecosystem. It's hard to give you one answer 
+about all of it, but it's a close race.
+    Mr. Gooden. Thank you. Yield back.
+    Mr. Fitzgerald. Gentleman yields back.
+    Gentleman from California is now recognized for five 
+minutes.
+    Mr. Correa. Thank you, Mr. Chair. I want to welcome our 
+witnesses today.
+    Every day in the newspaper, something new with AI, new 
+developments, new companies, competition, innovation, 
+medicines, new medicines, drug developments, manufacturing, and 
+supply chains. A lot of good stuff. I do believe we need 
+guardrails, but they have to be guardrails that don't harm 
+innovation or harm American firms.
+    The U.S. right now, we, the United States, still lead the 
+world, used to be by a couple of years. Now, it's maybe two 
+months, maybe couple of weeks, compared to China.
+    Mr. Chilson and Mr. Coniglio, if I can ask each one of you 
+a yes-or-no question. Gentlemen, would you say that university 
+research played an enormous role in developing AI? Yes, no?
+    Mr. Chilson. Yes, over the 40 years.
+    Mr. Correa. Mr. Coniglio?
+    Mr. Coniglio. Yes, I would say the same.
+    Mr. Correa. If you look at this chart, you can see that it 
+is, in fact, true. Private companies are developing and 
+investing in AI.
+    Second question, gentlemen: The future workforce, training 
+that AI workforce, research still happening at universities, 
+correct?
+    Mr. Chilson. I think some of it. Lots of companies--
+    Mr. Correa. Some of it. OK. Mr. Coniglio?
+    Mr. Coniglio. I would agree.
+    Mr. Correa. If we cut out funding for university research 
+today, are we damaging the American pipeline, students--future 
+students who become leaders in AI, fundamental research, are we 
+hurting ourselves by cutting off university research funding? 
+Mr. Chilson, Mr. Coniglio? Yes, no?
+    Mr. Chilson. I'm honestly not sure.
+    Mr. Correa. Mr. Coniglio?
+    Mr. Coniglio. I would certainly say that funding from 
+universities is very important to drive innovation. That's true 
+generally, yes.
+    Mr. Correa. I say that in the context of our main 
+competitor, which is China, which are essentially doubling down 
+their investment in this area. That's well-established; that's 
+well-known.
+    Now, let's look at this chart of some of the top AI 
+companies. Data from 2023. Many of these firms are started by 
+immigrants. This is in 2023. Can you imagine the number of 
+immigrants started AI firms for 2024? Probably a whole lot 
+more. This doesn't even reflect major tech started by Sergey 
+Brin of Google or Elon Musk.
+    So, gentlemen, another question for you. Do you agree that 
+immigrants have played a huge role in developing and advancing 
+technology in AI sectors? Yes, no?
+    Mr. Chilson. Absolutely.
+    Mr. Correa. Mr. Coniglio?
+    Mr. Coniglio. Yes.
+    Mr. Correa. This country--we really want immigrants in this 
+country who can contribute to innovation, and we don't want to 
+scare them away, have them go to Canada, China, India, not even 
+come to this country. Would you say that's--yes, no, Mr. 
+Chilson?
+    Mr. Chilson. America is the best place to do AI in the 
+world.
+    Mr. Correa. Mr. Coniglio?
+    Mr. Coniglio. I would agree we need to keep America an AI 
+leader and use all tools we can to make that happen.
+    Mr. Correa. Over the last 50--more like 100-200 years, 
+America has always attracted the best and brightest from around 
+the world because they know opportunities in this country 
+exist.
+    I agree that overregulation, misplacement of antitrust 
+enforcement can harm AI, can harm this country's companies as 
+they seek to compete with China. I'll tell you, looking at this 
+administration's policies of cutting research funding to 
+universities, scaring immigrants away from studying or creating 
+new companies in the U.S., creation of unstable markets through 
+tariffs, these three factors, in my opinion, are going to hurt 
+this country even more; long-term damage, long-term damage to 
+our leadership, and our economy in the future. I do hope we 
+begin to focus on what's made this country great, what helped 
+us in the last 50 years innovating, leading the world because 
+we can't afford to lose the AI race.
+    Thank you very much, Mr. Chair, and I yield.
+    Mr. Fitzgerald. Gentleman yields.
+    Mr. Correa. Can I add some articles for the record?
+    Mr. Fitzgerald. Gentleman is recognized.
+    Mr. Correa. Chair, I'd like to ask unanimous consent to 
+introduce the following articles:
+
+    (1)   ``China's top universities expand enrollment to beef 
+up capabilities in AI.''
+    (2)   ``65 percent of top AI companies have immigrant 
+founders.''
+    (3)   ``Trump's science policies pose long-term risks,'' 
+New York Times, March 31st.
+    (4)   ``Trump administration has begun a war on science 
+researchers,'' New York Times, March 31st.
+    (5)   ``China leads the world in generative AI adoption.''
+    (6)   ``Former Google employees create 14 of the top 50 AI 
+startups.''
+    (7)   ``Trump loves AI, but his tariffs ramp up costs for 
+data centers.''
+    (8)   ``Apple chip engineers return to China. Joins Fudan 
+University amid push for talent.''
+    (9)   ``Immigrant entrepreneurs bring jobs and 
+innovation,'' Forbes, May 23, 2024.
+    (10)  ``From underdog to genius, Yale computer scientist, 
+Sun Huanbo, returns to China.''
+    (11)  ``Tech companies are telling immigrant employees on 
+visas not to leave the U.S.''
+
+    Thank you, Mr. Chair.
+    Mr. Fitzgerald. Without objection.
+    Mr. Fitzgerald. The gentlewoman from Wyoming is now 
+recognized for five minutes.
+    Ms. Hageman. Thank you. China is trying to control the 
+global AI sector through extensive state-directed investments, 
+aggressive subsidies, and protectionist trade measures. It is 
+making substantial investments to secure its global position 
+through initiatives like Made in China 2025 and the New 
+Generation Artificial Intelligence Development Plan.
+    Mr. Chilson, how might China's government subsidies and 
+protectionist policies affect global competition in AI?
+    Mr. Chilson. China's model for AI innovation is very 
+different than the U.S. It's largely State-sponsored. It is 
+driven through a structure that is designed to make sure that 
+the Chinese Communist Party has its finger in everything, and 
+it means that the end result is designed from the top 
+ecosystem. They pour a lot of money into this, and they have 
+talented people, and so they do have surprises occasionally. 
+The deep seek AI model that came out, they can get a lot done 
+with that model.
+    Ultimately, however, the U.S. model, if we don't tie one or 
+both hands behind our back, is going to win in this space, 
+because we have the talent, we have the investment, and we have 
+the ecosystem that rewards trying new things out and seeing if 
+they work. I worry a lot about China. I think modeling our--and 
+this is why I was a little bit confused about the university 
+question. A top-down investment model that tries to look like 
+China is not the right model for the U.S.
+    Ms. Hageman. I'm glad to hear that, and I'm also excited to 
+hear about your optimism, because what would be the strategic 
+consequences if China achieved dominance in the global AI 
+space?
+    Mr. Chilson. Well, there's a lot of different consequences. 
+We can just look at cultural ones. We can look at strategic 
+national security ones, and those are the ones that raise the 
+most eyebrows.
+    Ms. Hageman. Can you give me some examples?
+    Mr. Chilson. Yes. This technology is very powerful, both in 
+an offensive and defensive manner for cybersecurity, so both to 
+defend from cybersecurity attacks and to cause them, and so, 
+being ahead in that race matters a lot. A lot of our 
+infrastructure in the U.S. obviously is--needs to be strong 
+against those types of attacks, and I think that AI has a huge 
+potential to be a defensive barrier to those types of things, 
+but we need to stay ahead in the race.
+    Ms. Hageman. Well, I agree with you on that as well. This 
+Committee has observed with concern harmful policies also 
+coming from the EU on privacy, antitrust censorship, and more. 
+Now, the Artificial Intelligence Act will impose significant 
+compliance costs on affected companies, particularly American 
+businesses that play a pivotal role within the AI sector.
+    Mr. Coniglio, how should we, as Members of Congress, be 
+concerned about the impact of this framework on our constituent 
+businesses, and are there specific ways in which the EU 
+regulations might disadvantage smaller American AI companies as 
+compared to larger firms?
+    Mr. Coniglio. Thank you very much for the question, 
+Congresswoman. I would say we should be very concerned about 
+the regulatory approach that the European Union is taking, not 
+just with the AI Act. One of the things I would say they did 
+learn from the GDPR is now to do regulation that targets 
+American firms, specifically, so that they don't burden their 
+smaller firms with regulation. That's really been the lesson 
+with the DMA, which is absolutely disproportionately having 
+very harmful effects on American businesses, really our tech 
+leaders, and it was intended to do so. As I recall a letter 
+from Chair Jordan, starting to investigate those practices is 
+very important and something we need to continue to do.
+    Ms. Hageman. Do you have recommendations as to what 
+Congress specifically ought to do in this space?
+    Mr. Coniglio. It's a very complicated area. I would note 
+with respect to potential legislation; in Korea, there was a 
+proposed bill by Representative Miller, I believe, to talk 
+about potential tools in a trade area that could be used to the 
+extent that regulations are being basically weaponized as de 
+facto protectionist policies against American companies, and I 
+think that might absolutely be the right framework to think 
+about it.
+    Ms. Hageman. OK. Mr. Chilson, in your testimony, you cite 
+how competition is robust and global across all layers of the 
+AI stack. How should Congress consider protecting American 
+companies in such an environment, or is such a policy even 
+achievable or worthy of consideration?
+    Mr. Chilson. American companies lead the world in this, so 
+I don't know that they need protection from Congress, but what 
+they do need is the ability to continue to innovate, build, get 
+the supplies and the data that they need, and there's a lot in 
+the regulatory space that Congress could work on. In 
+particular, we've mentioned it a couple times, but one of the 
+biggest threats is well-intentioned, but often very abstract 
+and not well-developed, state-level regulation, which could 
+limit a lot of this innovation.
+    Ms. Hageman. So, preemption is important?
+    Mr. Coniglio. I think it's very important.
+    Ms. Hageman. Thank you, and I yield back.
+    Mr. Fitzgerald. Gentlewoman's time has expired and now--
+    Mr. Nadler. Mr. Chair, I have a unanimous consent request.
+    Mr. Fitzgerald. Gentleman is recognized.
+    Mr. Nadler. Thank you. Mr. Chair, I'd like to enter in the 
+record an article ``AI Watch Global Regulatory Tracker'' that 
+details how many more regulations than the U.S. does on AI 
+development and deployment.
+    Mr. Fitzgerald. Without objection.
+    Mr. Fitzgerald. The gentlewoman from Vermont is now 
+recognized for five minutes.
+    Ms. Balint. Thank you, Mr. Chair.
+    Commissioner Bedoya, thank you so much for being here, and 
+Commissioner Slaughter, it's really nice to see you. 
+Commissioner Bedoya, as commissioner at the FTC, your 
+experience of competition, artificial intelligence, and how 
+these things affect everyday people is extremely important to 
+this discussion. We all understand that we're in the early days 
+of what may be a massively transformational technological 
+moment. It's plausible that this may be like the emergence of 
+the internet, the mobile phone, or really even electricity. 
+It's so important that we don't lose sight of the central point 
+here, which is how does this technology help or hurt working 
+people? That's what I'm focused on.
+    Commissioner Bedoya, you spent a great deal of time as FTC 
+commissioner outside of D.C. traveling around the country, 
+hearing from people, and I want to know, have you heard a sense 
+of concern from people, working people, about how AI is 
+impacting their lives?
+    Mr. Bedoya. Sure. I confess a lot of my roundtables are 
+focused on groceries, pharmacy, and that kind of thing.
+    Ms. Balint. Everyday costs.
+    Mr. Bedoya. What's that?
+    Ms. Balint. Everyday costs.
+    Mr. Bedoya. Everyday costs, that's right. I will say a 
+couple things on this. A lot of people look at what happened 
+around the actors and writers strikes and they say, ``Oh, 
+that's just a Hollywood thing,'' but entry level actors and 
+entry level writers don't make that much money, and you had 
+situations where people were quite worried, and with good 
+reason, that the cost of selling your first script was going to 
+be to submit all your work to be fed into one of these AIs so 
+that there would be no need to hire you in the future.
+    I also do think there have been a lot of concerns, my 
+colleague Commissioner slaughter has done a roundtable on this, 
+on the use of price fixing algorithms in rental housing 
+markets.
+    Ms. Balint. That's where I'm going.
+    Mr. Bedoya. Yes. That's a real concern.
+    Ms. Balint. That's exactly where I'm going. Let's jump to 
+that, because this is a deep concern of mine. Could you tell us 
+in real terms, because you had talked about earlier that it's 
+not just the algorithm itself in terms of real page, but there 
+seems to be instances that we can look at, there seems to be 
+evidence that there is actually some collusion happening here. 
+That's something that I'm deeply concerned about, and we all 
+should. There is a crisis of housing in this country and 
+renters are over a barrel right now. They don't have a lot of 
+options. Can you talk a little bit about how this is impacting 
+regular people just in terms of trying to afford the rental 
+housing.
+    Mr. Bedoya. Sure. The allegations in this space are that 
+these algorithms don't just offer the exact right amount of an 
+increase so that a renter swallows the increase rather than 
+tries to find a different place. There're allegations of actual 
+overt in the RealPage lawsuit calling between landlords to 
+coordinate, but there's also allegedly information sharing 
+creating a pool of data that these landlords can draw on to 
+increase rent without saying--while being able to say, Oh, we 
+never called each other.
+    One really interesting point here is sometimes antitrust 
+harms, because they're a little complex, can get a little 
+technical. I'll just point out that one of the corporate 
+landlords in the RealPage suit is a company called GreyStar. 
+FTC is also simultaneously suing GreyStar for packing people's 
+rent checks with these fake hidden fees, like, Oh, you want no 
+cockroaches in your apartment? You've got to pay extra for 
+that.
+    Ms. Balint. Pay extra for no cockroaches, huh?
+    Mr. Bedoya. Precisely. You see anticompetitive conduct arm 
+in arm with conduct that hurts consumers, in my view, pretty 
+obviously.
+    Ms. Balint. I do think it's important in this hearing as we 
+talk about the importance of not stifling innovation to, at the 
+same time, be able to hold both truths. We can be careful in 
+our regulations. We can be careful in the guardrails that we're 
+putting on, but I don't think anyone here, at least I hope not, 
+that anyone on the Antitrust Committee would be supportive of 
+landlords colluding to raise the price of rent, and I know in 
+some instances, we've seen that this AI dynamic pricing scheme 
+has led to increases of over $800 over the course of a year of 
+not just these hidden fees that we're talking about, but the 
+prices that they're paying for rent itself.
+    Of course, you've talked about how essential workers are 
+being replaced in key industries, where we see patients 
+illegally being denied care because of an AI-based 
+recommendation, where artists are being robbed of their work. I 
+just have to say, we have got to remember the importance of 
+following the law when it comes to having FTC commissioners, 
+and I think it's outrageous that you and Commissioner Slaughter 
+were illegally removed from your positions. We need you on the 
+watch to take care of my renters back home in Vermont who are 
+being screwed over.
+    Mr. Fitzgerald. Gentlewoman's time is expired.
+    Ms. Balint. I yield back.
+    Mr. Fitzgerald. Gentlewoman yields back. I now recognize 
+the gentleman from North Carolina, Mr. Harris, for five 
+minutes.
+    Mr. Harris. Thank you, Mr. Chair, and thanks to all of you 
+on the panel for being a part of this hearing today. On January 
+23, 2025, President Trump issued an Executive Order titled, 
+``Removing Barriers to American Leadership and Artificial 
+Intelligence,'' aimed at solidifying the United States' 
+position as the global leader in AI. I, for one, applaud the 
+Trump Administration's leadership on this issue.
+    Mr. Chilson, would you just take a moment and explain how 
+this Executive Order will indeed help solidify our position as 
+the global leader in AI as the EO states?
+    Mr. Chilson. Well, it's a sea change from the Biden 
+Executive Order, which was the third longest Executive Order in 
+history, and basically set a governmentwide call for agencies 
+to figure out how to regulate AI. This Trump Executive Order is 
+the opposite. It's focused on figuring out how we can create 
+the opportunities, or how can we maximize the opportunities 
+from this amazing technology which is grown here in America.
+    Some of its mechanisms. It directs the Office of Science 
+and Technology Planning to create an AI action plan. Those 
+comments have gone into that agency, and they're going to come 
+out with a comprehensive approach.
+    The main thing here is the total change in perspective. 
+It's gone from fear and risk that this technology is going to 
+hurt people to recognizing that it has huge opportunities, not 
+just for consumers, not just for everyday price--everyday 
+things that they use, but also, in creating a lot of 
+competition in the AI industry, but also across the economy as 
+a whole.
+    Mr. Harris. You reference the science and technology 
+policy. I know Section 4 of Trump's Executive Order requires 
+various executive agencies to coordinate on the creation of an 
+action plan to submit to the President in 180 days, and the 
+action plan should lay out how we can achieve AI dominance. You 
+and your colleague, Mr. Chilson, I understand that the 
+Abundance Institute submitted recommendations to the Office of 
+Science and Technology Policy on what should be included in 
+that action plan. Could you take just a moment and summarize 
+what your recommendations might be?
+    Mr. Chilson. Right. At the very top, you've heard this 
+concern repeatedly across this hearing is stemming the tide, 
+the flowing tide of State AI regulations. What we have right 
+now is a set of regulatory schemes that regulate from the very 
+top, the most abstract level of AI, these general-purpose 
+models. It's a general-purpose technology that can be used in 
+millions of different ways, and States are trying to say that 
+these companies have to make sure that this model can never be 
+used in a way that might hurt somebody, and that's the type of 
+regulation that is not only impossible to comply with, it will 
+be impossible to enforce as well.
+    Congress needs to look at this--the White House needs to 
+look at different ways to stem this tide, whether through the 
+bully pulpit or proposing legislation to Congress that will 
+help stem that flow. I think it's a big challenge in Congress, 
+and the White House needs to step up to that.
+    Mr. Harris. Well, let me ask you this: Can Congress play a 
+role in helping the United States achieve the goals that have 
+been set forth in the Executive Order?
+    Mr. Chilson. Absolutely. It will be essential that Congress 
+does so.
+    Mr. Harris. OK. Are there any legislative efforts that will 
+bring us toward the vision set forth by the Trump 
+Administration?
+    Mr. Chilson. Well, I think there's a lot of different 
+models we can take. One State action that has been very useful, 
+Utah has an AI act that creates an AI learning laboratory where 
+people can come in, get regulatory mitigation when they don't 
+understand fully what the risks are because their technology is 
+new, and both the legislators and the company can learn 
+together.
+    The most recent example of this was a technology that 
+creates--it's an AI mental wellness app for teenagers, a really 
+important problem. You can understand the sensitivity there. 
+They worked with this regulatory sandbox to create not only 
+just the app itself, but also there's been legislation that was 
+proposed to Utah to the legislature that governed some of those 
+types of apps, and so it's a cooperative thing. It's the kind 
+of structure that might work very well at the Federal level as 
+well.
+    Mr. Harris. Very good. Thank you so much.
+    Mr. Chair, I yield back.
+    Mr. Fitzgerald. Gentleman yields back. The gentleman from 
+Illinois is now recognized for five minutes.
+    Mr. Garcia. Thank you, Mr. Chair, and to all the witnesses 
+here today, to Commissioner Slaughter for also being here to 
+observe the proceedings.
+    As usual, so far in this hearing, it looks like my 
+colleagues, the Republican side of this panel, is here to 
+champion corporate interest over workers and consumers. Today, 
+their obedience is making them argue against even reasonable 
+regulation of the AI industry. While not surprising, it's still 
+incredible to see them making these claims with a straight face 
+given everything that's going on.
+    Let's start with the fact that the Trump Administration and 
+its billionaire overlord, Elon Musk, are weaponizing AI to 
+carry out their lawless and unpopular agenda. They're using AI 
+to arbitrarily surveil students, expand the power of DHS and 
+ICE and gut Federal agencies. In the hands of billionaires and 
+authoritarians, like Musk and Trump, AI is a loaded gun waiting 
+to be used on immigrants, workers, and consumers. This is 
+exactly why it's absurd to oppose commonsense regulation of the 
+AI industry.
+    Let's talk about what that commonsense could be. It's also 
+absurd, because we know what happens when we don't enforce 
+antitrust and consumer protection laws against technology 
+companies. As my colleagues have pointed out, the failure to 
+apply these laws to big tech companies at the dawn of the 
+social media age has led to the dominance of these companies, 
+which have routinely abused workers, exploited consumers, 
+deployed their technology to expand surveillance, and trample 
+on privacy rights. That is the consequence of inaction. We must 
+learn that from our mistakes and we must prioritize workers and 
+consumers over corporate profits.
+    Let's talk about what that looks like. Commissioner Bedoya, 
+thank you for being here today. I stand in solidarity with you 
+as you face Donald Trump's illegal efforts to fire you and 
+Commissioner Slaughter. Can you talk about the competition 
+between AI, if it exists, and workers and the implications for 
+labor rights?
+    Mr. Bedoya. Sure. I was down in Bayou La Batre, Alabama, a 
+couple months ago, and there was a case from Pascagoula, which 
+is right near there, of a call center worker who had a high 
+school diploma, a single mom, and she had been able to take 
+this job and find the middle class. She bought a house, nice 
+neighborhood, great schools. What was starting to happen is 
+that there was this AI transcript that was being generated of 
+her calls, but it was wrong.
+    People on the Gulf, my wife from Louisiana, have a 
+different cadence, different accent slightly, and the AI-
+generated transcript was failing, and she would get docked for 
+those errors. One of the things she openly wondered was--
+because there was also other software operating that the 
+workers thought was going to be used to replace them. She 
+openly wondered, ``am I training my replacement?'' These are 
+the kind of folks who may be hurt by these efforts to scan, 
+track, surveil, and swallow up all this data about people 
+working really important jobs that might be used to replace 
+them.
+    Mr. Garcia. Thank you for sharing that, and from basically 
+on your work at the Federal Trade Commission, what kinds of 
+protection do you think are needed for workers if Congress were 
+to act?
+    Mr. Bedoya. I've already mentioned the need for workplace 
+privacy law. The other thing we urgently need in my personal 
+view is some kind of guardrail against automated management. 
+Increasingly, you're seeing allegations that people are getting 
+fired automatically on the job because of the way they were 
+tracked. Maybe it was thought that they were just loafing 
+around when they were actually going to the bathroom, when they 
+were actually repairing the machinery on the warehouse floor.
+    You also see instances where people are increasingly having 
+their emotions analyzed on the job. This is another call center 
+example. There was an AI that thought that set off this emotion 
+distress alarm anytime the caller at the end of the line 
+started laughing, and so you have technology that doesn't work 
+as well as people think it does, being used to fire people, 
+dock their pay, and there need to be guardrails around that 
+kind of conduct.
+    Labor unions have often succeeded in putting those 
+protections in place, but I think everyone needs those kinds of 
+protections, not just folks who are lucky enough to be in a 
+union.
+    Mr. Garcia. Thank you. My time is exhausted.
+    Mr. Chair, before I turn it back, I seek unanimous consent 
+to submit an article entitled--
+    Mr. Fitzgerald. Gentleman is recognized.
+    Mr. Garcia. Thank you. ``Open AI Peels Back ChatGPT 
+Safeguards Around Image Creation.''
+    Mr. Fitzgerald. Without objection.
+    Mr. Fitzgerald. Gentleman yields back. The gentleman from 
+Virginia is now recognized for five minutes.
+    Mr. Cline. Thank you, Mr. Chair.
+    My goodness, after hearing my friend from California talk, 
+I'm reminded of the old adage, ``when you're a hammer 
+everything looks like a nail.'' When you're a proregulatory 
+Democrat, everything--every industry, every opportunity to 
+regulate means dive right in and regulate.
+    Ms. Melugin, can you speak to what would happen to the AI 
+industry if the U.S. were to adopt heavy-handed regulations. 
+Which country are we in competition with right now that would 
+take advantage of that and further run away with development in 
+AI?
+    Ms. Melugin. If American innovators are sufficiently 
+distracted with regulatory hurdles and legal concerns; you are 
+taking a limited amount of energy and resources away from them 
+turning out the best product. At that point the alternative for 
+much of the world will be Chinese products. The Meta question 
+to keep in mind is do you want the world building on U.S.-based 
+products or China-based products?
+    That's not to say that the illegal things that happen in 
+relation to AI shouldn't be addressed. In large part, due to 
+already existing law or that Congress might not consider new 
+privacy legislation, those are all things that can be 
+considered when problems arise. It's important to not lose 
+sight of what we're here to do. I don't think that most 
+Americans are looking for AI to be really, really regulated. 
+They're looking for AI to be really, really prosperous and 
+successful.
+    Mr. Cline. Well, to that end, China has a long history of 
+intellectual property theft, particularly in AI and 
+semiconductor technology. How can the U.S. better protect its 
+AI industry from Chinese espionage, and should we be more 
+aggressive in sanctioning Chinese companies that benefit from 
+stolen IP?
+    Ms. Melugin. Some obviously, but to the extent that all 
+that can work, I think that's great. At some point, if you're 
+dealing with bad actors, the way to win is to win. That you 
+make the biggest mistake by hampering the efforts of U.S. 
+innovators with all the sort of the side show of all the things 
+that can possibly go wrong. Of course, there are going to be 
+challenges and harm that are very real.
+    People's jobs will be replaced by a certain amount of 
+automation. I will point out that has been happening since the 
+dawn of time. It doesn't mean we don't need to have real 
+attention paid to those circumstances. It's not worth holding 
+an entire country back in the kind of technology that will 
+benefit every single American and people around the globe 
+hopefully from AI products, because we can think of examples of 
+someone losing their job. It's a tragic situation for that 
+individual, but I would hope that the overall benefit to the 
+economy and to society and prosperity of Americans compensates 
+in some way for that churn. That churn is real, but we can't 
+use those examples as an excuse to hamper an incredibly 
+important technology.
+    Mr. Cline. At the same time, you have big tech companies 
+arguing that scraping copyrighted material for AI falls under 
+fair use. This practice could severely undermine artists, 
+journalists, and content creators should the U.S. continue to 
+enforce its protections to prevent AI developers from profiting 
+off stolen intellectual property.
+    Ms. Melugin. Intellectual property with the forward 
+movement of technology is a bit of a moving target. It's 
+certainly an area where Congress can look to revisit and adjust 
+as necessary. I don't know if we're there yet, but that those 
+are very valid concerns. I'm certainly not here to argue that 
+there will be no regulatory or legal reaction to AI. I'm just 
+here to argue that it's better to go cautiously forward on a 
+case-by-case basis, and their use of intellectual property 
+might very well be one of those.
+    Mr. Cline. Several lawsuits, including The New York Times 
+v. OpenAI argue that AI models unlawfully use copyrighted 
+content for training. Given these legal challenges, do you 
+think courts will ultimately force AI developers to pay 
+licensing fees, and how might that impact competition and 
+innovation in the AI industry?
+    Ms. Melugin. My personal policy is not to comment on what 
+courts might do. It's possible. I do think one of the pressure 
+points in AI progress for the U.S. is data sources. I think the 
+market is innovating even for those synthetic data. There are 
+other solutions, but new data, more data is an important 
+balancing act to keep in mind when you're talking about 
+limiting access to that for maybe the next companies that come 
+along. I think that there's tradeoffs that need to be weighed 
+there.
+    Mr. Cline. There's a balance.
+    Ms. Melugin. There's a balance, as in most intellectual 
+property law, I think. Also, I'll quickly make the point that 
+with data, it's not always more is better. We're finding that 
+out. Up to a certain point, you need a certain amount, and it 
+needs to be good and there's engineering progress that can be 
+made on top of that data, but it's not the end-all/be-all that 
+AI--it's not the only factor that's important for innovation 
+and AI.
+    Mr. Cline. Thank you.
+    Mr. Fitzgerald. Gentleman yields back.
+    Mr. Nadler. Mr. Chair, I have a unanimous consent request.
+    Mr. Fitzgerald. Gentleman is recognized.
+    Mr. Nadler. Mr. Chair, I ask for unanimous consent to 
+submit for the record the article by AI Now Institute entitled 
+``US-China AI Race: AI Policies Industrial Policy,'' that shows 
+Chinese AI innovation is growing rapidly despite China having 
+stronger antitrust enforcement than the United States.
+    Mr. Fitzgerald. Without objection.
+    Mr. Nadler. Thank you.
+    Mr. Fitzgerald. The Chair now recognizes the gentleman from 
+Georgia for five minutes.
+    Mr. Johnson. Thank you, Mr. Chair.
+    In an article written by Cecilia Kang of The New York Times 
+back on last week, she reported that for just over two years, 
+technology leaders at the forefront of developing artificial 
+intelligence had made an unusual request of lawmakers. They 
+wanted Washington to regulate them. The tech executives warned 
+lawmakers that generative AI, which can produce texts and 
+images that mimic human creations, had the potential to disrupt 
+national security, and elections, and could eventually 
+eliminate millions of jobs. AI could go quite wrong.
+    Sam Altman, the Chief Executive of OpenAI, testified in 
+Congress in May 2023; we want to work with the government to 
+prevent that from happening. For two years, the tech industry--
+AI creators have been wanting regulation, but now we have a 
+group of three lobbyists appear requesting that we not apply 
+any regulations. What has changed, Ms. Melugin?
+    Ms. Melugin. Just for recordkeeping purposes, I am not a 
+lobbyist.
+    Mr. Johnson. I know you say that you're not, but your 
+funding--
+    Ms. Melugin. Well, you have to register to be a lobbyist.
+    Mr. Johnson. Your funding comes from the industry that 
+you're here representing today but let me move on. The main 
+ingredient for artificial intelligence is data, which allows AI 
+models to learn. Co-President Musk owns an AI company with its 
+Chatbot Grock, and there is always the problem of AI companies 
+needing to get a competitive edge to have more data to train 
+their models, and Co-President Musk is in a unique position 
+now, because he also runs the so-called Department of 
+Government Efficiency--DOGE.
+    In the past 2\1/2\ months, Musk's DOGE team has gained 
+access to vast data bases at agencies like the Internal Revenue 
+Service, and the Social Security Administration, which include 
+our personal information. Just this past weekend, DOGE gained 
+access to the Federal personnel payroll system.
+    We know that DOGE has already copied massive amounts of our 
+personal data onto its servers and using that amount of data to 
+train his AI model would give Co-President Musk a huge edge 
+over his competitors.
+    Now, the administration will tell us that DOGE is being 
+careful with our personal data, but this is the same 
+administration whose national security adviser accidentally 
+invited a journalist to a group chat on a private unsecured 
+messaging app where the Trump team was discussing war plans and 
+classified information, and it's the same administration that 
+conducted national security business over personal Gmail 
+accounts.
+    This administration has a culture of playing fast and loose 
+with secret and private information. Now, how can we trust Elon 
+Musk with our personal data when he and his AI company have so 
+much to gain from it financially, Mr. Bedoya?
+    Mr. Bedoya. I'd love to give a broader answer, if I may. I 
+do think, speaking just for the FTC, I am very worried about 
+the information the Commission holds getting in the wrong 
+hands. The FTC regularly, as a matter of regular course of 
+business, collects market-sensitive information, information 
+about competitive strategy, and even top-level information 
+about certain shops being active at certain times could, for a 
+person, but definitely for an AI, be used to generate extremely 
+sensitive inferences about otherwise confidential market 
+activity.
+    Mr. Johnson. Elon Musk has his hands around that kind of 
+information. Commissioner, I talked about the dangers of Co-
+President using his personal data, Co-President Musk using our 
+personal data to train his AI models. Do you also see a threat 
+to consumers, and what would your concerns be about that?
+    Mr. Bedoya. The main thing I think about with the use of 
+data obtained from government agencies being used to train a 
+model, speaking generally, is let's say a mistake is made and 
+data is swallowed up into that model that shouldn't be. Twenty 
+years ago, you go into a system and just delete those files, 
+but that's not how these models work now. This is like me 
+saying to you, Congressman, please unlearn my face. Good luck 
+with that. It doesn't make any sense. So, I'm obviously 
+oversimplifying a little bit, but it's very difficult to 
+unscramble those eggs. I'm worried about competitive 
+information getting into these models, and, therefore, getting 
+into the wrong hands, even if we realize it after the fact. 
+That is definitely a real concern.
+    Mr. Johnson. Those wrong hands are not necessarily in 
+China. They're right here in DOGE.
+    Mr. Fitzgerald. Gentleman's time has expired.
+    Mr. Nadler. Mr. Chair, I have a UC request
+    Mr. Fitzgerald. Gentleman is recognized.
+    Mr. Nadler. Thank you, Mr. Chair. I request unanimous 
+consent to submit a CNBC article entitled, ``Elon Musk who Co-
+Founded Firm Behind ChatGPT Warns AI's One of the Biggest Risks 
+to Civilization,'' where Elon Musk states, quote,
+
+        We need to regulate AI safety. It is, I think, actually a 
+        bigger risk to society than cars or planes or medicine.
+
+    Mr. Fitzgerald. Without objection, the Chair of the Full 
+Committee, Mr. Jordan, is now recognized for five minutes.
+    Chair Jordan. Let me first do unanimous consent in light of 
+the previous question.
+    Mr. Fitzgerald. Chair is recognized.
+    Chair Jordan. I'd like to ask unanimous consent to enter 
+into the record a story from The Hill, ``The FTC must be held 
+accountable for its widespread leaks of confidential data.''
+    Mr. Fitzgerald. Without objection.
+    Chair Jordan. Mr. Chilson, you worked at the FTC. Is that 
+right?
+    Mr. Chilson. That's right.
+    Chair Jordan. Chief Technologist at the FTC, I think, was 
+your title.
+    Mr. Chilson. Acting Chief Technologist, yes.
+    Chair Jordan. You focused on--I'm looking from the bio 
+here--the economics in privacy blockchain related issues. Is 
+that accurate?
+    Mr. Chilson. That's correct.
+    Chair Jordan. Worked for the commissioner?
+    Mr. Chilson. Yes.
+    Chair Jordan. You're an attorney as well?
+    Mr. Chilson. I am, yes.
+    Chair Jordan. You understand the Bill of Rights, the 
+Constitution, all the things they teach us in law school and 
+all those important--
+    Mr. Chilson. I do.
+    Chair Jordan. Is it appropriate for the FTC to ask an 
+American company the journalists that they have communicated 
+with?
+    Mr. Chilson. I don't think so, sir.
+    Chair Jordan. I don't think so either, but that's exactly 
+what happened at the FTC, Mr. Bedoya works at just a couple of 
+years ago. They sent a letter to Twitter after Mr. Musk had 
+purchased the business and said it's recently reported that 
+Twitter has been providing certain third-party journalist 
+information, and they named the journalists: Bari Weiss, Matt 
+Tabbi, Michael Shellen-
+berger, and Abigal Shrier. They named the journalists, and then 
+they say this:
+
+        Identify all journalists and other members of the media to whom 
+        you've granted any type of access to the companies of 
+        communication.
+
+Is that appropriate?
+    Mr. Chilson. I don't see what this would have to do with 
+most of the types of action the FTC would bring.
+    Chair Jordan. It seems to me this is totally getting at 
+violating the first amendment and freedom of the press. You've 
+got a right as a company--people in a company to talk to 
+journalists. Yet, the FTC wants to know any and every 
+journalist you've communicated, named four specifically and 
+wants to know any others you've talked to. What do you think, 
+Mr. Chilson? Pretty bad stuff that was going on there?
+    Mr. Chilson. Yep.
+    Chair Jordan. Let me ask you this, then, too. They also 
+asked--they wanted to know every reason why Twitter terminated 
+former Twitter employee Jim Baker. Do you know anything about 
+that, Mr. Chilson, why they would be asking about that guy?
+    Mr. Chilson. I don't know much about that, and I don't know 
+why they would--
+    Chair Jordan. Well, I got my hunches. Jim Baker was the 
+General Counsel at the FBI when the FBI was doing all the crazy 
+things, going to the FISA Court, getting warrants, spying on 
+the Presidential campaigns. He then goes to work for Twitter. 
+Mr. Musk buys Twitter and says I'm going to get rid of this 
+guy, and now the FTC wants to know why. I find that strange 
+too. Every journalist you've talked to and asked why you got 
+rid of Jim Baker.
+    Let me ask you another one. Ernst and Young was named the 
+assessor in the consent decree focused between the FTC and 
+Twitter. The assessor, the specific assessor, was a guy, David 
+Roke. He testified under oath and said, quote,
+
+        If Ernst and Young did not include negative findings against 
+        Twitter, the FTC raised the specter that it would create other 
+        challenges for Ernst and Young over time.
+
+Does that seem to be the kind of communication that should be 
+going from the FTC to the assessor at Ernst and Young, Mr. 
+Chilson?
+    Mr. Chilson. Seems like a form of soft coercion.
+    Chair Jordan. Is that accurate, Mr. Bedoya? Did you guys do 
+that? Mr. Roke, again, this is under oath in the case, is that 
+what happened at the FTC? Why would you tell Ernst and Young 
+you better find out the right thing, you better find something 
+negative against Twitter or you may not get business with us 
+over time.
+    Mr. Bedoya. Thank you, Mr. Chair, for the question. I'm not 
+familiar with that particular communication, and so given that 
+I am under oath, I don't want to give a wrong answer here.
+    Chair Jordan. Are you disputing whether it happened or not? 
+It's a court filing.
+    Mr. Bedoya. No, sir, I'm not disputing that. I'm just 
+saying I'm not familiar with that particular communication, and 
+like you said, I'm under oath.
+    Chair Jordan. I'm asking you if it's appropriate or not. It 
+happened. Here's what he said:
+
+        If Ernst and Young did not include negative findings against 
+        Twitter, the FTC raised the specter that it would create other 
+        challenges for Ernst and Young over time.
+
+You hire Ernst and Young to be assessors in these kinds of 
+consent decree arrangements all the time. You can see the 
+obvious threat there. I'm just asking if that's appropriate.
+    Mr. Bedoya. Mr. Chair, who is saying that statement? Who is 
+writing it?
+    Chair Jordan. They have the documents that David Roke 
+communicated in the court that we have.
+    Mr. Bedoya. Forgive me, Mr. Roke is an Ernst and Young 
+Executive?
+    Chair Jordan. Yes. He's the assessor you guys hired.
+    Mr. Bedoya. He was--I'm sorry, I take this very seriously, 
+and so what I would ask is if you submit it for the record, 
+I'll take a good look at it and give you a full and complete 
+answer, but I'm not familiar with the context of the statement.
+    Chair Jordan. Why did you have to know about Jim Baker, why 
+he was terminated? Companies are allowed to fire people.
+    Mr. Bedoya. Mr. Chair, I did not sign those CIDs, I did not 
+sign the subpoenas, and so I don't know the exact circumstances 
+surrounding that individual.
+    Chair Jordan. OK. OK. No comment there. All right.
+    Mr. Coniglio, Mr. Bedoya raised three concerns earlier, and 
+I just have a few seconds. Any of you three can comment on 
+this. Three warnings that he pointed out. Vertical integration, 
+AI keeping private data private, and then the surveillance 
+concern. Do you have a different perspective on those three 
+concerns? Or tell me what your thoughts on the three warnings 
+he laid out in his testimony?
+    Mr. Coniglio. Thank you for the question. I can start with 
+the first one about AI partnerships and vertical integration 
+and any competitive conduct. I think that the concerns about 
+foreclosure, which are the typical anticompetitive harm that 
+you think about when you go to vertical integration are 
+certainly very premature at this stage. We see robust 
+competition at the foundation model level and the cloud level, 
+which suggests that a vertical integration between, let's say, 
+a cloud company and a foundation model is unlikely to result in 
+any sort of exclusionary conduct.
+    With respect to the partnerships and the horizontal, so to 
+speak, reduction of competition between let's say a big tech 
+firm that may have a partnership and the idea of being that 
+because they are investing in these companies, they're less 
+likely to compete, again, it's unlikely that's going to result 
+in a substantial lessening of competition. Again, because of 
+the robust competition that exists at the foundation model 
+level, but also because of the procompetitive benefits that 
+these partnerships can have, specifically providing internet--
+excuse me, AI foundation model startups with the sort of 
+patient capital they need to grow sustainably and actually 
+innovate faster.
+    Chair Jordan. OK. I know I'm out of time, but can you talk 
+about the privacy issue really quick, too? Anyone of you want 
+to talk on privacy? I have concerns about this whole facial 
+recognition stuff and some of the examples that Mr. Bedoya gave 
+in his testimony, so give me your quick thoughts on that, and 
+then I'll be happy to yield back, Mr. Chair.
+    Mr. Chilson. In many ways, the privacy issue and artificial 
+intelligence, especially these deep learning models, is much 
+more complicated than it is in the form of social media, and 
+so, when you train these models, what you get is something that 
+does not have any of the actual training data in it. You can 
+never look into a model and see the specific training that was 
+in there.
+    The privacy implications here are once more on the 
+inference side and not about actual data being in these, and so 
+it's much more like remembering that something happened, but 
+not remembering it precisely, and therefore, I think--
+    Mr. Fitzgerald. Gentleman's--
+    Mr. Chilson. Sorry. I think the privacy concerns are less.
+    Mr. Fitzgerald. Gentleman's time has expired.
+    Chair Jordan. Thank you, Mr. Chair.
+    Mr. Fitzgerald. Gentleman yields back. Ask unanimous 
+consent to enter into the record the letter from Gary Shapiro 
+and Kinsey Fabrizio of CTA dated April 2, 2025. Also, the 
+statement of Jennifer Huddleston from Cato dated April 2, 2025, 
+and the letter from Graham Dufault of the App Association dated 
+April 2, 2025. Without objection.
+    Mr. Garcia. Mr. Chair.
+    Mr. Fitzgerald. Gentleman from Illinois has a UC request.
+    Mr. Garcia. Yes. Thank you. Chair, I request unanimous 
+consent to add to the record a Tech Policy Press article 
+entitled, ``DOGE Plan to Push AI Across the U.S. Federal 
+Government is Wildly Dangerous. ``
+    Mr. Fitzgerald. Without objection.
+    Mr. Garcia. Thank you.
+    Mr. Fitzgerald. The Ranking Member of the Full Committee is 
+now recognized for five minutes.
+    Mr. Raskin. Thank you kindly, Mr. Chair, and thanks to our 
+witnesses today.
+    It's hard to think of an antitrust matter more pressing 
+than concentration in the AI market. The dominance of a handful 
+of AI companies presents a long-term problem for our national 
+security, our democracy, our privacy, and basic fairness in the 
+marketplace. President Trump has plunged our government into 
+chaos and disabled the Federal agencies that we depend on to 
+address such problems. It will be difficult to effectively 
+respond to dangerous market concentration in the assembly of 
+all human knowledge if we have governmental power that is 
+dangerously concentrated itself in the President to the 
+exclusion of Congress as the law-making branch and the 
+Judiciary as the protector of constitutional rights and values.
+    Over a century ago, Congress established the Federal Trade 
+Commission. It was created as an independent agency to enforce 
+antitrust and consumer protection laws outside of the 
+controlling pressure and power agendas of any single President 
+or party. For more than a century, the FTC has protected 
+Americans against scams, fraud, and other unfair and deceptive 
+practices. It also promoted and protected competition in the 
+marketplace, which benefits consumers, workers, small 
+businesses driving innovation, and business without monopoly.
+    Congress designed the FTC to be led by five commissioners 
+across party lines who served seven-year terms are subject to 
+Senate confirmation and can only be fired for cause. Congress 
+structured this independence to ensure that the FTC would serve 
+the nonpartisan interest of the American people and be 
+insulated from partisan political control.
+    Over 90 years ago, the independence of these commissioners 
+was tested and the Supreme Court unanimously reaffirmed that 
+the President cannot unilaterally fire an independent FTC 
+commissioner without cause. Unitary Executive power violated 
+the careful Federal design and infringed Congress's lawmaking 
+power to establish the FTC as an effective and balanced 
+instrument for the public good. Yet, President Trump chose to 
+violate Federal law and defy the Court's longstanding precedent 
+by attempting to fire without cause the two Democratic members 
+of the FTC. He did so to end the nonpartisan independence of 
+the FTC, and to make sure it responds to his momentary 
+political demands above the national public interest as 
+contemplated by Congress.
+    Accordingly, the commissioners have brought suit to reverse 
+their unlawful firing, and two, as Commissioner Slaughter 
+stated,
+
+        Make sure that the work of the Commission is done without fear 
+        or favor and more specifically that we can take on the biggest 
+        companies in America without fear of getting fired for failure 
+        to do a favor to the President's friends who are donors or 
+        corporate allies.
+
+    The strongest Federal rules on AI were established by 
+President Biden in a 2023 EO. The Trump Administration reversed 
+that Executive Order, which laid down the guardrails for the AI 
+industry. Not content with this rollback, the President has now 
+hobbled and undermined the lead cop on the AI beat, the FTC, 
+which has for years been at the forefront of holding big tech, 
+including AI, to account.
+    It's hard to debate the proper scope of regulation in this 
+political space when Donald Trump has reportedly granted Elon 
+Musk unlimited access to our most private and sensitive 
+records, data that's undoubtedly invaluable to X AI and his AI 
+company. Today, none of us here know whether Musk is using our 
+data, classified information, and other sensitive data from 
+data bases across government to train his company's AI models 
+in gaining an unfair advantage over competitors and against 
+citizens. Musk has refused to answer many requests on this 
+topic, and now he's crippled the agency charged with 
+investigating these very tech abuses.
+    Even if we came together and found agreement on regulatory 
+reforms and safeguards for AI development, we still now lack an 
+expert independent agency to enforce our decisions. The 
+President and Musk are ushering a new regime in which 
+monarchical power, cronyism, corruption, and sycophancy rule.
+    He's using his office to enrich himself, his friends, and 
+his donors at the expense of the people. The attempted firing 
+of two FTC commissioners and his subsequent removal of any FTC 
+resource that might serve as a check on big tech illustrate how 
+the President is dismantling the machinery of government to 
+serve his own end.
+    Our Constitutional order is under attack to concentrate all 
+political power in the President. It's the political equivalent 
+of what we're trying to prevent in the economic sphere. I hope 
+that our witnesses can give us their best insight as to how to 
+deal with this problem, but we're facing a structural crisis 
+now in our government.
+    Thank you, Mr. Chair. I yield back.
+    Mr. Fitzgerald. Gentleman yields back.
+    Chair Jordan. Mr. Chair.
+    Mr. Fitzgerald. The Chair is recognized for a UC request.
+    Mr. Jordan. I'd ask unanimous consent to enter into the 
+record the letter from August 26th of last year sent by one of 
+those oligarchs that the Ranking Member just put up there, Mr. 
+Zuckerberg, the letter he sent to the Committee saying that 
+they, in fact, censored Americans at the request of the Biden 
+Administration. I yield back.
+    Mr. Fitzgerald. We thank the witnesses for appearing before 
+the Committee today. Without objection, all Members will have 
+five legislative days to submit additional written questions 
+for the witnesses or additional materials for the record. 
+Without objection, this hearing is adjourned.
+    [Whereupon, at 11:49 a.m., the Subcommittee was adjourned.]
+
+    All materials submitted for the record by Members of the 
+Subcommittee on the Administrative State, Regulatory Reform, 
+and Antitrust can be found at: https://docs.house.gov/
+Committee/
+Calendar/ByEvent.aspx?EventID=118081.
+
+                                 [all]

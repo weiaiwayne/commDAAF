@@ -1,0 +1,2238 @@
+- RECENT ADVANCES IN ARTIFICIAL INTELLIGENCE AND THE DEPARTMENT OF ENERGY'S ROLE IN ENSURING U.S. COMPETITIVENESS AND SECURITY IN EMERGING TECHNOLOGIES
+
+[Senate Hearing 118-289]
+[From the U.S. Government Publishing Office]
+
+                                                        S. Hrg. 118-289
+
+               RECENT ADVANCES IN ARTIFICIAL INTELLIGENCE
+                  AND THE DEPARTMENT OF ENERGY'S ROLE
+                  IN ENSURING U.S. COMPETITIVENESS AND
+                   SECURITY IN EMERGING TECHNOLOGIES
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                              COMMITTEE ON
+                      ENERGY AND NATURAL RESOURCES
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                           SEPTEMBER 7, 2023
+
+                               __________
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]                               
+
+                       Printed for the use of the
+               Committee on Energy and Natural Resources
+
+        Available via the World Wide Web: http://www.govinfo.gov        
+
+                                __________
+
+                   U.S. GOVERNMENT PUBLISHING OFFICE                    
+55-571                     WASHINGTON : 2025                  
+
+-----------------------------------------------------------------------------------         
+
+               COMMITTEE ON ENERGY AND NATURAL RESOURCES
+
+                JOE MANCHIN III, West Virginia, Chairman
+RON WYDEN, Oregon                    JOHN BARRASSO, Wyoming
+MARIA CANTWELL, Washington           JAMES E. RISCH, Idaho
+BERNARD SANDERS, Vermont             MIKE LEE, Utah
+MARTIN HEINRICH, New Mexico          STEVE DAINES, Montana
+MAZIE K. HIRONO, Hawaii              LISA MURKOWSKI, Alaska
+ANGUS S. KING, JR., Maine            JOHN HOEVEN, North Dakota
+CATHERINE CORTEZ MASTO, Nevada       BILL CASSIDY, Louisiana
+MARK KELLY, Arizona                  CINDY HYDE-SMITH, Mississippi
+JOHN W. HICKENLOOPER, Colorado       JOSH HAWLEY, Missouri
+
+                      Renae Black, Staff Director
+                      Sam E. Fowler, Chief Counsel
+               Levi Patterson, Professional Staff Member
+             Richard M. Russell, Republican Staff Director
+              Justin J. Memmott, Republican Chief Counsel
+           Derek Fisher, Republican Professional Staff Member
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                           OPENING STATEMENTS
+
+                                                                   Page
+Manchin III, Hon. Joe, Chairman and a U.S. Senator from West 
+  Virginia.......................................................     1
+Barrasso, Hon. John, Ranking Member and a U.S. Senator from 
+  Wyoming........................................................    11
+
+                               WITNESSES
+
+Turk, Hon. David M., Deputy Secretary, U.S. Department of Energy.    12
+Stevens, Dr. Rick L., Associate Laboratory Director, Computing, 
+  Environment, and Life Sciences, Argonne National Laboratory....    22
+Puglisi, Anna B., Senior Fellow, Center for Security and Emerging 
+  Technology, Georgetown University..............................    32
+Wheeler, Andrew, Fellow and Vice President, Hewlett Packard Labs 
+  and HPC & AI Advanced Development, Hewlett Packard Enterprise..    48
+
+          ALPHABETICAL LISTING AND APPENDIX MATERIAL SUBMITTED
+
+Barrasso, Hon. John:
+    Opening Statement............................................    11
+Federation of American Scientists:
+    Statement for the Record.....................................   112
+King, Jr., Hon. Angus S.:
+    Screenshot of poem generated in ChatGPT......................    78
+Manchin III, Hon. Joe:
+    Opening Statement............................................     1
+    Research paper entitled ``Can Large Language Models 
+      Democratize Access to Dual-Use Biotechnology?'' by Soice et 
+      al., 2023..................................................     3
+Puglisi, Anna B.:
+    Opening Statement............................................    32
+    Written Testimony............................................    34
+    Responses to Questions for the Record........................   109
+Stevens, Dr. Rick L.:
+    Opening Statement............................................    22
+    Written Testimony............................................    24
+    Responses to Questions for the Record........................   105
+Turk, Hon. David M.:
+    Opening Statement............................................    12
+    Written Testimony............................................    15
+    Responses to Questions for the Record........................    85
+Wheeler, Andrew:
+    Opening Statement............................................    48
+    Written Testimony............................................    50
+
+   RECENT ADVANCES IN ARTIFICIAL INTELLIGENCE AND THE DEPARTMENT OF 
+ENERGY'S ROLE IN ENSURING U.S. COMPETITIVENESS AND SECURITY IN EMERGING 
+                              TECHNOLOGIES
+
+                              ----------                              
+
+                      THURSDAY, SEPTEMBER 7, 2023
+
+                                       U.S. Senate,
+                 Committee on Energy and Natural Resources,
+                                                    Washington, DC.
+    The Committee met, pursuant to notice, at 10:03 a.m. in 
+Room SD-366, Dirksen Senate Office Building, Hon. Joe Manchin 
+III, Chairman of the Committee, presiding.
+
+          OPENING STATEMENT OF HON. JOE MANCHIN III, 
+                U.S. SENATOR FROM WEST VIRGINIA
+
+    The Chairman. Our hearing today is kicking off Senate 
+discussions for the fall on a very timely topic--the recent 
+advances in artificial intelligence and the Department of 
+Energy's role in ensuring our continued competitiveness and 
+security in emerging technologies. Over the past few years, six 
+national labs with world-leading capability have been working 
+to understand the challenges around AI and related issues. 
+Those labs are Argonne National Laboratory in Illinois, 
+Lawrence Livermore and Lawrence Berkeley National Labs in 
+California, Los Alamos and Sandia National Labs in New Mexico, 
+and Oak Ridge National Lab in Tennessee. The labs' work is 
+bringing together both fundamental science and national 
+security missions. This hearing will examine their findings. 
+This hearing will also discuss the $1.8 billion Exascale 
+Computing Project that the Committee authorized. If we want to 
+invest in AI in a cost-effective way, we must build on these 
+existing programs and avoid wasting resources and duplication.
+    Most people think about the Department of Energy for its 
+work advancing energy technologies, like nuclear reactors, 
+energy efficiency, carbon capture, and hydrogen. But DOE does 
+more than just energy. The Department also is the largest 
+supporter of physical scientific research in the Federal 
+Government, conducting research and developing technologies 
+across a range of fields, from quantum computing to vaccine 
+development to astrophysics. Last Congress, we spent a lot of 
+time examining DOE's critical role in broad, scientific 
+research in the context of the Endless Frontier Act, which 
+ultimately became law as the CHIPS and Science Act. DOE's 
+scientific work jump-starts private-sector innovation, it 
+strengthens our economy, and is central to our national 
+security. DOE research ensures the U.S. can anticipate, detect, 
+assess, and mitigate emerging technology threats related to 
+advanced computing, biotechnologies, nuclear security, and much 
+more.
+    Artificial intelligence stands out across DOE's vast 
+mission. It has the potential to revolutionize scientific 
+discovery, technology deployment, and national security. In 
+fact, AI is already changing the world at a remarkable pace. We 
+are seeing it deployed in battlefields across the world. 
+Ukraine has successfully used AI-enabled drone swarms against 
+Russian forces. Also, AI helped us fight COVID-19. DOE's Oak 
+Ridge National Laboratory has used its artificial intelligence 
+and computing resources to model proteins in the coronavirus to 
+help develop the vaccine. But make no mistake, artificial 
+intelligence also presents many risks. Earlier this year, a 
+class of non-scientific students at MIT was tasked with 
+investigating whether AI chatbots could be prompted to assist 
+non-experts in causing a pandemic. In just one hour--in just 
+one hour--the chatbots suggested four potential pandemic 
+pathogens, explained how they can be generated from synthetic 
+DNA using reverse genetics, supplied the names of the DNA 
+synthesis companies unlikely to screen orders, identified 
+detailed protocols and how to troubleshoot them, and 
+recommended that anyone lacking the skills to perform reverse 
+genetics engage a core facility or contract research 
+organization. That comes from a research paper titled, ``Can 
+Large Language Models Democratize Access to Dual-Use 
+Biotechnology?'' which I ask unanimous consent to enter into 
+the record.
+    Senator Barrasso. Without objection.
+    The Chairman. Without objection.
+    [The paper referred to follows:]
+   [GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+    The Chairman. Scientific and engineering expertise has long 
+been a barrier that protects us from rogue actors. Until now, 
+the common person has not had access to the resources or the 
+know-how to launch these high-tech threats on human society. 
+Irresponsible availability of AI technologies risks eliminating 
+much of the expertise required to develop a weapon, disease, or 
+cyberattack, thereby eroding defenses we had in the past. AI is 
+not a new issue for the Committee or the Department of Energy. 
+Since the 1960s, DOE has been a key player in investments in AI 
+and automated reasoning. As we all know well, the Department 
+has 17 national labs and 34 user facilities that are crown 
+jewels of America's R&D network. DOE's national laboratory 
+system houses a workforce of over 70,000 scientists, engineers, 
+researchers, and support personnel with world-leading 
+scientific expertise, whose mission is to serve the American 
+people. Each of these labs plays a significant role in the 
+future of AI.
+    As I mentioned earlier, DOE is also the largest funder of 
+the physical sciences and manages more scientific data than any 
+other agency in the U.S. As a result, the Department has 
+computing resources, expertise, and experience in managing 
+large volumes of data that give the Department their natural 
+leadership on artificial intelligence. When federal agencies 
+have an AI problem, they look to the DOE and its labs for help. 
+Over the past decade, the Department has developed thousands--
+and I say thousands--of AI applications. For example, the 
+National Energy Technology Lab in Morgantown, West Virginia--my 
+home area--supports the Department of the Interior in using 
+artificial intelligence to identify orphan oil and gas wells. 
+For the orphan well program, AI serves resources by analyzing 
+old land survey maps, drilling permits, historical images, 
+production records, and eyewitness accounts to find well sites.
+    During the 2023 R&D awards, which I am told is referred to 
+as the ``Oscars of Innovation,'' Dr. Rick Stevens, of Argonne 
+National Lab, who is one of our witnesses today, was recognized 
+for his work using AI to accelerate the discovery of new cancer 
+therapies and treatments that are highly personalized for 
+individual patients. And our Committee has recently played an 
+important role in advancing DOE's AI work. Recognizing that the 
+United States must not fall behind in the supercomputing race, 
+we authorized the Exascale Computing Project at the Department 
+of Energy in the 115th Congress. In May of last year, the 
+Frontier supercomputer at Oak Ridge National Laboratory in 
+Tennessee passed exascale--the ability to perform one billion--
+billion--calculations per second--that's a lot--making this the 
+fastest supercomputer in the world. Before we authorized the 
+Exascale Computing Project, China had the fastest computers. 
+Now, the U.S. has regained the lead. This supercomputer at Oak 
+Ridge is already using AI to model the behavior of human cells 
+to develop better treatments for Alzheimer's, opioid addiction, 
+and cancer.
+    But the global AI race is just beginning. AI has the 
+potential to add trillions of dollars into the world economy 
+each year. Governments and companies around the world are 
+competing fiercely in the new market. In particular, America 
+must accelerate our efforts to compete and defend against China 
+on AI. It is estimated that the annual Chinese AI investments 
+will reach over $26 billion by 2026, which dwarfs the U.S. 
+government's current spending of about $3.3 billion per year.
+    Between 2015 and 2021, Chinese AI companies raised $110 
+billion, including $40.2 billion from U.S. investors, which I 
+cannot even believe, in 251 AI companies. In 2017, China 
+released their ``New Generation of AI Development Plan,'' which 
+includes R&D and infrastructure targets. The U.S. currently 
+does not have a strategic AI plan like this. In addition to 
+government spending, China's workforce advantage is 
+significant. It has twice as many STEM Ph.D.s and twice as many 
+STEM master's degree holders than the U.S. China has created 
+artificial intelligence Ph.D. programs in every one of their 
+top universities.
+    In regards to the Exascale Computing Project this Committee 
+championed, the Chinese government could be set to operate as 
+many as ten--as many as ten--exascale supercomputers by 2025. 
+Xi Jinping himself has pointed to our national lab network, 
+calling them ``indispensable momentum for the development and 
+innovation of science and technology.'' Soon, China may have 
+their very own lab network. Just last week, a company named 
+Baidu released ``Ernie Bot,'' which is a Chinese Communist 
+Party-approved AI language model comparable to ``ChatGPT,'' an 
+app developed in the U.S., which we have all heard a lot about. 
+``Ernie Bot'' is the most downloaded app in all of Asia and is 
+expected to continue to grow.
+    It is clear to me that DOE needs to do more strategic 
+planning around AI so that Americans have confidence that we 
+are leveraging our key resources, such as our national labs, to 
+their fullest potential. We should encourage other agencies to 
+use DOE's AI resources and promote private-sector partnerships 
+with the Department and the national labs to develop safe 
+commercial applications of AI. We must also understand what 
+additional investments are needed to spur U.S. leadership in 
+artificial intelligence. Congress should focus on strengthening 
+and expanding our impressive existing programs rather than 
+creating duplicate new programs at other agencies. We should 
+also ensure DOE and the national labs are able to responsibly 
+recruit leading AI experts, both from our country and globally. 
+Much of America's AI expertise comes from abroad. Immigrants 
+founded or co-founded nearly half of top startups in the U.S., 
+and international students earn 60 percent of our computer 
+science doctorates.
+    All at the same time, we must be absolutely sure that the 
+Department's AI work includes strong research security 
+requirements. We will not outcompete China in AI if they are 
+able to just steal the technology funded by our taxpayers' 
+dollars. The CHIPS and Science Act that passed last Congress 
+featured research security improvements that are now law and 
+currently being implemented by the Department. However, foreign 
+espionage is an evolving threat, and we must remain vigilant 
+and clear-eyed in this threat. The United States must remain at 
+the forefront of new emerging technologies, and the Department 
+of Energy is a central component of that effort.
+    I am looking forward to hearing our witnesses' perspectives 
+on specific steps our Committee and the Department could take 
+to ensure America is advancing AI in a competitive, responsible 
+manner.
+    With that, I will turn to my friend, Senator Barrasso, for 
+his opening remarks.
+
+           OPENING STATEMENT OF HON. JOHN BARRASSO, 
+                   U.S. SENATOR FROM WYOMING
+
+    Senator Barrasso. Well, thanks so much, Mr. Chairman, and I 
+appreciate your opening remarks because artificial intelligence 
+is rapidly transforming the world. It is already impacting our 
+daily lives.
+    Artificial intelligence plays an important role in the 
+energy sector. In mining, AI can reduce equipment downtime. 
+Advanced algorithms help miners locate mineral-rich deposits 
+for more efficient exploration. Real-time analytics strengthen 
+worker safety programs by predicting potential hazards. 
+Artificial intelligence helps pinpoint oil and gas reserves. 
+Predictive models harness data to streamline operations and 
+reduce costs. AI-enhanced sensors also reinforce pipeline 
+safety and efficiency. So artificial intelligence has great 
+promise to expand our economy and to strengthen our national 
+security.
+    It also raises, Mr. Chairman, as you point out, some well-
+documented concerns. A recent study at the University of East 
+Anglia highlighted a significant and systemic left-wing bias in 
+the ChatGPT platform. In the United States, it revealed a clear 
+bias in favor of Democrats. The same program favored the Labor 
+Party in the United Kingdom and the Workers' Party in Brazil. 
+We can't let political bias infiltrate development of AI. This 
+is particularly true when taxpayer dollars are helping fund the 
+technology's development.
+    Innovation in emerging technologies like artificial 
+intelligence can be a source of great strength. It can be a key 
+advantage in our geopolitical competition, as you point out, 
+Mr. Chairman, with China and with Russia. It can also create a 
+national security risk if the technologies are not properly 
+protected. The Department of Energy has an important role in 
+artificial intelligence research. The Department maintains the 
+world's most advanced computing systems. Its 17 national labs 
+have significant experience developing our nation's most 
+sensitive technologies.
+    For this reason, the People's Republic of China is watching 
+nearly every move that is made at our national labs. A recent 
+report revealed that since 1987, the Chinese Communist Party 
+has targeted over 160 Chinese researchers working at our 
+premier nuclear weapons lab. Upon returning to China, these 
+researchers help to advance key military technologies using 
+knowledge financed by American taxpayers. In July of this year, 
+senior FBI officials warned that China is targeting U.S. 
+businesses, universities, and government research facilities. 
+China is trying to get their hands on cutting-edge American 
+research and technology. As of 2021, over 4,000 non-U.S. 
+resident Chinese nationals still work at our nation's labs--at 
+the national labs. Many of these foreign nationals strive to 
+further scientific innovation and do want to collaborate in 
+good faith. They find themselves beholden to an authoritarian 
+regime at home, and the Chinese Communist Party is relentless. 
+Some of these Chinese nationals will see no choice but to 
+support the Chinese Communists through theft of research and 
+technology. Their families back in China may suffer harsh 
+consequences if they do not comply with their government's 
+demands.
+    China's sustained interest in our intellectual property is 
+a stark reminder of the intense global competition surrounding 
+artificial intelligence. This competition may drive 
+advancements in the field. We can't overlook the threat to our 
+economic and national security posed by the Chinese government. 
+The Department of Energy and our national labs must take the 
+China threat more seriously. We can't let our technology fall 
+into the hands of those in Beijing.
+    I look forward to hearing from our witnesses today on what 
+additional steps research agencies and the laboratories and the 
+universities that they fund must take to prevent this theft of 
+American technology.
+    Mr. Chairman, thanks for calling this important hearing.
+    The Chairman. Thank you, Senator.
+    I would like to first of all thank the witnesses for being 
+here today and I appreciate very much you all coming and making 
+the effort.
+    First of all, we are going to have David Turk, Deputy 
+Secretary of Energy.
+    We have Dr. Rick Stevens, who I mentioned before, and thank 
+you for the great work and being recognized for that, Associate 
+Laboratory Director of Argonne National Laboratory.
+    Ms. Anna Puglisi, Senior Fellow, Georgetown University 
+Center for Security and Emerging Technology.
+    And Mr. Andrew Wheeler, Vice President and Fellow at 
+Hewlett Packard Enterprise.
+    And again, thank you all.
+    I will turn to Deputy Secretary Turk. We are going to begin 
+with your opening remarks.
+
+               STATEMENT OF HON. DAVID M. TURK, 
+          DEPUTY SECRETARY, U.S. DEPARTMENT OF ENERGY
+
+    Mr. Turk. Chairman Manchin, Ranking Member Barrasso, 
+distinguished members of the Committee, thank you for the 
+opportunity on behalf of the Department of Energy to talk about 
+our activities in and our vision for artificial intelligence. 
+Let me begin, appropriately so, by thanking this Committee for 
+years and years of strong, sustained support that has led to 
+the DOE becoming an AI powerhouse. And Chairman, you laid out 
+much of that in your own opening statement. With your 
+leadership, we have designed, developed, and currently operate 
+four of the top ten fastest openly benchmarked supercomputers 
+in the world, including, as the Chairman mentioned, the world's 
+fastest--Frontier--at Oak Ridge National Lab.
+    Through the Exascale Computing Project, DOE is developing 
+the world's first capable exascale software ecosystem that is 
+helping to drive breakthroughs--AI breakthroughs--in critical 
+areas as varied as materials science, cancer research, 
+earthquake risk assessment, energy production and storage, 
+computational weapons applications, and I could go on and on. 
+Across a network of 34 national user facilities around our 
+country, DOE generates tremendous volumes of high-quality data, 
+literally the fuel that can lead to more AI breakthroughs. And 
+most importantly, DOE's national laboratory system houses a 
+workforce of over 70,000 scientists, engineers, researchers, 
+and support personnel with world-leading expertise.
+    It is a particular pleasure to be joined on this panel by 
+Professor Rick Stevens, who is one of those top experts, as you 
+mentioned, Chairman, in your opening statement. But as proud as 
+we all should be about this robust AI foundation at DOE, now is 
+the time to take these capabilities to the next level. Advances 
+in AI are enabling enormous progress and breakthroughs that can 
+help address key challenges of our time. And we need to double 
+down on that technical capability--the computers, the software, 
+the data, and most importantly, the researchers, to make sure 
+that we have those breakthroughs here in the U.S., and our 
+private sector can benefit from that as well.
+    Governments around the world are investing in AI 
+capabilities as never before. Chinese investments are expected 
+to reach, as the Chairman said, over $26 billion by 2026. We 
+simply must be bolder and move faster or risk falling behind. 
+AI also lowers the bar for bad actors to do even worse things 
+and to do those worse things easier. AI systems can pose risks 
+to individual safety, privacy, and civil liberties, risks to 
+society for information manipulation, as the Ranking Member 
+stated, bias and discrimination, social engineering, and market 
+manipulation, biothreats, nuclear threats, chemical threats--
+all made easier by AI, potentially. An industry alone cannot be 
+fully aware of the relevant risks and threats because much of 
+that information, rightfully so, falls within the purview of 
+our intelligence community and our national security 
+enterprise.
+    DOE can play an incredibly important role here, including 
+developing methods for assessing and red teaming AI models to 
+identify and mitigate the risks presented by these cutting-edge 
+AI systems that are only developing, and improving incredibly 
+quickly over weeks and months ahead. Over the past five years, 
+we have worked with stakeholders across the AI ecosystem to 
+identify new and rapidly emerging opportunities and challenges 
+presented by AI, and to identify very specifically how unique 
+DOE capabilities--the strong foundation, again, thanks to this 
+Committee--how we can drive progress for AI going forward from 
+the Department of Energy side of things. This culminated in the 
+May 2023 release of a report called ``AI for Science, Energy, 
+and Security.'' This vision and blueprint align precisely with 
+the pressing need for scientific grounding in areas such as 
+bias, transparency, security, validation, and the impact of AI 
+on jobs. We have translated this feedback into a specific 
+proposal for your consideration called ``The Frontiers in 
+Artificial Intelligence for Science, Security, and 
+Technology,'' or FASST, by acronym. This is exactly, Chairman, 
+as you said, a strategic vision, a strategic plan for the DOE 
+nested within a broader strategic vision for the U.S. and the 
+U.S. Government.
+    Mr. Ranking Member, you rightfully point out that there are 
+also research security issues and challenges we need to take 
+head-on and be eyes-wide-open and improving our systems on a 
+regular basis. I want to thank our fellow panelist, Ms. 
+Puglisi, for her testimony, for all her work--excellent 
+testimony that we can improve on even further on the Department 
+of Energy side, including our science and technology risk 
+matrix, which I would be happy to get into in the question-and-
+answer session. We look very forward to further discussing the 
+FASST proposal, everything else we are doing, and updating it 
+based on this Committee's continued guidance and leadership. 
+There is no doubt that with AI we are now on the cusp of our 
+next grand challenge here in the United States. Working within 
+and outside the government, DOE stands ready to step up to this 
+moment, to play our role in fully engaging in this grand 
+challenge by utilizing our unique computing capacity, 
+comprehensive, well-curated datasets, our algorithms, 
+relationships with industry, and again, most importantly, our 
+skilled, leading scientific workforce. All of us at the 
+Department of Energy and our national labs very much look 
+forward to working with this Committee to live up to this 
+moment.
+    Thank you, Mr. Chairman.
+    [The prepared statement of Mr. Turk follows:]
+    [GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+    The Chairman. Thank you, Deputy Secretary Turk.
+    And now we are going to go to Dr. Stevens.
+
+    STATEMENT OF DR. RICK L. STEVENS, ASSOCIATE LABORATORY 
+ DIRECTOR, COMPUTING, ENVIRONMENT, AND LIFE SCIENCES, ARGONNE 
+                      NATIONAL LABORATORY
+
+    Dr. Stevens. Thank you, Chairman Manchin, Ranking Member 
+Barrasso, and members of the Committee for this opportunity to 
+participate in today's discussion about national labs and AI. I 
+have worked on advanced computing for over 30 years at Argonne 
+and at the University of Chicago, and for much of that time, I 
+have been driven by this idea that we need to build 
+intelligence into future computing. And over the last four 
+years, I had the fortune to work with my colleagues at all the 
+labs--all 17 labs, over 30 universities, and dozens of 
+companies to run a series of town hall meetings--seven town 
+hall meetings over four years--that involved over 1,300 
+researchers. And at these meetings, we challenged the community 
+to think broadly about how advanced AI systems, going beyond 
+what we can do today, could be developed and applied in DOE 
+mission spaces to accelerate scientific research, accelerate 
+development of energy technologies, and improve national 
+security-related work. And what I am going to tell you about 
+right now is a little bit of those outcomes of that report.
+    The consensus is that there is an enormous opportunity here 
+to use AI to accelerate discovery both in basic science, 
+accelerate the application of that in energy technologies, and 
+to improve how we actually conduct all of our work in national 
+security. Some of these applications could range from new 
+technologies for better batteries that, say, require less rare-
+earth minerals, which would improve global security in and of 
+itself, to new types of polymers that could be ideal for each 
+application but could be recycled indefinitely without losing 
+performance. We don't know how to do that today, but we think 
+AI could help us with that. We believe AI could be coupled with 
+robotics to automate much of experimental science, improving 
+throughput by orders of magnitude. In fact, it is so 
+compelling, that idea that some of my colleagues have formed, 
+this concept of AI-driven science factories, or some people 
+call it self-driving laboratories, as a way that we will 
+actually accelerate work in drug development for cancer or new 
+materials for semiconductors.
+    AI can also address key challenges in software development. 
+DOE manages over billions of lines of code, and we do not have 
+enough developers, enough senior software developers to 
+maintain that code and deport that code to new machines. We 
+know AI can help us with that problem. In fact, AI systems 
+appropriately trained and tuned could help us design not only 
+software, but hardware for next-generation systems and help us 
+build systems that could save a huge amount of energy. AI 
+systems are also being used to explore ways to control complex 
+systems, like fusion reactors. And we think that same idea 
+could be applied to control future power grids where we have a 
+diversity of sources and changes in demand. AI can also be used 
+to accelerate scientific simulations by replacing traditional 
+numerical methods with new AI-driven methods in achieving 
+speedups of factors of 100 or more across many applications, 
+from weather prediction, to electronic structure computation 
+that is used on over 30 percent of DOE computers.
+    And finally, the biggest opportunity is probably this idea 
+of foundation models--the underlying technology behind things 
+like ChatGPT, but applying that to science. We are discovering 
+that those types of technologies are incredibly versatile for 
+doing scientific problems. They have been trained on millions 
+of science papers--vastly more knowledge than individual 
+scientists would ever absorb in their lifetime, and can be used 
+to integrate and synthesize knowledge, suggest new lines of 
+attack on open problems and so forth. In short, and as a 
+surprise to many, current foundation models have demonstrated 
+an unusual utility in science maybe a decade earlier than we 
+thought. And that is one of the dramatic opportunities and 
+challenges because these models can directly affect scientific 
+productivity today, and we do not have a strategy across the 
+Department for aggressively using this. It is a big, big 
+opportunity and also a challenge.
+    So AI, in all of its forms, is rapidly becoming the most 
+important tool in the scientific and technical toolbox. And as 
+a result of these workshops and the progress over the last five 
+years, I believe it is imperative that the U.S. lead the world 
+in the development of advanced AI systems for scientific and 
+national security applications. I believe DOE is the only 
+agency that can do this, that has all the resources under one 
+roof. Of course, it's going to be a partnership with private 
+industry to do this, and with our academic colleagues. I 
+believe we should commit over the next decade to building the 
+most powerful advanced AI capability for science, energy, and 
+national security. Some might call it an artificial general 
+intelligence for science, or perhaps a super-intelligence for 
+science. It could have many names, but the goal is to go 
+dramatically beyond where we are today in a secure fashion and 
+a reliable fashion.
+    Whoever leads the world in AI for science will lead the 
+world in scientific discovery and have a head start in the 
+translation of those discoveries into products that expand our 
+economy and address modern needs. And in doing that, we will 
+secure what I call the innovation frontier by AI. Whoever leads 
+the world in the development of AI for energy will lead the 
+world in developing and deploying next-generation energy 
+technologies, such as modular reactors that can be safe and 
+deployed anywhere at a moment's notice, or super-efficient 
+combustion systems to take maximum advantage of our resources, 
+and scalable approaches to carbon sequestration, which we 
+desperately need, and better and more effective strategies for 
+electrification of the economy. And by doing that, we will 
+secure the energy and climate frontier. And finally, whoever 
+leads the world in understanding and mitigating the risks of AI 
+and the use of AI to improve national and global security will 
+determine the landscape in which we and our allies will live 
+and work in the future, securing our lifestyles and our 
+prosperity.
+    Thank you for your time, and I really look forward to the 
+questions.
+    [The prepared statement of Dr. Stevens follows:]
+    [GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+    The Chairman. Thank you, Dr. Stevens.
+    And now we will have Ms. Puglisi.
+
+    STATEMENT OF ANNA B. PUGLISI, SENIOR FELLOW, CENTER FOR 
+    SECURITY AND EMERGING TECHNOLOGY, GEORGETOWN UNIVERSITY
+
+    Ms. Puglisi. Thank you Chairman Manchin, Ranking Member 
+Barrasso, distinguished members of the Committee and staff, and 
+thank you for the opportunity to participate in today's 
+hearing. It is an honor to be here alongside the esteemed 
+experts on this panel. I am currently the senior fellow at the 
+Center for Security and Emerging Technology at Georgetown 
+University. I previously served as the National 
+Counterintelligence Officer for East Asia and have studied 
+China's S&T development and tech acquisition strategy across my 
+career. My testimony today will first address why China targets 
+the DOE labs, provide a brief overview of China's S&T system, 
+and finally discuss potential mitigation strategies. I will 
+also offer lessons learned, which include that this is not a 
+DOE problem, but a U.S.-wide problem, because China's system is 
+not the same as ours.
+    China takes a holistic approach to developing technology, 
+blurring the lines between public, private, civilian, and 
+military. Our policies and mitigation strategies need to 
+reflect this reality. Beijing, in many ways, understands our 
+societal tensions, and its statecraft is directed at them, 
+exploiting identity politics by promoting any changes in U.S. 
+policy as ethnic profiling. It is because of this last point 
+that I want to acknowledge how difficult and challenging these 
+issues can be. My own grandparents were immigrants who came to 
+this country with little formal education and worked menial 
+jobs. My presence here today is a testament to the American 
+dream. There is no room for xenophobia or ethnic profiling in 
+the U.S. It goes against everything we stand for as a nation. 
+And precisely because of these values, we must move forward to 
+find principled ways to mitigate the policies of a nation-state 
+that is ever more authoritarian and seeks to undermine the 
+global norms of science.
+    And the importance of science is why China targets the DOE 
+labs. Emerging technologies, as we have heard, such as AI, 
+biotechnology, new materials, and green tech are increasingly 
+at the center of global competition. The DOE labs, because of 
+their mission, are in the crosshairs. While many are familiar 
+with DOE's mission in regards to stewarding our nuclear 
+deterrent, it also plays an essential role in emerging 
+technologies and research, and is essentially a window into the 
+priorities of the U.S. Government. And I have to say, DOE is 
+really an underappreciated resource. While China is not the 
+only country that targets U.S. technology and the DOE complex, 
+China's efforts are complex and multi-faceted and part of a 
+state-sponsored strategy to save time, money, and advance its 
+strategic goals, specifically in these emerging technology 
+areas. My written testimony goes into more detail on the 
+policies, programs, and infrastructure that support these 
+development efforts. China's legal system also complicates 
+collaborations with the DOE complex because its laws compel its 
+citizens to share information and data with Chinese entities if 
+asked, regardless of the restrictions placed on that data, and 
+more importantly, who owns it. I have also provided these in my 
+written testimony.
+    Moving forward, we need to consider the following: we need 
+to have policies for the China we have, not the China we want. 
+Most policy measures to date have been tactical and not 
+designed to counter an entire system that is structurally 
+different than our own. It is essential that the United States 
+and other liberal democracies invest in the future. We have 
+heard about the great promise of these technologies, but we 
+must build research security into those funding programs from 
+the start. Existing policies and laws are insufficient to 
+address the level of influence that the CCP exerts in our 
+society, especially in academia and research. Increased 
+reporting requirements for foreign money in our academic and 
+research institutes and clear reporting requirements and rules 
+on participation in foreign talent programs are a good start. 
+We also have to ensure true reciprocity in our collaborations. 
+For too long, we have looked the other way when China has not 
+followed through on the details of the S&T agreements. There 
+have been no repercussions for that, for not sharing data, 
+providing access to its facilities, and obfuscating the true 
+affiliations of its scientists. However, I want to caution--
+extreme policy reactions, such as closing our eyes and doing 
+nothing, or closing our doors, only really benefit China--the 
+latter by discrediting en masse all efforts to address the 
+problem and by depriving ourselves of the great contributions 
+of foreign-born scientists.
+    In conclusion, what will also make this difficult is that 
+the reality that China is presenting is inconvenient in the 
+short term. This includes companies looking for short-term 
+profits, academics that benefit personally from funding for 
+their laboratories, and former government officials who cash in 
+as lobbyists for China's state-owned or state-supported 
+companies. I want to thank the Committee again for continuing 
+to discuss this issue. These are hard conversations that we as 
+a nation must have if we want to protect and promote U.S. 
+competitiveness, future developments, and our values. Thank you 
+very much.
+    [The prepared statement of Ms. Puglisi follows:]
+   [GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+    The Chairman. Thank you.
+    And now we will have Mr. Wheeler.
+
+STATEMENT OF ANDREW WHEELER, FELLOW AND VICE PRESIDENT, HEWLETT 
+   PACKARD LABS AND HPC AND AI ADVANCED DEVELOPMENT, HEWLETT 
+                       PACKARD ENTERPRISE
+
+    Mr. Wheeler. Chairman Manchin, Ranking Member Barrasso, and 
+distinguished members of the Committee, thank you for the 
+opportunity to testify today and thank you for this Committee's 
+support for the Exascale Computing Initiative. My name is 
+Andrew Wheeler and I lead advanced development in high 
+performance computing and artificial intelligence and serve as 
+the Director of Hewlett Packard Labs, the central applied 
+research group for Hewlett Packard Enterprise. While we trace 
+our roots back to the original Hewlett-Packard Company, as many 
+of you know, Hewlett Packard Enterprise was formed as a new 
+publicly traded company in November 2015. At HPE, we 
+fundamentally believe that AI will have as significant an 
+impact on our lives as any technology to date. Training the 
+largest AI models is a supercomputing problem, and at HPE, we 
+build the world's best supercomputers. With our partners at the 
+Department of Energy, we co-design and co-build supercomputers 
+that target complex scientific, engineering, and data-intensive 
+workloads. These include systems at Sandia and Los Alamos 
+National Laboratories in New Mexico, the National Renewable 
+Energy Laboratory in Colorado, and the National Energy 
+Technology Laboratory in Morgantown, West Virginia.
+    Our national investments in supercomputing have far-
+reaching benefits across the Federal Government. For example, 
+our innovations in computing power and density that we provide 
+to the DOE are also being used across the Department of 
+Defense, in the intelligence community, at the National Oceanic 
+and Atmospheric Administration to forecast weather, and at the 
+National Science Foundation centers. In fact, during the early 
+stages of the COVID-19 outbreak, the national labs, including 
+Argonne and Lawrence Livermore, used their supercomputers to 
+accelerate a path to treatment to combat the disease. Using 
+detailed digital simulations to analyze a vast set of drug 
+candidates, researchers at Lawrence Livermore narrowed down the 
+number of potential antibody candidates from an initial set of 
+100 duodecillion--that is a one with 40 zeros after it--to just 
+20. The lab's researchers accomplished this in weeks compared 
+to the years it would take using other approaches.
+    In 2016, HPE was proud to be chosen as a key partner in the 
+DOE's Exascale Computing Initiative, which was designed to 
+accelerate the research, development, acquisition, and 
+deployment of new technologies to deliver exascale computing 
+and to usher in a new era of supercomputing speed and 
+capabilities. Then, in May 2022, HPE, as part of a public-
+private partnership with Oak Ridge, achieved exascale computing 
+with a computer that is more powerful than the world's next 
+four fastest systems combined. To put exascale into context, 
+the human brain can perform about one simple mathematical 
+operation per second. An exascale computer can do at least one 
+quintillion, which is one billion times a billion calculations 
+in the same amount of time. The success of the Exascale 
+Computing Initiative restored the U.S. position as having the 
+world's most powerful computer and also marked the creation of 
+the world's largest AI system, which will soon be joined by 
+systems installed at Argonne and Lawrence Livermore. The 
+Exascale Computing Initiative was the model of success. 
+Congress made the right investments. Our national labs 
+challenged America's technology industry, and at HPE, we rose 
+to the challenge.
+    In conclusion, while the United States has regained its 
+rightful role as the world leader in supercomputing, now is not 
+the time to rest on our laurels. The DOE national labs are 
+producing results that researchers could only have dreamed of 
+just a few years ago. Continued investment in this successful 
+partnership is in our national, economic, and security 
+interests, and HP looks forward to working with the U.S. 
+Government to continue our global leadership.
+    [The prepared statement of Mr. Wheeler follows:]
+   [GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+    The Chairman. Thank you.
+    Now, I will begin with our questioning. My first question 
+will go to Secretary Turk and Dr. Stevens and Mr. Wheeler. In 
+my testimony, I mention a study about how AI was used to 
+provide clear and detailed steps to create a pandemic or 
+bioweapon. The DOE and the labs are uniquely positioned to do 
+extensive work in detecting and mitigating emerging 
+technological threats related to an array of biotechnologies 
+and nuclear security. So Mr. Turk and Dr. Stevens, what can the 
+Department and the labs do to address these safety and security 
+concerns?
+    Mr. Turk. Well, thanks for the question. You are right to 
+raise this as an issue. The MIT study that you referenced and 
+put into the record is one of those that is a real eye opener. 
+It should be, especially for those who don't deal with these 
+issues on a daily basis. So we have a real challenge here. As 
+Professor Stevens and others have pointed out, AI can do a lot 
+of good, but it can do a lot of harm here, right? It allows 
+actors who are not as sophisticated scientifically or 
+technologically to do certain things that could have huge, huge 
+harm. So from the DOE side, I think we have some ability to be 
+incredibly helpful working with others--Department of Defense, 
+HHS, others as well. We have to remember that our national labs 
+don't just work for the Department of Energy, they work for all 
+the other agencies, and a lot of other agencies already have a 
+lot of programs, including in the biodefense and biotech area.
+    We also, at the Department of Energy, know how to deal with 
+classified information. We have our own intelligence branch. 
+And that is incredibly important here as well. So we are not 
+just relying on what is in the open record, but we have the 
+best of what is going on from a scientific and certainly from 
+an intel perspective.
+    The Chairman. Let me give you a quick overview of what I am 
+trying to get to--I look back and we all remember when the 
+internet was coming on board and it was born out of the labs. 
+And then, by the 1990s--early 1990s--we had to do something. We 
+created Section 230, thinking we would let it develop and be 
+all it could be. We look back, and it's even more than what we 
+thought it could be, and it has been used very effectively to 
+help economies and help people all over the world. But it has 
+been used very detrimentally too. So we are trying to not re-
+create that same environment here with AI. That is what we are 
+looking at.
+    So what you saw, just with what the MIT students could do 
+in one hour, it is alarming. And I have advised some of my 
+colleagues about this. What can you do to stop something like 
+that, and what kind of guardrails are needed?
+    Dr. Stevens, do you want to say something on that?
+    Mr. Turk. I was just going to say this is exactly why we 
+need to invest in these capabilities, right? I mean, we need to 
+be ahead of the curve.
+    The Chairman. Right.
+    Mr. Turk. And Professor Stevens can certainly get into that 
+more.
+    Dr. Stevens. Let me just try to outline quickly how we 
+would approach that problem. So, of course, DOE is working with 
+NIST on a thing called the AI Risk Management Framework, which 
+is largely currently envisioned as a process that uses humans 
+to evaluate the trustworthiness and the alignment--that is, 
+whether a model does something that you would like it to do or 
+something that you don't want it to do. I think the key thing 
+here--there are actually two key problems that we have to 
+solve. One is, we have to have the ability to assess the risks 
+in current models at scale. There are over 100 large language 
+models in circulation in China. There are more than a thousand 
+in circulation in the U.S. A manual process for evaluating that 
+is not going to scale. So we are going to have to build 
+capabilities using the kind of supercomputers we have and even 
+additional AI systems to assess other AI systems, and we can 
+say this model is safe. It does not know how to build a 
+pandemic or it won't help students do something risky. That is 
+one thing we have to do.
+    The second thing we have to do is, we have to understand 
+the fundamental issue of alignment--what is called alignment--
+that is, building these models that align with human values and 
+are reliable in aligning with human values. And that is a 
+fundamental research task. It's not something where we can just 
+snap our fingers and say we know how to do it. We don't know 
+how to do it. Companies don't know how to do it, labs don't 
+know how to do it, universities don't know how to do it. That 
+is one of the goals that we would have to have in a research 
+program like this. So we need scale, the ability to assess and 
+evaluate risk in current models and future models, and we need 
+fundamental R&D on alignment and AI safety.
+    The Chairman. It's growing so quickly and expanding--when 
+we heard about it, and coming at it, you know, from our 
+standpoint, to where we are today and to have a class study, 
+and these were non-scientist students.
+    Dr. Stevens. Yes.
+    The Chairman. To be able to get this. All right, how can we 
+put that back--the cat back in the box?
+    Dr. Stevens. I don't think we can put it back in the box. I 
+think we are going to be--we have to get smarter about how we 
+manage the risks associated with advanced AI systems, and using 
+the term that people are using quite a lot about being eyes-
+wide-open. There is no putting Pandora back in the box, right? 
+Every person within the next few years is going to have a very 
+powerful AI assistant in their pocket to do whatever it is that 
+they can get that assistant to help them to do. Hopefully, most 
+of that will be positive advances for society and so on. Some 
+of that will be negative. We have to be able to understand how 
+to reduce that negative element, detect it when it happens, and 
+mitigate it either through laws or through other means--
+technical means.
+    The Chairman. Yes.
+    Dr. Stevens. Before something dramatically bad happens. And 
+I think that needs to be part of the technical agenda for the 
+labs, and quite frankly, across the Federal Government.
+    The Chairman. I am going to take the liberty of having 
+seven-minute rounds, so if you want to set that for seven 
+minutes. Ms. Puglisi, did you want to speak on this at all? Do 
+you have any comments?
+    Ms. Puglisi. Sure. I think that is also important, as we 
+look at AI as a tool of discovery, and in some ways you could 
+say that the study that the classroom did was a discovery. 
+There are a lot of steps though that need to happen from the 
+time you go from a sequence into something that can really have 
+a large-scale damage that is talked about. And since one of the 
+things that we are actually taking a closer look at is--having 
+the sequence is one thing, but then what are those follow-on 
+steps? And so that is something that there is still a lot of--
+what chemistry, what biology has to go on in between that?
+    The Chairman. I guess in a nutshell, is it too late to put 
+any guardrails on? Have we missed it?
+    Mr. Wheeler. Not entirely. I think there are many layers to 
+this.
+    The Chairman. They are getting close.
+    Mr. Wheeler. I think there is both a policy aspect to this 
+as well as, you know, kind of a research component. But as an 
+example, on the policy side, like our own company, right, we 
+spent over a year and a half developing what we call our AI 
+ethics principles. And this is all about, you know, getting our 
+thousands of engineers and users, you know, go through training 
+around, okay, what does it mean to use AI in our product 
+developments? You know, how are we going to deploy solutions 
+that harness AI? And now, that can't solve every problem 
+because, as you mentioned, there are bad actors that maybe 
+wouldn't follow that same line of reasoning. And that's where I 
+think the research investment comes into play. There is a broad 
+field of study around this trustworthy AI, which ultimately can 
+provide some of those guardrails you are asking about, but we 
+are still really in the early days of some of that and 
+deploying some of those solutions and there is a lot of work 
+that is left.
+    The Chairman. Thank you.
+    Senator Barrasso.
+    Senator Barrasso. Thank you, Mr. Chairman.
+    Ms. Puglisi, just a couple things. You are an expert on 
+Chinese science and technology policy. You very well outlined 
+us in your opening statement the threats that China poses to 
+government-funded research as well as private-sector 
+development. So we have more than 4,000 Chinese nationals 
+working in the Department of Energy labs. Are these employees 
+vulnerable to the Chinese Communist Party--their talent 
+recruitment programs? How does that work?
+    Ms. Puglisi. Right, thank you.
+    The talent recruitment programs really do pose quite a 
+challenge based on the principles that a lot of these 
+individuals, when they sign these contracts, often obfuscate 
+their participation. But I think, as I mentioned in my opening 
+statement, it's really important as we go forward that we 
+acknowledge the policies and programs that China has put in 
+place and really focus on how our system and their system is 
+different. And that is why it's important to talk about the 
+human rights issues and the kinds of pressure that the Chinese 
+government can bring to bear on individuals, especially, as you 
+had mentioned in your opening statement, whose families are 
+still in China.
+    Now, I think it is a really delicate balance. And so some 
+of these reporting programs, and also just following up on 
+different affiliations and thinking through the risk matrix is 
+one of those tools that can be very useful because all resource 
+does not have the same amount of risk, right? And so, it's 
+important to not have a one-size-fits-all approach to this. But 
+it also highlights the importance of really investing in 
+homegrown talent as well.
+    Thank you.
+    Senator Barrasso. So Mr. Turk, more than a year ago, I 
+wrote to the Department regarding the persistent threat of the 
+Chinese foreign nationals doing research on sensitive 
+technology at our labs. A copy of the letter (holds up copy).
+     I brought to the attention that 162 Chinese nationals 
+actually stole sensitive research material from Los Alamos and 
+the lab. Your Department, again, answered the letter, but 
+really didn't answer my question. So let me ask the question to 
+you: Does the benefit of the work of the Chinese foreign 
+nationals within our labs outweigh the documented risks to both 
+our research and our national security?
+    Mr. Turk. Let me first thank you for all your focus on this 
+issue. Thanks to Miss Puglisi and others who have focused their 
+careers here. And I thought that Miss Puglisi's testimony, as I 
+said in my opening, was incredibly useful, just eyes-wide-open, 
+right? Here is the threat and here is what we face and how do 
+we deal with it and get the balance right. So three things, 
+maybe just to point out, and happy to get into this in any 
+detail. One, we do have specific restrictions. So you can't 
+work at a DOE lab if you have done a talent recruitment 
+program. And to make sure that we have that prohibition and 
+those restrictions in place and trying to really think about 
+not just what is called a talent recruitment program, but other 
+ways that the Chinese government or others can get around that 
+as well so that we have that eyes-wide-open on those specific 
+prohibitions.
+    Secondly, as was mentioned, we have the science and 
+technology risk matrix. This is going beyond what is under 
+export control or what is under classification and making sure 
+we are looking at technologies. And just as Miss Puglisi said, 
+doing a ranking of where are the most are sensitive 
+technologies. AI is one of the six sensitive technology areas 
+that we have a particular focus on in this risk matrix. And 
+make sure that for those very sensitive applications, we have 
+extra protections. So it is a risk-based model along those 
+lines.
+    Third, we do have a counterintelligence unit at the 
+Department of Energy, and all of our field offices cover all of 
+our labs. So we are actively investigating and making sure that 
+we are following up on any leads so that we can be as 
+thoughtful and proactive as we possibly can. There is a balance 
+here, just as you said, just as Miss Puglisi said. It is a 
+great part of our scientific apparatus that we have folks from 
+all over the world who want to come work here, right? Leading 
+scientific minds, who, you think of Albert Einstein. You think 
+of a number of others who benefited our country immensely, and 
+we want to take advantage of that, especially where appropriate 
+with open science with areas that are fruitful for that kind of 
+focus as well. It is also useful to note, I have one statistic 
+here--many of the folks who come here to work in the U.S., 
+including in our labs, end up staying and becoming incredibly 
+important parts of our ecosystem. So over 90 percent of top AI 
+Ph.D. students from around the world stay here in the U.S. five 
+years after graduating. And that is a huge benefit, but looking 
+forward to working with you further.
+    Senator Barrasso. I appreciate it because the good news is 
+90 percent come and stay and then the concern is that there is 
+potentially the ten-percent that do return to China.
+    Mr. Turk. Absolutely, or have families there, as you have 
+mentioned, and Miss Puglisi has mentioned. And again, eyes-
+wide-open to take those threats head-on.
+    Senator Barrasso. Yes.
+    Dr. Stevens, I don't know if there is something you want to 
+add on this, but I am interested in how foreign nationals from 
+countries of concern, how they are vetted before they are hired 
+in your lab?
+    Dr. Stevens. There is a process that is actually quite 
+similar across all the laboratories where there is a background 
+check. There are the filters that Secretary Turk mentioned in 
+terms of recruitment programs and their history. There is a 
+famous form--493, we call it--that foreign nationals have to 
+fill out. So it's a long process to get hired and get cleared. 
+And not just to be hired, but even to come as a visitor and to 
+participate and use our facilities. So I think the labs do a 
+quite good job of screening this and they make very valuable 
+contributions. One statistic that I think was maybe mentioned 
+is that over 60 percent of the computer science graduate 
+students in the U.S. are foreign born. And the workforce 
+component that we need to build advanced AI systems will not 
+function if we prohibit those students from participating in 
+this ecosystem. So we are going to need to really accelerate 
+our workforce development, and foreign-born participants are an 
+important component of that.
+    Senator Barrasso. So then, a follow-up to that to Mr. 
+Wheeler. So given the global nature of the technology 
+development, how does your organization navigate the challenges 
+of international collaboration while ensuring the security and 
+the integrity of the research?
+    Mr. Wheeler. So, much like the national labs, we have a 
+process for how we onboard talent as well. We also have, you 
+know, ongoing training that is mandatory. It's around global 
+trade, and so it's very specific. Everyone gets trained around, 
+you know, what are the regulations around how do you interact 
+if, you know, whether it's a collaboration opportunity with 
+anyone abroad, honestly. And so, we have very strict control 
+that manages what kind of technology can be transferred, who we 
+work with, so very tight guidelines there. And then above and 
+beyond that, for the projects we are involved in specifically, 
+you know, and this is obviously closer to Department of 
+Defense, but you know, if it's a project that requires only 
+cleared personnel, we have that ability. We have the ability to 
+do secure manufacturing. So we have a lot of steps in terms of 
+security and who we work with and then how the work ultimately 
+gets done.
+    Senator Barrasso. Thank you, Mr. Chairman.
+    The Chairman. Senator Hirono.
+    Senator Hirono. Thank you, Mr. Chairman.
+    So we have heard from all of you that the Chinese 
+government has a systematic campaign of stealing American 
+intelligence--intellectual property--to advance their economy 
+and that our DOE labs are targeted for this kind of effort. But 
+I want to point out, as some of you have pointed out, the 
+sensitivities involved and the balance that is required. So it 
+is important to deter Chinese government wrongdoing and 
+prosecute espionage and theft, but our concern is about the 
+Chinese government's actions, not Chinese people. And we must 
+avoid misguided prosecution such as what was undertaken by the 
+Justice Department in the previous Administration with their 
+China initiative. Going after researchers on shoddy evidence 
+will hurt, not help, American innovation by sending the best 
+minds elsewhere.
+    So listening to some of the responses that you have 
+provided already on this subject, for Secretary Turk, you say 
+that we are going forward with eyes-wide-open and we have some 
+proactive steps that the DOE has taken. So do you consider 
+these steps to be adequate to protect us from the kind of 
+intellectual property espionage engaged by entities such as 
+China, and perhaps Russia and Iran?
+    Mr. Turk. Well, you are right to say it's not just China. 
+There are others as well, of course--Russia, Iran, North Korea, 
+et cetera. And I think the short answer and the honest answer 
+is, we always need to do more, right? The threat is evolving 
+and we need to evolve our responses accordingly, which is why I 
+mentioned this risk matrix. We are annually updating that risk 
+matrix now so that we make sure that we are updating in terms 
+of what technologies we consider sensitive, what protocols we 
+have in place. We have a standing group now made up of folks 
+from throughout the labs and DOE headquarters to take a look 
+and continually provide ideas to the Secretary and myself so 
+that we can continually improve. So we just need to improve on 
+a regular basis, on a continual basis. And as you say--
+rightly--get that balance right.
+    Senator Hirono. Because with the China initiative, I would 
+say that we did not get the balance right. And in fact, the 
+message to the Chinese community and the AAPI community was 
+that here is our government targeting these people, and it 
+created an environment where AANHPI people were targeted for 
+various kinds of abuse, to say the least.
+    For Dr. Stevens, in the wake of the devastating fire on 
+Maui, residents have been subject to disinformation on social 
+media, likely coordinated by foreign governments, governmental 
+entities, and generated with AI to discourage residents from 
+reaching out to FEMA for disaster assistance and to sow 
+distrust in the Federal Government. Are you aware that this 
+happened in the wake of the Maui disaster?
+    Dr. Stevens. Absolutely.
+    Senator Hirono. Yes, so, you know, at this point, and with 
+more of these kinds of natural disasters occurring with much 
+more devastating results, we can expect that there will be, 
+probably, these kinds of misinformation to sow distrust in our 
+own government. So how can we use AI or other tools to rapidly 
+detect and counter such efforts to spread disinformation, 
+especially in emergencies or following disasters?
+    Dr. Stevens. So I think we have to take several steps. One 
+is to have advanced systems for detection of synthetic or deep 
+fake information, right, non-true information that gets 
+disseminated. We should uphold the existing laws that prevent 
+that kind of information legally from being disseminated 
+through social media channels. We need to enforce watermarking, 
+this technique of putting secret information in AI-generated 
+output so we can detect when it's generated by AI. And we need 
+to make headway on watermarking official sources, that is, 
+official news that comes from governments or from responsible 
+parties so that it can be detected automatically that that is 
+true and correct information coming out, and distinguish it 
+from misinformation generated by AI. So there is a multiple-
+layered approach to protecting the citizens from 
+disinformation. We have to do all of those things.
+    Senator Hirono. Do you think, Secretary Turk, that we 
+already have these kinds of systems in place, because, as I 
+mentioned, these kinds of natural disasters are occurring more 
+frequently with more devastating results. You can't have all 
+this misinformation out there stopping people from accessing 
+the very kind of help that they need. Do we have these kinds of 
+counter systems already in place?
+    Mr. Turk. So honestly, we have some of them in place, not 
+just at Department of Energy, but others across the government, 
+but not as much as we need to, absolutely. And Professor 
+Stevens, I think, is exactly right. We need a layered approach 
+and we need to continually update and improve that, and 
+frankly, have the capabilities, like we are talking about in 
+this FASST proposal in the U.S. Government so that we can do 
+the kinds of monitoring, we can do the kinds of analysis that 
+allow us--not only the Department of Energy, but others across 
+the government--to have the information and the tools to do the 
+watermarking and other mitigation efforts.
+    Senator Hirono. Do the other two panel members want to 
+weigh in on this concern that we have following disasters, that 
+there are entities such as Russia that are spreading 
+misinformation to people who are already in great pain?
+    Do you agree that we need to put in place ways that we can 
+counter this kind of misinformation?
+    Ms. Puglisi. Right. I think the challenge of misinformation 
+with these tools, as I mention in my written testimony, with 
+the recent reports about what was happening with Facebook and 
+other kinds of social media, we see misinformation across a 
+wide range of topic areas, from the natural disasters to, as I 
+mentioned in my opening statement, all kinds of activities that 
+the U.S. Government are either doing or putting in place. So I 
+think it's a growing issue.
+    Senator Hirono. Yes. I want to note that in the case of 
+Maui, the family of federal agencies were there, over 25 or so 
+agencies with over a thousand personnel, and yet, there was all 
+this disinformation out there saying that the response was 
+lacking. And so, this kind of sowing of mistrust by--I would 
+say Russia was a big actor in this instance.
+    Once again, for Dr. Stevens, I just want to note that your 
+testimony highlighted some of the ways that AI can provide 
+breathtaking opportunities for technological innovation, but 
+what are Argonne and the other DOE national labs doing to 
+ensure that the technologies you are helping to develop are 
+accessible to small businesses to help them innovate?
+    Dr. Stevens. So we are very concerned about the 
+availability of small businesses and students and so on to 
+learn about AI and to use AI. I think this concept is often 
+called democratization of access. The different DOE labs have 
+different programs to make access to our computing facilities 
+and AI models that we produce, that are open, that are safe and 
+secure, available to those communities, and we provide help for 
+those communities, whether it's small businesses or whether 
+it's local governments, to gain access to our systems to do 
+that, and I think it's an ongoing effort. I think more needs to 
+be done there. And I think DOE, working in concert with other 
+agencies, particularly NSF, via something like the NAIRR 
+initiative, could actually make a big impact on that. And that 
+is something that we should do together.
+    Senator Hirono. Thank you.
+    Thank you, Mr. Chairman.
+    The Chairman. Thank you, Senator.
+    Now we have Senator Murkowski.
+    Senator Murkowski. Thank you, Mr. Chairman. Thank you for 
+this hearing this morning--obviously a very, very timely topic. 
+As was just alluded to in Senator Hirono's question, there is a 
+lot of good that we can gain from AI, and as scary, I think, as 
+it is in so many different areas, I think it's important not to 
+lose sight that when utilized correctly, it can truly be 
+transformational.
+    So a question to you, Secretary Turk. As we are looking to 
+different applications for good within AI technologies and AI 
+workflows, we talk a lot here in this Committee, and we have 
+been talking a lot about things like permitting reform, 
+something that has proven to be tediously long and involving 
+multi-layers of government processes. Do you see application 
+for being able to streamline some internal government processes 
+so that we can reduce the time, for instance, that it might 
+take for an agency to deliver on a permit, or to really just 
+kind of process any paperwork, reduce workloads? How do you see 
+this being utilized for the good?
+    Mr. Turk. Well, I think the short answer is, absolutely. We 
+are sitting on a treasure trove of data from previous 
+applicants for different permits out there. If we can harness 
+that data with algorithms with AI, we can shrink the timelines 
+for permitting. We can take advantage of that data in a way 
+that allows us to do what we need to do, which is build out our 
+electricity infrastructure, our transmission, other kinds of 
+infrastructure that we need in our country. So there is no 
+doubt in my mind, there is an awful lot of good that can happen 
+in the energy space, including accelerating on the permitting 
+side. We have got a lot of renewables coming into the grid. We 
+have got to balance all of that. AI can be incredibly helpful 
+with the power and the data that it has available.
+    Senator Murkowski. So you have had an opportunity--a couple 
+of opportunities--to come to Alaska. You have been read in very 
+well as to many of the unique aspects. And unfortunately, one 
+of the unique aspects that we have is sometimes we have a lack 
+of data. We just haven't done the mapping. We haven't done the 
+review, the analysis, and so, we know that with AI, your output 
+is just as good as your input. And if you have these holes in 
+that, it can be a concern in itself. So how can--again--how can 
+we utilize the benefits of AI in government processes for good 
+while ensuring that, perhaps, some states, some areas, like 
+Alaska, where data is just not complete, that they are not 
+actually disadvantaged? Have you given thought to that?
+    Mr. Turk. Yes, absolutely. And let me say what a pleasure 
+it has been to work with you and your staff. And I have had a 
+chance to not only come up to Alaska and go to Anchorage, but 
+also to get out there to Nome and Kotzebue and other areas and 
+really hear from folks in terms of what we can do from the 
+Department of Energy to try to be helpful in that space.
+    But I think you raise an incredibly important point. AI is 
+only as good as the data that you feed into it. And if you 
+don't have the data, it can't be the powerful tool for good 
+that you just highlighted on that front. So I think it's a 
+continuing effort on our part, and I am eager to work with you 
+and our Arctic Energy Office to make sure that we are doing 
+everything we can from the Department of Energy, working with 
+others in the Federal Government, to make the investment so 
+that we have that data available so that it can be feeding into 
+these AI models. So it's an ongoing effort. We are trying to 
+make sure that we are bringing that in to everything that we 
+do, but it's an ongoing effort, and something that we will 
+continue working on.
+    Senator Murkowski. Well, we do need to work together on it. 
+And as we identify--you know, I spend a fair amount of my time 
+on the appropriations side with the Department of the Interior 
+budget and recognize that we are still directing a lot of 
+resources--federal resources--to just basic mapping.
+    Mr. Turk. Yes.
+    Senator Murkowski. Just basic mapping. So we have got a 
+long ways to go there.
+    Let me ask you about the Department of the Interior. About 
+a month ago, the IG for Interior, Mark Greenblatt, noted in an 
+op-ed in the Washington Post that there had been an inspection 
+undertaken by his office and they were able to use a simple 
+tool to crack more than 18,000--or 21 percent--of the 
+department's passwords. And this included senior department 
+officials, hundreds belonging to employees with elevated 
+privileges. More than 14,000 of these passwords were cracked 
+within the first 90 minutes of testing. And he noted that his 
+office was able to do this by spending less than $15,000. That 
+should alarm all of us.
+    Probably a general question, and I hope you answer yes, but 
+we understand what happened at Interior. Is Department of 
+Energy any better prepared to ward off nefarious actors than we 
+saw at DOI?
+    Mr. Turk. So we are trying to continually improve. One of 
+the things that makes me most nervous, and you are right to 
+point out the benefits of AI, but one of the biggest 
+challenges--and the technology is only improving and 
+improving--it makes it easier for less sophisticated actors to 
+do more sophisticated kinds of attacks, whether it is 
+cybersecurity or any number of other things--biohazards, even 
+nuclear proliferation efforts as well. And so, we have to take 
+that head-on. That is why we need to make the investments in 
+the U.S. Government so we can detect these kinds of things so 
+we can be ahead of the curve as much as we possibly can. But 
+this is something we need to keep working on day in and day 
+out, whether it's the Interior Department, the Department of 
+Energy, or private-sector companies as well.
+    And this should be a wake-up call. The Pandora's box is 
+open. We now need to deal with it and we need to take these 
+kinds of emerging AI challenges head-on. And we are not there. 
+We are not there where we need to be. We need to make the 
+investments. We need to keep working at this. This is why we 
+wanted to put together a proposal, our FASST proposal, with our 
+ideas of what we think we need to do to try to do what we can 
+from the Department of Energy side, and again, have the back 
+and forth with you, with others here in Congress, to make sure 
+that we are as prepared as we possibly can be. But we have work 
+to do.
+    Senator Murkowski. We have work to do. My fear is, what we 
+saw within the Department of the Interior is just one 
+department of 12. And where the vulnerabilities may be a little 
+bit different, but the impact can be equally----
+    Mr. Turk. Huge.
+    Senator Murkowski. Equally disastrous.
+    Mr. Chairman, thank you.
+    The Chairman. Thank you.
+    And now we have Senator Cortez Masto.
+    Senator Cortez Masto. Thank you, Mr. Chairman. Thank you to 
+the panelists for this great conversation.
+    Let me start with Deputy Secretary Turk, because in Nevada 
+we have--and I want to thank, also, Hewlett Packard. They were 
+a part of this. We have been having some red team hacking going 
+on at some of our universities to really assess what is 
+happening here. And let me address what everybody has talked 
+about--the nefarious actors. The concerns here that AI systems 
+can be tricked into providing instruction for causing physical 
+harm. We have talked about that. We need to address it. I think 
+we need to as well. I think those red team hacking weekends are 
+just as important. That's the manual piece of it, I think, Dr. 
+Stevens, you talked about, that we need to continue. And let me 
+just highlight, because I know the weekend in particular that I 
+am talking about in August in Las Vegas, it was designed around 
+the White House's Office of Science and Technology Policy's 
+``Blueprint for an AI Bill of Rights,'' and it's a competition 
+that happens regularly.
+    But my question here is one, yes, that needs to continue. 
+Two, though, it also is building our cyber workforce. Is that 
+right? That's what is key to this as well is that we need to 
+have more engagement in building that workforce. I am proud 
+that UNLV was the host of this and will continue to be the host 
+of these types of red team hacking exercises. But it also is 
+part of this idea that we have to create these academic centers 
+of excellence in cyber defense, which UNLV is, a number of 
+colleges are. And I think many of you are participating in 
+those exercises.
+    So I guess my question for you, Deputy Secretary Turk, is, 
+what else should we be doing to build out that workforce? I 
+know there is work going on right now. Can you talk a little 
+bit about the National Cyber Workforce and Education Strategy? 
+How does that fit in to what we are trying to achieve with 
+developing that cyber workforce, and what else do we need to 
+know here in Congress to support it?
+    Mr. Turk. So the workforce piece is absolutely 
+indispensable, and I think there is a number of ways we need to 
+come at it. We need to have a comprehensive and coherent 
+strategy to it. First of all, if you want to have top talent 
+come into the government, for all the functions that we need to 
+serve, you have to have the cutting-edge facilities and 
+capabilities, right? The fact that we have the world's largest 
+supercomputer is a pretty nice attractor for some of the top 
+talent wanting to do cutting-edge applications along those 
+lines. We have the data. We have the other pieces as well. So 
+we have to have that infrastructure that is attractive for that 
+top talent.
+    The private sector is going to be able to pay folks an 
+awful lot more than the government, even if we have bonuses and 
+other kinds of attractive options, which we are trying to do. 
+Having the national lab apparatus gives us greater flexibility, 
+candidly, than if they were all Federal Government officials in 
+the civil servant kind of sense. And so, I think--and Professor 
+Stevens can certainly talk about that--using those 
+partnerships. Argonne National Lab has a partnership with the 
+University of Chicago--cutting-edge university there. That 
+helps in incredibly important ways to try to channel as many 
+folks as we can into this sector.
+    But I think there is no way we have a successful AI 
+strategy as a government, as a country, unless we have the 
+workforce and the pipelines for the workforce, making sure that 
+we have that capability, not just in the private sector--
+incredibly important--but in the government for all the 
+functions that we need to have here.
+    Senator Cortez Masto. And as we are building out that 
+workforce, and I am going to ask Hewlett Packard, if you can, 
+because I know you were part of this and you have--Hewlett 
+Packard has a Future of Work Academy for community and 
+technical colleges and they are involved with nearly, I want to 
+say, 100 institutions and over 500 students. And so, the 
+private sector is engaged, correct?
+    Mr. Wheeler. Absolutely. In fact, I am glad you even 
+mentioned the centers of excellence because what we have found 
+over, you know, the years--honestly, decades--is that really is 
+a best practice for, you know, once you have, you know, a 
+center with maybe with the compute capability, but you bring 
+together, you know, those domain experts that are local to that 
+institution, you know, you bring the universities that are 
+local there as well. And it really does allow you to develop 
+that local workforce. And as we think about AI and needing more 
+and more of that expertise, it's a great best practice to, 
+again, help develop that workforce locally and just, you know, 
+kind of grow and innovate together.
+    Senator Cortez Masto. And this is the opportunity, and 
+maybe, Dr. Stevens, I am going to ask you to talk about this, 
+because it is so hard for us in Congress to come back in and 
+overlay a framework and then actually try to develop values and 
+principles in that framework. And this is an opportunity, as we 
+are building out that cyber workforce, to grow those values and 
+principles around AI. Is that the goal here when we develop the 
+curriculum?
+    Dr. Stevens. Yes, absolutely. I mean, as AI becomes more 
+powerful, as has already been mentioned, it does two things. 
+For somebody who knows something, it empowers them to do more, 
+right? So whether that is somebody who is defending our systems 
+from a cybersecurity standpoint, it allows them to be more 
+powerful, to affect more systems, to be smarter about how they 
+can do defense. But it also empowers the other side to be more 
+aggressive in how they might attack systems. And we need to, of 
+course, win those battles and we have to create a community and 
+a new way of thinking--an AI-enabled cyber strategy. And I 
+think that is what we have to start teaching.
+    And of course, it's very attractive to the students. When 
+you talk about cybersecurity, they are already interested, but 
+then you bring AI into it, and they are super-interested. So I 
+think we have a big opportunity to bring more people into the 
+workforce on this by attaching it to the AI agenda.
+    Senator Cortez Masto. Thank you.
+    Ms. Puglisi.
+    Ms. Puglisi. And that is really an essential part--the 
+workforce in the future competition. And I might add that it is 
+also--we have spent a lot of focus on looking at that Ph.D. 
+level or higher education level. It's really, what does it take 
+to have that technically proficient that does not necessarily 
+need a degree or need an advanced degree. And I would venture 
+to say that it's really important to start and begin that at 
+the K-12 level and really lay that groundwork because that is 
+really what it's going to take to compete.
+    Senator Cortez Masto. And that appears to be what is 
+happening with what I see with the different competition, the 
+different----
+    Ms. Puglisi. Right.
+    Senator Cortez Masto. Whether it's the Federal Government, 
+state, or private sector, that is the focus.
+    Ms. Puglisi. Yes.
+    Senator Cortez Masto. Correct?
+    Ms. Puglisi. Yes, and actually CSET has done a lot of work 
+around those topics and the importance of competitions as well 
+as looking at the demographics of that workforce.
+    Senator Cortez Masto. Thank you.
+    Ms. Puglisi. So we can make sure that you have that. 
+Thanks.
+    Senator Cortez Masto. Thank you.
+    Thank you, Mr. Chairman.
+    The Chairman. Thank you.
+    If we could, I will tell you, we have votes--two votes--at 
+11:45. We got to keep our questions--I know we went to seven. 
+We will go back to five minutes, if we can. If you need a 
+little bit longer, fine. If you can stay closer to five, that 
+would be great.
+    Senator Hawley.
+    Senator Hawley. Thank you, Mr. Chairman.
+    Mr. Turk, since I had you before me the last time we 
+talked, we talked about the radioactive contamination that the 
+Federal Government had delivered to the St. Louis and St. 
+Charles regions of my state, and in particular, we talked about 
+Jana Elementary School in the Greater St. Louis region, which 
+was then and is now currently closed because of nuclear 
+contamination that private tests found were in the school. Now, 
+when we visited last--this was in February--you told me that 
+you were having conversations about it. I am just looking at 
+the transcript here. I asked you about the letter from the 
+Hazelwood School District to the Department of Energy 
+requesting additional testing. You said, ``I have seen their 
+letter. We have talked about it.'' You said, ``we are having 
+conversations, including with the Army Corps.'' You said again, 
+``we are having conversations with the Army Corps.'' When I 
+asked you what you are going to do, you said ``I will talk to 
+the team.''
+    So that has been multiple months ago. Why don't you give me 
+an update? What is the Department of Energy doing?
+    Mr. Turk. Yes, happy to do so, and we have a response 
+letter to your most recent letter.
+    Senator Hawley. I have read it.
+    Mr. Turk. It should be coming today or tomorrow that I was 
+just----
+    Senator Hawley. I think you sent one yesterday. Well, good, 
+maybe there is more.
+    Mr. Turk. There is another one as well. There are two.
+    Senator Hawley. Good.
+    Mr. Turk. And there is a second one that should be coming 
+today or tomorrow that I spent some time with the team 
+reviewing and making sure we are trying to be as responsive as 
+we possibly could on that front.
+    The Secretary, myself, the head of our legacy management 
+team, Carmelo, is working with the Army Corps and others on 
+this front. And on the testing side, in particular, I have 
+pushed the team several times. I have said, what can we do? Is 
+there something we can do from the Department of Energy side? 
+And what we can do is work with the Army Corps, and we are 
+happy to be very active with the Army Corps and make sure that 
+they are doing, under their authority--FUSRAP gave the 
+authority for these clean-up sites to the Army Corps. We are 
+playing more of a supporting role, but we are happy to not only 
+play that supporting role, but to try to push and work with our 
+interagency partners to be responsive, certainly, to listen to 
+the concerns that you have expressed, the concerns of the 
+community. It's a horrific situation. I am a parent and I have 
+three kids. If this was happening in my school, I would be 
+certainly nervous. If I was a school a few miles away, I would 
+be nervous as well.
+    So there is an awful lot that we need to do, not just on 
+the science, but also on the human element as well. And thank 
+you for all your focus on this very important issue.
+    Senator Hawley. Well, when you say that you are happy to do 
+it--to do X, Y, Z--the work with the Army Corps, are you doing 
+it? Are you pushing them to do the additional testing?
+    Mr. Turk. So we are having active conversations with the 
+Army Corps.
+    Senator Hawley. That's what you said in February.
+    Mr. Turk. Well, it's for them--because it's under FUSRAP 
+for them to make the decisions about where they think it's 
+appropriate to do additional testing. We have had active 
+conversations. We are having conversations about what more they 
+are doing right now, and they are doing more right now. I will 
+let them talk to you about other testing that they are doing.
+    Senator Hawley. Oh, I am aware of what they are doing. 
+Listen, let me tell you what the situation is. Just a few days 
+ago, the Army Corps reported that they have removed 301 
+truckloads--301 truckloads--of radioactive dirt from the bank 
+of the creek that's right near the elementary school. Now, this 
+comes after they said for months that there was no 
+contamination anywhere near the elementary school. That's what 
+they said to the community, that's what they said to the 
+parents, that's what they said to the school district. And they 
+said they would not do any more testing. It was your 
+responsibility to do the additional testing. You said, no, it's 
+not. It's their responsibility.
+    So currently nobody is doing anything more additionally. 
+And this is not just a few months, Mr. Turk. This is 70 years. 
+Since 1949--1949--there has been contamination, radioactive 
+contamination in the water, in the soil, all over the St. Louis 
+region. That is a heck of a long time. And for 70 years, what 
+we now know, we discovered even since you and I talked last, 
+because of the efforts of St. Louis residents who got FOIA 
+materials that show that the Federal Government knew from the 
+50s and 60s forward that there was significant radioactive 
+contamination and they did nothing about it and they 
+systematically misled and lied to the residents of St. Louis 
+and the St. Charles region and said, no, it's actually--it's 
+okay, play in the creek, it's fine. There is nothing we can do 
+here. So it's just the same old story over and over. So I don't 
+want to hear about conversations. I want to hear about action. 
+I want that school re-opened.
+    Now, tell me about the Weldon Spring site, which is another 
+of these nuclear contamination sites. You have total ownership 
+of that. When is it going to be fully remediated?
+    Mr. Turk. So the response that we have for you lays out the 
+history, and we have----
+    Senator Hawley. I know the history. Tell me when it's going 
+to be remediated.
+    Mr. Turk. And if you look back in our archives, of course, 
+the Department of Energy was created in the 70s, but we have 
+precursor agencies that were responsible for the kinds of time 
+periods you are talking about, and we lay that history out, 
+just from our records. But we are happy to go into any level of 
+detail in terms of what the government did or did not do at 20, 
+30, 40, 50 years ago, at least based on our record along those 
+lines.
+    We are very focused on the creek. I have a map here right 
+in front of me, looking at all the schools and others in the 
+vicinity of the watershed in the creek area, and have asked our 
+legacy management team, which is the responsible----
+    Senator Hawley. But when is the Weldon Spring site, which 
+is squarely under your jurisdiction, when is it going to be 
+remediated?
+    Mr. Turk. So we will have to get back to you on that. I 
+don't have the exact data on that.
+    Senator Hawley. Oh, for heaven's sake. Did you not think I 
+would ask that today? I mean, I have written to you about it 
+multiple times.
+    Mr. Turk. We are happy, Senator, whether in a hearing or 
+frankly----
+    Senator Hawley. But this is how this goes--you were before 
+me in February and you said I will have a bunch of 
+conversations, I will get back to you. It's September. Now you 
+are saying I will have a bunch of conversations. I will get 
+back to you. Are we going to be having this conversation again 
+in six months, or nine months?
+    Mr. Turk. No, I can get you that information today. I just 
+don't have it right in front of me.
+    Senator Hawley. Good. Today would be good.
+    Mr. Turk. I could get it back to you today.
+    Senator Hawley. Good. I will hold you to that. And I am 
+glad we are in an open forum here.
+    Mr. Turk. Right.
+    Senator Hawley. So let's get that done and let's get a date 
+fixed on when the remediation of Weldon Spring--and for those 
+who are wondering why he was talking about an elementary school 
+a second ago, and now there is this other side--yes, that's 
+because there are multiple sites in the St. Louis and St. 
+Charles regions affecting thousands of people for over 70 years 
+who have been exposed to this contamination and lied to about 
+it. So yes, I am not happy about it.
+    Last question for you. I recently submitted an amendment to 
+the National Defense Authorization Act that would provide 
+compensation to the victims of this nuclear contamination. I am 
+delighted to say it passed the Senate, and as I look across the 
+dais here, just about every person on that side of the dais 
+over there voted for it. I thank each of you. Thank you for it. 
+Senator Lujan and I worked together on this. The President, 
+President Biden, has said that he thinks it is vitally 
+important to get these folks compensated for what has happened 
+to them.
+    Do you agree with that? Do you support our legislation to 
+compensate the victims in St. Louis and elsewhere of nuclear 
+contamination and radioactive waste?
+    Mr. Turk. So I certainly support the intent behind the 
+legislation. It's the Department of Justice that's the relevant 
+agency here. So I can't speak for them or speak for the 
+Administration as a whole on----
+    Senator Hawley. You won't agree with the President?
+    Mr. Turk. What's that?
+    Senator Hawley. You won't agree with the President?
+    Mr. Turk. I will always agree with the President.
+    Senator Hawley. Okay. Well, let me ask again. Do you 
+support the legislation----
+    The Chairman. Senator, can we hold----
+    Senator Hawley [continuing]. To compensate the victims of 
+this nuclear contamination and radioactive waste?
+    Mr. Turk. Again, I will leave it to the President to speak 
+about Administration policy on this. I have not seen what he 
+said----
+    The Chairman. Senator, if you want to follow up with a 
+second round, we will let everybody get their first round in. 
+We will come back, okay?
+    Senator Hawley. Thank you, Mr. Turk.
+    The Chairman. Thank you.
+    Senator Hawley. Thank you.
+    The Chairman. Senator Cantwell.
+    Senator Cantwell. Thank you, Mr. Chairman. Thanks for 
+holding this important and timely hearing. Over the recess I 
+held an AI forum in Seattle. Pacific Northwest Laboratory 
+showcased its Rapid Analytics for Disaster Response, a tool 
+that is a detection system for all hazards, and importantly, it 
+was used to assist in both Ukraine and in some of the Maui 
+aftermath. Others in the Allen Institute for AI environment 
+have demonstrated how they are using satellite imagery to 
+improve wildfire management--really important for us in the 
+Pacific Northwest. Also using it to detect illegal fishing in 
+our maritime sector, a very important issue to us in the 
+Pacific Northwest, and enforcement and surveys of our land for 
+conservation purposes.
+    So we need to invest, I believe, in more innovation, and 
+that is why we, obviously, are supportive of what happened with 
+CHIPS and Science and now with AI for our competitiveness. The 
+United States cannot slow down on AI as it relates to our 
+competitiveness internationally and for national security 
+reasons. So our national labs have assisted us in 
+supercomputers, reliable and robust datasets. U.S. Department 
+of Energy international labs are essential to our leadership in 
+artificial intelligence. So I wanted to ask our panelists--you 
+spoke about the need for U.S. leadership on this issue--Deputy 
+Secretary Turk and also, I believe, Dr. Stevens, you mentioned 
+that lab supercomputers are positioned to create the tools for 
+risk assessments to evaluate AI systems. So how do we get both 
+NIST and DOE working together on these tool assessments in 
+determining what are true risk assessment, so they are 
+identified, and what do we need to do to help build a 
+workforce, particularly in skilling the workforce for AI? And 
+either one, Dr. Stevens or Mr. Turk, either one of you want to 
+start? It doesn't matter.
+    Mr. Turk. Go ahead, Professor, you start and I will then 
+bat cleanup.
+    Dr. Stevens. So we are having good conversations with NIST 
+about partnering in how to take the assets of DOE and connect 
+them to the analytical and conceptual framework that NIST has 
+been working on for AI risk management. So I think that is an 
+ongoing conversation. They are participating in working groups 
+that we have established, consortia across the laboratories 
+that are working on how we will do risk assessment for large AI 
+models. So I believe that part is already moving, and I feel 
+quite positive about where that is going.
+    In terms of the workforce, I think the young people are 
+hungry to work on AI. You don't have to encourage them. All you 
+have to do is say ``here is an opportunity'' and they are 
+there. I mean, our courses--any course at any major university 
+that is on AI is going to be oversubscribed. So I think what we 
+have to do is we have to provide enough resources that any 
+student in the U.S. who wants to make a meaningful contribution 
+to AI in the national interest has an opportunity to be funded 
+to go to school, to go to graduate school, to do internships, 
+and to participate. And that is going to require multiple 
+agencies cooperating on that. DOE, of course, supports students 
+and supports student internships, but in a very limited number. 
+NSF, of course, can do it in a much larger number, but other 
+agencies as well. We need a coordinated, national strategy to 
+build an AI workforce, and we need some leadership to organize 
+that.
+    Senator Cantwell. Okay.
+    Mr. Turk.
+    Mr. Turk. Yes, just two things to add. One--boy, what a gem 
+we have when it comes to AI and everything else in the Pacific 
+Northwest National Lab, whether it's some AI on a drought study 
+or with vaccine development, there is example after example 
+coming out of that lab, of course, working with Argonne and 
+others of our national labs as well. I think the interagency 
+partnership here is going to be absolutely key. Professor 
+Stevens outlined what we are doing with NIST and we need to do 
+even more with NIST on the risk framework along those lines, 
+but it's NOAA, it's agency after agency that we have good 
+partnerships with. And I think because we have the exascale 
+computing power, because we have data, because we have these 
+other facilities that you, not only with your role in this 
+Committee, but your role as Chair of the Commerce Committee, as 
+well, have been working for so many years to make sure we have 
+these capabilities that can help work with partners throughout 
+the interagency. And we just need to leverage that. We need to 
+take full advantage of that.
+    Senator Cantwell. And do you agree with Dr. Stevens about 
+the workforce issue?
+    Mr. Turk. Completely agree, and rightfully for you to focus 
+on this. Senator Hirono asked questions about this. We all need 
+to focus on the workforce. And I know I have talked to a number 
+of folks, they want to work on AI and they also want to work--
+the private sector is great and we need talent in the private 
+sector, but they also want to work in the government and take 
+on some of these public challenges as well. We just need to 
+make it attractive to them in all sorts of ways so that we can 
+compete.
+    Senator Cantwell. Thank you, Mr. Chairman.
+    The Chairman. Thank you.
+    Senator Hoeven.
+    Senator Hoeven. Thank you, Mr. Chair.
+    Secretary Turk, you note that China is, you know, working 
+very diligently to copy and take a lot of the capabilities and 
+research that is being developed at our national laboratories. 
+How much, in your opinion, how much have they taken or copied, 
+and are the national labs really able to protect themselves, 
+not only in terms of the information they have, but also as 
+they hire people? Don't they have to be very careful whom they 
+hire and how they hire and so forth so that they know that, you 
+know, that information is not going from employees to China or 
+other actors that, you know, have adverse interest to our 
+country?
+    Mr. Turk. Well, thanks for the question. And the answer is, 
+we need to be very aware and we need to have a layered strategy 
+to deal with these security challenges. So we have put in place 
+specific prohibitions. If you have worked in a foreign talent 
+program in China, for instance--but it's not just China--then 
+you can't work in a Department of Energy lab. So we have 
+specific restrictions in place where we see particular risk. 
+Secondly, we have adopted and now we are annually updating 
+something called our science and technology risk matrix, which 
+looks at particularly sensitive technologies. AI is one of the 
+six particularly sensitive technologies that we do an extra 
+screening on and make sure that we are taking care of those 
+sensitive technologies in particular. And then, third, we have 
+also got counterintelligence experts in our field offices to 
+cover all of our national laboratories that are looking into 
+any allegations and making sure that we are running down all 
+leads along those lines.
+    But we want to attract top talent in our U.S. national 
+labs. We want to have that expertise coming and we benefit from 
+that--public and private sectors. Many of those--over 90 
+percent of AI Ph.D.s who come and work in our labs and come and 
+get their Ph.D.s here stay more than five years. So we benefit 
+from that, but we have to have eyes-wide-open and have a real 
+balance here so that we try to get it right and update it over 
+time, too.
+    Senator Hoeven. Well, you kind of went right into my next 
+question, which is then what about people that leave, get 
+recruited away, you know, because they have got all that 
+incredible knowledge. And what if they get recruited to, you 
+know, either a rogue actor or a country like China or somebody 
+that is trying to get the information that way? They are just 
+hiring them away from you.
+    Mr. Turk. Well, and it's not just happening with Chinese 
+nationals, it's other countries' nationals who are being 
+recruited----
+    Senator Hoeven. That's true, not just China.
+    Mr. Turk [continuing]. Elsewhere also.
+    So we have to be eyes-wide-open on the front end, right, if 
+there is a particular risk of an individual that we think could 
+take some of their experience they learn in a national lab and 
+take it back to China or take it to Russia or other countries 
+that mean us a challenge in the world, then we have to have 
+restrictions, and those kinds of screens in place, just that I 
+mentioned, along those lines. And then, we have got to, you 
+know, balance the benefits that we get from all this world-
+class talent coming here with the risks that we are going to 
+have from some folks deciding that they want to go work 
+elsewhere, they want to take what they learn and take it 
+elsewhere. So we just have to be very vigilant and have a very 
+layered approach.
+    And we have empowered a group of experts across the labs 
+and headquarters to make sure that we are continually 
+improving, not only our risk matrix, but how we do things more 
+generally.
+    Senator Hoeven. Yes, a real challenge, no question.
+    Mr. Turk. It's a real challenge. There's no doubt about it.
+    Senator Hoeven. Because you need the talent, but you have 
+to screen it on the front end. You have to be careful not to 
+lose it on the back end. I mean, incredibly difficult.
+    Mr. Turk. It is incredibly difficult.
+    Senator Hoeven. Along, kind of, in a similar way, but a 
+little bit different, I want to ask both Ms. Puglisi and also 
+Dr. Stevens, what about people just flat-out copying? Okay, so 
+you develop some great AI product, whatever. How about somebody 
+just taking it and copying it? I mean, we see that with--look 
+at what Iran's doing with drones. I mean, they obviously just--
+and other countries too, just copying our technologies. It may 
+be inferior, but they are just copying it in many respects. How 
+do you prevent rogue actors from doing that kind of thing? Or 
+can you?
+    Ms. Puglisi. That is correct, Senator. It is a very 
+difficult challenge.
+    Senator Hoeven. I mean, China has made a living off copying 
+and stealing our stuff.
+    Ms. Puglisi. Right. And I would like to actually have a 
+couple comments on your first question because I think it's 
+important.
+    Senator Hoeven. Sure. Well, with the permission of the--
+well, the Chairman is gone, so yeah, go crazy.
+    [Laughter.]
+    Senator Hoeven. Go wild.
+    Ms. Puglisi. They----
+    Senator Hoeven. Exactly. We can do whatever we want now.
+    Senator King [presiding]. I am sitting in for the Chairman.
+    Senator Hoeven. Oh, okay. Take it all back, yeah.
+    Ms. Puglisi. Okay.
+    Senator Hoeven. Fellow Governor, we have got to mind our Ps 
+and Qs.
+    Ms. Puglisi. The copying piece is very much a challenge, 
+but it is the technological know-how, I think. I think a lot of 
+our existing mitigation strategies focused on things, right, 
+something that is tangible. It is the technological know-how of 
+how do you actually use that. So you can copy something or I 
+can translate something, but I still don't understand what it 
+means. And that is why that talent piece is so important. And I 
+would venture to say that our system really is not set up for 
+this particular challenge that we have today. We are pretty 
+much--we are set up to fight the Soviets. We look for 
+intelligence officers. We look for a direct military end-use 
+and we have very narrow laws around economic espionage, which 
+we could discuss en masse for a long time.
+    But what is being targeted are things that are earlier and 
+earlier in the development cycle that are beyond most of our 
+mitigation strategy. And that is going to be an ongoing 
+challenge that we think about how do we find ways that we still 
+enhance and keep investing in that early development cycle 
+work, which is such an essential part of the DOE labs, while at 
+the same time, you know, finding those ways to protect that. 
+And then that kind of gets at the workforce that gets that 
+technological know-how. It gets at how do we then, you know, 
+find new ways to face this challenge?
+    Senator Hoeven. I can tell you have been thinking about it. 
+It's good you are very thoughtful about that and I appreciate 
+that.
+    Ms. Puglisi. Thank you.
+    Senator Hoeven. I can tell it's something you are working 
+on and that is good.
+    Thank you very much.
+    The Chairman [presiding]. Thank you, Senator.
+    We have Senator Kelly.
+    Senator Kelly. Thank you, Mr. Chairman.
+    Dr. Stevens, you know, we have been going through a sort of 
+unprecedented period of drought in the West--worst drought, as 
+far as we can tell, in 1,200 years. It has been going on for 20 
+years. This summer rather hot. You know, it is always hot in 
+the desert, but we had an unprecedented number of days in 
+Phoenix, especially, over 110 degrees and you know, we have had 
+wildfires, unprecedented wildfires, not only in Arizona, but in 
+other parts of the country and in Canada. These fires have had 
+significant impacts, impacts on communities. And it has been 
+clear to me that we have to leverage every tool at our disposal 
+to mitigate these disasters, but also look for opportunities 
+here to promote forest restoration, which has an impact on 
+these. We have a big ponderosa pine forest in Arizona--biggest 
+in the world, in fact. And we are looking to get this forest 
+restored.
+    So obviously, the potential of artificial intelligence 
+here, you know, can't be overstated with its ability to analyze 
+large datasets rather quickly and accurately and to predict 
+things. CAL FIRE is conducting a pilot program using AI to help 
+with the early detection of wildfires. So my question to you is 
+twofold. Can you first elaborate on the current initiatives and 
+advancements here with using AI for wildland firefighting, if 
+there is any going on?
+    And then, secondly, a little bit about looking ahead to how 
+your laboratory envisions collaborating with other government 
+agencies and the private sector.
+    Dr. Stevens. Sure. So thank you for that question.
+    So we are quite familiar with the CAL FIRE effort, and our 
+colleagues in San Diego have been very involved in building 
+some of the technology for that. It is a really challenging 
+problem. As you know, fires start with smoke, often, and AI 
+trying to detect from cameras on mountaintops and from other 
+vantage points. Early examples of fire often get confused by 
+fog or by tractors stirring up dust or something like that. So 
+there is a need to really improve the AI algorithms that are 
+interpreting images, maybe to upgrade the technology so we can 
+get both infrared imaging as well as visible light imaging and 
+realize it is going to take some time to fully deploy AI and 
+re-engineer how the processes in CAL FIRE and the whole teams 
+will use that AI to be more efficient, right? Ultimately, the 
+AI can put more computer-based eyeballs on the territory than 
+humans could ever look at the monitors and so on, and so, I 
+think the long-term impact of AI in firefighting and in 
+disaster management, in general, is going to be huge.
+    AI can also synthesize and fuse information from remote 
+sensing, from satellites, from on ground, from reports from 
+people texting or tweeting or cameras and from the workers--
+firefighters on the ground into a common database that tells us 
+exactly what is going on. And I think that is going to be 
+critically important as we go forward to scale up firefighting 
+efforts. The national labs have been involved in trying to 
+model and simulate fire in the west, in particular. Los Alamos 
+has had a very large program for many years trying to build 
+simulations that would predict the likelihood of fires and to 
+be able to, you know, understand the amount of flammable 
+material that is accumulating through the forests and so forth. 
+I think all the national laboratories are interested in helping 
+with disaster management, and like the earlier comments about 
+the work at PNNL, the work at Argonne, the work at Los Alamos 
+and Livermore, everybody is really interested in this problem.
+    I think what we need to work out is how we partner between 
+the federal and the state and local that often have the 
+responsibility for this into a structure that really advances 
+both AI, but also takes a practical look at what--you know, we 
+have to try lots of things, and not everything is going to 
+work, and then adjust our strategy to focus on what works.
+    Senator Kelly. Do you know the specifics of the AI 
+algorithm, and are they trying to incorporate lightning 
+detection into it because----
+    Dr. Stevens. The lightning----
+    Senator Kelly [continuing]. Obviously, a lot of forest 
+fires start with lightning.
+    Dr. Stevens. Absolutely.
+    Senator Kelly. And we know where lightning occurs.
+    Dr. Stevens. That's right. So we can detect lightning 
+through the EM spectrum, or through electromagnetic stuff, and 
+overlay that on the geographical maps and then overlay that 
+with imagery. So I am quite familiar with how that is being 
+done, but I don't think it is fully integrated yet. I think we 
+could actually do a lot better than we are currently doing.
+    Senator Kelly. Yes, because then you could just narrow the 
+field----
+    Dr. Stevens. Absolutely. If there is a history of lightning 
+there and you are seeing smoke and----
+    Senator Kelly. Yes.
+    Dr. Stevens. Exactly.
+    Senator Kelly. Okay, all right. Well, thank you.
+    The Chairman. Senator Hickenlooper, do you want to defer to 
+Senator King?
+    Senator King.
+    No, Senator Hickenlooper. You all fight it out.
+    [Laughter.]
+    Senator Hickenlooper. Thank you, Mr. Chair. Thank you all 
+for spending time here today. I think it's a fascinating 
+discussion.
+    I want to start with Mr. Wheeler. We have a company in 
+Colorado called Guild that does training for large companies, 
+say, Walmart or Chipotle, that their employees want to take 
+skills-based classes at colleges or universities or wherever. 
+And Guild does polling of entry-level engineers and coders 
+across professions. And recently, one of their most recent 
+polls saw a dramatic increase, like near-universal, in the 
+level of concern expressed at AI to these beginning level 
+engineers and across every industry. And every industry, of 
+course, needs technology. And I think this, you know, the 
+intense computing resources that are needed to train and run AI 
+models at scale raise a lot of questions you are already 
+addressing. NREL, out in Colorado, operates a high-performance 
+computing data center that is designed to be the world's most 
+energy efficient. I think when we look at some of these things, 
+what other types of efficiency can we look at, Mr. Wheeler, 
+recognizing that there is a level of anxiety that has, you 
+know, come up in terms of the workforce?
+    Mr. Wheeler. Yes, thanks for the question, Senator 
+Hickenlooper, and I am very familiar with the facility and some 
+of the machines there at NREL, being that Colorado is my home 
+state. But I think there are multiple ways to look at this. So 
+I think, as you say, all the excitement around AI--there are a 
+lot of people wanting to get into that as, you know, maybe they 
+are transitioning careers, but understandably, you know, 
+concerned with some of the risk around it. We have a, you know, 
+something we say internally a lot is, you know, look, AI is not 
+going to replace that scientist or that engineer, you know, 
+editor, teacher, you name it, the list goes on. But those same 
+individuals, those same professionals that harness AI and use 
+AI will likely replace those that don't.
+    So that is why, I think, from a workforce and a transition, 
+we are seeing many people wanting to get into that as a career. 
+So they recognize the opportunity. And the great thing about 
+Guild is, you know, maybe they are not taking people that 
+historically came up from a STEM background or education, but 
+guess what? With all the tools, everything that is being 
+developed, you know, suddenly, you don't have to necessarily be 
+the deep mathematics expert. You can be very proficient with 
+the tool sets that are out there if you have that willingness 
+to learn.
+    Now, that being said, you know, what are those guardrails 
+that are in place or, you know, how do we think about some of 
+the risk associated with the technology? You asked about, you 
+know, what other things can be done. I think NREL is a great 
+example of showcasing a lot of what can be done, whether it's 
+from the energy recapture of those systems. As others on the 
+panel have stated, just providing access to that type of 
+infrastructure and compute is a big part of kind of lowering 
+the barrier to maybe some of the anxiety, and being part of a 
+solution because, you know, if you have a passion around that, 
+as a field of study on how to, you know, mitigate, you know, 
+some of the risk around this, well, having access, you know, 
+enables you to, you know, develop and propose those types of 
+solutions.
+    Senator Hickenlooper. Right. Thank you for that.
+    Ms. Puglisi, a lot of the innovations fueled by AI come 
+from fundamental and applied research that is adopted by small 
+businesses. And in your testimony, you highlight about how 
+investing in research supports our country's technological 
+leadership. How will the historic investments into 
+translational research from the CHIPS and Science Act grow our 
+technical workforce within our innovation economy?
+    Ms. Puglisi. Yes, I think those investments are essential 
+because I think what gets lost a lot of times are those 
+transition points. And so, a lot of funding focuses on basic 
+research, or focuses on applied, and I think that some of the 
+advantages that are focused on in the CHIPS and Science Act are 
+that it looks at those transition points and how do we move 
+technology so that it best serves the public and best serves 
+society. And so, having those kinds of skills, those are very 
+different kinds of skills than actually doing the research, but 
+having that support across what we call the Valley of Death, or 
+other kinds of challenges, are really, I think, important to 
+kind of keep that spark going.
+    Senator Hickenlooper. Great. Thank you on that.
+    Ms. Puglisi. Thanks.
+    Senator Hickenlooper. I appreciate that.
+    And I will yield, and Senator King, I will wander over and 
+make sure that that seat is covered if you take a couple extra 
+minutes.
+    Senator King. Thank you. Appreciate it.
+    Thank you, Mr. Chairman.
+    I wanted to put a fine point on this. A few minutes ago I 
+put into ChatGPT the following question: ``Write a poem about 
+Joe Manchin and John Barrasso.''
+    [Laughter.]
+    Senator King. In less than three seconds, this is what it 
+wrote.
+    The Chairman. Oh my God.
+    Senator King. ``In Senate chambers, where voices resound, 
+Joe Manchin and John Barrasso are found. Two different paths, 
+they often pursue, yet united by a role they must construe. 
+Manchin, a Democrat from West Virginia's hills, his principles 
+shaped by his home's coal-filled mills. He seeks compromise, a 
+middle ground's grace, in a divided Senate, he finds his place. 
+Barrasso, a Republican, from Wyoming's plains, with 
+conservative values that deeply ingrains, his vision for 
+policy, distinct and clear, in the halls of Congress, he 
+perseveres. Though their ideologies often diverge, in the 
+Senate they engage, discuss, and urge. For the common good, 
+they both aspire, to serve their constituents, their hearts on 
+fire. Two Senators, distinct in their view, yet bound by a duty 
+to represent you, in democracy's dance, they play their part, 
+Joe Manchin and John Barrasso, with determined heart.''
+    Isn't that----
+    The Chairman. Let's make sure we don't eliminate that part 
+of AI.
+    [Laughter.]
+    [Screenshot of the poem as generated in ChatGPT:]
+    [GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+    Senator King. But think of that. In less than two seconds 
+the data that was searched to put that material together, make 
+it rhyme, and have it be so representative of our two Senators. 
+I just think we ought to realize the unbelievable power of 
+this. That is sort of a homely example, but I think we need to 
+understand the radical nature of this technology.
+    Mr. Turk, a homely question. One of the problems in the 
+energy transition, which, as you know, is one of the major 
+issues of our time, is ISOs' timeliness of processing 
+applications for connection to the grid. There is a huge 
+backlog in virtually all the ISOs in the country. Can AI 
+contribute, because it seems to me that decision about 
+interconnection, which would involve capacity, reliability, 
+safety, that strikes me as an engineering question that AI 
+should be helpful with.
+    Mr. Turk. Well, I think the short answer is yes. And I have 
+been speaking to the heads of ISOs and really trying to make 
+sure we are doing everything we can on the interconnection 
+queue, which is a big deal right now, right? If you can't get 
+things connected to the grid, then we are not going to achieve 
+our goals. We are not going to get all the benefits from these 
+technologies. So----
+    Senator King. And right now, the queue is one of the major 
+bottlenecks to this transition.
+    Mr. Turk. The queue and the queues with different ISOs is a 
+major bottleneck. That is exactly right. And there are a number 
+of efforts that are being undertaken right now. The FERC has 
+put out some rules to try to make sure that it isn't just first 
+in who gets consideration--it's first ready, so that we try to 
+make sure that we are taking the applications of those who are 
+most impactful along those lines.
+    Senator King. I hope you will take steps to use AI to 
+radically shorten this process. I think that would be a major 
+contribution.
+    Mr. Turk. I think it would be great.
+    I wanted to highlight--there is an effort, the acronym is 
+i2X, that our energy efficiency and renewable colleagues are 
+working on that is using technology, among other things, to try 
+to bring all the ISOs together in software fixes, AI fixes. 
+Happy to get you more information on that, but it's a very 
+exciting effort.
+    Senator King. I appreciate that.
+    The word watermarking was used earlier. I don't want the 
+government deciding what is true and not true. That is just not 
+the way, the direction we want to go, and it's not consistent 
+with our principles and values. On the other hand, it seems to 
+me, people that use information, on the internet or otherwise, 
+have a right to know its source.
+    Mr. Stevens, you mentioned watermarking. What we are really 
+talking about is, for me, it's labeling. This film or this 
+article was produced with AI. That would be important 
+information for people to have in assessing the validity of 
+what they are seeing. Is that--how close are we to having that 
+technology?
+    Dr. Stevens. We know how to do it. It is a question of 
+getting agreement that AI companies would use some kind of 
+common approach and not some proprietary approach because then 
+how would we enforce or require it?
+    Senator King. I was going to say, could the Congress 
+require the platforms to----
+    Dr. Stevens. They could, but----
+    Senator King [continuing]. If they are going to post AI 
+material, it's got to be labeled?
+    Dr. Stevens. That is the current approach. I think it's 
+flawed in the sense that there will be, ultimately, many 
+hundreds or thousands of generators of AI, some of which will 
+be the big companies like Google and Open AI and so forth, but 
+there will be many, many open models produced outside the 
+United States and produced elsewhere that, of course, would not 
+be bound by a U.S. regulation. And so, I think what we are 
+ultimately going to end up having to do is validate real 
+sources as well as--we can have a law that says watermark AI-
+generated content, but a rogue player outside the U.S., say 
+operating in Russia or China or somewhere, would not be bound 
+by that and could produce a ton of material that would not 
+actually have those watermarks and so, could pass a test 
+perhaps.
+    So I think we are going to have to be more nuanced or more 
+strategic in this, in that we are going to have to authenticate 
+real content down to the source. Whether it's true or not is a 
+separate issue, but if it's, you know, produced by real humans 
+in a real meeting, that stream would get tagged so you would 
+know that is real versus something that would be synthetic.
+    Senator King. I am out of time and I am due over to 
+preside, but I would really appreciate it if all of you would 
+give some real thought to this because this is a current issue 
+for us and we have got a major election coming up in little 
+over a year. Disinformation via AI could play a pivotal role. 
+We need your best thinking now. So to the extent you can get 
+back to this Committee on these subjects, it would be very, 
+very helpful to us.
+    Thank you, Mr. Chairman.
+    Dr. Stevens. I am happy to do that.
+    The Chairman. Well, let me tell you, I don't need to tell 
+you how informative and how interesting this has been, what we 
+have received. I think everyone has told you what we are 
+concerned about. My good friend here found something very 
+complimentary, and I appreciate it very much, but he could have 
+probably found something very concerning and harmful very 
+quickly also.
+    I think the first line of defense that I am looking at that 
+I am concerned about is how do we protect from altering 
+people's lives? And that is basically their compensation, 
+whether it be at their workplace or if they are retired--
+retirement checks, Social Security, Medicare. How well are we 
+hardened there or basically preventing AI from figuring out a 
+way to come through another door--back door, side door, 
+anything differently that could put them at risk of changing 
+and altering their lives, because that's when it's going to be 
+very difficult to put that genie back in the bottle. And that's 
+what I am concerned about. Getting in investment portfolios, 
+you know, they are doing this all the time--trying, but it 
+makes it very difficult. And it's bad enough when someone gets 
+their credit card hacked and stolen and what they have to go 
+through to get that corrected.
+    Can you only imagine what this could do?
+    So this is what we are asking all of you with the knowledge 
+that you have and expertise, but also the challenges that we 
+are going to have. I know we think about defense. We have been 
+talking in Armed Services about offense versus defense. We are 
+already using AI in defensive procedures now, but offensively 
+we still want that human element involved to make a decision. 
+Do we launch a strike or not? That is going to be very, very 
+detrimental, and very important, and has unbelievable, far-
+reaching results.
+    So I think we are in uncharted waters to a certain extent, 
+but those of you ahead of the curve right now can help us from 
+falling, really, into the deep end where we can't be saved. So 
+if you have learned anything about the internet, we learned 
+that for all the good it did, there are people out there 
+waiting to use it for nefarious situations, and they do it 
+every day.
+    So with that, let me just say that I appreciate it very 
+much. I think you all have done a wonderful job presenting 
+this. You can see the interest that we have and the concerns 
+that we have, but I think the support that you have from all of 
+us, trying to make sure that whatever dollar we invest, we have 
+to invest an awful lot. We are willing to do that. We just 
+don't want to reinvent the wheel. We want to basically make the 
+wheel run a little--balance it out and run a little smoother. 
+So we are all here to help. But again, thank you so much.
+    Members will have until the close of business tomorrow to 
+submit additional questions for the record.
+    Thank you, and the meeting is adjourned.
+    [Whereupon, at 12:00 p.m., the hearing was adjourned.]
+
+                      APPENDIX MATERIAL SUBMITTED
+
+                              ----------                              
+
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+                                   [all]

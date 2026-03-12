@@ -1,0 +1,3162 @@
+- ARTIFICIAL INTELLIGENCE INITIATIVES WITHIN THE DEPARTMENT OF DEFENSE
+
+[Senate Hearing 116-502]
+[From the U.S. Government Publishing Office]
+
+                                                        S. Hrg. 116-502
+
+  ARTIFICIAL INTELLIGENCE INITIATIVES WITHIN THE DEPARTMENT OF DEFENSE
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                            SUBCOMMITTEE ON
+                   EMERGING THREATS AND CAPABILITIES
+
+                                 of the
+
+                      COMMITTEE ON ARMED SERVICES
+                          UNITED STATES SENATE
+
+                     ONE HUNDRED SIXTEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                             MARCH 12, 2019
+
+                               __________
+
+         Printed for the use of the Committee on Armed Services
+
+ GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]         
+
+                 Available via: http://www.govinfo.gov
+
+                             ______                       
+
+             U.S. GOVERNMENT PUBLISHING OFFICE 
+ 46-003 PDF            WASHINGTON : 2021 
+
+                      COMMITTEE ON ARMED SERVICES
+
+    JAMES M. INHOFE, Oklahoma,   JACK REED, Rhode Island
+             Chairman            JEANNE SHAHEEN, New Hampshire
+ROGER F. WICKER, Mississippi     KIRSTEN E. GILLIBRAND, New York
+DEB FISCHER, Nebraska            RICHARD BLUMENTHAL, Connecticut
+TOM COTTON, Arkansas             MAZIE K. HIRONO, Hawaii
+MIKE ROUNDS, South Dakota        TIM KAINE, Virginia
+JONI ERNST, Iowa                 ANGUS S. KING, Jr., Maine
+THOM TILLIS, North Carolina      MARTIN HEINRICH, New Mexico
+DAN SULLIVAN, Alaska             ELIZABETH WARREN, Massachusetts
+DAVID PERDUE, Georgia            GARY C. PETERS, Michigan
+KEVIN CRAMER, North Dakota       JOE MANCHIN, West Virginia
+MARTHA McSALLY, Arizona          TAMMY DUCKWORTH, Illinois
+RICK SCOTT, Florida              DOUG JONES, Alabama
+MARSHA BLACKBURN, Tennessee
+JOSH HAWLEY, Missouri                
+
+                      John Bonsell, Staff Director
+                   Elizabeth L. King, Minority Staff 
+                               Director
+
+           Subcommittee on Emerging Threats and Capabilities
+
+    JONI ERNST, Iowa, Chairman    GARY C. PETERS, Michigan
+DEB FISCHER, Nebraska             JEANNE SHAHEEN, New Hampshire
+KEVIN CRAMER, North Dakota        MAZIE K. HIRONO, Hawaii
+MARSHA BLACKBURN, Tennessee       MARTIN HEINRICH, New Mexico
+JOSH HAWLEY, Missouri                
+
+                                (ii)
+
+                           C O N T E N T S
+
+                             March 12, 2019
+
+                                                                   Page
+
+Artificial Intelligence Initiatives Within the Department of          1
+  Defense.
+
+               Statements of Members of the Subcommittee
+
+Statement of Senator Joni Ernst..................................     1
+
+Statement of Senator Gary C. Peters..............................     2
+
+                           Witness Statements
+
+Highnam, Peter T., Deputy Director, Defense Advanced Research         3
+  Projects Agency.
+Brown, Michael A., Director, Defense Innovation Unit.............     9
+Shanahan, Lieutenant General John N.T., USAF, Director, Joint        15
+  Artificial Intelligence Center, Office of the Department of 
+  Defense Chief Information Officer.
+
+Questions for the Record.........................................    36
+
+                                 (iii)
+
+  ARTIFICIAL INTELLIGENCE INITIATIVES WITHIN THE DEPARTMENT OF DEFENSE
+
+                              ----------                              
+
+                        TUESDAY, MARCH 12, 2019
+
+                          United States Senate,    
+                   Subcommittee on Emerging
+                          Threats and Capabilities,
+                               Committee on Armed Services,
+                                                    Washington, DC.
+    The Subcommittee met, pursuant to notice, at 2:37 p.m. in 
+room SR-232A, Russell Senate Office Building, Senator Joni 
+Ernst (Chairman of the Subcommittee) presiding.
+    Members present: Senators Ernst, Shaheen, Heinrich, and 
+Peters.
+
+            OPENING STATEMENT OF SENATOR JONI ERNST
+
+    Senator Ernst. The Subcommittee on Emerging Threats and 
+Capabilities meets today to receive testimony on Department of 
+Defense artificial intelligence (AI) initiatives.
+    I want to thank you, gentlemen, for being here today.
+    I do apologize. We have a vote series going on right now, 
+so, at some point, Senator Peters and I may have to switch on 
+and off. We'll run down and vote accordingly.
+    But, I do want to thank you for being here. I'd love to 
+welcome you. We have a very distinguished panel joining us 
+today, ladies and gentlemen.
+    As highlighted in the NDS [National Defense Strategy] 
+Commission Report, the U.S. must stay ahead in several emerging 
+technologies in order to maintain or regain a warfighting 
+advantage. These technologies include hypersonics, directed 
+energy, artificial intelligence, 5G, and quantum computing. 
+Russia and China are aggressively developing these capabilities 
+and, in some cases, have already surpassed, or will soon 
+surpass, our technologies. Without action, the U.S. may find 
+itself at a technological disadvantage in future conflicts.
+    Over the next few months, this Subcommittee will focus our 
+efforts to ensure the Department is well positioned to outpace 
+our adversaries and maintain a strategic advantage in these key 
+technologies. Today, we will focus on one technology of 
+particular importance, which is artificial intelligence.
+    The recently released Department of Defense Artificial 
+Intelligence Strategy makes clear AI is poised to transform 
+every industry and is expected to impact every corner of the 
+Department, spanning operations, training, sustainment, force 
+protection, recruiting, healthcare, and many others. AI has the 
+ability to provide powerful new capabilities to our warfighters 
+that we are only beginning to imagine. When applied to back-
+office functions and operations within the Department, AI will 
+be critical in boosting efficiency and increasing the 
+effectiveness of limited resources. With such broad potential 
+impacts, it is important that the Department move quickly to 
+adopt these capabilities so that we don't lose the 
+technological edge.
+    Our adversaries understand the critical importance of AI. 
+Last year, the Chinese government released a strategy detailing 
+its plan to take the lead in AI by 2030. Less than 2 months 
+later, Vladimir Putin publicly announced Russia's intent to 
+pursue AI technologies, stating, ``Whoever becomes the leader 
+in this field will rule the world.'' Both of these countries 
+are investing heavily in military applications of AI to achieve 
+a warfighting advantage.
+    The United States is also investing heavily in AI 
+applications. Over the last year, the Department has initiated 
+several important efforts to accelerate the adoption of AI, 
+including the establishment of the Joint AI Center, or JAIC, 
+the development of a DARPA [Defense Advanced Research Projects 
+Agency] AI Next Campaign, and the release of the DOD 
+[Department of Defense] AI Strategy. These efforts demonstrate 
+the extent of the AI transformation already underway within the 
+Department of Defense and the priority that is being placed on 
+growing these capabilities. However, with these important 
+efforts comes the challenge of coordinating hundreds of 
+disparate AI efforts across multiple offices and organizations. 
+I look to our witnesses to help the committee better understand 
+how AI can be adopted more rapidly, how coordinating the 
+initiatives already underway within the Department can help us 
+harness this powerful technology, and where we must invest in 
+future research to ensure we maintain a long-term advantage.
+    Again, I thank our witnesses for being with us today. I 
+look forward to their testimony.
+    I would turn to my Ranking Member, Mr. Peters. Senator 
+Peters, thank you. New Ranking Member joining us. This is our 
+first subcommittee hearing of the Congress. Senator Peters, I 
+welcome you onboard. Thank you very much.
+
+              STATEMENT OF SENATOR GARY C. PETERS
+
+    Senator Peters. Well, Madam Chairwoman, thank you. It's an 
+honor to be with you. I've enjoyed working with you over the 
+years, and we'll continue to do that in the next 2 years in 
+this Congress.
+    Also, I'd like to thank the gentlemen for you being here 
+today, for your testimony.
+    You know, artificial intelligence is already impacting our 
+daily lives through commercial products and services, from 
+applications as simple as Alexa to very complex systems, like 
+self-driving automobiles. AI has huge implications for our 
+national security, as well. For example, it'll enable new 
+capabilities in intelligence analysis, autonomous systems, as 
+well as cybersecurity. At the same time, AI can create new 
+threats in these and other areas that can be exploited by our 
+adversaries. I hope, in this hearing, that we can hear from our 
+witnesses on the Pentagon's efforts to position itself in the 
+rapidly changing world of AI, from the more near-term 
+activities of the Joint AI Center to the long-term, high-risk, 
+high-payoff research efforts of DARPA and the Defense 
+Innovation Unit (DIU).
+    The current AI systems that exist today only exist because 
+of decades of research in computer science, control systems, 
+microelectronics, and other fields. There are many amazing 
+commercial capabilities available today, yet AI is still 
+relatively primitive to what we all think it can be. We need to 
+continue to invest in fields like computer science and 
+electronics, but also research in areas such as our 
+understanding of how machines and people learn and can work 
+together to make sure that that promise becomes a reality.
+    I would like to understand how the DOD is working to move 
+AI capabilities quickly into fielded systems, as well as how 
+the Pentagon is developing a long-range strategy on R&D 
+[research and development] of new capabilities.
+    I hope we can discuss how we are engaging with the best 
+minds in defense and the commercial industry, Silicon Valley, 
+government labs, and universities to address many of these 
+challenges.
+    I would also like to learn about efforts to ensure that the 
+DOD and the Nation has the expert workforce that we will need 
+within government to stay at the leading edge of this 
+technology.
+    Finally, I'd like to recognize--General Shanahan is a 
+distinguished graduate of the University of Michigan, earning 
+his commission there through the ROTC [Reserve Officer Training 
+Corps]. The University of Michigan is one of many academic 
+institutions in Michigan that prioritizes artificial 
+intelligence research, particularly for the development and 
+testing of autonomous vehicle systems.
+    General Shanahan, I know that U of M [University of 
+Michigan] would love to host you back on campus to see the work 
+that they're doing on AI and on autonomy and its relevance to 
+your work. I hope that you and--as well as our other members of 
+the panel, are able to take a trip to Michigan sometime soon.
+    I thank the Chair again for holding this hearing. I 
+certainly look forward to our discussion.
+    Senator Ernst. Yes. Thank you very much, Senator Peters.
+    We will start with Dr. Peter T. Highnam. Dr. Highnam became 
+the Deputy Director of the Defense Advanced Research Projects 
+Agency, what we know of as DARPA, in February of 2018. Prior to 
+coming to DARPA, Dr. Highnam was the Director of Research at 
+the National Geospatial-Intelligence Agency, on assignment from 
+the Office of the Director of National Intelligence (ODNI). 
+Prior to that assignment, he also served 6 years at ODNI's 
+Intelligence Advanced Research Projects Activity, initially as 
+an Office Director and then as Director.
+    Dr. Highnam, we welcome you. You may start your opening 
+remarks. Thank you very much.
+
+    STATEMENT OF PETER T. HIGHNAM, DEPUTY DIRECTOR, DEFENSE 
+               ADVANCED RESEARCH PROJECTS AGENCY
+
+    Dr. Highnam. Thank you, Chairwoman Ernst, Ranking Member 
+Peters. I'm pleased to be here to represent the Defense 
+Advanced Research Projects Agency and share with the 
+Subcommittee DARPA's work to advance AI technologies.
+    I'm going to begin with a little bit about DARPA's history 
+in this field. In 1960, shortly after DARPA was created, ARPA 
+[Advanced Research Projects Agency] was created. One of the 
+first information technology offices that we had gave this 
+quote, ``It seems reasonable to envision bringing computing 
+machines effectively into processes of thinking that must go on 
+in realtime, time that moves too fast to permit using computers 
+in conventional ways. To think in interaction with a computer 
+in the same way that you think with a colleague whose 
+competence supplements your own will require much tighter 
+coupling between man and machine than is possible today.''
+    Back then, when computers were large, were room-size, when 
+they were being used for computing missile trajectories and so 
+on, this man saw what was possible, saw the insights that were 
+becoming available, and saw the push that we're still working 
+on, which is changing computers from tools to partners. That 
+actually is the history of AI investments by DARPA for the last 
+60 years.
+    That is also quintessential DARPA. This man had, you know, 
+one foot in defense, seeing the mission and seeing what was 
+needed, and one foot in the technology side, and framed the 
+problem using use cases, knew what had to be done, and started 
+driving. It's unlikely that he thought that there would be 6 
+decades of investments and hard work that followed that to get 
+to where we are today.
+    I'd like to say that, after 60 years of pushing, AI is an 
+overnight success.
+    [Laughter.]
+    Dr. Highnam. Really, within the last 10 years, when you 
+think about the kind of technologies. A lot of transitions and 
+successes over the decades, much accomplished, and much still 
+to do.
+    DARPA describes the investments in AI using a waves 
+construct. The first wave at the beginning, for the first 20 
+years or so, are normally known as describe. This is where 
+knowledge was encoded in rules, ``If A, then B.'' If you look 
+inside the tax--if you do personal taxes today, there's a rule-
+based system inside there that was what, 40 years ago, would 
+have been called AI technologies, now is just computer science, 
+or IT [information technology]. That's the price of success. 
+It's no longer AI. It's just commonplace.
+    Then, beginning in the mid-1970s, the technology--science 
+had put in place to begin what became machine learning. The 
+theory was put down, but it--only in the last 10-15 years, we 
+now have the compute cycles, we have the data availability. 
+That's when the current wave, the second wave, of machine 
+learning really took place and really came into being.
+    Now we're looking past that, at DARPA, into what comes 
+next. We have two waves of technology. One was descriptive, one 
+was recognizing situations, classifying, and so on. Now we have 
+to be able to explain, to really build the trust between these 
+systems and the people who are using them and working with them 
+in realtime, in difficult, stressful situations, but building 
+the trust so that they really can become partners. This is the 
+role of explanation.
+    It's a great time to be at DARPA, because we're now on the 
+brink of a lot of really exciting things. That's the genesis of 
+the current initiative, the $2 billion investment that we've 
+said we're now making in AI technologies.
+    That said, there's a brittleness to the current 
+technologies. The tools are immature, still. We don't have an 
+engineering discipline behind AI technologies. There are 
+issues, that I'm sure everyone will talk to you about, about 
+missing data volume, missing data quality, provenance, and so 
+on, the training, second-wave systems. These systems tend to 
+have unexpected failure modes.
+    In front of you, there should be an example of the 
+brittleness of AI. These are drawn from the academia mixture. 
+You may have seen these before. In the first picture, on the 
+left, there's a panda, which you and I look at with all the 
+history that we have of looking at these critters. On the right 
+is also a picture that looks like a panda, as well, to us. The 
+difference is that, in the digital representation, a certain 
+amount of ``noise'' represented by the middle picture was laid 
+on top of it, and a highly trained second-wave classification 
+system, machine-learning system, went from classifying that 
+picture as a panda to now as a gibbon, with high certainty. The 
+fragility of these methods--these are very literal methods. 
+There is no semantics, there is no intelligence.
+    The second example is perhaps of more concern. This shows a 
+stop sign in a physical situation. Think autonomous vehicles. 
+To you and I, again, it's a stop sign. It has a certain shape. 
+To a trained system, to a highly trained system, it's no 
+longer--when you put that little white sticker--or that yellow 
+sticker onto the stop sign, it's now classified as a speed 
+limit sign. You can think in terms of autonomous vehicles, the 
+brittleness and fragility of the systems. You can also think in 
+terms of adversarial endeavors. It takes camouflage and 
+deception to a whole new level.
+    Very important to point those things out.
+    Today we have autonomy. We have a lot of work successes in 
+cyber, from first- and second-wave technologies. We have novel 
+hardware, high-performance hardware, low-energy hardware coming 
+into place. Yes, then we have a lot of tools, and hundreds of 
+thousands of people are being trained and really wanting to use 
+machine learning. We have to go to the next step, this 
+commonsense reasoning, being able to explain where this 
+inference came from. We have to get there. Otherwise, trust 
+won't come into place.
+    What we've done is to talk about, in our new initiative, 
+robust AI, dealing with adversarial AI, both unintentional and 
+intentional, high-performance, in terms of compute cycles and 
+minimizing energy, and delivering radically new capabilities. 
+This is the genesis of the AI Next Campaign, creating systems 
+capable of reasoning, regenerative, contextual, and explanatory 
+models. We already have over 20 programs running in AI, new 
+programs--research programs started. We have over 80 programs 
+in the agency. About one-third of the programs in the entire 
+agency now are either creating AI technologies or aggressive 
+users of those technologies.
+    Last, to your point about workforce, we really had to get 
+more people engaged. Typically, we put out a call for 
+proposals--research proposals, people apply, and, 6 to 9 months 
+later, if selected, they're on contract. We have something 
+called AI Exploration, by which we are driving the research 
+community to explore this--the space of the third wave 
+aggressively. We post a topic, and we award contracts within 90 
+days of posting the topic. We've now done this six times. We've 
+invested, so far, on the order of $45 million in this. There's 
+tremendous uptake from the research community, these 
+opportunities. All unclassified, all fundamental work.
+    From 60 years ago to now, I don't think Mr. Licklider, at 
+the time, would have anticipated that the Department of Defense 
+would have an AI strategy, such a huge success in recognition, 
+and that the President would sign an AI executive order. Who 
+would have thought?
+    Game-changing capabilities for the Defense Department and 
+the world, from 60 years of investment, much accomplished, and 
+much to do.
+    Thank you.
+    [The prepared statement of Dr. Peter Highnam follows:]
+
+                Prepared Statement by Dr. Peter Highnam
+      darpa's seminal role in the field of artificial intelligence
+    Seventy years ago, when early electronic computers ran on vacuum 
+tubes and filled entire rooms, researchers already were striving to 
+enable machines to think as people do. Only a few years after its start 
+in 1958, DARPA began playing a central role in realizing this ambition 
+by laying some of the groundwork for the field of artificial 
+intelligence (AI). Early work in AI emphasized handcrafted knowledge, 
+and computer scientists constructed so-called expert systems that 
+captured the rules that the system could then apply to situations of 
+interest. Such ``first wave'' AI technologies were quite successful--
+tax preparation software is a good example of an expert system--but the 
+need to handcraft rules is costly and time-consuming and therefore 
+limits the applicability of rules-based AI technologies.
+    The past few years have seen an explosion of interest in a sub-
+field of AI dubbed ``machine learning'' that applies statistical and 
+probabilistic methods to large data sets to create generalized 
+representations that can be applied to future samples. Foremost among 
+these approaches are deep learning (artificial) neural networks trained 
+to perform a variety of classification and prediction tasks when 
+adequate historical data is available. Therein lies the rub, however, 
+as the task of collecting, labelling, and vetting data on which to 
+train such ``second wave'' AI techniques is prohibitively costly and 
+time-consuming.
+    DARPA envisions a future in which machines are more than just tools 
+that execute human-programmed rules or generalize from human-curated 
+data sets. Rather, the machines DARPA envisions will function more as 
+colleagues than as tools. Towards this end, DARPA is focusing its 
+investments on a ``third wave'' of AI technologies that brings forth 
+machines that can reason in context. Incorporating these technologies 
+in military systems that collaborate with warfighters will facilitate 
+better decisions in complex, time-critical, battlefield environments; 
+enable a shared understanding of massive, incomplete, and contradictory 
+information; and empower unmanned systems to perform critical missions 
+safely and with high degrees of autonomy.
+    Today, DARPA is funding more than 24 programs exploring ways to 
+advance the state of the art in AI, pushing beyond second wave machine 
+learning towards contextual reasoning capabilities. This is in addition 
+to more than 55 active programs that are leveraging machine learning or 
+AI technologies in some capacity-from managing the electromagnetic 
+spectrum to detecting and patching cyber vulnerabilities.
+    This level of investment has been years in the making and will 
+define scientific and technical exploration, as well as resulting 
+military capabilities, for decades to come.
+                            current programs
+    DARPA's Lifelong Learning Machines (L2M) program is exploring ways 
+to enable machines to learn while doing without catastrophic 
+forgetting. Such a capability would enable systems to improve on the 
+fly, recover from surprises, and keep them from drifting out of sync 
+with the world. First announced in 2017, L2M research teams are 
+developing complete systems and their components, as well as exploring 
+learning mechanisms in biological organisms with the goal of 
+translating them into computational processes. Discoveries in both 
+technical areas are expected to generate new methodologies that will 
+allow AI systems to learn and improve during tasks, apply previous 
+skills and knowledge to new situations, incorporate innate system 
+limits, and enhance safety in automated assignments. While the program 
+is still in its early stages, L2M researchers already have identified 
+and solved challenges associated with building and training a self-
+reproducing neural network.
+    DARPA is also currently running a program called Explainable AI or 
+XAI to develop new machine-learning architectures that can produce 
+accurate explanations of their decisions in a form that makes sense to 
+humans. As AI algorithms become more widely used, reasonable self-
+explanation will help users understand how these systems work, and how 
+much to trust them in various situations. XAI specifically aims to 
+create a suite of machine learning techniques that produce explainable 
+models--while maintaining a high level of prediction accuracy so human 
+users understand, appropriately trust, and effectively manage the 
+emerging generation of artificially intelligent partners. Enabling 
+computing systems in this manner is critical because sensor, 
+information, and communication systems generate data at rates beyond 
+what humans can assimilate, understand, and act upon.
+    The real breakthrough for artificial intelligence, however, will 
+not come until researchers figure out a way for machines to learn or 
+otherwise acquire common sense. Without common sense, AI systems will 
+be powerful but limited tools that require human inputs to function. 
+With common sense, an AI could become a partner in problem solving. 
+Common sense knowledge is so pervasive in our lives that it can be hard 
+to recognize. For example, in conflict and warzone situations, people 
+tend to make snap decisions about the cause of the problem and ignore 
+evidence that does not support their point of view. To act as a valued 
+partner in such situations, the AI system will need sufficient common 
+sense to know when to speak and what to say, which will require that it 
+have a good idea of what each person knows. Interrupting to state the 
+obvious would quickly result in its deactivation, particularly under 
+stressful conditions.
+    In order to find answers to the common sense problem, DARPA 
+launched in October of last year the Machine Common Sense (MCS) 
+program, which will explore recent advances in cognitive understanding, 
+natural language processing, deep learning, and other areas of AI 
+research. MCS is pursuing two approaches for developing and evaluating 
+different machine common sense services. The first approach seeks to 
+create computational models that learn from experience and mimic the 
+core domains of cognition as defined by developmental psychology. This 
+includes the domains of objects (intuitive physics), places (spatial 
+navigation), and agents (intentional actors). Researchers will develop 
+systems that think and learn as humans do in the very early stages of 
+development, leveraging advances in the field of cognitive development 
+to provide empirical and theoretical guidance.
+    To assess the progress and success of the first strategy's 
+computational models, researchers will explore developmental psychology 
+research studies and literature to create evaluation criteria. DARPA 
+will use the resulting set of cognitive development milestones to 
+determine how well the models are able to learn against three levels of 
+performance: prediction/expectation, experience learning, and problem 
+solving.
+    The second MCS approach will construct a common sense knowledge 
+repository capable of answering natural language and image-based 
+queries about common sense phenomena by reading from the Web. DARPA 
+expects that researchers will use a combination of manual construction, 
+information extraction, machine learning, crowdsourcing techniques, and 
+other computational approaches to develop the repository. The resulting 
+capability will be measured against the Allen Institute for Artificial 
+Intelligence (AI2) Common sense benchmark tests, which are constructed 
+through an extensive crowdsourcing process to represent and measure the 
+broad common sense knowledge of an average adult.
+                            ai next campaign
+    DARPA announced in September 2018, a multi-year investment of more 
+than $2 billion in new and existing programs called the ``AI Next'' 
+campaign. Campaign key areas include providing robust foundations for 
+second wave technologies, aggressively applying second wave AI 
+technologies into appropriate systems, and exploring and creating third 
+wave AI science and technologies.
+    AI Next builds on DARPA's five decades of AI technology creation to 
+define and to shape the future, always with the Department's hardest 
+problems in mind. Accordingly, DARPA will create powerful capabilities 
+for the DoD by attending specifically to the following areas:
+    New Capabilities: AI technologies are applied routinely to enable 
+DARPA R&D projects, including more than 60 ongoing programs, such as 
+the Electronic Resurgence Initiative, and other programs related to 
+real-time analysis of sophisticated cyber attacks, detection of 
+fraudulent imagery, construction of dynamic kill-chains for all-domain 
+warfare, human language technologies, multi-modality automatic target 
+recognition, biomedical advances, and control of prosthetic limbs. 
+DARPA will advance AI technologies to enable automation of critical 
+Department business processes. One such process is the lengthy 
+accreditation of software systems prior to operational deployment. 
+Automating this accreditation process with known AI and other 
+technologies now appears possible.
+    Robust AI: AI technologies have demonstrated great value to 
+missions as diverse as space-based imagery analysis, cyber attack 
+warning, supply chain logistics and analysis of microbiologic systems. 
+At the same time, the failure modes of AI technologies are poorly 
+understood. DARPA is working to address this shortfall, with focused 
+R&D, both analytic and empirical. DARPA's success is essential for the 
+Department to deploy AI technologies, particularly to the tactical 
+edge, where reliable performance is required.
+    Adversarial AI: The most powerful AI tool today is machine 
+learning. Machine learning systems are easily duped by changes to 
+inputs that would never fool a human. The data used to train such 
+systems can be corrupted, and the software itself is vulnerable to 
+cyber attack. These areas, and more, must be addressed at scale as more 
+AI-enabled systems are operationally deployed.
+    High Performance AI: Computer performance increases over the last 
+decade have enabled the success of machine learning, in combination 
+with large data sets, and software libraries. More performance at lower 
+electrical power is essential to allow both data center and tactical 
+deployments. DARPA has demonstrated analog processing of AI algorithms 
+with 1000 times speedup and 1000 times power efficiency over state-of-
+the-art digital processors, and is researching AI-specific hardware 
+designs. DARPA is also attacking the current inefficiency of machine 
+learning, by researching methods to drastically reduce requirements for 
+labeled training data.
+    Next Generation AI: The machine learning algorithms that enable 
+face recognition and self-driving vehicles were invented over 20 years 
+ago. DARPA has taken the lead in pioneering research to develop the 
+next generation of AI algorithms, which will transform computers from 
+tools into problem-solving partners. DARPA research aims to enable AI 
+systems to explain their actions, and to acquire and reason with common 
+sense knowledge. DARPA R&D produced the first AI successes, such as 
+expert systems and search, and more recently has advanced machine 
+learning tools and hardware.
+    In addition to new and ongoing DARPA research, a key component of 
+the AI Next campaign will be DARPA's Artificial Intelligence 
+Exploration (AIE) program, first announced in July 2018. AIE 
+constitutes a series of high-risk, high payoff projects where 
+researchers work to establish the feasibility of new AI concepts within 
+18 months of award. Leveraging streamlined contracting procedures and 
+funding mechanisms enables these efforts to move from proposal to 
+project kick-off within 3 months of an opportunity announcement.
+                               conclusion
+    Over its 60-year history, DARPA has made significant investments in 
+the creation and advancement of artificial intelligence technologies 
+that have produced game-changing capabilities for the Department of 
+Defense and beyond. DARPA's AI Next effort is simply a continuing part 
+of its historic investment in the exploration and advancement of AI 
+technologies.
+    Current R&D investment around the world is largely focused on 
+second wave AI or machine learning, which is very good in finding 
+patterns in voice and imagery and has many commercial applications. The 
+difference is, in the United States, DARPA is aggressively pursuing 
+programs that will make second wave AI more robust for defense and 
+security applications, all while helping realize the third wave of AI, 
+or contextual reasoning. DARPA has unique access to the United States' 
+world-class science and technology community, comprised of leading 
+universities, government labs, and industry partners--this mix cannot 
+be found or replicated anywhere else in the world. Marshalling those 
+unique resources, the Agency's third wave research efforts will forge 
+new theories and methods that will make it possible for machines to 
+adapt contextually to changing situations, advancing computers from 
+tools to true collaborative partners. Going forward, the agency will be 
+fearless about exploring these new technologies and their 
+capabilities--DARPA's core function--pushing critical frontiers ahead 
+of our nation's adversaries.
+
+    Senator Ernst. Very good. Thank you so much.
+    Mr. Michael Brown is the Director of the Defense Innovation 
+Unit, DIU, at the U.S. Department of Defense. DIU fields 
+leading-edge capability to the military, using commercial 
+technologies faster and more cost-effectively than traditional 
+acquisition methods. Prior to that, Mr. Brown served as a White 
+House Presidential Innovation Fellow at the Defense Department. 
+He has also worked as CEO [Chief Executive Officer] of Semantec 
+Corporation and as CEO of Quantum Corporation.
+    Thank you, Mr. Brown, for joining us today. It's good to 
+have you here again. If you would, please go ahead with your 
+opening statements.
+
+  STATEMENT OF MICHAEL A. BROWN, DIRECTOR, DEFENSE INNOVATION 
+                              UNIT
+
+    Mr. Brown. Thank you, Chairman Ernst, Ranking Member 
+Peters, and Members of the Subcommittee. Thank you for inviting 
+me here today to discuss DIU's efforts in AI.
+    As you said, about 6 months ago, I joined DIU as the 
+Director, and, having led a number of technology companies, 
+most recently Semantec, I've witnessed how new technology like 
+AI can fundamentally redefine how we live and work, and how we 
+fight wars.
+    Before joining DIU as the Director, as you mentioned, I 
+worked as a Fellow, responding to the Secretary of Defense's 
+request to understand China's investments in early-stage 
+technology firms, many of which were AI-focused, and its 
+technology transfer implications for national security.
+    As you mentioned in opening remarks, China and Russia have 
+already recognized the enormous commercial and military 
+potential of AI, and are investing heavily, with aims to become 
+dominant. By 2025, China aims to achieve major breakthroughs in 
+AI and increase its domestic market to reach $60 billion. To 
+achieve this target, the Chinese government leverages civil-
+military fusion, where, by law, every commercial AI innovation 
+is immediately transferred to the Chinese military. China also 
+leverages United States talent and resources by establishing 
+research institutes in the United States, investing in AI-
+related startups in the United States, recruiting talent in the 
+United States, and building academic partnerships.
+    Russia, as you mentioned, with Vladimir Putin's comments, 
+is similarly focused on building its AI capacity, but is behind 
+the United States and China, in terms of overall investment, 
+research, and startups.
+    In the face of great-power competition, DIU is working 
+alongside--with the rest of DOD to maintain our technological 
+edge, not only in AI, but other dual-use technologies, as well. 
+Accessing mature AI-driven technologies from the commercial 
+sector is an essential component of the Defense Department's 
+Artificial Intelligence Strategy and a paradigm shift from 
+defense industrial base to a national security innovation base 
+prescribed by the National Defense Strategy.
+    DIU's AI portfolio focuses on understanding, tracking, and 
+vetting commercial companies' abilities to solve high-impact 
+problems identified by our military leadership. AI projects 
+today include work with the Air Force, Army, Navy, and 
+components, as well as Joint Chiefs of Staff.
+    As a foundational technology, the DIU AI portfolio 
+specifically prioritizes projects that address three major 
+impact areas where AI has proven to excel commercially. Here 
+are three examples:
+    First, computer vision. Adding automation to object 
+recognition and infrastructure assessment, DIU is prototyping 
+computer-vision algorithms in humanitarian assistance and 
+disaster recovery use cases.
+    Second, large dataset analytics and predictions, making 
+sense of massive datasets and patterns more efficiently and 
+cost-effectively than human analysts. For example, DIU is 
+prototyping predictive maintenance applications for Air Force 
+and Army platforms, with the potential to save the Department 
+billions of dollars.
+    Third, strategic reasoning, mapping probabilistic chains of 
+events and developing alternative strategies to inform top-down 
+planning in environments characterized by uncertainty, missing 
+information, and speculation. DIU is prototyping an application 
+that leverages AI to provide insights to high-level strategic 
+questions.
+    With these projects, DIU engages across the Department on 
+AI and makes its commercial knowledge and relationships with 
+potential vendors available to any of the services, service 
+labs, and components. We already have in place a strategic 
+partnership with JAIC, which we've agreed upon with General 
+Shanahan. Simply stated, DIU will prototype commercially 
+successful AI applications and measure their relevance to 
+mission imperatives. If successful, we transition those to JAIC 
+so they can be scaled and integrated into their national 
+mission initiatives. We look forward to working closely 
+together with JAIC.
+    DIU also works with the Defense Innovation Board and will 
+work with the newly established Congressional National Security 
+Commission on AI to leverage the best practices and learnings 
+from the commercial software industry executives who 
+participate on that board.
+    Cultural divides and ethical differences are often blamed 
+for the lack of closer cooperation between DOD and Silicon 
+Valley, but, more often than not, the true deterrent is 
+misaligned economics. Enabling DOD to be a better customer for 
+early-stage companies will not only help DOD acquire the best 
+commercial technology faster and cheaper, but will also provide 
+access to the ideas of sought-after AI talent that DOD may not 
+be able to attract. The more we collaborate with the private 
+sector on mutually-beneficial projects, the more opportunities 
+we'll have to engage in an open dialogue about the applications 
+and principles for the use of AI.
+    DIU plans to continue its focus on AI as a key technology 
+portfolio, solving DOD problems with commercial AI solutions to 
+bring the Department new capabilities and encourage 
+nontraditional technology firms to work with DOD as part of the 
+national security innovation base, will be a priority.
+    Thank you.
+    [The prepared statement of Mr. Brown follows:]
+
+                  Prepared Statement by Michael Brown
+                              introduction
+    Chairman Ernst, Ranking Member Peters, and distinguished Members of 
+the Subcommittee on Emerging Technologies and Threats, thank you for 
+inviting me to appear before you today to discuss the Defense 
+Innovation Unit (DIU) and our efforts in artificial intelligence (AI) 
+alongside my colleagues at the Defense Advanced Research Projects 
+Agency (DARPA) and the newly formed Joint Artificial Intelligence 
+Center (JAIC).
+    AI is fundamentally redefining how we live, work, and fight wars. 
+Within the Department of Defense (DOD), AI has the potential to 
+transform how the Department operates at all levels, from business to 
+the battlefield. In the face of competition from China and Russia, DOD 
+aims to maintain its technological edge through establishing a more 
+decentralized, experimental procurement approach: cultivating a leading 
+AI workforce, engaging academic, commercial, and international allies 
+and partners, and developing ethical and lawful guidelines for AI use. 
+\1\
+---------------------------------------------------------------------------
+    \1\ United States Department of Defense, Summary of the 2018 
+Department of Defense Artificial Intelligence Strategy: Harnessing AI 
+to Advance Our Security and Prosperity, (February 12, 2019), https://
+media.defense.gov/2019/Feb/12/2002088963/-1/-1/1/SUMMARY-OF-DOD-AI-
+STRATEGY.PDF.
+---------------------------------------------------------------------------
+    China and Russia have recognized the enormous commercial and 
+military potential of AI and are investing heavily to become dominant 
+in the field. In its 13th Five-Year Plan (2016-2020) and subsequent 
+industrial plans, the Chinese Government has outlined a comprehensive, 
+whole-of-government strategy to become the global leader in AI. \2\ In 
+July 2017, the State Council released the Next-Generation Artificial 
+Intelligence Development Plan that laid out a 2020 target for Chinese 
+AI technology and applications to match international developments and 
+create a $22.3 billion (Renminbi [RMB] 150 billion) \3\ domestic 
+market. \4\ By 2025, China will aim to achieve major breakthroughs in 
+AI and increase its domestic market to reach $59.6 billion (RMB 400 
+billion). \5\ To achieve these targets, China's National Development 
+and Reform Commission (China's industrial policy-making agency) funded 
+the creation of a national AI laboratory, and Chinese local governments 
+have pledged more than than $7 billion in AI funding. \6\ In addition, 
+Chinese firms and the Chinese Government are leveraging United States 
+talent and ecosystems through the establishment of research institutes 
+in the United States, investment in U.S. AI-related startups and firms, 
+recruitment of U.S.-based talent, and commercial and academic 
+partnerships. \7\ Russia is similarly focused on building its AI 
+capacity but is behind the United States and China in terms of overall 
+AI investment, research, and startups. \8\
+---------------------------------------------------------------------------
+    \2\ Central Committee of the Communist Party of China Central 
+Compilation and Translation Press, The 13th Five-Year Plan for Economic 
+and Social Development of the People's Republic of China (2016-2020), 
+(March 17, 2016), 64.
+    \3\ For this testimony, the exchange rate is: $1 = 6.72 RMB.
+    \4\ PRC State Council, Xinyidai rengongzineng fazhan guihua de 
+tongzi [Next-Generation Artificial Intelligence Development Plan], PRC 
+State Council-2017-35 (July 20, 2017).
+    \5\ Ibid.
+    \6\ ``2017 Annual Report to Congress,'' (United States-China 
+Economic and Security Review Commission, November 15, 2017), 525-527; 
+Michael Brown and Pavneet Singh, ``China's Technology Transfer 
+Strategy: How Chinese Investments in Emerging Technology Enable a 
+Strategic Competitor to Access the Crown Jewels of United States 
+Innovation,'' (Defense Innovation Unit, January 2018).
+    \7\ Ibid.
+    \8\ Alina Polyakova, ``Weapons of the Weak: Russia and AI-driven 
+Asymmetric Warfare,'' (Brookings Institution, November 14, 2018); 
+``Artificial Intelligence -A Strategy for European Startups: 
+Recommendations for Policymakers,'' (Asgard and Roland Berger, May 14, 
+2018).
+---------------------------------------------------------------------------
+    Underscoring the potential magnitude of AI's impact on the whole of 
+society, the breadth of its applications, and the urgency of this 
+emerging technology race, President Trump signed the executive order, 
+Maintaining American Leadership in Artificial Intelligence, on February 
+11, 2019, launching the American AI Initiative. This was immediately 
+followed by the release of DOD's first-ever AI strategy. \9\ These 
+documents emphasize the essential role of research and development 
+(R&D) across the Federal Government, business, and academia to maintain 
+U.S. leadership in AI, bolster national security, and safeguard the 
+values shared by the United States, its allies, and partners.
+---------------------------------------------------------------------------
+    \9\ Maintaining American Leadership in Artificial Intelligence, 
+Exec. Order No. 13859, 84 Fed. Reg. 3967 (February 11, 2019). U.S. 
+Department of Defense, Summary of the 2018 Department of Defense 
+Artificial Intelligence Strategy: Harnessing AI to Advance Our Security 
+and Prosperity.
+---------------------------------------------------------------------------
+    To increase intergovernmental coordination, DIU will engage with 
+DARPA and JAIC, among other DOD entities focused on AI, as well as make 
+its commercial knowledge and relationships with potential vendors 
+available to any of the Services and Service Labs. For example, DIU 
+will be working with the Services and Defense Agencies as DOD customers 
+for the projects it undertakes. AI projects today include work with the 
+Air Force, Army, Navy, and components as well as the Joint Chiefs of 
+Staff. DIU also works with the Defense Innovation Board and the newly 
+established Congressional Commission on AI to leverage the best 
+practices and learnings from the commercial software industry 
+executives who participate on the Board.
+    In particular, we anticipate a close partnership with JAIC, the 
+outlines of which DIU has already agreed upon with Lieutenant General 
+Jack Shanahan. As JAIC matures, we anticipate that DIU will be at the 
+leading edge of the Department's National Mission Initiatives (NMIs), 
+proving that commercial technology can be applied to critical national 
+security challenges via accelerated prototypes that lay the groundwork 
+for future scaling through JAIC. DIU looks to bring in key elements of 
+AI development pursued by the commercial sector, which relies heavily 
+on continuous feedback loops, vigorous experimentation using data, and 
+iterative development, all to achieve the measurable outcome, mission 
+impact.
+  reinvigorating outreach to commercial technology companies: defense 
+                            innovation unit
+    DIU is focused on accelerating commercial technology into the hands 
+of men and women in uniform. Its staff is comprised of Active Duty 
+military from every service, civilians, and individuals with extensive 
+private sector experience and deep ties into venture capital and 
+startup communities. DIU partners with the Services, Combatant 
+Commands, and component organizations to seek out and rapidly prototype 
+advanced commercial solutions--spanning AI, autonomy, cyber, human 
+systems, and space--to address military challenges ranging from the 
+tactical level to the defense enterprise. Within OUSD(R&E) and the 
+broader DOD, DIU is unique in its focus on developing and fielding 
+commercial hardware, software, and methodologies within an 
+approximately 24-month timeframe.
+    Accessing R&D and mature AI-driven technologies advanced by the 
+commercial sector is an essential component of the strategic approach 
+defined by the 2018 Department of Defense Artificial Intelligence 
+Strategy and the paradigm shift from ``defense industrial base'' to 
+``national security innovation base'' prescribed by the 2018 National 
+Defense Strategy. Senior leaders in the Department understand that DOD 
+no longer holds a monopoly on emerging technologies like AI that will 
+sway strategic, deterrent, and battlefield advantage in future wars. 
+\10\ U.S. businesses began outspending the Federal Government in R&D in 
+the 1980s, and now, industry-funded R&D represents approximately 67 
+percent of total U.S. investments. \11\
+---------------------------------------------------------------------------
+    \10\ Ben FitzGerald, Alexandra Sander, Jacqueline Parziale, 
+``Future Foundry: A New Strategic Approach to Military-Technical 
+Advantage,'' (Center for a New American Security, December 2016).
+    \11\ 11 DIU exists, in part, in response to the growing disparity 
+between federal and commercial R&D, leading to a global technology 
+landscape in which commercial companies are leading the development of 
+some of the world's most advanced technologies: ``In 1960, the United 
+States accounted for 69 percent of global R&D, with U.S. defense-
+related R&D alone accounting for more than one-third of global R&D. The 
+Federal Government funded approximately twice as much R&D as U.S. 
+business. However, from 1960 to 2016, the U.S. share of global R&D fell 
+to 28 percent, and the Federal Government's share of total U.S. R&D 
+fell from 65 percent to 24 percent, while business's share more than 
+doubled from 33 percent to 67 percent. As a result of these global, 
+national, and federal trends, federal defense R&D's share of total 
+global R&D fell to 3.7 percent in 2016.'' Moshe Schwartz and Heidi M. 
+Peters, ``Department of Defense Use of Other Transaction Authority: 
+Background, Analysis, and Issues for Congress,'' Report no. R45521 
+(Congressional Research Service), 43.
+---------------------------------------------------------------------------
+    Moreover, venture capital funding for AI-related companies reached 
+record highs in 2018, increasing 72 percent from 2017 totaling $9.3 
+billion. \12\ With offices in Silicon Valley, Boston, Austin, and 
+Washington, D.C., DIU is embedded in the core innovation ecosystems 
+where these deals are taking place, AI startups are thriving, and top 
+tech companies and universities are conducting groundbreaking research. 
+\13\ DIU's location not only facilitates deeper ties with leading edge 
+companies but allows the Department to establish a closer relationship 
+with venture firms as they scout the horizon for their next big bets 
+and take into consideration clear demand signals from DOD.
+---------------------------------------------------------------------------
+    \12\ ``MoneyTree Report: Q4 2018,'' (PricewaterhouseCoopers and CB 
+Insights, 2019), https://www.pwc.com/us/en/moneytree-report/moneytree-
+report-q4-2018.pdf.
+    \13\ The top five states for AI investment in 2018, in order, were 
+California, Massachusetts, New York, Texas, and Washington. Ibid.
+---------------------------------------------------------------------------
+    DIU seeks to lower barriers to entry into the defense market by 
+more closely matching commercial terms and contracting speeds via its 
+Commercial Solutions Opening (CSO) solicitation process, which 
+leverages Other Transaction (OT) authority. Traditional acquisition 
+pathways overburden technology companies operating with little or no 
+prior DOD contracting experience and runways that are often shorter 
+than the typical time to award a contract under the Federal Acquisition 
+Regulation. Shaping the DOD into a better customer through new 
+processes allows the Department to acquire the best commercial 
+technology faster and cheaper than the traditional system. Furthermore, 
+new acquisition pathways create more opportunities for national 
+security service, making DOD a more competitive employer of AI and 
+other sought-after tech talent through commercial contracts.
+    While cultural divides and ethical differences are often blamed for 
+the lack of closer cooperation between DOD and Silicon Valley, more 
+often than not, the true deterrent is misaligned economics. \14\ Since 
+DIU opened its first competitive solicitation using the CSO process in 
+June 2016, there has been no shortage of top-performing companies 
+interested in working alongside our DOD partners to solve some of the 
+toughest military challenges. DIU has awarded contracts to 103 of these 
+companies, 43 of which are first-time, non-traditional DOD contractors. 
+\15\
+---------------------------------------------------------------------------
+    \14\ Rachel Olney, ``The Rift Between Silicon Valley and the 
+Pentagon is Economic, not Moral,'' War on the Rocks, January 28, 2019, 
+https://warontherocks.com/2019/01/the-rift-between-silicon-valley-and-
+the-pentagon-iseconomic-not-moral/.
+    \15\ The 2018 OT Guide defines non-traditional defense contractor 
+as ``an entity that is not currently performing and has not performed, 
+for at least the one-year period preceding the solicitation of sources 
+by DOD for the procurement or transaction, any contract or subcontract 
+for the DOD that is subject to full coverage under the cost accounting 
+standards prescribed pursuant to section 1502 of title 41 and the 
+regulations implementing such section (see 10 U.S.C. 2302(9).'' Defense 
+Acquisition University, Other Transactions (OT) Guide, (November 2018), 
+https://aaf.dau.mil/ot-guide/.
+---------------------------------------------------------------------------
+                      diu's ai strategy & projects
+    Commercial AI companies are active across a wide range of sectors 
+and the opportunities for dual-use applications within DOD are vast. 
+The DIU AI portfolio focuses on understanding, tracking, and vetting 
+these commercial companies' ability to solve high-impact problems 
+identified by our military leadership and DOD partners. The portfolio 
+team combines depth of commercial AI, machine learning, and data 
+science experience from the commercial sector with military operators. 
+As a foundational technology, AI-driven solutions appear across a 
+number of DIU projects administered by other portfolio teams, however, 
+the AI portfolio specifically prioritizes projects that address three 
+major impact areas where AI is proven to excel:
+
+    1.  Computer vision: AI and machine learning adds automation to 
+object recognition and infrastructure assessment; for example, DIU is 
+prototyping computer vision algorithms in humanitarian assistance and 
+disaster recovery scenarios.
+
+    2.  Large dataset analytics and predictions: AI and machine 
+learning can help make sense of massive datasets and patterns more 
+efficiently and cost-effectively than human analysts; for example, DIU 
+is prototyping predictive maintenance applications for Air Force and 
+Army platforms.
+
+    3.  Strategic reasoning: AI and machine learning has the capacity 
+to inform top-down planning in environments characterized by 
+uncertainty, missing information, and speculation; for example, DIU is 
+prototyping an application that leverages AI to reason about high-level 
+strategic questions, map probabilistic chains of events, and develop 
+alternative strategies.
+
+    Furthermore, DIU has a strategic partnership with JAIC wherein 
+DIU's prototype AI applications ``pull'' on commercial capabilities, 
+prove and measure their applicability to mission imperatives, and (if 
+successful) are transitioned to JAIC to be scaled and integrated into 
+their NMI. In previous testimony before the House Armed Services 
+Subcommittee on Emerging Threats and Capabilities, Dr. Lisa Porter, 
+Deputy Under Secretary of Defense for Research and Engineering, 
+discussed the need to rigorously assess AI performance against 
+quantitative metrics tied to specific mission needs. \16\ DIU's 
+partnership with JAIC aims to institutionalize the rigor Dr. Porter 
+spoke of----the AI portfolio's prototype projects are designed to drive 
+metrics, establish benchmarks, and contribute infrastructure towards a 
+common foundation as described by the 2018 Department of Defense 
+Artificial Intelligence Strategy. \17\
+---------------------------------------------------------------------------
+    \16\ Dr. Lisa Porter, Deputy Under Secretary of Defense for 
+Research and Engineering, testimony to the Subcommittee on Emerging 
+Threats and Technologies, House Armed Services Committee, December 11, 
+2018, https://docs.house.gov/meetings/AS/AS26/20181211/108795/HHRG-115-
+AS26-Wstate-PorterL-20181211.pdf.
+    \17\ U.S. Department of Defense, Summary of the 2018 Department of 
+Defense Artificial Intelligence Strategy: Harnessing AI to Advance Our 
+Security and Prosperity.
+---------------------------------------------------------------------------
+    Following are three specific use cases and projects which employ AI 
+technology:
+Applying Computer Vision to Humanitarian Assistance and Disaster Relief
+    In 2018, DIU hosted the xView Challenge to test computer vision and 
+the use of algorithms to automatically identify objects from images. 
+The competition attracted more than 4,000 submissions from 100 
+participants from around the world including companies, universities, 
+and individuals. The top performing algorithms were 300 percent more 
+accurate than the government produced baseline, which helps advance 
+computer vision proficiency across four core elements of overhead 
+imagery analysis. The winning algorithm was then used to automate post-
+disaster assessments in the wake of Hurricane Florence, assisting 
+emergency personnel to quickly identify flooded areas and impassable 
+roads. This use of AI holds the potential to automate post-disaster 
+assessments and accelerate search and rescue efforts on a global scale.
+Scaling Predictive Maintenance to Improve Readiness and Cut Costs
+    DIU's predictive maintenance prototype project provides a specific 
+example of the synergy that we plan to foster between OUSD(R&E) and 
+JAIC. DIU identified a leading commercial airline industry supplier of 
+predictive maintenance solutions and launched a six-month prototype for 
+E-3 Sentry aircraft maintenance. The prototype began with testing 
+predictions at the part and sub-part level against historical actuals 
+to establish the robustness of the AI and its relevance to operational 
+decision-making. This methodology effectively assesses the accuracy of 
+the AI predictions, how much they matter, and in which areas the most 
+impact can be expected (as defined by cost and/or platform 
+availability). Early results of Air Force applications indicate a 
+potential 28 percent decrease in unscheduled maintenance on the E-3 
+across six sub-systems and more than 32 percent reduction on the C-5 
+across ten sub-systems. DIU is partnering with JAIC to scale this 
+solution across multiple aircraft platforms, as well as ground vehicles 
+beginning with DIU's complementary predictive maintenance project 
+focusing on the Army's Bradley Fighting Vehicle. This is one of DIU's 
+highest priority projects for fiscal year 2019 given its enormous 
+potential for impact on readiness and reducing costs.
+Automating Cyber Vulnerability Detection & Remediation
+    DOD's current vulnerability discovery process for weapons systems 
+software lacks the capability to scale because it relies on time and 
+labor-intensive human search and analysis. According to an October 2018 
+GAO report, $1.66 trillion of weapon system development is at risk due 
+to the scale of unmitigated cyber vulnerabilities. \18\ One of the 
+tools to address these vulnerabilities is DIU's Project VOLTRON, which 
+is an active prototype project that has demonstrated artificially 
+intelligent detection of previously unknown vulnerabilities in 
+classified weapons systems. The project seeks to demonstrate autonomous 
+exploitation and patching; development of an application programming 
+interface (API) for extensibility; and integration into DOD software 
+development environments. This would give the DOD an end-to-end 
+capability that goes from writing software free of vulnerabilities to 
+remediating vulnerabilities in compiled mission software for which 
+source code is not available. The products from Project VOLTRON help 
+make DOD owned systems more resilient to cyber attacks and inform 
+program offices of configuration errors faster and with less errors 
+than humans. An initial capability demonstration of the commercial 
+technologies leveraged by VOLTRON yielded previously undiscovered bugs 
+within the first few minutes of testing against representative aircraft 
+software provided by a defense contractor. In addition, previously 
+unknown vulnerabilities have already been discovered in currently 
+fielded aircraft systems. Integration into software development 
+pipelines will ensure that most vulnerabilities can be found and 
+remediated before future systems go into production and/or deployment.
+---------------------------------------------------------------------------
+    \18\ United States Government Accountability Office, Weapon Systems 
+Cybersecurity: DOD Just Beginning to Grapple with Scale of 
+Vulnerabilities, GAO-19-128 (October 2018), https://www.gao.gov/assets/
+700/694913.pdf.
+---------------------------------------------------------------------------
+Tremendous Opportunity for DOD/Commercial Collaboration
+    Commercial industry is breaking ground on AI applications 
+supporting a wide range of business areas and there is a tremendous 
+opportunity to re-establish and grow the ties between the user 
+communities in DOD, commercial entrepreneurs, and partners in 
+universities and labs dedicated to performing the basic research that 
+provides a foundation for future advances. While DIU has found the vast 
+majority of high-tech companies focused on AI to be willing and 
+enthusiastic partners, there is work yet to be done to provide and 
+encourage an open dialogue with the private sector and researchers 
+about applications and principles of use for this powerful tool. DIU 
+will continue to solve DOD problems with commercial AI solutions to 
+bring the Department new capabilities and encourage non-traditional 
+technology firms to work with DOD to grow the national security 
+innovation base.
+
+    Senator Ernst. Thank you very much, Mr. Brown.
+    Last, certainly not least, we have Lieutenant General John 
+N.T. ``Jack'' Shanahan. General Shanahan is the Director, Joint 
+Artificial Intelligence Center, Office of the Department of 
+Defense Chief Information Officer (CIO) at the Pentagon. 
+General Shanahan is responsible for accelerating the delivery 
+of AI-enabled capabilities, scaling the departmentwide impact 
+of AI, and synchronizing AI activities to expand joint force 
+advantages.
+    General, please go ahead.
+
+    STATEMENT LIEUTENANT GENERAL JOHN N.T. SHANAHAN, USAF, 
+ DIRECTOR, JOINT ARTIFICIAL INTELLIGENCE CENTER, OFFICE OF THE 
+        DEPARTMENT OF DEFENSE CHIEF INFORMATION OFFICER
+
+    General Shanahan. Good afternoon, Madam Chairwoman, Ranking 
+Member, distinguished Members of the Subcommittee. Thank you 
+for the opportunity to testify before the Subcommittee today on 
+the Department's artificial intelligence committees.
+    I'm honored to serve as the first Director of DOD's Joint 
+AI Center, or the JAIC. I've been in this position for just 
+over 2 months. Previously, I served in the Under Secretary of 
+Defense for Intelligence, where, for 2 years, I was the 
+Director of the Algorithmic Warfare Cross-functional Team, also 
+known as Project Maven.
+    Artificial intelligence, or AI, is rapidly changing an 
+ever-expanding range of businesses and industries. It offers 
+the opportunity to transform every corner of the Department 
+from multidomain operations at the edge to back-office business 
+functions. As described in the 2019 National Defense Strategy, 
+or NDS, it is also poised to change the character of warfare. 
+Thoughtful, responsible, and human-centered adoption of AI in 
+the DOD will strengthen our national security and transform the 
+speed and agility of our operations.
+    Last June, then-Deputy Secretary of Defense Shanahan 
+directed the DOD Chief Information Officer, Mr. Dana Deasy, to 
+establish the Joint AI Center to accelerate the delivery and 
+adoption of AI-enabled capabilities, scale the departmentwide 
+impact of AI, and synchronize the Department's AI activities. 
+In parallel, DOD submitted its first AI Strategy to the 
+Congress as an annex to the NDS. Last month, the Department 
+released an unclassified summary of DOD's AI Strategy, doing so 
+on the heels of the President's signature of the executive 
+order on AI. The JAIC's missions and functions nest well under 
+the principles and objectives outlined in the AI executive 
+order.
+    JAIC's formation also dovetails section 238 of the fiscal 
+year 2019 NDAA. Additionally, JAIC will benefit from, and help 
+bring to fruition, recommendations of the new National Security 
+Commission (NSC) on AI. I was privileged to talk with the 
+members of the Commission yesterday, when they met for the 
+first time. I know Senator Heinrich was also there.
+    The JAIC is the focal point of the DOD AI Strategy and was 
+established to provide a common vision, mission, and focus to 
+drive departmentwide AI capability delivery. I want to 
+highlight three primary themes for our approach:
+    First, delivering AI-enabled capabilities at speed. JAIC is 
+collaborating with teams across DOD to identify, prioritize, 
+and select mission needs, and then execute a series of cross-
+functional use cases to demonstrate value and spur momentum. We 
+need early demonstrable wins to show practical results and the 
+art of the possible, followed by scaling across the enterprise. 
+Projects fall into two main categories: national mission 
+initiatives, or NMIs, and component mission initiatives, or 
+CMIs. NMIs are driven and executed by the JAIC as broad, joint, 
+crosscutting AI challenges; whereas, CMIs are component-led, 
+but are able to make use of JAIC's common tools, libraries, 
+best practices, and more.
+    Our emphasis on rapid, iterative delivery of AI complements 
+the Department's ongoing work at the other end of the AI 
+spectrum, in fundamental research and development, as you heard 
+from Dr. Highnam. Our first two NMIs are predictive maintenance 
+with the Special Operations Command and U.S. Army H-60 
+helicopter use case and humanitarian assistance and disaster 
+relief, in which we will field AI capabilities in support of 
+natural events, such as wildfires and hurricanes. We are also 
+getting a headstart on a planned fiscal year 2020 cyberspace 
+NMI designed to use AI-enabled capabilities to improve event 
+detection, network mapping, and compromised-account 
+identification.
+    At the same time, we are now in the early problem-framing 
+stage for another proposed NMI in fiscal year 2020 that will be 
+more oriented on the NDS, National Defense Strategy, in 
+operations against peer competitors. We are also in initial 
+discussions with the Military Services, components, and 
+combatant commands on the applicability of AI to help with 
+solutions in areas as diverse as talent management, suicide 
+prevention, preventive medicine, and information operations, 
+among others.
+    The second theme is scale. As I know firsthand from Project 
+Maven, scaling AI across the enterprise is hard, but it's also 
+the only way we will realize the full benefits of AI in the 
+Department. JAIC's early projects serve a dual purpose, to 
+deliver new capabilities to end users as well as to 
+incrementally develop the common foundation that is essential 
+for scaling AI's impact across DOD. We will put this foundation 
+in place in a way that aligns with DOD enterprise cloud 
+adoption.
+    The third theme is talent. We built the initial JAIC team 
+with representatives detailed from across each of the services 
+and other components. Today, we have 30 people, growing to over 
+50 within the next 5 months. We do not receive our permanent 
+manpower until fiscal year 2020.
+    For the JAIC to succeed, we must attract and cultivate a 
+select group of mission-driven, world-class AI talent, to 
+include enticing experts from the tech industry to serve with 
+us. The success of human-centered AI and human-machine teaming 
+within DOD requires growing and sustaining an AI-ready force, 
+one that is conversant in the language of AI, willing and able 
+to operate with a new kind of speed and agility.
+    In closing, the JAIC is now up and running, and we're open 
+for business. Thank you for your strong support in driving 
+momentum in this critical area. I look forward to continuing to 
+work with Congress as we advance the adoption of AI across the 
+Department and use the JAIC to accelerate our progress.
+    Thank you for the opportunity to testify this afternoon. I 
+look forward to your questions.
+    [The prepared statement of General Shanahan follows:]
+
+  Prepared Statement by Lieutenant General John ``Jack'' N.T. Shanahan
+                              introduction
+    Good afternoon Madam Chairwoman, Ranking Member, and distinguished 
+Members of the Subcommittee. Thank you for this opportunity to testify 
+before the Subcommittee today on the Department's Artificial 
+Intelligence (AI) Initiatives.
+    I am Lieutenant General Jack Shanahan, the Director of the Joint 
+Artificial Intelligence Center or JAIC. I have been in my current 
+position for a little over two months. Previously, I served in the 
+Under Secretary of Defense for Intelligence as the Director of the 
+Algorithmic Warfare Cross-Functional Team or Project Maven, the 
+Department's pathfinder project to integrate AI capabilities to 
+augment, accelerate, and automate collection from a variety of manned 
+and unmanned intelligence platforms and sensors.
+    AI is rapidly changing an ever-expanding range of business and 
+industry. As described in the 2018 National Defense Strategy (NDS), AI 
+is also poised to change the character of warfare. Structurally, we 
+know AI has the potential to be an enabling layer across nearly 
+everything--meaning countless applications in industry and everyday 
+life, while offering the opportunity to positively transform every 
+corner of the Department. We envision innovative concepts that change 
+the way we plan and fight, including improvements in the way we 
+perceive our environment, maintain our equipment, train our men and 
+women, defend our networks, operate our back offices, provide 
+humanitarian aid and respond to disasters; and more. By harnessing the 
+power of AI in defense, we will better support and protect American 
+servicemembers, safeguard our citizens, defend our allies, and improve 
+the effectiveness, affordability, and speed of our operations.
+    Other nations, particularly strategic competitors such as China and 
+Russia, are making significant investments in AI for military purposes. 
+These investments threaten to erode our technological and operational 
+advantages and destabilize the free and open international order. The 
+Department of Defense, together with our allies and partners, must 
+adopt AI to maintain its strategic position, prevail on future 
+battlefields, and safeguard this order.
+    Per the NDS, the Department will accelerate the delivery and 
+adoption of AI to expand our military advantages and create a force fit 
+for our time. AI will enhance operational effectiveness, improve 
+readiness, and increase efficiency in the general business practices of 
+the Department. We will make a concerted effort to move AI technologies 
+in a direction that improves our odds of long-term security, peace, and 
+stability through vigorous dialogue and multilateral cooperation on the 
+ethical, safe, and lawful use of AI for national security and 
+establishing new norms for responsible behavior, consistent with the 
+law. The Department's AI transformation will ensure that we maintain 
+the ability to execute our vital mission of protecting the security of 
+our nation, deterring war, and preserving peace.
+                         establishment of jaic
+    Last June, then-Deputy Secretary of Defense Patrick Shanahan 
+directed Mr. Dana Deasy, the Department's Chief Information Officer, to 
+establish the Joint AI Center. This new organization is tasked to 
+accelerate the delivery of AI-enabled capabilities, scale the 
+Department-wide impact of AI, and synchronize the Department's AI 
+activities. In parallel, the Department submitted its first AI Strategy 
+to Congress, an annex to the NDS that captures the integrated set of 
+decisions we are making now to harness AI to advance our security and 
+prosperity. Last month, the Department released an unclassified summary 
+of the classified DOD AI strategy, in support of the President's 
+Executive Order on AI (Maintaining American Leadership in Artificial 
+Intelligence) that calls for greater AI investment, harmonization of 
+standards, and training and workforce development initiatives. The 
+JAIC's missions and functions nest well under the principles and 
+objectives outlined in the AI Executive Order.
+    The founding of JAIC supports implementation of section 238 of the 
+fiscal year 2019 National Defense Authorization Act, this provision 
+directed a joint approach to coordinate the efforts of the Department 
+to develop, mature, and transition AI technologies into operational 
+use. The Department views the requirements of section 238 as a 
+strategic opportunity to improve its posture for AI. In fact, we used 
+elements from the language in section 238 to help frame the JAIC's 
+roles, missions, and functions. In December 2018, JAIC commissioned a 
+team from the RAND Corporation to support our analysis. The RAND team 
+built its analytical framework, completed initial DOD-wide data 
+collection, and is currently building interview protocols and contact 
+lists for engaging with industry.
+    As part of this, I will now touch on how we are partnering with the 
+Under Secretary of Defense (USD) Research & Engineering (R&E), the role 
+of the Military Services, the Department's initial focus areas for AI 
+delivery, and how JAIC is supporting whole-of-government efforts in AI.
+    As the focal point of the DOD AI Strategy, the JAIC was established 
+to provide a common vision, mission, and focus to drive Department-wide 
+AI capability delivery. JAIC will operate across the full AI delivery 
+lifecycle, emphasizing near-term prototyping, execution, and 
+operational adoption to meet current needs. JAIC's work will complement 
+the AI efforts of USD(R&E), which are focused on foundational research, 
+longer-term technology creation, and innovative concepts. Both JAIC and 
+USD(R&E) will need to collaborate effectively and succeed individually 
+for the DOD to implement its ambitious AI strategy.
+    The JAIC communicates a consistent message about transforming DOD 
+through AI. This refers to the transformation that happens when you 
+field technology on operationally-relevant timelines, enable frontline 
+men and women to experiment with it based on their own creativity, and 
+ultimately generate new ways of working that solve our most critical 
+challenges and enhance our military strength. As we move to rapidly 
+incorporate AI, those men and women in America's military will remain 
+our enduring source of strength. We will use AI-enabled information, 
+tools, and systems to empower and augment, not replace, those who 
+serve.
+    To derive maximum value from AI application throughout the 
+Department, JAIC will operate across an end-to-end lifecycle of problem 
+identification, prototyping, integration, scaling, transition, and 
+sustainment. Emphasizing commerciality to the maximum extent 
+practicable, JAIC will partner with the Services and other components 
+across the Joint Force to systematically identify, prioritize, and 
+select new AI mission initiatives. Then JAIC will stand up cross-
+functional teams that will rapidly execute a sequence of use cases that 
+demonstrate value and spur momentum. We need early, demonstrable wins 
+that show practical results and the art of the possible. Then, we must 
+scale these capabilities across the enterprise. To do this, JAIC is 
+engaging with leading commercial and academic partners for prototypes, 
+and employing standardized processes with respect to areas such as data 
+management, testing and evaluation, assessment of delivered 
+capabilities, and program protection and cybersecurity. Our approach 
+has been directly informed by the Department's AI pathfinder activity, 
+Project Maven, which successfully identified and is beginning to 
+address key challenges with integrating AI into operations. This 
+program put in place an initial set of data, tools, and infrastructure 
+for AI delivery, as well as initial templates for contracting and 
+acquisition, testing and evaluation, operational assessment, and 
+program protection.
+    JAIC's early projects serve a dual purpose: to deliver new AI-
+enabled capabilities to end users, and to help incrementally develop a 
+common foundation that is essential for scaling AI's impact across DOD. 
+This foundation includes shared data, reusable tools, frameworks, 
+libraries, and standards, and AI cloud and edge services. JAIC will 
+work with teams throughout the Department to ensure that they can 
+leverage this foundation to accelerate their progress in a manner that 
+aligns with DOD enterprise cloud adoption. Our enterprise approach for 
+AI and enterprise cloud adoption as outlined in the DOD-wide Cloud 
+Strategy are mutually reinforcing, mutually dependent undertakings. 
+Finally, JAIC will provide ongoing support to the efforts of the 
+Services and other organizations to ensure continuous improvement, 
+assessment, and sustainment of AI systems and solutions across the 
+enterprise.
+    The AI capability delivery efforts that will go through this 
+lifecycle will fall into two categories: National Mission Initiatives 
+(NMI) and Component Mission Initiatives (CMI). As outlined in the DOD 
+AI Strategy, a NMI is a pressing operational or business reform joint 
+challenge, typically identified from the National Defense Strategy's 
+key operational problems or nominated by a mission owner, and requiring 
+multi-service innovation, coordination, and the parallel introduction 
+of new technology and new operating concepts. NMIs are typically driven 
+by JAIC and are executed by cross-functional teams that comprise both 
+JAIC personnel as well as subject matter specialists from across the 
+Department on a rotational basis. Execution of these projects will be 
+essential for putting in place our initial common foundation.
+    The second project category is a Component Mission Initiative 
+(CMI), which is a component-level challenge that can be solved through 
+AI. JAIC will work closely with individual components on CMIs to help 
+identify, shape, and accelerate their Component-specific AI deployments 
+through funding support; usage of common foundational tools, libraries, 
+cloud infrastructure; application of best practices; partnerships with 
+industry and academia; and so on. The Component will be responsible for 
+identifying and implementing the organizational structure required to 
+accomplish its project in coordination and partnership with the JAIC.
+    We will form teams to work with the Services, Components, and 
+Combatant Commands on potential CMIs. Based on initial conversations 
+with all of these stakeholders, I fully expect that we will see rapid 
+growth in the number of CMIs in Fiscal Year 2020. We are in early 
+discussions with the Services, Components, and Combatant Commands on 
+the applicability of AI to help with solutions in areas as diverse as 
+talent management, suicide prevention, preventive medicine, 
+installation and force protection, information operations, operational 
+war planning, and modeling and simulation. Additionally, we intend to 
+identify smart automation initiatives that could provide near-term 
+dividends in terms of increased effectiveness and efficiency for back-
+office functions.
+    All of the Services are increasing their levels of investment in 
+AI-related capabilities in near term. The JAIC is already forming 
+strong partnerships with the Services and key Components. For example, 
+the Army established a new AI Task Force that is working closely with 
+the JAIC on predictive maintenance. We are actively engaged in an 
+effort to apply data-driven insights to equipment availability at U.S. 
+Special Operations Command and in the U.S. Air Force in partnership 
+with Defense Innovation Unit (DIU). We are partnering with U.S. Cyber 
+Command and the National Security Agency to shape a new cyberspace-
+related mission initiative. These early efforts will better define how 
+we make use of common approaches to data, tools, libraries, 
+architectures, development approaches, and more.
+    JAIC's focus on near-term AI implementation and adoption 
+complements efforts within the USD (R&E). Organizations such as the 
+Defense Advanced Research Projects Agency (DARPA) are focused on the 
+future or next wave of AI research and longer-term technology creation. 
+When it comes to research for the future versus the ability to apply it 
+now at scale, DOD needs the best of both, and they feed one another--
+USD(R&E) will feed JAIC with updates on leading-edge AI technologies 
+and concepts, and JAIC will provide R&E insights from operational 
+fielding, user feedback, and data. There is a distinct and shared 
+vision of an enterprise approach promulgated by USD(R&E) and DOD CIO. 
+JAIC is already working with DIU, DARPA, and the Strategic Capabilities 
+Office to improve integration and enhance unity of effort on current 
+and future AI projects.
+    Further examples of early NMI's include:
+
+      Perception. Improve the speed, completeness, and accuracy 
+of Intelligence, Surveillance, Reconnaissance (ISR) Processing, 
+Exploitation, and Dissemination (PED). Project Maven's efforts are 
+included here. -Predictive Maintenance (PMx). Provide computational 
+tools to decision makers to help them better forecast, diagnose, and 
+manage maintenance issues to increase availability, improve operational 
+effectiveness, and ensure safety, at reduced cost.
+
+      Humanitarian Assistance/Disaster Relief (HA/DR). Reduce 
+the time associated with search and discovery, resource allocation 
+decisions, and executing rescue and relief operations to save lives and 
+livelihood during disaster operations.
+
+      Cyber Sensemaking. Detect and deter advanced adversarial 
+cyber actors who infiltrate and operate within the DOD Information 
+Network (DODIN) to increase DODIN security, safeguard sensitive 
+information, and allow warfighters and engineers to focus on strategic 
+analysis and response.
+
+    We selected these initiatives to deliver mission impact at speed, 
+demonstrate the proof of concept for the JAIC operational model, enable 
+rapid learning and iterative process refinement, and build out our 
+library of reusable tools while validating our enterprise cloud 
+architecture. These efforts will benefit us by growing more AI 
+credibility and expertise within the JAIC that will return to the 
+Services and Components to help accelerate and sustain their own AI 
+projects.
+    For the predictive/preventive maintenance NMI, we are starting with 
+Army and Army Special Operations helicopters (H-60s). There is 
+sufficient data available to train algorithms, there will be defined 
+return on investment criteria, and this project helps address the 
+Secretary's direction to the Services to improve their maintenance 
+readiness rates. We anticipate moving to other airframes and vehicles, 
+to include working with DIU to scale the promising results they have 
+demonstrated using AI for predictive maintenance on other Air Force and 
+Army platforms.
+    For the humanitarian assistance and disaster relief (HA/DR) NMI, we 
+are already applying lessons learned and reusable tools from Project 
+Maven to field AI capabilities in support of federal responses to 
+events such as wildfires and hurricanes--where DOD plays a supporting 
+role. One of the most important benefits of this NMI is that it is an 
+inspiring, societally-beneficial, life-saving mission that is not only 
+whole-of-government but whole-of-society. It brings in interagency, 
+state and local governments, non-governmental organizations, allied and 
+partner nations, and more. It offers a unique opportunity to combine 
+DOD efforts with industry and academia in a new type of public-private 
+endeavor to operationalize AI to solve our most challenging problems. 
+Doing this at scale to address disasters on an integrated basis creates 
+the potential to both save lives and livelihood as well as advance 
+common tools, lessons, and partnerships for the benefit of many DOD 
+missions.
+    We are also in the early problem-framing stage for another 
+substantial NMI in Fiscal Year 2020 that will be much more oriented on 
+the National Defense Strategy and operations against peer and near-peer 
+competitors. At the same time we will be seeking cutting-edge 
+technologies within commercial industry and in DOD organizations such 
+as DARPA that are ready for operational fielding across the Department.
+    While its primary focus is delivery initiatives such as these, JAIC 
+has an important role in synchronizing DOD AI activities. This avoids 
+duplication and excess cost, fosters sharing of lessons, and 
+establishes a new enterprise approach for translating AI into decisions 
+and impact at scale across the Joint Force. Under the DOD CIO's 
+authorities and as delineated in the JAIC establishment memo, JAIC will 
+coordinate all DOD AI-related projects above $15 million annually. This 
+does not mean that JAIC will control the execution of these projects or 
+the funding for Service-and Component-level AI initiatives. It does 
+mean that we will start to ensure, for example, that they begin to 
+leverage common tools and libraries, manage data using best practices, 
+reflect a common governance framework, adhere to rigorous testing and 
+evaluation methodologies, share lessons learned, and comply with 
+architectural principles and standards that enable scale. Over time, 
+when properly resourced, JAIC will assume a greater role with regard to 
+Component AI programs.
+    JAIC will be a key resource for whole-of-government efforts in AI, 
+particularly as we explore as a nation the opportunities and challenges 
+associated not merely with fundamental AI research, but also with 
+translating the technology into decisions and impact in operations. To 
+underscore our focus on ethics, humanitarian considerations, and both 
+short-term and long-term AI safety, JAIC is working closely with the 
+Defense Innovation Board (DIB) to foster a broad dialogue and provide 
+input into the development of AI principles for defense. We are 
+offering our perspective on crucial policy and research and development 
+associated with operationalizing AI today in our engagements with the 
+important work of the National Security Council Staff and the National 
+Science and Technology Council Select Committee on AI. This remains a 
+larger Administration priority. On February 11, 2019, President Trump 
+signed an executive order launching the American AI Initiative, a whole 
+of government strategy for ensuring American leadership in this 
+important field. I want to emphasize the importance of our partnerships 
+with Congress in all areas, but with a particular focus on AI. The 
+establishment of the National Security Commission on Artificial 
+Intelligence in the National Defense Authorization Act for Fiscal Year 
+2019 is one key example of this partnership, to which JAIC will serve 
+as the DOD liaison element.
+    The ingredients for JAIC's success include: enterprise cloud 
+adoption; world-class AI talent, particularly in areas that are scarce 
+within DOD today such as data science and data engineering, machine and 
+reinforcement learning, and product management; a workforce that is 
+taking steps to become broadly AI-ready; strong partnerships with the 
+Services, Combatant Commands, and other key components; a tight two-way 
+integration with the critical work of USD(R&E); and energetic, combined 
+problem-solving enabled by bonds of trust with AI leaders in industry 
+and academia. The final ingredient for success in cultivating and 
+sustaining an ``AI Ready'' force for the future is culture: 
+specifically, the need to become a more data-centric, computer science-
+literate, force conversant in the language of AI, and willing and able 
+to operate with a new kind of speed and agility. Finally, an unwavering 
+commitment to ethics and principles. These are the table stakes in AI.
+    DOD's legacy culture and processes are particularly apparent in the 
+challenges we encounter launching what can only be described as a 
+startup within the Department of Defense. As we do so, we are 
+incorporating lessons learned from other Department activities that 
+resembled startups in how they responded to urgent, compelling 
+requirements across the Department--such as the Intelligence, 
+Surveillance and Reconnaissance Task Force, Joint Improvised Explosive 
+Device Defeat Organization, and Project Maven. As we learned with 
+Project Maven, there is no substitute for simply embarking on an AI 
+project to gain critical hands-on experience, but we also acknowledge 
+the importance of implementing more systemic AI education and training 
+programs across the entire Department, at all levels. The Defense 
+Innovation Board has been particularly helpful in charting a path 
+forward in this area.
+    All of this requires striking the right balance between top-down 
+pressure and bottom-up innovation. Adding funding and people will not 
+by themselves spark the necessary level of institutional change, at 
+least not until we have a broader and deeper foundation of people--
+especially within all of the military Services--who understand how to 
+operationalize and accelerate the AI pipeline.
+    AI will change the character of warfare, which in turn will drive 
+the need for wholesale changes to doctrine, concept development, and 
+tactics, techniques, and procedures. There will be a need for much more 
+experimentation, at every level and in every domain. New operating 
+concepts will depend on a greater understanding of what AI can (and 
+cannot) help achieve. We need to accelerate fielding AI capabilities 
+across the joint force, and as we do so, we must validate, refine, and 
+adapt operating concepts. This includes thinking about entirely new 
+concepts centered on human-machine teaming, as well as the cognitive 
+consequences of the widespread fielding of AI capabilities.
+    The Joint AI Center will play a critical role in transforming the 
+Department by delivering capability at speed to address key missions; 
+establishing a common foundation for scaling AI's impact across the 
+Joint Force; and facilitating AI plans, policies, and standards, 
+including those that ensure we lead the world in the development of AI 
+solutions that are robust, resilient, ethical, and secure. We will 
+attract and cultivate the expertise of a world-class AI team and an AI-
+ready workforce.
+    The speed and scale of technological change required is daunting. 
+However, the Department must embrace it if we are to reap the benefits 
+of continued security and prosperity for the future. Our sustained, 
+systemic approach accompanies a palpable sense of urgency. Ultimately, 
+this needs to extend across our entire department, government, and 
+society.
+    I look forward to continuing to work with Congress in an ongoing 
+dialogue on our progress in AI adoption, and the ways in which JAIC is 
+being used to accelerate that progress. Thank you for the opportunity 
+to testify this afternoon, and I look forward to your questions.
+
+    Senator Ernst. Absolutely.
+    Again, thank you, to our witnesses, for being here today.
+    I'll go ahead and start with the questioning here, and 
+then, when Senator Peters--oh, here he comes--when he returns--
+I'll go ahead and start with my questions, and then, Senator, 
+I'll turn it over to you.
+    Again, thank you very much. This is a very interesting 
+topic, and I think we can learn a lot from the discussion 
+today.
+    To all of our witnesses here, if you could share, how are 
+the AI efforts in R&D coordinated among DARPA, JAIC, and the 
+services? General Shanahan, you had mentioned the 
+synchronization of AI activities, and you had mentioned R&D. If 
+you could all share, how do you synchronize that information? 
+How do you share that information? What are the best techniques 
+in doing that?
+    Dr. Highnam, if we could start with you, please.
+    Dr. Highnam. Whenever DARPA starts a research program, 
+there's a development of use cases. We seek to understand: If 
+we succeed in that program, who cares, who benefits? That means 
+that our program managers are out, talking inside the services 
+all the time; in fact, across the national defense 
+establishment, writ large. There's the natural inbuilt 
+connection before we even start, before we even agree to start 
+a high-risk activity. That's true whether it's hypersonics or 
+quantum or AI. This is normal business.
+    Now, in fields like AI technologies, which are software 
+tools with a lot of tail to them--sustainment, deployment 
+tails--I personally, as an R&D guy, am really happy to now have 
+the JAIC sent up as a partner to take on that 6-4 and on, that 
+engineering, deployment, sustainment tail, because I expect it 
+will make transitions into practice a lot--not simpler, but 
+more straightforward. I fully recognize just how much hard work 
+General Shanahan and his team are going to have to do to make 
+that end of the business happen.
+    Senator Ernst. Absolutely. Thank you.
+    Mr. Brown. Senator Ernst, the most important area for us to 
+collaborate with is JAIC. As I'm sure you recognize, DARPA has 
+a different timeframe in mind that we all benefit from, being 
+longer term. DIU's timeframe is 24 months or less, so we aim to 
+get commercial companies on contract within 60 days, and then a 
+prototype fielded within 2 years. In software, we're trying to 
+go faster than that, a year to 18 months.
+    In coordinating projects, our strategy with JAIC, which I'm 
+very pleased to be in partnership with General Shanahan, is, 
+we'll go out and look at what's successful commercially, 
+including vendors, and then, if we prototype something 
+successfully, we're the trial, and we want to scale it. Then we 
+start working with JAIC for what's the infrastructure we need 
+and how would we make that available to all of the services. 
+For example, we're working together now to get a vendor that we 
+have worked with on prototype to get a production contract that 
+will be with JAIC so any of the services can take advantage of 
+that.
+    For our project-base work, we also coordinate with the Vice 
+Chairman of the Joint Chiefs. We have a quarterly meeting with 
+General Selva, not just on AI, but our other projects, to make 
+sure we're doing things that make sense to joint forces. Then 
+we have monthly meetings with each of the Assistant Secretaries 
+for Acquisition--so Army, Navy, Air Force, Dr. Jette, Dr. 
+Roper, Hondo Geurts--to make sure that what we're working on 
+makes sense with their priorities. The last thing we want to be 
+doing is a lot of independent projects that don't have 
+leverage----
+    Senator Ernst. Right.
+    Mr. Brown.--across the----
+    Senator Ernst. Correct.
+    Mr. Brown.--Department.
+    Senator Ernst. Correct. Thank you.
+    General Shanahan. Senator, while the number may vary 
+depending on who wrote it, I think, in fiscal year 2018, the 
+number was 511 projects that had AI as their primary focus 
+across the Department. The question is, Are all those 511 
+projects towards a common end, in support of the National 
+Defense Strategy? This question of synchronization is essential 
+to where we're going in the JAIC, and it comes down to 
+governance and oversight. In section 238 of the NDA [Naitonal 
+Defense Authorization Act] actually directs governance and 
+oversight, for this very reason.
+    We have a lot of work to do in this area. I would like to 
+start by just getting our arms around all of the projects that 
+will come out in fiscal year 2020, to understand the amount of 
+funding, what the projects are for, not to threaten somebody's 
+budget. That is not the intent of the JAIC. But, we owe it to 
+the Department and to the Hill and to the public to be able to 
+account for all of those projects and the money that's being 
+spent.
+    I take that very seriously. We're still in the building 
+phase right now for the JAIC, but we are in early discussions 
+about what governance looks like for the JAIC and, How do we 
+bring all of us together to understand what are the projects 
+going towards? A $200,000 research project at University of 
+Michigan may be exactly what we need for a long-term insight 
+into a particular part of autonomous vehicles. The question is, 
+Do we know about it at a central level so that the Secretary 
+and the Deputy Secretary of Defense are comfortable about what 
+the Department is doing in artificial intelligence?
+    We take this very seriously. As Dr. Highnam said, we're 
+also in discussions, just between DARPA and us, on, Where is 
+that transition from DARPA, ready to field, over to the JAIC? 
+We are in early conversations of that. We don't have programs 
+identified yet.
+    Senator Ernst. Very good. Well, I appreciate that.
+    Going back to what Dr. Highnam said is, of course, Who 
+cares and who benefits? I think, bottom line, that is a great 
+way to put it. If you're not sharing information and going 
+through that synchronization, who cares and who benefits? We 
+don't really know. I appreciate that very much.
+    Thank you. I will step out. Ranking Member will take over 
+the meeting.
+    Thank you.
+    Dr. Highnam. If I may, one go-back on that. In all of our 
+research programs, we also seek transition of the technologies 
+that come out. We don't just do the research. This is Defense. 
+We're pushing it. We seek transition agreements with the end 
+users, wherever they may be, in the services or in the IC 
+[intelligence community].
+    Senator Ernst. Thank you.
+    Senator Peters [presiding]. Thank you, Madam Chairwoman.
+    I think I want to--I'd like to pick up a little bit, Mr. 
+Brown, on--you were discussing the commercial sector and how 
+we're reaching out to the commercial sector to be bringing in a 
+lot of this technology. Certainly, that's what we're seeing--
+probably some of the most exciting advances are happening 
+outside of the DOD, in the commercial space, and, because of 
+all the applications from the financial industry, to banking to 
+insurance to automobiles--I mean, all of that is going to be 
+transformed in significant ways from artificial intelligence.
+    But, it's important for the DOD to be able to bring that in 
+and use it effectively. There are a number of factors that 
+usually, I think, stand in the way of that happening, from our 
+very cumbersome procurement process, to say the least, that we 
+have, that scares companies away from being involved with the 
+Federal Government, to a slow and often late budget process 
+that we have here. There are enhanced security reviews. I mean, 
+there's a long list of challenges. That's what I'd like you to 
+elaborate on, as to, What challenges do you envision, as we try 
+to adapt some of these commercial applications into military 
+use? Then, General Shanahan, if you'd follow up on Mr. Brown's 
+comments. Dr. Highnam, too.
+    Mr. Brown. So, Senator Peters, you're exactly right. I am 
+benefiting from the wisdom of folks who came before me in 
+setting up the Defense Innovation Unit, because we largely 
+address, by how we were formed, some of those constraints that 
+you talked about.
+    First, procurement process. We have set up a special 
+solicitation process. It's open--anyone can respond--where we 
+do not start with a list of detailed requirements assuming we 
+know how industry should solve a problem we might have in DOD. 
+But, we start with something very simple--sentence or 
+paragraph, saying, ``This is the problem we're trying to solve. 
+What can you offer us that will help address that?'' That gets 
+us away from, again, very detailed requirements to seeing, What 
+does the commercial sector offer?
+    Then we try and move at commercial speed and commercial 
+terms, meaning we don't have onerous requirements for IP 
+[intellectual property], and we don't take companies through 
+something that is unfamiliar to them. We'd like them to view 
+DOD and government as just another vertical as they look at 
+other commercial segments they want to pursue. Again, 
+commercial terms and speed are important for us there. Because 
+our mission is, How do we expand the national security 
+innovation base? How do we get more vendors working with us?
+    Then, as it relates to the budget process, that's something 
+that we are looking at now. How do we ensure that there's a 
+transition if we successfully prototype a use case? How can we 
+move quickly to get that fielded? We have to use a variety of 
+techniques. Some of them you've helped establish, like the 
+Rapid Innovation Fund. Fortunately, in the AI sector, that's 
+made much more easy with the partnership with JAIC, because now 
+we've got infrastructure, folks who can help make this 
+available to the rest of the services. We've talked about the 
+contract that we're working right now, production contract 
+being one we'll be able to draw from.
+    As it relates to security, we try and move away from 
+classified use cases and translate those to a commercial 
+problem. We try and work almost exclusively in an unclassified 
+realm. We're conscious of those constraints, and we have ways 
+to make it easier for commercial vendors to work with us.
+    I think another benefit is being able to work and access 
+the talent, the ideas that come from the folks in the 
+commercial sector, because we may not be able to track all the 
+talent--it's likely we will not be able to--in the AI fields 
+within the Department of Defense.
+    Senator Peters. All right. Thank you.
+    General?
+    General Shanahan. Senator, the legislation is clear: 
+commerciality, first and foremost. For the 2 years that I 
+worked in Project Maven, we took that approach. Now, there are 
+always going to be some unique problem sets within the 
+Department that require some in-house developments and in-house 
+solutions, but we went with commerciality every time. I would 
+say I was fortunate, fortunate in the form of a Marine Corps 
+colonel who was an operator, an intelligence professional, but 
+also a level-3 certified acquisition pro, and he was able to 
+work within the confine of the DFAR [Defense Federal 
+Acquisition Regulations Supplement]. People are surprised that 
+we use the DFAR to that effect. There are additional 
+authorities we've been granted. I haven't had to use them yet 
+in the JAIC because we're so new in the standup of the process. 
+But, there are ways to work the system, thanks to--as Michael 
+Brown just said, the existing solutions are already out there 
+in commercial industry. As I get further into standing up the 
+JAIC, what I'm looking for, as many arrows as possible in the 
+quiver of acquisition and contracting, able to pull for a 
+different situation on any given day, whether it's an other 
+transaction authority, commercial service, or just using 
+straight-up DFAR. But, it's not easy to do it, but there are 
+ways to work within the system, and we do put commerciality at 
+the beginning of every project.
+    Senator Peters. You say that it's not easy, but there are 
+ways. You believe that you have the authorities that you need, 
+at least at this moment? Or is there more that this committee--
+--
+    General Shanahan. I do believe, at this moment, we have the 
+authorities we need.
+    Senator Peters. Okay.
+    General Shanahan. I reserve the right, 1 year into this, to 
+come back and make a different case.
+    [Laughter.]
+    Senator Peters. Yeah. Duly noted, General.
+    Dr. Highnam, did you have anything to add?
+    Dr. Highnam. Yes. From the research aspect, looking at our 
+investments in fiscal year 2018, about 50 percent of our AI 
+research investments were industry, about 14 percent were small 
+business. We have a very large coverage of picking up and 
+driving the development of the best ideas. About one-third went 
+to universities. Those are the sources.
+    For us, as we look ahead to technologies coming onboard, 
+maturing them, and, to the examples they gave earlier, reducing 
+the brittleness and just catering towards the engineering front 
+needed for large-scale military deployments, we're addressing 
+rigor, making sure they work, robustness. Second-wave 
+technology is applied aggressively to defense applications. 
+Then creating and proving out the third wave of technologies--
+of AI technologies--again, creating them not from whole cloth, 
+but from working with the companies and working with the 
+schools to do that.
+    Senator Peters. Great.
+    Thank you.
+    Senator Shaheen.
+    Senator Shaheen. Thank you all very much. I'm sorry I 
+missed your testimony earlier.
+    In 2017, China laid out plans to become the leader in AI by 
+2030. What's our strategy to make sure, (a) that doesn't 
+happen, and (b) that we are the leader, as opposed to China?
+    Mr. Brown. I'll take a crack at that. This is obviously 
+much broader than a Department of Defense strategy. I think we 
+know well how to win a tech race, because we did it quite 
+effectively the last time we were involved in one with the 
+Soviets in the Cold War and afterwards. It starts with, What 
+are doing to invest in ourselves? All the breakthroughs that 
+Silicon Valley is benefiting from, even today in our economy, 
+as we look at some of these software IPOs [initial public 
+offerings]--Uber, Lyft, AirBNB--have come from federally funded 
+research. I credit DARPA and the other parts of the Federal 
+Government that create those breakthroughs--Internet, GPS 
+[global positioning system], miniaturized electronics, et 
+cetera. I think it starts with what we do in federally funded 
+research, education. What we did to focus on engineering and 
+science after Sputnik, need to do that again. Then the national 
+purpose. What we have now with the executive order, how do we 
+build on that to create a common purpose about this being 
+important? My concern would be that--How many Americans know 
+about the national order on artificial intelligence, and how 
+many young people are we reaching to inspire that this needs to 
+be their mission? Because this technology race, especially on 
+AI, is going to be multigenerational. It's not going to be 
+lasting one administration, or two. We've got to get the 
+national purpose behind this to support, then, what we can do 
+to leverage that in the Defense Department.
+    Senator Shaheen. Well, that raises the next question, which 
+is, Are we doing that?
+    Mr. Brown. Well, I think you could always say we could be 
+doing more.
+    Senator Shaheen. Okay. What more should----
+    Mr. Brown. There's no----
+    Senator Shaheen.--we be doing?
+    Mr. Brown. There's no time to waste in this race with 
+China. They have----
+    Senator Shaheen. So, what----
+    Mr. Brown.--some advantages, in terms of, today, probably 
+more patents that they've--there's more startup activity, in 
+terms of dollars invested. But, the U.S. still has a lot of 
+critical advantages, in terms of our education system, what 
+we're doing to actually pioneer things, in terms of hardware 
+technology to advance AI, the tensor processing units, et 
+cetera, the activities like DARPA is working on, with very 
+long-term research in mind. I feel like the U.S. still has a 
+lead there. We've just got to take more advantage of that. What 
+makes us special in this race?
+    Senator Shaheen. How concerned are we that, not only is 
+China making this commitment, but that they're stealing our 
+intellectual property, which includes AI, and that we have not 
+figured out how to adequately respond to that, I would say? You 
+all may not agree with that, but that's certainly my view. I 
+don't know who would like to answer that? General Shanahan?
+    General Shanahan. Yes, Senator. To just carry on to what 
+Mr. Brown was talking about earlier, it--this is not just a DOD 
+question--whole of DOD--it's not just whole of government, it's 
+whole of society, it's multigeneration to be able to build. If 
+I look at bringing in talent--AI talent into the JAIC, I can 
+ask the services to, ``Give me your best AI talent.'' There's 
+just not enough to go around. It will take decades to build 
+this. This is, one, for the executive order on AI. It's a 
+start, but there has to be an implementation plan, which I know 
+is coming. But, also, the National Security Commission on AI 
+will lay out some of these very factors about, How do we do 
+this as a society, everything from grade-school education to 
+military courses bringing in concepts of coding all the way 
+from the very beginning?
+    Now, to your other point, Senator, about intellectual 
+property theft, every one of us has a concern about that. It's 
+been taken much more seriously in the past 2 years than I would 
+have said 5 years ago, beginning to understand the scope of the 
+problem. Just using Huawei as an example, having a whole-of-
+government approach to convince people not to use that 
+technology, because it has an entry point into places in China. 
+This is something we're working very hard at protecting our own 
+systems, protecting our data. Without getting into any details 
+in the project I worked on the Under Secretary of Defense for 
+Intelligence Project Maven, but also as we stand up the JAIC, 
+is protecting our data, doing everything we can to make sure 
+somebody doesn't understand what that data is, how we built our 
+algorithms. There is so much more than this. But, I believe the 
+sounding board of what China is doing, just within the past 2 
+years, is now making a difference. Much more to do, but we are 
+taking a different approach than we were in the past.
+    Senator Shaheen. Well, thank you. I appreciate that.
+    I would argue that, as we look at the education system, 
+that one of the things we should recognize is the importance of 
+immigration to that, and that, as we look back over the last 30 
+or 40 years, that one of the things that has been so important 
+to our system of higher education are those people from around 
+the world, the best and the brightest. When we have a system 
+that says, ``We don't want you to come here to college, and we 
+want you to go home as soon as you're done,'' that's not in our 
+interest. I would argue that that needs to be part of our 
+strategy, as well.
+    Thank you.
+    Senator Ernst [presiding]. Thank you, Senator Shaheen.
+    Senator Heinrich.
+    Senator Heinrich. I want to start by thanking our Chair and 
+Ranking Member for hosting this hearing. This is an incredibly 
+important topic, and one which we all need to be, educating our 
+peers about, because, as our guests today know, this is going 
+to be a bigger and bigger piece of what we focus on in the next 
+few years.
+    I'm really pleased to announce that this week we are 
+officially launching the Artificial Intelligence Caucus in the 
+U.S. Senate. Along with Senators Portman and Schatz, Gardner, 
+and our Chair and Ranking Member, we're looking forward to 
+trying to work together to strike that right balance in 
+developing the technology and the policy so that academia or 
+labs, private industry, and Federal entities like the ones we 
+have testifying here today, can harness this to the benefit of 
+the American people.
+    AI is, as you said, really going to impact every sector of 
+our economy, our society, not just the Department of Defense. I 
+want to start with Lieutenant General Shanahan and thank you 
+for your participation yesterday with the AI Commission. It's 
+my understanding that the services and other components in the 
+Pentagon right now have been directed to coordinate with the 
+JAIC, with the Joint Artificial Intelligence Center, regarding 
+any AI initiatives that cost more than 15 million annually. Is 
+that coordination happening?
+    General Shanahan. Senator, it's not fully in place yet. It 
+is----
+    Senator Heinrich. Okay.
+    General Shanahan.--my intent, through governance and 
+oversight within the JAIC, to put that structure in place, for 
+the very reason that you said. We have to know what they're 
+spending it on.
+    Senator Heinrich. It all starts with knowing what we're 
+doing----
+    General Shanahan. Yes.
+    Senator Heinrich.--and then building off of that. Do you 
+have the authorities that you need to be able to do this part 
+of your job effectively?
+    General Shanahan. I'd say section 238 will grant those 
+authorities. If I feel like we need any other authorities, 
+we'll go back through the Department. But, I believe I have 
+those authorities right now.
+    Senator Heinrich. As we look at this over the course of the 
+next couple budget years, what should we be measuring the JAIC 
+against, in terms of metrics, and by what timeline?
+    General Shanahan. When we talk about the JAIC, in 
+capability delivery, I'll divide it up into product delivery 
+and then the rest of the JAIC. Product delivery is, Are we 
+delivering on the national mission initiatives and component 
+mission initiatives? On the national mission initiatives, have 
+we put results in place that are making a difference, with a 
+return on investment? That won't be an instantaneous measure, 
+even with Project Maven, which has been going for almost 2 full 
+years right now. The return on investment takes a while to 
+measure in AI. As we talked about yesterday at the National 
+Security Commission, this is transformational. When you feel 
+the first sprint 1 algorithms, they are not game-changing, 
+they're designed for the operator to say, ``They're not good 
+enough. Here's what I need to do and get to sprint 2, and we'll 
+get to transformation.'' But, we need to show that we are 
+delivering capabilities.
+    For the component initiatives, I need to give an incentive 
+for the services and components to come to the JAIC. How do I 
+do that? One, funding. Two, joint common foundation, or a JAIC 
+common foundation. ``I have data for you to use. I have tools. 
+I have frameworks. I have some cloud and edge services. I have 
+a--I'm a place that--one-stop shopping,'' which is a term that 
+doesn't always work as well as it sounds on paper. But, I need 
+to give people an incentive to come in to the JAIC, to help 
+them accelerate their own AI initiatives.
+    Yes, sir.
+    Senator Heinrich. Yesterday at the AI Commission meeting, I 
+thought it was really helpful, what you said about the cultural 
+nature of this, and the multigenerational aspect of this. Talk 
+about how we manage that. Because the people who manage it, 
+yourself included, we're not going to have the same intuitive 
+access to this world that the people getting out of coding 
+schools right now have today. How, as the Pentagon, do you 
+manage this cultural transition within such a large 
+organization?
+    General Shanahan. Well, I would put culture and talent 
+management at the top two of my priorities in trying to change 
+the Department in bringing artificial intelligence into it. As 
+I said yesterday, there is a combination of top-down pressure 
+and bottom-up innovation. For the most part, I believe the 
+bottom-up innovation exists. We have to give it an outlet, a 
+vehicle to give people room to go out and try things new and 
+different, allow them to fail, and just show that they have a 
+different way of doing business, that we can listen to them. 
+There are now new programs in some of the departments, like 
+Kessel Run with the Air Force. There is more and more of a 
+culture change beginning to happen, but it's not part of the 
+institution yet. What we have to do is institutionalize it. We 
+have to give the top cover, in forms of resources, authorities, 
+and policies, as well as going out and giving capabilities to 
+people in the field.
+    One of the things I say is that, absent somebody getting to 
+play with AI, it's science fiction. They need----
+    Senator Heinrich. Right,
+    General Shanahan.--to see it, to smell it, to touch it and 
+really see what it can and cannot do. And part of that is 
+experimentation. It's almost like a war period between World 
+War I and World War II, where we can go out and actually 
+experiment with these capabilities. But, to do that, we have to 
+develop the capabilities. It's a little bit of a vicious cycle. 
+We have to get capabilities in the hand of operators and 
+analysts, try them out, wargame with them, try new operating 
+concepts, and then figuring out what works and doesn't work. 
+That cycle is a little slow in getting going right now. When 
+you ask about timeframe, I would say a year, in some respects, 
+in terms of delivering capabilities; 2 years to begin to say, 
+``Are we changing the Department?'' As you heard from Colonel 
+Cukor yesterday, we're 2 years into this, and I would say not 
+everybody accepts the change----
+    Senator Heinrich. Yeah.
+    General Shanahan.--that's coming.
+    Senator Heinrich. Great. Thank you, General. Appreciate it.
+    Senator Ernst. Thank you, Senator Heinrich.
+    I think we'll go ahead and do a second round of questions. 
+I will reserve my questions until the end so we can make sure 
+that the rest of our Senators have an opportunity.
+    Senator Peters, please go ahead.
+    Senator Peters. Thank you, Madam Chair.
+    General Shanahan, there is a concern out there by many 
+about the possibility that AI-enabled systems and autonomous 
+systems will cross some ethical lines, especially in 
+operational settings. I know that the DOD AI Strategy includes 
+efforts to think about AI ethics and safety issues are you're 
+developing the systems. As you just said, you've got to get 
+them out in the field, you've got to work them, but it probably 
+makes sense to be thinking about this on the front end, as 
+well, as we go forward.
+    For the panel, here, if you could highlight for us what 
+your biggest ethics-related concerns are for the possible use 
+of AI systems by the military, and how you're working to 
+address them.
+    General Shanahan. Yes, Senator. Every technology introduced 
+in the Department comes with a question of the lawful, safe, 
+and ethical use of that technology. AI is not different in that 
+respect. It has some differences, in terms of what you would 
+call ``explainable AI.'' Is an AI making decisions based on 
+data now instead of algorithms--rules-based algorithms that 
+have been programmed into it? We are thinking about this from 
+the very beginning.
+    Based on my work in Project Maven, I can tell you the 
+algorithms fielded are light years away from SKYNET and full 
+autonomous weapon systems. But, we know we have to start 
+thinking about the policy implications of that. If you were to 
+ask where the highest temperature is outside the Department, 
+it's on the question of lethal autonomous weapons. Autonomy in 
+weapon systems is governed by DOD policy today, and we are 
+partnered, and the JAIC is partnered, with the Defense 
+Innovation Board, who has a year-long project underway about AI 
+principles for defense, doing open hearings, being able to hear 
+from anybody that wants to come in and talk about their 
+concerns about the ethical, safe, and lawful use of artificial 
+intelligence in DOD. I will tell you, it's something we take 
+extremely seriously. We will go at this, as we have done with 
+other technologies, through a very rigorous and disciplined 
+test and evaluation, validation, and verification process. We 
+have not fielded an algorithm in Project Maven without having 
+gone through that rigorous and disciplined process. As early as 
+we are, and as brittle as those algorithms are, we put them 
+through that process. If we start talking about full autonomous 
+systems, that level of rigor and discipline will only continue 
+to increase.
+    But, in terms of what we are most concerned about is its 
+performance of algorithms. As Dr. Highnam said earlier, some of 
+the algorithms have failure modes that we have to take into 
+account. That DOD directive that I referred to, has several 
+sections on what we have to go through in the Department to be 
+ready to test and field technology that involves autonomy.
+    But, autonomous weapon systems with artificial and general 
+intelligence is what people seem to think is the worst case. I 
+think of artificial narrow intelligence. Anything we field will 
+be fielded in accordance with the Law of War, international 
+humanitarian law, rules of engagement, and commanders' 
+judgment. I mean, these are things that we take into account 
+for every technology, even more so because people don't know 
+all about the implications of artificial intelligence in a 
+weapon system.
+    Senator Peters. Yeah. As you go through that process, you 
+know, certainly, that's encouraging, that that thought process 
+is occurring within your organization, but I think we have to 
+also realize that some of our adversaries may not be 
+constrained by some of the same kinds of processes that we go 
+through, and could present unacceptable risk to us, from a 
+national security perspective, as well as the men and women who 
+go in harm's way facing autonomous systems that operate under a 
+completely--set of rules than what we would think is 
+appropriate here in the United States.
+    I think that leads to my last point, and that's thinking of 
+some of these higher-level concerns and policy concerns of what 
+we should be thinking about globally, in terms of these 
+technologies. I know, when we were talking about AI, we often 
+turn to technical experts and engineers. Often technical 
+experts and engineers make comments about ethics. But, I have 
+found that's a somewhat narrow approach, and we've made those 
+kinds of mistakes in the past. My sense is--are you and Dr. 
+Highnam--are you also working with philosophers and ethicists 
+and folks who think deeply about some of the moral questions 
+associated with these technologies? Or should we be doing more?
+    Dr. Highnam. One, there's always more to do. We had an AI 
+colloquium last week, a DARPA colloquium. About 700 people 
+there. One of the most interesting panels that we had was on 
+ethics, led by Richard Danzig, who used to be the Secretary of 
+the Navy. Fascinating discussion. It's very much a part of the 
+technical discussions that are going on. We are looking at 
+that.
+    Now, within--wearing a slightly more technical hat, there 
+are some issues, at the moment, that we are very concerned 
+about, with a technical solution. One is the implicit bias. The 
+field of data science and machine learning or machine training 
+have significant overlap. There's a tendency among people who 
+are human, as they build these systems, to pick datasets, to 
+cull datasets, to unintentionally put leads or, again, bias 
+into how they're doing things, which means a system could 
+preferentially recognize Joe or Jane, based on--just because of 
+the way it was trained. That's a piece of the puzzle. We have 
+research programs going directly against that. A large one 
+underway now is understanding group biases. But, again, this is 
+common to data science and machine training.
+    The second area is about the deployment of technology when 
+we don't fully understand its failure modes, back to the point 
+I made earlier. One of our programs, short autonomy, has a very 
+interesting premise, an important one. We have an autonomous 
+vehicle, a flight vehicle, a ground vehicle. You can make it a 
+lot more flexible in how it deals with unexpected conditions by 
+adding some second-wave AI technologies to the puzzle. A 
+condition shows up, it adapts and makes changes. But, it's--
+again, if you don't really understand the failure modes, if you 
+don't have that assurance and sense, almost, of a cyber 
+assurance that this is going to behave itself and operate 
+within safe limits, then you put something on the street or in 
+the air that's--you really have to take a little--you have to 
+think hard about before you do that. A lot of our research, 
+again, is going into making technologies robust in that sense, 
+as well. We have multiple programs--research programs 
+addressing different aspects of this problem. It's a very 
+important problem.
+    Senator Peters. Great. Thank you.
+    Senator Ernst. Senator Shaheen.
+    Senator Shaheen. Thank you.
+    Dr. Highnam, did I understand you correctly when you said: 
+As we look at where AI is currently being developed in this 
+country, about 50 percent of it is in large businesses; 14 
+percent, small businesses; and a third from universities? Was 
+that----
+    Dr. Highnam. It's 50 percent in business, of which 14--so, 
+14 percent, overall----
+    Senator Shaheen. Ah. Okay.
+    Dr. Highnam.--then 36 percent, larger businesses; 34 
+percent universities; and the rest in service labs, energy 
+labs, and so on.
+    Senator Shaheen. The rest is from the public sector----
+    Dr. Highnam. Yes.
+    Senator Shaheen.--then.
+    Dr. Highnam. Yeah.
+    Senator Shaheen. If you think about past circumstances in 
+our history, whether it was the Manhattan Project or putting a 
+man on the Moon, can we analyze the sectors that provided that 
+technological innovation, and figure out whether this is the 
+right breakdown, in terms of where AI is coming from?
+    Dr. Highnam. The answer is certainly yes. It's not 
+something I've done. But, to comment on that, if I may, the--
+this is the research phase. We're finding--these investments 
+are not on systems that are in any sense deployable.
+    Senator Shaheen. Sure.
+    Dr. Highnam. But, these are people--I'm finding them in 
+industry, with really good ideas, who propose to our research 
+programs. Then, as much of this technology evolves, they 
+publish some, they don't publish some, depending on----
+    Senator Shaheen. Right.
+    Dr. Highnam.--classification, and so on. But, a lot of the 
+time, we want industry to make these technologies, as they are 
+proven to work, to be commercial, to be incorporated into----
+    Senator Shaheen. Right.
+    Dr. Highnam.--other products that then the Department can 
+buy back. I think that the days are gone when we can think 
+about corralling hundreds of thousands or very large numbers of 
+experts in such a hot technology area. We--this is normal--
+DARPA's normal business mode, but I'm certainly going to take 
+your question back for a look.
+    Senator Shaheen. Well, I was just thinking about, How do we 
+encourage more experimentation, more research? Thinking about 
+small businesses. Small businesses create 16 times more patents 
+than large businesses.
+    Dr. Highnam. Yep.
+    Senator Shaheen. You know, two out of every three jobs are 
+created from small business. Are there ways we can incentivize 
+small business to do more of that research and innovation that 
+we're looking at to provide the AI that we need? I would argue 
+that one program that is there that helps do that is the SBIR 
+program----
+    Dr. Highnam. Yeah.
+    Senator Shaheen.--Small Business Innovation Research 
+program.
+    Dr. Highnam. Two answers. One--I'm sorry, it was part of my 
+preamble--one of the things we've done in our AI campaign is to 
+set up something called AI Exploration. In that, we post a 
+topic of interest. Anybody is given 30 days to respond. It's 
+typically schools and small businesses who do that. Then we 
+award within 60 days after that. Ninety days from posting to 
+award, up to a million dollars per award, up to about 18 months 
+in duration. We've invested about 45 million so far, since 
+September, in this activity. Because, you're right, this is a 
+lot of the innovation, and this is us exploring in a space and 
+giving them the grounds to do that. We've also recently 
+revamped our small business approach to align it directly with 
+our research programs. We're also encouraging moving directly 
+to phase two. We also have an innovation accelerator, as well, 
+to advise small businesses on how to take things commercial 
+after they discover it, not just in AI, but across the board.
+    Senator Shaheen. Are there other policy changes that we 
+should be thinking about to promote--should we be encouraging 
+more set-aside for SBIR programs? Are there other ways in which 
+we can promote AI that we're not currently doing?
+    For any of you?
+    Dr. Highnam. We're seeing an awful lot of smart small 
+businesses come forward, teaming with schools, teaming with big 
+companies sometimes. Certainly those in the larger DARPA 
+ecosystem understand how to work us.
+    Mr. Brown. I think this just emphasizes what you've heard 
+from all of us, the need to work with commercial innovators in 
+?
+    Senator Shaheen. Right.
+    Mr. Brown.--AI. I saw an interesting statistic that came 
+from Congressional Research Service recently, that, in the 
+1960s, a third of the global R&D was U.S. defense-related, and 
+now that number is 3.7 percent. It just speaks to the need to 
+look outside. I think what you've heard from all of us--DIU, 
+that's our mission, so of course you'd expect me to say that, 
+but we heard it from Dr. Highnam, General Shanahan, that we 
+want to work with these successful innovators outside, and 
+bring that technology in, because, unlike the Manhattan Project 
+working on one specific goal, AI is a horizontal technology 
+that is infused in everything, or will be. That really speaks 
+to the beauty of the U.S. capitalistic free-market system so 
+that we can benefit from all that innovation happening across. 
+I think our challenge is, Where do we pull that in, from a 
+talent perspective, technology perspective, and proven use 
+cases? How do those apply to the Defense Department?
+    General Shanahan. Senator, it's about messaging that--as 
+been said, AI, unlike any other technology in the past, is 
+been--the equation has been completely turned around as 
+commercial and not government. The message of--the United 
+States Government, not just the Department of Defense, has an 
+interest in promoting AI from the smallest company up to the 
+biggest company. With Project Maven, we had no favorites. 
+Everybody was a player, smallest startup all to the biggest 
+companies in the United States. But, getting the message that 
+we want the business, and if they have their intellectual 
+property to work with the government on, we want to take that.
+    What I don't want to see is some of the best companies in 
+the United States, some of the best intellectual talent we have 
+out there being funded with VC [venture capital] money from 
+places like China. But, if they have to go somewhere, and we're 
+not giving them an opportunity, that's what's going to happen.
+    We have a role, I think. It's a very serious role, is to 
+communicate that we're serious about artificial intelligence, 
+we need the capabilities you bring to the table, and the three 
+of us represented here from AI now to AI next, and Mr. Brown in 
+between, sort of going out and doing the pilots and finding the 
+right companies out there, that is a message we need to 
+communicate. I think part of that, through the executive order 
+on AI, but also the National Security Commission on AI that 
+will come out with, I expect, some very weighty recommendations 
+about a societal change in how we're looking at artificial 
+intelligence.
+    Senator Shaheen. Well, thank you. I appreciate all of those 
+responses.
+    If we're going to continue to be competitive in the rest of 
+the world, then this needs to be part of our strategy. If 
+you're correct, Mr. Brown, that in our system that unleashes 
+all of this innovation in the private sector, then we should be 
+able to win that competition. But, I think that there are 
+policies that we need to put in place to encourage that, and we 
+ought to think about which ones make sense to get where we want 
+to go.
+    Thank you all very much.
+    Thank you, Madam Chair.
+    Senator Ernst. Thank you. Absolutely.
+    I will wrap up with just a couple questions. I do want to 
+thank you for the discussion. We've covered a lot of territory, 
+a lot of very interesting territory. I appreciate the 
+discussion on ethics, as well, with lethal autonomous weapons. 
+I think that's something that we need to fully vet and explore 
+even more.
+    But, what I'd like to do is turn back to the more mundane, 
+everyday uses of AI, if we can. General Shanahan, you had--I 
+think, had mentioned some of those uses. Of course, we have 
+companies, like Amazon and UPS and Walmart, and they do use AI 
+for those back-office types of tasks that you had mentioned 
+earlier. Can you walk us through some of those tasks and where 
+we might be able to utilize AI? Not big, sexy topics, but 
+certainly if we can streamline the way we do business within 
+the DOD, I think this would be helpful.
+    General Shanahan. Yes, Senator. When you talk about smart 
+automation, or, in the vernacular of the industry, ``robotic 
+process automation,'' it's not headline-grabbing, in terms of 
+big AI projects, but it may be where some of the most 
+efficiencies can be found. That's the case if you read the 
+dailies in industry, whether it's in medicine or in finance. 
+This is where early gains are being realized in AI. Some of the 
+other projects we take on in the Department are probably years 
+in the making of return on investment. These other areas, I 
+think, will be much shorter-term return on investment.
+    What we're trying to do in the JAIC--when I looked at this 
+just a couple of months ago, we weren't even concentrating on 
+this smart automation. I'm now trying to figure out how I stand 
+up a small office just focused on that. I don't see us leading 
+that, but it's leading others to find out how to incorporate 
+these technologies into their back-office functions.
+    I've already met with the Chief Management Officer of the 
+Department, as well as the Chief Data Officer of the 
+Department, to have these early discussions. I'm convinced 
+there will be lots of opportunities in back-office functions, 
+finance being, I'd say, the first one to take on, to help 
+augment people. I think people get very concerned, right off 
+the bat, about being replaced. There's not enough people to go 
+around, for the most part, so this is about augmenting people 
+and being able to do much more work than they were able to do 
+with the tools, which, in some cases, are far too old, manual, 
+laborious. These are about how to--if you see the 
+demonstrations of a bot versus a human doing the same sort of 
+manual task, there's no question who gets to the finish line 
+first.
+    Senator Ernst. Absolutely.
+    General Shanahan. We're early in this process right now. 
+But, that's one I'm very interested in taking.
+    Senator Ernst. No, I think that's really important. One of 
+the big discussions that we've had, just in the last year, was 
+the DOD audit, and how do we arrive at a clean audit through 
+such a large--what I describe as a large, you know, animal. Is 
+it practical to look at an application like that? Would it be 
+helpful to guide us towards a clean audit?
+    General Shanahan. I'd say the answer to that is yes. 
+Scoping it will be the challenge, is finding out how big this 
+is to go after the audit. But, I know the Chief Data Officer, 
+Michael Conlin, is looking at applications like this. There are 
+big decisions made in the Department with data done in a very 
+manually intensive way. If those decisions can be made faster 
+and better, that, of course, is something that the leadership 
+of the Department is interested in.
+    The answer to your question is yes. It's a question of 
+understanding the scope and the scale of doing it.
+    Senator Ernst. Very good.
+    Of course, the inventory purposes, acquisition, program 
+spending, you name it, I think that AI can help in those areas. 
+It has been mentioned, maintenance, as well--predictive 
+maintenance on equipment and aircraft, so forth, would be very 
+helpful, as well.
+    General Shanahan. Senator, if I may just add on to the 
+point. Whether it's smart automation or predictive 
+maintenance--as we're finding very early, the problems 
+themselves are not massive, but the lessons learned are what 
+we're really catching on to.
+    Just one use case of a helicopter, seemingly simple. But, 
+everything we're learning about data management, which would be 
+no surprise to anybody in industry who's dealing with 
+artificial intelligence and machine learning. But, those are 
+what we're trying to collate and bring up to a higher level for 
+the Department about understanding what different standards, 
+policies, authorities need to be in place to make this happen 
+against all the different aircraft in the Department of 
+Defense.
+    To your other point about--I call it a flywheel effect. 
+Once a few people begin to understand what smart automation 
+does, it will catch on. But, nobody believes it yet, because 
+they haven't the benefit of actually seeing it work.
+    Senator Ernst. Absolutely.
+    General Shanahan. But, that's what we have to do, is--we 
+have to show--it's the show-me piece. We have to have people 
+believe it's real, and not just science fiction.
+    Senator Ernst. Absolutely.
+    With that, I will go ahead and wrap up this hearing today. 
+I do want to thank the members of our panel for being here. The 
+flywheel effect, it starts here, as well, in Congress, and 
+making sure that we are educating others on artificial 
+intelligence and the applications for our DOD.
+    Thank you, again, to the witnesses for being here and for 
+educating us on what your jobs entail and how we can better use 
+artificial intelligence. Thank you, gentlemen, very much.
+    This concludes the hearing of Emerging Threats and 
+Capabilities.
+    [Whereupon, at 3:53 p.m., the Subcommittee adjourned.]
+
+    [Questions for the record with answers supplied follow:]
+              Questions Submitted by Senator Joni K. Ernst
+                        ai to improve processes
+    1. Senator Ernst. Dr. Highnam and Mr. Brown, how can DOD 
+[Department of Defense] use AI to improve its business and back office 
+processes to save money for readiness missions?
+    Dr. Highnam. There are many commercial companies offering AI-based 
+solutions for business and back office processes. However, the 
+implementation, customization and deployment effort for such a project 
+is complex and subject to schedule and performance risks. Back-office 
+operations have been studied in-depth for decades, and many 
+sophisticated computer algorithms are routinely used in currently 
+deployed enterprise solutions. Nonetheless, an AI technology system 
+requires a software layer that captures user actions and business 
+processes in a computer-readable form. To be successful, AI methods 
+must access disjoint databases and combine financial reports with 
+computer-interpretable information about human decision processes. A 
+graduated approach to adopting AI techniques would first automate 
+repeatable processes while also capturing human responses to 
+nonstandard situations. Computer-readable information about human 
+responses would then provide the data required to test if and when AI 
+methods might further improve business processes. Offerings claiming to 
+provide value through the application of AI technologies should be 
+vetted thoroughly and their life-cycle-costs analyzed and compared to 
+best practice in the commercial world and to current solutions. 
+Superior solutions would both enable end users to automate repeatable 
+processes and learn from user behavior to recommend courses of action 
+for non-standard situations.
+    Mr. Brown. Based on routinely collected data, artificial 
+intelligence (AI), data analytics and machine learning technologies are 
+well-suited to make predictions to improve back office processes. For 
+example, commercially available software for robotic process automation 
+is the use of software with AI and machine learning capabilities to 
+handle high-volume, repeatable tasks that previously required humans to 
+perform. These tasks can include queries, calculations, and maintenance 
+of records and transactions.
+
+    2. Senator Ernst. Dr. Highnam and Mr. Brown, for example, can AI-
+enabled systems help DOD achieve a clean audit, better track inventory 
+and acquisition program spending, or assist in the personnel assignment 
+process?
+    Dr. Highnam. The goal of an audit is to ensure compliance with a 
+complex set of regulations. To achieve this goal requires extensive 
+common-sense and organization-specific knowledge. For example, a 
+financial auditor must be deeply familiar with the Generally Accepted 
+Accounting Principles (GAAP) and understand they should be applied to 
+the organization in question. For the DOD, a thorough knowledge of the 
+Defense Federal Acquisition Regulation Supplement (DFARs) would also be 
+essential. The application of such knowledge is well beyond current AI 
+capabilities. AI tools can assist auditors by enabling more rapid 
+analysis of data relevant to the audit. For example, machine-learning 
+systems can be trained to detect fraudulent transactions. However, the 
+use of such tools requires years of training and experience. The DOD 
+may be able to achieve cost savings in audits through judicious 
+incorporation of automated processes and AI technologies. Nonetheless, 
+the DOD faces unique challenges related to scale, expiration of funds, 
+and operational diversity. It is unlikely that common commercial 
+products will fully address DOD use cases without extensions or 
+modifications. Graduated solutions should first advance the level of 
+automation while providing a software foundation for future AI 
+deployments. Finally, decades of research have produced well-
+established procedures and mathematical concepts for managing 
+inventory, such as logistic regression for demand forecasting and 
+Economic Order Quantity estimation. Machine learning techniques may 
+potentially improve demand forecasts, but DOD should undertake a 
+careful analysis of any AI-based solution to ensure that its lifecycle 
+costs and complexity do not exceed current solutions, without 
+substantial increase in accuracy and timeliness. Similar caveats apply 
+to other areas of business process automation, such as personnel 
+assignment.
+    Mr. Brown. Although not a focus area of DIU at the moment, there 
+are a number of commercially available data analytics platforms that 
+make this information more visible.
+
+    3. Senator Ernst. Dr. Highnam and Mr. Brown, what specifically have 
+your organizations done to support AI for back-office functions at DOD?
+    Dr. Highnam. DARPA creates foundational AI components that 
+generalize to a variety of application areas. DARPA recently engaged in 
+a knowledge exchange with DFAS and DISA to explore whether DARPA AI 
+components might support back-office functions within the DOD. Several 
+near term investments would need to be made to lay the foundation for 
+future pilot testing and deployment of AI technologies from DARPA and 
+other organizations. Specifically, the DOD would need to invest in a 
+software layer that enables users to automate routine business 
+processes and stores the actions taken by humans to address non-
+standard situations. Ideally, the software layer would connect disjoint 
+databases and software tools in a manner that builds on users' current 
+workflows, captures an ontology of user actions, and stores relevant 
+data in a computer-readable form. The software layer would provide a 
+foundation for pilot tests, extensions, and rapid deployment of AI 
+components from DARPA and other organizations. There will be a follow-
+up meeting between DARPA, DFAS, and DISA.
+    Mr. Brown. DIU has been working with a commercial solution on AF 
+strategic planning choices to predict necessary POM inputs for given 
+decisions. The use cases center around using integrated data (current 
+and historical: budget; financial execution; manpower; personnel; and 
+logistics/equipment) to identify 3rd, 4th and 5th order effects of a 
+given planning choice. The intent is to improve fidelity in the 
+strategic planning process, and understand quantitatively the likely 
+outcomes on readiness, manning, equipment needs, training impacts, and 
+other weapon systems. There is both a quality and speed component to 
+decision making. Using a tool increases the throughput of decisions 
+through the budgeting process, and provides more fidelity so senior 
+leaders and analysts can ask the questions that will help them improve 
+decisions.
+                       dod technology acquisition
+    4. Senator Ernst. Dr. Highnam, Mr. Brown, and Lt. General Shanahan, 
+how does the DOD acquisition process delay the development and 
+implementation of AI and other emerging technologies and what efforts 
+have you taken to address this problem?
+    Dr. Highnam. DOD acquisition is often process driven, rather than 
+mission driven like DARPA. The state of the art of emerging technology 
+like AI evolves much faster than DOD acquisition timelines. For this 
+reason, DARPA uses streamlined or rapid acquisition authorities to 
+connect with the best people and technology at the speed of innovation. 
+For example, DARPA has used ``Other Transaction'' authorities for 
+decades because they allow flexibility and often faster results than 
+traditional government contracting. Recently, DARPA launched the 
+Artificial Intelligence Exploration (AIE) program to execute forty-
+eight (48) separate Other Transaction awards totaling $45 million, for 
+rapid feasibility studies of AI concepts lasting eighteen (18) months. 
+To keep pace with industry changes, DARPA's AIE awards had an average 
+timeline of less than ninety (90) days from announcement to award.
+    Mr. Brown. DIU's mission is to look beyond traditional DOD vendors 
+and focus on the commercial technology community. To attract these 
+commercial solutions, DIU developed the Commercial Solutions Opening 
+(CSO) process in 2016, a three-phase, competitive merit-based business 
+model leveraging prototype Other Transaction authority. This process 
+has enabled DIU to focus on balancing speed, flexibility, and 
+collaboration to award prototype projects to leading-edge, dual-use 
+technology companies that might otherwise not do business with DOD. A 
+potential future problem would be the length of time to get new vendors 
+cleared to solve some of our problems.
+    Lt. Gen. Shanahan. The Department of Defense's acquisition process 
+is still oriented primarily towards materiel weapon systems rather than 
+software development. Modern software development requires a different 
+process, with end-users providing feedback at every stage and 
+developers continually refining the model after deployment. In pursuit 
+of our mission needs, the JAIC is taking advantage of current 
+regulations and policies wherever possible to implement proven 
+iterative development strategies for software and emerging technologies 
+such as AI. Based on my previous experience with Project Maven, there 
+is often sufficient flexibility within the Defense Federal Acquisition 
+Regulation Supplement (DFARS), but to navigate the DFARS successfully 
+requires government personnel with a commensurate level of experience 
+and deep understanding of DOD acquisition and contracting regulations. 
+Further simplification of existing regulations will be helpful. The 
+JAIC is seeking to hire people with the requisite agile acquisition 
+expertise while also reviewing a wide range of acquisition and 
+contracting options designed to allow maximum flexibility and agility 
+when pursuing commercial AI solutions. The JAIC will work closely with 
+USD (Research and Engineering) and USD (Acquisition and Sustainment) on 
+improving AI-related acquisition and contracting policies and 
+authorities. Congress has been especially helpful in crafting 
+legislation designed to expedite fielding commercial AI technologies.
+
+    5. Senator Ernst. Dr. Highnam, Mr. Brown, and Lt. General Shanahan, 
+have you faced any roadblocks in the Department to speeding up 
+acquisition of these technologies?
+    Dr. Highnam. DARPA has not faced any roadblocks. DARPA consistently 
+uses a wide variety of existing acquisition flexibilities granted by 
+Congress, such as the ``Other Transaction authority'', which we have 
+used for decades. The Artificial Intelligence Exploration (AIE) program 
+was an example of DARPA using ``Other Transaction authorities'' to make 
+forty-eight (48) awards with an average timeline of less than ninety 
+(90) days from announcement to award. DARPA greatly appreciates the 
+acquisition autonomy and flexibility that Congress and the Department 
+grants us due to our unique R&D mission of pursuing breakthrough 
+technology and avoiding strategic surprise. DARPA's success so far has 
+resulted from this autonomy and flexibility, and our future success 
+depends on our ability to use a variety of special acquisition 
+authorities to pursue innovative R&D.
+    Mr. Brown. DIU has had a beneficial partnership with Army 
+Contracting Command--New Jersey (ACC-NJ) for contract execution, but 
+reliance on contracting organizations with other primary missions has 
+been unable to meet DIU's capacity needs and higher DOD demand. In 
+November 2018, the Office of the Under Secretary of Defense for 
+Acquisition and Sustainment (OUSD (A&S)) granted DIU authority to 
+execute ``Other Transaction agreements.'' In April 2019, DIU utilized 
+this new authority to release its first solicitation, the initial step 
+in awarding a prototype contract.
+    Lt. Gen. Shanahan. Not at this point, although we acknowledge the 
+risks inherent in not taking full advantage of a wide range of 
+acquisition and contracting practices that support agile development, 
+fielding, and sustainment. During the JAIC's initial standup in fiscal 
+year 2019, to avoid incurring delays in each of our three primary 
+projects, the JAIC has primarily taken advantage of existing contract 
+vehicles. As we prepare to scale operations in fiscal year 2020, we are 
+using lessons learned from other DOD-wide AI projects such as Maven to 
+create and combine a wide variety of new and existing contract 
+vehicles, respectively, that will provide the JAIC and others in DOD 
+with access to state-of-the-art AI technology and services, at the 
+necessary speed and with the required agility. We will be prepared to 
+request new or modified policies, authorities, and legislation as 
+necessary.
+                               __________
+             Questions Submitted by Senator Mazie K. Hirono
+                           ethical challenges
+    6. Senator Hirono. General Shanahan, the ethical use of AI is an 
+issue that must be adequately addressed before AI can be deployed in a 
+widespread and meaningful way. Who within DOD is responsible for issues 
+regarding the ethical use of AI within DOD?
+    Lt. Gen. Shanahan. Leadership in values and ethics is at the core 
+of everything we do in the JAIC. The responsibility for the ethical use 
+of AI will be widely shared across the Department, spanning system 
+developers, trainers, leaders, end users, and more. The breadth of this 
+shared responsibility is a recognition that many different communities 
+within DOD have a critical role to play in getting this right. The JAIC 
+will play a central role in helping craft policies, guidelines, and 
+authorities related to the ethical, safe, and lawful use of AI 
+technologies. This includes working with allies, partners, and 
+international organizations on questions of international norms for AI, 
+while precluding unnecessary restrictions on our development and 
+fielding of AI capabilities. The Department is fully committed to the 
+ethical use of AI from concept through deployment and sustainment. This 
+includes ensuring sufficient rigor and discipline throughout test and 
+evaluation as well as validation and verification processes and 
+procedures.
+
+    7. Senator Hirono. General Shanahan, are there separate efforts to 
+address ethical issues related to the uses of AI and the issues related 
+to AI systems potentially generating errors or unwanted outcomes?
+    Lt. Gen. Shanahan. The Defense Innovation Board (DIB) is developing 
+principles to guide current and future AI research, applications, and 
+activities as part of the AI Principles for Defense project. Upon 
+completion of the project, the DIB will make a recommendation to the 
+Secretary of Defense on proposed AI principles for defense, at which 
+point the Department will conduct an internal review process on 
+adopting such principles. Additionally, a major component of DARPA's 
+`AI Next' campaign, titled Explainable AI, focuses on enabling AI 
+systems to explain their actions. Progress in ``explainable AI'' will 
+help users understand, appropriately trust, and use AI systems in an 
+ethical and safe manner. Prior to fielding any AI capabilities, the 
+Department will ensure sufficient rigor and discipline in test and 
+evaluation processes and procedures with particular attention to 
+independent evaluations and assessments, errors, biases, and unwanted 
+outcomes. This will include establishing dynamic feedback loops that 
+take into account feedback from operational users on algorithm or model 
+performance on deployed systems.
+                         predictive maintenance
+    8. Senator Hirono. General Shanahan, one of the areas of focus for 
+JAIC [Joint Artificial Intelligence Center] that seems particularly 
+promising is predictive maintenance. The ability to improve readiness 
+by limiting downtime with predictive maintenance could have a 
+tremendous positive effect on maintenance efforts across DOD. What are 
+the major hurdles to widespread deployment of predictive maintenance AI 
+within DOD?
+    Lt. Gen. Shanahan. I agree that machine learning (ML) looks 
+particularly promising in terms of augmenting, accelerating, and 
+automating current maintenance practices. The JAIC funded predictive 
+maintenance as one of its initial National Mission Initiatives because 
+of the near-term opportunity to increase aircraft readiness, aligning 
+with the Secretary of Defense's direction to improve aircraft readiness 
+across the Department. However, one of the earliest identified 
+challenges, which matches lessons learned from Project Maven and other 
+previous DOD AI/ML projects, centers on data: its quality, 
+accessibility, and relationship to ground truth. Existing maintenance 
+data is often not at the level necessary for AI systems development. 
+Critical data elements are often missing, incorrect, or at too low 
+resolution. Additionally, data inconsistencies exist across the 
+Services for related systems. One of the JAIC's roles will be to help 
+develop and implement DOD-wide policies, authorities, and governance 
+designed to improve data readiness across the entire Department. This 
+will include supporting efforts to digitize end-to-end processes, from 
+the back office to the tactical edge.
+
+    9. Senator Hirono. General Shanahan, where does DOD need to invest 
+to widely deploy predictive maintenance?
+    Lt. Gen. Shanahan. Predictive maintenance should be employed widely 
+across the Department. AI-enabling investments in data generation, 
+curation, data access, and maintenance are necessary precursors to 
+enable predictive maintenance AI to be successful at scale. Data 
+curation is one of the most important investments, along with needed 
+requirements to improve data quality at the point of use. In the 
+interim, the JAIC is relying on AI and domain experts to conduct 
+standardized post-processing of inaccurate and missing data. While our 
+initial H-60 helicopter use case is relatively small, the lessons we 
+are identifying in this project--particularly as they relate to data 
+management--will be applicable to every future project in DOD. 
+Investments in ontology, component standards, and use of a common 
+infrastructure are addressing challenges with data access. Shared 
+ontology ensures a common data lexicon across the Joint Force--an 
+important step toward scaling new AI-capabilities. The JAIC is 
+supporting a number of ongoing standards-related efforts including 
+those led by the National Institute for Standards and Technology. If 
+such data standards are established and uniformly adopted, then it will 
+help DOD ensure future equipment procurements include government 
+ownership of data needed to efficiently apply AI analysis.
+
+    10. Senator Hirono. General Shanahan, will predictive maintenance 
+AI be deployable at sea, where ships have traditionally been limited in 
+computing power and communications bandwidth?
+    Lt. Gen. Shanahan. The JAIC's Predictive Maintenance National 
+Mission Initiative uses historical H-60 helicopter data. However, the 
+Navy maintenance community has already raised the challenge of limited 
+communication bandwidth as partially explaining missing data that is 
+necessary for AI analysis. The Navy is working through the connectivity 
+requirement between the Integrated Mechanical Diagnostics System (IMDS) 
+and TRIAD shipboard servers to ensure maximum use of AI technology at 
+the point of use. This is an area where the JAIC will work closely with 
+the Navy and Marine Corps to identify and address specific challenges 
+related to deploying AI-enabled predictive maintenance solutions at sea 
+or in any degraded, disconnected, intermittent, or bandwidth-limited 
+environment.
+                               __________
+             Questions Submitted by Senator Martin Heinrich
+                     commercial industry engagement
+    11. Senator Heinrich. Mr. Brown, I am aware that you have DIU 
+[Defense Innovation Unit] offices set up in Silicon Valley, Boston, and 
+Austin. I'd like to make sure that AI startup companies, say in 
+Albuquerque, Santa Fe, Des Moines, or Detroit have the same 
+opportunities to present their AI solutions for your problem sets. How 
+should they go about doing so?
+    Mr. Brown. DIU is interested in getting the best commercial 
+solutions from around the country and growing the national security 
+innovation base. To date, we have received submissions from over 800 
+companies in 42 states and the District of Columbia. We post an Area of 
+Interest (AOI) solicitation on our website, www.diu.mil, to which 
+companies across the country can submit proposals.
+
+    12. Senator Heinrich. Mr. Brown, is New Mexico within your upcoming 
+outreach efforts? If not, I would like to extend a personal invitation 
+to visit New Mexico and meet with several cutting-edge AI companies.
+    Mr. Brown. Thank you for the invitation. We have recently met with 
+your congressional lead about our processes and opportunities to work 
+with DIU. We have a number of companies that have responded to our 
+AOIs. We will definitely look to visit New Mexico in upcoming travels 
+nearby.
+                            the cloud and ai
+    13. Senator Heinrich. Mr. Brown and Lt. Gen. Shanahan, as you know, 
+the cloud contract and process itself, JEDI, has received significant 
+attention. In general, how important is the establishment of a cloud to 
+supporting the deployment of future AI capabilities?
+    Mr. Brown. The establishment of a cloud solution to support the 
+deployment of future AI capabilities is very important. Most vendors in 
+the AI/ML space are moving toward cloud services to provide their most 
+advanced capabilities, so it is a high priority to establish and 
+migrate to cloud infrastructure to stay current with the vendor base. 
+Large training data sets and substantial/scalable computational 
+resources are two core capabilities that enable effective artificial 
+intelligence applications. Cloud solutions enable those datasets to be 
+shared across geographically separated commands, pooling together 
+larger datasets. Cloud computing allows a far more efficient allocation 
+of DOD capital, as the precise amount of computational resources are 
+spun up to solve the specific problem and no idle capacity is being 
+paid for.
+    Lt. Gen. Shanahan. Achieving the most effective results possible 
+from AI-enabled technologies will depend on a future of enterprise 
+cloud. The cloud provides massive and elastic compute power, lower 
+latency, unlimited storage, and scalability. It will also enable local 
+and global dynamic algorithm and model updates at the required speeds 
+that will be essential to future multi-domain operations. The JAIC's 
+objective is to use AI to solve large and complex problems to ensure 
+that the Services and Components have real-time access to ever-
+improving libraries of data sets, reusable tools, frameworks, and 
+standards. This cannot be achieved without the foundational framework 
+established by a hybrid solution of general purpose and fit-for-purpose 
+enterprise clouds, in accordance with DOD's enterprise cloud strategy
+
+    14. Senator Heinrich. Mr. Brown and Lt. Gen. Shanahan, is it 
+possible to deploy AI capabilities without cloud or clouds in place?
+    Mr. Brown. Yes. Many of our prototypes are either ``on premises'' 
+(non-cloud) deployments, or hybrids that have both on premise and cloud 
+elements. It is possible to deploy trained algorithms at the edge with 
+a ``train in cloud, deploy at edge'' concept of operations. 
+Furthermore, it is also possible to deploy additional processing power 
+at the edge with some of the more advanced hardware available from 
+vendors. However, the core benefits of AI/ML solutions come into play 
+when we pool together many data sources in a common operating 
+environment.
+    Lt. Gen. Shanahan. It is possible to develop and field AI-enabled 
+capabilities without a cloud. However, such `one-off' solutions will 
+limit the overall effectiveness of deployed capabilities--everything 
+from training through inference at the tactical edge and dynamic 
+updates to deployed algorithms/models. It is possible to deploy limited 
+AI capabilities in traditional data centers and on-premise 
+infrastructures; data centers are generally cost prohibitive and suffer 
+from a number of other limitations lowering the ability to achieve 
+maximum effectiveness from AI technologies. AI deployment at scale 
+requires the elasticity of compute and storage that is afforded by 
+cloud computing, while also accounting for compute hosted on platforms 
+and sensors at the tactical edge. The full potential of an AI-enabled 
+future depends on enterprise cloud that is optimized for AI, with 
+sufficient backup measures in place to account for operations in 
+degraded, disconnected, intermittent, or bandwidth-limited 
+environments.
+                           ethics and safety
+    15. Senator Heinrich. Dr. Highnam and Lt Gen Shanahan, how is the 
+Department of Defense addressing ethics and safety concerns surrounding 
+military applications of AI?
+    Dr. Highnam. The safe use of AI technologies by the military and 
+others is an important concern of AI researchers and practitioners. 
+DARPA is addressing this concern in multiple research programs, 
+including its Assured Autonomy program. The Assured Autonomy program is 
+developing rigorous design and analysis technologies for continual 
+assurance of learning-enabled autonomous systems to guarantee safety 
+properties in uncertain environments. These include new techniques for 
+modeling and system design, formal verification, simulation-based 
+testing, machine learning, and safety-assured learning. The 
+technologies being developed in the Assured Autonomy program will 
+enable the DOD to more rapidly and efficiently deploy learning-enabled 
+autonomous systems that can be trusted to operate safely in uncertain 
+environments. DARPA's recent AI Colloquium featured an ethics panel 
+with in-depth discussion of ethical issues relevant to AI in military 
+contexts: https://youtu.be/jSxCWLJt0wY.
+    Lt. Gen. Shanahan. The Department continues it full commitment to 
+the ethical, safe, and lawful use of AI. Leadership in values and 
+ethics is at the core of everything we do in the JAIC. One of the key 
+pillars of DOD's AI Strategy is leading in military ethics and AI 
+safety. JAIC will support ethical implementation of AI by consulting 
+with leaders across academia, industry, and the international 
+community; investing in resilient, robust, reliable, secure, and 
+explainable AI systems; developing and improving policies that that 
+consider technical strengths and limitations of AI; and pioneering 
+approaches for AI test, evaluation, verification, and validation. 
+Concurrently, the JAIC will implement AI as required to maintain 
+battlefield overmatch in alignment with the national defense strategy. 
+There is no inherent contradiction between the ethical and safe 
+integration of artificial intelligence across the range of military 
+operations, and meeting the Department's enduring mission to deter war 
+and protect the security of our nation. Artificial intelligence is a 
+critical capability to ensure we field a lethal, resilient, and rapidly 
+adapting Joint Force. The responsibility for the ethical use of AI will 
+be widely shared across the Department, spanning system developers, 
+trainers, leaders, end users, and more. The breadth of this shared 
+responsibility is a recognition that many different communities within 
+DOD have a critical role to play in getting this right, although the 
+JAIC will play a central role in helping craft policies, guidelines, 
+and authorities related to the ethical, safe, and lawful use of AI 
+technologies. The Department is fully committed to the ethical use of 
+AI from concept through deployment and sustainment. This includes 
+ensuring sufficient rigor and discipline in test and evaluation as well 
+as validation and verification. Prior to fielding any AI capabilities, 
+the Department will ensure sufficient rigor and discipline in test and 
+evaluation processes and procedures. This will include dynamic feedback 
+loops that take into account feedback from operational users on 
+deployed algorithms or models.
+                     component mission initiatives
+    16. Senator Heinrich. Lt Gen Shanahan, you stated that you expect 
+to see a rapid growth of Component Mission Initiatives, or CMI's in 
+fiscal year 2020. Can you talk more about why and what those new CMI's 
+will look like?
+    Lt. Gen. Shanahan. Since the establishment of the JAIC, we have 
+been interacting closely with the military Services and other DOD 
+Components to explore how the JAIC can support their requests for AI-
+enabled solutions to a wide variety of potential challenges. This 
+includes working with them on potential future CMIs. At present, these 
+range from operational planning through predictive medicine, 
+identifying individuals at risk of harming themselves, force 
+protection, and information operations. We are further developing our 
+internal JAIC governance framework to shape, prioritize, and recommend 
+CMIs to ensure there are no duplicative efforts and to ascertain proper 
+levels of support, from personnel resourcing to funding. Additionally, 
+the establishment of the JAIC Common Foundation (JCF) will enable us to 
+better support CMIs in the coming fiscal year.
+
+    17. Senator Heinrich. Lt Gen Shanahan, does the budget request 
+reflect the rapid growth of CMI's you anticipate?
+    Lt. Gen. Shanahan. Yes. We anticipate allocating about $30 million 
+to support six to ten CMIs in fiscal year 2020. Dedicated funding for 
+CMIs will incentivize the services and components to rely on the JAIC 
+while supporting the maturity of the JAIC Common Foundation (JCF), a 
+crucial enabling capability for CMIs and National Mission Initiatives 
+(NMI). As the JCF matures it will become a repository of tools, 
+frameworks, processes, and data to accelerate new CMIs throughout the 
+DOD. We expect a growing demand for CMI support through fiscal year 
+2020 and beyond; the current fiscal year 2020 budget request is 
+currently projected to accommodate all expected CMI support through the 
+end of fiscal year 2020.
+                    computer science and recruitment
+    18. Senator Heinrich. Lt Gen Shanahan, you stated that in terms of 
+AI, adding funding and people will not by themselves spark the 
+necessary level of institutional change we need, and that we need a 
+deeper foundation of people who understand the technology and computer 
+sciences. Do you believe the Department currently prioritizes 
+recruitment for computer sciences?
+    Lt. Gen. Shanahan. There is more work to do in this area. Similar 
+to the lessons learned across DOD over the past decade with the rapid 
+growth of cyberspace, there is awareness the Department needs to 
+accelerate efforts to grow, recruit, retain, and promote people with 
+the kinds of skills necessary to thrive in an AI-enabled future. This 
+is a multi-generational challenge, though there are a number of 
+different near- and medium-term efforts that can begin to improve 
+current shortfalls. These include targeted recruiting; recruiting 
+incentives; introducing AI and coding principles in grade schools, high 
+schools, and military entry-level education and training programs; 
+retention bonuses; intermediate and advanced training throughout a 
+career; exchanges with industry; and relying on commercial companies to 
+accelerate the breadth and depth of AI experience across the DOD. The 
+Services' Reserve Officer Training Corps and Service Academies remain 
+committed to producing future officers with strong academic foundations 
+in computer science. Moreover, the Services collaborate with industry 
+leaders to advance the essential skills needed by these officers in 
+many technical fields. For the enlisted force, the Services primarily 
+select individuals with related qualifications and train them 
+internally for AI-oriented positions. Specialized tests are 
+administered by the Services to identify individuals with an aptitude 
+for assignment into computer career fields. Our civilian workforce also 
+helps to meet the needs of the Department not fulfilled by military 
+personnel. Concomitant with efforts across DOD to close significant 
+gaps in AI knowledge and expertise, we need a whole-of-society approach 
+to further develop a cadre of people with the requisite skills in AI 
+and AI-associated fields. Absent such an approach, the DOD will 
+continue to compete with industry, academia, and other government 
+agencies for an extremely limited pool of AI expertise. It is vital to 
+grow the entire base of expertise across society, rather than focus 
+only on the very small pool of AI talent that already exists within 
+DOD.
+
+    19. Senator Heinrich. Lt Gen Shanahan, what are your thoughts on 
+establishing ``computer sciences'' as a core competency within the 
+military? (i.e., career tracks, mission specialties)
+    Lt. Gen. Shanahan. Under Title 10 of the United States Codes the 
+responsibility for training falls within the Services. Each Service 
+reviews and updates their core competencies to best reflect the 
+national defense strategy, changes in the operational environment, and 
+available technology. Given the immediate need for substantially more 
+expertise in AI and AI-related skills--from computer scientists to data 
+architects, data engineers, system engineers and more--I am the 
+strongest possible proponent for an approach in which the Services 
+consider how best to represent this need in their core competencies. 
+The JAIC will work closely with the Services, OSD, and DOD Components 
+to propose and advance necessary authorities, policies, and legislation 
+designed to grow a more qualified AI force.
+
+    20. Senator Heinrich. Lt Gen Shanahan, given how important STEM 
+[Science, Technology, Engineering, and Math] is to your efforts, should 
+there be someone in the Department entrusted with recruiting 
+individuals specifically for that type of skill set?
+    Lt. Gen. Shanahan. Each Service is best positioned to determine the 
+optimum approach to meet their recruiting mission and training 
+requirements. As the recruiting environment has become more 
+challenging, I am confident, if deemed appropriate, each Service will 
+consider other initiatives, including specialty recruiting, that will 
+enable them to achieve their recruiting missions. I view one of the 
+JAIC's key responsibilities as helping the Services and other 
+Components assess their AI workforce strengths, limitations, and 
+shortfalls, and helping them craft strategies centered on AI talent 
+recruiting, retention, and promotion.
+                       breakout of dod ai funding
+    21. Senator Heinrich. Lt Gen Shanahan, the fiscal year 2020 budget 
+request includes a $927 million investment in Artificial Intelligence, 
+with money directed toward the Joint Artificial Intelligence Center and 
+Advanced Image Recognition (Project Maven). Can you please provide the 
+breakdown on how the $927 million will be allocated?
+    Lt. Gen. Shanahan. The $927 million is allocated among three major 
+AI programs in DOD: Joint Artificial Intelligence Center ($268 
+million), Project Maven ($250 million), and Defense Advanced Research 
+Projects Agency (DARPA) ($409 million). (The overall budget for all DOD 
+AI programs is classified and can be provided separately upon request.) 
+The Joint Artificial Intelligence Center was established in June 2018 
+to accelerate the delivery of AI-enabled capabilities. Project Maven's 
+efforts are focused on ISR full motion video and expanding to other 
+areas that include high altitude still imagery and captured enemy 
+materials. Through its ``AI Next'' campaign, DARPA is developing 
+advanced AI theory and applications making it possible for machines to 
+adapt contextually to changing situations.
+
+    22. Senator Heinrich. Lt Gen Shanahan, one impediment to accurately 
+evaluating funding levels for AI is the lack of a stand-alone AI 
+Program Element (PE) in DOD funding tables. As a result, AI R&D 
+[Research and development] appropriations are spread throughout 
+generally titled PEs and incorporated into funding for larger systems 
+with AI components. As the lead coordinating entity for AI, do you have 
+visibility on the Department of Defense's total investment in AI, 
+including Services and components, and can you provide that breakdown 
+to the Committee by PE and amounts?
+    Lt. Gen. Shanahan. I agree that we need better visibility on the 
+entire range of spending on AI and AI-related projects across DOD. The 
+Department of Defense's total AI funding was classified Secret by the 
+Acting Secretary of Defense and can be provided separately upon 
+request. Current procedures require the military Services and DOD 
+Components to coordinate with the JAIC on all AI-related projects over 
+$15 million. For fiscal year 2020, we are relying on data calls by OSD-
+CAPE and USD-Comptroller to gather all AI-related funding information. 
+DOD CIO will capture AI investments in the IT Budget starting in fiscal 
+year 2021. Through updates in policy and institution of DOD AI 
+governance, Components will be mandated to enter their AI projects in 
+the DOD portal to be reflected in the Select & Native Programming Data 
+Input System for Information Technology SNaP-IT exhibit. These are 
+necessary first steps towards gaining a more comprehensive 
+understanding of all AI-related spending across the Department. As part 
+of our evolving JAIC governance framework, we will propose new 
+processes and procedures to ensure greater oversight of DOD-wide AI 
+spending; this will include spending by the DOD components of the 
+intelligence community.
+                               __________
+             Questions Submitted by Senator Gary C. Peters
+                  google workforce objections to maven
+    23. Senator Peters. Lt. Gen. Shanahan, the decision by Google to 
+pull out the Maven program raises many concerns. What is your 
+assessment of why Google pulled out of the Maven project and what steps 
+are you taking and what steps are these companies taking to ensure that 
+we can work with the best minds in Silicon Valley on these important 
+efforts?
+    Lt. Gen. Shanahan. Google's contribution to Project Maven was as a 
+subcontractor to a prime contractor. They were one of many 
+subcontractors associated with the project and they had no direct 
+contractual relationship with Project Maven or the JAIC. They completed 
+their statement of work as subcontracted and publicly withdrew from 
+future consideration of a potential subcontract renewal or extension. 
+The decision was based on entirely internal factors and Google only 
+provided to the government limited information as to the private 
+business considerations of that decision. It would be inappropriate for 
+the Department to speculate as to the underlying rationale for that 
+decision as private industry has the right to engage in contracts as 
+they see fit. Nonetheless, the Google/Maven issue underscores that the 
+DOD needs to improve its efforts to acquire, configure, and deploy 
+commercial artificial intelligence technology, which requires adapting 
+to the culture and business practices of a new, more diverse group of 
+industry partners. The vast majority of current AI companies do not 
+rely on DOD as a substantial part of their AI business model. Their 
+employees may have different motivations and ethical concerns about 
+engaging in national security work. Continued engagement and two-way 
+transparency with these companies are vital to maintaining our 
+competitive military edge and ensuring the Department has access to the 
+nation's top technology and talent. We need to continue to message that 
+the United States military is the most important global institution for 
+the preservation and expansion of widely-shared values, including 
+privacy, liberty, and equality. Communicating the key messages that the 
+benefits of AI-enabled technologies include enhancing protection of 
+U.S. and allied forces, reducing the potential for civilian casualties 
+and collateral damage, and saving lives. One of our key missions in the 
+JAIC is to build and strengthen relationships across U.S. AI technology 
+hubs. The Department wants to work with those companies who will 
+support the full range of DOD missions, while acknowledging that every 
+company has an inherent right to rely on its own internal review 
+mechanisms to decide on whether and how to work with DOD on AI-related 
+projects.
+
+    24. Senator Peters. Mr. Brown, I know DIU is trying to forge 
+relationships with the private sector as well--do you see a way for us 
+to work with private sector companies who at the corporate or employee 
+level has expressed concern about working with the Department of 
+Defense on our toughest military challenges?
+    Mr. Brown. Transparent, open and frequent communications with 
+industry, academia and the public will be critical to our success. DIU 
+was designed to rebuild some of these bridges, develop new 
+relationships and facilitate conversations that would have commercial 
+solutions providers engage with the Department of Defense.
+                      value of long term research
+    25. Senator Peters. Dr. Highnam and Mr. Brown, there is a lot of 
+understandable and deserved interest in the great advances that the 
+commercial sector is making in AI. I know that the automotive industry 
+is making great strides in developing new AI-enabled systems to support 
+driverless cars and intelligent systems in traditional passenger cars. 
+But I think that the Federal Government and this committee can play an 
+important role in creating the environment and funding the research for 
+that commercial innovation to thrive. Can you describe the role that 
+federally-funded and university research plays in supporting commercial 
+sector and Silicon Valley innovation, and what more should we be doing 
+at the federal level to continue that support?
+    Dr. Highnam. In terms of fostering commercial innovations in AI-
+enabled systems, DARPA has historically played the role of making 
+pivotal early technology investments in high risk, high payoff 
+technologies. For example, DARPA's early investments in computer 
+vision, machine learning, and autonomous control in the Grand Challenge 
+and Urban Challenge programs spurred the development of technologies 
+that led to the self-driving car technologies being pursued in the 
+commercial sector today. (DARPA's earlier investments in the same 
+technical areas in the early 1980s created the basis for the 
+Challenges.) Given the growing role and importance of AI technologies 
+in our daily life, fostering an even broader, more robust AI research 
+ecosystem is an area where the Federal Government, including DARPA, can 
+continue to play an important role by: 1) funding early stage research 
+that inspires commercial application development; 2) funding academia 
+to ensure a talent pipeline for commercial AI organizations; and 3) 
+funding programs that address new or previously unrecognized research 
+issues that often arise when technology meets real world deployments.
+    Mr. Brown. Galvanizing a generational investment in science and 
+technology is one of the most important proactive steps we can take in 
+a technology race to ensure we reinforce the best aspects of U.S. 
+innovation and entrepreneurial behavior. This requires a foundation of 
+leading science and technology development and a return to the 
+technology prominence the U.S. enjoyed in the 1960s--developed as a 
+response to the previous tech race that we won. The nation, including 
+the commercial technology ecosystems around the country, are still 
+benefiting from the technology breakthroughs that came from this 
+investment in basic science and research in the 1960s and 1970s 
+(internet, GPS, semiconductors, etc.). The field of AI and Deep 
+Learning in particular has advanced through public challenges such as 
+ImageNet, which was hosted by Stanford University and got teams to 
+compete on building algorithms to identify various images. DIU is 
+building on this legacy with xView, a series of competitions that 
+challenge participants to build algorithms applicable to human 
+assistance and disaster response. The upcoming iteration of xView will 
+challenge participants to build algorithms to do automated building 
+damage assessment, which is critical in post-disaster environments. 
+These challenges not only deliver cutting edge capabilities to the 
+department, but also spur research interest in areas critical to DOD.
+                              ai workforce
+    26. Senator Peters. Lt. Gen. Shanahan, for us to move forward in AI 
+we are going to need a workforce, both in uniform and on the civilian 
+side, that is capable of being a smart user, buyer, regulator, and 
+researcher of AI systems. What steps are you taking to build that 
+workforce and do you need any special hiring, pay authorities or other 
+authorities in order to compete for AI talent with the private sector?
+    Lt. Gen. Shanahan. The JAIC is challenged with the hyper-
+competitive market for top talent, specifically our difficulty in 
+offering more competitive compensation packages. One of the key 
+attributes of the Cyber Excepted Service (CES) is the Departments 
+ability to offer more competitive market based compensation packages. 
+While CES resolves many of the key issues, CES does not resolve all the 
+concerns. To that end, the JAIC would benefit from Congressional 
+assistance in the following two areas: Relief for the current federal 
+pay cap ($166,500; Executive Level IV). Authorities to offer retention 
+incentives internally to DOD employees. Specifically, we would benefit 
+from the ability to offer incentives for DOD employees moving 
+internally to the Department. Current authorities only allow for 
+retention incentives to be given if the employee is leaving Government.
+                   need for good data for ai systems:
+    27. Senator Peters. Lt. Gen. Shanahan, AI and machine learning 
+systems require data sets to learn from, and DOD often struggles in 
+collecting, clean and useful data sets related to their challenges. AI 
+and machine learning systems can only learn and be more useful if they 
+are given raw material, namely data to process and work on to begin to 
+better answer questions and perform required processes. But the 
+government in general and DOD specifically has a reputation for not 
+having good data on either its operational or back office systems and 
+processes, and especially for not sharing that data with others. How is 
+the JAIC working to create policies on the generation and sharing of 
+data for AI systems to learn from and get better?
+    Lt. Gen. Shanahan. Data is the fuel of AI. The Department 
+recognizes that bad, dirty, or unshared data is a major impediment to 
+implementing AI at scale. We need to move from a software-based to a 
+data-first paradigm, refocusing on data as the product and establishing 
+data-oriented architectures. With particular attention to designing AI-
+ready data-driven workflows. Over the past year, the Office of the 
+Chief Management Officer and OUSD (Comptroller) have been collaborating 
+to extract, standardize, and curate data from the Department's 
+operational and back office systems and processes. This data is now 
+resident in the Defense Repository of Common Enterprise Data (DRCED) 
+soon to be known as ADVANA. DRCED includes a detailed cost baseline of 
+the Department's Reform Lines of Business, comprising 75 percent of the 
+Department's unclassified budget. In addition to this catchment of 
+data, DRCED provides users with a selection of tools for data 
+wrangling, data analysis, and data visualization, and machine learning. 
+As Project Maven demonstrated, and as we learned immediately with our 
+initial two National Mission Initiatives (NMI), data management is one 
+of the most resource-intensive and time-consuming aspects of the AI 
+delivery pipeline. Success in any DOD AI project will rest on a 
+foundation of good data management. We acknowledge the level of effort 
+involved in improving DOD-wide data management; one of our key 
+responsibilities within the JAIC will be to work closely with CMO and 
+all other stakeholders to address and solve data management problems, 
+and to serve as a central hub for helping the Services and Components 
+do the same. This will include establishing standards, setting new 
+policies, and providing the necessary authorities to begin to shift the 
+Department in the right direction for future data management. For some 
+systems, the processes are not yet ready for AI since they are not 
+data-driven. We will work with our mission partners to design workflows 
+that are data driven--where users visualize data to perform their tasks 
+and record information during tasks. These systems can perform many 
+task with many users across the operation units--aggregating 
+information for each task level. We are adopting a user-based design 
+principal for all of our systems--where end-users are engaged in 
+designing, testing, and providing feedback so that the best AI-enabled 
+delivery is possible. Once the user workflows are data driven, then AI 
+can be added to augment the workflow. The JAIC will use tools, 
+libraries, and framework resources provided by the JAIC Common 
+Foundation (JCF) to build AI/ML to enhance the data driven workflows 
+through our NMIs and CMIs. In addition, each NMI/CMI contributes to the 
+data, models, libraries, and services in the JCF to be shared to the 
+community at large
+                        research community data
+    28. Senator Peters. Dr. Highnam and Mr. Brown, I imagine the 
+research community has challenges with accessing, maintaining, and 
+sharing useful datasets, especially with respect to classified data. 
+How do your research teams get the data they need to develop new AI 
+systems and concepts and do we need to make any policy adjustments to 
+make that more streamlined?
+    Dr. Highnam. DARPA AI research programs often need data that may be 
+unclassified or classified. In some cases, it may be possible for a new 
+program to re-use existing data from other on-going or completed 
+programs, and in some cases the new program may need to create new 
+data. A special case arises when we need to generate unclassified 
+synthetic data as a surrogate for classified real-world data in order 
+to permit participation by researchers at universities. Separately, we 
+anticipate that the recently established DOD Joint Artificial 
+Intelligence Center (JAIC), with part of its mission to establish a 
+common set of AI standards, tools, shared data, reusable technology, 
+etc. will be a step towards improving accessibility of datasets to the 
+AI research community. DARPA has a long history of working data issues 
+and does not seek specific policy adjustments at this time.
+    Mr. Brown. For machine learning efforts to be successful, large 
+volumes of data are necessary to train algorithms. Large datasets do 
+exist, but there are challenges leveraging them for a variety of 
+reasons--some of which are cultural, some of which are regulatory. 
+While we have the obligation to safeguard unauthorized disclosure of 
+data, we also have an urgent need to bring machine learning 
+capabilities into the Defense Department. We would welcome more 
+comprehensive data-sharing agreements across DOD organizations to 
+streamline data access challenges that often slow the development of 
+critical technology. In addition, clearances pose a barrier to getting 
+some of the best companies and people working on DOD's most important 
+problems. Efforts to streamline and accelerate the clearance process 
+would be beneficial.

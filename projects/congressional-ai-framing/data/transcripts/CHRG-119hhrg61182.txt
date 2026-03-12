@@ -1,0 +1,1587 @@
+- ARTIFICIAL INTELLIGENCE AND CRIMINAL EXPLOITATION: A NEW ERA OF RISK
+
+[House Hearing, 119 Congress]
+[From the U.S. Government Publishing Office]
+
+                  ARTIFICIAL INTELLIGENCE AND CRIMINAL
+                    EXPLOITATION: A NEW ERA OF RISK
+
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+                    SUBCOMMITTEE ON CRIME AND FEDERAL
+                         GOVERNMENT SURVEILLANCE
+
+                                 OF THE
+
+                       COMMITTEE ON THE JUDICIARY
+
+                     U.S. HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED NINETEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                        WEDNESDAY, JULY 16, 2025
+
+                               __________
+
+                           Serial No. 119-31
+
+                               __________
+
+         Printed for the use of the Committee on the Judiciary
+
+                 [GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+
+               Available via: http://judiciary.house.gov
+
+                               ______
+
+                 U.S. GOVERNMENT PUBLISHING OFFICE
+
+61-182                    WASHINGTON : 2025
+
+                       COMMITTEE ON THE JUDICIARY
+
+                        JIM JORDAN, Ohio, Chair
+
+DARRELL ISSA, California             JAMIE RASKIN, Maryland, Ranking 
+ANDY BIGGS, Arizona                      Member
+TOM McCLINTOCK, California           JERROLD NADLER, New York
+THOMAS P. TIFFANY, Wisconsin         ZOE LOFGREN, California
+THOMAS MASSIE, Kentucky              STEVE COHEN, Tennessee
+CHIP ROY, Texas                      HENRY C. ``HANK'' JOHNSON, Jr., 
+SCOTT FITZGERALD, Wisconsin              Georgia
+BEN CLINE, Virginia                  ERIC SWALWELL, California
+LANCE GOODEN, Texas                  TED LIEU, California
+JEFFERSON VAN DREW, New Jersey       PRAMILA JAYAPAL, Washington
+TROY E. NEHLS, Texas                 J. LUIS CORREA, California
+BARRY MOORE, Alabama                 MARY GAY SCANLON, Pennsylvania
+KEVIN KILEY, California              JOE NEGUSE, Colorado
+HARRIET M. HAGEMAN, Wyoming          LUCY McBATH, Georgia
+LAUREL M. LEE, Florida               DEBORAH K. ROSS, North Carolina
+WESLEY HUNT, Texas                   BECCA BALINT, Vermont
+RUSSELL FRY, South Carolina          JESUS G. ``CHUY'' GARCIA, Illinois
+GLENN GROTHMAN, Wisconsin            SYDNEY KAMLAGER-DOVE, California
+BRAD KNOTT, North Carolina           JARED MOSKOWITZ, Florida
+MARK HARRIS, North Carolina          DANIEL S. GOLDMAN, New York
+ROBERT F. ONDER, Jr., Missouri       JASMINE CROCKETT, Texas
+DEREK SCHMIDT, Kansas
+BRANDON GILL, Texas
+MICHAEL BAUMGARTNER, Washington
+
+                                 ------                                
+
+                   SUBCOMMITTEE ON CRIME AND FEDERAL
+                        GOVERNMENT SURVEILLANCE
+
+                       ANDY BIGGS, Arizona, Chair
+
+TOM TIFFANY, Wisconsin               LUCY McBATH, Georgia, Ranking 
+TROY NEHLS, Texas                        Member
+BARRY MOORE, Alabama                 JARED MOSKOWITZ, Florida
+KEVIN KILEY, California              DAN GOLDMAN, New York
+LAUREL LEE, Florida                  STEVE COHEN, Tennessee
+BRAD KNOTT, North Carolina           ERIC SWALWELL, California
+
+               CHRISTOPHER HIXON, Majority Staff Director
+                  JULIE TAGEN, Minority Staff Director
+
+                            C O N T E N T S
+
+                              ----------                              
+
+                        Wednesday, July 16, 2025
+
+                           OPENING STATEMENTS
+
+                                                                   Page
+The Honorable Andy Biggs, Chair of the Subcommittee on Crime and 
+  Federal Government Surveillance from the State of Arizona......     1
+The Honorable Lucy McBath, Ranking Member of the Subcommittee on 
+  Crime and Federal Government Surveillance from the State of 
+  Georgia........................................................     3
+
+                               WITNESSES
+
+Dr. Andrew S. Bowne, Professor, George Washington University
+  Oral Testimony.................................................     5
+  Prepared Testimony.............................................     8
+Zara Perumal, Chief Technology Officer, Overwatch Data
+  Oral Testimony.................................................    24
+  Prepared Testimony.............................................    26
+Cody Venzke, Senior Policy Counsel, National Political Advocacy 
+  Division, American Civil Liberties Union
+  Oral Testimony.................................................    40
+  Prepared Testimony.............................................    42
+Ari Redbord, Global Head of Policy, TRM Labs
+  Oral Testimony.................................................    72
+  Prepared Testimony.............................................    74
+
+          LETTERS, STATEMENTS, ETC. SUBMITTED FOR THE HEARING
+
+All materials submitted by the Subcommittee on Crime and Federal 
+  Government Surveillance, for the record........................   104
+
+Materials submitted by the Honorable Lucy McBath, a Member of the 
+  Committee on the Judiciary from the State of Georgia, for the 
+  record
+    A letter to Speaker Mike Johnson, Minority Leader Hakeem 
+        Jeffries, Majority Leader John Thune, and Minority Leader 
+        Chuck Schumer, from the National Association of Attorneys 
+        General, May 16, 2025
+    An article entitled, ``Inside Congress Live,'' Jun. 27, 2025, 
+        Politico
+    A testimony from Barry Friedman, Jacob D. Fuchsberg Professor 
+        of Law and Affiliated Professor of Politics, Faculty 
+        Director, Policing Project, New York University School of 
+        Law, Jul. 16, 2025
+    A letter to the Honorable Andy Biggs, Chair of the 
+        Subcommittee on Crime and Federal Government Surveillance 
+        from the State of Arizona, and the Honorable Lucy McBath, 
+        Ranking Member of the Subcommittee on Crime and Federal 
+        Government Surveillance from the State of Georgia, from 
+        PublicCitizen, Jul. 16, 2025
+    A testimony from Keith Kupferschmid, Chief Executive Officer, 
+        Copyright Alliance, Jul. 16, 2025
+An article entitled, ``The countdown to artificial 
+  superintelligence begins: Grok 4 just took us several steps 
+  closer to the point of no return,'' Jul. 12, 2025, The Blaze, 
+  submitted by the Honorable Andy Biggs, Chair of the 
+  Subcommittee on Crime and Federal Government Surveillance from 
+  the State of Arizona, for the record
+
+                                APPENDIX
+
+A statement from the Honorable Jamie Raskin, Ranking Member of 
+  the Committee on the Judiciary from the State of Maryland, Jul. 
+  16, 2025, for the record
+
+                  ARTIFICIAL INTELLIGENCE AND CRIMINAL
+                    EXPLOITATION: A NEW ERA OF RISK
+
+                              ----------                              
+
+                        Wednesday, July 16, 2025
+
+                        House of Representatives
+
+       Subcommittee on Crime and Federal Government Surveillance
+
+                       Committee on the Judiciary
+
+                             Washington, DC
+
+    The Subcommittee met, pursuant to notice, at 10 a.m., in 
+Room 2141, Rayburn House Office Building, the Hon. Andy Biggs 
+[Chair of the Subcommittee] presiding.
+    Members present: Representatives Biggs, Kiley, Lee, Knott, 
+and McBath.
+    Also present: Representative Raskin.
+    Mr. Biggs. The Subcommittee will come to order. Without 
+objection, the Chair is authorized to declare a recess at any 
+time. We welcome everyone to today's hearing on Artificial 
+Intelligence and Criminal Exploitation.
+    I now recognize the gentlewoman from Florida, Ms. Lee, to 
+lead us in the Pledge of Allegiance.
+    All. I pledge allegiance to the Flag of the United States 
+of America, and to the Republic for which it stands, one 
+Nation, under God, indivisible, with liberty and justice for 
+all.
+    Mr. Biggs. Thank you. I now recognize myself for an opening 
+statement. I appreciate everyone being here today, our 
+witnesses, and those in the audience. This is an important 
+hearing which focuses on artificial intelligence and how it is 
+being exploited by criminals. The conceptual roots of AI can be 
+traced to British mathematician Alan Turing when the 1930s 
+theorized about a machine being capable of performing any 
+computable task. Today, AI is best understood as a branch of 
+computer science that leverages large scale data processing, 
+algorithmic modeling, and modern hardware to enable machines to 
+perform tasks typically requiring human cognition.
+    Unfortunately, like most technical innovations, the 
+criminal element has begun to use AI to enhance their elicit 
+activities. The AI-enabled threats continue to evolve as bad 
+actors use AI technology in a wide spectrum of criminal 
+enterprises. From deepfake scams and synthetic identity fraud 
+to financial crimes and child sexual abuse material, CSAM, the 
+landscape continues to evolve at a rapid pace as AI provides 
+users with enhanced capabilities. The AI-based or AI-driven 
+threats and schemes can cost businesses millions of dollars a 
+year including both prevention and falling prey to them. In one 
+case, fraudsters used AI to clone a CEO's voice and authorized 
+a wire transfer. Among corporations that experienced a rise in 
+deepfake incidents, 75 percent of deepfakes impersonated a CEO 
+or another C suite executive.
+    Generative AI enables the criminal exploitation of victims' 
+emotional vulnerabilities through tactics such as sextortion, 
+pig-butchering scams, phishing, and elder fraud. Senior 
+citizens are increasingly targeted through voice phishing scams 
+where an AI-generated replica of a grandchild or military 
+officer claims to need urgent funds. In one case, a Colorado 
+mother received a call from what sounded like her daughter 
+pleading for help. The voice was AI generated, closed from a 
+short, online clip and used to demand ransom. The voice was 
+indiscernible to the mother who wired $1,000 to scammers in 
+Mexico.
+    AI is also fueling a rise in sextortion and synthetic CSAM. 
+New AI tools can generate highly realistic, but entirely 
+fabricated explicit images often used to extort minors or 
+damage reputations. Some sextortion scams exploit the trust 
+associated with platforms like Apple's iMessage by 
+impersonating classmates or romantic interests via recognizable 
+blue bubble interfaces. Criminals now deploy apps like Muah to 
+fabricate child abuse images at scale. Stanford University 
+researchers have uncovered evidence that generative models were 
+trained on real exploitative content.
+    Terrorist groups now utilize AI to target, recruit, and 
+indoctrinate vulnerable individuals. Generative AI provides a 
+degree of separation, allowing actual terrorists to maintain 
+anonymity in their public facing recruiting practices. 
+Generative AI also allows terrorists to produce propaganda, 
+fake news stories, and emotionally resonant messages tailored 
+to specific psychological profiles.
+    Reports of generative artificial intelligence enabled scams 
+between May 2024-May 2025 rose by 456 percent. The use of 
+exploi-
+tive generative AI allows criminals to produce human-like text, 
+code, images, and videos allowing criminals to use the 
+technology for further criminal activity such as creating more 
+realistic phishing lures or generating deepfakes for extortion.
+    On average, phishing attacks cost $4.9 million per breach. 
+On the other hand, AI is increasingly integrated into police 
+investigations offering new tools and capabilities for law 
+enforcement agencies into the backdrop of rapidly expanding 
+digital data sources and increasing demands on law enforcement 
+agencies. AI provides a more adaptable and comprehensible 
+approach to solving crimes, compared to traditional methods 
+leveraging data analytics, machine learning, and pattern 
+recognition to enhance investigations and assist with 
+administrative tasks. This is also potentially a problem, as 
+well, as we seek to balance curbing AI with our civil rights.
+    AI can also help process large volumes of data, identify 
+patterns, and generate actionable insights, and in turn, these 
+applications can improve efficiency, accuracy, and resource 
+allocation with investigative processes. However, to fully 
+benefit from AI applications, law enforcement entities need 
+reliable data, human oversight, while also tackling issues 
+related to privacy, bias, and ethical considerations. 
+Addressing the continued misuse of AI will require a varied 
+approach while also raising public awareness about the risks 
+associated with AI-generated content.
+    Law enforcement agencies must engage openly with community 
+stakeholders, legal experts, and the public to communicate the 
+intended uses, benefits, and limitations of AI technologies. 
+The collaborative effort to both prevents the misuse of AI 
+while encouraging lawful application is required to effectively 
+navigate this evolving landscape.
+    I am excited about today's hearing. I think this is the 
+first of its kind. I believe it will be only the first of its 
+kind as we consider AI and its continued expansion of influence 
+on our lives. I am looking for a very substantive discussion--I 
+anticipate a substantive discussion that we are going to have 
+today and with that, I yield back and recognize now our Ranking 
+Member, Ms. McBath, for her opening statement.
+    Ms. McBath. Well, thank you so much, Mr. Chair, and thank 
+you to our witnesses today. Thank you so much for taking 
+moments out of your day to come before us. Thank you for 
+convening this hearing to discuss AI-enabled crime, efforts to 
+detect and combat such crime, and how law enforcement deploys 
+AI tools.
+    Like so many new technologies, AI is not inherently good or 
+bad. The AI-enabled tools can find patterns, sort through vast 
+amounts of information, and may even help law enforcement solve 
+their crimes. In the wrong hands, the same tools can be used to 
+commit financial fraud, breach national security systems, and 
+to harm our children. When used by law enforcement, this 
+technology has the potential to empower our investigators, 
+while also carrying the risk of serious errors with life-
+changing consequences. That is why it is critical that we 
+proceed thoughtfully and put appropriate guardrails in place so 
+that everyone in our criminal justice system that is using AI-
+enabled tools, they are using them responsibly, not to the 
+detriment of law-abiding members of our community.
+    You have already seen what can go wrong when those 
+safeguards are missing. A woman and her family experienced the 
+dangers of using AI enabled facial recognition technology. 
+Detroit police used a facial recognition tool in an attempt to 
+identify a carjacking suspect using an image from a 
+surveillance camera. The tool matched the surveillance image 
+with a picture of Porcha Woodruff, a nursing school student. 
+One morning, as Ms. Woodruff was getting her two children ready 
+for school, the police knocked on her door and they told her 
+that she was under arrest for carjacking. She knew right away 
+there must be some kind of mistake, and she gestured at her 
+body as she spoke to law enforcement to point out the obvious, 
+she hoped, to law enforcement that she was eight months 
+pregnant. Though the police had not been looking for a visibly 
+pregnant woman, they still handcuffed Ms. Woodruff, took her 
+away from her crying children, held her for 11 hours, searched 
+her phone, and they charged her. After her release, she went 
+straight to the hospital and was treated for dehydration. The 
+charges were dismissed a month later.
+    This case is especially troubling because facial 
+recognition tools have been shown to perform worse on Black 
+individuals, increasing the risk of misidentification and 
+contributing to over criminalization. AI is only as good as the 
+data is it trained on and when that data is biased, it 
+exacerbates racial disparity, long embedded in our criminal 
+justice system, and an inaccurate tool is dangerous for every 
+single one of us. Not one of us is immune to these mistakes.
+    Thankfully, and in due part to cases like this one, the 
+city of Detroit has adopted new rules to direct the use of 
+facial recognition technology within its police department, and 
+they are simply not alone. Many cities and states have put 
+sensible guardrails in place to limit potentially harmful uses 
+of AI. That is why it was alarming when some of my Republican 
+colleagues recently attempted to pass a moratorium on State and 
+local AI regulations in the big ugly bill, a move that 
+generated bipartisan opposition so much that 40 State Attorney 
+Generals and 17 Republican Governors, including the Governor of 
+my State, Georgia, wrote letters to the Senate in opposition to 
+the proposed moratorium. The Governors warned that, and I am 
+quoting them, ``People will be at risk until basic rules 
+ensuring safety and fairness can go into effect.''
+    As you will see behind me, Sarah Huckabee Sanders, the 
+Republican Governor of Arkansas and former press secretary to 
+President Trump, took to Twitter to quote,
+
+        I stand with the Majority of GOP Governors against stripping 
+        States of the right to protect our people from the worst abuses 
+        of AI. The U.S. must win the fight against China on AI and 
+        everything else, but we won't if we sacrifice the health, 
+        safety, and prosperity of our people.
+
+    While this most recent proposal was ultimately stripped 
+from the bill by a 99 to one vote of the Senate, the Republican 
+Chair of the House Energy and Commerce Committee has already 
+vowed to continue to pursue a moratorium, even while 
+acknowledging that Federal regulations on AI are still light 
+years away.
+    I stand with those seeking to protect the health and the 
+safety and civil rights of our communities from the abuses of 
+AI and I hope that we can come together and follow the lead of 
+the States to explore what those guardrails should look like 
+and put them in place.
+    I look forward to learning more from our experts here 
+today. Hearing from you is going to be extremely critical for 
+us on this very important issue.
+    Before I yield, Mr. Chair, I ask unanimous consent to enter 
+into the record two letters. The first is a letter from 17 
+Republican Governors in opposition to a moratorium on State and 
+local regulation on AI; and the second, a letter from 40 State 
+Attorneys General, both Republicans and Democrats, in 
+opposition to a moratorium on State and local regulation of AI.
+    Mr. Biggs. Without objection.
+    Ms. McBath. I yield.
+    Mr. Biggs. The gentlelady yields. Without objection, all 
+other opening statements will be included in the record. We 
+will now introduce today's witnesses, and we are very grateful 
+for our witnesses.
+    Dr. Andrew Bowne.
+    Dr. Bowne. Bowne.
+    Mr. Biggs. Bowne, OK. Dr. Bowne is a Professorial Lecturer 
+in Law at the George Washington University Law School where he 
+teaches courses on artificial intelligence law and policy. He 
+has served in the United States Air Force Judge Advocate 
+General Corps since 2010 and previously serves as the Chief 
+Legal Counsel of the Department of the Air Force Artificial 
+Intelligence Accelerator at the Massachusetts Institute of 
+Technology.
+    Thank you, Doctor, for being with us today.
+    Ms. Zara Perumal is the Co-Founder and Chief Technology 
+Officer of Overwatch Data, an artificial intelligence company 
+focused on threat intelligence and cybercrime tactics on the 
+dark web. Prior to founding Overwatch Data, she worked at 
+Google on matters involving machine learning and cyber security 
+threats.
+    Thank you for you being us today, Ms. Perumal.
+    Mr. Ari Redbord is the Global Head of Policy at TRM Labs, a 
+company focused on preventing illicit financial activity. He 
+previously served as Senior Advisor to the Deputy Secretary and 
+Under Secretary for Terrorism and Financial Intelligence at the 
+U.S. Treasury. Prior to Treasury, he was an Assistant U.S. 
+Attorney where he focused on terrorism, espionage, financial, 
+child exploitation, and human trafficking cases.
+    Thank you, Mr. Redbord, for being with us today.
+    Mr. Cody Venzke is a Senior Policy Counsel in ACLU's 
+National Political Advocacy Department where his work focuses 
+on surveillance, privacy, and technology. Specifically, he 
+works on matters related to artificial intelligence, privacy, 
+children's privacy, and civic uses of data.
+    Thanks, Mr. Venzke, for being with us today.
+    We appreciate all of you being here and now ask that you 
+please rise so you can be sworn in.
+    Would you please raise your right hand? Do you swear or 
+affirm under penalty of perjury that the testimony that you are 
+about to give is true and correct to the best of your 
+knowledge, information, and belief so help you God?
+    Let the record reflect the witnesses have answered in the 
+affirmative and thank you, you may be seated. Please know that 
+your written testimony will be entered into the record in its 
+entirety. Accordingly, we ask that your testimony be summarized 
+in five minutes and what is going to happen, just so you know, 
+is about 15 seconds before the end, you will start hearing 
+this, something like that, and then at the magic moment, I will 
+start getting a little bit louder, but it will kind of help you 
+wrap up on time, so we can work this out. We are so grateful 
+that you are here.
+    Mr. Bowne, you may begin with your five minutes.
+
+                  STATEMENT OF ANDREW S. BOWNE
+
+    Dr. Bowne. Thank you, Mr. Chair, Ranking Member, and the 
+distinguished Members of the Subcommittee. Thank you for the 
+opportunity to testify to the intersection of artificial 
+intelligence and criminal exploitation.
+    My name is Andrew Bowne. I serve as a Professorial Lecturer 
+at the George Washington University Law School where I teach 
+courses on AI law and policy. I have served in the United 
+States Air Force Judge Advocate Generals Corps since 2010 
+including assignments as a prosecutor, a staff Judge Advocate 
+General Counsel Air Force installation, and as you heard, a 
+Chief Legal Counsel for the Air Force's AI Accelerator at MIT.
+    I do appear today in my personal capacity. The views I 
+present are my own and do not necessarily reflect those of the 
+Department of Defense, the Department of the Air Force, or the 
+Judge Advocate Generals Corps.
+    AI is both a catalyzing and transformative technology 
+enabler, a solver of traditional processes, but also creates 
+entirely new ones. When a task AI is used for is criminal or 
+harmful, the nature of AI becomes a threat multiplier. The AI 
+systems now automate decisions, model environments, and infer 
+actions of unprecedented speed, and scale. While they are 
+designed to benefit society, their dual-use nature means they 
+could also facilitate exploitation, fraud, and abuse. Even AI 
+systems designed with legitimate use in mind can create harm if 
+not carefully designed and deployed with safety, ethics, and 
+accountability built in.
+    Today, I would like to briefly highlight how AI enables 
+criminal activity, the gaps in current criminal law, and 
+proactive steps Congress might take. First, how AI enables 
+criminal activity. I am seeing really three categories of AI 
+developments that are of particular concern in this area: 
+Computer vision, generative adversarial networks, or GANS, and 
+large language models, or LLMS.
+    Computer vision systems which interpret visual data are 
+used to automate surveillance, identify targets, and even 
+harvest personal data from breached documents for identity 
+threat and fraud or enable real time threat detection for 
+public safety that can be repurposed to stalk or blackmail 
+individuals with chilling efficiency. GANs are capable of 
+generating synthetic images, videos, and audio that are known 
+in public discourse as deepfakes. These tools allow the 
+impersonation of public officials and private citizens alike. 
+Multiple watchdogs and law enforcement agencies that have been 
+conducted longitudinal analysis on AI generated child sexual 
+abuse material or CSAM are reporting rapid rises in the number 
+of generated images shared online. Perhaps more concerning is 
+that the increased capabilities of sophistication of generative 
+AI models enable them to produce very realistic images.
+    Generative AI tools are also used for sextortion, grooming, 
+and emotional coercion, often targeting children. Large 
+language models like those powering chatbots revolutionizing 
+phishing, fraud, and social engineering involve misinformation. 
+They engage victims and extend realistic conversations, target 
+elderly people and vulnerable people in scams or overwhelming 
+financial institutions of thousands of tailored loan 
+applications. They are also used to generate malicious code, 
+making cybercrime accessible to individuals with no technical 
+background. In short, deepfakes, AI generated CSAM, and 
+automated fraud are not theoretical threats. They are real, 
+growing, and causing harm now. The barrier to entry to using AI 
+to perpetuate or perpetrate is low. Anyone with a few seconds 
+of your voice or image can create convincing synthetic content 
+without coding or expensive hardware. The tools are cheap, 
+accessible, and often unregulated.
+    Tragically, gaps in current Federal criminal law allow bad 
+actors to use AI to profit at the expense of others, prey on 
+the vulnerable or create mistrust with impunity. While there 
+are statutes for wire fraud and child sexual abuse material, 
+they do apply to many of the AI-enabled crimes, there are 
+several significant gaps.
+    More alarming still are emerging threats such as autonomous 
+criminal activity, cross-board AI enabled crime, and 
+algorithmic market manipulation in which criminal liability is 
+unclear or altogether absent.
+    There are a variety of strategies that the Committee, as 
+well as Congress, can consider, including criminal law reform. 
+They could define new offenses from malicious use of AI, 
+particularly deepfakes and AI CSAM. They could also provide 
+sentencing enhancements for crimes aggravated by the use of AI 
+tools when those tools augment the scale or impact of the harm 
+or make it more resource intensive to investigate and 
+prosecute.
+    You could also look at enabling AI safety and transparency 
+requirements and in conclusion AI is a revolutionary enabler 
+but does not self-regulate. The bad actors who choose to 
+exploit the law must be ready. Thank you, Mr. Chair, for the 
+time.
+    [The prepared statement of Mr. Bowne follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Biggs. Thank you, Dr. Bowne, and we have your written 
+testimony, which is more expansive, so I remind everybody we 
+have that, so appreciate that.
+    Ms. Perumal, we give you your five minutes now.
+
+                   STATEMENT OF ZARA PERUMAL
+
+    Ms. Perumal. Chair Biggs, Ranking Member McBath, and the 
+Members of the Committee, thank you so much for the opportunity 
+to testify today and for creating this forum to discuss how AI 
+is changing the landscape of cybercrime. I am honored to share 
+my perspective on how technology is making these threats more 
+accessible, more personalized, and more difficult to detect.
+    My name is Zara Perumal. I am the Co-Founder and CTO of 
+OverWatch Data, a cyber threat intelligence company that use AI 
+to identify and analyze emerging threats in the cybercrime and 
+fraud ecosystems. Through our work, we see every day how AI is 
+used to both prevent and also to facilitate criminal activity.
+    I would like to focus my remarks today on how we see AI 
+changing the threat landscape and what we can do about it 
+through both education and innovation. AI is a powerful, 
+general-purpose tool with a broad range of applications for 
+criminal activity and for a broad range of threat actors. It 
+can be used to learn how to commit crimes, to write code and 
+craft realistic scam text messages, generate audio or voice 
+clones, and of course, create deepfake images or videos.
+    Across this wide range of malicious use, three trends stand 
+out.
+    First, AI is reducing the barriers to entry for 
+cybercrimes. Users can ask a chatbot including ones explicitly 
+designed for fraud how to commit crimes. They can learn the 
+technical skills they need to carry them out and they can also 
+use it to make their attacks more convincing and more 
+effective.
+    Second, it is challenging businesses by subverting identity 
+verification systems. AI can be used to generate a photo for a 
+fake persona or profile. It can then be used to generate high 
+quality synthetic fake IDs and then if they are asked to verify 
+their identity, they can join a video called swap bare face 
+with their fake photo and verify their access to that business. 
+This is a problem not just for the specific business that is 
+being targeted, but it is a problem because it gives them a 
+foothold from which they can hide their identity for the future 
+next online crime that they will carry out.
+    Third, we see is the crimes that are becoming far more 
+personalized. For example, voice clones are used to target the 
+elderly by calling a grandparent and what sounds like their 
+grandchild's voice and claiming to be in the hospital and in 
+need and in need of money. Employment scams prey on young 
+adults who are looking for their first job. One of the most 
+disturbing cases is the nudifying apps which often target 
+children. They turn ordinary photos into fake sexually explicit 
+images which are then used to bully, harass, and extort 
+victims, in some cases driving them to suicide. This abuse is 
+carried out to children, both by their classmates and by remote 
+criminals.
+    There is a lot of harm. There is a lot that is changing, 
+but there is also a lot we can do.
+    First, education awareness can prevent and deter many of 
+these harms. These crimes work because people don't expect 
+them. If we invest in education across schools, workplaces, and 
+communities, we can make these crimes less effective and more 
+costly to carry out.
+    Second, we have an opportunity to combat this with 
+innovation. The same technology that is enabling these crimes, 
+can also be used to detect scams, find malware, and destruct 
+cybercrimes. By supporting innovation and strengthening public/
+private partnerships, we can shift the technical advantage to 
+the defenders.
+    While AI enables crime to be more accessible, more 
+personalized, and harder to detect, I remain optimistic. With 
+the right investment in education and innovation, we can engage 
+our whole society in building a future where AI expands access 
+to opportunities, strengthens safety, and helps people spend 
+more time on what matters.
+    On a personal note, it is very exciting to me to see that 
+Congress is addressing this issue and putting a spotlight on 
+it. Thank you and I look forward to your questions.
+    [The prepared statement of Ms. Perumal follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Biggs. Thank you very much.
+    Mr. Venske, you are recognized for your five minutes.
+
+                    STATEMENT OF CODY VENZKE
+
+    Mr. Venzke. Chair Biggs, Ranking Member McBath, and the 
+Members of the Subcommittee, thank you for the opportunity to 
+testify today on behalf of the American Civil Liberties Union.
+    I will address two issues this morning: First, it is 
+crucial that our response to criminal uses of artificial 
+intelligence adhere to the Constitution, civil rights, and 
+civil liberties. Second, efforts by Congress and the 
+administration must not inadvertently open the door for AI 
+abuses such as through a moratorium on State regulation of AI 
+or continuing consolidation of Federal data. With appropriate 
+measures, Congress can ensure that AI is safe, effective, and 
+consistent with our rights and liberties.
+    First, Congress' measures to address criminal AI must 
+comport with the Constitution, civil liberties, civil rights, 
+and privacy. For example, traditional First Amendment 
+activities do not lose their protection simply because 
+artificial intelligence was used. Editorial content moderation 
+using AI is not categorically exempted from the First 
+Amendment's protections. Neither is commentary on politicians 
+or candidates for office. Speech about politicians and 
+candidates, in particular, lies at the heart of the First 
+Amendment and enjoys special protection. Consequently, courts 
+have readily and correctly overturned laws prescribing false 
+speech about politicians and candidates. The emergence and use 
+of AI does not change the core foundational Constitutional 
+precepts.
+    Likewise, privacy concerns may arise from obligations 
+imposed on platforms that host and distribute AI systems. 
+Requirements or incentives to search users' communications, to 
+restrict their publication of models, code, and data, to 
+monitor a report their online activity or to prohibit or 
+undermine encryption, all increase governmental surveillance 
+and, in some circumstances may violate the Fourth Amendment. As 
+the Committee considers legislation addressing criminal uses of 
+AI, we urge you to ensure that speech, privacy, and other 
+important civil liberties are protected.
+    Second, the recently rejected AI moratorium would have 
+dramatically increased the risk of AI harms including criminal 
+and fraudulent activity. Similarly, the consolidation of 
+Federal data is creating enormous risk of AI harms. The 
+moratorium that was included in versions of the reconciliation 
+package was sweeping, preempting State laws and local 
+regulations that regulate AI for 10 years. Although the 
+moratorium included limited exemptions for some generally 
+applicable laws, serious questions about the scope and 
+workability of those exemptions remain. For example, dozens of 
+States have passed laws regulating deepfake, nonconsensual 
+intimate imagery often by amending existing statutes to clarify 
+their application to generative AI.
+    Similarly, Tennessee's ELVIS Act extends legal protection 
+to a person's voice including a simulation of the voice. It is 
+not clear if such laws with their express application or clear 
+intent to apply to AI qualify as generally applicable. 
+Moreover, in many instances addressing AI's harm requires 
+legislating specifically on AI. Establishment of an AI 
+moratorium will jeopardize these efforts giving bad actors a 
+blank check. As Ranking Member McBath recognized, 17 Republican 
+Governors and members of both parties in both chambers of 
+Congress oppose the moratorium before Congress stripped it from 
+the reconciliation package in a 99 to one vote in the Senate.
+    The more immediate concern, consolidation of Federal data 
+creates a platform for super charged AI driven surveillance. 
+While data consolidation sharing could potentially improve 
+governmental operations and limited circumstances, efficiency 
+should not be elevated over robust protection of our privacy, 
+otherwise consolidation could risk the creation of vast and 
+unaccountable surveillance platform, capable of tracking 
+citizens' activities, movements, and associations. Such a 
+platform would be readily analyzable by large language models, 
+machine learning, and other AI systems such as black box 
+fleecing algorithms used by Federal law enforcement to ingest 
+governmental data and predict who is likely to commit crimes.
+    Data consolidation could lead to biometric information 
+gathered by Federal law enforcement or during air travel, being 
+readily accessible by other agencies. Records related to 
+firearms might be accessible across the Federal Government and 
+IRS data reflecting contributions to organizations like the 
+ACLU, the NAACP, the NRA, or The Heritage Foundation could be 
+accessible to Federal law enforcement without meaningful 
+process. It is essential for Congress to block the reaction of 
+centralized government dossiers on each of us.
+    Thank you for the opportunity to testify before this 
+Subcommittee and I look forward to your questions.
+    [The prepared statement of Mr. Venzke follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Biggs. Thank you, Mr. Venzke.
+    Now, Mr. Redbord, you are recognized for five minutes.
+
+                    STATEMENT OF ARI REDBORD
+
+    Mr. Redbord. Chair Biggs, Ranking Member McBath, the 
+Members of the Subcommittee, my name is Ari Redbord and it is 
+an honor to appear before you today on behalf of TRM Labs, 
+where we work every day with law enforcement, financial 
+institutions, and national security agencies to detect, 
+investigate, and prevent illicit activity in the digital asset 
+ecosystem.
+    Before joining TRM I spent about 11 years as a Federal 
+prosecutor at the U.S. Department of Justice and later as an 
+official in the U.S. Treasury Department's Office of Terrorism 
+and Financial Intelligence.
+    In those roles and now at TRM I've seen one truth borne out 
+time and time again: Criminals are often the earliest adopters 
+of transformative technology. They were among the first to 
+weaponize automobiles to move illicit goods across State lines, 
+adopt pagers and cell phones to coordinate narcotics networks, 
+utilize encrypted messaging apps to evade surveillance, and 
+exploit cryptocurrencies to steal and transfer illicit proceeds 
+at the speed of the internet. Now they are embracing artificial 
+intelligence.
+    We are rapidly approaching a world in which the bottleneck 
+for crime is no longer human coordination, but computational 
+power. When the marginal cost of launching a scam, phishing 
+campaign, or extortion attempt approaches zero, the volume of 
+attacks, and their complexity will increase exponentially.
+    We are not just seeing more of the same. We are seeing new 
+types of threats that weren't possible before AI, novel fraud 
+typologies, hyper-personalized scams, deepfake extortion, and 
+autonomous laundering. The entire criminal ecosystem is 
+shifting. That is why today's hearing matters.
+    We must recognize that in the same way criminals are 
+leveraging AI to disrupt and deceive law enforcement and 
+national security agencies must be empowered to use AI to 
+defend and respond. This is not optional. It is foundational to 
+preserve public trust and the social contract itself. If 
+adversaries are deploying large-scale AI-enabled crime with 
+impunity, and if the public no longer feels that government can 
+protect them, we risk a breakdown of that trust. The 
+consequences are not just individual harms; they are systemic 
+national security-level threats to our institutions and civic 
+cohesion.
+    At TRM we see this shift every day. Through Chainabuse, our 
+public scam reporting platform, we've tracked a 456-percent 
+rise in AI-enabled scams, which often use deepfake technology, 
+just in the last year. Ransomware actors are using AI to draft 
+realistic phishing emails, identify vulnerable targets, and 
+deploy malware that adapts to evade detection.
+    On the laundering side we are seeing bad actors use AI to 
+automate and accelerate illicit money flows. We are also seeing 
+fully autonomous fraud agents scraping personal data, launching 
+scam campaigns, and even coordinating laundering operations. 
+The most disturbing, we're seeing AI used to generate synthetic 
+child sexual abuse material, fake, but deeply harmful content 
+traded online and weaponized in sextortion schemes.
+    The solution to the criminal abuse of AI is not to ban or 
+stifle the technology; it is to use it and use it wisely. We 
+must stay a step ahead of illicit actors by leveraging the same 
+innovations they use for bad, for good.
+    At TRM we integrate AI at every layer of our platform to 
+combat crime using machine learning models and behavioral 
+analytics to flag complex obfuscation techniques, trace illicit 
+cryptocurrency transactions in real time, and identify emerging 
+criminal typologies.
+    We are developing and deploying AI-powered defense agents 
+at scale to map illicit networks, triage threats, and surface 
+early warning signs. These operational tools are already being 
+used in the field to help global law enforcement agencies move 
+faster, trace complex laundering schemes, and target the 
+highest-risk activity, often stopping criminal networks in 
+their tracks before they can cause further harm.
+    The future of crime will be defined by AI, but so will the 
+future of enforcement. With the right investment, 
+collaboration, and technology we can meet this moment. Thank 
+you again for the opportunity to testify and I look forward to 
+your questions.
+    [The prepared statement of Mr. Redbord follows:]
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Biggs. Thank you so much. I appreciate all of you and 
+your testimony and very, very interesting. I hope we can get to 
+some deep substance on it today.
+    I now recognize the gentleman from North Carolina, Mr. 
+Knott, for five minutes.
+    Mr. Knott. Thank you, Mr. Chair.
+    To the witnesses, thank you for coming to testify today. 
+This is sort of a novel topic, but as each of you have stated 
+clearly, this is a very important topic and development around 
+the blockchain technology, AI technology, it is something that 
+it is only going to become more prevalent and more dominant in 
+just about every area of our life. That is true here in 
+America; that is true overseas. It is going to be one of those 
+paramount moments that is going to be formative. Where were you 
+before? Where were you after?
+    To that end, as a former prosecutor myself, when I was 
+prosecuting, I came on at the very end of the AI-free crime. I 
+started to see how blockchain and cryptocurrencies and 
+artificial intelligence was infiltrating every area of the 
+criminal world.
+    To that end, Mr. Redbord, as the use of AI and blockchain 
+technology becomes more common and it becomes more integrated 
+in every avenue, there is obviously access from domestic actors 
+that are criminal and international actors. There is really no 
+border that is recognized. How does that impact the criminal 
+infrastructure as it were when you look at domestic versus 
+international crime and that relationship?
+    Mr. Redbord. Thank you so much for the question. Yes, I 
+feel like you would uniquely understand this as a former AUSA 
+as well. We both prosecuted cases in a world where there were 
+networks of shell companies and hawalas in high-value art and 
+real eState used to launder funds. Today, as criminal actors 
+are looking to blockchains and cryptocurrencies we can trace 
+every transaction on an open public ledger, right? There's no 
+more bulk cash smuggling. There's TRM to track and trace the 
+flow of funds.
+    I think what we see right now is this really interesting 
+convergence between AI crime, as we're going to discuss today, 
+and crypto. Really primarily crypto is often the means of value 
+transfer in these different crimes, right? You see these 
+deepfake scams where they are scams trying to get 
+cryptocurrency from investors or users. They are ransomware 
+actors who are supercharging attacks where cryptocurrency is 
+the payment.
+    The significant difference now as we're investigating 
+crimes as prosecutors and law enforcement is that we can trace 
+and track every one of those payments on open public ledgers 
+which allow us to do financial crime investigation, really, 
+better than we've ever done it before.
+    Mr. Knott. Is there the ability as you see it to pinpoint 
+with specificity criminal activity and, I would say more 
+importantly, going back to the trust that we need in law 
+enforcement, pinpointing criminal actors? Because it is such a 
+foggy space for many people. Can you pinpoint the actual 
+criminal as opposed to just criminal activity?
+    Mr. Redbord. It's a great question, and absolutely in many 
+circumstances. What we're doing essentially at TRM is we're 
+taking that raw blockchain data, right, those alphanumeric 
+addresses, those crypto wallets, and we're associating them 
+with real world entities. Oftentimes it's terrorist financiers, 
+ransomware actors, and sanctions, for example. That allows law 
+enforcement to then take that data and track and trace the flow 
+of funds to build out networks.
+    Mr. Knott. Is there--
+    Mr. Redbord. Cartels are a great example of that today. I'm 
+sorry.
+    Mr. Knott. Is there a risk that cartels, terrorist states 
+could use legitimate constructs on the blockchain that are 
+developed here in the United States for their own benefit, 
+therefore taking advantage of a legitimate structure or a 
+legitimate software that is developed here?
+    Mr. Redbord. Absolutely. The real challenge for regulators 
+and policymakers is how to ensure that lawful users have access 
+to those types of tools and yet stop bad actors from using 
+them. To me the answer the U.S. Treasury Department over the 
+last few years has done a pretty good job on this--target the 
+bad actors: The North Korean cyber criminals, the ransomware 
+actors, and the scammers, as opposed to necessarily the lawful 
+services that they're using.
+    Mr. Knott. Is there a risk if we are too zealous in the 
+prosecution? As a prosecutor I am all for strong law 
+enforcement, but if we are too aggressive on the front end as 
+this technology is developing, could we stifle domestic 
+innovation here at home if we are too aggressive in 
+prosecuting?
+    Mr. Redbord. Absolutely. It is critical that we continue to 
+focus on the bad actors in this space which will allow the 
+lawful ecosystem to grow as opposed to the lawful services that 
+are being used by bad actors. Absolutely, really the key to all 
+of this is to stop bad actors from leveraging the technology to 
+allow this industry and this technology to grow.
+    Mr. Knott. Then briefly, what can we do in Congress to 
+ensure that law enforcement has the resources to target the bad 
+actors with specificity?
+    Mr. Redbord. That's exactly right. Today what we really 
+have across the U.S. Government is a cadre of law enforcement 
+agents that are really true experts, power users of blockchain 
+intelligence tools. What we really need is that cadre to grow 
+significantly. As bad actors are leveraging AI, as they're 
+leveraging blockchain technology, every Federal agent should 
+have access to tools and the training necessary to sort of meet 
+this new moment from a technology perspective.
+    Mr. Knott. Sir, thank you.
+    Mr. Redbord. Thank you.
+    Mr. Knott. Other Members, I ran out of time, Mr. Chair. I 
+yield back.
+    Mr. Biggs. Thank you. Without objection, I propose that we 
+have a second round of questions. Seeing none, we will proceed 
+in that fashion.
+    Now, I recognize the Ranking Member, Ms. McBath.
+    Ms. McBath. Thank you, Mr. Chair. I just have to say that--
+and just in listening to each and every one of the witnesses, I 
+am just really amazed at the depth of the use, criminal usage 
+of AI. Really thank you so much for what you brought to the 
+table today, but I do want to talk a little bit about facial 
+recognition.
+    The Detroit Police Department reportedly conducted 129 
+facial recognition searches in 2020, and all on African 
+American people. The following year 95.6 percent of the 
+searches targeted Black people.
+    Mr. Venzke, how does the use of AI-enabled facial 
+recognition comply with the Fourth Amendment's equal protection 
+principles?
+    Mr. Venzke. It raises serious concerns. As far as I know 
+there's not been a clear holding that equal protection 
+principles are violated by the use of facial recognition 
+technology, but it certainly raises those concerns because of 
+the disproportionate impact we've seen that technology have on 
+protected classes, particularly as you said, Black people, and 
+in particular Black men.
+    We've also engaged in civil rights litigation to defend 
+individuals who have been wrongly identified by facial 
+recognition technology. To a large extent this is a matter of 
+process, ensuring that police departments have appropriate 
+processes in place so that there isn't reliance solely on an 
+identification made by facial recognition technology to bring 
+in a suspect that there isn't bias in lineups and things of 
+that nature.
+    Because of the certain threats that we've seen here and the 
+ways that the technology can struggle in real world conditions 
+we have long stood by that there needs to be a moratorium for 
+law enforcement uses of facial recognition Thank you.
+    Ms. McBath. Thank you for that. This is just so interesting 
+you should say that because even on my phone I have facial 
+recognition and sometimes it says I don't recognize you and I 
+am like, well, you know who I am. Of course, there are still 
+problems with AI and the technology still needs to be advanced.
+    Mr. Venzke, I am going to ask you another question: What 
+warrant requirements and limitations should be applied for 
+facial recognition tools when they are used by law enforcement?
+    Mr. Venzke. Well, as I said, our overall stance is that law 
+enforcement should not be deploying the technology at all 
+because of the underlying foundational issues of how it can 
+struggle with a variety of protected classes and correctly 
+identifying people, especially in real world conditions where 
+lighting may not be ideal or the surveillance footage may be 
+grainy. That can result in someone who's 8 months pregnant 
+being apprehended for a crime where there clearly was not a 
+pregnant person involved.
+    The use of facial recognition technology may not 
+necessarily implicate the Fourth Amendment, but as I said, it 
+raises very serious concerns about perpetual surveillance, the 
+ability of the Federal Government to identify individuals in 
+public spaces going about their daily lives without any 
+recourse, without any judicial oversight. That is ultimately a 
+policy question for legislators, city councils, and Congress to 
+step up and regulate.
+    Ms. McBath. Thank you for that. Dr. Bowne, in your 
+experience have you find that AI-enabled tools used by law 
+enforcement are tested and evaluated before they are deployed 
+to ensure that they are safe and effective?
+    Dr. Bowne. In my experience in law enforcement, as a 
+prosecutor, recently as a supervising prosector the tools that 
+are being used are certainly going to depend on the 
+jurisdiction that's using them. States, counties, certainly 
+Federal Government, from my experience in the Department of the 
+Air Force, law enforcement organizations that are starting to 
+use these tools are relatively new users.
+    In the Air Force any AI tool is supposed to go through 
+rigorous testing and evaluation standards to ensure that it 
+results in a certain quantified reliability. That's very 
+challenging to do with some of these tools, particularly when 
+you're talking about edge cases like African American men when 
+they are not found frequently in data sets. Those questions are 
+being asked.
+    I don't see in my experience the type of rigorous standards 
+established across the board by regulators. Until that happens 
+law enforcement is going to try to keep up. It's tempting to do 
+that, but there's likely to be some gaps there.
+    Ms. McBath. Thank you.
+    Mr. Biggs. Thank you. The gentlelady yields. I now 
+recognize the gentlelady from Florida, Ms. Lee, for five 
+minutes.
+    Ms. Lee. Thank you, Mr. Chair.
+    Welcome to our witnesses today. As a Member of the House's 
+Bipartisan Task Force on Artificial Intelligence I had the 
+opportunity to work with Members on both sides of the aisle to 
+discuss a national approach to artificial intelligence that 
+would encourage innovation, strengthen our global leadership, 
+and also confront serious threats including those like you have 
+been discussing here today that involve criminal misuse of this 
+technology.
+    Today's hearing, among other things, highlights one of the 
+most urgent of those threats, which is the exploitation of 
+children through AI, from synthetic child abuse materials to 
+predatory chatbots, to real time location spoofing, we are 
+seeing criminals use AI to expand both the scale and 
+sophistication of their crimes. AI can also, we know, be part 
+of the solution. In cases like Operation Renewed Hope AI helped 
+Federal agents identify and rescue minor victims who might 
+otherwise have never been found.
+    One of the things that we are interested in doing is 
+ensuring that law enforcement, child protection, nonprofits, 
+and trusted partners in the private sector have access to 
+effective responsible AI tools and the legal clarity to use 
+them. It is about stopping criminals, saving lives, protecting 
+children, and ensuring that we are doing our part to help 
+technology be a force for good.
+    On that subject, Ms. Perumal, I would like to followup with 
+you. I would like to know what would you recommend Congress 
+prioritize, to better equip law enforcement with the tools they 
+need to stay ahead of AI-enabled threats?
+    Ms. Perumal. Thank you so much for the question. I think a 
+few things come to mind. One is strengthening public and 
+private partnerships. The more that we have the opportunity to 
+share information across industry and government, and the 
+threats we're seeing, it is incredibly helpful.
+    Making it easier to share technology and share the 
+innovation--frankly, it can sometimes be difficult, especially 
+as small business are trying to figure out how to share that 
+technology, which makes a delay. As you have a new way that we 
+can maybe find something like trafficking or better detect AI-
+generated harm, it can be difficult to then deploy that. I 
+think anything that is to improve that public-private 
+partnership would be incredibly helpful.
+    Ms. Lee. Are there specific legislative or funding 
+priorities that you or your clients have identified that you 
+think would be impactful?
+    Ms. Perumal. Yes, few things that we see with our clients. 
+One is there's a big challenge to identity in terms of online 
+identity. The AI-generated agents can more explicitly scrape, 
+use websites for fraud. Then on the other side you also see 
+things like ID fraud where people are using this to hide their 
+identity and commit online crimes.
+    That's an area that the industry is generally trying to 
+adapt and respond to because that's how so much of fraud and 
+scams and extortion has been carried out.
+    Another thing that comes to mind is to the earlier point on 
+innovation, if it's easier to share and collaborate, that would 
+be incredibly helpful for us in the private sector.
+    Ms. Lee. I would like to go back to you, Mr. Redbord. You 
+said something in your remarks that I thought was really 
+interesting, that AI is also the future of enforcement. I 
+believe your words were invest, collaborate, and we can be more 
+effective.
+    I would like to hear in your view what are the most urgent 
+risks posed by AI to national security and public safety and 
+what would you like to add about what we can be doing in 
+Congress?
+    Mr. Redbord. Absolutely. Thank you for the question. Really 
+what we see AI doing today is supercharging criminal activity 
+that we've seen exist for some time. Now, you don't need 
+ransomware affiliates because you can have AI agents that are 
+automatically deploying malware. We're seeing cyber-attacks at 
+scale by Norther Korea and other types of cyber actors. Then 
+we're seeing the laundering of the funds that are stolen move 
+faster than ever before.
+    As I mentioned in my testimony we've seen a 456-percent 
+increase from last year in scam activity involving AI. We have 
+to move as fast as the criminals. When we think about these 
+issues at TRM, it's how can we move faster? How can we us AI 
+the same way they're moving funds to track and trace those 
+funds to ultimately seize them back?
+    It's--when you ask, it's the tools and the training to 
+ensure that every single law enforcement and national security 
+professional have access to the same tools that many cyber 
+criminals are using today, and obviously the funding necessary 
+to support that as well as the training.
+    Ms. Lee. Thank you. Mr. Chair, I yield back.
+    Mr. Biggs. The gentlelady yields back. I recognize myself 
+for five minutes. I appreciate the testimony that we have had.
+    I had a different line of questions for the next round, but 
+things you have said in your testimony and what I have heard in 
+the first round makes me want to ask some specific areas.
+    You don't have a lot of time to respond, so I am going to 
+ask because I want a quick response from every one of you.
+    One of you mentioned the ELVIS Act in Tennessee, which 
+prohibits the simulation of Elvis' voice, basically. That is 
+how that generated. What about any other person? I am thinking 
+what if there is a deepfake of any other public figure and you 
+have that person say something that is pernicious, something 
+that is bad, something that is politically inflammatory, 
+whatever, do we have laws in place that would prohibit that or 
+it's just the Wild, Wild West?
+    We will start with you, Mr. Redbord.
+    Mr. Redbord. Slightly more broadly, I would say that we 
+have laws in place that absolutely cover a lot of these areas, 
+but we are going to need to add AI to a lot of them. When I 
+think about these issues, for example, when you talk about 
+these types of scam activity that are being supercharged by AI, 
+we have wire fraud statutes to address them.
+    Mr. Biggs. Right, right. We will get into that, too, but I 
+am talking specific. This is a specific case. Let's say you 
+have a public figure and you have them say something that is 
+totally outrageous, it is totally deepfaked. You can't tell. 
+The average person can't tell. If that person was--if that 
+language is attributed to that person elsewhere, you might have 
+libel. You might have civil claim of libel or defamation of 
+character, something like that. Does that in your opinion exist 
+when someone manipulates a deepfake to do something like that?
+    Mr. Redbord. It would require adding additive measures to 
+what we have today.
+    Mr. Biggs. Mr. Venzke?
+    Mr. Venzke. That sort of speech lies at the core of the 
+First Amendment's protections. It's a commentary on 
+politicians. For example, when the--
+    Mr. Biggs. If it is not commentary on politicians. Let's 
+say with maliciousness. Maliciousness? With malice. That is the 
+word I am looking for. With malice you say that Andy Biggs said 
+X, Y, this. It is just horrible. You put it in The New York 
+Times and you did it because you wanted to harm me.
+    Mr. Venzke. If you take, for example, the Republican 
+National Committee's deepfake about President Biden announcing 
+a draft for Ukraine, that is commentary on public events. Of 
+course, existing exceptions to the First Amendment still apply 
+to AI. That means--
+    Mr. Biggs. That is what I want to get at. That is what I 
+wanted to hear from you, whether something like a defamation, 
+like--
+    Mr. Venzke. Yes, defamation is subject to--
+    Mr. Biggs. --which is why I specifically used The New 
+York Times.
+    Mr. Venzke. That's exactly right.
+    Mr. Biggs. Ms. Perumal, same question?
+    Ms. Perumal. Yes, I am not super familiar with the legal 
+side, so I can talk more the technology, but I do see that it 
+is challenging, detection on it.
+    Mr. Biggs. Right. Thanks. Dr. Bowne?
+    Dr. Bowne. There's this inherent friction that we see. I 
+agree with both Mr. Redbord and Mr. Venzke, that what you 
+described, sir, is likely protected under the First Amendment. 
+You have--
+    Mr. Biggs. Unless there is malice.
+    Dr. Bowne. With malice. Now, there's legal protection 
+certainly from a civil right of action if it were to be--
+    Mr. Biggs. Let's not to interrupt. I don't want to be rude 
+to interrupt, but I do want to interrupt. What my question is--
+let's expand it. A true deepfake is so persuasive you can't 
+tell the difference side-by-side of me over here and the 
+deepfake. We have had examples of parents and grandparents. 
+They can't tell the difference between the deepfake and the 
+voice of the kid. They look the same. They act the same. They 
+are remarkable. Now, do I have protection, for instance, from 
+someone doing that?
+    This is going to lead into the CSAM, which I was hoping I 
+would have enough time to get to that, because it is the same 
+type of deal where you see CSAM, which is so persuasive and 
+sick and disgusting. That is all AI-generated. You mentioned 
+the one of the Ukraine thing. What remedy does someone have 
+when they are a victim of this kind of generative AI?
+    Dr. Bowne. Mr. Chair, if it were to fall under the statute 
+of like wire fraud--so you look at the intent of what's behind 
+it. Those are protections there. If it's to create 
+misinformation, you certainly articulated the challenge and the 
+potential harm, that may not be outside of the law. There are 
+gaps in protection when you're facilitating particularly 
+harmful activity using deepfakes.
+    Mr. Biggs. Yes, thank you. We will be talking about that in 
+the future.
+    That ends the first round of questioning and now for the 
+second round of questioning I recognize the gentleman from 
+North Carolina, Mr. Knott.
+    Mr. Knott. Thank you, Mr. Chair. I have got to say I am 
+happy to have a second round so soon. I wished more Members 
+would show up because this is important, but selfishly I am 
+enjoying the conversation.
+    All of you have basically indicated what was stated either 
+directly or indirectly that computational power and ability 
+will dictate sort of the new criminal landscape. Obviously, AI 
+will supercharge this. The landscape is going to be forever 
+changed. I want to ask each of you, how far are we from having 
+autonomous criminal behavior?
+    Doctor, start with you. Go in order down the line.
+    Dr. Bowne. Those are fantastic questions.
+    Mr. Knott. Thank you.
+    Dr. Bowne. My assessment is we're there. We have plenty of 
+autonomously certainly, from a bad actor that is using AI and 
+using the autonomous features of those models to perpetuate 
+crimes we're certainly there. The scale, the sophistication, 
+and the speed that are created by using AI-enabled models, 
+certainly, from committing scams at scale, targeting 
+personally, finding cyber vulnerabilities, that is all 
+happening already.
+    Ms. Perumal. Yes, I agree. We're definitely seeing that 
+now. It's the beginning of what's happening. It's being used 
+for more simple crimes. We see different uses. You might think 
+of simple bots that text people and send us these annoying scam 
+text messages. Those are using AI and automate by pulling 
+breached or leaked data about you. Then, similarly with 
+computer-use agents, they're starting to be filling out forms. 
+There's a large opportunity for those to get much more 
+sophisticated.
+    Mr. Venzke. Relatedly on the civil side, we're seeing rapid 
+advancement of artificial intelligence that's used to make 
+decisions about who can get a loan, who has access to house, 
+and things of that nature. Often in many cases that will output 
+a score that humans are largely deferring to. Artificial 
+intelligence has reached the point where it is having an 
+outsized effect on our lives, not just because of criminal 
+activity, but because it affects so many important sectors as 
+well.
+    Mr. Knott. Yes.
+    Mr. Redbord. Thank you for the question. We are there 
+today, but AI is not dominating criminal activity. That's in 
+large part why this hearing is so important at this moment, to 
+start having this conversation. This is really why at TRM over 
+the last year or so we have focused a lot of our attention. 
+Particularly how can we build AI tools that enable us to move 
+faster? Because while we're not there yet, we're getting very, 
+very close.
+    Mr. Knott. What is going to be required to make it 
+responsive to the threat?
+    Mr. Redbord. That's exactly right.
+    Mr. Knott. What will be required? I am asking, like--
+    Mr. Redbord. Oh, sorry.
+    Mr. Knott. --in terms of capacity, in terms of private 
+sector investment, in terms of public investment? Give me a 
+broad picture of what's going to be needed.
+    Mr. Redbord. It's all of it. I know public-private 
+partnerships were talked about. It's often this sort of this 
+right way as something to discuss. Really what it has to be is 
+the private sector building the tools that government can 
+ultimately leverage to move as fast as the cyber criminals.
+    Mr. Knott. In your opinion is the law lagging this new 
+frontier or are the existing criminal laws sufficient to 
+protect the marketplace and victims like Mr. Biggs talked 
+about?
+    Mr. Redbord. It'll absolutely be a combination of both. It 
+will be important when you talk about CSAM, which I know we'll 
+focus on, on ensuring that the Federal sentencing guidelines 
+meet the AI moment for that. We will have a need for AI-
+specific laws, but I will say that a lot of the laws we have 
+today: Wire fraud, bank fraud, those types of laws, these types 
+of disinformation investigations, certainly will include AI.
+    Mr. Knott. Jurisdictionally how do you see AI factoring 
+into content actions, vehicles designed overseas that penetrate 
+into the American market? How do we protect against that in a 
+jurisprudence sense?
+    Mr. Redbord. It's a challenge. The nature of crypto, the 
+nature of AI, and the nature of technology, is global and 
+cross-border. In large part we want to make sure that the 
+innovation is happening here. That's why it's so important that 
+as we have these conversations we're walking that line between 
+stopping bad actors but not stifling innovation in this 
+critical moment. Just like the internet was born and created in 
+the United States we need to ensure that is true for AI 
+technology as well.
+    Mr. Venzke. If I may add to that representative, as we 
+think about ways that existing legal frameworks need to adapt 
+to this rapidly evolving challenge, a multijurisdictional 
+approach is the right approach, not just at the Federal level, 
+but also internationally, and of course with States. We've 
+talked a little bit about the moratorium that was included in 
+versions of the reconciliation package. The House did exempt 
+criminal laws. Often, in many cases, civil penalties will be a 
+necessary complement, for example, in addressing nonconsensual 
+imagery at high schools--
+    Mr. Knott. One more question for the panel really quick. 
+What can parents do to protect their children from this type of 
+landscape?
+    Dr. Bowne. As a parent myself, education on the risk is 
+certainly important. That's something that the public sector 
+can lead on, law enforcement can lead on, similar to drugs and 
+tobacco. The risk of AI, whether it's for scams, whether it's 
+for CSAM, whatever harms, they really impact children as well.
+    Ms. Perumal. I definitely agree. Especially for the CSAM 
+harms, giving their children awareness that something like this 
+might happen to you, it might have nothing to do with anything 
+you did and here's how you can reach out. Sharing that 
+awareness because they target the fact that people feel shame 
+when they have no reason to. I think that would be really 
+helpful.
+    Mr. Knott. Thank you.
+    Mr. Venzke. As a former teacher parents are an integral 
+part in helping kids navigate the world, and education and 
+talking with kids about the new risks that are emerging are 
+critical.
+    Mr. Knott. Thank you.
+    Mr. Redbord. Education is absolutely critical. As a parent 
+of middle school and high school-aged kids I appreciate this. 
+One more point that I do think is important here though is that 
+we need to ensure that they also know how to leverage it, not 
+that they're just afraid of it.
+    Mr. Knott. Sure.
+    Mr. Redbord. Their success in large part and in the rest of 
+their life will depend on their ability to leverage and engage 
+with this technology. It's absolutely so critical that on the 
+one hand we protect them against the bad harms, but also ensure 
+that they're really able to use it and leverage it.
+    Mr. Knott. Absolutely. Thank you. Mr. Chair, I yield back.
+    Mr. Biggs. Thank you. The gentleman yields. We now 
+recognize now the Ranking Member, Ms. McBath.
+    Ms. McBath. Thank you, Mr. Chair. Once again, as you can 
+see, we are quite alarmed as to what we are hearing today, so 
+thank you very much.
+    I want to go back and touch on what the Chair was just 
+asking, the question that he asked about. In specific, I would 
+just--each of you, if you can just tell us in a nutshell that 
+you are expressing to us that there are gaps. There are gaps in 
+legislation. There are gaps in things that we need to do here 
+in Congress to make sure that there are protections that are 
+enforcing and preventing these kinds of deepfakes and all that 
+we are talking about today.
+    Can you give us an idea? Tell us what kinds of legislation 
+are going to be extremely important for us to put in place to 
+prevent these kinds of gaps that you just expressed to us that 
+there are today?
+    Dr. Bowne, could you start, please?
+    Dr. Bowne. Yes, ma'am. One of the gaps may be closed soon. 
+H.R. 1283, which was introduced by this Committee would amend 
+Title 18 of the U.S.C. 2252(a), which is the statute that 
+covers child pornography and CSAM. The bill is intended to 
+amend that statute to include AI-generated CSAM within the 
+definition and coverage under that criminal statute. There is 
+the Title 18, the criminal statutes that may need to be amended 
+both in content on what is covered, what is criminalized, but 
+also potentially in the sentencing guidelines, as Mr. Redbord 
+mentioned.
+    Then, as the Chair explained and in his question there is a 
+gap as well on the civil side that there might not be a cause 
+of action for that noncriminal, because even that amendment 
+that's proposed in H.R. 1283 still has to be constitutional. 
+There are First Amendment protections even on things that would 
+normally be objectionable.
+    Ms. McBath. OK. Thank you. Mr. Redbord, please?
+    Mr. Redbord. Thank you very much. I provided about five 
+suggestions in my written testimony, but I'll just focus on one 
+for purposes of this answer.
+    It is absolutely critical that agencies at every level have 
+access to modern investigative capabilities including the 
+blockchain analytics platforms integrated with AI, media 
+authentication tools, as we talked about, and AI-enabled 
+investigative tools. Congress should allocate dedicated funding 
+to these tools along with specialized training programs.
+    Ms. McBath. Thank you. Mr. Venzke?
+    Mr. Venzke. I think awareness of, first, where existing law 
+can apply to criminal activity is critical in navigating this 
+space. For example, 2258(a) has been extended and prosecutions 
+have been brought for simulated CSAM material created regarding 
+a specific identifiable child using AI technology. I agree with 
+Mr. Redbord that education, providing training, defense, and 
+funding for critical infrastructure for schools and others to 
+educate students and other vulnerable populations about the 
+threats of AI will be key, and to shore up their own 
+cybersecurity infrastructure.
+    Ms. McBath. Mr. Venzke, I want to go back to something that 
+you did touch on though. You did touch on the moratorium on 
+State and local AI, which actually failed. That last attempt 
+failed. The Republican Chair of the House Energy and Commerce 
+Committee has already vowed to continue to pursue it even as 
+they acknowledge that Federal legislation setting standards on 
+AI is still years away.
+    As we work to develop that legislation what principles or 
+proposals should we consider?
+    Mr. Venzke. One thing I would look to, and Representative 
+Lee already referenced it, was the House AI Task Force final 
+report from the last Congress. That was a thoughtful sort of 
+compendium of the various issues around AI regulation at the 
+Federal level. It recognized that preemption particularly is a 
+sensitive issue. It doesn't need to be all or nothing, that 
+there is a range of tools that can be used in adjusting what is 
+the appropriate area for preemption? What is the program amount 
+of preemption to ensure that States have significant latitude 
+to address these harms in a timely manner, which of course is 
+beneficial for Congress as this Committee looks at what works 
+and what does not.
+    Ms. McBath. OK. Thank you. One last question. Dr. Bowne, 
+how can public agencies use the procurement process to ensure 
+that the AI systems they want to acquire are safe and 
+effective?
+    Dr. Bowne. They certainly articulate what the problem is 
+and what the need to create a demand signal for private 
+industries, for R&D, for academia to do the research that is 
+needed. The procurement system is a fantastic way for Federal 
+agencies or State agencies to ensure that the standards are 
+being met and that the capabilities are there and are being 
+focused on in the development and the research in the public 
+sector--or in the private sector and in academia.
+    Ms. McBath. Thank you. Mr. Chair, I have a unanimous 
+consent request to enter into the record, a statement from 
+Barry Friedman, Faculty Director of the Policing Project at New 
+York University School of Law, dated July 16, 2025. Also, 
+entering into the record a statement for record dated July 16, 
+2025, from Public Citizen regarding the growing threat of 
+criminal exploitation through AI. Last, but not least, a 
+unanimous consent to enter into the record a statement from 
+Keith Kupferschmid, Chief Executive Officer of the Copyright 
+Alliance, dated June 13, 2025.
+    [The information referred to follows:]
+    Mr. Biggs. Without objection.
+    Ms. McBath. Thank you. I yield.
+    Mr. Biggs. Thank you. The Chair now recognizes the 
+gentleman from California, Mr. Kiley, for his five minutes.
+    Mr. Kiley. Thank you, Mr. Chair, for calling this hearing. 
+It is a hugely important topic. We have often seen this arms 
+race develop between criminals and law enforcement when it 
+comes to the use of technology where criminals innovate and law 
+enforcement has to innovate in turn. It is a matter of just 
+trying to sort of keep up.
+    With AI it is a totally different ball game in the sense 
+that the development of new capabilities is happening so 
+quickly, and the nature of those capabilities is often emergent 
+and surprises even the people who train the systems. The ways 
+in which they are being applied is equally unpredictable.
+    To me it seems that integrating AI into law enforcement 
+operations, is not just a tool at this point; it is absolutely 
+essential. It is a tremendous challenge and requires a lot of 
+expertise. It seems to me that we need to be thinking very 
+seriously about how we can have coordination and how we can 
+make cutting-edge tools available to law enforcement across the 
+country.
+    I wanted to ask both Mr. Redbord and Ms. Perumal, if I am 
+saying that correctly, about your thoughts on this. I know that 
+you have a law enforcement background. I know that you actually 
+worked at Google, and I believe it was just a couple days ago 
+that Google announced that its cybersecurity AI platform for 
+the first time detected and defeated a software vulnerability 
+in the wild that was known to malevolent actors. Maybe if you 
+could both address the role of the public and private sector in 
+meeting this challenge.
+    Mr. Redbord. Thank you so much for the question. It's 
+absolutely critical that the public and private sector work 
+together on this as the question noted.
+    Look, every Federal law enforcement agency in the U.S. 
+today is using tools like TRM to track and trace the flow of 
+funds, to automate tracing when it comes to cryptocurrency, to 
+leverage AI tools in that respect. The reality is that it's 
+still a handful of investigators that have this expertise and 
+training.
+    As we move from crime on city streets to crime on 
+blockchains and in cyberspace we're going to need every agent 
+and investigator, not just Federal, but State and local to have 
+access to these types of tools and training. As you mentioned, 
+cyber criminals are now using this more and more and will 
+eventually be using this at scale. Every agent investigator who 
+is investigating these cases, tracking them, needs to be moving 
+as quickly. I would say tools and training primarily.
+    Then the other piece is really true public-private 
+partnership where FBI and IRS-CI and HSI and others are working 
+closely with the private sector to share information to move as 
+quickly as possible.
+    Mr. Kiley. Thanks very much.
+    Ms. Perumal. Thank you for the question. I love that you're 
+following the vulnerability discovery. That's awesome.
+    To your point the criminal ecosystem is using this to scale 
+their offense. We have to use it to scale our defense and make 
+that more effective if we're going to keep up. There's a lot of 
+ways we can do that, from better detecting malware, to better 
+understanding the tools and tactics they're using, better 
+detecting the scam messages. If we can enable, as I said, the 
+public-private partnerships, which we keep repeating and if we 
+can make it easier and much faster to adapt as the criminal 
+ecosystems adapts, that makes us a lot more effective.
+    There are so many opportunities. Even if you think about 
+all the reports of scams that maybe we already have access to 
+or law enforcement has access to, if we can just go through 
+that data and find the trends, using AI to speed up and scale 
+investigations is a way that we can really keep pace with the 
+criminal ecosystem.
+    Mr. Redbord. One more thing I would add to that, 
+historically, I was a prosecutor for a long time, we 
+investigate specific cases, right? There's an instance of crime 
+and we need to investigate that specific case. What this 
+technology really allows us to do is build out networks, to 
+understand crime typologies, to understand where the threat 
+actors are, and how they are engaging and what they would 
+potentially do next. Really, it's an extraordinary moment when 
+it comes to not just law enforcement, but how to disrupt 
+adversaries from a national security perspective.
+    What this technology--and I think you got to this in your 
+question--really enables is not just the one-off harm that's 
+been done to an individual, but how do we build out networks of 
+cartels, fentanyl dealers, and scam networks in Southeast Asia 
+and elsewhere? This technology I guess connected to blockchain 
+intelligence, really allows us to do a lot of that today.
+    Mr. Kiley. Interesting. You can address crime much more 
+systematically in a more efficient way and more preemptively?
+    Mr. Redbord. We even see that today in the actions that are 
+coming from the U.S. Treasury and Department of Justice where 
+they're going after networks. They're doing civil forfeitures. 
+There was a very large civil forfeiture complaint filed about 2 
+weeks by the U.S. Attorney's Office in D.C., against $225 
+million involved in pig butchering scams. It was a network. 
+We're seeing them use it today.
+    Mr. Kiley. Very interesting. Thanks very much. Mr. Chair, 
+it seems there is a role perhaps for us to play in supporting 
+these public-private partnerships and in facilitating the 
+training and access to this knowledge and these resources in 
+law enforcement across the country. I yield back.
+    Mr. Biggs. Thank you. The gentleman yields back. I am going 
+to recognize myself for my last five minutes here. I would 
+suggest that as we started off, I said this would be the first 
+of its kind. I meant that we are going to have to keep pushing 
+this.
+    A week--let's see, maybe a week ago Elon Musk announced 
+Grok 4. He talked about artificial intelligence and Grok 4 is 
+going to have the intelligence--it already has beyond a Ph.D., 
+engineering, science, genius, et cetera, an artificial super 
+intelligence.
+    We've touched on it lightly here today using different 
+terms, but my question is at what point do we no longer see 
+computational decisionmaking with a human first mover and you 
+have an algorithmically iterative process that essentially--and 
+we are there in some extent now, but we are not totally there 
+because human interaction is still the first mover. At some 
+point it won't be a human that is the first mover anymore; it 
+will be the algorithm itself.
+    How long before we get there? How do we get there and 
+prevent the crime and provide the deterrence that is necessary? 
+For the hypothetical I give you, how long before adjudicating 
+whether there is probable cause or not for a search warrant or 
+an arrest warrant is merely algorithmically sustained as 
+opposed to having a human make that determination?
+    With that bizarre question but acknowledging that we are 
+actually moving so rapidly that we probably thought by 2050 you 
+would be getting to artificial super intelligence, but it looks 
+like maybe before 2030 you are going to be in artificial super 
+intelligence.
+    Dr. Bowne? Then we will go down the whole panel.
+    Dr. Bowne. Thank you, Mr. Chair. Certainly, a thought-
+provoking exercise. I am glad we are still at the point where 
+it is an exercise, and not reality, but I recognize that we may 
+not be far from there.
+    Before we get to artificial general intelligence, or before 
+we get to certainly artificial super intelligence--and those 
+are still theoretical and not a foregone conclusion--there is 
+this very powerful and very rapidly increasing agentic AI.
+    Mr. Biggs. Yes.
+    Dr. Bowne. We start to see some of what you describe 
+already taking place at, admittedly, lesser extent than what we 
+would if it were true AGI or ASI. We still have algorithms that 
+are making decisions on behalf of humans that are able to do so 
+at speed and often at a skill that it certainly makes it 
+difficult for the human agent to observe and to be a part of. 
+It really depends on how much trust, how much authority we 
+provide those agents, and what those models are; they fine-
+tuned to limit that?
+    I do believe, as you said, Mr. Chair, this is the first of 
+hopefully many having some of those industries, some of those 
+private sector companies describe that so that this 
+Subcommittee and Congress can ensure that they are able to 
+predict and know, and set up those guard rails if necessary to 
+limit what you're concerned about.
+    Mr. Biggs. Ms. Perumal? Since we only have a minute left, 
+each of you get 20 seconds.
+    Ms. Perumal. Thank you. Very interesting question. We see 
+AI agents making simple decisions today. For more complex 
+decisions, as the models can do more complex reasoning in the 
+next few years, it really should come down to how important is 
+the decision, and then what transparency and explainability we 
+can get from the model and how much human oversight is 
+necessary? It really depends on how risky that individual 
+decision is where we should hopefully see it overlap on these 
+autonomous decisions.
+    Mr. Venzke. I'm going to build directly on that. The role 
+of AI is a choice. Laws passed in Texas, the National Security 
+Memorandum that governs national security uses AI, say that 
+certain things are off limits for artificial intelligence.
+    You mentioned probable cause. That strikes me as a core 
+foundational tenet of due process that should probably be truly 
+a human activity. That is the choice that we make of who will 
+be--what will be human, what will be AI, and where will humans 
+be in the loop?
+    Mr. Redbord. I've never seen anything move as fast as this 
+moved in my lifetime. While I don't have a great answer for how 
+long, it's certainly coming. If I could leave this Committee 
+with anything today, it's that we need to move as quickly 
+building the tools, working with this body to provide the right 
+laws there. As an old school prosecutor, I'm happy with judges 
+still making decisions around probable cause, but I do think we 
+really need to ensure that we are using the tools defensively 
+to meet this moment.
+    Mr. Biggs. Great. Thank you all for being here. My time is 
+expired. There is so much more to cover about this. Like I say 
+it is just the first, and hopefully we will get back together 
+soon and continue this.
+    Please feel free to contact me or the Ranking Member. I 
+assume that is OK. She says that is OK. Because we want to have 
+a dialog and see where there are holes, where there are gaps. 
+Let us know. We want to do stuff that is preventive without 
+being constrained, if that is possible. Thank you.
+    With that, we are adjourned.
+    [Whereupon, at 11:30 a.m., the Subcommittee was adjourned.]
+
+    All materials submitted for the record by Members of the 
+Subcommittee on Crime and Federal Government Surveillance can
+be found at: https://docs.house.gov/Committee/Calendar/ByEvent 
+.aspx?EventID=118467.
+
+                             [all]

@@ -1,0 +1,1147 @@
+[House Hearing, 117 Congress]
+[From the U.S. Government Publishing Office]
+
+                         [H.A.S.C. No. 117-93]
+
+                                HEARING
+
+                                   ON
+
+                   NATIONAL DEFENSE AUTHORIZATION ACT
+
+                          FOR FISCAL YEAR 2023
+
+                                  AND
+
+                    OVERSIGHT OF PREVIOUSLY AUTHORIZED 
+                                 PROGRAMS
+
+                               BEFORE THE
+
+                      COMMITTEE ON ARMED SERVICES
+
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED SEVENTEENTH CONGRESS
+
+                             SECOND SESSION
+
+                               __________
+
+                   SUBCOMMITTEE ON CYBER, INNOVATIVE 
+                 TECHNOLOGIES, AND INFORMATION SYSTEMS
+
+                                   ON
+
+                         DEPARTMENT OF DEFENSE
+
+                    INFORMATION TECHNOLOGY, DIGITAL
+
+                     DEVELOPMENTS, AND ARTIFICIAL 
+
+                     INTELLIGENCE FOR FISCAL YEAR 2023
+
+                               __________
+
+                              HEARING HELD
+                              MAY 18, 2022
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT] 
+
+                               __________
+
+                    U.S. GOVERNMENT PUBLISHING OFFICE                    
+48-653                     WASHINGTON : 2023                    
+
+-----------------------------------------------------------------------------------     
+
+SUBCOMMITTEE ON CYBER, INNOVATIVE TECHNOLOGIES, AND INFORMATION SYSTEMS
+
+               JAMES R. LANGEVIN, Rhode Island, Chairman
+
+RICK LARSEN, Washington              JIM BANKS, Indiana
+SETH MOULTON, Massachusetts          ELISE M. STEFANIK, New York
+RO KHANNA, California                MO BROOKS, Alabama
+WILLIAM R. KEATING, Massachusetts    MATT GAETZ, Florida
+ANDY KIM, New Jersey                 MIKE JOHNSON, Louisiana
+CHRISSY HOULAHAN, Pennsylvania,      STEPHANIE I. BICE, Oklahoma
+    Vice Chair                       C. SCOTT FRANKLIN, Florida
+JASON CROW, Colorado                 BLAKE D. MOORE, Utah
+ELISSA SLOTKIN, Michigan             PAT FALLON, Texas
+VERONICA ESCOBAR, Texas
+JOSEPH D. MORELLE, New York
+
+                Josh Stiefel, Professional Staff Member
+                Sarah Moxley, Professional Staff Member
+                           Payson Ruhl, Clerk
+
+                            C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+
+              STATEMENTS PRESENTED BY MEMBERS OF CONGRESS
+
+Banks, Hon. Jim, a Representative from Indiana, Ranking Member, 
+  Subcommittee on Cyber, Innovative Technologies, and Information 
+  Systems........................................................     3
+Langevin, Hon. James R., a Representative from Rhode Island, 
+  Chairman, Subcommittee on Cyber, Innovative Technologies, and 
+  Information Systems............................................     1
+
+                               WITNESSES
+
+Sherman, John, Chief Information Officer and Acting Chief Digital 
+  and Artificial Intelligence Officer, Office of the Secretary of 
+  Defense; Dr. Kelly Fletcher, Principal Deputy Chief Information 
+  Officer, Office of the Secretary of Defense; and Margie 
+  Palmieri, Principal Deputy Chief Digital and Artificial 
+  Intelligence Officer, Office of the Secretary of Defense.......     4
+
+                                APPENDIX
+
+Prepared Statements:
+
+    Langevin, Hon. James R.......................................    23
+    Sherman, John................................................    26
+
+Documents Submitted for the Record:
+
+    [There were no Documents submitted.]
+
+Witness Responses to Questions Asked During the Hearing:
+
+    [There were no Questions submitted during the hearing.]
+
+Questions Submitted by Members Post Hearing:
+
+    Mr. Fallon...................................................    45
+
+                   DEPARTMENT OF DEFENSE INFORMATION
+   TECHNOLOGY, DIGITAL DEVELOPMENTS, AND ARTIFICIAL INTELLIGENCE FOR 
+                            FISCAL YEAR 2023
+
+                              ----------                              
+
+                  House of Representatives,
+                       Committee on Armed Services,
+       Subcommittee on Cyber, Innovative Technologies, and 
+                                       Information Systems,
+                           Washington, DC, Wednesday, May 18, 2022.
+    The subcommittee met, pursuant to call, at 10:07 a.m., in 
+room 2118, Rayburn House Office Building, Hon. James R. 
+Langevin (chairman of the subcommittee) presiding.
+
+ OPENING STATEMENT OF HON. JAMES R. LANGEVIN, A REPRESENTATIVE 
+FROM RHODE ISLAND, CHAIRMAN, SUBCOMMITTEE ON CYBER, INNOVATIVE 
+             TECHNOLOGIES, AND INFORMATION SYSTEMS
+
+    Mr. Langevin. The subcommittee will come to order.
+    I want to welcome everyone to today's ``Department of 
+Defense Information Technology, Digital Developments, and 
+Artificial Intelligence for Fiscal Year 2023'' hearing.
+    Some housekeeping things before I give my official opening 
+statement. We have obviously convened this as a hybrid hearing, 
+so just to--for formality, members who are joining remotely 
+must be visible on screen for the purposes of identity 
+verification, establishing and maintaining a quorum, 
+participating in the proceeding, and voting.
+    Those members must continue to use the software platform's 
+video function while in attendance unless they experience 
+connectivity issues or other technical problems that render 
+them unable to participate on camera. If a member experiences 
+technical difficulties, they should contact the committee staff 
+for assistance.
+    The video of members' participation will be broadcast in 
+the room and via the television internet feeds. Members 
+participating remotely must seek recognition verbally, and they 
+are asked to mute their microphones when they are not speaking.
+    Members who are participating remotely are reminded to keep 
+the software platform's video function on the entire time they 
+attend the proceeding. Members may leave and rejoin the 
+proceeding. If members depart for a short while for reasons 
+other than joining a different proceeding, they should leave 
+the video function on. If members will be absent for a 
+significant period, or depart to join a different proceeding, 
+they should exit the software platform entirely and then rejoin 
+if they return.
+    Members may use the software platform's chat feature in 
+communication--to communicate with staff regarding technical or 
+logistical support issues only.
+    Finally, I have designated a committee staff member to, if 
+necessary, mute unrecognized members' microphones to cancel any 
+inadvertent background noise that may disrupt the proceeding.
+    With that, today we are joined by Mr. John Sherman, the DOD 
+[Department of Defense] Chief Information Officer [CIO] serving 
+concurrently as the interim Chief Digital and Artificial 
+Intelligence Officer. He is joined by Ms. Margaret Palmieri, 
+the Deputy Chief Digital and Artificial Intelligence Officer; 
+and Dr. Kelly Fletcher, the Principal Deputy Chief Information 
+Officer.
+    I welcome our witnesses today.
+    The position of the Chief Digital and Artificial 
+Intelligence Officer is a new one at the Department of Defense, 
+effective as of February. The CDAO will serve as the 
+Department's senior official responsible for strengthening, 
+integrating data, artificial intelligence, and digital 
+solutions, and at its outset assumed responsibility for the 
+three preexisting entities that our members will be familiar 
+with--the Joint Artificial Intelligence Center, or the JAIC; 
+the Office of the Chief Data Officer; and the Defense Digital 
+Service.
+    While Mr. Sherman has appeared before us previously, he did 
+so in his CIO capacity, and today marks the inaugural 
+appearance of the CDAO in front of Congress.
+    For as long as I have served on this committee, there has 
+been a bicameral and bipartisan push to elevate the role 
+technology plays in the Department and to disassemble the 
+artificial stovepipes that exist within the sprawling 
+bureaucracy.
+    In bringing the CIO and CDAO together today, the committee 
+is making clear precisely how important of a role of technology 
+plays in warfare and that no single leader can manage it all. 
+So from data to operationalizing artificial intelligence, to 
+building resilience in our networks, these topics are just too 
+vital to be foisted onto a single official's already full 
+plate.
+    So I here--I applaud the Department's leadership for taking 
+this first step in creating the CDAO.
+    Next comes that vital pivot when the Department moves from 
+concept to execution. And as long--as the saying goes, the 
+devil really is in the details. So the lion's share of the CDAO 
+duties were previously held by the Chief Information Officer. 
+The future success will depend in part on the clear delineation 
+of responsibilities between the CIO and the CDAO.
+    These are positions whose responsibilities will 
+persistently sit adjacent to one another. It is critical that 
+these lanes of the road are clear not only to one another, but 
+[to] the Department, the rest of the executive branch, 
+congressional oversight committees, and our international 
+partners and allies.
+    In addition to this delineation, I am eager to hear how the 
+CDAO will organize its efforts. In inheriting three separate 
+entities in the JAIC, Defense Digital Service, and the Chief 
+Data Officer, the CDAO is poised to develop exciting new 
+constructs and build expertise across teams that have 
+previously been siloed.
+    For instance, we have seen how critical good data 
+principles are to building useful artificial intelligence 
+models. Hence, it only stands to reason that the CDAO would be 
+thinking about new ways to align the teams that had previously 
+worked these problems in separate silos.
+    So, finally, I hope to hear how both the CIO and the CDAO 
+will be working with the services. While we finally have 
+empowered CIOs within each of the military departments, there 
+are not--there are not natural parallels for the CDAO. So will 
+the CDAO's engagement with the services be directed at their 
+CIOs or are there other more suitable positions for the CDAO to 
+work with?
+    There are many historical comparisons to show that all of 
+the best efforts within the Office of the Secretary of Defense 
+can be quickly stymied without commensurate efforts by the 
+services.
+    Again, I am excited to hear about all of these matters and 
+more. But before proceeding, I want to remark briefly about Mr. 
+Sherman and his CIO team. So here I want to stay that when he 
+was with us last year, I put a spotlight on the frustration 
+that the subcommittee was dealing with, specifically in 
+transparency on the budget request and information technology 
+matters with his office.
+    So in the year since, under John's leadership, we have seen 
+a remarkable transformation when it comes to transparency, 
+increased responsiveness to congressional inquiries, and the 
+timely delivery of products required by law.
+    Too often it falls on Congress to point out the shortfalls 
+or failings of the Department of Defense. But when deserved, we 
+should also acknowledge its successes, and I commend John and 
+his team for its track record over the last year, and I thank 
+you for your efforts.
+    So with that, I want to thank our witnesses for appearing 
+before us today, and I will turn now to Ranking Member Banks 
+for his remarks.
+    [The prepared statement of Mr. Langevin can be found in the 
+Appendix on page 23.]
+
+  STATEMENT OF HON. JIM BANKS, A REPRESENTATIVE FROM INDIANA, 
+RANKING MEMBER, SUBCOMMITTEE ON CYBER, INNOVATIVE TECHNOLOGIES, 
+                    AND INFORMATION SYSTEMS
+
+    Mr. Banks. Thank you, Mr. Chairman, and thank you to the 
+witnesses who are here with us today and for joining us on 
+short notice.
+    Mr. Sherman, as CIO for the Department of Defense, you are 
+responsible for a significant number of programs--cloud 
+adoption, IT [information technology] networks, data policies, 
+spectrum management, cybersecurity, and more. All of these 
+things are critical to the warfighter, and we don't take that 
+lightly.
+    Secure, effective technology can revolutionize how the 
+Department conducts its business, but investments in IT 
+infrastructure are necessary to do so.
+    I am encouraged by the progress that you have made in the 
+last year, but I fear there is still a long road ahead. I also 
+have been disappointed in the delays to award contracts in the 
+Joint Warfighter Cloud Capability program.
+    I think the creation of the Chief Digital and Artificial 
+Intelligence Officer was a wise move to help the Department 
+better use and deploy AI at scale, but the value of that move 
+won't be realized for months as Dr. Martell is not yet in 
+place. With an enterprise as large and diverse as the DOD, 
+modernization and security is a difficult task. You need the 
+buy-in not just from the highest levels of the DOD but everyone 
+who logs onto a DOD network.
+    You also need a capable workforce to acquire and deploy it, 
+as well as train the rest of the workforce on how to use it. 
+Without strong investments, strategic vision, diligence in 
+implementation, and accountability, we risk weakening the 
+Department's security, which is unacceptable.
+    I look forward to our conversation today about how to 
+continue the progress that you have made and to expand upon it.
+    And with that, thank you. I yield back.
+    Mr. Langevin. Very good. Thank you, Ranking Member Banks, 
+for your remarks.
+    As a point of order, while we have three witnesses joining 
+us today, we will have Mr. Sherman deliver opening remarks, and 
+during the question portion we will ask that he turn to his 
+colleagues as he sees fit for remarks and answers.
+    With that, I will turn it over to Mr. Sherman for 5 minutes 
+of remarks. Your full statement can be submitted for the 
+record, and I ask you to summarize your remarks for 5 minutes.
+    Mr. Sherman, please proceed. We need to have your 
+microphone on. Mr. Sherman, I can't hear you. Nothing yet.
+    Okay. I am going to have to ask staff to intervene here and 
+figure out the technical issues here.
+
+STATEMENT OF JOHN SHERMAN, CHIEF INFORMATION OFFICER AND ACTING 
+ CHIEF DIGITAL AND ARTIFICIAL INTELLIGENCE OFFICER, OFFICE OF 
+THE SECRETARY OF DEFENSE; DR. KELLY FLETCHER, PRINCIPAL DEPUTY 
+CHIEF INFORMATION OFFICER, OFFICE OF THE SECRETARY OF DEFENSE; 
+    AND MARGIE PALMIERI, PRINCIPAL DEPUTY CHIEF DIGITAL AND 
+  ARTIFICIAL INTELLIGENCE OFFICER, OFFICE OF THE SECRETARY OF 
+                            DEFENSE
+
+    Mr. Sherman. Chairman Langevin, all right, it looks like we 
+are hot now.
+    Mr. Langevin. We have got it. Yes. Please proceed.
+    Mr. Sherman. Thank you very much, sir.
+    Good morning, Chairman Langevin, Ranking Member Banks, and 
+distinguished members of the subcommittee. Thank you for the 
+opportunity to testify before you today. As you noted, with me 
+is Dr. Kelly Fletcher, our Principal Deputy Chief Information 
+Officer, who can help provide insight on our resources and 
+budget, among other topics; and Ms. Margie Palmieri, our Deputy 
+Chief Digital and Artificial Intelligence Officer, who will 
+help me speak on the standup of this exciting new office.
+    Chairman Langevin, I would first like to thank you for your 
+past 22 years----
+    Mr. Langevin. Mr. Sherman, if you can please pause for a 
+minute. We are having some technical difficulties here.
+    Mr. Sherman. Okay. We are hot again.
+    Chairman Langevin, I would first like to thank you for your 
+past 22 years of public service to our Nation. Your leadership 
+has positively impacted all of the Department of Defense from 
+the civilian workforce to our women and men in uniform.
+    I appear before you today as the DOD CIO and the Acting 
+CDAO. With your support, we have made strong progress since I 
+testified before you last June, and I look forward to updating 
+the subcommittee on our achievements and the recent 
+establishment of the CDAO.
+    Moreover, as we discuss investments today, I want to assure 
+you that both the CIO and CDAO budgets are fully informed by 
+the President's vision, policies, and strategies, including the 
+Interim National Security Strategic Guidance and the 
+Department's National Defense Strategy.
+    The Department has made significant strides to unlock the 
+power of its data, harness AI, and provide digital solutions to 
+the joint force. Going forward, there is a need for stronger 
+alignment to accelerate decision advantage and generate 
+advanced capabilities for our warfighters as we face China as a 
+pacing challenge, an increasingly aggressive Russia, and as our 
+adversaries adapt to technology innovation.
+    In December 2021, Deputy Secretary of Defense Hicks 
+established a CDAO to serve as the Department's senior official 
+responsible for strengthening and integrating data, AI, and 
+digital solutions across the defense enterprise. Integrating 
+the standalone data and AI organizations into the CDAO is a 
+multi-step process that began on the 1st of February and will 
+reach full operating capability on the 1st of June.
+    While the DOD CIO will continue to lead core infrastructure 
+functions, including cybersecurity, cloud, transport, and 
+networks, the CDAO will help set requirements and provide 
+strategy, policy, and governance of data, analytics, and AI. 
+This office will provide enterprise-level infrastructure and 
+services that enable efforts to advance adoption of these 
+critical areas.
+    The CDAO will work closely with our team in CIO and other 
+components within the Department to ensure mission success. As 
+the CDAO focuses on organizing and carrying out their mission, 
+I will continue my attention as a CIO on enterprise-level 
+priorities, such as cybersecurity, cloud computing, software 
+modernization, and warfighting command, control, and 
+communications, or C3.
+    We have been able to move forward in these areas through 
+robust governance and teamwork, to include with the military 
+departments. In cybersecurity, I am committed to ensure 
+protection of the Department of Defense Information Network, or 
+DODIN, implementing zero trust, hardening the SIPRNet [Secret 
+Internet Protocol Router Network], addressing 20-plus years of 
+technical data on our systems, securing the defense industrial 
+base, and enhancing our cyber and digital talent.
+    Of course, cloud computing remains a fundamental component 
+of the Department's global IT infrastructure. To that end, I 
+will ensure that we provide modern enterprise cloud 
+capabilities to enable everything from software modernization 
+to enhanced user experience at every classification level.
+    Finally, turning to C3, I remain driven to modernize our 
+positioning, navigation, and timing, or PNT, capabilities; lead 
+the Department on the electromagnetic spectrum operations, or 
+EMSO, development; move forward on 5G while ensuring DOD 
+equities remain protected, and also providing economic 
+opportunities for U.S. industry, strengthening transport, and 
+ensuring national leader command capabilities.
+    In closing, I thank this subcommittee for its consistent 
+and dedicated support in these and countless other areas. It 
+would truly not be possible without your strong partnership and 
+guidance.
+    Thank you for the opportunity to testify this morning, and 
+we look forward to your questions.
+    [The prepared statement of Mr. Sherman can be found in the 
+Appendix on page 26.]
+    Mr. Langevin. Very good. Mr. Sherman, thank you very much 
+for your remarks.
+    With that, we will now proceed with questions. Each member 
+shall be recognized for 5 minutes, beginning with myself.
+    With that, Mr. Sherman, can you speak to the efforts 
+underway, not only to define the role and responsibilities of 
+the Chief Digital and Artificial Intelligence Officer but also 
+to account for and revise historical policies and directives 
+that may designate or outline roles for the CIO, which may now 
+more appropriately be handled by the CDAO.
+    Mr. Sherman. Yes, sir. I will start with this, and then 
+turn to Ms. Palmieri for some amplifying comments. We have had 
+a robust effort underway since IOC on the 1st of February to 
+bring the new organization together, identifying leaders, 
+ensuring employees know where they go in the new structure, and 
+really getting the most synergy out of this new AI, data, 
+digital services alignment together with this.
+    A lot of work, sir, has gone into this in terms of defining 
+roles, getting our workflow together, and using real-world 
+opportunities such as with the operation supporting the Ukraine 
+crisis to bring things like the Advana team to bear, to 
+supporting U.S. Transportation Command and U.S. European 
+Command. So real-world operations to drive the way ahead on 
+that.
+    Additionally, working with the Director of Administration 
+and Management, or DA&M, at the Pentagon under Mr. Mike Donley, 
+former SECAF [Secretary of the Air Force], doing all of the 
+pick and shovel work, updating the policies, updating the 
+paperwork that identified CIO previously on some areas, to put 
+CDAO in the right parts of the documentation, and then also 
+looking at things like the finances in terms of some of the 
+former historical relationship with the Joint AI Center and 
+DISA [Defense Information Systems Agency], and so on, and 
+making sure we do the blocking and tackling to align and 
+empower the new CDAO organization.
+    And, sir, with that, I would like to turn to Ms. Palmieri 
+briefly, and hopefully your mic is hot there. If not, I will 
+give you mine.
+    Ms. Palmieri. Let's see. Yep. Thank you, sir, for the 
+question. As part of the CDAO standup, we have established a 
+governance working group, and they are looking through over 40 
+different foundational documents that reference either the 
+preexisting organizations before CDAO or other roles and 
+responsibilities that CDAO is taking over. And so we are 
+looking at holistically and looking at governance specifically 
+in all the different working groups in the Department.
+    I think we found about 21 that had oversight on some of our 
+issues. We have been able to streamline those in the near term 
+and take them down, actually reducing the level of bureaucracy 
+around some of these issues and getting some more clarity on 
+them.
+    Thanks.
+    Mr. Langevin. Very good. Thank you.
+    So in my opening remarks, I noted questions about how the 
+DOD CIO and the CDAO will collaborate together and deconflict 
+their work with the military services. So can you elaborate on 
+that more? Can you speak to your initial thoughts on this 
+matter, and specifically who the right interlocutors are within 
+the military departments for the CDAO?
+    And, you know, if it is the services' CIOs, then how can 
+the CIO and the CDAO proactively think through how to minimize 
+the potential for OSD overload given the service CIO's 
+relatively small size?
+    Mr. Sherman. Yes, sir. So as a first step is to capitalize 
+on the very well-established relationships we already have 
+through CIO channels, as you note, sir, with the services and 
+MILDEP [military department] CIOs, to be able to use our 
+established governance processes, the teaming we have, 
+certainly not to overload them, but to use the very well-
+established processes we have in place. Matter of fact, we were 
+doing something this week on coordinating some material with 
+the CIOs.
+    The other thing, the Chief Data Officers who work for the 
+service CIOs have a very established relationship on the data 
+side of things through data governance councils that we can tap 
+into.
+    Now, with the AI aspect, this is probably an area that we 
+need to reinforce. There is a lot of AI going on in the 
+services under the military departments, that we have some 
+established governance there, much of which goes through the 
+CIOs but not all of it, and that is an opportunity for us and 
+we need to tighten that up as well.
+    So, in a nutshell, working through the CIO so far has given 
+us a successful ingress point. But when Dr. Martell gets here, 
+working with Ms. Palmieri, these are the--this is an area that, 
+as we really get up on our skis with this, need to refine a 
+bit, ensuring, as you note, sir, that we don't overload a 
+process and that we are getting to the right humans in each of 
+the components to get the answers we need on whether it is 
+operations or responsible AI or unlocking the power of the 
+data.
+    Margie, would you add anything to that?
+    Ms. Palmieri. No. I think that hits it very accurately. I 
+think the other piece about this is, you know, mission owners 
+are across the Department and not just within the data or CIO 
+lane. And so a lot of the work that Mr. Sherman talked about 
+that we have been able to do in support of Ukraine has been 
+with the Joint Staff, J4, and the logistics community or with 
+EUCOM's [U.S. European Command's] team on logistics.
+    And so the partnerships with the mission owners is also 
+very critical, and I think we will--we have gotten great 
+support from people that want to use data and analytics as we 
+work the broader issues through the CDAO and CIO channels.
+    Mr. Langevin. Thank you for those answers.
+    I am going to hold. I have additional questions. Hopefully 
+we will get to a second round or I will submit them for the 
+record.
+    But for right now, I want to yield to Ranking Member Banks 
+for his questions.
+    Mr. Banks. Thank you, Mr. Chairman. A few years ago, 
+Vladimir Putin proclaimed that ``Artificial intelligence is the 
+future. Whoever becomes the leader in this sphere will become 
+the ruler of the world.''
+    While there have been some useful but limited AI programs, 
+such as Project Maven, that have gotten to some scale and now 
+transition, the DOD still needs a scalable enterprise 
+capability for the integrated deployment of AI technologies for 
+joint warfighting missions.
+    Ms. Palmieri, what are your plans as Deputy CDAO to 
+accelerate, scale, and transition an AI-enabled warfighting 
+capability?
+    Ms. Palmieri. Yes, sir. Thanks for the question. Part of 
+the [inaudible] of the CDAO is to look at both the enabling 
+infrastructure, the analytic tools, and the tools that people 
+will use to develop AI, and then the responsible AI ethics and 
+testing and evaluation processes to make sure that the United 
+States is doing this in accordance with established ethical 
+considerations.
+    So much of our budget in the fiscal year 2023 cycle and 
+fiscal year 2022 cycle is focused on bringing that core 
+enabling enterprise capability, so that includes the computing 
+platform, the tools, and then the data policies that will 
+enable us to access different data from across the Department 
+to really bring that together and enable either analytics or 
+ultimately artificial intelligence to be able to support 
+decisionmakers with decision advantage.
+    And so one of the key initiatives under that is the 
+Secretary--the Deputy Secretary of Defense's AI and Data 
+Acceleration initiative, or AIDA. This is an area where we have 
+put significant investment in both talent and money to go out 
+to the combatant commanders and some of the principal staff 
+assistants inside of the Department in charge with business 
+operations and support them with experts, digital experts, data 
+experts, as well as bringing some of our established 
+capabilities.
+    In Advana, this is our business health system, and in 
+Project Maven on the AI side, and scale that up to combatant 
+commanders more broadly, share those lessons across COCOMs 
+[combatant commands], and then bring that back to identify the 
+barriers that we have to enable across the Department.
+    Mr. Banks. Very good.
+    Mr. Sherman, as I mentioned in my opening statement, I am 
+concerned by the delays in awarding contracts for the JWCC. Has 
+the Department considered using a rolling date for compliance 
+for providers instead of one set date, the end of December?
+    Mr. Sherman. No, sir. We have not considered a rolling 
+date, but I can assure you getting this right and getting this 
+done by the end of this calendar year is among my very top 
+priorities.
+    Sir, I think you are referencing we had--when I rolled this 
+out, when I was the acting last year, that we were aiming for 
+April for an award date, but part of this--and I will own this 
+here--was we haven't done this at this scale, and when we had--
+did the initial review, that we had four vendors make the cut, 
+that we had estimated too quickly on the date.
+    So December, working with the team between our team in CIO, 
+DISA, Washington Headquarters Services, with support from 
+Acquisition and Sustainment, with all of the advice on the 
+procurement experts, and the way we are proceeding with the 
+awards aiming for December, but, sir, we recognize this is 
+critically important. We appreciate the committee's support 
+here recognizing with the JEDI [Joint Enterprise Defense 
+Infrastructure] cancellation and how important this is for the 
+CDAO efforts, for Joint All-Domain Command and Control, and so 
+much of what we are doing for warfighting.
+    So, sir, I will assure you we are getting--we are getting 
+after this with alacrity.
+    Mr. Banks. Can you talk a little bit more about the task 
+order process that you envision for JWCC?
+    Mr. Sherman. Yes, sir. The way that we are going to do 
+this, there will have to be on each of--depending upon how many 
+vendors do make the cut on this, to be able to have--there will 
+be individual task orders that will have to go in, but the 
+upshot of what we did learn from JEDI was a process that our 
+Hosting and Compute Center team, HACC, up at the DISA 
+headquarters came up with to be able to expedite this, so users 
+do not have to take an incredibly long time to compete task 
+orders against whichever kind of best athlete cloud they want 
+to use.
+    It is called ATAT [Account Tracking and Automation Tool], 
+is what they call it. So we do have an established process 
+there to use these IDIQ [indefinite delivery, indefinite 
+quantity] contracts, but to be able to have expedited task 
+orders to depend on what the workload and mission is for that, 
+sir.
+    Mr. Banks. Okay. Just a couple more questions. Can you 
+provide an example of a commercial technology solution that the 
+Department has adopted that has been successful?
+    Mr. Sherman. I think we have had plenty. I think a lot of 
+is in the cybersecurity realm, sir. I will start there, but I 
+could go to others, such as with Comply-to-Connect, such as 
+what we are doing for endpoint security, such as what we are 
+doing on software-defined networks, not only for security 
+matters but on areas like 5G.
+    I think there is a number of areas on command and control I 
+could go into on spectrum hitting on that that have been 
+commercial technologies we have been able to use, and cloud 
+already exists extensively in the Department at the service 
+level, such as with Cloud One, cARMY, Black Pearl in the Navy. 
+There has been a lot of commercial innovation there, and as 
+well as with software, quite a bit of commercial software usage 
+across the Department.
+    My job as CIO is not only to encourage and cultivate that 
+but to make sure we can make this work at an enterprise level, 
+such as with JWCC, such as supporting CDAO. But, sir, there 
+have been a number of key technologies we have rapidly 
+integrated and employed for our warfighter and other support.
+    Mr. Banks. Just one final question. Our national security 
+depends on resilience across the defense industrial base [DIB]. 
+I know you know that because your office has rightfully taken 
+on an increased role in this arena. How are you leveraging AI 
+to grapple with the size and scale of the DIB attack surface 
+and the speed at which we need to identify and remediate 
+vulnerabilities?
+    Mr. Sherman. So that is one area that with the CDAO now 
+standing up that I want to work with Dr. Martell and work with 
+Ms. Palmieri on. I can tell you at an unclassified level there 
+are--some of this is we work with our colleagues at CYBERCOM 
+[U.S. Cyber Command] and NSA [National Security Agency] 
+employing AI capabilities to be able to get after some of this.
+    But this is an area, as we look at big data platform, as we 
+look across an enterprise--now you are talking about DIB, not 
+the DODIN, so I need to make sure I focus my remarks on that. 
+These are areas that we look at the 220,000 companies in the 
+DIB, and particularly as we look at cyber maturity model 
+certification employment, I want to make this understandable 
+and usable, particularly to small and medium businesses.
+    So while not [inaudible], we are looking at areas to where 
+we can possibly use some government cloud capabilities to be 
+able to put data in from these companies if we can do this 
+properly and with the proprietary considerations to be able to 
+help these companies out where we can run analytics and lessen 
+the burden on the small and medium-sized companies out across 
+the United States and not make this too cumbersome on them.
+    So this is an area we need to work on, sir, but it is 
+definitely on my radar to do so.
+    Mr. Banks. Thank you. I yield back.
+    Mr. Langevin. Thank the Ranking Member.
+    The chair now recognizes Mr. Moulton for 5 minutes.
+    Mr. Moulton. Great. Thank you, Mr. Chairman. I would like 
+to pick up with Ms. Palmieri. In answering your questions to--
+the questions of Ranking Member Banks, you mentioned that when 
+you bring forward new AI capabilities you have to ensure their 
+employment meets our ethical norms and standards. This is, of 
+course, exactly what we would expect.
+    But do you believe that our adversaries adhere to the same 
+ethical standards?
+    Ms. Palmieri. Yes, sir. Thanks. Not in all cases. We know 
+that there are nations that do not respect the privacy of 
+citizens and do not necessarily use that information that they 
+get in a way that meets our ethical principles.
+    Our five ethical principles are that we use AI responsibly; 
+that we take steps for it to be equitable, which means we 
+minimize unintended consequences associated with our 
+capabilities; that our methods are traceable. This means that 
+we can audit them. We know how the AI was developed. It is 
+reliable, that there are well-defined use cases and we know 
+what the AI is good at and what it is not good at, and we have 
+a testing and assurance cycle associated with that. And that it 
+is governable, and that we know that it does its intended 
+functions, and if it doesn't do those intended functions, we 
+can either deactivate the system or take it offline.
+    Those are very important to us. We are working on a 
+responsible AI strategy right now in the last few weeks of 
+coordination across the Department, where we are going to take 
+those principles and actually put them into implementation 
+action and so----
+    Mr. Moulton. I will tell you that, I mean, as fellow 
+Americans, we certainly agree with those ethical standards, and 
+this is what we would expect of you and of us. But I think it 
+is patently obvious to all of us that China and Russia, our 
+principal adversaries, are not going to adhere to these 
+standards. They don't, and we can see this playing out in 
+Ukraine every day.
+    And, therefore, their AI won't as well. I am confident that 
+their AI is being trained to do heinous things or at the very 
+least pay little regard for civilian casualties and collateral 
+damage, which will almost certainly make their AI more deadly 
+and effective.
+    Everything you just described is the right thing to do, but 
+there are constraints on these AI weapons. So in an AI versus 
+AI battle, they will have a massive advantage because they 
+won't constrain their weapons in the ethical ways we do. So the 
+point that I am making is that we have to do work on developing 
+an international agreement to codify these standards, so it is 
+not just us who are following them, and then we at least have 
+some hope of ensuring our adversaries' worst instincts are at 
+least to some degree constrained.
+    Now, not every nation abides by the Geneva Convention, but 
+we know across the world that it does matter and it does help. 
+So just as when the world came to terms with the horrors of 
+chemical weapons in World War I, and the Geneva Convention was 
+the result, I think this is a second Geneva Convention moment.
+    Now this is not your responsibility. I get that this is 
+the--basically falls under the State Department. But I don't 
+think enough people in State appreciate how important this is. 
+And as one of the leaders in our government on the use and 
+employment of AI, I would strongly encourage you to help mount 
+an effort to work on this broader problem.
+    Do you have any comments on that?
+    Ms. Palmieri. Yes, sir. Absolutely. In fact, we have a 
+partnership for defense organization right now with 16 nations. 
+They include our Five Eyes partners, many of our partners out 
+of NATO, and some others like Israel, Finland, Sweden. This is 
+absolutely an interest area of all of those nations that we 
+have started with, but absolutely take your point on a broader 
+effort, and that is worth pursuing. Thanks.
+    Mr. Moulton. I mean, this is one of the principal 
+recommendations that came out of the Future of Defense Task 
+Force that Representative--Ranking Member Banks and I co-
+chaired.
+    And, look, ultimately, if you do this right, we are not 
+only doing the right thing in terms of humanity, but we are 
+figuring out ways that we do this to our advantage, because I 
+think, as I have just described, we are at a disadvantage right 
+now because our adversaries will not be so constrained.
+    I had another question coming from the results and the 
+recommendations of our Future of Defense Task Force report on 
+the need to update our acquisition process for this new era of 
+technology where we are not just acquiring hardware but 
+acquiring software. And our acquisition system is really not 
+built to acquire software. It is a different animal.
+    We won't have time to answer that question right now, but 
+that is something that I would like to take for the record and 
+look forward to your response.
+    Mr. Chairman, with that I yield back.
+    [The information referred to was not available at the time 
+of printing.]
+    Mr. Langevin. Thank you, Mr. Moulton.
+    Mr. Franklin is now recognized for 5 minutes.
+    Mr. Franklin. Thank you, Mr. Chairman, and thank you to our 
+witnesses for being here today. Actually, my line of 
+questioning was going to be right along with what 
+Representative Moulton was starting to get into there with the 
+acquisition process.
+    And, Mr. Sherman, I notice in your testimony you talked 
+about the CDAO offering five decentralized procurement vehicles 
+for rapid AI delivery and purchasing of key AI services and 
+enabling tools, a mouthful but sounds like a lot of new ways to 
+try to improve this process.
+    We know, as has already been noted, AI is so integral to 
+the future, our future success, it cuts across all areas of 
+DOD, but the struggle is, how do we innovate fast enough to 
+keep up with the threat? And we don't have--traditionally, our 
+acquisition system just is not tailored to that.
+    I would love for you to take the time that I have here to--
+you and your team--maybe expand on these five different 
+vehicles and help us understand that this is a good thing and 
+we are not just creating more bureaucracy.
+    And particularly for small businesses, because I speak with 
+a lot of them who have great ideas, but it is just so difficult 
+to navigate the process that by the time they could get 
+something to market it has already passed them by.
+    Mr. Sherman. Sir, I will start with that and then turn to 
+Ms. Palmieri and Dr. Fletcher for amplifying comments. Software 
+acquisition and working on that, of course, it is both within 
+the CIO and CDAO realm to be a driver for that, but it really 
+is going to be a team effort, working with Acquisition and 
+Sustainment, Research and Engineering, with our colleagues in 
+the military departments and services. But to use the 
+authorities that Congress has already granted us in terms of 
+how we can use kind of different approaches to this, but also 
+how we think differently about employing software, acquiring 
+software, developing software ourselves, moving to development, 
+security operations, DevSecOps, approaches, leveraging open 
+source software, and moving at pace; as you have noted, sir, to 
+not have historic ways of coming at this but to be able to move 
+at high speeds.
+    And then, really, what I see sitting up at OSD, there is so 
+much innovation occurring within the Department, in the 
+military services, at the commands, to jump on that, not try to 
+recreate the will but elevate that. And there has been so many 
+great examples we have seen.
+    Out at the very tip of the spear, too, out in--out at the 
+sub-unified commands, and so on. So that is one thing we are 
+trying to do is not over-govern this but take these great 
+examples of this.
+    And looking from the acquisition optics, sir, as I 
+mentioned earlier on Ranking Member Banks' question about small 
+and medium businesses, this keeps me up a lot, making sure not 
+to take away from the ``bigs,'' but those companies out--all 
+throughout the United States and not to have high barriers of 
+entry, where we can get their products, their capabilities into 
+the system quickly. So this is a priority for me as CIO.
+    If I can, I would like to turn to Ms. Palmieri briefly from 
+the CDAO optic on the five areas, sir, you were noting.
+    Margie.
+    Ms. Palmieri. Yes, sir. First of all, thank you very much 
+for section 808 in the NDAA [National Defense Authorization 
+Act] that gave acquisition authority to the JAIC. That is now 
+inherited by CDAO. We owe an implementation plan to Congress 
+which will come this summer on how we are going to go after 
+that.
+    But the five vehicles that the JAIC created were 
+specifically focused on the areas of data and AI, all with an 
+agile approach, and this idea that organizations outside of 
+CDAO could come and leverage these contracts, these enterprise 
+contracts.
+    And so real briefly, the first one is at Tradewinds. It is 
+another transaction agreement which gives us a very agile 
+approach to focus on mission capabilities. We have about 63 
+percent of those awardees right now that are either small 
+business or non-traditional defense contractors.
+    There is another one for data readiness, that's 
+specifically on data engineers, data labelers. This one is 
+really great because you can customize the different 
+performance work statements based off of your needs, and we see 
+about 50 percent of those awardees right now being small 
+business or non-traditional.
+    There is a vehicle on test and evaluation that provides 
+simplified acquisition procedures for test and evaluation, and 
+we have about, you know, 40 or so--about 50 percent small 
+business versus large business there.
+    We have a contract vehicle for acquiring contract talent to 
+support AI development, six vendors on that one. It is 
+relatively small now--all small businesses--but we have a lot 
+of interest there, and so we are looking at how to scale up 
+that vehicle.
+    And then the last one is a commercial solutions offering, 
+which is generally no money involved, but it allows businesses 
+across the board to come in and pilot or demo their 
+capabilities on government data, which is a huge asset to small 
+companies. The government is able to provide feedback on their 
+capabilities, and they get access to our data to test out their 
+ideas.
+    We have about 4,000 different companies that are eligible 
+for those types of contracts, and then we are doing more with 
+outreach and partnering with non-profits to try to do a better 
+set of market research on who is out there, so we are not just 
+going to the same vendors.
+    Mr. Franklin. Mr. Chairman, I yield back.
+    Mr. Langevin. Thank you, Mr. Franklin.
+    Mr. Moore is now recognized for 5 minutes.
+    Mr. Moore. Thank you, Chairman. Thank you, witnesses, for 
+being here. Thanks for your context. I think we can all agree 
+that artificial intelligence is rapidly transforming our world, 
+even sometimes without our knowledge. Industry is on the cusp 
+of some very key scientific breakthroughs. These will disrupt 
+our daily lives, and disruption in a good way should be 
+celebrated.
+    Autonomous vehicles, smart homes, all this type of stuff, 
+this is going to be ubiquitous. And while much of it gives us 
+something to look forward to, there is an inherent risk that 
+can be mitigated if the United States--if we are the global 
+leader in AI, we can--we can mitigate the risk that is 
+essentially going to come from this. And just don't trust other 
+nations to properly fill this role.
+    Mr. Sherman and Ms. Palmieri, welcome comments from either 
+of you. America's greatest strategic advantage against near-
+peer competition, one of the major advantages is that we remain 
+a country that--the world's number one destination for 
+immigrants and a strong immigrant workforce. As long as 
+talented people want to come here, and to innovate and start 
+their businesses, the U.S. can't be beat.
+    While primarily technology focused organizations, the CIO 
+and CDAO require that people are proficient in policy, 
+economics, ethics, data science, and the law. How do both 
+organizations ensure they are optimally staffed, considering 
+increased competition in recruitment and retention?
+    Mr. Sherman. Thank you, sir. I will start with that, and 
+then I will ask Ms. Palmieri to chime in.
+    So, looking at digital and cyber talent writ large, which 
+all is kind of coming together on this, both between CIO and 
+CDAO, as I mentioned to this committee last year, recognizing 
+talent is so critical. I launched a new cyber talent strategy, 
+which we are aiming to publish in the August/September 
+timeframe of this year, which will have a close nexus to CDAO.
+    It is going to help us think differently about not only 
+using the authorities this committee and the rest of Congress 
+has granted to us on areas like cyber excepted service and also 
+capitalizing on what we have done to think about our current 
+workforce through the defense cyber workforce framework and 
+using our 8140 policy series and doing all of this blocking and 
+tackling behind the scenes work we need to do.
+    But also, as we have a more dynamic workforce that is going 
+to come in and out of government in a way that may not go to a 
+30-year career, how do we compete with industry partners with 
+whom we need to have a partnership on to be able to have 
+digital advantage to very sophisticated adversaries as you note 
+in a near-peer and peer competitor fight.
+    So that is what we are doing from the CIO side. CDAO 
+specifically is going to be looking at AI, data, and digital 
+talent in that regard, so it is going to be a close partnership 
+with CIO.
+    So for that I would like to turn to Ms. Palmieri to talk to 
+what we are doing on the CDAO front.
+    Ms. Palmieri. Sure. Absolutely. So the CDAO, as it has 
+brought together these different organizations across the 
+Department, is about 200 to 300--it is about 250 people total, 
+more than half of whom are technical in some way. They have 
+digital services expertise, computer scientists, or some level 
+of AI or data science background.
+    And so I am actually very excited about where we are right 
+now as an organization and the talent that we have in that 
+organization. On the military side as well, we are leveraging 
+existing communities like the operational research community, 
+which is heavily data and analytic focused, but then we also 
+have an element of our team that is specifically looking at 
+talent management for the entire Department and how we go after 
+talent management there, things like how we first train and 
+educate our people to be, you know, data literate, but then 
+also develop skills and developing analytic and AI skills as 
+well.
+    But then, also, how do we track them throughout the 
+Department and work that into promotions and the things that we 
+value for opportunities for leadership. Thanks.
+    Mr. Moore. And can you also touch on, does the DOD and the 
+intelligence community have adequate information about--
+obviously, we are in a--we are in an open setting, so it is not 
+a classified setting, but do we have adequate information about 
+the state of foreign military AI applications and the ways that 
+those could be harmful to U.S. national security?
+    And are we--and, more importantly, are we investing in ways 
+to defend us and defend our Nation against these applications?
+    Mr. Sherman. Sir, at a high level, as you noted, an 
+unclassified session, I can say that working with our 
+colleagues, and Intelligence and Security, in I&S under 
+Honorable Moultrie, and with the intelligence community, this 
+does remain a key topic and robustly focused on. That is what I 
+can say with that.
+    And in terms of working with adversary--or not working 
+with, but defending against adversary capabilities, that is 
+something that is very much on our radar, both on the CDAO 
+side, but as I implement on the CIO side, things like zero 
+trust cybersecurity and getting after technical debt that is 
+critical, that is very much something we focus on.
+    And our partnership with the intelligence community, for 
+example, working with my colleague General Nakasone at NSA and 
+CYBERCOM, is something that is very prominent in our 
+discussion. So we do work on this a lot together.
+    Mr. Moore. Awesome. Thank you.
+    Thank you, Chairman.
+    Mr. Langevin. Thank you, Mr. Moore.
+    Is Mr. Kim there?
+    Okay. So that is our first round of questioning. I am going 
+to go to a second round in concurrence with the ranking member. 
+So with that, let me recognize myself.
+    With regards to structuring the CDAO, can you speak to 
+initial views on possible constructs, how much is notional at 
+this point, particularly with the incoming CDAO? Mr. Martell is 
+reportedly only a few, you know, weeks from starting, what are 
+your thoughts on that?
+    Mr. Sherman. Sir, our organization is pretty solid at this 
+point. And, actually, it doesn't look terribly dissimilar from 
+CIO where we have deputy CIOs. We have--in addition to Ms. 
+Palmieri as the Principal Deputy CDAO, we have five deputy 
+CDAOs organized functionally on areas like acquisition, policy, 
+enterprise capability, warfighting support, and digital 
+services. Those are the five, as well as a separate unit under 
+Dr. Pinelis just looking at responsible AI, artificial 
+intelligence.
+    And then this is bringing these organizations together--CDO 
+[Chief Data Officer], the Joint AI Center, Defense Digital 
+Services--and then organizing functionally on these areas. We 
+have already begun to do this with the officer, the employees, 
+going to their new integrated units to get after some of the 
+things Ms. Palmieri talked about on support to the Ukraine 
+crisis.
+    So actually, sir, we have a pretty well-honed organization 
+now. We are still working on some final pieces of that, but the 
+organization has come together. And, again, the point that Dr. 
+Martell and Ms. Palmieri will be working is creating a team of 
+teams.
+    It is a new organization, breaking down some institutional 
+barriers we had, bringing folks together, and we are seeing 
+this, for example, with the AI and Data Accelerator, the AIDA, 
+teams that Ms. Palmieri noted, supporting the commands and also 
+back at the Pentagon.
+    So the wheels are turning on this, and we do have a very 
+strong foundation for the new organization.
+    Margie, anything you would like to add?
+    Ms. Palmieri. No. I think that is great. Thanks.
+    Mr. Sherman. Thank you.
+    Mr. Langevin. Very good. So I know we talked about cloud in 
+some of the line of questions that you touched on. Is there 
+anything else you want to do in terms of give us some sense of 
+where we are to creating and shifting over to an enterprise 
+cloud system, obviously, since, you know, the JEDI failure to 
+execute, you know, to come up with a final decision there and 
+now we are moving into something hopefully similar but without 
+the challenges and protests and all of that. But anything you 
+want to add there?
+    Mr. Sherman. Sir, only that--just to amplify what I said. 
+This is so critical. Sir, you brought this up from here and 
+your position. We have gotten that message loud and clear. And 
+also, not only would--not having protests, but a multi-cloud/
+multi-vendor approach, which is more consistent with industry 
+standard at this time.
+    And then, once we have the procurement completed, using it, 
+using the capabilities, using the tasking mechanism that 
+Ranking Member Banks asked me about for the task orders, and 
+really having something that spans the entire enterprise, from 
+the continental United States to the tactical edge, and having 
+that compute capability to support warfighting needs as well as 
+AI and other needs on that with world-class capabilities from 
+U.S. vendors, which I really do see as a national advantage for 
+the United States, whether it's in an INDOPACOM [U.S. Indo-
+Pacific Command] scenario or EUCOM or anywhere else, to get 
+this in place and really figure out all the capabilities.
+    And this will be a little bit of a journey of learning, 
+same as our intelligence community partners are doing in their 
+multi-cloud environment with whom we are working closely on 
+lessons learned and how that is working. So this is critically 
+important, sir.
+    Mr. Langevin. Good. Well, it is a higher priority for me 
+and the subcommittee, and I know it is for you. So I look 
+forward to following the progress on this over time.
+    If I could, over the last few years, the cybersecurity 
+maturation model certification, or CMMC, received significant 
+public attention. However, in the last year, we haven't heard 
+much about the program's development. So can you please update 
+us on where CMMC stands and how it is progressing?
+    Mr. Sherman. Yes, sir. I will make one brief comment, and 
+then I would like to turn to Dr. Fletcher because she has been 
+instrumental in helping guide this. We realize we are at what 
+is called CMMC 2.0, which we launched last fall after the 
+initial startup of this.
+    One of my main goals as CIO is to make sure this is 
+rationalized, understandable, and back to the earlier points 
+that Representative Franklin and others brought up about small 
+and medium businesses all across the U.S., to make this 
+understandable, so this is not overly burdensome, but also is 
+able to protect the controlled unclassified information, CUI 
+data, in contracts.
+    Dr. Fletcher, would you like to add to that, please?
+    Dr. Fletcher. Yes, sure. Thank you, sir. So right now we 
+are reworking the rules. So there is a lot of work happening, 
+but it is behind the scenes. Those rules will go to OMB [Office 
+of Management and Budget], and then they will be available for 
+public comment in March of 2023. So folks will have the 
+opportunity to say, you know, this is onerous or this is about 
+right. And then we may see CMMC in contracts as early as summer 
+of 2023.
+    Thank you.
+    Mr. Langevin. Thank you, Dr. Fletcher. Appreciate that.
+    So for my final question, I am concerned that the 
+Department is not adequately focusing on electromagnetic 
+spectrum operations. I think it's a concern for many. The 
+fiscal year 2022--I am sorry, the 2022 NDAA required the 
+Department to designate a senior official to be responsible for 
+the electromagnetic spectrum superiority strategies 
+implementation plan.
+    Can you tell us, what is the status of that implementation 
+plan and the leadership structure? And what barriers do you see 
+to the strategy's successful implementations?
+    Mr. Sherman. Yes, sir. So within CIO, we took the baton on 
+this from Joint Staff last fall in terms of being the overall 
+integrator and lead in the Department. But as you note, EMSO, 
+electromagnetic spectrum operations, is so critical for near-
+peer and peer competitor fights, as we potentially have to 
+ready our forces to fight in highly contested environments--
+that we haven't had to do for many years--and also, bringing 
+together the electronic warfare community and the spectrum 
+operations community into a very necessary integration.
+    So to your question, what we are doing from our Deputy CIO 
+for Command and Control, Communications, as the overarching 
+lead on this, to make sure we are looking at governance, 
+funding, standards, very important as we are working with this, 
+but this is a team of team efforts, very diverse here.
+    Working with the services, the weapons platform leaders and 
+owners, and then, for example, working with U.S. Strategic 
+Command. I was just talking to Admiral Richard about this very 
+topic last week about how we need to be hand in glove working 
+together, given his combatant command responsibility on this.
+    So, sir, we have moved out on this. We are setting the 
+governance structures in place and making sure that we have all 
+the different wheels turning. This will--this necessarily can't 
+be hypercentralized, but we do need someone to quarterback 
+this, which will be us. But it is going to require extensive 
+coordination, to include with Joint Staff as well, to make sure 
+all of these different pieces--and, again, the marriage of EW 
+[electronic warfare] and spectrum operations--which I don't 
+think we have really ever quite done at this level--get fully 
+implemented.
+    Mr. Langevin. Very good. I appreciate that, and thank you 
+for those answers and the testimony here today. Those are the 
+questions that I had at this point.
+    So with that, let me just thank you, Mr. Sherman, Ms. 
+Palmieri, and Dr. Fletcher. Appreciate the work you are doing 
+on behalf of the men and women of DOD and the warfighting 
+effort. We are working hard together on these issues. Look 
+forward to future and further conversation and engagements.
+    And with that, I believe that there are no further 
+questions from members. If that is correct, I will stop here. 
+And as of now, the hearing stands adjourned.
+    [Whereupon, at 11:02 a.m., the subcommittee was adjourned.]     
+=======================================================================
+
+                            A P P E N D I X
+
+                              May 18, 2022
+
+=======================================================================
+
+              PREPARED STATEMENTS SUBMITTED FOR THE RECORD
+
+                              May 18, 2022
+
+=======================================================================
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+
+=======================================================================
+
+              QUESTIONS SUBMITTED BY MEMBERS POST HEARING
+
+                              May 18, 2022
+
+=======================================================================
+
+                    QUESTION SUBMITTED BY MR. FALLON
+
+    Mr. Fallon. How are the offices of the CIO and CDAO working to 
+expand access to 5G on military installations? What can be done to 
+speed up these efforts?
+    Mr. Sherman, Dr. Fletcher, and Ms. Palmieri. The office of the CIO 
+is currently working with OUSD R&E in their lead role for 5G to 
+transition the responsibility of implementation oversight to the Office 
+of the CIO by 1 October 2023, in accordance with FY21 NDAA Section 224. 
+The Office of the CIO is engaged in the DOD 5G Cross Functional Team 
+(CFT) as the principal organization responsible for 5G Policy and 
+Enterprise Infrastructure Programs to deploy secure and interoperable 
+5G Wireless Networking across all DOD departments and agencies. The 
+coordinated and concurrent actions that would have the greatest impact 
+to reduce the timeline to establish 5G communications on military 
+installations would be to consider increased funding to the Services 
+for transition and implementation.
+
+                                  [all]

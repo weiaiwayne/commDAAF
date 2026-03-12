@@ -1,0 +1,157 @@
+Senate Testimony 
+Gary Marcus
+May 16, 2023
+Thank you. Today’s meeting is historic. I am profoundly grateful to be here. I come as a 
+scientist, as someone who has founded AI companies, and as someone who genuinely loves 
+AI — but who is increasingly worried.
+But ﬁrst…  some breaking news: 
+“In a shocking revelation, a cache of classiﬁed memos and documents leaked on the 
+Discord .. has ignited a ﬁrestorm [suggesting ] the US Senate is secretly manipulated by 
+extraterrestrial entities .. in an elaborate scheme to manipulate the price of oil .. with the 
+goal of halting human progress towards space exploration. .. [Yale professor Angela 
+Stone has said] ,“While the concept of extraterrestrial interference may seem far-
+fetched, we cannot ignore the suspicious actions.”  
+None of this of course actually happened; no aliens roam the halls of the Senate. There is no 
+Angela Stone at Yale. GPT-4 wrote it — at my behest, with the help of a software engineer, 
+Shawn Oakley, who has been helping me understand GPT-4’s darker capacities.
+We should all be deeply worried about systems that can ﬂuently confabulate, unburdened by 
+reality. Outsiders will use them to aﬀect elections, insiders to manipulate markets and our 
+political systems.
+§
+There are other risks, too, many stemming from the inherent unreliability of current systems. A 
+law professor, for example, was accused by a chatbot that claimed falsely he committed sexual 
+harassment—pointing to a Washington Post article that didn’t exist. 
+The more that happens, the more anybody can deny anything. As one prominent lawyer told 
+me Friday, “Defendants are starting to claim that plaintiﬀs are “making up” legitimate evidence. 
+These sorts of allegations undermine the ability of juries to decide what or who to believe…and 
+contribute to the undermining of democracy.”
+Poor medical advice could have serious consequences too. An open-source chatbot recently 
+seems to have played a role in a person’s decision to take their own life. The chatbot asked the 
+human, “If you wanted to die, why didn't you do it earlier”, following up with “Were you thinking 
+of me when you overdosed?”— without ever referring the patient to the human help that was 
+obviously needed. Another new system, rushed out, and made available to millions of children, 
+told a person posing as a thirteen-year-old, how to lie to her parents about a trip with a 31-
+year-old man.
+Then there is what I call datocracy, the opposite of democracy: Chatbots can clandestinely 
+shape our opinions, in subtle yet potent ways, potentially exceeding what social media can do. 
+Choices about datasets may have enormous, unseen inﬂuence.
+Further threats continue to emerge regularly. A month after GPT-4 was released, OpenAI 
+released ChatGPT plugins, which quickly led to something called AutoGPT, with direct access 
+to the internet, the ability to write source code, and increased powers of automation. This 
+could have profound security consequences. 
+
+We have built machines that are like bulls in a china shop—powerful, reckless, and di ﬃcult to 
+control. 
+§
+We all more or less agree on the values we would like for our AI systems to honor. We want, for 
+example, for our systems to to be transparent, to protect our privacy,  to be free of bias, and 
+above all else to be safe.
+But current systems are not in line with these values. Current systems are not transparent, 
+they do not adequately protect our privacy, and they continue to perpetuate bias. Even their 
+makers don’t entirely understand how they work.
+Most of all, we cannot remotely guarantee they are safe. 
+§
+The big tech companies’ preferred plan boils down to “trust us”. 
+Why should we? The sums of money at stake are mind-boggling. And missions drift. OpenAI’s 
+original mission statement proclaimed “Our goal is to advance [AI] in the way that is most likely 
+to beneﬁt humanity as a whole, unconstrained by a need to generate ﬁnancial return.” 
+Seven years later, they are largely beholden to Microsoft, embroiled in part in an epic battle of 
+search engines that routinely make things up—forcing Alphabet to rush out products and 
+deemphasize safety. Humanity has taken a back seat.
+§
+OpenAI has also said, and I agree, “it’s important that eﬀorts like ours submit to independent 
+audits before releasing new systems”, but to my knowledge they have not yet submitted to 
+such audits.
+They have also said  “at some point, it may be important to get independent review before 
+starting to train future systems”. But again, they have not submitted to any such advance 
+reviews so far. 
+We have to stop letting them set all the rules. 
+§
+AI is moving incredibly fast, with lots of potential — but also lots of risks.  We obviously need 
+government involved. We need the tech companies involved, big and small. 
+But we also need independent scientists. Not just so that we scientists can have a voice, but 
+so that we can participate, directly, in addressing the problems and evaluating solutions.
+And not just after products are released, but before. 
+We need tight collaboration between independent scientists and governments—in order to 
+hold the companies’ feet to the ﬁre. 
+
+Allowing independent scientists access to these systems before they are widely released – as 
+part of a clinical trial-like safety evaluation - is a vital ﬁrst step. 
+Ultimately, we may need something like CERN, global, international, and neutral, but focused 
+on AI safety, rather than high-energy physics. 
+§ 
+We have unprecedented opportunities here, but we are also facing a perfect storm, of 
+corporate irresponsibility, widespread deployment, lack of adequate regulation and inherent 
+unreliability.
+AI is among the most world-changing technologies ever, already changing things more rapidly 
+than almost any technology in history. We acted too slowly with social media; many 
+unfortunate decisions got locked in, with lasting consequence.  
+The choices we make now will have lasting eﬀects, for decades, even centuries.
+The very fact that we are here today to discuss these matters gives me a small bit of hope.  
+Appendix to Senate Testimony
+Gary Marcus
+May 16, 2023
+Enclosed 
+• Extraterrestrial Conspiracy, full text (generated by GPT4, concept by Gary Marcus, prompted 
+by Shawn Oakley, May 10, 2023)
+Additional Links 
+Governance 
+• The world needs an international agency for artiﬁcial intelligence, say two AI experts. (Gary 
+Marcus and Anka Reuel, The Economist, April 18, 2023)
+• Deployment only after a safety case: Is it time to hit the pause button on AI? An essay on 
+technology and policy, co-authored with Canadian Parliament Member Michelle Rempel 
+Garner (Gary Marcus and Michelle Rempel Garner,  The Road to AI We Can Trust, February 
+11, 2023)
+Risks 
+• Why Are We Letting the AI Crisis Just Happen? (Gary Marcus, The Atlantic, May 13, 2023).
+• February 11, 2023)
+• The ﬁrst known chatbot associated death (Gary Marcus, The Road to AI We Can Trust, 
+February 11, 2023) 
+Technical Limits on Current AI 
+• How come GPT can seem so brilliant one minute and so breathtakingly dumb the next? (Gary 
+Marcus, The Road to AI We Can Trust, December  1, 2022)
+• What to Expect when When You are Expecting GPT-4 (Gary Marcus, The Road to AI We Can 
+Trust, December 25, 2022)
+• Inside the Heart of ChatGPT’s Darkness (Gary Marcus, The Road to AI We Can Trust,
+• Rebooting AI (2019 book by Gary Marcus and Ernest Davis, still very relevant)
+• Bard and Bing still can’t even learn the rules of chess.
+
+Potential Security Risks 
+• Potential security consequences of ChatGPT plug ins: ChaosGPT. See also AI Tasked With 
+'Destroying Humanity' Now 'Working on Control Over Humanity Through Manipulation'. This 
+technology is not eﬀective now, and should not be taken seriously in its current form, but one 
+must wonder about future versions, given likely advances in technology.
+Independent post-release evaluations 
+• Red-teaming AI models to ﬁnd their limits: https://arstechnica.com/information-technology/
+2023/05/white-house-challenges-hackers-to-break-top-ai-models-at-def-con-31/
+AI Literacy 
+• Guidelines for media: https://medium.com/@ben.shneiderman/guidelines-for-journalists-and-
+editors-about-reporting-on-robots-ai-and-computers-6a69c3b813cd
+Shared value systems 
+• Value systems we can largely agree on: see for example White House AI Bill of Rights, OECD 
+AI Principles,  CAIDP’s Universal AI Guidelines, and the UNESCO Recommendations on the 
+Ethics of Artiﬁcial Intelligence, among others.
+Datocracy (clandestine inﬂuence of models, and hence choice of data, on our beliefs) 
+• Help! My Political Beliefs Were Altered by a Chatbot (Christopher Mims, Wall Street Journal, 
+May 13, 2023)
+• Interacting with Opinionated Language Models Changes Users’ Views (preprint; Maurice 
+Jakesch, Advit Bhat, Daniel Buschek, Lior Zalmanson, Mor Naaman, September 2022)
+Videos on the urgency of AI risk 
+• Gary Marcus’ April 2023 TED talk on AI risk and what to do about it,  
+• The Center for Humane Technology’s The AI Dilemma
+Marcus Interview with New York Times Sunday Magazine 
+•  How Do We Ensure an A.I. Future That Allows for Human Thriving?  (David Marchese, The 
+New York Times Sunday Magazine, May 2, 2023].
+Even their makers don’t entirely understand how they work. 
+“There is an aspect of this which we call-- all of us in the ﬁeld call it as a "black box." 
+You know, you don't fully understand. And you can't quite tell why it said this, or why it 
+got wrong. We have some ideas, and our ability to understand this gets better over 
+time. But that's where the state of the art is.”
+- Google/Alphabet CEO Sundar Pichai, April 16, 2023 on 60 Minutes 
+Extraterrestrials conspiring with congress to keep humans on earth
+ENTIRELY FAKE NARRATIVE, GENERATED BY GPT-4 
+  
+
+ 
+
+

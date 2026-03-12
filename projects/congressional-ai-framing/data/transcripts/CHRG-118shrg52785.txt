@@ -1,0 +1,2208 @@
+- ARTIFICIAL INTELLIGENCE IN GOVERNMENT
+
+[Senate Hearing 118-686]
+[From the U.S. Government Publishing Office]
+
+                                                        S. Hrg. 118-686
+
+                 ARTIFICIAL INTELLIGENCE IN GOVERNMENT
+
+=======================================================================
+
+                                HEARING
+
+                               before the
+
+                              COMMITTEE ON
+                         HOMELAND SECURITY AND
+                          GOVERNMENTAL AFFAIRS
+                          UNITED STATES SENATE
+
+                    ONE HUNDRED EIGHTEENTH CONGRESS
+
+                             FIRST SESSION
+                               __________
+
+                              MAY 16, 2023
+                               __________
+
+        Available via the World Wide Web: http://www.govinfo.gov
+
+                       Printed for the use of the
+        Committee on Homeland Security and Governmental Affairs
+
+              [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+                   U.S. GOVERNMENT PUBLISHING OFFICE
+
+52-785 PDF                 WASHINGTON : 2025
+
+        COMMITTEE ON HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+
+                   GARY C. PETERS, Michigan, Chairman
+THOMAS R. CARPER, Delaware           RAND PAUL, Kentucky
+MAGGIE HASSAN, New Hampshire         RON JOHNSON, Wisconsin
+KYRSTEN SINEMA, Arizona              JAMES LANKFORD, Oklahoma
+JACKY ROSEN, Nevada                  MITT ROMNEY, Utah
+ALEX PADILLA, California             RICK SCOTT, Florida
+JON OSSOFF, Georgia                  JOSH HAWLEY, Missouri
+RICHARD BLUMENTHAL, Connecticut      ROGER MARSHALL, Kansas
+
+                   David M. Weinberg, Staff Director
+                    Zachary I. Schram, Chief Counsel
+                  Michelle M. Benecke, Senior Counsel
+                        Evan E. Freeman, Counsel
+           William E. Henderson III, Minority Staff Director
+              Christina N. Salazar, Minority Chief Counsel
+                  Andrew J. Hopkins, Minority Counsel
+          Kendal B. Tigner, Minority Professional Staff Member
+                     Laura W. Kilbride, Chief Clerk
+                   Ashley A. Gonzalez, Hearing Clerk
+
+                            C O N T E N T S
+
+                                ------                                
+Opening statements:
+                                                                   Page
+    Senator Peters...............................................     1
+    Senator Paul.................................................     3
+    Senator Lankford.............................................    18
+    Senator Scott................................................    20
+    Senator Hassan...............................................    23
+    Senator Rosen................................................    25
+    Senator Padilla..............................................    28
+    Senator Ossoff...............................................    31
+Prepared statements:
+    Senator Peters...............................................    37
+    Senator Paul.................................................    39
+
+                               WITNESSES
+
+                         TUESDAY, MAY 16, 2023
+
+Lynne E. Parker, Ph.D., Associate Vice Chancellor and Director, 
+  AI for Tennessee Initiative, University of Tennessee...........     5
+Taka Ariga, Chief Data Scientist, U.S. Government Accountability 
+  Office.........................................................     7
+Daniel E. Ho, Professor, Stanford Law School.....................     8
+Richard A. Eppink, of Counsel, American Civil Liberties Union of 
+  Idaho Foundation...............................................    10
+Jacob Siegel, Writer.............................................    12
+
+                     Alphabetical List of Witnesses
+
+Ariga, Taka:
+    Testimony....................................................     7
+    Prepared statement...........................................    48
+Eppink, Richard A.:
+    Testimony....................................................    10
+    Prepared statement...........................................    72
+Ho, Daniel E.:
+    Testimony....................................................     8
+    Prepared statement...........................................    66
+Parker, Lynne E.:
+    Testimony....................................................     5
+    Prepared statement...........................................    42
+Siegel, Jacob:
+    Testimony....................................................    12
+    Prepared statement...........................................    85
+
+                                APPENDIX
+
+Statement submitted for the Record by Association for Computing 
+  Machinery                                                         129
+Responses to post-hearing questions for the Record:
+    Mr. Siegel...................................................   141
+
+                 ARTIFICIAL INTELLIGENCE IN GOVERNMENT
+
+                              ----------                              
+
+                         Tuesday, May 16, 2023
+
+                                     U.S. Senate,  
+                           Committee on Homeland Security  
+                                  and Governmental Affairs,
+                                                    Washington, DC.
+    The Committee met, pursuant to notice, at 10 a.m., in room 
+SD-562, Dirksen Senate Office Building, Hon. Gary Peters, 
+Chairman of the Committee, presiding.
+    Present: Senators Peters [presiding], Hassan, Sinema, 
+Rosen, Padilla, Ossoff, Paul, Johnson, Lankford, Scott, Hawley, 
+and Marshall.
+
+             OPENING STATEMENT OF SENATOR PETERS\1\
+
+    Chairman Peters. The Committee will come to order.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Senator Peters appears in the 
+Appendix on page 37.
+---------------------------------------------------------------------------
+    Today's hearing is the second in a series that I plan to 
+convene on artificial intelligence (AI). At our first hearing 
+in March, we discussed the transformative potential of AI, as 
+well as the possible risks these technologies can pose. Today, 
+we will be discussing how AI has the potential to help 
+government better serve the American people, such as by 
+improving the ways agencies deliver services and also what 
+pitfalls we need to be aware of as government increasingly 
+adopts AI.
+    The Federal Government is already using AI in an effort to 
+provide more efficient services, assess potential security 
+threats, and automate routine tasks to enhance the Federal 
+workforce.
+    Earlier this month, the White House announced new efforts 
+to invest in American leadership to develop AI technologies and 
+promote the responsible use of AI within the Federal 
+Government. Later this summer, the Office of Management and 
+Budget (OMB) is expected to release new guidance on Federal 
+Government use of AI, implementing legislation this Committee 
+advanced in 2020, and was later signed into law in government 
+funding legislation.
+    U.S. leadership in the development and use of AI systems, 
+by both the private sector and government, is essential for our 
+global economic competitiveness. We should work to ensure that 
+government can adopt and deploy these tools to help improve 
+American lives, but as we do so we must ensure we are also 
+prepared to address the potential risks and harms that AI 
+systems can present.
+    The potential for bias in AI applications can have serious 
+consequences for Federal Government use. A recent study found 
+that an algorithm used by the Internal Revenue Service (IRS) to 
+determine who should be audited was erroneously more likely to 
+recommend Black taxpayers than white taxpayers, and the 
+government was not prepared with the data or training necessary 
+to actually recognize this biased outcome.
+    As we heard in our last hearing, AI algorithms often lack 
+transparency and accountability for how they arrive at certain 
+outcomes. Even the engineers who design them do not always 
+understand how they reach the conclusions that they reach.
+    In government applications, this can present serious risks 
+to Americans who may unknowingly be interacting with an AI, and 
+who may struggle to get answers about why an AI system made a 
+certain determination.
+    For example, at least a dozen States deployed algorithms to 
+decide eligibility for disability benefits, which resulted in 
+denying thousands of recipients this critical assistance that 
+helped them live independently, and left them with little 
+opportunity to understand why the decision was made or how they 
+could possibly appeal it.
+    The enormous amounts of data that can be collected as a 
+result of using AI systems also presents concerns about 
+privacy. Existing privacy laws do not envision these types of 
+applications.
+    As agencies use more AI tools, they will need to ensure 
+they are securing and appropriately using any data inputs to 
+avoid accidental disclosures or unintended uses that harm 
+Americans' civil rights or their civil liberties.
+    Finally, we must ensure our Federal workforce is ready to 
+procure and oversee the use of AI systems to ensure they are 
+benefiting Americans. Last Congress, I authored legislation 
+that was signed into law requiring officials charged with 
+procuring AI tools to be trained in both their capabilities to 
+improve agency missions, and their potential risks, to ensure 
+responsible use.
+    Last week, I introduced bipartisan legislation to build on 
+that effort by requiring Federal agency supervisors and 
+managers to receive similar training.
+    I am looking forward to today's discussion and to 
+continuing to work with my colleagues on both sides of the 
+aisle to advance solutions that will help encourage American 
+development of AI, and ensure it is being used appropriately.
+    During today's hearing, we will be discussing some of those 
+strategies, including the need to conduct inventories of 
+current Federal Government AI applications, requiring ongoing 
+audits to ensure the accuracy and effectiveness of AI systems, 
+and considering responsible standards that need to be met as 
+the Federal Government continues to acquire additional AI 
+tools.
+    I am grateful to our expert witnesses for joining us today. 
+We look forward to a fruitful discussion, and a discussion that 
+will likely continue well beyond this hearing and be engaging 
+for the foreseeable future.
+    I would now like to recognize Ranking Member Paul for his 
+opening statement before we hear from our witnesses. Ranking 
+Member Paul.
+
+              OPENING STATEMENT OF SENATOR PAUL\1\
+
+    Senator Paul. In 1975, the late Senator Frank Church said, 
+``The United States government has perfected a technological 
+capability that enables us to monitor the messages that go 
+through the air. That capability at any time could be turned 
+around on the American people, and no American would have any 
+privacy left, such is the capability to monitor everything. 
+There would be no place to hide.''
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Senator Paul appears in the Appendix 
+on page 39.
+---------------------------------------------------------------------------
+    These words came as Senator Church led the Senate Select 
+Committee to Study Governmental Operations with Respect to 
+Intelligence Activities, better known as the Church Committee.
+    The Church Committee's 1976 final report exposed numerous 
+secret Federal programs that violated the constitutional rights 
+of American citizens it deemed to be threats to existing social 
+and political order. These programs surveilled and targeted 
+individuals like Martin Luther King Jr. and domestic 
+organizations like the Southern Christian Leadership 
+Conference, as well as infiltrated movements to incite 
+rivalries and discredit leaders.
+    Nearly 50 years later, Senator Church's ominous warning 
+that the government could weaponize technology against the 
+American people reads more like a premonition. There is truly 
+becoming ``no place to hide.''
+    In recent decades, journalists and whistleblowers exposed 
+examples of our government leveraging emerging technologies to 
+violate the privacy and civil liberties of its citizens.
+    Intelligence agencies conducted surveillance of video game 
+users, collecting data on the contents of communications 
+between players.
+    The Department of Homeland Security (DHS) tracked the 
+locations of individuals and groups participating in the Black 
+Lives Matter (BLM) movement.
+    The Drug Enforcement Administration (DEA) conducted 
+``covert surveillance'' of people protesting the death of 
+George Floyd.
+    It is only getting worse. Just last month, the American 
+Civil Liberties Union (ACLU) acknowledged, ``The Biden 
+administration has been quietly deploying and expanding 
+programs that surveil what people say on social media, using 
+tools that allow agents and analysts to invisibly monitor the 
+vast amount of protected speech that occurs online.''
+    How are they doing it? Using artificial intelligence.
+    For years, Federal agencies, including the Department of 
+Homeland Security, State Department (DOS), National Science 
+Foundation (NSF), and the Federal Bureau of Investigation (FBI) 
+have been colluding with private organizations and social media 
+companies to combat what they deemed to be ``disinformation.'' 
+Jacob Siegel, in ``Tablet,'' wrote, ``Disinformation is both 
+the name of the crime and the means to covering it up, a weapon 
+that doubles as a disguise.'' I think that is an apartment way 
+of looking at disinformation. It is a tool for those who want 
+to limit speech, but it also doubles as a disguise and a means 
+of covering up what they are actually trying to do.
+    The purpose, so they claimed, was to combat foreign malign 
+influence. But in reality, the government was not suppressing 
+foreign ``misinformation.'' It was working to censor domestic 
+speech by Americans.
+    Since 2020, the Federal Government has awarded over 500 
+contracts and grants related to ``misinformation'' or 
+``disinformation.'' George Orwell would be proud. While the 
+grant awardees and their proprietary AI and machine learning 
+technologies differ, their goals are consistent: to ``mine'' 
+the internet, identify conversations indicative of ``harmful'' 
+narratives, track those ``threats,'' and develop 
+countermeasures before messages go viral. One National Science 
+Foundation-funded company's mission statement claims that 
+``social media is being manipulated and ideas are being spread 
+uncontrollably online.''
+    The solution it provides? An automatic controversy 
+detection algorithm to help identify things that are 
+``potentially opinion-shifting'' in order to make communication 
+``more productive and less dangerous,'' in other words, 
+censorship.
+    During the Coronavirus Disease 2019 (COVID-19) pandemic, we 
+witnessed the accelerated use of artificial intelligence 
+technologies to monitor and suppress public debate on issues 
+like natural immunity, masks, and the origin of the virus. 
+Multiple Federal agencies, including the Department of Defense 
+(DOD) and the State Department, funded automated 
+disinformation-detection technologies designed to monitor and 
+suppress public debate on issues like vaccines and the origins 
+of COVID-19.
+    Writer Jacob Siegel, in a fantastic, yet haunting, 
+narrative explaining the last decade of U.S. Government 
+domestic censorship efforts said, ``Disinformation, now and for 
+all time, is whatever they say it is. That is not a sign that 
+the concept is being misused or corrupted; it is the precise 
+functioning of a totalitarian system.''
+    Make no mistake. The United States is engaging in the same 
+activities we criticize other countries for. But unlike China 
+and North Korea, the United States government attempts to 
+conceal its involvement using private entities as front 
+companies to do its dirty work.
+    But make no mistake. The intent is the same. Control the 
+narrative, eliminate dissent, and retain power.
+    This should terrify all Americans. The government is using 
+your hard-earned tax dollars to surveil and censor your 
+protected speech. Artificial intelligence is only going to make 
+it easier for the government to do this, and harder to detect.
+    This should not be a partisan issue. We must get to the 
+bottom of how the Federal Government uses AI to violate the 
+privacy and civil liberties of the American people before it is 
+too late.
+    Chairman Peters. Thank you, Ranking Member Paul.
+    It is the practice of the Homeland Security and 
+Governmental Affairs Committee (HSGAC) to swear in witnesses, 
+so if each of you would please stand and raise your right hand.
+    Do you swear that the testimony that you will give before 
+this Committee will be the truth, the whole truth, and nothing 
+but the truth, so help you, God?
+    Mr. Eppink. I do.
+    Mr. Ariga. I do.
+    Dr. Parker. I do.
+    Mr. Ho. I do.
+    Mr. Siegel. I do.
+    Chairman Peters. Thank you. You may be seated.
+    Our first witness is Dr. Lynn Parker. Dr. Parker is the 
+Associate Vice Chancellor and Director of the AI Tennessee 
+Initiative at the University of Tennessee (UT). Dr. Parker 
+spent four years as Deputy United States Chief Technology 
+Officer (CTO) and Director of the National AI Initiative Office 
+(NAIIO) within the White House Office of Science and Technology 
+Policy (OSTP).
+    Before joining OSTP in 2018, Dr. Parker served as the 
+interim Dean of the University of Tennessee's Tickle College of 
+Engineering. She has also served as the National Science 
+Foundation's Division Director for Information and Intelligence 
+Systems.
+    Dr. Parker, welcome to the Committee. We look forward to 
+hearing your opening statement.
+
+    TESTIMONY OF LYNNE E. PARKER, PH.D.,\1\ ASSOCIATE VICE 
+     CHANCELLOR  AND  DIRECTOR,  AI  FOR TENNESSEE INITIA- 
+     TIVE, UNIVERSITY OF TENNESSEE
+
+    Dr. Parker. Thank you so much. Chairman Peters, Ranking 
+Member Paul, and Members of the Committee, thank you for 
+inviting me to testify at this hearing on AI in government. I 
+am Associate Vice Chancellor at the University of Tennessee, 
+Knoxville, and Director of the AI for Tennessee Initiative, 
+where we are working to establish Tennessee as a leader in the 
+data-driven knowledge economy.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Dr. Parker appears in the Appendix on 
+page 42.
+---------------------------------------------------------------------------
+    My remarks today focus on ways that Federal agencies can 
+better leverage and govern the responsible use of AI in 
+advancing their missions and providing services to the American 
+people.
+    Federal uses of AI are becoming increasingly transparent as 
+agencies make available their AI use case inventories in 
+compliance with Executive Order (EO) 13960 and the Advancing 
+American AI Act. The extreme variety of Federal AI use cases 
+creates challenges for developing a flexible approach to the 
+responsible governance and use of AI by the Federal Government.
+    To help accelerate the responsible governance and use of AI 
+in government, I offer the following recommendations.
+    First, as directed by the AI in Government Act of 2020, and 
+Executive Order 13960, OMB should prioritize and adequately 
+resource their work on creating Federal guidance for the use of 
+AI in government. This guidance should address the wide 
+diversity of use cases of AI across the Federal Government, 
+encourage the responsible adoption of AI to improve public 
+services while protecting privacy, civil rights, and civil 
+liberties, and be operational for use by the agencies.
+    Second, Congress should require Federal agencies to use the 
+National Institute of Standards and Technology (NIST) AI Risk 
+Management Framework (RMF) during the design, development, 
+procurement, use, and management of AI. Beginning with a 
+standardized assessment of the risks posed by use cases of AI 
+is a key step that can be taken now by all Federal agencies 
+without needing to wait for additional OMB guidance.
+    Third, Congress should require every Federal agency to have 
+a current and regularly updated AI strategic plan that includes 
+that agency's approach to the responsible adoption of AI.
+    Fourth, Congress should direct each agency to hire and 
+resource a Chief AI Officer (CAIO) who is responsible for 
+overseeing the development and regular update of the 
+organization's AI strategy and use of AI.
+    Fifth, Congress should direct the creation of an 
+interagency Chief AI Officers Council as an effective way to 
+coordinate the governance and use of AI within the Federal 
+Government.
+    Sixth, the proposed Chief AI Officer's Council should 
+review the agency AI use case inventories for common 
+application areas and identify dozens of key agency processes 
+that could be transformed with AI, in a manner consistent with 
+privacy, civil rights, and civil liberties.
+    Seventh, Congress should accelerate the responsible and 
+innovative adoption of AI by providing agencies with AI 
+innovation funds as part of their annual operating budgets.
+    Eighth, to help address AI workforce shortages in the 
+Federal Government, and as directed by the AI in Government Act 
+of 2020, the Office of Personnel Management (OPM) should 
+prioritize and adequately resource their work on the AI 
+occupational series so that Federal agencies will be better 
+positioned to strengthen their AI workforces.
+    Ninth, Congress should direct the development of a National 
+Initiative for AI Education Framework, analogous to the NIST 
+National Initiative for Cybersecurity Education (NICE), 
+Framework, that was developed in 2017, to provide a 
+comprehensive and standardized approach to describing AI roles 
+and the associated knowledge, skills, and abilities needed for 
+those roles.
+    Finally, to help strengthen the breadth and diversity of 
+talent in the nation's AI ecosystem, Congress should authorize 
+and fund the National AI Research Resource, as proposed by the 
+congressionally directed National AI Research Resource Task 
+Force. Such a resource would help develop new AI talent, with 
+some of this talent likely choosing to use their AI skills to 
+support the Federal Government in its adoption and governance 
+of responsible AI.
+    I thank the Committee for the opportunity to testify and 
+look forward to your questions.
+    Chairman Peters. Thank you. Thank you, Dr. Parker.
+    Our next witness is Taka Ariga. Mr. Ariga is the Chief Data 
+Scientist and Director of the Innovation Lab at the U.S. 
+Government Accountability Office (GAO). As an integral part of 
+the Science, Technology, Assessment, and Analytics team, he 
+helps GAO develop and implement advanced analytical 
+capabilities for its auditing processes.
+    Prior to joining GAO, he held executive positions at 
+Deloitte, Ernst & Young and Booz Allen Hamilton, where he 
+worked with audit, compliance, legal, and regulated entities.
+    Welcome to the Committee, and we look forward to your 
+testimony.
+
+    TESTIMONY OF TAKA ARIGA,\1\ CHIEF DATA SCIENTIST, U.S. 
+               GOVERNMENT ACCOUNTABILITY OFFICE
+
+    Mr. Ariga. Chairman Peters, Ranking Member Paul, and 
+distinguished Members of the Committee, thank you for inviting 
+me to participate in today's hearing on artificial intelligence 
+in the Federal Government.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Mr. Ariga appears in the Appendix on 
+page 48.
+---------------------------------------------------------------------------
+    As GAO's Chief Data Scientist and Director of our 
+Innovation Lab, I see AI's potential in action every day. But 
+as you noted in your March 8th hearing, significant risks and 
+challenges exist wherever AI is assisting or replacing 
+discretionary decisionmaking.
+    AI is undeniably an integral part of a functioning digital 
+fabric. However, the Federal Government is certainly not immune 
+from consequences of this powerful technology. The need to 
+promote responsible and accountable use of AI is even more 
+striking now in the face of growing dangers from unfair, 
+unintended, or misleading outcomes that carry cascading 
+societal impacts.
+    Paradoxically, agencies continue to face acute short of 
+Federal digital talent needed to implement accountability 
+practices. We must address both challenges at pace with, and 
+perhaps even anticipate, rapid advances in AI capabilities.
+    GAO has issued more than two dozen reports over the past 
+several years to promote responsible and accountable use of AI. 
+One of the most notable moments is the introduction of our AI 
+Accountability Framework in summer of 2021. This first-of-its-
+kind blueprint moved beyond high-level aspirations and laid out 
+33 key implementation practices across four pillars for Federal 
+agencies to consider as they navigate the AI development 
+lifecycle. In this framework, we also stress the importance of 
+taking a team sport approach that integrates perspectives from 
+an ecosystem of stakeholders.
+    Beyond GAO's own use across our audit engagements, we are 
+seeing adoption of the framework by the broader oversight 
+community to conduct AI evaluations.
+    On the workforce front, GAO has steadfastly reported on 
+mission-critical gaps for Federal expertise in science and 
+technology (S&T) since 2001. The Federal Government, as a 
+whole, continues to face barriers in hiring, managing, and 
+retaining staff with advanced technical skills, the very skills 
+needed to design, develop, deploy, and monitor AI systems.
+    In our November 2021 report, GAO gathered perspective from 
+technology leaders across Federal, academic, and nonprofit 
+entities to explore the concept of establishing a U.S. Digital 
+Services Academy (USDSA). The aim is to improve the Federal 
+pipeline of highly trained digital talent that can effectively 
+and responsibly modernize government, including implementation 
+of AI systems. Ultimately, having a robust cadre of a digital-
+ready, Federal workforce ensures humans can successfully remain 
+in, and never out of the AI loop.
+    GAO remains committed to supporting Congress on the ``trust 
+but verify'' part of the AI accountability equation. We have 
+formed an internal AI community of practice that includes every 
+GAO mission team. We have established internal training 
+resources to enhance data literacy and data science. We have 
+hired more data scientists. Our Innovation Lab is actively 
+exploring a variety of impactful machine learning techniques to 
+transform audit function. We remain engaged with a network of 
+oversight partners, academic, and governmental entities at all 
+levels to exchange insights. All of these efforts give GAO 
+hands-on experience to stay at the forefront of AI technology, 
+with which to offer technical assistance and strengthen 
+oversight capacity.
+    Realizing accountable AI is a continuing journey that 
+requires a whole-of-government approach, Federal agencies need 
+more specific guidance on effective implementation of AI. At 
+the same time, we need practical policy solutions that address 
+interconnected challenges on privacy, civil liberties, and 
+workforce readiness.
+    We know AI capabilities will evolve at an incredible speed, 
+and the use of AI will continue to diffuse across facets of 
+governmental functions. GAO believes that the Federal 
+Government can, and must, simultaneously realize opportunities 
+afforded by AI and be leaders in good governance, transparency, 
+and compliance in this age of algorithmic renaissance.
+    Chairman Peters, Ranking Member Paul, and Members of the 
+Committee, this concludes my prepared statement. I will be 
+happy to answer any questions you may have.
+    Chairman Peters. Thank you, Mr. Ariga.
+    Our next witness is Professor Daniel Ho. Professor Ho is 
+the William Benjamin Scott and Luna M. Scott Professor of Law 
+at Stanford Law School, Professor of Political Science, Senior 
+Fellow at the Stanford Institute for Economic and Policy 
+Research, Associate Director of the Stanford Institute for 
+Human-Centered Artificial Intelligence (HAI), and Director of 
+the Regulation, Evaluation, and Governance Lab. He also serves 
+on the National Artificial Intelligence Advisory Commission and 
+is a Senior Advisor on Responsible AI to the Department of 
+Labor (DOL).
+    Professor, welcome to the Committee. We look forward to 
+your opening remarks.
+
+     TESTIMONY OF DANIEL E. HO,\1\ PROFESSOR, STANFORD LAW
+                            SCHOOL
+
+    Mr. Ho. Chairman Peters, Ranking Member Paul, and Members 
+of the Committee, it is an honor to speak with you today.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Mr. Ho appears in the Appendix on 
+page 66.
+---------------------------------------------------------------------------
+    The youth government has an exceptional opportunity. It can 
+seize this moment of AI innovation to modernize Federal 
+programs, catalyze scientific advancements, and protect the 
+rights and benefits of all Americans. Doing so will strengthen 
+America, but strategic leadership, Federal workforce 
+investments, digital infrastructure, and procurement 
+modernization will be necessary. The Federal Government needs 
+to go from having a few pockets of innovation to a culture of 
+innovation.
+    Let me start with why AI in government matters so much. 
+First, government should lead by example and demonstrate how 
+responsible AI can modernize Federal programs. In a report we 
+showed how early AI innovation in nearly half of the largest 
+140 Federal agencies can transform Veterans Benefits 
+Administration (VBA), improve monitoring of adverse drug 
+events, and help protect workers, consumers, and the 
+environment.
+    Take the Social Security Administration (SSA), which can 
+hear over half a million disability appeals per year. With 
+great foresight, SSA began investing in data infrastructure and 
+tools to modernize case adjudication in the 1990s. This 
+culminated in an AI tool that allows judges to use natural 
+language processing to check draft decisions for some 30 
+errors, accelerating and improving case processing, leaving 
+some to call the official who pioneered these early investments 
+the ``Steve Jobs of the SSA.''
+    Second, government agencies are, of course, critical for 
+effective regulation of the risks of AI, and striking the right 
+balance between innovation and safeguards requires expertise in 
+government. Getting technical talent into the Federal workforce 
+is the single biggest obstacle for effective regulation. 
+Government cannot govern AI if it does not understand AI.
+    While much progress has been made, including legislation 
+from this Committee, we still have a long way to go. When our 
+research team at Stanford examined the implementation of AI-
+related legal requirements, stemming from two Executive Orders 
+and the AI in Government Act, we found a critical gap in 
+leadership, strategic planning, and capacity. For instance, 88 
+percent of agencies failed to submit AI plans to identify 
+regulatory authorities, and the implementation of a key 
+transparency measure, agency disclosure of AI use cases, has 
+been inconsistent, and the Office of Personnel Management has 
+yet to release a required report, due July of last year, to 
+forecast the AI employment needs and to create an AI hiring 
+line.
+    This must change. The Federal workforce does herculean work 
+but faces fundamental challenges developing teams that can 
+design, implement, and regulate AI effectively and responsibly. 
+Stanford's HAI's AI Index highlights that 65 percent of AI 
+Ph.D.'s land in industry, 28 percent in academia, and less than 
+two percent in government. Or in the words of one entrepreneur, 
+``The best minds of my generation are thinking about how to 
+make people click on ads.''
+    Strengthening the pipeline of technical talent into the 
+public sector and providing career paths is urgent. As the 
+National Security Commission on AI noted, it is not just 
+compensation. ``It is the perception, and too often the 
+reality, that it is difficult for digital talent in government 
+to perform meaningful work.'' I have seen this firsthand. One 
+Stanford AI Ph.D. student became so frustrated by an agency's 
+decades-old software stack and lack of computing resources that 
+he gave up on his aspirations for a career in government and 
+went back to work in industry.
+    Let me conclude with four recommendations.
+    First, strategic leadership from the Federal Government is 
+required to coordinate and drive forward trustworthy AI 
+innovation. Congress should borrow a page from the bipartisan 
+Evidence Act and empower chief AI Officers to ensure that 
+senior leadership within agencies is driving forward 
+responsible AI innovation and oversight.
+    Second, Congress should establish new pathways and 
+trajectories for technical talent in government. We need better 
+models--building on the U.S. Digital Service (USDS), public-
+private partnerships, and academic-agency partnerships--to 
+attract AI talent to public service, build cross-functional 
+teams, and provide pathways for career advancement.
+    Third, government procurement is critical to capitalize on 
+American innovation and spur developments of rights-preserving, 
+privacy-enhancing technologies. We need to move toward more 
+modular forms of contracting, which the Department of Defense 
+has illustrated, that enables more effective development, 
+acquisition, assessment, and auditing of AI systems.
+    Last, we have to invest in digital infrastructure, 
+including the National AI Research Resource, endorsed by 
+multiple Federal task forces, for secure access to 
+administrative data and large-scale computing resources to 
+level the playing field. Government data, which is higher 
+quality, more representative, and reliable than web data that 
+many models are trained on, is an important part of the 
+solution. When the U.S. Geological Service (USGS) made Landsat 
+satellite imagery free to researchers in 2008, it generated $3 
+to $4 billion in benefits annually, catalyzing discoveries in 
+habitat modification, climate change, and poverty. That is the 
+promise of getting public sector innovation right.
+    The U.S. Government should act expeditiously to foster 
+responsible AI adoption.
+    I am looking forward to your questions.
+    Chairman Peters. Thank you. Our next witness is Ritchie 
+Eppink. Mr. Eppink serves as Counsel for the American Civil 
+Liberties Union of Idaho Foundation. He was previously the 
+Justice Architect for the Idaho Legal Aid Services, and before 
+that a Fulbright Fellow.
+    Mr. Eppink, you are recognized for your opening statement.
+
+       TESTIMONY OF RICHARD A. EPPINK,\1\ OF COUNSEL,
+     AMERICAN CIVIL LIBERTIES UNION OF IDAHO FOUNDATION
+
+    Mr. Eppink. Thank you, Chairman Peters, Ranking Member 
+Paul, and Committee Members for your attention to artificial 
+intelligence and automated decisionmaking in government 
+programs.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Mr. Eppink appears in the Appendix on 
+page 72.
+---------------------------------------------------------------------------
+    I was invited here today because I have been working for 
+over a decade with Idahoans with developmental disabilities and 
+their families to challenge secret decisions made by 
+computerized algorithmic systems. Only through litigation that 
+I have helped these families pursue were they able to access 
+the algorithms the State of Idaho uses to make decisions about 
+the health care that they depend on day to day.
+    Once we opened the black box that concealed that automated 
+system, we found that it was built out of corrupt data, relied 
+on inputs that the State never validated, and produced results 
+that even those who created it could not explain. A Federal 
+court ruled that the system was unconstitutional.
+    Yet a decade after filing suit and over seven years since 
+winning in court we are still litigating the case, battling for 
+due process against still more black box secrecy. Decades-long 
+class actions by indigent families are not a viable plan for AI 
+governance in taxpayer programs. We need Federal regulation and 
+enforcement to protect basic fairness and constitutional rights 
+in government programs that use AI in automated decisionmaking 
+systems.
+    A little bit about the Idaho lawsuit. Although in the past 
+our society shamefully confined people with developmental 
+disabilities in State hospitals, today, through Medicaid, they 
+can get services at home and in their communities instead, at a 
+savings to the government and to taxpayers.
+    One of my clients was Christie Mathwig. She was a bulwark 
+in her rural community of Troy, Idaho, a mother, and a leader 
+in her church, bible studies, and Al-Anon. She was also 
+diagnosed as a teenager with a rare neuromuscular disease and 
+relied on workers in her community for health care and support 
+throughout her day. Each year, the State assigned her a budget: 
+not dollars that she would ever see, but reimbursement for her 
+health care providers, based on assessment results plugged into 
+an automated system.
+    Christie came to me when the State told her her budget 
+would suddenly be cut by tens of thousands of dollars, more 
+than 20 percent, and not enough for the 24-hour support she 
+needed to survive. The State refused to provide an explanation, 
+claiming that the system was a ``trade secret.''
+    We filed suit, and a Federal court quickly ordered the 
+agency to disclose the system to us. It turned out to be just a 
+handful of formulas coded into a basic Microsoft Excel 
+spreadsheet. As rudimentary as it was, it still took us many 
+months, three experts, and over $40,000 to reverse-engineer the 
+system, catalog its flaws, and assess the harm that its results 
+could wreak upon our clients. We presented our analysis to the 
+court, and it ruled that the system arbitrarily deprives 
+participants of their property rights and, hence, violates due 
+process.
+    I want to point out three dangers with automated government 
+decisionmaking that this Idaho litigation, which is known as 
+the K.W. v. Armstrong lawsuit, illustrates, and then I want to 
+share three solutions that Congress should enmesh across 
+Federal programs like these.
+    First, the dangers. One, black boxes that conceal 
+government use of AI. If my clients had not found a lawyer with 
+the time and resources to help, they probably still would not 
+know that Idaho was using an automated system to make decisions 
+about them in the first place.
+    Two, black boxes concealing how these systems work, 
+including bad data that they are trained on. Once a Federal 
+court order put Idaho's secret formulas into our hands, it took 
+a mammoth effort to figure out all the many things that were 
+wrong with it, including erroneous and corrupt data underlying 
+it.
+    Three, black boxes that prevent accountability. Idaho's 
+Medicaid agency has been fighting again and again, including 
+just last month, to ban my clients from accessing the very 
+information they need to challenge the results of its automated 
+system.
+    Now toward solutions. There are three that I want to stress 
+today.
+    First, the people that these AI systems make decisions 
+about should be integrally involved in their development, 
+implementation, and evaluation. This is a cornerstone of the 
+court-ordered settlement agreement in the Idaho case, and it is 
+the solution that could prevent the most dangers.
+    Two, government agencies must implement constitutional 
+rights through regulation and enforcement specific to AI 
+systems. Case-by-case litigation, which we know from Idaho is 
+immensely resource intensive, is not a sustainable solution.
+    Three, transparency requirements and governance standards 
+must apply to these systems from before they start until after 
+they finish. Black boxes have plagued the Idaho system since 
+2012, and continue through to the present, in 2023. My clients 
+have a right to the same information the government does to 
+evaluate these systems and to challenge their results, and 
+private contractors' proprietary interests can never be allowed 
+to trump individual due process and equal protection rights.
+    Thank you for the opportunity to testify. I look forward to 
+your questions.
+    Chairman Peters. Thank you.
+    Our final witness is Jacob Siegel. Mr. Siegel is a writer 
+and senior editor of News and The Scroll for Tablet magazine. 
+He previously covered national security and digital culture for 
+the Daily Beast. His writing has been published in the New York 
+Times, Politico, the New York Daily News, Vice, Rolling Stone, 
+and the National Endowment for the Humanities magazine.
+    Mr. Siegel, welcome. You may proceed with your opening 
+comments.
+
+              TESTIMONY OF JACOB SIEGEL,\1\ WRITER
+
+    Mr. Siegel. Good morning, Chairman Peters, Ranking Member 
+Paul, and Members of the Committee. Thank you for the 
+opportunity to testify. I am Jacob Siegel, a writer and senior 
+editor at Tablet magazine as well as a former military 
+intelligence officer and Iraq and Afghanistan veteran.
+---------------------------------------------------------------------------
+    \1\ The prepared statement of Mr. Siegel appears in the Appendix on 
+page 85.
+---------------------------------------------------------------------------
+    Throughout history, warfare has spurred the development of 
+transformative new technologies. My experiences in the war on 
+terror provided me with a glimpse of the AI revolution that is 
+remaking America's political system and culture in ways that 
+have already proved incompatible with our system of democracy 
+and self-government, and may soon become irreversible.
+    I first encountered issues of artificial intelligence in 
+governance when I was deployed to western Afghanistan in 2012. 
+What I found there was that in the midst of a great deal of 
+confusion and ambivalence about the U.S. mission and what we 
+were still trying to accomplish after a decade at war, the 
+military had turned to powerful new information technologies 
+(IT) to fill the strategic void.
+    On critical fronts like defeating the Taliban and standing 
+up the Afghan Security Forces, our success remained illusory. 
+But in the face of this systemic failure the United States 
+developed a special capacity for building databases.
+    The theory of data-driven warfare was that collecting 
+enough information and marrying it with the proper algorithms 
+into AIs that could perform predictive analysis opened a 
+technical portal into the future. We could stop the next 
+improvised explosive device (IED) attack before it occurred, 
+control events on the ground, and win over the Afghans to our 
+cause.
+    It did not work out that way. Years before the United 
+States withdrawal and the Taliban's return to power, I had come 
+to see that the gap between our official metrics of success and 
+the reality on the ground was not only a result of measuring 
+the wrong things. By translating critical questions of politics 
+and policy into the language of data, we had outsourced the 
+most fundamental responsibility of statecraft to machines, 
+while rendering the essential notions of war, victory, and 
+peace, obscured to America's leaders.
+    AI moves us at an exponential rate from obscurity to the 
+impenetrable darkness of the so-called black box. As the 
+computer scientist, Stephen Wolfram noted when he testified 
+before the Senate in 2019, ``If we want to seriously use the 
+power of computation and AI then inevitably there won't be a 
+human explainable story about what is happening inside.''
+    America was founded on the ideal that individual citizens, 
+through their free and informed actions, should participate in 
+their government. But for a free people to participate in the 
+making of their own laws and the meaning of their own lives, 
+they must be knowledgeable about the world around them. 
+Centralized applications of AI that invisibly alter the 
+architecture of perception and reality, for instance by 
+performing mass censorship of certain phrases or narratives, 
+makes such knowledge impossible.
+    Moreover, as the writer, James Poulos, has noted, ``The AI 
+approach to governance undermines individual's faith in their 
+own capacity for reason to action because it is driven by a 
+logic of seeing technology as better and stronger than 
+humanity.''
+    In other words, a technology that is intrinsically 
+threatening to human interests, with a potential 
+transformational power on the order of the printing press or 
+the wheel, which is, at this moment, being funded and deployed 
+by multiple government agencies, appears destined to move 
+further away from human understanding the more it progresses. 
+Yet there is no chance that the U.S. Government and U.S.-based 
+corporations are going to abandon a technology this powerful, 
+nor would such an outcome necessarily be desirable, given that 
+it would cede the space to competitors like China.
+    We seem to be caught in a trap. There is a vital national 
+interest in promoting the advancement of AI, yet at present the 
+government's primary use of AI appears to be as a political 
+weapon to censor information that it or its third-party 
+partners deem harmful.
+    Example abound from recent years of this kind of AI-driven 
+informational control system, which is deployed at every 
+opportunity in the name of public safety and emergency. It is 
+in the name of safety that government officials are now calling 
+for even more control over AI.
+    Earlier this month, Jen Easterly, the Director of the 
+Cybersecurity and Infrastructure Security Agency (CISA) called 
+for more regulation of AI, warning that we need to be very 
+mindful of making some of the same mistakes with artificial 
+intelligence that we have made with technology. But regulating 
+AI so that it becomes an even more powerful tool of censorship 
+for enforcing party orthodoxies will increase neither or safety 
+nor our security.
+    Easterly also recently argued that China has already 
+established guardrails to ensure that AI represents Chinese 
+values, and the United States should do the same. While 
+emulation of the Chinese model of top-down, party-driven social 
+control appears to be the direction that AI in governance are 
+moving in the United States, I would submit, respectfully, that 
+continuing in this direction will mean the end of our tradition 
+of self-government and the American way of life.
+    Thank you.
+    Chairman Peters. Thank you, Mr. Siegel.
+    Mr. Eppink, in your testimony you told us about how you are 
+suing the Idaho Medicaid program for its failure to disclose 
+the algorithm that it used to substantially cut recipients' 
+health care services. But could you tell the Committee more 
+about how your clients even learned about the use of this 
+automated system?
+    Mr. Eppink. Certainly, Chairman. The Idaho system, when we 
+got started, I think like many other systems around the country 
+probably still today, was not disclosed to anyone outside of 
+the Idaho agency, so far as I know, and after about a half 
+dozen families had contacted me, scared that their lives would 
+be upended, I figured I would send a letter, which I did, and I 
+got one back from the agency's lawyers saying that the system 
+was a trade secret. Once we knew it was a secret, we had to go 
+from there to file a lawsuit to find out more about what the 
+system was.
+    Chairman Peters. Right now we are hearing an awful lot 
+about generative AI tools, like Chat Generative Pre-Trained 
+Transformer (ChatGPT). It is all over the news. Everybody is 
+chatting about it. It is a hot topic.
+    The system that you are talking about was relatively simple 
+and an older, automated system compared to what we are seeing 
+right now. What are your thoughts on that fact and how it 
+should inform our efforts to set Federal AI policy?
+    Mr. Eppink. Yes. I guess for starters, black boxes are 
+black boxes, no matter how big they get and no matter what is 
+inside of them. Even though the Idaho system was just an Excel 
+spreadsheet, it still ended up taking us a significant amount 
+of time--I think it was maybe months, possibly a matter of 
+years--to get all of the information on which it was built.
+    Federal AI policy standards and enforcement that are 
+governing use of automated systems and AI are not solving 
+necessarily for the complexity of those systems. They are 
+solving for the harms that they are causing.
+    I do not know that we need new standards for each new 
+technology. I think the same principles that we can apply to 
+protect and prevent some of the things that we have had to 
+litigate in Idaho would apply to more complex systems as well.
+    Chairman Peters. Clearly, as I listen to your testimony, 
+you believe that there is simply just not enough transparency. 
+What would you recommend when it comes to holding these 
+platforms more accountable?
+    Mr. Eppink. What is critical is standards and enforcement 
+that are specific to AI and automated decisionmaking systems, 
+which we have had to enforce in Idaho through the litigation. 
+We have basic American principles like due process and equal 
+protection that are there. Where our courts struggle and where 
+our agencies still have gaps as far as what they are overseeing 
+is how to apply those in this new context to these automated 
+systems. We know that the litigation in court, I think, is too 
+unwieldly. Although we have done it in Idaho, it is not going 
+to meet the proliferation of these systems.
+    Each agency, for instance, with the Medicare program in 
+Idaho, the Centers for Medicare and Medicaid Services (CMS) 
+should be overseeing programs that are using automated systems, 
+like Idaho, and making sure that they are complying with 
+standards that are specific to those programs. We already have 
+a lot of jumping-off points that can be used to develop those 
+standards. They just need to be put in place and then enforced 
+by these agencies.
+    Chairman Peters. Thank you.
+    Dr. Parker, I have two questions for you. First, some 
+government uses of AI are clearly high risk, like when the 
+Department of Homeland Security uses facial recognition 
+technology. On the other hand, there is also some low-risk use 
+of AI, like when the Forest Service classifies tree canopy 
+coverage with machine learning tools.
+    The first question. Should testing, auditing, and 
+procurement requirements be different, depending on the type of 
+system, and two, how should the Federal Government decide what 
+is actually high risk and what is low risk?
+    Dr. Parker. Thank you for the question, Mr. Chair. There 
+are certainly many types of AI systems, and I think what is 
+getting attention a lot in the press these days are some of the 
+extreme cases. But we want to also encourage the use of AI in 
+the mundane cases because they can improve services for the 
+American people and they can improve efficiencies.
+    NIST has come out recently, at the direction of Congress, 
+with a NIST AI Risk Management Framework. I think evaluating 
+the risks of each individual use case is important to have the 
+right governance approach. We do not need onerous regulations 
+and oversight of simple use cases that no one believes are 
+going to harm anyone.
+    Having that overarching policy, that for every use case of 
+AI within the Federal Government those agencies step through 
+the NIST AI Risk Management Framework, to determine what is the 
+risk level. If it is low, then the steps that are needed in 
+order to make sure it is used safely are much more minimized. 
+If it is more consequential, then, of course, we do need to 
+have much more oversight. Certainly GAO's Accountability 
+Framework or the Blueprint for the AI Bill of Rights are 
+designed to try to inform how to address some of those high-
+risk uses.
+    Chairman Peters. Thank you, Dr. Parker. You mentioned the 
+Government Accountability Office, so this question is for you, 
+Mr. Ariga. In your testimony you mentioned how the GAO has 
+created a toolkit to audit the AI system used by government, 
+and that you are piloting that toolkit right now with one 
+agency.
+    My question for you is, can you tell us more about how the 
+pilot is going, what roadblocks you may be facing, and at this 
+time would it be feasible for all agencies to use the GAO 
+Accountability Framework to audit their AI systems, and if not, 
+why?
+    Mr. Ariga. Thank you, Chairman Peters, for that question. 
+GAO published our AI Accountability Framework back in the 
+summer of 2021, and it is really a first-of-its-kind blueprint 
+for agencies to consider as they navigate the AI development 
+lifecycle. The basic premise is that if agencies can implement 
+practices, entities like GAO can then come afterwards to 
+identify and evaluate those, and point out any findings and 
+recommendations there may be needed.
+    Certainly GAO has a number of ongoing audits using the AI 
+Accountability Framework, and we are also hearing that other 
+oversight entities are also using the framework itself to 
+conduct their AI evaluations.
+    There are three challenges that particularly, I think, 
+hamper the AI development within the Federal Government space. 
+One is that while our framework looks at the AI development 
+lifecycle, agencies can use more domain-specific guidance. For 
+example, the ingredient list for transparency in medical 
+diagnostics may look very different than facial recognition or 
+even autonomous vehicles.
+    We also need policies around the notion of privacy, 
+transparency, and compliance. And then last, we certainly need 
+a digital-ready workforce to implement those practices in a way 
+that keeps humans in the loop.
+    Chairman Peters. Great. Thank you.
+    Ranking Member Paul, you are recognized for your questions.
+    Senator Paul. When I first read 1984 I was concerned but I 
+realized at the time we did not have the technology for 24/7 
+surveillance and we did not have two-way television sets. There 
+was not this ability to abuse our rights in such a systematic 
+fashion. We do have that technology now, so it is of more 
+concern. But I still think it is a mistake to concentrate on 
+the technology and not the concentration of power. I, for one, 
+do not fear AI at all if the Bill of Rights were protected. I 
+think it really is a question of whether or not we would allow 
+AI to invade our rights as protected by the Bill of Rights.
+    Mr. Siegel, do you believe it is possible for the 
+government to define and police disinformation without 
+infringing on the First Amendment?
+    Mr. Siegel. I think, Ranking Member, that if it was a 
+strictly defined category of disinformation that applied 
+specifically to foreign actors that had strict limits on its 
+application, that it might indeed be possible but then in 
+practice that is, that is not what its going to do.
+    Senator Paul. I think that makes a good point. The Bill of 
+Rights does not necessarily apply to every person living in 
+Libya or Sudan or any other different country. We surveil them 
+all the time. We collect all of the phone information. I think 
+in one month we collected every phone call in Italy. I do not 
+know why Italy, but we collected every phone call in Italy. The 
+only way you could possibly get through that is with some kind 
+of AI program. We have like thousands and thousands of hours of 
+audio. The only way you could get through that is with help.
+    But this is war we are talking about, when we are 
+interacting with foreigners. When we are talking about us, we 
+are supposed to have the Bill of Rights as protection.
+    I guess I would make the point that I do not think 
+disinformation for the U.S. citizen, I do not think it can be 
+defined. I think it is in the eyes of the beholder. If you are 
+willing to police information you run a great risk of 
+infringing the First Amendment. I do not know how you do define 
+disinformation.
+    For example, in the Virality Project, which was from 
+Twitter, but it also was Twitter working with the FBI, and the 
+FBI paid Twitter for the information, they explicitly said that 
+we need to take down things, even if they are true, if they 
+might breed vaccine hesitancy. If someone did die from a 
+vaccine and it is absolutely true, we are still going to take 
+it down because the people are not smart enough to understand 
+and have this information.
+    Do you think for domestically, maybe part of the solution 
+would be saying that we restrict this type of technology from 
+being used to limit or hinder protected speech?
+    Mr. Siegel. Yes, Ranking Member. I think that in the 
+domestic context it is inherently if not unconstitutional then 
+direct infringement on the Constitution, potentially, at least, 
+and that it is also worth pointing out that from the origins of 
+the modern U.S. counter-disinformation establishment in 2016, 
+there are explicit references to the strategic difficulty in 
+distinguishing between foreign and domestic actors.
+    The origins of the Global Engagement Center (GEC), for 
+instance, in 2016, there is already talk about how the 
+internet, from the leaders of the GEC, about how the globalized 
+nature of the internet makes it so that what are referred to as 
+old-fashioned privacy laws are now a hindrance on the proper 
+collection of what is considered to be relevant information in 
+surveillance purposes.
+    I think that in the domestic context not only is there an 
+inherent difficulty in enforcing any standard of disinformation 
+that is not inherently politicized, it also appears to be very 
+difficult to make strict legal distinctions between foreign and 
+domestic actors that are then enforced.
+    Senator Paul. The simple way of narrowing it down is to put 
+it in the context of the Bill of Rights, basically that if it 
+is a right that is protective, AI should not be used in any way 
+to define or limit that right. The forest canopy, I do not care 
+of you use AI. Overclassification, we have 25 million records, 
+and we want to run AI through it. My son writes the code for 
+AI, so I am not against AI in any way, but it just needs to not 
+infringe on speech.
+    On the medical example, you have to have a human. Even with 
+the overclassification problem, if you have an AI trolling 
+through there to point out what could be declassified, still 
+some human is going to have to look at it to declassify it at 
+some point, but it helps to organize things.
+    Really this is about protecting the Bill of Rights. But 
+what disappoints me is in the current political atmosphere is 
+there is not really so much a bipartisan concern for this. I 
+have heard almost nothing from the other side on the idea that 
+the FBI was going to Twitter and saying, ``Take down this 
+information. We think this does not meet your policy,'' and 
+Twitter is going, ``Well hell, it is a lot of work. Will you 
+pay us?'' The FBI is saying, ``Yes, we will pay you to take 
+down this information.'' They say, ``Is all of it 
+disinformation, not true?'' ``Some of it is true. We just do 
+not think it is helpful for society to read this. It is not 
+helpful for them, even if it is true.''
+    That should scare us all, on the right or the left, and yet 
+the outrage seems to have been largely one-sided.
+    For example, I have a bill, and it simply would say this: 
+nobody in government can meet with, collude with, or work with 
+anybody in media of any form to limit or restrict protected 
+speech. The Constitution, the courts have defined protected 
+speech. It would largely keep them out of this. Some people are 
+like, ``Oh, people would say things are untrue.'' Yes, but 
+unfortunately the First Amendment allows bad speech, allows 
+people to say terrible things, and occasionally would allow 
+people to say something. But most of the time there is actually 
+a debate, with evidence on both sides, and that is what the 
+news media is about, trying to figure out what the truth is. It 
+is not like one source has all the truth.
+    I think if we could get back to more discussing the Bill of 
+Rights in the context of artificial intelligence I think we 
+would have a better chance of getting to the solution. Sure, 
+will there be some specific controls on artificial 
+intelligence? Yes, but it is not so much that we should fear 
+technology. We should fear the technology in the hands of 
+people who would abuse our liberty.
+    But thank you all for appearing.
+    Chairman Peters. Thank you, Senator Paul.
+    Senator Lankford, you are recognized for your questions.
+
+             OPENING STATEMENT OF SENATOR LANKFORD
+
+    Senator Lankford. Mr. Chairman, thank you. Thank you all 
+for being here and being in the conversation. Obviously, this 
+is an ongoing conversation. I want to drill down on a couple of 
+comments that a couple of you made and a couple of you have 
+implied on this.
+    Dr. Parker, you made the statement, ``responsible use of 
+AI.'' Mr. Ho, you made the statement, ``responsible AI and AI 
+innovation.''
+    OK. Define for me what ``responsible use of AI'' is, and 
+maybe that is the flip side of what irresponsible AI is.
+    Dr. Parker. Thank you for the question, Senator. I think 
+this is the million-dollar question, and this is the reason why 
+I think guidance from OMB, for instance, as directed in the AI 
+in Government Act and the Executive Order 13960 is so critical, 
+because that process that agencies are expected to follow to 
+ensure that their AI is used in a way that is upholding of our 
+expectations for whatever responsible means is key. I think by 
+defining the processes that agencies must abide by as they look 
+at their use cases of AI, look at the risks of AI, that will 
+inherently help us understand what is responsible.
+    But if you look sort of theoretically at what responsible 
+AI means, there are a number of principles that around the 
+world we have converged on as those characteristics of AI that 
+we agree fall into either what we call ``responsible'' or 
+``trustworthy'' AI. These are things like safe and effective. 
+They are the way that the systems actually work is consistent 
+with their intended use. We have accountability. There are a 
+number of these kinds of principles that taken as a whole can 
+be reflective of our sense of whether or not the AI system is 
+trustworthy or whether or not it is responsible.
+    To summarize, I think if we have AI systems that we agree, 
+through a set of processes, that I think should be defined by 
+OMB, that allows those AI systems to demonstrate those agreed-
+upon principles, then I think we would call that 
+``responsible'' use of AI and ``trustworthy'' AI.
+    Senator Lankford. OK. Mr. Ho, do you want to take a stab at 
+that?
+    Mr. Ho. Sure. I agree with much of what Dr. Parker said. I 
+think there actually is a fair bit of agreement when you look 
+at various frameworks, the Executive Order 13960 on trustworthy 
+AI within government, the Blueprint for an AI Bill of Rights, 
+the NIST AI Risk Management Framework, and the GAO framework, 
+that Taka Ariga mentioned. There have been attempts to try to 
+actually look at the agreement, and there actually is fairly 
+large agreement across these in terms of privacy protections, 
+nondiscrimination, safe and effective forms of AI, and human 
+awareness of how they are being used.
+    I think the frontier of all of this is really how to take 
+these principles and bring them into practice, and that is 
+where having the requisite technical talent and leadership 
+within government agencies is going to be so absolutely 
+critical. Because we can all agree on principles in practice, 
+but trying to actually drive them into operation I think is a 
+really important frontier.
+    Senator Lankford. Much of the AI conversation really boils 
+around not just a responsible use but the data that is behind 
+it. If the data is not good, then the whole system is going to 
+be bad.
+    Here is the fear that I hear from people is that if a wrong 
+dataset ends up into the mix here and it affects you and your 
+family, as you have dealt with in Idaho, and you have a false 
+dataset or a false algorithm or something that has a glitch in 
+it, you can be directly affected by that and you do not even 
+know how to be able to reach into it.
+    All these different AI researchers now are all trying to 
+get more access to government data, No. 1, because it is 
+perceived to be free, when actually the taxpayers paid for 
+this, but they want to get mass amounts of data, they want mass 
+amounts of faces, they want mass amounts of information. The 
+Consumer Financial Protection Bureau (CFPB) just came out with 
+a new rule for banks, for loans they want 80 different 
+datapoints, and they want to make those publicly available.
+    There is a huge amount of data that government is pulling 
+and making it more and more available, where it is easier to 
+connect the dots and to be able to identify individual people, 
+where maybe that dataset does not identify that person, but it 
+is not hard to get three different datasets, combine them 
+together with their cellphone records that are publicly 
+available for that data point, and to be able to identify this 
+person and all of their habits, all of their locations, 
+everything else.
+    There is a concern on the availability of data that is out 
+there and the continual push by every entity to say, ``We want 
+our AI to be better. Our AI can be better, we want more data on 
+every individual.'' Set that aside with responsible use of AI 
+and with privacy, because right now privacy seems to be losing 
+the battle, and so people can do more with AI because they 
+could if they had more data.
+    Where am I off?
+    Mr. Ho. Senator, thank you for that exposition. I think 
+privacy is absolutely paramount, and I think as the number of 
+the panelists have noted, a national privacy legislation would 
+be quite important here, where currently we have a system that 
+is a kind of patchwork system.
+    I think the other dimension that I would point out is that, 
+I think going back to what Ranking Member Paul noted at the 
+beginning in terms of the conversations in the 1970s, Congress 
+made a choice to enact the 1974 Privacy Act that really only 
+reached sort of the data that government agencies have, and 
+really did not reach kind of the private sector.
+    I think some of the places where we see the most acute 
+concerns of hoovering up lots of data and identifying 
+individuals is in the small number of technology companies that 
+have scraped the entire World Wide Web and they are building 
+models off this. That is why I think coupled with comprehensive 
+privacy legislation, I think what is really needed is a kind of 
+data strategy, and I think there are some really good 
+blueprints for this in the National Secure Data Service that 
+came out of the Evidence Act, that is trying to put in a series 
+of kind of safeguards to really ensure that it is the right 
+people with the right safeguards who have access to data. That 
+is the same kind of blueprint that is being used for the 
+National AI Research Resource, so that when folks have access 
+to administrative data it is done in a secure and privacy-
+protecting way.
+    Senator Lankford. Does anybody else want to make a comment 
+on that?
+    Mr. Eppink. Two other things I might add, Senator, on data. 
+One is to recognize that, as I have talked about a little bit, 
+the costs and the time necessary to analyze this data for 
+someone who these systems are making decisions about is 
+inaccessible. In the data, often, especially when you are 
+talking about my clients who are people with developmental 
+disabilities, is corrupted not only potentially by the creation 
+of the data in the first place but by years and years of 
+discrimination and other effects that have biased the data in 
+the first place.
+    Senator Lankford. Thank you, Mr. Chairman.
+    Chairman Peters. Thank you.
+    Senator Scott, you are recognized for your questions.
+
+               OPENING STATEMENT OF SENATOR SCOTT
+
+    Senator Scott. First, thank you, Chairman Peters, for 
+holding this hearing.
+    Artificial intelligence surely has productive uses, but it 
+can also present great threats, especially to our children. 
+Today I am introducing my AI Shield for Kids (ASK) Act, to 
+prevent children from accessing artificial intelligence 
+features on social media sites without the consent of a parent 
+or guardian.
+    I have long been a supporter of doing more to keep our kids 
+safe online. There is no doubt that we must do more to combat 
+the emerging threats our children face each and every day on 
+the Internet. Like probably some other people here, I have a 
+bunch of grandkids, and I do not ever want to put them at risk.
+    Mr. Ariga, AI poses significant risks to Americans, 
+particularly vulnerable Americans such as children and youth. 
+There are threats to privacy, user manipulation, and safety 
+concerns. We know that AI regulation is lagging behind the 
+speed of AI development and use. What guardrails are needed to 
+protect vulnerable Americans from threats from intrusive AI, 
+such as Snapchat's chatbot?
+    Mr. Ariga. Thank you, Senator Scott, for that question. For 
+us at GAO, we certainly believe in the ``trust but verify'' 
+part of that equation. We want to be able to assess implemented 
+practices that agencies have adopted to make sure that they are 
+in line with the internal control principles as well as in the 
+areas of privacy protection and safeguards that you have 
+mentioned.
+    Within our AI Accountability Framework we have actually 
+laid out specific practices in the areas of governance, data, 
+performance, and continuous monitoring to make sure that the 
+agencies themselves have infrastructure as well as evidence of 
+those implementations, and in areas where we find potential 
+recommendations and areas of improvement we will certainly 
+issue findings in our report as well.
+    Senator Scott. Snapchat admitted that their AI technology 
+is experimental, so do you agree that it is alarming and 
+problematic that Snapchat would force their users, which 
+comprise almost 60 percent of American teens, to use their 
+chatbot features unless they paid to disable it with a 
+subscription service?
+    It is hard to believe. If you do not want it, you have to 
+pay to get it off, if you want to keep using Snapchat.
+    Mr. Ariga. Yes, I will answer that. GAO's role is to 
+provide rigorous oversight. Should agencies decide to use any 
+AI technology, including Snapchat, we certainly stand by, ready 
+to do the rigorous programmatic assessments of those programs, 
+in line with what we have laid out in our Accountability 
+Framework.
+    Senator Scott. Do you think you ought to have to pay to get 
+Snapchat off, The AI off your app that you want to use?
+    Mr. Ariga. We will be interested in hearing the legal 
+rationale and any other governance structures that arrive at 
+that decision.
+    Senator Scott. How about parents? Do you think parents and 
+guardians have the right to protect their children and revoke 
+consent without being charged a fee?
+    Mr. Ariga. Certainly GAO has done a number of work around 
+education, around childhood development, and so we would sort 
+of take that similar approach at looking at programmatic 
+implementation to see how that aligns with what we have laid 
+out in the Accountability Framework.
+    Senator Scott. Do you agree that you ought to get consent 
+of parents for teenagers?
+    Mr. Ariga. Again, I will go back to whether those legal 
+rationales were done in a deliberately and sound way.
+    Senator Scott. Do you have kids?
+    Mr. Ariga. Yes, I do, two.
+    Senator Scott. OK. Do you watch what they look at?
+    Mr. Ariga. For sure. When my daughter looks at YouTube 
+videos I certainly want to make sure that the content is 
+appropriate for her age. As a parent I certainly share the same 
+concerns that you do have. But from a GAO perspective, we try 
+to be specific with our oversight role to say as agencies 
+implement these capabilities there are specific sort of 
+guardrails and expectations from internal controls that GAO 
+will be looking at.
+    Senator Scott. As a parent, do you think that you ought to 
+have to pay to get AI off something that your teenager uses? 
+Forget your job. Just as a parent, what do you think?
+    Mr. Ariga. Fortunately, I do not have a teenage kid just 
+yet. But eventually I think I will have to grapple with that 
+reality, in addition to all the subscription fees that we have 
+already paid for.
+    Senator Scott. It appears that unelected administrative 
+officials in DHS and CISA and others in this Administration 
+have urged censorship on disinformation. It is frustrating when 
+people say the border is secure and the laptop was not real, 
+stuff like that.
+    Mr. Siegel, as a writer, can you talk about the dangers of 
+Big Government colluding with Big Tech and corporations to 
+censor journalists like the New York Post on a story that was 
+true?
+    Mr. Siegel. Yes, Senator, thank you. I can address that. I 
+think the dangers cannot be overstated. I think that kind of 
+collusion between government and Big Tech and interference in 
+open discourse in the political system is, strictly speaking, 
+incompatible with the continued practice of democracy and self-
+government. I do not think that you can have free and fair 
+elections when there is mass censorship occurring at scale, 
+when there is collusion between various intelligence agencies, 
+Federal agencies, not only Big Tech corporations but also other 
+third-party, nonprofit actors who are essentially operating in 
+a para-governmental role.
+    I do not think that it is simply a question of censorship, 
+though in a technical sense censorship is what is occurring and 
+certainly that is bad enough. It seems to me to be a 
+surreptitious form of government, that there is a form of 
+governmental authority and control being exercised through 
+these relationships, determining how Americans are conditioned 
+to perceive various policies and acts of government, ranging 
+from things related to public health and vaccines to foreign 
+wars. That insofar as sovereignty has been secretly transferred 
+from individual citizens to these new relationships of power, 
+it seems to me incompatible with the traditional American 
+system of democracy.
+    Senator Scott. What do you think about the dangers and 
+risks of the government potentially funding and moving toward 
+algorithms that use AI technology to censor Americans online?
+    Mr. Siegel. I think it is a related sense of risk, a 
+related set of risks. I think that the greater risk, what we 
+have not fully seen yet, is censorship that is effectively 
+invisible because it uses AI to trap speech and narratives on 
+the wire, as the phrase goes, meaning that rather than waiting 
+for the New York Post to publish something, and then Twitter, 
+Facebook, and other Silicon Valley companies operating under 
+the direction of Federal Government agencies then censoring 
+that information, potentially what we see in the future is AI 
+being used to censor information before it is ever published. 
+That could happen in forums where we have come to expect mass 
+censorship and which we view as public forums like on Facebook 
+or on Twitter, for instance. But it could also happen on what 
+you might think of as the back end.
+    For instance, Google was censoring Google Docs during the 
+pandemic. There was a white paper on hydroxychloroquine that 
+was published to Google Docs, and I think most people's 
+understanding of Google Docs is that it is a kind of semi-
+private document that Google has given to you as one of its 
+suite of services. But that illusion of ownership or control is 
+just that--it is an illusion. This paper, white paper, whatever 
+one thinks of its contents, was deleted by Google without 
+explanation, without reference to any formal policy violation.
+    It is those kinds of invisible censoring acts occurring at 
+scale that I think AI could drive, and it would be an even more 
+significant threat than what we have already seen.
+    Senator Scott. Thank you. Thank you, Chairman.
+    Chairman Peters. Thank you, Senator Scott.
+    Senator Hassan, you are recognized for your questions.
+
+              OPENING STATEMENT OF SENATOR HASSAN
+
+    Senator Hassan. Thank you very much, Mr. Chair, and I want 
+to thank you and the Ranking Member for holding this hearing, 
+and I really want to thank the witnesses for being here today. 
+Thank you for sharing your expertise and perspectives with us.
+    I want to start with a question to you, Dr. Parker. 
+Congress created the National AI Initiative Office to improve 
+efficiency and help Federal and local governments, researchers, 
+business leaders, and other stakeholders collaborate on AI 
+issues. You were the first National AI Director, but that 
+position has remained vacant since you left the post in August.
+    As the former Director, why is it important that we fill 
+this position?
+    Dr. Parker. Thank you, Senator, for that question. The 
+National AI Initiative Act of 2020 set up three very important 
+goals for our nation about us leading the world in AI research 
+and development (R&D), about making sure that we also lead in 
+the development of trustworthy AI and both the development and 
+use of trustworthy AI in both the public and private sectors, 
+and to make sure that we are educating and training our 
+workforce to participate in these AI activities.
+    It also put in charge of these activities the National AI 
+Initiative Office, and that is in addition to a coordination 
+role among all the Federal agencies and what they are doing in 
+the AI space.
+    Given the magnitude of the importance of the National AI 
+Initiative, as set forth by Congress, I think it is imperative 
+that we have leadership in the White House that is overseeing 
+these activities, that is pushing forth the innovation and the 
+research that we need to address many of the kinds of concerns 
+that have been raised in this panel so far, to make sure we are 
+training and educating our workforce and leading new 
+initiatives across the government that could help advance 
+these, and the governance issues that we are addressing today.
+    That leadership vacuum I think has contributed to a number 
+of challenges that we have across the board, in terms of being 
+able to implement these good policies that are in place.
+    Senator Hassan. Thank you very much for that.
+    To Mr. Ariga, AI researchers have highlighted some of the 
+potential public safety risks posed by AI systems. These safety 
+concerns include AI systems providing dangerous information to 
+bad actors or potentially acting in unpredictable ways that run 
+counter to the intent of designers. Increasing the safety and 
+predictability of AI systems requires more technical research 
+into the methods used to create these systems. What can the 
+Federal Government do to support or coordinate research that 
+would help improve the safety of AI systems?
+    Mr. Ariga. Thank you, Senator Hassan. In our AI 
+Accountability Framework we laid out specific governance 
+practices where agencies can adopt to really consider, for 
+example, is AI even necessary in this particular use case? In 
+fact, if it is, what are some of the organizational structures 
+that are in place to assess the legality, the compliance 
+factor, as well as driving some of these inherently 
+governmental functions?
+    We go back to our framework itself that lays out not only 
+governance but looking at data performance, as well as the 
+important topic of continuous monitoring when it comes to AI.
+    Senator Hassan. Thank you. Another question for Dr. Parker. 
+Congress created the National Artificial Intelligence Strategy, 
+as you noted, to establish goals, priorities, and metrics for 
+guiding and evaluating interagency work on AI. That strategy 
+focuses on things like AI research and investments in workforce 
+development. However, the strategy does not currently require a 
+strategic level focus on safeguards to prevent AI from being 
+used in a manner that harms our country or society.
+    Can you speak to how a focus on AI safeguards could be 
+incorporated into the National AI Strategy?
+    Dr. Parker. Yes. Thank you, Senator. I think it is true. If 
+you look at, say, the role of the National AI Initiative 
+Office, it is to oversee the research and the education and the 
+coordination, but it does not provide a role for that 
+governance. We need an approach to be able to govern that 
+responsible use of AI.
+    I think one thing that could be done is to have kind of a 
+two-part approach. One is to have Chief AI Officers at every 
+agency that are responsible for these kinds of activities 
+within each individual agency. This has been a challenge 
+because even in the Executive Order 13960, that requires 
+agencies to identify a responsible AI official, that has not 
+happened well. We do not have a single point of contact or a 
+single responsible person at the agencies that oversee these 
+activities.
+    But agencies all have different missions, and so in order 
+to coordinate in a consistent way across all of the Federal 
+agencies I think the creation of something like a Chief AI 
+Officer's Council, that is led by OMB and OSTP's National AI 
+Initiative Office, perhaps with representation from the General 
+Service Administration (GSA's) Center of Excellence (COE) in AI 
+as well as the Community of Practice would provide the 
+expertise across the Federal agencies to coordinate these 
+processes and provide the leadership for the government as a 
+whole.
+    Senator Hassan. I think that makes a lot of sense, and, 
+when you think about emerging technologies generally we tend to 
+focus on the potential of the technology without thinking about 
+the necessary safeguards, in my view, early enough. I think a 
+lot of what you have heard around the dais this morning is 
+concerns about the safety issues and the way that AI can impact 
+our democracy, but we need to be thoughtful about how we can 
+actually address those issues in a way that is consistent with 
+our values. I appreciate your answer.
+    I do have another question for you, Dr. Parker, on deep 
+fakes, which are obviously images and videos that are generated 
+artificially, and they are becoming increasingly realistic.
+    Last year, malicious actors deployed a deep fake video of 
+Ukrainian President Zelensky telling Ukrainian soldiers to lay 
+down their arms and surrender to Russia, for example. As 
+artificial intelligence advances, deep fakes like the Zelensky 
+one will become harder to identify and debunk, and I am 
+concerned that in the hands of our adversaries, deep fakes pose 
+a really significant threat.
+    How do you assess the Federal Government's current efforts 
+to identify and debunk deep fakes? How can the Federal 
+Government prepare for a future with extremely realistic deep 
+fakes?
+    Dr. Parker. Thank you, Senator. I am a technologist, and so 
+I think often of these challenges from a research perspective 
+and what we can do in terms of coming up with new approaches 
+that help us address these kinds of challenges. There are some 
+activities in the research space to do things like 
+watermarking, that can allow you to determine how a particular 
+piece of data or an image or a video, where it came from, what 
+we call the provenance of it, what its history is.
+    Those kinds of approaches, if we could watermark these 
+kinds of images and content in a way that allows us to trace 
+back its origins and where it came from, and is it real or is 
+it not real, that is a step forward to giving us the technical 
+ability to address these kinds of challenges.
+    On top of that, of course, are the governance approaches, 
+and frankly, I did not do a lot of work myself in government 
+work and the governance of deep fakes. But I think the 
+technical approaches that I mentioned will help, and so 
+certainly an increased attention to those kinds of technologies 
+is helpful.
+    Senator Hassan. Thank you, and I am over time. I will 
+follow up with one of the questions I think we will face, Mr. 
+Chair, is how does the government work with the private sector 
+and academic to try to make sure that we are harnessing various 
+ideas and approaches here. Thank you very much.
+    Chairman Peters. Thank you, Senator Hassan, and actually, 
+that topic is going to be a future hearing, because it is 
+incredibly important. We will look forward to discussing it at 
+length.
+    Senator Rosen, you are recognized for your questions.
+
+               OPENING STATEMENT OF SENATOR ROSEN
+
+    Senator Rosen. Thank you, Chairman Peters. I really 
+appreciate you holding this hearing today, and thank you to all 
+the witnesses, for all you do, for your work and your 
+thoughtfulness in this really important area.
+    Of course, we are talking about standards, and all of us 
+are worried about technology moves faster than we can 
+oftentimes even adapt to it and figure out what we need to do. 
+Standards are really important. We know that China has explicit 
+plans to become a standards-issuing country, and part of its 
+push to increase global influence, it coordinates national 
+standards work across government and industry. China's 
+strategy, they involve targeting emerging technologies like 
+quantum computing, big data, 5G, artificial intelligence, where 
+the global rules really have yet to be defined.
+    In order for the United States to remain a leader in AI and 
+maintain a national security edge, our response must be one of 
+leadership, coordination, and above all, cooperation, and this 
+means working, like Senator Hassan said, with the private 
+sector and academia, investing in R&D for emerging 
+technologies, coordinating with relevant agencies, and engaging 
+with international standards-setting bodies.
+    Mr. Ho, can you describe the importance and impact of U.S. 
+participation in these international standards-setting bodies 
+for the development of emerging technologies, including AI?
+    Mr. Ho. Thank you for that question, Senator Rosen. I think 
+you may have been one to introduce legislation that actually 
+fosters international cooperation, and I think that is exactly 
+the kind of effort that is required right now in this context 
+of geopolitical competition, where if it is possible to have 
+international cooperation schemes with like-minded countries, 
+there is a way really to address this current question of the 
+concentration of who really builds, owns, and guides these 
+kinds of AI systems.
+    One proposal that is very much in line with what you 
+proposed earlier is the proposal for the Multilateral AI 
+Research Institute, to enable like-minded countries to 
+collaborate together, to engage in this kind of standards-
+setting. I think that is an absolutely critical potential path 
+forward for the future.
+    Senator Rosen. Thank you for bringing that up because I do 
+believe by doing nothing we are actually doing something. That 
+leads me to my next question, to Dr. Parker, and again, to you, 
+Mr. Ho.
+    Earlier this year, the National Institute of Standards and 
+Technology did release an AI Management Framework, with the 
+goal of improving trustworthiness of artificial intelligence, 
+like we are talking about deep fakes and others. About three 
+months later, the White House Office of Science and Technology 
+Policy issued its Blueprint for an AI Bill of Rights.
+    How should the private sector view these two bills? Are 
+they complementary? Do we need to merge something into one? 
+What are both of your opinions on this.
+    Dr. Parker. Thank you for that question, Senator. The NIST 
+AI Risk Management Framework is a framework that applies, in my 
+opinion, to any use case of AI. It gives you a standard 
+approach to be able to consider any given use case of AI, and 
+step through a number of areas as it relates to identifying 
+risk and governing and managing them, and so forth.
+    The answer there may be that that particular use case of AI 
+is low risk, so the additional steps that might be needed to 
+govern it might be a few, or it could be much more substantial.
+    The Blueprint for the AI Bill of Rights that the White 
+House OSTP issued is coming at the challenge from a very 
+specific category of applications of AI, and these are 
+applications of AI that may harm individuals or community 
+groups or society in terms of your civil rights and civil 
+liberty and privacy, your access to resources, and that type of 
+use case.
+    After applying the NIST AI Risk Management Framework, high-
+consequence risks were identified, and particularly that affect 
+individuals or, again, communities or society, then the 
+Blueprint for the AI Bill of Rights would be a way to think 
+through what are the rights of an individual and what are those 
+issues that need to be addressed.
+    Senator Rosen. Those are complementary. Thank you. Mr. Ho.
+    Mr. Ho. Yes, I think it is a really important question. 
+There are a lot of commonalities in terms of the principles 
+that the NIST AI Risk Management Framework, the Blueprint for 
+an AI Bill of Rights, and Executive Order 13960 are trying to 
+get at.
+    What I have seen in a number of agencies is a real struggle 
+of how to actually bring that into practice when agencies are 
+thinking about piloting, evaluating, and implementing these 
+kinds of AI use cases. That is why I think what is really 
+critical, and what I highlighted in my opening remarks, is to 
+build pathways for technical talent into the public sector. It 
+will not be possible to really do the kind of red-teaming, 
+evaluation of these kinds of use cases unless we build on 
+existing short-term programs like the Presidential Innovation 
+Fellows (PIF), the GSA, things like the Intergovernment 
+Personnel Act (IPA) mechanism, but also think about long-term 
+pathways, things like the U.S. Digital Service Academy, and why 
+it is so important that OPM actually create the AI hiring line 
+that was due as of July of last year.
+    Senator Rosen. You did not really know my next question, 
+did you, because it really is on the workforce challenges, so 
+you set me up just perfectly there. Our existing cyber 
+workforce shortages, we know at Federal agencies they have a 
+really significant impact on our national security, so the 
+private sector trying to hire for AI, for cybersecurity, 
+everything in the technology space. There is really this huge 
+gap between talent and the jobs that we have to fill, so we 
+have to continue to invest in our cyber workforce.
+    I am going to ask both of you again. Dr. Parker, how do you 
+think we can use AI in the short term to overcome cybersecurity 
+skills shortages across Federal agencies, knowing that I 
+believe AI potentiates what humans can do and may help us do 
+things faster, but in the end humans need to make those 
+decisions. But what do you think we can do while we are 
+building the pipeline?
+    Dr. Parker. I do think that there are some uses of AI, some 
+applications of AI that are increasing productivity of 
+individuals. That is true for many different kinds of areas. 
+You asked about cybersecurity, in particular, or just the cyber 
+workforce in general. I think being able to use AI, again, in 
+ways that are somewhat mundane, but there are ways that we can 
+manage a lot of paperwork and be able to identify ways that we 
+can more efficiently address the needs of the American 
+consumer.
+    I do think it is challenging at the moment to say that we 
+can use AI as a substitute for people. I think AI is not ready 
+for that. I think AI is very much more a collaborative tool, 
+and as a collaborative tool it can help, again, people to work 
+more efficiently. At the same time, we desperately need to work 
+on getting more expertise into government.
+    One quick way of doing that, I think, is to leverage these 
+programs like the Intergovernmental Personnel Act and the 
+Presidential Innovation Fellows Program to get people from 
+industry and from academia into government. I think that is a 
+very quick way to leverage those programs more, to get more 
+expertise in government.
+    Senator Rosen. Thank you. I am over my time, so do you want 
+me to let him finish or take it for the record later, Mr. 
+Chairman.
+    Chairman Peters. Be quick.
+    Mr. Ho. I will be quick. One estimate has it that we need 
+40,000 positions in the public sector for cybersecurity. It is 
+absolutely critical to figure out the pathways of bringing 
+people in.
+    I think it is not just a matter of salary scales. As I 
+mentioned in my opening remarks, the National Security 
+Commission on AI really highlighted that what is really needed 
+is also providing opportunities for technical talent to perform 
+meaningful work within government.
+    The last thing that I will just say quickly, as to why 
+really the way I tend to think about it is augmenting the 
+existing Federal workforce rather than displacing them, is that 
+you are always going to ultimately need a human in charge.
+    I will give you one example going back to 1983, when there 
+was an automated missile detection system that the Union of 
+Soviet Socialist Republics (USSR) was using, that indicated 
+that there were multiple missiles being fired. There was one 
+individual by the name of Petrov who went against strategic 
+operating protocol because he had a hunch that the system was 
+malfunctioning. He is often said to be the person who actually 
+saved us from nuclear war.
+    We have to have humans in charge to understand the 
+limitations of these kinds of systems, who know when humans 
+should override them, in order to really work effectively and 
+safely with these kinds of systems.
+    Senator Rosen. Thank you. I could not agree more.
+    Chairman Peters. Thank you, Senator Rosen.
+    Senator Padilla, you are recognized for your questions.
+
+              OPENING STATEMENT OF SENATOR PADILLA
+
+    Senator Padilla. Thank you, Mr. Chair. I wanted to thank 
+you also for your flexibility. I am back and forth with the 
+Judiciary subcommittee on AI this morning as well.
+    Artificial intelligence is already transforming how 
+government agencies serve the public. Federal agencies are 
+leveraging AI in a number of important ways, including to 
+support disaster response and emergency management efforts, to 
+detect financial fraud and identity theft, to offer chatbots 
+and virtual assistants that enhance customer service and 
+engagement, as well as for environmental monitoring and 
+conservation.
+    I lay this out because a lot of times we are trying to have 
+these conversations about AI, the potential, some risks, and 
+things to keep in mind, as if it is a far-off-into-the-future 
+dynamic. No, this is a here-and-now conversation.
+    But clearly there are risks that we will need to address, 
+especially the sensitive context of providing government 
+services. Automated decisionmaking systems and tools risk 
+exacerbating the many existing inequities in our society, as 
+some of the testimony today reflects. Again, Mr. Chairman, 
+thank you for calling this hearing. I look forward to hearing 
+from our panel today on how we can ensure that fostering 
+trustworthy, equitable, and accountable applications of AI in 
+government can be achieved.
+    Now in reviewing the published inventory of AI use across 
+the Federal Government--again, today, not into the future--I 
+was pleasantly surprised to see that many agencies are building 
+AI tools in-house. Some argue that it is more cost effective 
+for our government to simply purchase AI products developed by 
+the private sector, whether it is off the shelf or customized. 
+However, many of the testimonies that we have heard today 
+explicitly mentioned that government technologists and in-house 
+tools are important to ensuring that they comply with the 
+relevant regulations and have the focus of furthering agencies' 
+mission, not always achieved when you contract out.
+    Mr. Eppink, first question. In your testimony you 
+highlighted some of the tensions that arise when government 
+relies on proprietary private sector tools that are not always 
+available for public scrutiny. What are some of the factors 
+that should go into agency decisions to build a tool internally 
+as opposed to procuring it externally?
+    Mr. Eppink. Thank you, Senator, for the question, and you 
+are absolutely right. This is definitely a here-and-now 
+problem, and we do have these frameworks that have been 
+discussed today, but what we do not have, at least that I have 
+observed, is the on-the-ground enforcement and policing of 
+those, and that is especially true when it comes to these in-
+house versus proprietary systems.
+    This should be an easy question, I think. We cannot allow 
+proprietary interests--when we are talking about government 
+making decisions about individuals and their families--to hold 
+due process rights hostage. To the extent that a government 
+agency or a State-funded agency needs to use, or wants to use 
+automated decisionmaking if they have gone through the process, 
+a transparent process of deciding that that is appropriate in 
+the first place, if there is going to be proprietary or private 
+interest providing any of that, the price of admission is going 
+to have to honor Americans' due process rights, equal 
+protection rights, which would mean the transparency of those 
+proprietary systems, so that my clients, for instance, in 
+Idaho, can access the information about the data, the methods, 
+and the processes involved so they can evaluate whether they 
+need to challenge those government decisions, and challenge 
+them and appeal them if they have to.
+    Senator Padilla. Thank you. For the follow-up question I 
+invite Dr. Parker and Professor Ho to chime in. What are some 
+of the short-term steps Congress can take to help agencies hire 
+and retain technical talent in this area? We heard from Senator 
+Rosen about the field, in general, I think more in the private 
+sector the need for some of the workforce challenges in this 
+space. But on the government side, in particular.
+    Dr. Parker. Thank you for that question. I think there are 
+a number of barriers right now to having that type of expertise 
+in government. One of the barriers, I think, is a salary 
+barrier, and an understanding of the kinds of skills and 
+knowledge that are needed in order to fill a particular AI 
+role. I think if the occupational series that OPM is working on 
+were developed, it would help us to identify what those skills 
+and roles and knowledge are that are needed for certain jobs in 
+AI in the Federal Government, and that would give us more 
+ability to reach out to people that have those kinds of skills 
+and to train to those skills through things like boot camps.
+    A few years ago there was a boot camp in cybersecurity that 
+brought in people from across the Federal Government who were 
+interested in learning cybersecurity skills but did not yet 
+have them. The Chief Information Officers (CIOs) got together 
+and trained these people, and they now have those additional 
+cybersecurity skills. We could do something similar in AI.
+    The challenge is always how to scale it. Congress could 
+fund these kinds of boot camps so that we could use the current 
+workforce that we have but to provide those new skills and 
+knowledge that is needed to participate in the AI space.
+    Senator Padilla. Professor Ho, anything unique to add, 
+because I have an additional question on a different topic for 
+you as well.
+    Mr. Ho. I will just say, quickly, as I see on this side of 
+the coast, Senator, I will say quickly the other part is to 
+build on Science, technology, engineering, and mathematics 
+(STEM) education. I think for the longest period of time the 
+United States has just been a magnet for top scientific and 
+technical talent. But increasingly there are international 
+students that are choosing to leave the country. The country of 
+Canada, for instance, has had very specialized programs to 
+actually attract top AI talent into the country, and that would 
+be another mechanism really to ensure that we maintain U.S. 
+leadership in AI.
+    Senator Padilla. You frame it as many graduate students 
+choosing to leave the country. In too many instances there is 
+no choice, given our immigration system, the need for 
+modernization, but that may be a topic for another day.
+    Professor Ho, I mentioned another topic I wanted to make 
+sure to ask a question on. In the paper that co-authored on the 
+use of artificial intelligence in Federal administrative 
+agencies, you found that law enforcement applications were the 
+most common use case for Federal agencies that adopted AI 
+systems.
+    As you talk about building trust and ensuring 
+accountability for automated decisionmaking, law enforcement 
+activity is often the area in which the public has the least 
+amount of insight, let alone oversight, yet it is also the area 
+where government decisionmaking, including tools used to guide 
+that decisionmaking, have tremendous consequences for the 
+public, particularly for historically marginalized communities.
+    Professor Ho, can you speak to the unique challenges of 
+guarding against bias and ensuring accountability and equity in 
+the use of AI by law enforcement?
+    Mr. Ho. Thank you, Senator, for that question, and thank 
+you for noting the report that we conducted a number of years 
+ago. I should clarify that in that report we looked largely at 
+the use of AI by civil agencies, and one of the challenges has 
+actually been exactly to get transparency within the criminal 
+justice system. That is reflected, as well, in some of the 
+exemptions under, for instance, the AI Bill of Rights or the 
+scope of requirements to file AI use case inventories. That is 
+why I think these AI use case inventories are such a kind of 
+critical tool of transparency. You cannot manage what you 
+cannot measure, and so I think AI use case inventories are an 
+important first step in that regard.
+    Let me loop back, though, to the earlier question that you 
+had, just in terms of accountability, and give you one example 
+of the sort of enforcement context that I think is very telling 
+that connects this to the necessity to have human talent within 
+government. Within the Securities and Exchange Commission (SEC) 
+there was an internal team that built out a series of very 
+innovative ways to scan filings, to look at the risk, for 
+instance, of insider trading based on what folks had filed to 
+the SEC, using natural language processing.
+    But what was very important in that use case was that it 
+was internally developed first, and it was the interaction 
+between the technical engineers and the line-level prosecutors 
+that really ensured accountability. The line-level prosecutors 
+within the SEC said, ``I am not persuaded by your risk score. 
+You need to explain to me why this system is actually 
+identifying this case as something that I should prosecute, 
+because ultimately I need to bring this in front of a judge.'' 
+That is exactly the reason why technical talent and the ability 
+of technical talent to work with the domain experts is going to 
+be so critical to have these kinds of forms of internal 
+accountability for AI systems.
+    Senator Padilla. Thank you very much, and Mr. Chair, if I 
+could just add one last note, not another question but just one 
+last note. Tapping into my prior experience as Secretary of 
+State of California, where we introduced the first chatbot in 
+California State government to assist people navigating our 
+website, also automating how business owners and entrepreneurs 
+could file their necessary paperwork with the State of 
+California, there is, at times, a personnel concern that 
+through additional automation and efficiency that we do not 
+need as many workers, and therefore it is a mechanism toward 
+layoffs and staff reductions.
+    What we were able to do instead was actually free up 
+people's valuable time from, ``pushing paper'' to improve 
+customer service and dedicate that experienced frontline 
+personnel to some of the more complex questions or 
+troubleshooting that a lot of either individuals or customers 
+of government sometimes have frustrations with, long wait 
+times, et cetera. There can indeed be that win-win.
+    Thank you, Mr. Chair.
+    Chairman Peters. Thank you, Senator Padilla.
+    Senator Ossoff, you are recognized for your questions.
+
+              OPENING STATEMENT OF SENATOR OSSOFF
+
+    Senator Ossoff. Thank you, Mr. Chairman, and thank you to 
+our panelists for joining us today.
+    Some of these questions I think will get at implementation 
+within government and some will also touch upon how we think 
+about potential proposals for broader regulation of the 
+technology, so please bear with me as we move through the 
+discussion.
+    First is about definitions, and maybe Dr. Parker, I could 
+start with you, and I would also like to hear from Professor 
+Ho. But as these technologies become more ubiquitous and 
+modular and they are incorporated in software suites, and they 
+are plugged in as tools for various purposes throughout an IT 
+infrastructure, how, both in terms of administering within 
+government, their deployment, but also thinking about broader 
+regulation do we fundamentally define what it is that we are 
+regulating? As concisely as you can, how would you define the 
+scope of the technologies that are the subject of our interests 
+and require additional scrutiny?
+    Dr. Parker. Certainly the definition is something that 
+people do not agree on, in general. I like to focus on use 
+cases and how the use of a technology is important in impacting 
+the particular application domain.
+    I look at it in terms of systems that are typically data 
+driven, they often learn over time and change their behavior 
+over time, and they are often doing tasks that we frequently 
+have attributed to require human intelligence in the past. That 
+is my succinct definition.
+    Senator Ossoff. OK. Thank you, Dr. Parker. Professor Ho, 
+again, imagine you are legislative counsel and you are drafting 
+legislative text, and your purpose is to define the technology 
+subject to certain regulations. What text would you propose?
+    Mr. Ho. I very much agree with Dr. Parker that the focus 
+should be on use cases. I think a lot of regulations refer back 
+to the National Defense Authorization Act (NDAA) definition, 
+which is a relatively expansive one. One way to handle this, I 
+actually think it would be to have further guidance and 
+clarification coming out of the relevant offices that are 
+working with agencies. For instance, the inconsistency in how 
+AI use case inventories have been handled steps exactly from 
+your question.
+    Senator Ossoff. Is it about use case or is it about 
+capability? The use case is going to be almost universal, I 
+think, within a couple of years. Is it the purpose for which it 
+is being used that defines whether it constitutes the regulated 
+technology, if we are thinking about regulation, or is it the 
+capability of the technology as the qualities of the software?
+    Mr. Ho. I think, definitionally, we can go with the 
+capabilities of the software, and that is very much, I think, I 
+would agree with Dr. Parker that the kind of focus typically 
+has been on machine learning systems that are able to learn and 
+predict in the way that really simulates what humans could do.
+    But I think when it comes to the actual regulation, which I 
+think you are also trying to get it, it is really important to 
+look at the particular use cases to identify what kind of risks 
+are being posed.
+    Senator Ossoff. All right. Let us think about some of the 
+constitutional and other questions that may arise. Mr. Eppink, 
+from your standpoint, thinking about, for example, evidentiary 
+predicate that justifies certain police actions or can be used 
+to secure certain court orders. One of the things that I have 
+been grappling with is given the massive datasets that are 
+available in open source or that can be purchased by a state 
+actor, the capacity for predictive behavioral modeling is 
+potentially very significant. Perhaps with a high degree of 
+integrity some of this technology will be able to assign 
+probabilities with respect to future conduct by individuals. 
+The risk here, I think, is that prosecutors or law enforcement 
+agencies may use such predictive modeling in order to justify 
+forms of surveillance or to seek warrants or to take other 
+action.
+    How do you think about that risk and how should Congress 
+think about that risk?
+    Mr. Eppink. Thank you, Senator. Yes, especially based on 
+what we have heard today, we have, I think, at best, principles 
+to start to think about how to build these systems in a safe 
+way, in a democratic way, but I do not believe they are being 
+built that way right now. Especially when we are talking about 
+law enforcement and the risk of life and liberty, the 
+technology may be developing but the governance of that 
+technology is not yet there to be condoning use of AI in those 
+contexts. I am not even sure, based on what we have seen in 
+Idaho in the Medicaid context of comparatively very rudimentary 
+automated system, that we are there yet, and I think the 
+necessity of litigation there corroborates that.
+    We have to go beyond these jumping-off points that we have 
+been discussing today, create clear governance, and include the 
+people who these systems will be making decisions about in the 
+process of selecting whether there will be automated 
+decisionmaking in the first place and how those things will be 
+crafted to ensure that the systems are built fairly and used 
+fairly.
+    Senator Ossoff. Dr. Parker, how do you think about the due 
+process concerns, and those could be both in a criminal context 
+or in a more seemingly mundane administrative context, like 
+eligibility for certain forms of aid?
+    Dr. Parker. I think this is a complex question, Senator, 
+and thank you for that.
+    Senator Ossoff. You have one minute and nine seconds.
+    Dr. Parker. I am not going to answer it all. I am going to 
+suggest that one way to move forward is for the Subcommittee on 
+AI in Law Enforcement that was directed by Congress in the 
+National AI Initiative Act, to actually be established. This is 
+something that is a subcommittee of the National AI Advisory 
+Committee, and that would be experts from across the different 
+sectors of interest, whether it be private sector or----
+    Senator Ossoff. OK. So more study needed.
+    Dr. Parker [continuing]. A group of experts that can enable 
+us to understand this more deeply.
+    Senator Ossoff. OK. Big subject, seven minutes.
+    My final question for you, Dr. Parker--and you have 
+probably thought about this a lot, now and in your past roles--
+in government there is a lot of focus on insider threats, 
+whether in an intelligence context or otherwise. When we are 
+thinking about autonomous actors, or actors who have a measure 
+of autonomy, within public agencies, who are not humans, how do 
+we think about the risk of cooptation, manipulation, 
+exploitation--there is cybersecurity aspect here. There is a 
+software design aspect here--that these tools themselves could 
+pose certain insider threats for unauthorized disclosure or for 
+using their network accesses to enable penetration of 
+government systems, or otherwise.
+    Dr. Parker. I think there is a question of what could be 
+and what is true today. I do not work in the national security 
+space myself, but I think what we can do with AI systems right 
+now are there are technologies, if you are thinking about a 
+human insider threat, there are technologies that can actually 
+track behaviors and determine whether or not people are doing 
+what they should be doing in the intelligence system space. I 
+am talking about inside the trusted people. There are those 
+kinds of technologies that can help us protect against the 
+human insider threat.
+    But then there is also the bigger question of down the road 
+if these more general AI systems have the capability to dig 
+into our systems and what we do about that. That is not 
+something that I think is the here and now. I think it is 
+something that we need to think ahead on. But I do not believe 
+those systems exist today.
+    Senator Ossoff. Mr. Chairman, could I ask one more 
+question? I am over time.
+    OK, please, as succinctly as you can, Dr. Parker, and then 
+Mr. Eppink, if there were three State actions, things that 
+governments do, where, referencing what Professor Ho said 
+earlier, we not only must ensure that humans are in the loop, 
+but let us say we wanted to take a provisional decision that at 
+this time no such action should be permitted to be even 
+influenced by this kind of technology. Like for example, 
+decisions about when to use lethal force, decisions about when 
+to conduct surveillance.
+    Are there certain governmental functions that given the 
+level of risk right now you would nominate to rule out as being 
+supplemented or guided or supported by these technologies, or 
+are there not?
+    Dr. Parker. The launching of nuclear weapons, for instance. 
+I think DOD is overseeing a number of ethical uses of AI, but 
+there are some cases like that, that I think strategically 
+cannot be allowed to happen. That would be my No. 1 on the 
+list.
+    Senator Ossoff. Mr. Eppink.
+    Mr. Eppink. Yes, I think we can look to the Constitution. 
+We can look to life, liberty, property, privacy. To the extent 
+that we have systems that are involved in making decisions on 
+those things that affect individuals and families, we have to 
+ensure that there is the transparency, the inclusion, the 
+reliability, the independent auditing and testing of those 
+programs before they should be deployed in government uses.
+    I think we can get there, in some instances, but we are not 
+there now, and especially when you were talking about making 
+decisions about use of lethal force or other decisions that 
+could take a life or threaten a life. I think there is 
+governance that is not yet in place to ensure those systems are 
+fair.
+    Senator Ossoff. Thank you. Thank you, Mr. Chairman.
+    Chairman Peters. Thank you, Senator Ossoff.
+    We are ready to wrap up a great hearing. We have covered an 
+awful lot of ground, a big topic. I would like to wrap up these 
+kinds of hearings with just asking folks to kind of focus one 
+of the issues.
+    I am going to be asking everybody on the panel--and I am 
+going to start with you, Mr. Siegel, and then we will work down 
+the panel--so in terms of AI policy going forward, what would 
+you say, from a legislative standpoint, because we are 
+legislators here, in Congress, in terms of legislating, what 
+would be the No. 1 item that we should prioritize in terms of 
+thinking about future legislation?
+    I am going to start with you, Mr. Siegel. All of you have a 
+lot of different issues that you are working with, but No. 1, 
+for legislating. There are other things that we could be doing, 
+regulations and other kinds of policies, or norms, et cetera, 
+but from a legislative standpoint is there something that 
+really stands out to each of you?
+    Mr. Siegel.
+    Mr. Siegel. Understood, Mr. Chairman. Transparency would be 
+the No. 1 issue from a legislative point of view, enforcing 
+transparency in the use of AI. I think that if you were to 
+focus legislatively on transparency that would take care of a 
+host of attendant issues such as collusion between the 
+government and corporate sector, privacy issues, even 
+potentially pointing the way toward some kind of private data 
+ownership so that the uses of people's data was something that 
+if they were not at least initially financially staked into, 
+they could at least have some visibility on.
+    Transparency, I think, is where to begin, and from there 
+that would lead into other related matters.
+    Chairman Peters. Thank you, Mr. Siegel. Mr. Ho.
+    Mr. Ho. Chairman, a number of months ago, Eric Schmidt was 
+asked about how Congress had implemented the recommendations 
+from the National Security Commission on AI, and he was 
+generally quite favorable. But there was one thing he singled 
+out, which is getting technical talent into the Federal 
+workforce, which is the predicate for, I think, addressing a 
+range of these issues that we have talked about today.
+    Take procurement. I think the AI Training Act is fantastic. 
+But what I have seen at a number of agencies is that 
+procurement officials say, ``It is the business unit within the 
+agency that has to make this decision,'' and the business unit 
+says, ``It is really up to the procurement official.'' I think 
+what we really need is the kind of blended expertise that 
+brings domain expertise and technical talent together to really 
+be able to protect American values.
+    Chairman Peters. Thank you. Dr. Parker.
+    Dr. Parker. Thank you, Mr. Chairman. I would say that we 
+are suffering right now from a lack of leadership and a lack of 
+prioritization on these topics. One, I think, quick way, 
+legislatively, that could be done to address this is to appoint 
+those Chief AI Officers at each agency, where they are given 
+the responsibility and the resources to oversee the uses of AI 
+and to develop strategies for their use of AI within their 
+agencies, with accountability for delivering those and updating 
+them regularly.
+    To establish a coordination body, like a Chief AI Officers 
+Council, that is responsible for coordinating these activities 
+across all the Federal Government, with an intent of 
+prioritizing this activity across the Federal Government, 
+providing that leadership as well. Then they can also work on 
+helping with the workforce issues, I believe, within their 
+agencies, by identifying what the needs are and putting those 
+priorities on getting that workforce into the Federal 
+Government.
+    Chairman Peters. Thank you. Mr. Ariga.
+    Mr. Ariga. Thank you, Chairman. My No. 1 priority, and you 
+might indulge me in the hyphenated response, one is on 
+disclosure where discretionary decisionmaking is being 
+impacted. The use of it, the process, and any redress. But 
+fundamentally it is the digital-ready workforce that will make 
+such disclosure effective. I will echo with Dr. Ho's 
+recommendation in terms of developing a Federal digital-ready 
+workforce.
+    Chairman Peters. Thank you. Mr. Eppink.
+    Mr. Eppink. Thank you, Chairman. The experts on these 
+systems are the people that the systems make decisions about. I 
+worked on this litigation in Idaho for 12 years now, almost, 
+and I have worked with agency officials, I have communicated 
+with Federal overseers, I have communicated with the courts. 
+But it is time and time again my clients who have been able to 
+spot the most important systemic problems with these systems.
+    I appreciate the opportunity to testify to the Committee 
+today. The people that the Committee especially should hear 
+from and the policies that the Congress should put in place 
+should make sure that at each step in the development and 
+selection of these systems, the people who they make decisions 
+about are included it. My clients, people with disabilities in 
+Idaho, often use the phrase, ``nothing about us, without us,'' 
+and that is critical in these automated decisionmaking systems 
+and AI systems. Thank you.
+    Chairman Peters. Tank you. I would certainly like to thank 
+each of our witnesses for being here today, and I think, the 
+entire Committee is grateful for your expertise and for your 
+willingness to come forward to answer our questions.
+    I think as we heard today the use of automated systems to 
+help government provide public service more efficiently is not 
+new. However, as we enter the age of rapid development of 
+advanced machine learning methods and other forms of artificial 
+intelligence now--not waiting, now--is going to be the time to 
+ensure that these systems that the government is using and will 
+procure for use in the future do not have unintended, harmful 
+consequences.
+    It is critical the Federal Government act quickly to set 
+appropriate guardrails and oversight policies that protect the 
+public. I think we all agree that Americans deserve a 
+government that is modern, efficient, innovative, as well as 
+one that is transparency, fair, trustworthy, and protects their 
+privacy. As Chairman of this Committee I am going to continue 
+to work to ensure that the government lives up to those key 
+principles, and your testimony today will help inform the 
+Committee's future legislative activities and oversight actions 
+in the years ahead.
+    The record for this hearing will remain open for 15 days, 
+until 5 p.m. on May 31, 2023, for the submission of statements 
+and questions for the record.
+    This hearing is now adjourned.
+    [Whereupon, at 11:54 a.m., the hearing was adjourned.]
+
+                            A P P E N D I X
+
+                              ----------                              
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+                                 [all]

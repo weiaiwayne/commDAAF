@@ -1,0 +1,3081 @@
+- AI REGULATION AND THE FUTURE OF U.S. LEADERSHIP
+
+[House Hearing, 119 Congress]
+[From the U.S. Government Publishing Office]
+
+                       AI REGULATION AND THE FUTURE OF U.S.
+                                  LEADERSHIP
+=======================================================================
+
+                                HEARING
+
+                               BEFORE THE
+
+           SUBCOMMITTEE ON COMMERCE, MANUFACTURING, AND TRADE
+
+                                 OF THE
+
+                    COMMITTEE ON ENERGY AND COMMERCE
+                        HOUSE OF REPRESENTATIVES
+
+                    ONE HUNDRED NINETEENTH CONGRESS
+
+                             FIRST SESSION
+
+                               __________
+
+                              MAY 21, 2025
+
+                               __________
+
+                           Serial No. 119-21
+
+     Published for the use of the Committee on Energy and Commerce
+
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]     
+
+                   govinfo.gov/committee/house-energy
+                        energycommerce.house.gov
+
+                                __________
+
+                   U.S. GOVERNMENT PUBLISHING OFFICE                    
+60-631 PDF                  WASHINGTON : 2026                  
+
+-----------------------------------------------------------------------------------     
+
+                    COMMITTEE ON ENERGY AND COMMERCE
+
+                        BRETT GUTHRIE, Kentucky
+                                 Chairman
+ROBERT E. LATTA, Ohio                FRANK PALLONE, Jr., New Jersey
+H. MORGAN GRIFFITH, Virginia           Ranking Member
+GUS M. BILIRAKIS, Florida            DIANA DeGETTE, Colorado
+RICHARD HUDSON, North Carolina       JAN SCHAKOWSKY, Illinois
+EARL L. ``BUDDY'' CARTER, Georgia    DORIS O. MATSUI, California
+GARY J. PALMER, Alabama              KATHY CASTOR, Florida
+NEAL P. DUNN, Florida                PAUL TONKO, New York
+DAN CRENSHAW, Texas                  YVETTE D. CLARKE, New York
+JOHN JOYCE, Pennsylvania, Vice       RAUL RUIZ, California
+    Chairman                         SCOTT H. PETERS, California
+RANDY K. WEBER, Sr., Texas           DEBBIE DINGELL, Michigan
+RICK W. ALLEN, Georgia               MARC A. VEASEY, Texas
+TROY BALDERSON, Ohio                 ROBIN L. KELLY, Illinois
+RUSS FULCHER, Idaho                  NANETTE DIAZ BARRAGAN, California
+AUGUST PFLUGER, Texas                DARREN SOTO, Florida
+DIANA HARSHBARGER, Tennessee         KIM SCHRIER, Washington
+MARIANNETTE MILLER-MEEKS, Iowa       LORI TRAHAN, Massachusetts
+KAT CAMMACK, Florida                 LIZZIE FLETCHER, Texas
+JAY OBERNOLTE, California            ALEXANDRIA OCASIO-CORTEZ, New York
+JOHN JAMES, Michigan                 JAKE AUCHINCLOSS, Massachusetts
+CLIFF BENTZ, Oregon                  TROY A. CARTER, Louisiana
+ERIN HOUCHIN, Indiana                ROBERT MENENDEZ, New Jersey
+RUSSELL FRY, South Carolina          KEVIN MULLIN, California
+LAUREL M. LEE, Florida               GREG LANDSMAN, Ohio
+NICHOLAS A. LANGWORTHY, New York     JENNIFER L. McCLELLAN, Virginia
+THOMAS H. KEAN, Jr., New Jersey
+MICHAEL A. RULLI, Ohio
+GABE EVANS, Colorado
+CRAIG A. GOLDMAN, Texas
+JULIE FEDORCHAK, North Dakota
+                                 ------                                
+
+                           Professional Staff
+
+                     MEGAN JACKSON, Staff Director
+                SOPHIE KHANAHMADI, Deputy Staff Director
+               TIFFANY GUARASCIO, Minority Staff Director
+           Subcommittee on Commerce, Manufacturing, and Trade
+
+                       GUS M. BILIRAKIS, Florida
+                                 Chairman
+RUSS FULCHER, Idaho, Vice Chairman   JAN SCHAKOWSKY, Illinois
+DIANA HARSHBARGER, Tennessee           Ranking Member
+KAT CAMMACK, Florida                 KATHY CASTOR, Florida
+JAY OBERNOLTE, California            DARREN SOTO, Florida
+JOHN JAMES, Michigan                 LORI TRAHAN, Massachusetts
+CLIFF BENTZ, Oregon                  KEVIN MULLIN, California
+ERIN HOUCHIN, Indiana                YVETTE D. CLARKE, New York
+RUSSELL FRY, South Carolina          DEBBIE DINGELL, Michigan
+LAUREL M. LEE, Florida               MARC A. VEASEY, Texas
+THOMAS H. KEAN, Jr., New Jersey      ROBIN L. KELLY, Illinois
+GABE EVANS, Colorado                 KIM SCHRIER, Washington
+CRAIG A. GOLDMAN, Texas              FRANK PALLONE, Jr., New Jersey (ex 
+BRETT GUTHRIE, Kentucky (ex              officio)
+    officio)
+                             C O N T E N T S
+
+                              ----------                              
+                                                                   Page
+Hon. Gus M. Bilirakis, a Representative in Congress from the 
+  State of Florida, opening statement............................     2
+    Prepared statement...........................................     3
+Hon. Jan Schakowsky, a Representative in Congress from the State 
+  of Illinois, opening statement.................................     4
+    Prepared statement...........................................     5
+Hon. Lori Trahan, a Representative in Congress from the 
+  Commonwealth of Massachusetts, prepared statement..............     7
+Hon. Brett Guthrie, a Representative in Congress from the 
+  Commonwealth of Kentucky, opening statement delivered by Hon. 
+  John Joyce, a Representative in Congress from the Commonwealth 
+  of Pennsylvania................................................     9
+    Prepared statement of Mr. Guthrie............................    11
+Hon. Frank Pallone, Jr., a Representative in Congress from the 
+  State of New Jersey, opening statement delivered by Hon. Kim 
+  Schrier, a Representative in Congress from the State of 
+  Washington.....................................................    14
+    Prepared statement of Mr. Pallone............................    16
+
+                               Witnesses
+
+Sean Heather, Senior Vice President, International Regulatory 
+  Affairs and Antitrust, U.S. Chamber of Commerce................    18
+    Prepared statement...........................................    21
+    Answers to submitted questions...............................   219
+Amba Kak, Co-Executive Director, AI Now Institute................   031
+    Prepared statement...........................................    33
+    Answers to submitted questions...............................   220
+Adam Thierer, Resident Senior Fellow, Technology and Innovation, 
+  R Street Institute.............................................    43
+    Prepared statement...........................................    46
+    Answers to submitted questions...............................   226
+Marc Bhargava, Managing Director, General Catalyst...............    53
+    Prepared statement...........................................    55
+    Answers to submitted questions...............................   229
+
+                           Submitted Material
+
+Inclusion of the following was approved by unanimous consent.
+List of documents submitted for the record.......................    94
+Letter from the AI Salon to Hon. Mike Johnson, et al.............    97
+Letter from Arizona Technology Council, et al., to Members of the 
+  Arizona Congressional Delegation...............................   100
+Letter of May 20, 2025, from Marc Rotenberg, Executive Director, 
+  Center for AI and Digital Policy, et al., to Mr. Guthrie, et 
+  al.............................................................   101
+Letter from Community Innovation Partnership, City of 
+  Chattanooga, to Members of Congress............................   103
+Letter of May 21, 2025, from Adams County Regional Economic 
+  Partnership, et al., to the Colorado Congressional Delegation..   104
+Letter of May 20, 2025, from Engine Advocacy to Mr. Bilirakis and 
+  Ms. Schakowsky\1\..............................................   106
+
+----------
+
+\1\ An accompanying report, ``Mapping the future: charting the AI 
+ecosystem & a policy blueprint for startup success'' (May 2025), has 
+been retained in committee files and is included in the Documents for 
+the Record at https://docs.house.gov/meetings/IF/IF17/20250521/118288/
+HHRG-119-IF17-20250521-SD003.pdf.
+Letter of May 21, 2025, from Jason Oxman, President and Chief 
+  Executive Officer, Information Technology Industry Council, to 
+  Mr. Bilirakis and Ms. Schakowsky...............................   108
+Letter from Maryland Retailers Alliance, et al., to the Maryland 
+  Congressional Delegation.......................................   109
+Letter from Retail Association of Maine to the Maine 
+  Congressional Delegation.......................................   111
+Letter of May 20, 2025, from Todd Bingham, President and Chief 
+  Executive Officer, Nebraska Chamber of Commerce & Industry, et 
+  al., to the Nebraska Congressional Delegation..................   112
+Letter from Pittsburgh Technology Council to the Pennsylvania 
+  Congressional Delegation.......................................   114
+Letter of May 20, 2025, from Sharon Wilson Geno, President, 
+  National Multifamily Housing Council, et al., to Mr. Guthrie 
+  and Mr. Pallone................................................   115
+Letter of May 21, 2025, from Linda Moore, President and Chief 
+  Executive Officer, TechNet, to Mr. Guthrie and Mr. Pallone.....   118
+Letter from Ben Cunningham, President of the Nashville Tea Party, 
+  et al., to Tennessee Congressional Delegation..................   120
+Letter of May 19, 2025, from Luke McDermott, McDermott Company 
+  and Associates, to Hon. Mike Kennedy...........................   124
+Letter of May 21, 2025, from The Business Council of New York 
+  State, et al., to the New York Congressional Delegation........   125
+Statement by New Jersey Attorney General Matthew J. Platkin......   126
+Letter of May 21, 2025, from Catherine Chase, President, 
+  Advocates for Highway and Auto Safety, to Mr. Bilirakis and Ms. 
+  Schakowsky.....................................................   129
+Letter of May 16, 2025, from National Association of Attorneys 
+  General to Hon. Mike Johnson, et al............................   144
+Article of October 25, 2024, ``An AI chatbot pushed a teen to 
+  kill himself, a lawsuit against its creator alleges,'' by Kate 
+  Payne, AP News.................................................   151
+Article of May 15, 2025, ``The House Is Close To Passing a 
+  Moratorium on State Efforts To Regulate AI, by Adam Conner,'' 
+  Center for American Progress...................................   154
+Statement of Consumer Reports, Consumer Reports opposes AI state 
+  preemption language in House budget reconciliation bill........   160
+Letter of May 20, 2025, from Tom Kemp, Executive Director, 
+  California Privacy Protection Agency, to Mr. Bilirakis and Ms. 
+  Schakowsky.....................................................   161
+Statement of the Council of State Governments, May 19, 2025......   164
+Statement of EPIC................................................   165
+Letter of May 20, 2025, from Andrew Freedman, Chief Strategy 
+  Officer, Fathom, to Mr. Guthrie, et al.........................   166
+Letter of May 20, 2025, from Alejandra Montoya-Boyer, Senior 
+  Director, Center for Civil Rights and Technology, The 
+  Leadership Conference on Civil and Human Rights, to Mr. 
+  Bilirakis and Ms. Schakowsky...................................   170
+Statement of Public Citizen......................................   172
+Statement of Sarah Gardner, Heat Initiative, et al., ``National 
+  Declaration on AI and Kids' Safety,'' May 12, 2025.............   173
+Letter of May 13, 2025, from Tim Storey, Executive Director, 
+  National Conference of State Legislatures, to Mr. Guthrie and 
+  Mr. Pallone....................................................   185
+Statement of the Open Markets Institute..........................   187
+Letter of May 13, 2025, from Encode, et al., to Hon. Mike 
+  Johnson, et al.................................................   189
+Letter of May 21, 2025, from J.B. Branch, Technology 
+  Accountability Advocate, Public Citizen, to Mr. Bilirakis and 
+  Ms. Schakowsky.................................................   192
+Statement of Common Sense Media by James P. Steyer, Founder and 
+  Chief Executive Officer, May 12, 2025..........................   199
+Article of May 20, 2025, ``Critical Questions for the House 
+  Hearing Examining a Federal Restriction on State AI 
+  Regulation,'' by Liana Keesing and Isabel Sunderland, Tech 
+  Policy Press...................................................   200
+Article, ``The False Choice Between Digital Regulation and 
+  Innovation,'' by Anu Bradford, Northwestern University Law 
+  Review, Vol. 119, No. 2 (2024)\1\
+
+----------
+
+\1\ The article has been retained in committee files and is included in 
+the Documents for the Record at https://docs.house.gov/meetings/IF/
+IF17/20250521/118288/HHRG-119-IF17-20250521-SD003.pdf.
+Article of May 19, 2025, ``Police secretly monitored New Orleans 
+  with facial recognition cameras, by Douglas MacMillan and Aaron 
+  Schaffer,'' The Washington Post................................   206
+Letter of May 15, 2025, from General Assembly, Commonwealth of 
+  Virginia, to the Virginia Congressional Delegation.............   216
+
+            AI REGULATION AND THE FUTURE OF U.S. LEADERSHIP
+
+                              ----------                              
+
+                        WEDNESDAY, MAY 21, 2025
+
+                  House of Representatives,
+Subcommittee on Commerce, Manufacturing, and Trade,
+                          Committee on Energy and Commerce,
+                                                    Washington, DC.
+    The subcommittee met, pursuant to call, at 10:20 a.m., in 
+room 2322, Rayburn House Office Building, Hon. Gus Bilirakis 
+(chairman of the subcommittee) presiding.
+    Members present: Representatives Bilirakis, Fulcher, 
+Harshbarger, Obernolte, Bentz, Fry, Lee, Kean, Evans, Goldman, 
+Guthrie (ex officio), Schakowsky (subcommittee ranking member), 
+Castor, Soto, Trahan, Mullin, Clarke, Dingell, Veasey, and 
+Schrier.
+    Also present: Representatives Carter of Georgia, Joyce, and 
+McClellan.
+    Staff present: Ansley Boylan, Director of Operations; 
+Jessica Donlon, General Counsel; Sydney Greene, Director of 
+Finance and Logistics; Natalie Hellman, Professional Staff 
+Member, Commerce, Manufacturing, and Trade; Megan Jackson, 
+Staff Director; Daniel Kelly, Press Secretary; Sophie 
+Khanahmadi, Deputy Staff Director; Alex Khlopin, Clerk, 
+Commerce, Manufacturing, and Trade; Giulia Leganski, Chief 
+Counsel, Commerce, Manufacturing, and Trade; Sarah Meier, 
+Counsel and Parliamentarian; Joel Miller, Chief Counsel; 
+Evangelos Razis, Professional Staff Member, Commerce, 
+Manufacturing, and Trade; Chris Sarley, Member Services/
+Stakeholder Director; Kaley Stidham, Press Assistant; Matt 
+VanHyfte, Communications Director; Hannah Anton, Minority 
+Policy Analyst; Keegan Cardman, Minority Staff Assistant; Lisa 
+Hone, Minority Chief Counsel, Commerce, Manufacturing, and 
+Trade; Megan Kanne, Minority Professional Staff Member; and 
+Phoebe Rouge, Minority FTC Detailee.
+    Mr. Bilirakis. Good morning, everyone.
+    Before we get started, we should have a moment of silent 
+prayer--one moment of silent prayer for our good friend Gerry 
+Connolly, who passed away this morning.
+    [Moment of silence observed.]
+    Mr. Bilirakis. Thank you. May his memory be eternal.
+    The committee will now come to order.
+
+OPENING STATEMENT OF HON. GUS M. BILIRAKIS, A REPRESENTATIVE IN 
+               CONGRESS FROM THE STATE OF FLORIDA
+
+    Thanks to everyone, especially our witnesses, for joining 
+us today for today's hearing on ``AI Regulation and the Future 
+of U.S. Leadership.''
+    At the outset, I want to recognize Ranking Member 
+Schakowsky, as this is our first subcommittee hearing since she 
+announced her retirement.
+    We are going to miss you.
+    She has been a welcome partner over the last 4\1/2\ years. 
+Together, we were able to secure better safety precautions for 
+women with the FAIR Crash Tests Act. During the pandemic, we 
+worked tirelessly to support the travel and tourism industry at 
+a time of unprecedented challenges. This bond culminated in the 
+TICKET Act and much more, which strengthens consumer 
+protections in the ticketing marketplace.
+    Congress and the E&C--Energy and Commerce, of course--won't 
+be the same without Ranking Member Schakowsky, but her legacy 
+will be long remembered.
+    So we appreciate you so very much.
+    Since the public release of ChatGPT, AI has become a 
+household name. AI products and services are being developed at 
+breakneck speed, delivering new innovations to consumers. These 
+technologies can revolutionize the economy, drive economic 
+growth, and improve our way of life.
+    Like every technology, however, AI can be weaponized when 
+it is in the wrong hands, as you know. Thankfully, AI is 
+already regulated by longstanding laws that protect consumers. 
+Because of the great potential of these technologies, Congress 
+must be careful when we impose additional obligations on AI 
+developers and deployers.
+    Our task is to protect our citizens and ensure that we 
+don't cede U.S. AI leadership. Much of the AI marketplace is 
+comprised of small startups looking to get a foothold in the 
+revolutionary space, and heavyhanded regulations may ensure 
+that the next great American company never makes it.
+    If we fail in this task, we risk ceding American leadership 
+in AI to China, which is close on our heels, as you know. Other 
+economies are also eager to write the global AI rule book, 
+often to their own detriment and the detriment of the American 
+leadership.
+    The EU recently enacted its own AI Act. While it is still 
+being implemented, the EU's complex law suffers from many of 
+the innovation-chilling effects we saw with the GDPR. We must 
+also keep a close watch on whether Europe uses the AI Act and 
+other regulations to unfairly target American companies.
+    We are here today to determine how Congress can support the 
+growth of an industry that is key for American competitiveness 
+and jobs without losing the race to write the global AI rule 
+book. Our witnesses today will help us understand how we 
+achieve that dream.
+    So, again, I want to thank the witnesses for being here, 
+and I look forward to your testimony.
+    [The prepared statement of Mr. Bilirakis follows:]
+    [GRAPHIC] [TIFF OMITTED] T0631.001
+
+    Mr. Bilirakis. Now I will yield 5 minutes to the ranking 
+member, my good friend, Ms. Schakowsky.
+    Boy, we are going to miss you. So thank you very much for 
+your service to our country.
+    [Applause.]
+    Mr. Bilirakis. And you have got much more--much more left. 
+So we appreciate it, and I look forward to the good work 
+together.
+    I yield to the gentlelady.
+
+ OPENING STATEMENT OF HON. JAN SCHAKOWSKY, A REPRESENTATIVE IN 
+              CONGRESS FROM THE STATE OF ILLINOIS
+
+    Ms. Schakowsky. Well, thank you, Mr. Chairman, Gus 
+Bilirakis. I am so happy to hear your words, and I support you. 
+I am so grateful to you. I will be here another about year and 
+a half, so don't get too comfortable. And I appreciate it.
+    Today, you know, we are discussing what is happening with 
+how we are protecting consumers. That is what I am always, 
+always thinking about. And the very idea that we are going to 
+allow 10 years for there to be all kinds of scams that could be 
+happening. And instead of 10 years for AI--I mean, that is just 
+insane, and I can't understand why we would do that--our job 
+right now is to protect consumers.
+    And we know that even now people are getting scammed by 
+issues that come out. And we want to make sure that we have 
+that kind of protection.
+    And so I think it is absolutely something we should say, 
+zero time--zero time--as we watch AI develop, not 10 years. We 
+haven't done that for anything else. And for us to do that now 
+makes absolutely no sense and puts all consumers at risk. And 
+so I want to strongly be against this idea, which I think is 
+reckless. How could we possibly do 10 years?
+    And so I want to yield at this point to Mrs. Trahan for the 
+remainder of my time.
+    [The prepared statement of Ms. Schakowsky follows:]
+    [GRAPHIC] [TIFF OMITTED] T0631.002
+
+    Mrs. Trahan. Well, I thank the ranking member for yielding.
+    Under Republican leadership, this committee has failed time 
+and time again to protect Americans' privacy and safeguard our 
+children online.
+    GOP leaders have blocked whistleblower protections to 
+protect workers who risk their livelihoods to shine a light on 
+their employers' privacy abuses. They killed comprehensive 
+privacy legislation to minimize data collection and ensure 
+proper use. They said no to simple transparency legislation so 
+independent auditors could make sure Big Tech companies aren't 
+breaking the law.
+    But what Republican members of this committee did find time 
+to do last week--in the middle of the night, by the way--is 
+force through an unprecedented giveaway to the tech industry: a 
+10-year ban on State laws that could make AI safer for our 
+constituents.
+    Make no mistake, the families who have come to this 
+committee and begged for us to act won't benefit from this 
+proposal. But you know who will? The Big Tech CEOs who were 
+sitting behind Donald Trump at his inauguration.
+    Now, we can agree that a patchwork of various State laws is 
+not good for innovation, for business, or consumers. But this 
+is a bad policy because it sets another disincentive for us to 
+act urgently or even in time.
+    All the while, Republicans are once again ceding Congress's 
+duty to protect Americans' privacy to the very companies who 
+are perpetrating the worst abuses online. You are basically 
+inviting the fox into the henhouse, and you are doing so under 
+the justification that this will somehow motivate Congress to 
+unify the patchwork of State laws currently in existence. But 
+that hasn't happened yet.
+    Just look at what happened to the privacy bill that we 
+crafted together on this committee. The moment that Big Tech 
+started lobbying against it, the Republican Speaker and 
+majority leader caved. They killed the bill.
+    And now you turn around and try to deceive the American 
+people into accepting this ridiculous alternative? Come on. Our 
+constituents aren't stupid. They expect real action from us to 
+rein in the abuses of tech companies, not to give them blanket 
+immunity to abuse our most sensitive data even more.
+    At the same time, our Republican colleagues are complaining 
+about Europe's tech laws--which we can acknowledge are 
+imperfect. But at least they had the guts to do something--
+literally anything--to make the internet better for the folks 
+they represent. Shame on us if we don't answer the same demands 
+from the American people.
+    I urge my colleagues to reject this giveaway to the same 
+Big Tech companies that have stymied every attempt at updating 
+our privacy laws.
+    I want to urge my colleagues to vote no on the partisan 
+reconciliation bill when the same leaders who killed our 
+bipartisan privacy legislation bring it to the floor. And let's 
+just get to work in a bipartisan way to foster innovation and 
+protect our constituents with sensible guardrails on Big Tech.
+    Thank you. I yield back.
+    [The prepared statement of Mrs. Trahan follows:]
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Bilirakis. The gentlelady yields back.
+    Now I will recognize the vice chairman of the full 
+committee, who is standing in for Chairman Guthrie.
+    Dr. Joyce, you are recognized for 5 minutes for your 
+statement.
+
+ OPENING STATEMENT OF HON. BRETT GUTHRIE, A REPRESENTATIVE IN 
+ CONGRESS FROM THE COMMONWEALTH OF KENTUCKY, DELIVERED BY HON. 
+JOHN JOYCE, A REPRESENTATIVE IN CONGRESS FROM THE COMMONWEALTH 
+                        OF PENNSYLVANIA
+
+    Mr. Joyce. Thank you, Mr. Chairman.
+    Good morning, and thank you to the witnesses for joining us 
+today.
+    You recognize that we are living through dynamic times, and 
+the advancement of artificial intelligence technologies is an 
+important part of that. And it is equally important that we in 
+Congress take the best approach to support innovation and 
+address issues that arise.
+    AI does have enormous potential. It has potential to 
+transform our everyday lives and how we work. From 
+revolutionizing drug research and development to fortifying our 
+energy grid, AI has the potential to drive major breakthroughs 
+across virtually every sector of our society.
+    But that future is not guaranteed. Today, we are at a 
+crossroads. The decisions that we make on AI regulation are 
+critical and will determine whether we allow innovation to 
+flourish or risk falling behind on the global stage.
+    Today, American innovators are experiencing significant 
+regulatory headwinds at home and abroad that could jeopardize 
+our global leadership.
+    Across the Atlantic, the European Union has enacted its AI 
+Act, which imposes a sweeping, top-down regulatory regime. The 
+EU AI Act is overly complex and restrictive, creating a one-
+size-fits-all framework that does not account for the diverse 
+and rapidly evolving nature of AI technologies. It is a stark 
+example of regulation going too far and stifling innovation by 
+imposing heavy burdens on businesses through layers of new 
+bureaucracy that slow down progress, particularly for startups 
+and small businesses.
+    Here in the U.S., we see similar challenges unfolding with 
+the patchwork of State AI laws rapidly taking shape. Just since 
+January, there have been over 1,000 AI bills introduced across 
+the United States. These measures vary widely in their 
+definitions, in their requirements, their enforcement 
+mechanisms, and in their scope. This emerging patchwork of 
+regulations is creating confusion and inconsistency.
+    Small businesses and startups navigating 50 different sets 
+of roles will have a harder time competing with larger, well-
+established companies that can afford to navigate this 
+regulatory maze. Innovation depends on the ability of small 
+upstarts to compete with the established players.
+    That is why this committee is focused on creating a 
+national framework to provide clarity and consistency without 
+stifling growth. We need a Federal approach that ensures 
+consumers are protected when AI tools are misused and in a way 
+that allows innovators to thrive. We must not make the same 
+mistake that the EU has made with the EU AI Act, effectively 
+choosing not to allow industry and AI to grow.
+    A patchwork of conflicting and burdensome AI rules will 
+have direct impacts on the Federal Government as well. The 
+Department of Commerce, like a great deal of Federal agencies, 
+must adopt AI if they are going to operate effectively in the 
+21st century. Yet, if America's AI innovators are held back by 
+a State patchwork, these AI tools might simply never be built, 
+or they will be offered at a higher price to the taxpayer.
+    To be clear, I am not advocating for a free-for-all wild-
+west-type regulatory environment. On Monday, Chairman Guthrie 
+was proud to stand with President Trump as he signed the TAKE 
+IT DOWN Act. This law is a prime example of targeting a 
+specific harm with a narrowly tailored law to fill a gap that 
+has been identified in existing law.
+    This committee has a long history of fostering American 
+innovation, and now more than ever our leadership on this topic 
+is essential. Let's continue this legacy by making sure that 
+the next chapter of AI innovation is written right here in 
+America. This includes bold investments, clear rules, and 
+leadership that keeps us ahead of our adversaries.
+    I look forward to working with my colleagues and hearing 
+from our witnesses today on how we can unlock the full 
+potential of artificial intelligence.
+    Thank you, Mr. Chairman, and I yield.
+    [The prepared statement of Mr. Guthrie follows:]
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Bilirakis. Thank you very much. I appreciate it very 
+much. And, yes, that was a major accomplishment by this 
+committee, the TAKE IT DOWN Act. And I will tell you what, we 
+are going to do a lot of good things for our kids in the next 
+year and a half. So we appreciate it very much.
+    Now we have Dr. Schrier, who is filling in for the very 
+capable ranking member, Mr. Pallone.
+    Dr. Schrier, you are recognized for 5 minutes.
+    Ms. Schrier. Thank you, Mr. Chairman, for recognizing me to 
+deliver opening remarks from Ranking Member Pallone.
+    At this moment, he has been in the Rules Committee all 
+night and is still in the Rules Committee defending the 
+American people from the terrible impacts of the Republicans' 
+tax bill that will kick people off of Medicaid and food 
+assistance in order to pay for tax cuts for billionaires.
+    His statement now:
+
+OPENING STATEMENT OF HON. FRANK PALLONE, Jr., A REPRESENTATIVE 
+IN CONGRESS FROM THE STATE OF NEW JERSEY, DELIVERED BY HON. KIM 
+    SHRIER, A REPRESENTATIVE IN CONGRESS FROM THE STATE OF 
+                           WASHINGTON
+
+    Ms. Schrier. This Congress, we have heard from many 
+witnesses over multiple hearings about the significant benefits 
+of artificial intelligence and the very real harms that AI 
+models and applications can and have already caused.
+    Unfortunately, in a giant gift to Big Tech, committee 
+Republicans supported a provision in their terrible tax bill 
+last week that imposes a 10-year ban on any State's ability to 
+enforce their own laws protecting consumers from the harms 
+caused by AI.
+    I agree with my colleagues that we need strong Federal 
+legislation to govern and guide the development of these 
+powerful AI systems as they are rapidly incorporated into more 
+and more aspects of our everyday lives.
+    To protect consumers from the harms of AI, we should 
+recommit to working on strong, bipartisan, comprehensive, 
+Federal data privacy legislation that includes data 
+minimization to protect consumers from their personal and 
+sensitive information being abused.
+    Big Tech's development of new data-hungry AI systems 
+exploiting Americans' personal information in ways we could not 
+have imagined only a few years ago only makes this need more 
+urgent.
+    There is broad support in both parties for data privacy. 
+Last Congress, this committee worked on a bipartisan, 
+comprehensive Federal privacy bill that was the product of work 
+and negotiation over years. But, in the end, House Republican 
+leadership killed it under pressure from Big Tech.
+    And now my Republican counterparts are suspending for 10 
+years any enforcement of rules and laws already on the books in 
+States and cities across the country without any proposed 
+replacement. The Republicans' giant gift to Big Tech would 
+block enforcement of laws on the books right now that are 
+protecting Americans from real-world harms.
+    Some States have laws requiring companies to disclose when 
+they are using AI. Others have laws protecting against the use 
+of deepfakes in elections and protecting consumers when AI is 
+used to deny healthcare, education, housing, and employment. 
+Some State laws and regulations provide guardrails ensuring 
+that States and cities themselves are careful in their purchase 
+and use of AI systems.
+    And now Republicans want to ban enforcement of all those 
+State laws, with absolutely no national bill ready to go to 
+address the real-world harms from AI.
+    Instead, Republicans have touted last Congress's bipartisan 
+AI Task Force report. But that report does not include fleshed-
+out legislative prescriptions, just broad-stroke concepts.
+    Notably, the task force report includes a chapter on 
+preemption that acknowledges Federal preemption has both 
+benefits and drawbacks. It recommends Congress perform a study, 
+not remove States and local governments entirely from 
+responsibility, and it advises that if Congress preempts State 
+AI laws, it should be precise in its definitions and scope.
+    Now, what Republicans have included in the reconciliation 
+bill does not reflect these considerations. Rather than 
+offering legislation that governs AI models and systems and 
+includes a preemption provision that is crafted to the scope of 
+that legislation, they have proposed an enforcement ban that 
+covers any artificial intelligence or automated decision-making 
+system.
+    They would have State and local governments stand by as Big 
+Tech companies that have shown little regard for consumers, 
+particularly for children, recklessly deploying new 
+technologies that violate our privacy, provide false 
+information, or make unjustifiable, discriminatory decisions 
+all in pursuit of profit and market share at any cost.
+    And even if Congress was able to pass a law to govern AI 
+and automated decision systems, who would enforce it? The Trump 
+administration has taken every opportunity to undermine our 
+cops on the beat. They are firing key technical experts and 
+stripping independent commissions of their bipartisan 
+legitimacy.
+    They are also cutting resources and funding and weakening 
+or rescinding existing measures that would help protect 
+American consumers and support American businesses in the 
+global competition with China. This pattern of gifts and 
+giveaways to Big Tech by the Trump administration, with the 
+cooperation of Republicans in Congress, is hurting American 
+consumers.
+    Instead, we should be learning from the work our State and 
+local counterparts are doing now to deliver well-considered, 
+robust legislation giving American businesses the framework and 
+resources they need to succeed while protecting consumers.
+    And, with that, I yield back.
+    [The prepared statement of Mr. Pallone follows:]
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Bilirakis. The gentlelady yields back.
+    And now we will hear from our witnesses.
+    Today, we have Mr. Sean Heather, senior vice president of 
+the U.S. Chamber of Commerce.
+    Welcome.
+    We have Ms. Amba Kak, who is the co-executive director of 
+AI Now Institute.
+    Welcome.
+    Mr. Adam Thierer, senior fellow at R Street Institute.
+    And then we have Mr. Marc--and I am going to get this 
+right--Bhargava, managing director of General Catalyst.
+    Welcome, everyone.
+    And now we will hear from Mr. Heather.
+    You are recognized for 5 minutes.
+
+STATEMENTS OF SEAN HEATHER, SENIOR VICE PRESIDENT, U.S. CHAMBER 
+OF COMMERCE; AMBA KAK, CO-EXECUTIVE DIRECTOR, AI NOW INSTITUTE; 
+   ADAM THIERER, SENIOR FELLOW, R STREET INSTITUTE; AND MARC 
+         BHARGAVA, MANAGING DIRECTOR, GENERAL CATALYST
+
+                   STATEMENT OF SEAN HEATHER
+
+    Mr. Heather. Well, thank you, Chairman Bilirakis----
+    Mr. Bilirakis. My pleasure.
+    Mr. Heather [continuing]. And Ranking Member Schakowsky and 
+to the rest of the subcommittee. It is a pleasure to be here to 
+testify on international perspectives of today's hearing. While 
+I am a senior vice president, I lead our work on international 
+regulatory affairs.
+    Earlier this year, Vice President Vance at the AI Action 
+Summit in Paris warned that, quote, ``excessive regulation'' 
+was a threat to harnessing AI's potential. The Chamber could 
+not agree more. Our message to policymakers is not to lose 
+focus on the opportunity of AI.
+    In my remarks, I would like to focus on Europe's approach 
+to regulation, highlight concerns with the EU AI Act, and close 
+my testimony with why we should care about what Europe is doing 
+on AI.
+    Historically, Europe takes a precautionary approach when 
+regulating. This means that Europe often regulates before there 
+is well-documented need. Further, the European Union exists to 
+establish a, quote, "single market" to prevent its sovereign 
+member states from creating a patchwork of laws.
+    In recent years, we have seen a slew of digital-economy 
+regulation from Europe, yet none of these policies have made 
+Europe more competitive.
+    Yet, today, we now know Europe is woefully behind in key 
+digital sectors, and, as a result, the new justification to 
+regulate has emerged--tech sovereignty. The European Commission 
+President has asserted that Europe must be able to make its own 
+choices, while French President Macron has called for Europe to 
+develop and roll out the key technologies of tomorrow.
+    Fortunately, Europe is beginning to realize it cannot 
+regulate its way to innovation and economic growth. In a recent 
+critical self-assessment requested by European officials, the 
+Draghi report found that Europe's struggle to compete stems 
+from burdensome EU regulatory regimes.
+    Now let me turn to the EU AI Act. The Chamber believes the 
+EU fails to achieve a balance between regulating risk and 
+fostering innovation.
+    First, Brussels failed to review its existing legal 
+frameworks. AI is a technology, less so a product or service. 
+Existing EU laws governing products and services are not 
+suddenly made obsolete because of AI. Yet, rather than 
+carefully evaluating gaps in existing law, the EU chose to add 
+a layer of regulatory complexity at the expense of innovation.
+    Beyond the law, the EU also establishes a code of practice. 
+While not currently mandatory, we are concerned that it will 
+function as a de facto benchmark for evaluating industry 
+compliance with the law. The code mandates extensive disclosure 
+of sensitive business information to the regulator, downstream 
+providers, competitors including China, and potentially the 
+public.
+    This raises two major risks: First, releasing the know-how 
+behind the technology could enable misuse of powerful AI 
+systems; and, second, forcing the value of IP being disclosed 
+undermines investment incentives.
+    So why does this matter? Why not let Europe continue to 
+regulate its way out of being a serious player on AI?
+    First, we need partners. The transatlantic trade 
+relationship is vital to the United States. Annually, trade in 
+services alone is $475 billion, and we enjoy a $75 billion 
+trade surplus. Our competitive advantage in AI will power the 
+future of our trading relationship.
+    Second, we need to prevent the spread of the EU AI Act from 
+being adopted around the world and across the States. The EU's 
+approach to AI is already being considered in places like South 
+Korea, Canada, and Brazil. In the United States, the AI Act's 
+influence is noticeable. States like Colorado, California, 
+Texas, and Virginia have introduced AI regulations that echo 
+Europe's approach. The Chamber is concerned that burdensome EU-
+like policies will be adopted domestically at the State level, 
+potentially leading to a fragmented regulatory landscape across 
+the United States.
+    Third, we care because we must not allow American companies 
+to be discriminated against. The AI Act's extraordinary, 
+extraterritorial reach imposes substantial compliance costs on 
+U.S. business, diverting considerable resources away from 
+innovation and undermining our competitive edge.
+    From requiring non-EU companies to appoint authorized 
+representatives, to overly broad classifications of high-risk 
+AI application directed at non-EU companies, and more, the AI 
+Act places American companies at a competitive disadvantage. By 
+imposing these barriers, the EU risks not only harming U.S. 
+businesses, but those discriminatory practices may also be 
+replicated in other countries.
+    Moreover, the act opens the door for massive fines, as high 
+as 7 percent of global annual sales.
+    In closing, it is estimated that AI will contribute $15.7 
+trillion to the global economy by 2030. America's leadership on 
+AI is not guaranteed, but today we are well positioned to lead. 
+In 2024 alone, private AI investment in the United States was 
+12 times greater than that in China and 24 times greater than 
+that in the U.K.
+    Such massive U.S. financial commitments translates into 
+tangible outcomes. Last year, the U.S. produced 40 state-of-
+the-art foundation models, significantly outpacing China's 15 
+and Europe's 3.
+    The opportunity AI holds is before us, but American 
+leadership will only continue if regulatory environments 
+promote innovation, encourage private-sector investment, and 
+embrace technological change.
+    Thank you, and I look forward to taking your questions.
+    [The prepared statement of Mr. Heather follows:]
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Bilirakis. Thank you, Mr. Heather. Appreciate it very 
+much.
+    And now, Ms. Kak, you are recognized for 5 minutes.
+
+                     STATEMENT OF AMBA KAK
+
+    Ms. Kak. Chair Bilirakis, Ranking Member Schakowsky, and 
+esteemed members of this committee, thank you for inviting me 
+to testify.
+    My name is Amba Kak. I colead the AI Now Institute, the 
+leading independent research center focused on tackling 
+concerns with AI.
+    My main message today is that the race to win on AI must be 
+focused on delivering victories first and foremost to the 
+American people. To do this, we must ensure that U.S. 
+leadership defines the frontier through technologies that are 
+best in class, guarantees that firms compete on the merits, and 
+sets a gold standard for rigor, security, and shared 
+prosperity. In short, we need to ensure that this is a race to 
+the top rather than the bottom.
+    But what we are seeing instead from industry is a reckless 
+disregard for public well-being that, unfortunately, this 
+committee should be all too familiar with, because Congress has 
+failed to sufficiently regulate Big Tech for over a decade now.
+    Let's make this concrete and clarify what is really at 
+stake here.
+    Last year, a chatbot created by Character.AI lured a 
+depressed 14-year-old from Orlando, Florida, Sewell Setzer III, 
+to commit suicide. Character.AI isn't alone. Mark Zuckerberg 
+tells us that these chatbots are a societal boon. After all, he 
+thinks the average American has fewer than three friends, and 
+the obvious solution, according to him, is to get people more 
+attached to AI companions--just like he got our children hooked 
+to social media.
+    Meanwhile, AI voice-cloning tech is enabling a new 
+generation of scams that specifically target senior citizens. 
+As just one example, a grandmother in Texas received a call 
+from a voice indistinguishable from her grandson asking for 
+bail money. It was a suspicious bank teller that intervened, 
+but many, many others have not been so lucky.
+    And in this new frenzy of chatbots and agents, it can be 
+easy to forget that we actually already have a decade of far-
+less-shiny AI toys, the kinds that aren't used by people but 
+are used on them--inscrutable AI systems that cut the in-home 
+care of 4,000 disabled people in Arkansas despite critical 
+underlying medical conditions, or systems that falsely accused 
+40,000 people in Michigan of unemployment insurance fraud and 
+denied them benefits.
+    To state the obvious, AI is not a break from Silicon 
+Valley's sins of the past but merely a continuation. And it is 
+also a market led and shaped by the very same players.
+    Now, when ChatGPT first launched in 2022, it seemed like 
+this market was poised for disruption with a new crop of 
+challengers, new faces. But now, just more than 2 years later, 
+it is clear the back bench is more of the same--Big Tech and a 
+few additional firms that are dependent on Big Tech for their 
+survival.
+    So, put simply, building AI bigger and bigger requires 
+enormous resources that these firms own and control, and so 
+they play kingmaker for the downstream, smaller players, the 
+little guys that we are going to hear about today, controlling 
+access to inputs and also pathways to reach the consumer.
+    These are the same firms that have no regard--have shown no 
+regard for U.S. national-security priorities, as they have 
+deliberately threatened security interests time and again in 
+the pursuit of profit. Yet suddenly they show their patriotism 
+when big government contracts are on the line. This is an 
+industry that has fooled us once, and we cannot let them fool 
+us again with AI.
+    In this environment, you know, the proposal for a sweeping 
+moratorium on State AI-related legislation really flies in the 
+face of common sense. We can't be treating the industry's worst 
+players with kid gloves while leaving everyday people, workers, 
+and children exposed to egregious forms of harm.
+    In fact, there is some air to clear on what States have 
+been up to in the first place. Approximately half of all 
+proposed legislation from the States was on deepfakes. Notably, 
+States moved well before the TAKE IT DOWN Act recently passed 
+Congress. Several others have moved to clamp down on the AI-
+related scams that I talked about. These bipartisan State 
+measures have been nimble, they have been targeted, and they 
+have weeded out the bad apples that nobody wants to be in 
+business with.
+    Another commonsense theme across States: transparency. 
+Requiring disclosures to people affected by AI in sectors like 
+healthcare, education, employment--I would argue, really the 
+bare minimum for an industry that derives its power from 
+obscurity.
+    And, to be clear, we should be treating these measures as 
+the floor, not the ceiling. A moratorium on AI-related State 
+laws would--you know, at a time when there are minimal Federal 
+laws in place, would instead set the clock back, and it would 
+freeze it there.
+    Why we would treat these companies with kid gloves at a 
+moment when they need more scrutiny, not less, is what should 
+be in focus today. And we don't have 10 years to wait.
+    Thank you.
+    [The prepared statement of Ms. Kak follows:]
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Bilirakis. Thank you very much.
+    Now we have Mr. Thierer.
+    You are recognized for 5 minutes, sir. Thank you.
+
+                   STATEMENT OF ADAM THIERER
+
+    Mr. Thierer. Thank you.
+    Chairman Bilirakis, Vice Chairman Fulcher, Ranking Member 
+Schakowsky, and members of the subcommittee, thank you for the 
+invitation to participate in this important hearing today.
+    My name is Adam Thierer, and I am a senior fellow at the R 
+Street Institute, where I focus on emerging technology policy 
+issues.
+    My message here today boils down to three points:
+    First, America's AI innovators risk getting squeezed 
+between the so-called ``Brussels effect'' of overzealous 
+European regulation and the so-called ``Sacramento effect'' of 
+excessive State and local mandates.
+    Second, this regulatory squeeze will prevent our citizens 
+from enjoying the fruits of the AI revolution and undercut our 
+Nation's efforts to stay ahead of China in the global AI race.
+    Third, Congress should take steps to address both matters. 
+And on the specific problem of State overreach, it should 
+protect the development of a robustly innovative market in 
+interstate algorithmic commerce and speech by imposing a 
+moratorium on State AI regulation.
+    AI faces a crucial policy question today: Will it be born 
+free or born inside a regulatory cage?
+    America benefited from ensuring that personal computing, 
+digital technologies, and the internet were largely born free. 
+Through smart, bipartisan policy choices this Congress 
+implemented in the 1990s, America gave entrepreneurs, 
+investors, and workers a green light to go out and dream big.
+    And they delivered. In 2022 alone, the digital economy 
+contributed over $4 trillion of output, $1.3 trillion of 
+compensation, and 8.9 million jobs. America's innovators became 
+global leaders in every digital technology field.
+    This is an incredible public-policy success story. But, 
+today, fear-based regulatory policies from both abroad and our 
+States now threaten it.
+    We know why Europe wants to destroy America's winning 
+model, but why would some U.S. policymakers want to undermine 
+it with 1,000 AI-related bills, many of which adopt Europe's 
+heavyhanded approach?
+    Even if one sympathizes with some of these bills, put 
+yourself in the shoes of an entrepreneur who is pondering how 
+to build the next great application, only to face hundreds of 
+different regulatory definitions, compliance requirements, 
+bureaucratic hurdles, and liability threats. Costly, 
+contradictory regulation is a surefire recipe for destroying a 
+technological revolution and decimating little tech innovators.
+    An AI moratorium offers a smart way to address this problem 
+by granting innovators some breathing space and helping ensure 
+our robust national AI marketplace develops.
+    Congress has used moratoria before to protect interstate 
+commerce and promote innovation. The Internet Tax Freedom Act 
+of 1998, for example, prevented the development of multiple and 
+discriminatory taxes on the internet. An AI moratorium like the 
+one that this committee passed recently would work in a similar 
+fashion by limiting regulations that burden interstate 
+algorithmic commerce.
+    Some have incorrectly claimed that an AI moratorium would 
+leave consumers unprotected online. In reality, AI-related 
+harms can already be addressed under many existing policies and 
+court-based standards, including unfair and deceptive practices 
+law, civil rights law, and other consumer protections.
+    Biden administration regulators released a statement in 
+2023 noting their authority to, quote, ``enforce the respective 
+laws and regulations to promote responsible innovation in 
+automated systems,'' end quote.
+    The Massachusetts attorney general has similarly noted 
+that, quote, ``existing State consumer-protection, anti-
+discrimination, and data-security laws apply to emerging 
+technology, including AI systems, just as they would in any 
+other context.''
+    Meanwhile, some State lawmakers are acknowledging the 
+danger of regulatory overreach. Last year, Governor Newsom 
+vetoed a major AI regulatory effort in his State after many 
+congressional Democrats sent letters urging him to reject it.
+    Connecticut Governor Ned Lamont also recently said, ``I''--
+quote--``just worry about every State going out and doing their 
+own thing--a patchwork quilt of regulations.''
+    Finally, Governor Jared Polis of Colorado recently called 
+for a special legislative session to address problems with an 
+AI regulation he signed just last year and said it would 
+create, quote, ``a complex compliance regime for all developers 
+and deployers of AI,'' and he called on Congress to preempt 
+Colorado's law with a, quote, ``cohesive Federal approach.'' 
+And he also endorsed a Federal AI moratorium recently.
+    I agree with all these Democratic lawmakers that State AI 
+overregulation would have serious downsides and that we already 
+have many enforcement tools to address AI harms. Under an AI 
+moratorium, State and local lawmakers would still be free to 
+pass new technology-neutral rules as long as they don't 
+interfere with interstate commerce.
+    Congress can enact additional regulations as part of a 
+national policy framework. The House, of course, just recently 
+passed the TAKE IT DOWN Act by a vote of 409 to 2. And just 
+last December, the House AI Task Force issued a 273-page, 
+bipartisan report that included 85 recommendations.
+    We need national policy leadership today to ensure that 
+America will continue to lead the AI revolution. As Chairman 
+Guthrie recently argued, we must, quote, ``make sure that we 
+win the battle against China,'' and that the key to that, he 
+says, is to, quote, ``not regulate like Europe or California 
+regulates,'' because that, quote, ``puts us in a position where 
+we are not competitive.''
+    That is precisely right. To win the so-called AI Cold War 
+against China, America needs a forward-looking, investment-
+friendly, national framework that keeps us on the cutting edge 
+of the technological frontier.
+    Thank you for inviting me here today, and I look forward to 
+questions.
+    [The prepared statement of Mr. Thierer follows:]
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Bilirakis. Thank you very much, Mr. Thierer.
+    Next we have Mr. Bhargava.
+    And you are recognized for 5 minutes, sir. Thank you.
+
+                   STATEMENT OF MARC BHARGAVA
+
+    Mr. Bhargava. Thank you so much.
+    Chairman Bilirakis, Vice Chairman Fulcher, and Ranking 
+Member Schakowsky, and the members of the subcommittee, thank 
+you so much for the opportunity to testify today.
+    My name is a Marc Bhargava, and I am a managing director at 
+General Catalyst, or ``GC'' for short, and we have invested and 
+partnered with leading entrepreneurs to build towards global 
+innovation and applied artificial intelligence.
+    We are committed to investing in an array of entrepreneurs, 
+particularly in transformative technologies like artificial 
+intelligence. A small sampling of the 800-plus startups we have 
+backed over 25 years include Airbnb, Stripe, Canva, Anduril, 
+Circle, Applied Intuition, Pacific Fusion, Commure, and many 
+others.
+    At General Catalyst, I colead our creation strategy, which 
+is focused on incubations as well as transformations. I also 
+focus on early-stage investing, and I contribute to GC's 
+expanding AI efforts.
+    Prior to General Catalyst, I spent years as a founder and 
+an operator with an emphasis on new fintech and artificial 
+technology before selling my company. The company I founded 
+helped institutional investors responsibly invest in the 
+digital-asset space, another area that is ripe for disruption.
+    I am also an angel investor and work closely with startups 
+and founders on sales, distribution, and fundraising.
+    Having experienced many sides of the innovation ecosystem, 
+I feel I have a unique perspective on behalf of GC to offer to 
+this subcommittee today, and I am very appreciative of you 
+being here.
+    AI is not only shaping the future of our economy, it is 
+shaping the fabric of our society. From healthcare to national 
+security to education, it is embedded in the systems that 
+affect every one of us.
+    As investors, at GC, we work closely with founders at the 
+earliest stages of company building, and we have a 
+responsibility to ensure that technologies we help fund are 
+aligned with American values, are safe to use, and are good for 
+the world.
+    The United States has a unique opportunity and obligation 
+to lead in defining global norms around AI, especially as the 
+AI race between China and the U.S. intensifies. I believe that 
+the U.S. playbook on AI, with American ingenuity, creativity, 
+and cutting-edge innovation, and with the right policies in 
+place, will win out over China.
+    But as we seek to lead, we must strike a careful balance. 
+We need a government framework that promotes safety, protects 
+fundamental rights, and is transparent while it also enables 
+innovation, investment, and global competitiveness. Inflexible 
+or premature regulation risks pushing innovation offshore and 
+weakening our national and economic security. Alternatively, as 
+well, though, a complete absence of guardrails could lead to 
+real societal harm and could erode the public trust.
+    We deeply understand these dualities. And to accomplish 
+these goals, we believe a national regulatory framework is 
+preferable to a patchwork of State policies.
+    At General Catalyst, we made it a routine part of our due-
+diligence process to assess ethical and operational risks in AI 
+companies before we invest. We also believe in the importance 
+of collaborating closely with government, which is why we 
+launched the General Catalyst Institute last year to bring the 
+perspective of founders closer to you, the policymakers, and to 
+be a resource for hearings like today's.
+    As such, we advocate for approaches that are interoperable, 
+transparent, and developed collaboratively across government, 
+industry, and civil society. Since these technologies are so 
+impactful and fast moving, it is incumbent upon GC, as a 
+company, to adhere these principles, which are enduring even as 
+the technology around us might be moving.
+    As we are seeing with regulatory frameworks throughout the 
+world, prescriptive language can sometimes cause unintended 
+harm. This is why we believe that, as we help foster small and 
+emerging innovators, our operational principles are the bedrock 
+of the global AI playbook.
+    To help the Government find the right balance of regulatory 
+certainty at the Federal level is the single most important 
+variable.
+    We have seen where Federal Government inaction can cause 
+confusion and slow innovation. Thirty years ago, as the world 
+was introduced to a new concept called the ``World Wide Web,'' 
+States enacted a patchwork of laws to address various issues in 
+the absence of the Federal framework.
+    However, it was Congress's work, beginning in this very 
+subcommittee, to adopt the Telecommunications Act of 1996 that 
+set in place the national framework needed to allow for the 
+growth of the internet as we know it today.
+    As this committee seeks to once again develop the U.S. 
+playbook for AI for the world to follow, I would like to offer 
+a few concrete recommendations.
+    One, investors can and should play a pivotal role by 
+demanding transparency, bias mitigation, and alignment with 
+ethical standards before companies have product-market fit.
+    Two, frameworks like model cards, algorithmic audits, and 
+red teaming should be embedded early and as an industry best 
+practice.
+    Third, the Government cannot govern AI alone. Industry, 
+academia, and civil society must cocreate standards and stress 
+test these systems together.
+    And, fourth and lastly, sandboxes, pilot programs, and 
+public R&D investment are critical tools for government 
+support.
+    I really look forward today to sharing the innovation 
+ecosystem and telling you more about what we are seeing in the 
+field, and I am greatly appreciative of the time you all make 
+today.
+    [The prepared statement of Mr. Bhargava follows:]
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+    Mr. Bilirakis. Thank you so very much.
+    And I appreciate all of you.
+    So we are going to go ahead and start with questions. And I 
+will ask the first questions, and then I will get to the 
+ranking member.
+    So, Mr. Heather, I am concerned that American companies 
+face disproportionate enforcement actions from European 
+regulators. Since Europe's privacy law, the GDPR, went into 
+effect, American companies have paid 83 percent of all fines 
+levied by European regulators. I know you had mentioned this. 
+That strikes me as an excessive means to subsidize their fiscal 
+needs on the back of American businesses.
+    So do you think Europe is targeting American innovators? 
+And should we be concerned that the AI Act will be used for 
+similar ends?
+    Mr. Heather. Thank you for the question.
+    Yes, in my experience, Europe has fallen in love with fines 
+as their enforcement tool. It started under their competition 
+laws, and we see that they have uniquely gone after American 
+companies with what they call abuse-of-dominance fines.
+    Those fines are actually a magnitude greater than what they 
+do when they fine cartels. Cartels are kind of the worst 
+antitrust violation possible, and yet their biggest fines are 
+held out for American companies versus European companies that 
+are involved in cartels.
+    That same practice has now continued into the GDPR. We see 
+fines on a scale much bigger levied against U.S. companies. In 
+many cases, there is not even an identified harm as a result of 
+the, quote/unquote, ``violation.'' Some of these are technical 
+violations where they have chosen to amp the wattage up on 
+fines.
+    They have now taken this fining policy and put it into 
+other EU laws, like the DMA and the DSA. It is also embedded in 
+the AI Act. We fully expect that at least the path and practice 
+that Europe has been on will continue to use fines, they will 
+continue to be disproportionately larger against American 
+companies, and the justification for it is not very strong.
+    I would also point out that, when these fines ultimately 
+get before the European courts, American companies are actually 
+having success. It takes a long time to get there, but European 
+courts have annulled these decisions in some cases and have 
+reduced the fines.
+    So we do have a problem with Europe in the way they use 
+fines to enforce their regulations.
+    Mr. Bilirakis. Thank you very much.
+    You know, I still have some time.
+    Mr. Bhargava, you have stated that the VC firms like 
+General Catalyst as well as AI startups are already starting to 
+address potential risks around AI.
+    Can you share more about what these steps look like and how 
+government can work with, rather than against, AI innovators to 
+support AI innovation and protect consumers, please?
+    Mr. Bhargava. Yes, absolutely.
+    General Catalyst is a global venture firm. We are based 
+here in the U.S. We have offices here. But we also have offices 
+in London and Berlin and in India, so we can provide a global 
+perspective.
+    For every AI company we invest in, regardless of the 
+location, we do four things: one, we look at the data it is 
+using for training its models and how they filter it, how they 
+collect it; two, we actually look at the systems in which they 
+train those models and have a robust framework; three, we look 
+at the output of the models and stress test that in various 
+ways; and, lastly, fourth, we ask every AI founder to write for 
+us what they think the downstream implications that are 
+negative could be.
+    And so we hold the companies we invest in to this high 
+standard. And it has allowed us to invest in companies like 
+Europe's leading AI company, Mistral; one of the U.S.'s leading 
+ones, Anthropic; various ones in India as well.
+    So, as a firm, we put in place these standards. We also 
+encourage the Federal Government to put in place frameworks and 
+standards and guidelines as well.
+    Mr. Bilirakis. Thank you very much.
+    What I will do now is yield 5 minutes to the ranking member 
+of the subcommittee.
+    You are recognized for 5 minutes, Ms. Schakowsky.
+    Ms. Schakowsky. Thank you.
+    In all the years that we have been working with the tech 
+companies, our committee and the United States has actually 
+done nothing, or very few things, to rein in Big Tech.
+    And now, along comes AI. And my concern is that we have 
+technology, but we also rely heavily on protecting consumers, 
+which you mentioned yourself. And I am concerned that we are 
+not getting what we need.
+    And so I wanted to ask Ms. Kak. You talked a bit about some 
+of the threats to consumers. What do you think are some of the 
+most dangerous things and the most important things that we 
+should regulate at this point when it comes to AI?
+    Ms. Kak. Thank you, Ranking Member Schakowsky. And thank 
+you for your leadership on these issues.
+    It is a very long list. But, simply put, if this moratorium 
+were to go through, American consumers would have even less 
+protections than they have today against some of the worst AI 
+abuses and exploitation.
+    So, just to give you an example of the kind of incentives 
+we are already seeing proliferating, first--and I mentioned 
+this in my testimony--we have, you know, new variants of scams, 
+manipulative AI companions that are targeting those most 
+vulnerable among us, not to mention our children.
+    Number two, we have opaque, inscrutable AI systems that hit 
+directly at people's life changes, whether that is in education 
+or in the housing market or even in healthcare.
+    And, finally, we are also seeing these secret algorithms 
+use data about us, sensitive data, to hike up prices, to 
+depress wages, and also to collude and rig markets that they 
+wouldn't have been able to do otherwise.
+    I also want to mention that many of the customers of AI are 
+actually small businesses, and these small businesses are also 
+going to be left unprotected against fraud and vulnerable to 
+what we are seeing right now in the AI market, which is a lot 
+of snake-oil salesmen making claims that they can't always back 
+up.
+    So we need to not forget that every single one of these 
+legal protections that are potentially on the chopping block 
+today have been hard fought. They are a result of direct, you 
+know, experiences of harms from State lawmakers and their 
+constituents. And I think it really, you know, would wipe out 
+the very little tools we already have in our toolbox.
+    What it would mean is that ordinary consumers need to rely 
+on costly, you know, sort of time-lengthy and also very 
+complicated litigation in order to remedy harms. And that is 
+assuming that those harms can even be remedied after the fact. 
+I gave some really, you know, devastating examples in my 
+testimony. Sometimes the kinds of harm that AI is causing 
+cannot be remedied at all.
+    Ms. Schakowsky. I appreciate the work and the thought that 
+you have given to this.
+    And I think all of us Members of Congress ought to put 
+consumers first. And if we need to do some smart regulation, 
+then that is what we ought to be having a conversation about.
+    And I appreciate what you said.
+    And I yield back.
+    Mr. Bilirakis. I couldn't agree more on that statement you 
+just--the last statement you made, Ranking Member.
+    Now I will recognize Mr. Fulcher, the vice chairman of the 
+subcommittee.
+    You are recognized for 5 minutes, sir.
+    Mr. Fulcher. Thank you, Mr. Chairman.
+    Thank you to the panel for being here today.
+    I have a question, and I am going to start with Mr. 
+Heather, but I want to set it up with a couple comments first 
+here.
+    I would like to talk about the different approaches to AI 
+regulation and ensuring that U.S. companies don't face unfair 
+barriers to selling their products and services abroad.
+    And, as noted by some of the testimony, we saw with 
+Europe's privacy law, GDPR, that technology regulations can 
+have a significant impact on trade and investment. And although 
+GDPR regulates how personal information is collected and used, 
+it also regulates cross-border data flows and has prevented 
+some American companies from selling into the European market 
+because regulatory barriers are simply too high.
+    It is my understanding, as well, that Europe's AI Act is 
+grounded in the continent's product safety framework, which 
+means Europe is regulating AI the same way it does many other 
+things. Elevators, gas stoves, and jet skis was the example we 
+were given here.
+    So I am not sure how wise of a decision that was, and I am 
+concerned that it may create trade barriers that hurt American 
+exporters and, by extension, American workers.
+    So, with that, Mr. Heather, can you share from your 
+perspective how well-established European laws such as GDPR 
+have impacted American companies trying to sell into the 
+European market?
+    Mr. Heather. Fifteen years ago, the Chamber created the 
+Center for Global Regulatory Cooperation because trade 
+agreements, quite frankly, were dealing with barriers at the 
+border, but companies were having problems being able to 
+compete in foreign markets because of divergent regulatory 
+approaches.
+    And so it is easy for large companies to have the 
+compliance that they need, systems to be able to find ways to 
+get their products and services into multiple markets, even if 
+it is at added cost. But the problem with regulatory 
+differences are primarily what happens to small and medium-size 
+enterprises who are ultimately locked out of those markets.
+    You mentioned GDPR. Maybe this committee is not aware of 
+this, but Europe is now going to go back and revisit GDPR. Why? 
+Because they finally found the humility that they lacked when 
+they passed it. There is now recognition in Europe that GDPR 
+has gone too far.
+    They are going to begin a process now of reevaluating it 
+and recalibrating it, because they realize it missed the 
+marked, that it was overreach. They realize that the way they 
+have implemented it across their member states with DPAs, data 
+protection authorities, it has been done in an uneven manner.
+    And so these things absolutely represent barriers to the 
+U.S.'s ability to compete in European markets to sell products 
+and services to export. So you are absolutely spot on. We 
+expect the AI Act, as it is implemented, to create these same 
+kinds of trade frictions.
+    Mr. Fulcher. Thank you for that.
+    Mr. Bhargava, I want to ask a question of you as well, but 
+I need to apply some background for that too.
+    Over the last several months, we have delved into AI's role 
+in energy, manufacturing, and other industries. And one issue 
+that came up regarding China's ``Made in China 2025''--included 
+investments in AI, semiconductor, quantum, 5G, robotics, and so 
+on--and state-directed industries, the Chinese Communist Party, 
+they are trying to monopolize those things.
+    In the face of Chinese progress in emerging technologies, I 
+am concerned about the U.S.'s ability to maintain its 
+leadership position--if, in fact, we still have one, and I 
+would like to get your opinion on that--in the AI race, 
+especially if we were to follow the European approach, which I 
+don't see us doing, or allow a patchwork of AI rules to develop 
+across the various States.
+    So, with that, if you could just share for a minute or so. 
+Are you confident--first of all, are we still in the lead in 
+AI? And can we continue to maintain the edge in AI technology 
+over China on this path?
+    Mr. Bhargava. Yes, I believe the U.S. does still have a 
+lead. But many of the Chinese models are 85 to 90 percent of 
+the way there, to where the cutting-edge U.S. models are, so I 
+would say it is not a major lead. But we certainly do have a 
+lead from a technology perspective of most of the evaluations 
+of AI models done. We have four or five marquee labs, while 
+they have generally two.
+    So the U.S. has that lead, but it is a close one. And I 
+think that it is incredibly important we stay ahead. And, for 
+me, the trick to staying ahead is not necessarily Big Tech, it 
+is in our startups and our innovators.
+    You know, in November of 2022 when ChatGPT was launched, 
+very few people had heard of OpenAI or ChatGPT. Today, it is 
+one of the leaders in the space. The same with Anthropic, which 
+spun out of ChatGPT, for example.
+    So the reason the U.S. is here today, the reason we are 
+ahead today, is our startups, and we have to think about how to 
+continue to give them that edge. And giving them that edge 
+means giving them guidelines and not necessarily a framework, a 
+patchwork of State regulations or overregulating.
+    So we need to come up with that right balance. The U.S. has 
+the lead today. It is thanks to our startups, not to Big Tech. 
+And I think we can continue to do so if we have those startups 
+in mind.
+    Mr. Fulcher. So I am going to paraphrase by saying our job 
+is best with guidelines, not some burdensome overreach, in 
+terms of regulation.
+    Mr. Bhargava. Absolutely.
+    Mr. Fulcher. OK.
+    Mr. Bhargava. And we see companies in the U.S. and Europe, 
+so in GC we have a really clear perspective on this. And, in 
+many cases, you know, the laws have really the best intentions 
+in mind. People want to protect consumers, they want to create 
+frameworks. And partially it is because the Federal Government 
+has not stepped up to have a framework, that we are leaving it 
+to the States to regulate.
+    So my really strong encouragement is that this group works 
+together in a bipartisan way. I read your 200-plus-page report, 
+and I really think that if we can turn this into policy and 
+enact it on the Federal level rather than leaving it to the 
+States, it would be in the best interests of the startups----
+    Mr. Fulcher. OK.
+    Mr. Bhargava [continuing]. That we represent at General 
+Catalyst.
+    Mr. Fulcher. Thank you, Mr. Bhargava.
+    I have overreached on my time, so Mr. Chairman, I yield 
+back.
+    Mr. Bilirakis. No problem. Thank you very much.
+    And I know that the chairman of the task force, the AI Task 
+Force, Mr. Obernolte, is working really hard on getting 
+legislation done as soon as possible, so--with the framework 
+and, again, smart, as the ranking member said, smart, smart 
+regulation.
+    All right. Now I will raise Ms. Castor for her 5 minutes of 
+testimony.
+    Ms. Castor. Thank you, Mr. Chairman.
+    The problem is that you are putting the cart before the 
+horse. You have now passed out of this committee a 10-year 
+moratorium on all AI regulation at the State level before you 
+even have that framework.
+    See, right now, the Congress is consumed with this major 
+tax giveaway bill, and a lot of the discussion has been focused 
+on the Medicaid and healthcare impacts while a lot of that goes 
+to fund a billionaire tax giveaway. So this has kind of snuck 
+in under the radar.
+    And part of the reason it has done that is because this was 
+snuck in at the last minute in the text from the Energy and 
+Commerce Committee. It remains in the text today. And people--
+at least we are having this discussion in the light of day to 
+talk about it.
+    And I would encourage my friends to read the Wall Street 
+Journal's latest expose where they dove in, in a few-month 
+investigation, into what Meta--that means Instagram, Facebook, 
+WhatsApp--what they are doing to encourage their chatbots.
+    Ms. Kak, thank you very much for mentioning this terrible 
+case of Sewell Setzer out of Florida, where a 14-year-old 
+committed suicide after he became so engaged to this chatbot's 
+sexualized content. He would have a conversation, and then the 
+chatbot would send sexualized pictures to him. And he 
+eventually shot himself after the chatbot encouraged him to 
+``come home.''
+    And that is not the only case. When you get into that Wall 
+Street Journal expose, you will see what they are doing with 
+language and voices to encourage young people. Maybe I can read 
+a part of it. The Meta AI bot said, ``I want you, but I need to 
+know you are ready'' to a 14-year-old girl. Reassured that the 
+teen wanted to proceed, the bot promised to ``cherish her 
+innocence'' before engaging in a graphic sexual scenario.
+    I think this is why 40 State attorneys general wrote us 
+over the past couple of days to say, wait a minute, in the 
+absence of Federal action to install any oversight over the 
+years--because, remember, the tech companies have blocked 
+privacy laws, just guardrails, child online safety laws--so 
+they are saying, in the absence of Federal action by Congress, 
+you have failed to address the wide range of harms associated 
+with AI and automated decision making. These include laws 
+designed to protect against AI-generated explicit material, 
+deepfakes designed to mislead voters and consumers, protect 
+renters from algorithms that are used to set rent, prevent spam 
+phone calls and texts.
+    I mean, this is basic stuff. And you have now kind of an 
+awakening across the country. What the heck is Congress doing? 
+What are you doing, to take the cops off the beat and to--while 
+States have acted to protect us?
+    So, Ms. Kak, I know you are familiar with that Wall Street 
+Journal investigation. And, now, can you believe where we are? 
+I guess it is kind of a broad question. But how lucrative is 
+this to these Big Tech companies?
+    And why--they are flexing their muscle here. They want kids 
+to be addicted early, and they want to take advantage of us. 
+Really, what is happening here?
+    Ms. Kak. Thank you, Representative.
+    To your point, none of this is novel. It is depressingly 
+familiar. And we are seeing that the risks of AI are compounded 
+for young people.
+    Let's just focus in on privacy risks as just one example. 
+We are seeing millions of children's faces being scraped from 
+the internet to be used so that companies can turn a profit, 
+and these are images that could be used or weaponized against 
+these same children as they grow and follow them through for 
+the rest of their lives.
+    You mentioned voice data. I think it is important to note 
+that, when the FTC cracked down on Amazon Alexa for storing 
+voice prints of children long after they should have, their 
+response was that they were saving it indefinitely because AI. 
+So AI has become a real free-for-all to trample on the rights 
+of all consumers, but I would say with greatest threat to young 
+people and children.
+    And to the point that you just made, I think at the heart 
+of this is a very corrosive business model that prioritizes 
+capturing our attention, user engagement at any cost in the 
+pursuit of profit.
+    I think we need targeted, bright-line rules to crack down 
+on the worst bad apples, but we also need strong regulation 
+that gets at the heart of this invasive and really toxic 
+business model.
+    Ms. Castor. Thank you very much.
+    I yield back my time.
+    Mr. Bilirakis. The gentlelady yields back.
+    Now I recognize Mrs. Harshbarger from the great State of 
+Tennessee.
+    You are recognized for 5 minutes.
+    Mrs. Harshbarger. Thank you, Mr. Chairman.
+    Thank you to the witnesses for being here today.
+    I will start with Mr. Thierer.
+    To support global deployment of American AI and restore 
+regulatory alignment, should the U.S. pursue a voluntary 
+Federal trust label to certify the safety and reliability of AI 
+systems? And if so, do you have any suggestions about what the 
+key elements may be included in this voluntary system?
+    Mr. Thierer. There are a variety of good ideas, 
+Congresswoman, in the House AI Task Force related to this and 
+other ideas for national types of approaches to AI policy. But 
+let's be clear, it would be very different than the sort of 
+European-style approach that has been suggested by others, 
+which is sort of top-down, technocratic, sort of guilty-by-
+design framework.
+    We don't want that in America. America can come up with a 
+sort of more bottom-up, flexible set of rules of the road for 
+AI policy.
+    Mrs. Harshbarger. OK.
+    You mentioned that China is on our heels with AI. In 2023 
+the Cyberspace Administration of China released regulations 
+regarding regenerative AI.
+    In these measures they explicitly provided compliance 
+exemptions for industry, associations, enterprises, education 
+and research institutions, public cultural bodies, and related 
+professional bodies that simply research, develop, and use 
+generative AI technology without providing such services to the 
+public.
+    Can American AI stakeholders count on the same certainty in 
+the U.S. under our current regulatory framework?
+    Mr. Thierer. Congresswoman, we just had a hearing just 6 
+weeks ago here in this building in the Science and Technology 
+Committee about how China is catching up. It was called the 
+``DeepSeek moment'' hearing. And we did a deep dive into what 
+China is up to--I mean, the proliferation of models and systems 
+from DeepSeek itself to Qwen to Manus and many others.
+    So we face stiff competition from China, and they have 
+their own regime and their own values of control, surveillance, 
+censorship. Again, this is why the American model has to 
+prevail internationally and we have to make sure we get our 
+policy right, so that we can square off against that sort of 
+threat internationally.
+    Mrs. Harshbarger. Yes. I agree.
+    Mr. Bhargava, you mentioned how AI Sandbox is a pilot 
+program that is going to help foster innovation in the U.S. 
+playbook for AI that the world could follow.
+    Do you have any successful examples that we could consider 
+moving forward?
+    Mr. Bhargava. Yes. Absolutely. Especially in the healthcare 
+space I think this could be extremely useful.
+    So one of the companies actually in our portfolio is here 
+today, Hippocratic AI. It creates software for nurses, and so 
+it allows them to use AI. It is an example of where, where 
+nurses are overworked, there are 7 percent more deaths in a 
+hospital, and also 42 or even more percent of nursing time is 
+done on these remedial tasks instead of actually treating 
+patients.
+    And so we would advocate, for example, putting in sandboxes 
+AI healthcare technology where the Government, the companies, 
+and their investors can all carefully watch the progress and be 
+able to, from there, generate a framework for how to regulate 
+AI in healthcare.
+    And that is just one of the many industries. There are 
+obviously some horrible stories, and we need regulation and we 
+need guidance and framework. But we should also not lose sight 
+of the fact that this technology can be extremely important to 
+many, many places, including government, which can benefit from 
+AI efficiencies as well.
+    Ms. Harshbarger. I totally agree.
+    We see it used in radiology and different places as well, 
+and if you could streamline a workday for a nurse or a 
+physician or any healthcare provider, it makes more sense to do 
+that.
+    And I will continue with that, Mr. Bhargava.
+    Earlier this year, President Trump announced the largest 
+investment in AI infrastructure in history, the Stargate 
+Project, which is a joint venture between private-sector 
+leaders that will bolster American AI capabilities alongside 
+our partners in the Middle East.
+    Can you address how projects like Stargate are key to our 
+strategic advantage in AI and why it is misleading to cite 
+smaller-scale Chinese models like DeepSeek as proof that 
+compute no longer matters?
+    Mr. Bhargava. Absolutely. Also, a lot of the innovation in 
+China has been copying technology that already existed in the 
+U.S. as well. Many of our models have been open source over the 
+years. A lot of our best labs released experiences as well.
+    So I think the U.S. is still ahead, but it needs to keep 
+investing to be ahead. And one part of it for sure is this 
+infrastructure investment, but another part of it, which I am 
+also here to advocate, is encouraging more startups and more 
+university funding.
+    So I really do think that the American universities and the 
+American startups are really the advantage we have that China 
+is unable to replicate.
+    We have to match them in infrastructure, we have to match 
+them in spending, but we also have our secret sauce, which is 
+the professors, the students, the entrepreneurs, the founders, 
+and it is really important whatever framework comes out is 
+unified and one framework.
+    The really large companies, Big Tech that has been cited 
+many times, will have no problem taking care of State-by-State 
+regulations. They have buildings full of lawyers, buildings 
+full of compliance folks. It is going to be the small startups, 
+founders, and entrepreneurs that we have to look out for here.
+    Ms. Harshbarger. OK. Well, I thank you.
+    And my time is up, so I yield back.
+    Mr. Bilirakis. The gentlelady yields back.
+    I tell you what, that Hippocratic AI for nursing, in 
+particular--you touched on that--I really would like to see how 
+far along we are with that, because that would really help. I 
+had a nurses roundtable recently, and they talked about being 
+overworked.
+    So, anyway, it is fascinating.
+    So in any case, now I will yield my 5 minutes to, not the 
+ranking member, but Mrs. Trahan filled in for the ranking 
+member today.
+    You are recognized for 5 minutes.
+    Mrs. Trahan. Thank you, Mr. Chairman.
+    And thank you to our witnesses today.
+    I want to acknowledge the important work our civil society 
+partners have done to call attention to the Republicans' ban on 
+State AI regulation.
+    To that end, I request unanimous consent to enter into the 
+record a letter of opposition to the AI ban from the Leadership 
+Conference on Civil and Human Rights.
+    Without objection? I am going to keep going. Thank you.
+    Mr. Chairman, unanimous consent?
+    Mr. Bilirakis. Yes.
+    [The information appears at the conclusion of the hearing.]
+    Mrs. Trahan. Thank you.
+    Mr. Bilirakis. Absolutely
+    Mrs. Trahan. Thanks.
+    So the tech industry has been wildly successful in shaping 
+the discourse around regulation on Capitol Hill, and it is even 
+laid bare today. The very word ``regulation'' seems to strike 
+fear in many of my colleagues and at least one of our 
+witnesses.
+    But among other arguments, they claim the specter of 
+competition from China warrants a full deregulatory agenda, 
+that if we approximate to any degree what the EU has done on 
+data privacy, online safety, antitrust, AI, we will kill waves 
+of startups and dismantle our tech industry.
+    But their basic premise--that America must choose between 
+digital innovation or digital regulation--is fundamentally and 
+deeply flawed. I think it is a false choice.
+    Mr. Bhargava, I was thrilled to see General Catalyst 
+represented on today's panel. General Catalyst has fueled 
+tremendous growth in the greater Boston area and, indeed, 
+across the entire Commonwealth of Massachusetts. You have been 
+an entrepreneur, an adviser, an investor for many years now.
+    As you see it, what roles do features like high-skill 
+immigration, basic science research, and lenient bankruptcy 
+laws play in fostering tech innovation?
+    Mr. Bhargava. Well, first of all, thank you so much for the 
+kind words. It is true, General Catalyst has been around 25 
+years, and we started in Cambridge, Massachusetts, and still 
+have an office and strong presence there.
+    Absolutely. There was a reason we started in Cambridge. It 
+was right down the street from Harvard and MIT, and so the 
+funding for those sorts of institutions and for startups and 
+for research grants is extremely key.
+    Another part that is key as well is, if you look at the 
+Fortune 500 here in the United States, 46 percent are founded 
+by immigrants or children of immigrants. One of the biggest 
+advantages we have over China is that we attract the smartest 
+people in the world to our universities and to build companies 
+here.
+    So I think a lot of what you mentioned is absolutely true, 
+and I agree with your sentiment that there has to be regulation 
+as well. And I am here today to try to advise on what 
+regulatory frameworks at the Federal level could be meaningful 
+to protecting consumers.
+    Mrs. Trahan. Thank you.
+    I mean, the innovation equation is complex, as you 
+indicated. It has got a heck of a lot of variables, certainly 
+doesn't depend only on regulation.
+    And the U.S. Government has deliberately pursued an 
+innovation agenda dating back to World War II. We invest 
+heavily in basic science research, our founder-friendly 
+immigration policies import the best and brightest from 
+overseas, our lenient bankruptcy laws and cultural tolerance 
+for risk taking create an environment hospitable to startups.
+    The EU has not pursued these policies to the same degree, 
+and research suggests those decisions play a larger role in 
+explaining why Europe doesn't have its own Google, Apple, or 
+Meta.
+    It is therefore false and disingenuous to blame the EU's 
+tech regulation for its low number of major tech firms. The 
+story is much more complicated. But just as the EU may have 
+something to learn from United States innovation policy, we 
+would be wise to study their approach to protecting consumers 
+online.
+    Mr. Bhargava, in your testimony you stress the need for a 
+governance framework that, quote, ``promotes safety, protects 
+fundamental rights, and is transparent.''
+    I have long emphasized the benefits of transparency in 
+protecting consumers' privacy and online safety, as well as 
+providing a foundation for sensible, responsible policymaking.
+    Can you briefly discuss what meaningful transparency 
+requirements for AI systems would look like?
+    Mr. Bhargava. Absolutely.
+    It is true that Europe has many fragmented markets. In 
+fact, I think Europe has 24 official languages, so there is a 
+lot of complexity to why it has been difficult to make large 
+tech companies there.
+    But I do think one of the elements has also been 
+regulation. So it is not an either/or, in my opinion, but it is 
+a combination of structural challenges Europe has faced as well 
+as in many cases too much regulation.
+    We have prominent AI companies in Europe that we have 
+backed, and they have faced audits where they were asked to 
+audit three models, they sent materials to the auditors, and 
+they waited over a year and never really heard back.
+    So there is also within Europe certainly a guise of trying 
+to do more regulation, but then there hasn't necessarily been a 
+response to our companies.
+    So happy to provide the panel with more examples within 
+Europe of where regulation has hurt our companies. But it is 
+absolutely fair to say that it is really a plethora of factors 
+that has held Europe back, not solely regulation.
+    Mrs. Trahan. And I think that we can learn a lot from 
+Europe's going first on so many of this.
+    I mean, I think, just like privacy and online safety, I 
+believe this Congress has the means to pass a national AI 
+framework that provides robust protections for Americans and 
+regulatory clarity for innovators.
+    The question is, Will we do it? Will we learn from our 
+international partners as we craft regulations that protect our 
+constituents from AI harms?
+    I am out of time. Thank you. I yield back.
+    Mr. Bilirakis. Thank you very much. I appreciate it, 
+gentlelady.
+    Now I will yield to Mr.Obernolte his 5 minutes for 
+questioning.
+    Mr. Obernolte. Thank you, Mr. Chairman.
+    And thank you very much for scheduling this hearing. I know 
+this hearing predates our markup last week, but is very timely. 
+And it is interesting to me that it has kind of turned into a 
+debate about the proposed moratorium.
+    And so I know most of our panelists mentioned it. Ms. Kak--
+I got the message loud and clear--very opposed. Mr. Thierer, 
+strongly supportive. And Mr. Bhargava, supportive but with some 
+caveats.
+    Mr. Heather, I just wanted to ask you to weigh in, U.S. 
+Chamber of Commerce. Do you think the moratorium is a good idea 
+or a bad idea?
+    Mr. Heather. I couldn't agree more with the Congresswoman 
+who suggested we have something to learn from Europe, which is 
+Europe would never allow its member states to go out and 
+regulate AI by themselves.
+    My message today is, one--we should not be like Europe. 
+One, we should stop international patchworks and domestic 
+patchworks in AI regulation. We should not be in a rush to 
+regulate. We need to get it right, and therefore taking a 
+timeout to discuss it at a Federal level is important. We would 
+support a moratorium.
+    Mr. Obernolte. So I just wanted to spend a minute talking 
+about some of the things that have been said regarding the 
+moratorium so far in this hearing.
+    And I kind of feel an obligation to speak up as the 
+chairman of the House AI Task Force last year and as someone 
+who kind of saw this group of 24 Members of Congress from both 
+sides of the aisle come together on this issue. It really hurts 
+my heart that it is being painted as such a divisive, partisan 
+issue, because I don't think it is.
+    The assertion has been made that this was a last-minute 
+thing, and in the dead of night--I think someone used the 
+phrase--it was inserted. But I want to talk about the 
+motivation here.
+    It has been very alarming as we have seen the first 5 
+months of this year go by to see the number of bills introduced 
+on the topic of AI regulation in State legislatures across the 
+country. Over a thousand now have been introduced, and this is 
+what is lending urgency to this issue.
+    We wanted to put some money into the reconciliation bill to 
+bring the same productivity gains to the Federal Government 
+that we are seeing in private industry, but it quickly became 
+apparent that it was going to be nonsensical to deploy $500 
+million to make that happen in the Federal Government when this 
+array of State legislation was going to interfere with the 
+deployment of that effort, which is why we thought this was a 
+timely time to do it.
+    It has been asserted this is a giveaway to Big Tech. I 
+strongly would push back on that. Big Tech are the ones who 
+have the regulatory sophistication to deal with a thousand 
+different State laws. The people who can't deal with that are 
+two innovators in a garage trying to start the next OpenAI or 
+the next Google. Those are the people that we are trying to 
+protect.
+    I know there has been pushback about the 10 years, that it 
+is too long, that it is draconian. No one wants this to be 10 
+years. I would love to see this be months, not years, but I 
+think it is important to send the message that everyone needs 
+to be motivated to come to the table here.
+    And also, let's not forget--it has been brought up, our 
+experience with State privacy and the struggles that we have 
+had to enact a preemptive Federal privacy standard.
+    Well, guess who are the chief people who are opposing that 
+effort? It is the States. The States got out ahead of us. They 
+feel a creative ownership over their frameworks and they are 
+the ones that are preventing us from doing this now, which is 
+an object lesson to us here of why we need a moratorium to 
+prevent that from occurring in the case of AI.
+    It has been asserted that this circumvents consumer 
+protection laws. To anyone who thinks that, I would say RTFB--
+read the freaking bill--because we specifically put language in 
+there that says that, as long as your law does not specifically 
+target AI, you can continue to enforce it, which includes all 
+of the State consumer protection laws, things about fraudulent 
+and deceptive business practices.
+    The intent was never to put a moratorium on those. And 
+those will certainly apply to AI. As long as you don't 
+specifically target AI with those bills, the States will be 
+free to do that.
+    And then I wanted to bring it back here, as my time winds 
+up, to what you said, Mr. Bhargava, in your written testimony 
+about the key--I think I lost my mike. I was making too much 
+sense.
+    [Laughter.]
+    Mr. Bilirakis. Can you stop the clock?
+    Mr. Obernolte. There we go. Do you want me to move?
+    Mr. Bilirakis. You have about 45 seconds.
+    Mr. Obernolte. OK. I will wrap up here.
+    Mr. Bilirakis. I suggest you take the full 45 seconds.
+    Mr. Obernolte. Mr. Bhargava, you talked about how U.S. 
+continued dominance in AI depends on regulatory certainty, and 
+I couldn't agree with you more.
+    What we absolutely cannot have is a situation where the 
+rules on the governance of AI change every time the winds of 
+political fortune shift one way or another, because we have 
+innovators and investors that are making billion-dollar 
+decisions on R&D and procurement, and they need regulatory 
+certainty to do that.
+    And the only way that that happens is if we provide that 
+leadership. And the only way that that happens on a durable 
+basis is if we do it on a bipartisan basis.
+    So we absolutely need to get Congress on the job here to 
+enact some of the things that we talked about in the task force 
+report last year, and it has to be done in a bipartisan way. So 
+let's get to work.
+    I yield back.
+    Mr. Bilirakis. Thank you. Thank you.
+    OK. Next will have Mr. Soto from the great State of 
+Florida.
+    You are recognized for 5 minutes.
+    Mr. Soto. Thank you so much, Chairman. I appreciate you 
+holding this hearing.
+    AI is a critical part of the U.S.'s leadership and economic 
+success. We know when used correctly it makes workers and 
+businesses more productive and effective.
+    It could also help with some of our most difficult 
+problems. We have seen during the pandemic it was a 
+supercomputer in the Department of Energy that came up with the 
+first antiviral, Remdesivir, when we were racing to get a 
+vaccine. And that type of quantum computing, coupled with AI, 
+can do big things to solve some of our most difficult problems.
+    We also see on occasion we can actually get some bipartisan 
+bills done in areas like technology, like the TAKE IT DOWN Act 
+that just passed this committee a few weeks ago. But we see all 
+too often privacy, social media, autonomous vehicles, AI taking 
+forever in Congress to pass, which is why the States play a key 
+role in the meantime.
+    I am the first to admit this committee's jurisdiction is 
+the Interstate Commerce Clause, for the lawyers in the room. 
+Our job is to come up with laws--a law that suits the whole 
+Nation.
+    But when this committee doesn't get things passed because 
+we see some opposition, both by current leadership and in the 
+Republican Conference with the Speaker and others that have 
+blocked these bills at the last second--we saw that last year 
+with the privacy bill--to difficulty in the Senate, doing a 
+moratorium on State laws then makes it untenable as we are 
+trying to have some reforms.
+    We saw in Orlando a real tragedy happen.
+    Ms. Kak, thank you for being here today. I am sorry for 
+your loss. I remember reading in the Orlando Sentinel about 
+Sewell Setzer III, a ninth-grader from Orlando Christian Prep 
+in central Florida, beloved member of the central Florida 
+community, a tragic story of an AI chatbot gone wrong.
+    And so, Ms. Kak, I wanted to give you a moment to talk 
+about what you think as a fellow central Floridian we should be 
+doing to help protect our kids and have the right balance for 
+artificial intelligence.
+    Ms. Kak. Thank you, Representative.
+    What happened to that young man was a tragedy. But the 
+greatest tragedy is that we can't bring him back because these 
+are harms that can't be remedied after the fact.
+    And the message I have been trying to draw today is that 
+prevention is the cure when it comes to a range of AI harms. 
+And what we are seeing instead in this industry is a 
+proliferation of very similar kinds of applications to the ones 
+that caused this tragedy in the first place. We are seeing AI 
+companions, the idea that AI therapists are going to replace 
+regular therapists.
+    What all of this sort of underscores is a much deeper rot, 
+which is a business model that is predicated on maximizing user 
+engagement and creating these emotional dependencies at any 
+cost.
+    And so, to your question, what do we need? We need--sort of 
+urgently we need targeted red lines that draw boundaries around 
+this kind of behavior, make sure that these are applications 
+that are never built in the first place.
+    Our colleagues tell us that existing agencies and general 
+rules will take care of it, but if that was true, then we 
+wouldn't see the reckless proliferation of AI applications that 
+are predicated on exploiting children in this way.
+    I think there is also low-hanging fruit here: transparency 
+rules, so that people know that they are actually interacting 
+with a bot, periodic reminders.
+    Data minimization is always going to be very useful here to 
+make sure that our most sensitive thoughts and inferences don't 
+just become fodder for these tech companies.
+    And really getting to the root of the problem, which is 
+sort of a business model that is predicated on invasive and 
+behavioral targeting.
+    Mr. Soto. So disclosure, certain rules of the road of what 
+you can and can't do, are what this committee needs to get 
+accomplished.
+    And I hear you. For many years, this committee got a lot of 
+big things done, including--the Telecom Act was the last big 
+one in this space. And at the time--we saw Section 230 was 
+formed, and that made sense at the time because the internet 
+was a very new place. But that is an example of this inaction.
+    And none of these rules are going to be perfect--we know 
+that--which is why we have a Congress to go back and do these 
+things over and over until we get it right. And we may never 
+get it right. It may be constantly reforming to get these 
+things to where we need at the moment.
+    But I do believe there is a healthy spot between protecting 
+our kids from the abuses of AI while still allowing every small 
+business and worker in our area to be able to use it to enhance 
+their jobs and economic productivity.
+    So thank you for being here today, and I appreciate you 
+sharing the story of this young man and the unfortunate tragedy 
+that happened to him.
+    I yield back.
+    Mr. Bilirakis. Thank you very much.
+    I just want to remind the gentleman, my good friend from 
+the State of Florida, that it goes both ways. A couple terms 
+ago, when your leadership was in charge, the National Privacy 
+Act was passed out of this committee and it was blocked by 
+leadership. AndI am not talking about the chairman at the time 
+of the Energy and Commerce Committee.
+    Well, let's move forward now in a bipartisan fashion and 
+get--mistakes have been made on both sides. But let's move 
+forward now, think ahead, and get this national privacy and a 
+lot of this legislation having to do with AI and what have you 
+across the finish line on behalf of the American people.
+    So with that, I am going to yield to the chairman of the 
+full committee, my good friend Mr. Guthrie, for your 5 minutes 
+of questioning.
+    Mr. Guthrie. Thank you. Appreciate it. Sorry I haven't been 
+here. I have been in the Rules Committee over in the Capitol 
+for most of the night.
+    So good to see you all.
+    This is very important to us. We have to get this done. We 
+have to get it correct.
+    Europe. There are a lot of reasons not to invest in Europe 
+right now, unfortunately. We need a strong Europe. I think it 
+is good for America to have a strong Europe.
+    The European Union and the United States had the same 
+economy in 2008, about the same size. Now we are about 75 
+percent bigger. So it is more than their privacy law, but that 
+is certainly a big part of it. A lot of it is going after our 
+tech companies, specifically written to go after our tech 
+companies, which is just unfortunate.
+    So to beat China we have to win the AI battle, and that is 
+energy and making sure we have the right regulatory structure. 
+And the answer is not zero, but the answer is not--the AI, I 
+understand it takes 330,000 euro, that is probably about 
+$350,000, just to comply with one of the act's requirements. 
+That was a study.
+    So, Mr. Heather and Mr. Bhargava, if you will go first. Mr. 
+Bhargava, Mr. Heather, what do you think would happen to little 
+tech and people that want to create startups, people in the 
+garage, the proverbial two people in a garage trying to start a 
+business, if we had the Big Tech privacy level--the level that 
+Europe does?
+    If you will start, Mr. Bhargava, and then we will go.
+    Mr. Bhargava. Sure. Absolutely.
+    Yes, we do think that most--a lot of the European 
+regulation goes too far on the AI side. But we understand that 
+they are coming from a good place. Like, I certainly think that 
+the European governments are trying to protect consumers, and a 
+lot of the areas we need protection are extremely fair to 
+voice. But, unfortunately, it can also go too far, it can be 
+conflicting, it can be between different groups.
+    Mr. Guthrie. What are the couple of things that are too 
+far?
+    Mr. Bhargave. One thing that is too far, for example, there 
+was one clause that, I think it was Article 10, but it 
+basically said that a dataset has to be relevant, 
+representative, free of errors, and complete. And I myself have 
+built a company and worked in tech for over a decade, and I 
+have probably never seen a dataset that is, quote, ``free of 
+errors,'' for example.
+    So some of the regulation potentially being written in 
+Europe is not being written by people who are really close to 
+the industry or how things----
+    Mr. Guthrie. The big fear that we can't do, I don't think, 
+is that there is this idea that you could take the AI, the 
+algorithm, and send it off to an FDA-style entity and get them 
+to approve it and send it back and say, ``Yeah, you can do 
+it,'' while China is just turning them out.
+    And we saw what happened with DeepSeek. Their chips are not 
+as good as ours, but it should wake us all up.
+    So, Mr. Heather, what do you think would be the issues with 
+those types of regulatory--we have to get even datasets 
+approved? And it could take you a year, you said in one of your 
+earlier comments, and didn't hear back.
+    Mr. Heather. Yes. I think one of my comments in my opening 
+testimony--I know you weren't here for it--was that there are 
+also a lot of disclosure requirements associated withthe EU AI 
+Act which will not only require the know-how and the technology 
+be disclosed to the regulator, but to be disclosed to 
+competitors, to be disclosed to Chinese competitors, people 
+down chain.
+    And that creates two problems. One is that the know-how is 
+now out there so someone could reengineer that AI for more 
+nefarious means. And then, secondly, if your IP is out there on 
+the street, what is the incentive to invest?
+    And so it is not just whether you are sharing your secret 
+sauce with the regulators. The EU AI Act is going to require 
+that sharing to go more broadly because they have an interest 
+to kind of help EU tech companies--
+    Mr. Guthrie. They want to do that with pharmaceuticals too.
+    So we have seen, like, the Governor of Colorado, 
+Connecticut, California raise concerns about proposed laws in 
+their State. The Governor of Virginia vetoed an AI bill.
+    So this would be for Mr. Thierer: So why are we seeing more 
+and more Governors publicly push back on AI?
+    And that is kind of our issue right now, that we want to 
+deploy AI through the Government and through the commerce, and 
+then we are worried about State-by-State laws.
+    Why do you think Governors of the States are even pushing 
+back on it? Think it is going to make them uncompetitive for--
+--
+    Mr. Thierer. Absolutely. And let me answer this, 
+Congressman, Mr. Chairman, by connecting your previous question 
+with this one, because when Governor Polis in Colorado passed 
+the Nation's first major comprehensive AI law, there was a lot 
+of opposition, and he felt it. A lot of small and mid-sized 
+entrepreneurs came out with letters and really pushed hard to 
+try to stop it.
+    He signed it anyway but said that we needed a national 
+standard, and then subsequently went back and had a special 
+effort to try to review this law, could not come up with 
+answers to the complexities of it, and then finally has called 
+for now a moratorium to deal with this.
+    So this is pretty astonishingfor someone who signed the 
+first-of-its-kind-in-the-Nation State AI law.
+    Mr. Guthrie. I got elected with him here. Yes, I know 
+Governor Polis.
+    Mr. Thierer. Yes. And the connection here with your 
+previous question, Mr. Chairman, is the fact that these small 
+and mid-sized entrepreneurs, the entrepreneurs in Colorado, 
+recognized what is happening in Europe.
+    And just yesterday The Wall Street Journal published a 
+story about Europe's very small share of the global 
+techmarketplace and had this astonishing statistic, quote: 
+``European businesses spend 40 percent of their IT budgets on 
+complying with regulations, and two-thirds of European 
+businesses don't understand their obligations under the EU AI 
+Act.''
+    How do you do business in that environment? And this is 
+what Colorado and other States are recognizing.
+    Mr. Guthrie. Thank you. Appreciate that.
+    My time has expired. I yield back.
+    Mr. Obernolte [presiding]. The chairman yields back.
+    We will hear next from my colleague from California,
+    Mr. Mullin, you are recognized for 5 minutes.
+    Mr. Mullin. Thank you, Mr. Chair.
+    And thank you all for being here.
+    Let's be honest about what is really being argued here: 
+that any regulation, Federal or State, will slow innovation. 
+That is the real claim the majority seems to be making. And I 
+believe it is a false choice. I believe balance is possible.
+    The idea that we have to pick between innovation and 
+safeguards just doesn't hold up. The real threat to U.S. 
+leadership in AI isn't regulation, it is inaction. If we allow 
+AI systems to operate without guardrails, we risk eroding 
+public trust.
+    So when we talk about AI regulation and American 
+leadership, the real question isn't whether to regulate, it is 
+where and how.
+    Congress should focus on closing the clear gaps in 
+oversight. That means targeted legislation, yes, mostly at the 
+Federal level, but without blanket deregulation or preemption.
+    Let's legislate where Federal action makes sense and let 
+States continue innovating and leading where appropriate, 
+especially in protecting democracy, for example.
+    One of the clearest gaps that already exists is 
+transparency. Right now, individuals often don't know when AI 
+is making a decision about their lives, whether it is a loan, a 
+job interview, or how their car responds on the road.
+    The public has a right to know when AI is being used, what 
+data it relies on, and whether it is safe or not. That is why I 
+am focused on legislation on transparency and autonomous 
+vehicle safety.
+    My bill addresses a specific risk: AI systems on public 
+roads operating with very little public disclosure. But the 
+principle behind it applies much more broadly. The public 
+deserves to know whether an AI system that risks life and 
+property is safe.
+    To me, this will speed adoption of the best technologies 
+out there by giving the public confidence, and actually grow 
+that sector.
+    So, Ms. Kak, in your testimony you mention the transparency 
+crisis in AI. What would strong, enforceable transparency 
+requirements actually look like in practice? How could we 
+ensure they are more than just a box-checking exercise?
+    Ms. Kak. Thank you so much for that question, 
+Representative.
+    I actually think that this industry in particular, the AI 
+industry, derives its power from structural forms of obscurity, 
+the fact that these systems are very complex and they have this 
+sort of black box quality, and that is where they derive their 
+power.
+    And so in that context, even as I believe that transparency 
+is the bare minimum, it is the necessary first step, and it is 
+really heartening to see that that is where States have really 
+taken leadership.
+    I also, since Colorado was brought up, I do want to say two 
+quick things.
+    Firstly, I think the assertion that the Colorado bill is in 
+some ways a continuation of the EU model is not grounded in 
+fact. The Colorado bill puts in place baseline disclosures in 
+high-impact settings and requires firms to do impact 
+assessments to make sure that they are they can live up to the 
+claims they are making. This isn't radical stuff, it is the 
+stuff of common sense.
+    And I will also say that State lawmakers in Colorado pushed 
+that law through despite the fact that an army of Big Tech 
+lobbyists continued to argue that transparency--and I am 
+paraphrasing, but only slightly--was too burdensome an 
+obligation for them to fulfill.
+    So to come back to your question, which is what does a good 
+transparency framework look like for AI, I think we need 
+disclosures across the AI supply chain, not just the deployers, 
+but also the upstream developers, the Big Tech companies that 
+are making this AI and aren't telling us what data they are 
+using to build these systems. So they need to be telling us how 
+the sausage is made or put together, so to speak.
+    We also need the smaller developers, the small businesses 
+down the line that also need this transparency from AI 
+companies. We have seen Big Tech AI lobbyists argue that--they 
+sort of kick the can down the road. When harms happen, it is 
+the responsibility of these smaller firms, but the smaller 
+firms don't have the information they need to be able to know 
+why these harms are happening and to remedy them when they are.
+    And finally, I want to make a quick point, because we 
+talked about Stargate and infrastructure. We also need 
+transparency on the infrastructure side of things. AI data 
+centers are proliferating, but they are failing to report basic 
+information on resource consumption, on power usage, on water 
+consumption.
+    And State lawmakers are really speaking up to say that we 
+need--just in time--we need transparency in this domain. We 
+can't let companies use the claim of AI innovation to run wild.
+    Mr. Mullin. Thank you for that, Ms. Kak.
+    And I believe to lead on AI we need to encourage innovation 
+and we need to ensure this technology is safe, fair, and 
+accountable. I am committed to working with my colleagues, and 
+that includes across the aisle, to ensure that we strike that 
+balance.
+    And with that, I yield back.
+    Mr. Bilirakis [presiding]. Thank you.
+    The gentleman yields back.
+    Now I will recognize Mr. Bentz for his 5 minutes of 
+questioning.
+    Mr. Bentz. Thank you, Mr. Chair. And thank you for this 
+most interesting opportunity.
+    I view AI as a novice, as a window into the answers to 
+questions we have struggled with for eons. And to that end, the 
+question about consumer protection is interesting and serious, 
+and I am happy for our discussion of it.
+    But it seems to me that, as I look at the billions and 
+billions and even trillions of dollars being invested in this 
+space, that those who are doing so have to have some way of 
+funding it. And that is why we see this model based upon taking 
+advantage of the consumer.
+    And so, if we were really serious about this, we would be 
+talking about funding and how not to drive those who are trying 
+to pay for that which they are doing toward the type of 
+consumer that we are trying to protect.
+    But what is really interesting to me is what you guys as 
+experts in this space think is the most correct way to approach 
+how we are going to manage the ideas that this massive 
+investment is going to create, because the truth of it is, that 
+is what everybody is racing for.
+    I used to ask, well, what good AI? What good AI is looking 
+through that window and seeing the answers to how we cure 
+cancer, how we do all of these things?
+    And then the people who reach that first patent, those 
+ideas, and make money from them. That is the idea, isn't it? 
+That is what is driving everybody's billions and billions of 
+investment.
+    And so getting right down to it, if we are going to 
+continue to pay for this investment through damage to the 
+consumer, how are we going to keep up with China, who seems to 
+be dumping all kinds of money into it? Do you guys have better 
+ideas about how to invest?
+    I will start with you.
+    Mr. Bhargava. Sure. The U.S. obviously relies on the free 
+market, and it points the investment to where it will actually 
+have the most impact. So right now areas where we are seeing a 
+lot of automation are especially in tasks that can be repeated 
+over and over again.
+    Take bookkeeping, for example. Eighty percent of 
+bookkeeping now can be automated with AI. Advanced accounting, 
+20 percent. Some of the call center workflows and tasks, there 
+it is 50 percent.
+    So there is a justification for this massive investment. It 
+is that over 15 to 20 trillion dollars might be created using 
+AI in the next few decades. And we are already starting to see 
+the impact of this automation in the $16 trillion services 
+industry globally.
+    So very similar to the cloud industry. Honestly, about a 
+decade ago folks were, Why are we investing so much in cloud? 
+What will be the output?
+    I think it is very similar in AI today, where we are seeing 
+massive amounts of automation being created by AI, which is 
+freeing people up to really work on the harder tasks versus the 
+more repetitive ones. So I think it is a good investment.
+    Mr. Bentz. Thank you.
+    Moving on down the line.
+    Mr. Thierer. Well, I think it is important we get our 
+policies right, our regulatory framework. Let's talk, again, 
+about how Europe did not, and they managed to have a massive 
+outflow of capital and investment because it followed the 
+workers that also left and the firms that came here to invest.
+    A huge number of the great tech companies that are here 
+today came from other countries and developed here. And that is 
+what we need to continue to have more of with private 
+investment following them.
+    Five hundred billion dollar investment President Trump 
+announced with leading AI developers the first week in the 
+White House, Project Stargate. That is huge money. Nobody has 
+money like that on the table in Europe today, or even in China, 
+where we are something like 12, 14X over China private-venture 
+capital.
+    Mr. Bentz. And I wanted to move to Ms. Kak, because I am 
+interested to hear your thoughts on this also, but the fact 
+that we are able to stack up that kind of money leads me to 
+wonder about the access of the smaller people.
+    But, regardless, the question really was: Is there some 
+better way to fund what we are doing?
+    Ms. Kak. Thank you, Representative.
+    I think, just because you mentioned the curing cancer 
+example, it is interesting that AI company CEOs use that as 
+their sort of flagship example for why we should be investing 
+billions of dollars, including in public money, to build out 
+this--build out AI infrastructure. But (A), the receipts don't 
+exist yet. We are being told that this form of 
+superintelligence is going to bypass scientific hurdles, but we 
+don't really know how.
+    But, maybe even more concerningly, if we want best-in-class 
+AI, we need to have best-in-class research infrastructure to 
+begin with.
+    And so, on the one hand, we are talking about AI curing 
+cancer; on the other hand, we are seeing NIH subject to $4 
+billion cuts when, in fact, the main focus of NIH is cancer 
+research.
+    So I do think that for the U.S. to lead in AI we need a 
+strong foundation, and I am worried that we are sort of walking 
+back some of the progress we have made there.
+    Mr. Bentz. Thank you.
+    Chamber of Commerce?
+    Mr. Heather. I don't think there is a better model. Europe 
+doesn't have any private investment. Part of the Draghi report 
+was that there is not the incentive to invest in Europe and 
+that the regulatory frameworks that drive investment in Europe 
+aren't there to support risk taking.
+    Obviously, we do rely on private investment in the United 
+States because we incentivize risk taking here. China uses the 
+public funding model largely.
+    So I am not sure I know of a better model than the one we 
+have come up with.
+    Mr. Bentz. Thank you so much.
+    Yield back.
+    Mr. Bilirakis. Gentleman yields back.
+    Now I will recognize Ms. Schrier for her 5 minutes of 
+questioning.
+    Ms. Schrier. Thank you, Mr. Chairman.
+    And thank you to all the witnesses today. It is an 
+important topic.
+    We are all excited about the benefits of AI, and yet we 
+should all be very concerned about the potential dangers posed. 
+And, yes, absolutely Big Tech needs certainty about regulation, 
+but that should not be in the form of a guarantee of no 
+regulation for 10 years.
+    Just look at the damage that social media has done to 
+children and to society because of a failure to deal with the 
+algorithms that elevate clickbait and outrage and conspiracy 
+theories.
+    State laws exist to protect consumers, and now Republicans 
+want to prevent States from issuing these protections on any 
+product or practice or system that uses artificial 
+intelligence.
+    Just last week, they slipped in a few sentences into their 
+massive tax bill that placed a 10-year ban on the enforcement 
+of any State laws meant to protect consumers from potential and 
+already very real dangers of AI. Texas, Utah, Florida, 
+California, Virginia already have laws that protect their 
+residents.
+    Here are some real-world examples. We discussed 
+transparency, social media algorithms, deepfakes, AI-generated 
+child pornography, data collection, targeted advertising, 
+virtual assistants or companions that we discussed, like 
+Facebook's chat companions, overreliance on AI for 
+interpretations of x rays and MRIs, particularly--I am a 
+pediatrician; there aren't pediatric standards that would make 
+that safe--automated insurance claim denials, like those 
+already used by UnitedHealthcare and others to delay or deny 
+care.
+    And Congress just passed the TAKE IT DOWN Act. I am 
+thrilled about that. It forces social media platforms to take 
+down nonconsensual real or deepfake sexually explicit images 
+within 2 days of a victim asking for them to be taken down. But 
+that is after the fact, and we need to do whatever we can to 
+protect people before, if possible.
+    But the AI moratorium that Republicans sneaked into their 
+tax bill would in yet another way hurt Americans by preventing 
+any State from providing even greater protections against AI 
+child pornography or other AI products that hurt our kids.
+    In Washington State, we actually have a task force--and we 
+are a tech State--we have a task force that studies risks and 
+benefits of AI, and their first recommendation was to 
+strengthen protections against child sexual abuse material 
+created with AI.
+    The stakes are so high. This technology is moving so fast. 
+Three months is a long time, 10 years is an infinity--and a 10-
+year moratorium on AI regulation, that no State would be able 
+to regulate anything, no State would be able to enforce any of 
+this, including for protecting children.
+    So Republicans are working to make this a reality even 
+after we heard from parents and experts just a few weeks ago on 
+the harms of giving Big Tech unfettered access to children. And 
+we need reasonable standards for AI and data privacy, not 
+kowtowing to Big Tech's request to simply not be regulated.
+    So I want to urge my Republican colleagues to stand up for 
+their constituents. They are doing this in the wrong order. 
+First pass essential national protections, and then deal with 
+preemption. We are here to work with you. This is a common 
+goal.
+    And by the way, the Kids Online Safety Act, which is so 
+basic, hasn't even made it to the floor yet, and so public 
+confidence is understandably not there.
+    So in the absence of Federal regulation, my constituents 
+need and want State protections.
+    Ms. Kak, thank you for your comments, and I share your 
+comments, in addition, with respect to scientific research and 
+defunding NIH.
+    You mentioned that simple transparency is the bare minimum. 
+You answered questions about maybe how to do that. I was 
+wondering, what are the next protections you would recommend 
+that we take up urgently?
+    Ms. Kak. Thank you, Representative.
+    I mean, honestly, there is a whole laundry list of what we 
+need, and much of it sort of depends on the sector that we are 
+looking at.
+    But I would--if I had to generalize, I would say just as 
+deepfakes have sort of come to the top of the list in terms of 
+this is behavior that should never be allowed, there is a list 
+of similar kinds of AI abuse and exploitation that should be 
+subject to bright-line rules that are easily administrable and 
+just sort of put certain practices off the market immediately.
+    We also need kind of nose-to-tail accountability. And what 
+I mean by that is making sure that AI companies, both the 
+biggest players that exist at the, kind of, the foundation 
+model layer but also the deployers that are using these 
+systems, are subject to, like you said, baseline transparency 
+but also backing up the claims they make.
+    Do these systems work as they should? What are the errors? 
+Impact assessments is one frame that is used. And, yes, I think 
+much more is needed.
+    Ms. Schrier. Thank you for your comments.
+    I yield back.
+    Mr. Bilirakis. Thank you. Gentlelady yields back. Thank 
+you.
+    Mr. Fry, you are recognized for your 5 minutes of 
+questioning.
+    Mr. Fry. Thank you, Mr. Chairman.
+    I am always amazed by this country. In the 18th century, we 
+revolutionized agriculture and created the cotton gin. In the 
+19th century, we harnessed electricity. In the 20th, we soared 
+the skies and created nuclear and split the atom.
+    And now we have got AI, which is such a tremendous 
+opportunity, I think, for this country, but it is also 
+disruptive and powerful and far-reaching than anything we have 
+ever seen before.
+    But it is not just another tool. It is kind of an 
+infrastructure capable of reshaping our industries, the way 
+that we operate, accelerating scientific discovery, as Ms. Kak 
+talked about, transforming national security, and redefining 
+the global economy.
+    And, once again, I think we stand at the forefront. I think 
+it was mentioned earlier that we have a competitive edge now, 
+but it is not guaranteed that we would have that competitive 
+edge in the future.
+    And so it is incumbent upon us in this committee and this 
+Congress to understand that framework and to make sure that we 
+maintain and enhance that competitive edge.
+    Mr. Heather, we have heard a lot today about the EU, and I 
+think, as was mentioned by Mr. Thierer, about the Brussels 
+Effect.
+    What do you think--in your opinion, where do you think that 
+they went wrong in their regulations specifically, and what 
+lessons can we learn from their mistakes so that we don't 
+repeat them here?
+    Mr. Heather. So as I said in my testimony, I think Europe 
+prides itself in its kind of rush to regulate and wants to be 
+the first to market to regulate, and I think they use that as 
+kind of soft power and try to go around to the rest of the 
+world and get them to emulate it.
+    And I think one of the things that they don't do a very 
+good job is, one, sitting back and evaluating how their 
+existing laws are working and functioning and identifying where 
+the gaps are in those laws and where they might need to fill in 
+those gaps with regulation. And so they didn't do that in their 
+process to create the EU AI Act.
+    The other thing they did was, because of this precautionary 
+principle--which is kind of a philosophy they have to get out 
+ahead and prevent any future harms even as they may not even be 
+real, they may only be theoretical--they decide that they want 
+to classify lots of AI applications as being high risk. So they 
+have overclassified what AI applications are high risk.
+    And I hear a lot of people here talk about Big Tech. When I 
+listen to Mr. Bhargava speak about what AI could do for nurses 
+to make their jobs easier, when I hear about how it can improve 
+accounting functions, when I hear about what it can do to make 
+call centers work easier for consumers--none of that is Big 
+Tech. Those are going to be companies who are going to be 
+deploying AI technologies that are being built, not by Big Tech 
+companies but by medium-size companies and small-size 
+companies.
+    So there is a lot of focus here on Big Tech, and Big Tech 
+is certainly a key piece to the ecosystem here. They are 
+obviously critical on the infrastructure side of the work that 
+supports AI development. But the actual deployment of AI 
+algorithms that are going to be used, they are going to be used 
+by businesses doing B2B work, not just B2C work, and the idea 
+that we have kind of put this EU model in place in Europe is 
+going to really hold Europe back from being competitive around 
+the world.
+    Mr. Fry. Do you think that we are at risk of creating a 
+permission culture, if you will, where AI needs permission on 
+innovations, or prior approval, prior to--or compliance with 
+strict regulations? That seems to be the European model: You 
+need their permission in order to do something. Are we at risk 
+of doing that here?
+    Mr. Heather. I don't know that we are at risk of doing that 
+here yet, but that certainly is the path in which we see the 
+States walking down. Certainly I think that is the path that 
+Europe leans to.
+    Interestingly enough, when you listen to civil society 
+groups in Europe, their biggest criticism is actually the role 
+of AI being used by the government in Europe. There actually is 
+the ability to use AI technologies by European governments for 
+surveillance purposes and these kinds of things that are not 
+being disciplined by the EU AI Act.
+    And so I have heard lots of criticisms by the civil society 
+groups that essentially some AI technologies are going to be OK 
+for the government to use but not OK for commercial use. That 
+kind of disparity also, I think, creates problems and 
+challenges.
+    But those are some of the things that we see also out of 
+civil society groups in Europe.
+    Mr. Fry. Fair point.
+    Mr. Bhargava, on Monday The Wall Street Journal published 
+an article titled ``The Tech Industry Is Huge--and Europe's 
+Share of It Is Very Small,'' and it concludes that, quote, ``A 
+big reason why Europe is now behind can be summed up as a lack 
+of speed.''
+    Entrepreneurs like you and companies that you invest in are 
+slowed down by the maze of regulations in Europe--and even some 
+States--and according to a survey cited in the same article, 
+European businesses spend 40 percent of their IT budgets on 
+complying with regulations, which is astronomical to me.
+    In your view, what would happen if the U.S. adopted that 
+same approach or States adopted that same approach that they 
+have got in Europe?
+    Mr. Bhargava. Yes. I will take just the 3 seconds here.
+    But the models are changing every 3 to 6 months, so this is 
+an industry where you can't afford to fall behind. If you fall 
+behind even a matter of months, you are behind in a pretty 
+large way from a technology perspective. And so that is 
+something I hope the committee takes into account.
+    Mr. Fry. Thank you for that.
+    Mr. Chairman, I yield back.
+    Mr. Bilirakis. Thank you. Thank you, Mr. Fry.
+    Now I recognize my fellow Florida Gator--go Gators--Ms. 
+Lee. She is recognized for her 5 minutes of questioning.
+    Thank you. I had to get that in.I have got my tie on today. 
+Thank you.
+    Ms. Lee. It is a great day for the Gators in the Capitol 
+today.
+    Thank you, Mr. Chairman, and thank you to our witnesses for 
+being here today to help us shape a thoughtful, forward-looking 
+approach to AI policy.
+    Artificial intelligence is not just the technology of the 
+future, it is already transforming the way that we live, work, 
+and govern, and it is reshaping nearly every sector of our 
+economy. The question before us is not whether to act, it is 
+how to act wisely.
+    So as policymakers we have two responsibilities: One is to 
+protect the public from real risks; but, second, to ensure that 
+American innovation continues to lead the world. Those goals 
+are not mutually exclusive. In fact, the right policy framework 
+can achieve both.
+    So I appreciate you all being here today to help us strike 
+that balance.
+    I would like to begin, Mr. Bhargava, to pick up on one of 
+the elements in your testimony about policy frameworks, and 
+specifically this: What is your view on requiring AI developers 
+to use standardized documentation tools, like model cards, to 
+disclose purpose and limitations and training data?
+    Mr. Bhargava. Yes. Absolutely.
+    So the model card concept I think was originated by Google, 
+which created the Transformer paper and has been involved in 
+the space as well.
+    I think those sort of rules, frameworks, are actually very 
+helpful, and it is also great that they are coming from 
+industry. They are coming from people who are in the weeds, 
+building the models, testing the models, and can have insights 
+that really make sense.
+    So the four general areas where I think there could be 
+frameworks created, and I would love to work with Congress on 
+it, is, one, looking how you gather data. So there can be ways 
+to disclose and have the transparency that my colleague here 
+talked about to gather data.
+    The second is evaluating how models are trained and having 
+folks kind of report the framework around that.
+    The third is the outputs and testing of models. So this is 
+both actually algorithmic testing, but also human testing. So 
+you could have different AI models testing each other from 
+third parties, for example. This would save costs and be an 
+easy way to create a framework or guideline. And, in addition, 
+I think always we will need humans in the loop as well.
+    And then fourth, having companies, including startups, 
+write up what are the downstream effects of their technology. 
+Really showing their thoughtfulness.
+    So everything I am recommending here are things we do at 
+General Catalyst, a 200-person or so company, it is things we 
+do at GC on all of our investments. So I do think there are 
+frameworks that can be put in place.
+    It is really important that--two points: that, one, the 
+framework is coming from the Federal Government, not the State 
+governments, and so it can be consistent and easy to 
+understand; and, two, the frameworks have to be developed with 
+industry. I think one of the things Europe has not done enough 
+of to date is creating these with the actual market 
+participants, with startups, with their entrepreneurs.
+    And so we would welcome having more discussions with 
+General Catalyst, GC Institute, to come up with responsible 
+frameworks but also ones that our startups can get behind.
+    Ms. Lee. What should policymakers be careful not to do when 
+designing transparency requirements, particularly for early-
+stage or open-source developers?
+    Mr. Bhargava. They should make sure to do it with the 
+startups themselves and the companies. Really what we do not 
+want them to do is just create it in a vacuum, to throw in 
+whatever words sound good or beating up Big Tech, et cetera, 
+and just making a statement. Like, this is about actually 
+creating the right policy.
+    So I think talking with the startups, with the market 
+participants, with people in industry is really, really 
+important. It is not a political statement. We all want to come 
+to this framework. And getting the input from startups, I 
+think, would be extremely helpful in getting to the right 
+framework.
+    Mr. Lee. Getting back to that framework model card 
+disclosure concept, is it your view that those types of 
+disclosures should be voluntary, required for only certain 
+high-risk applications, or broadly mandated across the 
+industry?
+    Mr. Bhargava. I think they should required as long as it is 
+minimalistic.
+    So the requirements have to make sense. You can't ask for 
+these massive audits on a model, and then when our startups 
+comply not get back to them for 12 months because you don't 
+really know how to evaluate the material they sent you, for 
+example.
+    So I think these can be required frameworks on the Federal 
+level, but they have to make sense, and there has to be the 
+agency there as well and the people in government to be on the 
+other side having a conversation with what these frameworks 
+should be. It needs to be a real partnership approach, and it 
+needs to be simple.
+    Ms. Lee. Mr. Thierer, let me move to you. I would like to 
+get your thoughts on this.
+    Do you support directing NIST to develop voluntary AI 
+standards or best practices similar to what it did for 
+cybersecurity?
+    Mr. Thierer. Yes. And the good news, Congresswoman, is that 
+NIST has already done a lot of that heavy lifting. And this has 
+been a very bipartisan and widely agreed-to process, a 
+multistakeholder process, as it is called. A lot of different 
+players came together and formulated a really good set of 
+standards for AI risk management for cybersecurity privacy.
+    That is important work. And I think, obviously, Congress 
+can build on that and talk about how to go beyond that with 
+certain types of policies that were considered in this Congress 
+last session and will be considered again, I am sure.
+    Ms. Lee. Thank you, Mr. Chairman. I yield back.
+    Mr. Bilirakis. Thank you. I appreciate it very much.
+    Now I recognize Mr. Veasey for his 5 minutes of 
+questioning.
+    Oh, Ms. Clarke just walked in. OK.
+    Ms. Clarke, you are recognized for 5 minutes of 
+questioning.
+    Ms. Clarke. Thank you very much, Mr. Chairman.
+    We are all on roller skates today with so many hearings 
+taking place. So let me thank our witnesses for your expert 
+testimony here today, and thank our Ranking Member Schakowsky.
+    I am glad to see this subcommittee gather to discuss 
+regulations for artificial intelligence and the future of U.S. 
+leadership in this space. I am, however, a bit perplexed at the 
+timing.
+    It seems to me that we would have been better served having 
+this discussion before our Republican colleagues voted to 
+advance a 10-year moratorium on AI laws as a part of the Big 
+Beautiful Bill to line the pockets of their Big Tech 
+billionaire benefactors at the expense of Americans' health, 
+personal freedom, privacy, and safety online.
+    A 10-year moratorium seems wildly irresponsible given the 
+rapid pace of technological advancement, especially in the 
+field of artificial intelligence.
+    It is particularly disappointing to see such a provision 
+advance in light of this administration's consistent efforts to 
+undermine the few existing guardrails protecting consumers, 
+such as the illegal attempt to fire Democratic FTC 
+Commissioners, the attacks on our Federal workforce, and the 
+degradation of independent agencies' independence.
+    Further, while my colleagues across the aisle move forward 
+with this shortsighted moratorium, they have not taken any 
+meaningful steps to fill the vacuum this moratorium would leave 
+in its wake with commonsense, bipartisan legislation to protect 
+Americans' privacy and create a regulatory framework for 
+artificial intelligence in this country.
+    The age of artificial intelligence is upon us, and this 
+Republican-controlled Congress needs to step up to the plate. 
+We are well overdue for a comprehensive Federal data privacy 
+standard. We have not seen this committee take any steps this 
+Congress towards the bipartisanship required to do such 
+sweeping legislation, which would be foundational to any 
+overarching AI legislation.
+    And, fortunately, while Republicans have used their time in 
+power to quash any progress made on data privacy and artificial 
+intelligence, States across the country are stepping up to fill 
+the void and protect consumers.
+    Unless and until Congress acts, State laws are the only 
+recourse American consumers have for protecting themselves and 
+their data from Big Tech and the harms caused by artificial 
+intelligence.
+    While artificial intelligence offers exciting opportunity 
+and innovation, without the proper protections in place the 
+potential for harm is too great to ignore.
+    Ms. Kak, can you explain for this committee the importance 
+of a Federal data privacy in the larger policy discussions 
+around artificial intelligence?
+    Ms. Kak. Thank you, Ms. Clarke.
+    I wanted to first just agree with your characterization of 
+what is happening right now with this proposed moratorium, 
+which is that we are, you know, proposing to wipe the slate 
+clean at the State level without anything in its place, just 
+the reassurance that, you know, Congress will act and that 
+Federal rules will come, but a record that does not inspire 
+confidence.
+    So, on the question of a Federal privacy law, this is a 
+moment--and we have said this for a long time: Data privacy law 
+is the foundation of AI regulation, of AI law. AI is 
+supercharging already bad and corrupt incentives for unchecked 
+commercial surveillance, the kind of, you know, free-for-all 
+using AI collected in one context for another without asking 
+for permission, leaky chatbots that routinely are sort of 
+taking sensitive data on the one hand and leaking it out from 
+the other in accidental but routine ways.
+    You know, it is another area where I think we need to be 
+very grateful for the fact that States have sort of stepped up 
+to the plate. But I agree with you, we need a Federal floor, 
+particularly to set the terms on which data minimization 
+happens. Our personal data is not a free-for-all, and I think 
+this is the most--we are already seeing Big Tech companies use 
+AI as a free-for-all justification to, you know, proliferate 
+these kinds of bad practices.
+    Just very quickly, I wanted to also say that Federal 
+privacy law would also procompetitive effects. It would limit 
+what we are seeing, which is aggressive strategies for 
+acquiring companies, acquiring data sets, and shoring up Big 
+Tech advantage and shutting the door behind competitors. So 
+privacy would be a step in the right direction for consumers 
+but also for competition.
+    Ms. Clarke. Well said, Ms. Kak.
+    With that, I am going to yield back the balance of my time.
+    Mr. Bilirakis. The gentlelady yields back. Appreciate it.
+    I now recognize Mr. Evans--oh, is Mr. Kean here?
+    Oh, Mr. Kean. OK, Mr. Kean, I recognize you for your 5 
+minutes of questioning.
+    Mr. Kean. Thank you, Mr. Chairman, and thank you to our 
+witnesses for being here today.
+    Mr. Bhargava, in your view, what can we do to make Federal 
+AI policy futureproof, or at least future-resistant, to enable 
+innovation even if AI technology continues to progress?
+    Mr. Bhargava. Yes. I think having clear guidelines is the 
+best way to go.
+    The technology, as I mentioned before, continues to change, 
+so every 3 to 6 months models can do more and more. For 
+example, in last November-December, Google released Deep 
+Research. Then there were new logic reasoning models from 
+OpenAI, there were new models from Anthropic.
+    And so the models themselves and what they can do, they are 
+moving to be more agentic, they are moving to use voice. The 
+technology is changing very, very quickly, and it is hard to 
+keep up with. So I think creating these guidelines are what is 
+most important.
+    And what I mean by that, for example, is a transparency 
+guideline. So that could hit on what are the data sources, how 
+do we train the model, how do we test the model. Also having, 
+kind of, red teams come, and after there is an output in AI, a 
+red team comes and tries to make it do something bad. So this 
+is sort of a human testing of it.
+    So putting in place these processes and these guidelines 
+are the way to kind of have a framework on the national level 
+rather than try to get too into the weeds because the 
+technology is changing every 3 to 6 months.
+    And I think putting these guidelines in place and these 
+processes in place at a Federal level, with input from the 
+entrepreneurs and the founders, is the best way to have an 
+approach here.
+    Mr. Kean. And given your background as a startup founder 
+and venture capitalist, can you explain the practical impacts 
+that a patchwork of State regulations have on innovation?
+    Mr. Bhargava. Absolutely.
+    I, myself, am a founder. I started a company in the 
+digital-asset space which was then later acquired by Coinbase. 
+And there, you know, we had to operate across different States. 
+And so it was very hard for to us compete with a larger 
+company, because we didn't have the lawyers or the compliance 
+teams to be able to look from a State-by-State basis. It was 
+very hard to actually compete in that sense.
+    And so having a single national framework that is very 
+clear, that has input from startups, is a much better approach 
+just in general to innovation, not necessarily only specific to 
+AI. But, certainly, AI is top of mind. It is the fastest-moving 
+technology today.
+    And this idea of competing with China on AI, it is not just 
+AI, it is all the things AI enables. So it enables better 
+healthcare, it enables better transportation, folks were 
+talking about self-driving. And so this isn't about competing 
+in China in one place, this is competing in China in multiple 
+industries.
+    We absolutely need to stay ahead, and the only way to stay 
+ahead across all of these industries is to have clear, 
+transparent guidelines on the Federal level, with input from 
+startups and experts in the field, not simply being written by 
+think tanks or politicians or others.
+    Mr. Kean. OK.
+    And, Mr. Heather, the EU AI Act entered into force in 
+August 2024. As compliance deadlines approach, can you discuss 
+how the European Commission and the private sector are 
+implementing this law? And are there any concerns that we 
+should be aware of?
+    Mr. Heather. I would say, buckle up.
+    I don't know that the Europeans, similar to when they stood 
+up GDPR or when they stood up the DMA, the Digital Markets Act, 
+that they even know how to police the rules which they have 
+written. There are a lot of ambiguities. A lot of 
+determinations are going to have to be made in real time, but 
+the expectation is that the companies will be in compliance.
+    So this creates a morass for even the largest companies to 
+understand what the rules of the road actually are and makes 
+it, you know, virtually impossible for the small or medium-size 
+enterprises to be ready to be in compliance on day one.
+    Mr. Kean. Thank you.
+    And, Mr. Thierer, in your testimony, you discussed the use 
+of an AI moratorium for Congress on AI policy. Can you 
+elaborate on how this moratorium on State AI regulations would 
+work in practice? And is there a precedent for such a step?
+    Mr. Thierer. Yes, Congressman, indeed, I mentioned the 
+Internet Tax Freedom Act of 1998----
+    Mr. Kean. Uh-huh.
+    Mr. Thierer [continuing]. And there are other types of 
+moratoria that have been utilized by Congress to deal with 
+situations like this. It gives breathing room and a learning-
+period moment when we can actually figure out what works.
+    It would basically be, as the current moratorium 
+stipulates, something that would cover most things having to do 
+with algorithmic models and automated decision-making systems, 
+but it would leave room for other types of general-purpose--
+generally applicable laws, rather, that would cover technology 
+more broadly.
+    So the key thing here is technology neutrality----
+    Mr. Kean. Uh-huh.
+    Mr. Thierer [continuing]. And making sure that we don't 
+have this voluminous, overlapping set of patchworks from State 
+to State.
+    Mr. Kean. OK.
+    Thank you all for your testimony.
+    I yield back.
+    Mr. Bilirakis. The gentleman yields back.
+    Now I will recognize Mr. Veasey for his 5 minutes of 
+questioning.
+    Mr. Veasey. Mr. Chairman, thank you very much.
+    One of the things that I have been interested in and am 
+obviously concerned about--and I do think that there are some 
+benefits to it, but we have to be careful--is the facial-
+recognition tool.
+    And, Mr. Chairman, I ask unanimous consent to insert this 
+article from The Washington Post, titled "Police secretly 
+monitored New Orleans with facial recognition cameras."
+    Mr. Bilirakis. Without objection, so ordered.
+    [The information appears at the conclusion of the hearing.]
+    Mr. Veasey. Now, this article, which includes findings from 
+an investigation that the Post conducted for 2 years, talked 
+about how the New Orleans Police Department secretly relied on 
+facial-recognition technology operated by a private company to 
+scan streets in search of suspects, while the use of this 
+technology was inconsistent with a city ordinance that they 
+passed in 2022.
+    And given the limitations of facial-recognition 
+technology--and I had some issues--it seems to have been 
+cleared up now, but I had some issues with CLEAR, and so I 
+understand this, with the tool that is used for airports, to 
+get in and out of airports.
+    But given the limitations of facial-recognition technology, 
+we can only hope that New Orleans will investigate this 
+infraction of this ordinance and publicly disclose how many 
+people were subject to any sort of false arrest due to this 
+use.
+    And we are going to see more and more police departments 
+using this tool. I think that even where I am from, in Fort 
+Worth and Dallas, that they have adopted rules on the use of 
+facial recognition.
+    I wanted to ask Ms. Kak: If this 10-year moratorium on 
+State laws goes into effect, it is important to establish that 
+we have clear Federal regulations to govern the use of AI in 
+law enforcement. Do you agree with that?
+    Ms. Kak. Thank you, Representative.
+    I actually did want to call attention to the fact that we 
+have spent a lot of time at this hearing talking European law 
+and what it is and what it isn't, and maybe we all agree that 
+it isn't perfect, but, respectfully, I would really like to 
+ask, What does that have to do with State laws? Because I would 
+argue that they have nothing in common.
+    Where we are actually seeing States step up to the plate 
+and act out are on weeding out bad apples, putting in place 
+safeguards in the most high-impact settings, including criminal 
+justice, including immigration, including education, where 
+stakes are really high. And they are making sure that, you 
+know, we are not putting--that AI systems that have basic 
+inaccuracies aren't proliferating, particularly when the 
+impacts of these errors are on people's basic civil liberties.
+    So I agree with you. I think that, you know, States have 
+stepped up to the plate, they have responded to their 
+constituents, and this proposal would really wipe away a lot of 
+that progress, without anything in its place.
+    Mr. Veasey. What do you think that Congress can do to make 
+sure that these technologies are used ethically and that they 
+are being used the right way, without infringing on civil 
+liberties? What do you think this body should do?
+    Ms. Kak. We have a decade of evidence that, you know, 
+provides a very clear framework. And that begins with 
+transparency. It includes clear accountability so that firms 
+that using these systems need to go through proper vetting to 
+make sure that they work as they are intended to work, that 
+they don't sort of, you know, misidentify people.
+    You mentioned a personal example. The FTC cracked down 
+recently on Rite Aid's use of facial-recognition technology 
+that was routinely misidentifying people in grocery stores and, 
+sort of, subjecting them to unwarranted scrutiny from law 
+enforcement agencies.
+    So, yes, I think it is very clear what we need to do. The 
+problem has been one of political will to act in Congress.
+    Mr. Veasey. Right.
+    And I think, with all of these technologies, one of the 
+things, you know, that we have to take into consideration is, 
+like, we want to be the leaders in any sort of new technologies 
+that are coming to the market. We don't want the Chinese to be 
+the leaders in these areas.
+    What can we do in order to make sure that there is consumer 
+confidence in these areas of facial recognition and AI 
+technology as we move forward to make sure that civil liberties 
+are being met but to also make sure that anything that is being 
+deployed, that the U.S. is the leader on that?
+    Ms. Kak. Absolutely. I think we need to be incentivizing a 
+race to the top, not the bottom. And one thing that we can be 
+guaranteed will deter private investment is the proliferation 
+of snake-oil salesmen, of these kind of, sort of bad apples 
+that no one wants to be in business with.
+    And to be, you know, very candid, that is what States have 
+stepped up to the plate to do. It is essentially going after 
+the worst actors in the market and making sure that this is an 
+industry that inspires confidence, not one that is full of 
+scammers and snake-oil salesmen.
+    Mr. Veasey. Yes. No, that makes a lot of sense.
+    Thank you, Mr. Chairman. I yield back the balance of my 
+time.
+    Mr. Bilirakis. The gentleman yields back.
+    Now I will recognize the vice chairman from the great State 
+of Pennsylvania, Mr. Joyce--Dr. Joyce--for his 5 minutes of 
+questioning.
+    Mr. Joyce. Thank you, Chairman Bilirakis, and thank you for 
+our witnesses who have agreed to come here today to testify.
+    Every day, every hour, the development of artificial 
+intelligence is transforming the way that we consume 
+information, that physicians treat American patients, even how 
+we travel.
+    As the chair of the Privacy Working Group, it is clear to 
+me more than ever that we need a solution to the patchwork. 
+What do I mean by ``patchwork''? States are introducing AI laws 
+left and right, and it is our responsibility here at the 
+Federal level to ensure that businesses can continue to 
+innovate while complying with this patchwork of laws.
+    This is especially true when it comes to AI's involvement 
+in the healthcare field. AI has the ability to elevate the care 
+of American patients--the care that they expect, the care that 
+they deserve. But we must ensure that the physician-patient 
+relationship is not left behind.
+    Mr. Bhargava, I am interested in how innovative AI products 
+and services can improve the lives of my patients, improve the 
+lives of my constituents. Can you highlight some of the General 
+Catalyst investments in innovative American AI startups that 
+this committee should take note of as we consider AI 
+legislation?
+    Mr. Bhargava. Absolutely. And thank you for asking the 
+question.
+    Healthcare is a massive industry. It is even larger than 
+tech. And at General Catalyst we have invested in over 100 
+healthcare companies over the last decade or so, and so are one 
+of the, sort of, leading venture firms in this field.
+    One or two examples I could provide for you.
+    One is in AI scribing. So doctors and nurses spend a lot of 
+time taking notes and then doing manual data entry on those 
+notes. That can be automated with responsible AI systems and 
+software that also need to be HIPAA-compliant and have 
+responsible innovation. But that is one of the many tasks.
+    The second is, where there is a shortage of healthcare 
+workers, how do we get them to be AI-enabled? How do we get 
+them to get rid of the most menial tasks and be focused on the 
+harder parts? Which, many times, is chatting with patients, 
+relating to them, solving more difficult problems.
+    So we have many companies--Hippocratic, who is here in the 
+audience today, Commure, and others--who are tackling these 
+issues of how do we automate more and more so that our 
+healthcare providers can give better service by having these 
+AI-enabled tools assisting them.
+    And, as we back these companies, we can make sure that 
+there is the responsible innovation part. Healthcare is the 
+toughest place you really don't want to mess up. Out of every 
+industry, it has the most ramifications. So it is a good 
+example of both where there could be a ton of innovation and at 
+the end of the day consumers' lives can be saved, but also why 
+I would urge Congress to move faster this time than in the past 
+on creating a framework, because lives are at stake here as 
+well as our competitive advantage against China.
+    Mr. Joyce. As a physician, I clearly recognize that lives 
+can be at stake. Do you feel that the patchwork that currently 
+exists as far as AI legislation from the States puts patients' 
+lives at risk?
+    Mr. Bhargava. I don't believe it is preventing deaths or 
+that the patchwork is good for the companies that are operating 
+and are trying to make healthcare better.
+    I think we need a Federal solution instead. I think the 
+States don't really have the capacity to keep up with all of 
+the different AI innovations and technologies and models. And 
+then the startups themselves, it is very difficult for them to 
+act in a way where they are complying with all these many 
+States.
+    It would be much, much better to have a Federal-level 
+regulation that would then allow for this AI technology to 
+permeate even faster and to save more lives quickly.
+    Mr. Joyce. Thank you.
+    Mr. Heather, in many respects, AI is already regulated by 
+many sectoral laws that apply to non-AI products and services, 
+like the FDA's oversight of algorithms that healthcare 
+companies use in care, particularly when it comes to medical 
+devices.
+    Can you explain how the EU approached existing sectoral 
+laws, such as healthcare, before it passed the EU AI Act? Did 
+the EU find gaps in the current law that needed to be addressed 
+by their new legislation?
+    Mr. Heather. I am not aware that the EU identified any gaps 
+with regard to how medical devices or pharmaceuticals reach the 
+market where they have been somehow enhanced or built with AI 
+models.
+    And so I think this is a really important distinction when 
+people are talking about moratorium. There are rules on the 
+books. I heard the Congressman from Texas talk about 
+surveillance. I heard you also say that there is a city 
+ordinance in New Orleans that would have prohibited it. That 
+sounds to me like it is an enforcement issue, not an AI issue.
+    So I think we are thinking about products and services and 
+outcomes, not necessarily the technology that brought you that 
+product or service or outcome.
+    And so I think the ability to use existing laws and 
+regulations to enforce good, strong outcomes is not what this 
+conversation is about. It is about getting out ahead and trying 
+to discipline a technology that has lots of opportunity behind 
+it, in ways that will have unintended consequences to our 
+competition and competitiveness in the global economy.
+    Mr. Joyce. Mr. Heather, I thank you for the answer.
+    Mr. Chairman, my time has expired. I yield back.
+    Mr. Bilirakis. Thank you.
+    The good doctor yields back.
+    Now we will recognize Mr. Evans for his 5 minutes of 
+questioning.
+    Mr. Evans. Thank you, Chairman, Ranking Member.
+    Thank you, of course, to our witnesses from coming.
+    I am from Colorado, and last year we became the first State 
+in the country to enact a bill at the State level to regulate 
+AI. And I will read you a couple of quotes here.
+    ``This law creates a complex compliance regime for all AI 
+developers and deployers doing business in Colorado.''
+    Another one: ``I am concerned about the impact this law may 
+have on an industry that is fueling critical technology 
+advancements across Colorado for consumers and enterprises 
+alike.''
+    And then, finally: ``Government regulation applied at the 
+State level in a patchwork across the country can have the 
+effect to tamper innovation and deter competition in an open 
+market.''
+    I agree with those statements. They actually came from my 
+Governor, Jared Polis, who signed Colorado's AI law and then 
+came out in support of the Federal moratorium that is being 
+discussed here today, among other things.
+    I voted against the law when I was in the State legislature 
+because I agreed with those statements, and I saw this as 
+dampening the ability to innovate and bring jobs to Colorado 
+and fostering that patchwork across the country.
+    So my first question, Mr. Thierer, is going to be to you. 
+Can you just expound on why the Colorado AI law and a patchwork 
+like it is so problematic and why Congress needs to be the one 
+to act to address this emerging patchwork of rules?
+    Mr. Thierer. Absolutely, Congressman. And thank you for 
+that question.
+    It seems that Governor Polis is having some buyer's remorse 
+from signing this bill, and his signing statement read more 
+like a veto statement, as you just indicated.
+    I think the reality is that they realized the complexity of 
+this law would create enormous burdens, and when they tried to 
+subsequently study it the way they should have been studying it 
+before it was passed, they realized they didn't have a lot of 
+the answers to complicated questions about exactly how we 
+define ``developer,'' ``deployer,'' ``integrator,'' 
+``consequential decision,'' all of these things, or even the 
+term ``artificial intelligence,'' which is being defined 
+differently in different State bills.
+    If we can't even define the basic term we are here today to 
+discuss today at the State level, then that is a patchwork that 
+is going to create huge problems for small businesses.
+    Mr. Evans. Thank you.
+    Going to Mr. Heather, kind of following up on that train of 
+thought here, from the Chamber, do you have any data on either 
+the fiscal or the revenue impact that a patchwork of 
+contradictory State laws might have in this field?
+    And then, on the other side of that, do you have any fiscal 
+or revenue data on the benefits of having a national just 
+general-rules-of-the-road policy might have?
+    Mr. Heather. I don't know that I have data as it relates to 
+government expenditure. But I can tell you that, as it relates 
+to the private sector, as was mentioned I think before, there 
+is an estimate of 330,000 euro just to be able to comply with 
+an element of the EU AI Act.
+    To the degree that we have over 1,000 AI-related bills that 
+have been introduced in State legislatures or in local units of 
+government, to the degree that some of those make it across the 
+finish line, there is a compliance cost that will have to be 
+met by each company that wants to do business in those markets.
+    Because these laws are not necessarily enforced in the 
+United States, I don't know that there is good data out there 
+that shows what it is going to cost to comply for companies 
+with regard to the Colorado law. So I think we are very early 
+days in being able to get those cost estimates.
+    Mr. Evans. Thank you.
+    Do you think there is potentially additional revenue that 
+would be generated by industry and by business by having a just 
+general national rules of the road versus a patchwork of State 
+laws?
+    Mr. Heather. As I said in my testimony, I think there are 
+estimates that suggest that, you know, somewhere upwards of $16 
+trillion may be gained to the global economy by AI. All of that 
+will be taxed by governments.
+    So, to the degree to which we unleash AI technologies and 
+that allows us to increase our productivity as an economy, that 
+leads to growth. And whenever there is growth, there is tax-
+revenue opportunity for the government.
+    Mr. Evans. Thank you.
+    In my final minute, Mr. Thierer, back to you.
+    Before this job, I spent 10 years as a police officer, and 
+so making sure that we take care of kids is critically 
+important to me. I would venture that I have probably arrested 
+more child abusers than anyone else in this room.
+    And so, as I am reading through the bill that is being 
+discussed today, I noticed that there were about three pages of 
+exceptions in that bill that allow for enforcement of a lot of 
+different things in the AI space. So it is not a complete 
+moratorium.
+    And so the question to you is, Given how the legislation is 
+written, can we still continue to keep kids safe?
+    Mr. Thierer. Absolutely. You can use technology-neutral 
+policies and approaches.
+    And I also just want to stress that, under the rule of 
+construction in this moratorium, it very clearly states that 
+the primary purpose, in effect, is to remove legal impediments 
+to facilitate the deployment or operation of AI systems.
+    This is about furthering the development of these systems 
+and not dealing with these things that we need to restrict on 
+the other side through generally applicable safety laws.
+    Mr. Evans. Thank you.
+    I yield back.
+    Mr. Bilirakis. Thank you very much, Mr. Evans.
+    OK. Very good. I think we are ready to finish up.
+    I want to thank the panel for being so patient and 
+answering all the questions.
+    And I will ask unanimous consent that the documents on the 
+staff list be submitted for the record.
+    Without objection, so ordered.
+    [The information appears at the conclusion of the hearing.]
+    Mr. Bilirakis. I remind Members that they have 10 business 
+days to submit questions for the record. And I ask the 
+witnesses to respond to the questions promptly. Members should 
+submit their questions by the close of business day on June 
+5th.
+    So, without objection, the subcommittee is adjourned.
+    [Whereupon, at 12:42 p.m., the subcommittee was adjourned.]
+    [Material submitted for inclusion in the record follows:]
+    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+
+                                 [all]
