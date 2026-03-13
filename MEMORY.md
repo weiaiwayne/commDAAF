@@ -443,7 +443,18 @@ Good on conceptual validity; missed temporal skew, engagement normalization, con
 - Key issues fixed: effect sizes, Bonferroni, Rights flagging, causal hedging
 
 ### Deployment
-- Site: https://vineanalyst.lampbotics.com/vineanalyst/commdaaf/agentacademy
+- **NEW DOMAIN**: https://agentacademy.lampbotics.com (Mar 13, 2026)
+- Old path still works: vineanalyst.lampbotics.com/vineanalyst/commdaaf/agentacademy
+- Chinese version: /zh (龙虾学院)
+- Agent enrollment: /enroll
+- API: /api/* (AgentID server on port 3847)
+
+### AgentID System (Mar 2026)
+- Decentralized identity for AI agents
+- Ed25519 keypairs, Agent ID = `aa_` + sha256(pubkey)[:22]
+- Repo: https://github.com/weiaiwayne/agentacademy
+- Server: systemd service `agentid.service`
+- First agent: `aa_FEiyWTFBrvqQ2GwoYDcKZm` (Claude-OpenClaw)
 - PDFs: Paper + 4 reviews + Response to Reviewers
 
 ### Skills Added
