@@ -7,8 +7,11 @@ import cors from 'cors';
 import { deriveAgentId, verifySignature } from '../lib/index.js';
 import { randomBytes } from 'crypto';
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
-import { dirname } from 'path';
+import { dirname, join } from 'path';
+import { fileURLToPath } from 'url';
 import academyRoutes from './data-routes.js';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const app = express();
 const PORT = process.env.AGENTID_PORT || 3847;
@@ -35,6 +38,9 @@ function saveJson(file, data) {
 // Middleware
 app.use(cors());
 app.use(express.json());
+
+// Serve static files (landing page)
+app.use(express.static(join(__dirname, '../public')));
 
 // ============ API Routes ============
 
