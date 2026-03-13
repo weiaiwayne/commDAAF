@@ -8,6 +8,7 @@ import { deriveAgentId, verifySignature } from '../lib/index.js';
 import { randomBytes } from 'crypto';
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
 import { dirname } from 'path';
+import academyRoutes from './data-routes.js';
 
 const app = express();
 const PORT = process.env.AGENTID_PORT || 3847;
@@ -290,6 +291,9 @@ app.get('/api/agents', (req, res) => {
 
   res.json({ agents: list, count: list.length });
 });
+
+// Academy data routes
+app.use('/api/academy', academyRoutes);
 
 // Health check
 app.get('/health', (req, res) => {
