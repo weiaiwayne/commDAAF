@@ -1,0 +1,89 @@
+2026-03-19 02:56:20,650 - INFO - Processing: /root/.openclaw/workspace/projects/vibe-polling/data/raw/trends/trends_2026-03-19.parquet
+2026-03-19 02:56:20,650 - INFO - ============================================================
+2026-03-19 02:56:20,650 - INFO - Starting Data Processing Pipeline
+2026-03-19 02:56:20,650 - INFO - CommDAAF v1.0 - EXPLORATORY Tier
+2026-03-19 02:56:20,650 - INFO - ============================================================
+2026-03-19 02:56:20,650 - INFO - Loading data from /root/.openclaw/workspace/projects/vibe-polling/data/raw/trends/trends_2026-03-19.parquet
+2026-03-19 02:56:20,712 - INFO - [load_data] Loaded 75894 records
+2026-03-19 02:56:20,712 - INFO - Handling missing values...
+2026-03-19 02:56:20,730 - INFO - [missing_values] No missing values found
+2026-03-19 02:56:20,730 - INFO - Applying z-score normalization...
+2026-03-19 02:56:21,108 - INFO - [normalization] Applied temporal z-score (within term, across time)
+2026-03-19 02:56:21,527 - INFO - [normalization] Applied cross-term z-score (within state-date, across terms)
+2026-03-19 02:56:21,528 - INFO - [normalization] Created combined z-score (average of temporal and cross-term)
+2026-03-19 02:56:21,534 - INFO - Calculating issue salience indices...
+2026-03-19 02:56:21,577 - INFO - [issue_salience] Calculated issue salience per state-date-category
+2026-03-19 02:56:21,578 - INFO - Calculating Vibe Index...
+2026-03-19 02:56:21,579 - INFO - [vibe_index] Calculated weighted Vibe Index
+2026-03-19 02:56:21,585 - INFO - [vibe_index] Added 7-day rolling average
+2026-03-19 02:56:21,585 - INFO - ============================================================
+2026-03-19 02:56:21,585 - INFO - PROCESSING COMPLETE
+2026-03-19 02:56:21,585 - INFO - ============================================================
+2026-03-19 02:56:21,660 - INFO - Saved: /root/.openclaw/workspace/projects/vibe-polling/data/processed/trends_normalized.parquet (75894 records)
+2026-03-19 02:56:21,675 - INFO - Saved: /root/.openclaw/workspace/projects/vibe-polling/data/processed/issue_salience.csv (1183 records)
+2026-03-19 02:56:21,690 - INFO - Saved: /root/.openclaw/workspace/projects/vibe-polling/data/processed/vibe_indices.csv (1183 records)
+2026-03-19 02:56:21,691 - INFO - Processing log saved: /root/.openclaw/workspace/projects/vibe-polling/data/processed/processing_log.md
+2026-03-19 14:46:53,461 - INFO - Processing: /root/.openclaw/workspace/projects/vibe-polling/data/raw/trends/trends_2026-03-19.parquet
+2026-03-19 14:46:53,461 - INFO - ============================================================
+2026-03-19 14:46:53,462 - INFO - Starting Data Processing Pipeline
+2026-03-19 14:46:53,462 - INFO - CommDAAF v1.0 - EXPLORATORY Tier
+2026-03-19 14:46:53,462 - INFO - ============================================================
+2026-03-19 14:46:53,462 - INFO - Loading data from /root/.openclaw/workspace/projects/vibe-polling/data/raw/trends/trends_2026-03-19.parquet
+2026-03-19 14:46:53,519 - INFO - [load_data] Loaded 75894 records
+2026-03-19 14:46:53,520 - INFO - Filtering terms with >50% zeros...
+2026-03-19 14:46:53,533 - INFO - [filter_low_signal] Removed 51 terms with >50% zeros
+2026-03-19 14:46:53,546 - INFO -   Kept 25 terms, removed 51
+2026-03-19 14:46:53,547 - INFO - Handling missing values...
+2026-03-19 14:46:53,553 - INFO - [missing_values] No missing values found
+2026-03-19 14:46:53,553 - INFO - Applying z-score normalization...
+2026-03-19 14:46:53,643 - INFO - [normalization] Applied temporal z-score (within term, across time)
+2026-03-19 14:46:54,050 - INFO - [normalization] Applied cross-term z-score (within state-date, across terms)
+2026-03-19 14:46:54,050 - INFO - [normalization] Created combined z-score (average of temporal and cross-term)
+2026-03-19 14:46:54,051 - INFO - Applying per-capita normalization...
+2026-03-19 14:46:54,054 - INFO - [population_normalization] Applied per-capita normalization (interest per million residents)
+2026-03-19 14:46:54,146 - INFO - [population_normalization] Created z_per_capita (z-score of per-capita interest)
+2026-03-19 14:46:54,148 - INFO - Calculating issue salience indices...
+2026-03-19 14:46:54,170 - INFO - [issue_salience] Calculated issue salience per state-date-category
+2026-03-19 14:46:54,170 - INFO - Calculating Vibe Index...
+2026-03-19 14:46:54,172 - INFO - [vibe_index] Calculated weighted Vibe Index
+2026-03-19 14:46:54,177 - INFO - [vibe_index] Added 7-day rolling average
+2026-03-19 14:46:54,177 - INFO - ============================================================
+2026-03-19 14:46:54,177 - INFO - PROCESSING COMPLETE
+2026-03-19 14:46:54,177 - INFO - ============================================================
+2026-03-19 14:46:54,233 - INFO - Saved: /root/.openclaw/workspace/projects/vibe-polling/data/processed/trends_normalized.parquet (25207 records)
+2026-03-19 14:46:54,250 - INFO - Saved: /root/.openclaw/workspace/projects/vibe-polling/data/processed/issue_salience.csv (1183 records)
+2026-03-19 14:46:54,275 - INFO - Saved: /root/.openclaw/workspace/projects/vibe-polling/data/processed/vibe_indices.csv (1183 records)
+2026-03-19 14:46:54,277 - INFO - Processing log saved: /root/.openclaw/workspace/projects/vibe-polling/data/processed/processing_log.md
+2026-03-20 00:37:13,729 - INFO - Processing: /root/.openclaw/workspace/projects/vibe-polling/data/raw/trends/trends_2026-03-19.parquet
+2026-03-20 00:37:13,730 - INFO - ============================================================
+2026-03-20 00:37:13,730 - INFO - Starting Data Processing Pipeline
+2026-03-20 00:37:13,730 - INFO - CommDAAF v1.0 - EXPLORATORY Tier
+2026-03-20 00:37:13,730 - INFO - ============================================================
+2026-03-20 00:37:13,730 - INFO - Loading data from /root/.openclaw/workspace/projects/vibe-polling/data/raw/trends/trends_2026-03-19.parquet
+2026-03-20 00:37:14,289 - INFO - [load_data] Loaded 98371 records
+2026-03-20 00:37:14,289 - INFO - Filtering terms with >50% zeros...
+2026-03-20 00:37:14,355 - INFO - [filter_low_signal] Removed 58 terms with >50% zeros
+2026-03-20 00:37:14,411 - INFO -   Kept 37 terms, removed 58
+2026-03-20 00:37:14,412 - INFO - Handling missing values...
+2026-03-20 00:37:14,421 - INFO - [missing_values] No missing values found
+2026-03-20 00:37:14,422 - INFO - Applying z-score normalization...
+2026-03-20 00:37:14,555 - INFO - [normalization] Applied temporal z-score (within term, across time)
+2026-03-20 00:37:15,007 - INFO - [normalization] Applied cross-term z-score (within state-date, across terms)
+2026-03-20 00:37:15,007 - INFO - [normalization] Created combined z-score (average of temporal and cross-term)
+2026-03-20 00:37:15,012 - INFO - Applying per-capita normalization...
+2026-03-20 00:37:15,015 - INFO - [population_normalization] Applied per-capita normalization (interest per million residents)
+2026-03-20 00:37:15,160 - INFO - [population_normalization] Created z_per_capita (z-score of per-capita interest)
+2026-03-20 00:37:15,163 - INFO - Calculating national weighted average baseline...
+2026-03-20 00:37:16,386 - INFO - [national_baseline] Calculated population-weighted national average as baseline
+2026-03-20 00:37:16,387 - INFO - Calculating issue salience indices...
+2026-03-20 00:37:16,590 - INFO - [issue_salience] Calculated issue salience per state-date-category
+2026-03-20 00:37:16,591 - INFO - Calculating Vibe Index...
+2026-03-20 00:37:16,592 - INFO - [vibe_index] Calculated weighted Vibe Index
+2026-03-20 00:37:16,597 - INFO - [vibe_index] Added 7-day rolling average
+2026-03-20 00:37:16,598 - INFO - ============================================================
+2026-03-20 00:37:16,598 - INFO - PROCESSING COMPLETE
+2026-03-20 00:37:16,598 - INFO - ============================================================
+2026-03-20 00:37:16,751 - INFO - Saved: /root/.openclaw/workspace/projects/vibe-polling/data/processed/trends_normalized.parquet (38311 records)
+2026-03-20 00:37:16,775 - INFO - Saved: /root/.openclaw/workspace/projects/vibe-polling/data/processed/issue_salience.csv (1183 records)
+2026-03-20 00:37:16,795 - INFO - Saved: /root/.openclaw/workspace/projects/vibe-polling/data/processed/vibe_indices.csv (1183 records)
+2026-03-20 00:37:16,797 - INFO - Processing log saved: /root/.openclaw/workspace/projects/vibe-polling/data/processed/processing_log.md

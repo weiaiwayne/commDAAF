@@ -1,0 +1,1085 @@
+2026-03-19 02:08:20,983 - INFO - ============================================================
+2026-03-19 02:08:20,983 - INFO - Starting Prediction Market Collection
+2026-03-19 02:08:20,983 - INFO - ============================================================
+2026-03-19 02:08:20,983 - INFO - Collecting Polymarket data...
+2026-03-19 02:08:21,074 - INFO -   Found 17 election markets
+2026-03-19 02:08:21,169 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/balance-of-power-2026-midterms
+2026-03-19 02:08:21,267 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/balance-of-power-2026-midterms
+2026-03-19 02:08:21,368 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/balance-of-power-2026-midterms
+2026-03-19 02:08:22,502 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-democrats-win-the-house-in-2026
+2026-03-19 02:08:22,642 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-democrats-win-the-house-in-2026
+2026-03-19 02:08:22,765 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-democrats-win-the-house-in-2026
+2026-03-19 02:08:23,878 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-republicans-win-the-senate-in-2026
+2026-03-19 02:08:23,988 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-republicans-win-the-senate-in-2026
+2026-03-19 02:08:24,101 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-republicans-win-the-senate-in-2026
+2026-03-19 02:08:25,233 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-democrats-win-both-the-house-and-senate-in-2026
+2026-03-19 02:08:25,343 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-democrats-win-both-the-house-and-senate-in-2026
+2026-03-19 02:08:25,450 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-democrats-win-both-the-house-and-senate-in-2026
+2026-03-19 02:08:26,579 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/trump-approval-rating-march-2026
+2026-03-19 02:08:26,702 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/trump-approval-rating-march-2026
+2026-03-19 02:08:26,826 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/trump-approval-rating-march-2026
+2026-03-19 02:08:27,956 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-trump-be-impeached-in-his-second-term
+2026-03-19 02:08:28,084 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-trump-be-impeached-in-his-second-term
+2026-03-19 02:08:28,216 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-trump-be-impeached-in-his-second-term
+2026-03-19 02:08:29,314 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/georgia-senate-2026
+2026-03-19 02:08:29,408 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/georgia-senate-2026
+2026-03-19 02:08:29,505 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/georgia-senate-2026
+2026-03-19 02:08:30,620 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/michigan-senate-2026
+2026-03-19 02:08:30,733 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/michigan-senate-2026
+2026-03-19 02:08:30,842 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/michigan-senate-2026
+2026-03-19 02:08:31,955 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/maine-senate-2026
+2026-03-19 02:08:32,070 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/maine-senate-2026
+2026-03-19 02:08:32,194 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/maine-senate-2026
+2026-03-19 02:08:33,321 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/north-carolina-senate-2026
+2026-03-19 02:08:33,446 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/north-carolina-senate-2026
+2026-03-19 02:08:33,571 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/north-carolina-senate-2026
+2026-03-19 02:08:34,572 - INFO - Collecting Kalshi data...
+2026-03-19 02:08:34,744 - INFO -   Found 12 election markets
+2026-03-19 02:08:34,782 - WARNING - Not found: https://api.elections.kalshi.com/v1/events/CONGRESS-26
+2026-03-19 02:08:35,821 - WARNING - Not found: https://api.elections.kalshi.com/v1/events/HOUSE-26
+2026-03-19 02:08:36,857 - WARNING - Not found: https://api.elections.kalshi.com/v1/events/SENATE-26
+2026-03-19 02:08:37,859 - INFO - ============================================================
+2026-03-19 02:08:37,859 - INFO - COLLECTION COMPLETE
+2026-03-19 02:08:37,859 - INFO - Polymarket markets: 17
+2026-03-19 02:08:37,859 - INFO - Kalshi markets: 12
+2026-03-19 02:08:37,859 - INFO - Errors: 10
+2026-03-19 02:08:37,859 - INFO - ============================================================
+2026-03-19 02:08:37,860 - INFO - Saved: /root/.openclaw/workspace/projects/vibe-polling/data/raw/markets/markets_2026-03-19.json
+2026-03-19 02:08:38,394 - INFO - ============================================================
+2026-03-19 02:08:38,394 - INFO - Starting Polling Data Collection
+2026-03-19 02:08:38,395 - INFO - ============================================================
+2026-03-19 02:08:38,395 - INFO - Collecting RCP Generic Ballot...
+2026-03-19 02:08:38,548 - WARNING - HTTP 403: https://www.realclearpolitics.com/epolls/other/2026_generic_congressional_vote-7785.html
+2026-03-19 02:08:38,548 - INFO - Collecting RCP Trump Approval...
+2026-03-19 02:08:38,860 - INFO - Collecting 270toWin Senate Ratings...
+2026-03-19 02:08:39,020 - INFO -   Found 0 Senate races
+2026-03-19 02:08:39,020 - INFO - ============================================================
+2026-03-19 02:08:39,020 - INFO - COLLECTION COMPLETE
+2026-03-19 02:08:39,020 - INFO - RCP items collected: 0
+2026-03-19 02:08:39,020 - INFO - 270toWin items collected: 0
+2026-03-19 02:08:39,020 - INFO - Errors: 0
+2026-03-19 02:08:39,020 - INFO - ============================================================
+2026-03-19 02:08:39,021 - INFO - Saved: /root/.openclaw/workspace/projects/vibe-polling/data/raw/polls/polls_2026-03-19.json
+2026-03-19 02:08:49,088 - INFO - States to collect: 13
+2026-03-19 02:08:49,088 - INFO - Base terms per state: ~54
+2026-03-19 02:08:49,275 - INFO - *** TEST MODE: Only collecting PA and CA ***
+2026-03-19 02:08:49,275 - INFO - ============================================================
+2026-03-19 02:08:49,275 - INFO - Starting Google Trends Collection
+2026-03-19 02:08:49,275 - INFO - Timeframe: today 3-m
+2026-03-19 02:08:49,275 - INFO - ============================================================
+2026-03-19 02:08:49,275 - INFO - Collecting data for Pennsylvania (US-PA)
+2026-03-19 02:08:49,275 - INFO -   economy batch 1/3: ['gas prices', 'gas prices near me', 'grocery prices', 'rent prices', 'cost of living']
+2026-03-19 02:08:53,723 - INFO -   economy batch 2/3: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 02:08:57,894 - INFO -   economy batch 3/3: ['minimum wage', '401k', 'stock market crash']
+2026-03-19 02:09:01,550 - INFO -   immigration batch 1/3: ['ICE raid', 'deportation', 'immigration lawyer', 'asylum', 'border wall']
+2026-03-19 02:09:06,014 - INFO -   immigration batch 2/3: ['illegal immigration', 'undocumented immigrants', 'work visa', 'H1B', 'DACA']
+2026-03-19 02:09:10,134 - INFO -   immigration batch 3/3: ['green card']
+2026-03-19 02:09:14,269 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'US troops Iran', 'military draft', 'Iran casualties']
+2026-03-19 02:09:19,400 - INFO -   iran_war batch 2/2: ['Strait of Hormuz', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 02:09:24,722 - INFO -   ai_jobs batch 1/2: ['AI taking jobs', 'will AI replace', 'ChatGPT', 'AI layoffs', 'automation']
+2026-03-19 02:09:28,306 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training', 'trucking jobs', 'customer service jobs']
+2026-03-19 02:09:34,433 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 02:09:40,942 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'who is my representative', 'Trump approval']
+2026-03-19 02:09:45,273 - INFO -   political batch 2/2: ['impeachment']
+2026-03-19 02:09:51,007 - INFO -   partisan_pairs batch 1/2: ['undocumented immigrants', 'pro-life', 'MSNBC', 'Fox News', 'illegal immigration']
+2026-03-19 02:09:57,841 - INFO -   partisan_pairs batch 2/2: ['Second Amendment', 'abortion rights', 'CNN', 'gun control']
+2026-03-19 02:10:03,899 - INFO -   state_specific batch 1/1: ['fracking', 'steel jobs', 'Philadelphia crime']
+2026-03-19 02:10:16,451 - INFO - Collecting data for California (US-CA)
+2026-03-19 02:10:16,451 - INFO -   economy batch 1/3: ['gas prices', 'gas prices near me', 'grocery prices', 'rent prices', 'cost of living']
+2026-03-19 02:10:21,280 - INFO -   economy batch 2/3: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 02:10:26,957 - INFO -   economy batch 3/3: ['minimum wage', '401k', 'stock market crash']
+2026-03-19 02:10:31,198 - INFO -   immigration batch 1/3: ['ICE raid', 'deportation', 'immigration lawyer', 'asylum', 'border wall']
+2026-03-19 02:10:36,178 - INFO -   immigration batch 2/3: ['illegal immigration', 'undocumented immigrants', 'work visa', 'H1B', 'DACA']
+2026-03-19 02:10:42,616 - INFO -   immigration batch 3/3: ['green card']
+2026-03-19 02:10:47,459 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'US troops Iran', 'military draft', 'Iran casualties']
+2026-03-19 02:10:52,075 - INFO -   iran_war batch 2/2: ['Strait of Hormuz', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 02:10:57,138 - INFO -   ai_jobs batch 1/2: ['AI taking jobs', 'will AI replace', 'ChatGPT', 'AI layoffs', 'automation']
+2026-03-19 02:11:03,614 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training', 'trucking jobs', 'customer service jobs']
+2026-03-19 02:11:07,559 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 02:11:08,020 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 02:11:26,241 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'who is my representative', 'Trump approval']
+2026-03-19 02:11:30,766 - INFO -   political batch 2/2: ['impeachment']
+2026-03-19 02:11:37,338 - INFO -   partisan_pairs batch 1/2: ['undocumented immigrants', 'pro-life', 'MSNBC', 'Fox News', 'illegal immigration']
+2026-03-19 02:11:37,761 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 02:11:51,083 - INFO -   partisan_pairs batch 2/2: ['Second Amendment', 'abortion rights', 'CNN', 'gun control']
+2026-03-19 02:11:52,197 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 02:12:17,296 - INFO - ============================================================
+2026-03-19 02:12:17,296 - INFO - COLLECTION COMPLETE
+2026-03-19 02:12:17,297 - INFO - Time elapsed: 3.5 minutes
+2026-03-19 02:12:17,297 - INFO - States completed: 2
+2026-03-19 02:12:17,297 - INFO - Terms collected: 129
+2026-03-19 02:12:17,297 - INFO - Rate limits hit: 3
+2026-03-19 02:12:17,297 - INFO - Errors: 0
+2026-03-19 02:12:17,297 - INFO - ============================================================
+2026-03-19 02:12:34,630 - INFO - States to collect: 13
+2026-03-19 02:12:34,630 - INFO - Base terms per state: ~54
+2026-03-19 02:12:34,804 - INFO - *** TEST MODE: Only collecting PA and CA ***
+2026-03-19 02:12:34,804 - INFO - ============================================================
+2026-03-19 02:12:34,804 - INFO - Starting Google Trends Collection
+2026-03-19 02:12:34,804 - INFO - Timeframe: today 3-m
+2026-03-19 02:12:34,804 - INFO - ============================================================
+2026-03-19 02:12:34,804 - INFO - Collecting data for Pennsylvania (US-PA)
+2026-03-19 02:12:34,804 - INFO -   economy batch 1/3: ['gas prices', 'gas prices near me', 'grocery prices', 'rent prices', 'cost of living']
+2026-03-19 02:12:38,588 - INFO -   economy batch 2/3: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 02:12:42,847 - INFO -   economy batch 3/3: ['minimum wage', '401k', 'stock market crash']
+2026-03-19 02:12:47,626 - INFO -   immigration batch 1/3: ['ICE raid', 'deportation', 'immigration lawyer', 'asylum', 'border wall']
+2026-03-19 02:12:52,199 - INFO -   immigration batch 2/3: ['illegal immigration', 'undocumented immigrants', 'work visa', 'H1B', 'DACA']
+2026-03-19 02:12:56,859 - INFO -   immigration batch 3/3: ['green card']
+2026-03-19 02:13:02,891 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'US troops Iran', 'military draft', 'Iran casualties']
+2026-03-19 02:13:08,888 - INFO -   iran_war batch 2/2: ['Strait of Hormuz', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 02:13:09,259 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 02:13:20,116 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 02:13:40,702 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 02:14:11,852 - ERROR - Failed after 3 retries: ['Strait of Hormuz', 'oil prices', 'World War 3', 'nuclear war'] in US-PA
+2026-03-19 02:14:15,905 - INFO -   ai_jobs batch 1/2: ['AI taking jobs', 'will AI replace', 'ChatGPT', 'AI layoffs', 'automation']
+2026-03-19 02:14:16,396 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 02:14:29,258 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 02:14:53,120 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 02:15:28,538 - ERROR - Failed after 3 retries: ['AI taking jobs', 'will AI replace', 'ChatGPT', 'AI layoffs', 'automation'] in US-PA
+2026-03-19 02:15:33,907 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training', 'trucking jobs', 'customer service jobs']
+2026-03-19 02:15:34,347 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 02:15:50,935 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 02:15:57,334 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'who is my representative', 'Trump approval']
+2026-03-19 02:16:01,250 - INFO -   political batch 2/2: ['impeachment']
+2026-03-19 02:16:07,258 - INFO -   partisan_pairs batch 1/2: ['MSNBC', 'illegal immigration', 'abortion rights', 'pro-life', 'CNN']
+2026-03-19 02:16:12,690 - INFO -   partisan_pairs batch 2/2: ['Fox News', 'Second Amendment', 'undocumented immigrants', 'gun control']
+2026-03-19 02:16:17,961 - INFO -   state_specific batch 1/1: ['fracking', 'steel jobs', 'Philadelphia crime']
+2026-03-19 02:16:30,432 - INFO - Collecting data for California (US-CA)
+2026-03-19 02:16:30,432 - INFO -   economy batch 1/3: ['gas prices', 'gas prices near me', 'grocery prices', 'rent prices', 'cost of living']
+2026-03-19 02:16:35,924 - INFO -   economy batch 2/3: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 02:16:37,068 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 02:16:46,365 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 02:17:05,872 - INFO -   economy batch 3/3: ['minimum wage', '401k', 'stock market crash']
+2026-03-19 02:17:10,166 - INFO -   immigration batch 1/3: ['ICE raid', 'deportation', 'immigration lawyer', 'asylum', 'border wall']
+2026-03-19 02:17:16,339 - INFO -   immigration batch 2/3: ['illegal immigration', 'undocumented immigrants', 'work visa', 'H1B', 'DACA']
+2026-03-19 02:17:20,390 - INFO -   immigration batch 3/3: ['green card']
+2026-03-19 02:17:25,510 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'US troops Iran', 'military draft', 'Iran casualties']
+2026-03-19 02:17:29,668 - INFO -   iran_war batch 2/2: ['Strait of Hormuz', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 02:17:30,059 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 02:17:44,825 - INFO -   ai_jobs batch 1/2: ['AI taking jobs', 'will AI replace', 'ChatGPT', 'AI layoffs', 'automation']
+2026-03-19 02:17:50,730 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training', 'trucking jobs', 'customer service jobs']
+2026-03-19 02:17:51,178 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 02:18:05,253 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 02:18:08,926 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'who is my representative', 'Trump approval']
+2026-03-19 02:18:13,789 - INFO -   political batch 2/2: ['impeachment']
+2026-03-19 02:18:20,305 - INFO -   partisan_pairs batch 1/2: ['MSNBC', 'illegal immigration', 'abortion rights', 'pro-life', 'CNN']
+2026-03-19 02:18:26,555 - INFO -   partisan_pairs batch 2/2: ['Fox News', 'Second Amendment', 'undocumented immigrants', 'gun control']
+2026-03-19 02:18:38,268 - INFO - ============================================================
+2026-03-19 02:18:38,268 - INFO - COLLECTION COMPLETE
+2026-03-19 02:18:38,268 - INFO - Time elapsed: 6.1 minutes
+2026-03-19 02:18:38,268 - INFO - States completed: 2
+2026-03-19 02:18:38,268 - INFO - Terms collected: 120
+2026-03-19 02:18:38,268 - INFO - Rate limits hit: 11
+2026-03-19 02:18:38,268 - INFO - Errors: 2
+2026-03-19 02:18:38,268 - INFO - ============================================================
+2026-03-19 02:18:38,292 - INFO - Saved: /root/.openclaw/workspace/projects/vibe-polling/data/raw/trends/trends_2026-03-19.parquet
+2026-03-19 02:18:38,293 - INFO - Records: 10920
+2026-03-19 02:27:38,764 - INFO - ============================================================
+2026-03-19 02:27:38,764 - INFO - Starting Polling Data Collection
+2026-03-19 02:27:38,764 - INFO - ============================================================
+2026-03-19 02:27:38,764 - INFO - Collecting 270toWin Senate ratings...
+2026-03-19 02:27:38,939 - INFO -   Found 0 Senate races
+2026-03-19 02:27:38,939 - INFO - Collecting 270toWin House ratings...
+2026-03-19 02:27:40,556 - INFO -   House prediction: None
+2026-03-19 02:27:40,556 - INFO - Collecting Quinnipiac polls...
+2026-03-19 02:27:40,796 - INFO -   Found 16 Quinnipiac polls
+2026-03-19 02:27:40,796 - INFO - Collecting Marist polls...
+2026-03-19 02:27:41,065 - INFO -   Found 1 Marist polls
+2026-03-19 02:27:41,066 - INFO - Collecting Emerson polls...
+2026-03-19 02:27:41,739 - INFO -   Found 17 Emerson polls
+2026-03-19 02:27:41,739 - INFO - ============================================================
+2026-03-19 02:27:41,739 - INFO - COLLECTION COMPLETE
+2026-03-19 02:27:41,739 - INFO -   270towin: 0 items
+2026-03-19 02:27:41,739 - INFO -   quinnipiac: 16 items
+2026-03-19 02:27:41,739 - INFO -   marist: 1 items
+2026-03-19 02:27:41,739 - INFO -   emerson: 17 items
+2026-03-19 02:27:41,739 - INFO -   racetothewh: 0 items
+2026-03-19 02:27:41,740 - INFO -   Errors: 0
+2026-03-19 02:27:41,740 - INFO - ============================================================
+2026-03-19 02:27:41,740 - INFO - Saved: /root/.openclaw/workspace/projects/vibe-polling/data/raw/polls/polls_2026-03-19.json
+2026-03-19 02:29:05,066 - INFO - ============================================================
+2026-03-19 02:29:05,066 - INFO - Starting Prediction Market Collection
+2026-03-19 02:29:05,066 - INFO - ============================================================
+2026-03-19 02:29:05,066 - INFO - Collecting Polymarket data...
+2026-03-19 02:29:05,159 - INFO -   Found 17 election markets
+2026-03-19 02:29:05,256 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/balance-of-power-2026-midterms
+2026-03-19 02:29:05,336 - INFO - States to collect: 13
+2026-03-19 02:29:05,336 - INFO - Base terms per state: ~54
+2026-03-19 02:29:05,355 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/balance-of-power-2026-midterms
+2026-03-19 02:29:05,456 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/balance-of-power-2026-midterms
+2026-03-19 02:29:05,866 - INFO - ============================================================
+2026-03-19 02:29:05,866 - INFO - Starting Google Trends Collection
+2026-03-19 02:29:05,866 - INFO - Timeframe: today 3-m
+2026-03-19 02:29:05,866 - INFO - ============================================================
+2026-03-19 02:29:05,866 - INFO - Collecting data for Pennsylvania (US-PA)
+2026-03-19 02:29:05,866 - INFO -   economy batch 1/3: ['gas prices', 'gas prices near me', 'grocery prices', 'rent prices', 'cost of living']
+2026-03-19 02:29:06,583 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-democrats-win-the-house-in-2026
+2026-03-19 02:29:06,710 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-democrats-win-the-house-in-2026
+2026-03-19 02:29:06,836 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-democrats-win-the-house-in-2026
+2026-03-19 02:29:07,947 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-republicans-win-the-senate-in-2026
+2026-03-19 02:29:08,059 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-republicans-win-the-senate-in-2026
+2026-03-19 02:29:08,170 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-republicans-win-the-senate-in-2026
+2026-03-19 02:29:09,282 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-democrats-win-both-the-house-and-senate-in-2026
+2026-03-19 02:29:09,389 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-democrats-win-both-the-house-and-senate-in-2026
+2026-03-19 02:29:09,500 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-democrats-win-both-the-house-and-senate-in-2026
+2026-03-19 02:29:10,310 - INFO -   economy batch 2/3: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 02:29:10,630 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/trump-approval-rating-march-2026
+2026-03-19 02:29:10,754 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/trump-approval-rating-march-2026
+2026-03-19 02:29:10,876 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/trump-approval-rating-march-2026
+2026-03-19 02:29:12,002 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-trump-be-impeached-in-his-second-term
+2026-03-19 02:29:12,128 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-trump-be-impeached-in-his-second-term
+2026-03-19 02:29:12,253 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-trump-be-impeached-in-his-second-term
+2026-03-19 02:29:13,349 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/georgia-senate-2026
+2026-03-19 02:29:13,444 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/georgia-senate-2026
+2026-03-19 02:29:13,541 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/georgia-senate-2026
+2026-03-19 02:29:14,462 - INFO -   economy batch 3/3: ['minimum wage', '401k', 'stock market crash']
+2026-03-19 02:29:14,655 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/michigan-senate-2026
+2026-03-19 02:29:14,765 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/michigan-senate-2026
+2026-03-19 02:29:14,875 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/michigan-senate-2026
+2026-03-19 02:29:15,989 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/maine-senate-2026
+2026-03-19 02:29:16,098 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/maine-senate-2026
+2026-03-19 02:29:16,209 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/maine-senate-2026
+2026-03-19 02:29:17,337 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/north-carolina-senate-2026
+2026-03-19 02:29:17,462 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/north-carolina-senate-2026
+2026-03-19 02:29:17,586 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/north-carolina-senate-2026
+2026-03-19 02:29:18,586 - INFO - Collecting Kalshi data...
+2026-03-19 02:29:18,786 - INFO -   Found 12 election markets
+2026-03-19 02:29:18,823 - WARNING - Not found: https://api.elections.kalshi.com/v1/events/CONGRESS-26
+2026-03-19 02:29:19,863 - WARNING - Not found: https://api.elections.kalshi.com/v1/events/HOUSE-26
+2026-03-19 02:29:20,900 - WARNING - Not found: https://api.elections.kalshi.com/v1/events/SENATE-26
+2026-03-19 02:29:21,410 - INFO -   immigration batch 1/3: ['ICE raid', 'deportation', 'immigration lawyer', 'asylum', 'border wall']
+2026-03-19 02:29:21,902 - INFO - ============================================================
+2026-03-19 02:29:21,902 - INFO - COLLECTION COMPLETE
+2026-03-19 02:29:21,902 - INFO - Polymarket markets: 17
+2026-03-19 02:29:21,902 - INFO - Kalshi markets: 12
+2026-03-19 02:29:21,902 - INFO - Errors: 10
+2026-03-19 02:29:21,902 - INFO - ============================================================
+2026-03-19 02:29:21,903 - INFO - Saved: /root/.openclaw/workspace/projects/vibe-polling/data/raw/markets/markets_2026-03-19.json
+2026-03-19 02:29:22,386 - INFO - ============================================================
+2026-03-19 02:29:22,387 - INFO - Starting Polling Data Collection
+2026-03-19 02:29:22,387 - INFO - ============================================================
+2026-03-19 02:29:22,387 - INFO - Collecting 270toWin Senate ratings...
+2026-03-19 02:29:22,573 - INFO -   Found 0 Senate races
+2026-03-19 02:29:22,573 - INFO - Collecting 270toWin House ratings...
+2026-03-19 02:29:24,355 - INFO -   House prediction: None
+2026-03-19 02:29:24,355 - INFO - Collecting Quinnipiac polls...
+2026-03-19 02:29:24,555 - INFO -   Found 16 Quinnipiac polls
+2026-03-19 02:29:24,556 - INFO - Collecting Marist polls...
+2026-03-19 02:29:24,834 - INFO -   Found 1 Marist polls
+2026-03-19 02:29:24,834 - INFO - Collecting Emerson polls...
+2026-03-19 02:29:25,501 - INFO -   Found 17 Emerson polls
+2026-03-19 02:29:25,501 - INFO - ============================================================
+2026-03-19 02:29:25,501 - INFO - COLLECTION COMPLETE
+2026-03-19 02:29:25,501 - INFO -   270towin: 0 items
+2026-03-19 02:29:25,501 - INFO -   quinnipiac: 16 items
+2026-03-19 02:29:25,501 - INFO -   marist: 1 items
+2026-03-19 02:29:25,501 - INFO -   emerson: 17 items
+2026-03-19 02:29:25,501 - INFO -   racetothewh: 0 items
+2026-03-19 02:29:25,501 - INFO -   Errors: 0
+2026-03-19 02:29:25,501 - INFO - ============================================================
+2026-03-19 02:29:25,502 - INFO - Saved: /root/.openclaw/workspace/projects/vibe-polling/data/raw/polls/polls_2026-03-19.json
+2026-03-19 02:29:26,567 - INFO -   immigration batch 2/3: ['illegal immigration', 'undocumented immigrants', 'work visa', 'H1B', 'DACA']
+2026-03-19 02:29:33,786 - INFO -   immigration batch 3/3: ['green card']
+2026-03-19 02:29:39,883 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'US troops Iran', 'military draft', 'Iran casualties']
+2026-03-19 02:29:44,923 - INFO -   iran_war batch 2/2: ['Strait of Hormuz', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 02:29:51,179 - INFO -   ai_jobs batch 1/2: ['AI taking jobs', 'will AI replace', 'ChatGPT', 'AI layoffs', 'automation']
+2026-03-19 02:29:55,440 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training', 'trucking jobs', 'customer service jobs']
+2026-03-19 02:30:00,504 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 02:30:07,812 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'who is my representative', 'Trump approval']
+2026-03-19 02:30:14,262 - INFO -   political batch 2/2: ['impeachment']
+2026-03-19 02:30:18,493 - INFO -   partisan_pairs batch 1/2: ['Second Amendment', 'illegal immigration', 'MSNBC', 'gun control', 'undocumented immigrants']
+2026-03-19 02:30:23,811 - INFO -   partisan_pairs batch 2/2: ['abortion rights', 'Fox News', 'CNN', 'pro-life']
+2026-03-19 02:30:30,350 - INFO -   state_specific batch 1/1: ['fracking', 'steel jobs', 'Philadelphia crime']
+2026-03-19 02:30:41,060 - INFO - Collecting data for Michigan (US-MI)
+2026-03-19 02:30:41,060 - INFO -   economy batch 1/3: ['gas prices', 'gas prices near me', 'grocery prices', 'rent prices', 'cost of living']
+2026-03-19 02:30:46,954 - INFO -   economy batch 2/3: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 02:30:53,929 - INFO -   economy batch 3/3: ['minimum wage', '401k', 'stock market crash']
+2026-03-19 02:31:01,074 - INFO -   immigration batch 1/3: ['ICE raid', 'deportation', 'immigration lawyer', 'asylum', 'border wall']
+2026-03-19 02:31:06,732 - INFO -   immigration batch 2/3: ['illegal immigration', 'undocumented immigrants', 'work visa', 'H1B', 'DACA']
+2026-03-19 02:31:13,230 - INFO -   immigration batch 3/3: ['green card']
+2026-03-19 02:31:18,936 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'US troops Iran', 'military draft', 'Iran casualties']
+2026-03-19 02:31:23,006 - INFO -   iran_war batch 2/2: ['Strait of Hormuz', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 02:31:29,869 - INFO -   ai_jobs batch 1/2: ['AI taking jobs', 'will AI replace', 'ChatGPT', 'AI layoffs', 'automation']
+2026-03-19 02:31:36,420 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training', 'trucking jobs', 'customer service jobs']
+2026-03-19 02:31:42,750 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 02:31:47,113 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'who is my representative', 'Trump approval']
+2026-03-19 02:31:53,609 - INFO -   political batch 2/2: ['impeachment']
+2026-03-19 02:31:59,290 - INFO -   partisan_pairs batch 1/2: ['Second Amendment', 'illegal immigration', 'MSNBC', 'gun control', 'undocumented immigrants']
+2026-03-19 02:32:06,053 - INFO -   partisan_pairs batch 2/2: ['abortion rights', 'Fox News', 'CNN', 'pro-life']
+2026-03-19 02:32:12,628 - INFO -   state_specific batch 1/1: ['auto industry', 'UAW', 'Detroit jobs']
+2026-03-19 02:32:27,877 - INFO - Collecting data for Wisconsin (US-WI)
+2026-03-19 02:32:27,877 - INFO -   economy batch 1/3: ['gas prices', 'gas prices near me', 'grocery prices', 'rent prices', 'cost of living']
+2026-03-19 02:32:32,714 - INFO -   economy batch 2/3: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 02:32:37,171 - INFO -   economy batch 3/3: ['minimum wage', '401k', 'stock market crash']
+2026-03-19 02:32:43,720 - INFO -   immigration batch 1/3: ['ICE raid', 'deportation', 'immigration lawyer', 'asylum', 'border wall']
+2026-03-19 02:32:50,158 - INFO -   immigration batch 2/3: ['illegal immigration', 'undocumented immigrants', 'work visa', 'H1B', 'DACA']
+2026-03-19 02:32:54,834 - INFO -   immigration batch 3/3: ['green card']
+2026-03-19 02:33:00,315 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'US troops Iran', 'military draft', 'Iran casualties']
+2026-03-19 02:33:06,362 - INFO -   iran_war batch 2/2: ['Strait of Hormuz', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 02:33:10,874 - INFO -   ai_jobs batch 1/2: ['AI taking jobs', 'will AI replace', 'ChatGPT', 'AI layoffs', 'automation']
+2026-03-19 02:33:17,436 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training', 'trucking jobs', 'customer service jobs']
+2026-03-19 02:33:22,261 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 02:33:29,368 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'who is my representative', 'Trump approval']
+2026-03-19 02:33:35,567 - INFO -   political batch 2/2: ['impeachment']
+2026-03-19 02:33:42,258 - INFO -   partisan_pairs batch 1/2: ['Second Amendment', 'illegal immigration', 'MSNBC', 'gun control', 'undocumented immigrants']
+2026-03-19 02:33:48,631 - INFO -   partisan_pairs batch 2/2: ['abortion rights', 'Fox News', 'CNN', 'pro-life']
+2026-03-19 02:33:55,392 - INFO -   state_specific batch 1/1: ['dairy farms', 'Milwaukee crime', 'cheese prices']
+2026-03-19 02:34:07,837 - INFO - Collecting data for Arizona (US-AZ)
+2026-03-19 02:34:07,837 - INFO -   economy batch 1/3: ['gas prices', 'gas prices near me', 'grocery prices', 'rent prices', 'cost of living']
+2026-03-19 02:34:15,253 - INFO -   economy batch 2/3: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 02:34:20,074 - INFO -   economy batch 3/3: ['minimum wage', '401k', 'stock market crash']
+2026-03-19 02:34:26,241 - INFO -   immigration batch 1/3: ['ICE raid', 'deportation', 'immigration lawyer', 'asylum', 'border wall']
+2026-03-19 02:34:32,629 - INFO -   immigration batch 2/3: ['illegal immigration', 'undocumented immigrants', 'work visa', 'H1B', 'DACA']
+2026-03-19 02:34:39,529 - INFO -   immigration batch 3/3: ['green card']
+2026-03-19 02:34:45,557 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'US troops Iran', 'military draft', 'Iran casualties']
+2026-03-19 02:34:51,928 - INFO -   iran_war batch 2/2: ['Strait of Hormuz', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 02:34:58,778 - INFO -   ai_jobs batch 1/2: ['AI taking jobs', 'will AI replace', 'ChatGPT', 'AI layoffs', 'automation']
+2026-03-19 02:35:04,102 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training', 'trucking jobs', 'customer service jobs']
+2026-03-19 02:35:10,145 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 02:35:16,504 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'who is my representative', 'Trump approval']
+2026-03-19 02:35:20,545 - INFO -   political batch 2/2: ['impeachment']
+2026-03-19 02:35:25,013 - INFO -   partisan_pairs batch 1/2: ['Second Amendment', 'illegal immigration', 'MSNBC', 'gun control', 'undocumented immigrants']
+2026-03-19 02:35:31,055 - INFO -   partisan_pairs batch 2/2: ['abortion rights', 'Fox News', 'CNN', 'pro-life']
+2026-03-19 02:35:35,682 - INFO -   state_specific batch 1/1: ['border patrol', 'Phoenix traffic', 'water shortage']
+2026-03-19 02:35:47,256 - INFO - Collecting data for Georgia (US-GA)
+2026-03-19 02:35:47,256 - INFO -   economy batch 1/3: ['gas prices', 'gas prices near me', 'grocery prices', 'rent prices', 'cost of living']
+2026-03-19 02:35:52,875 - INFO -   economy batch 2/3: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 02:35:57,769 - INFO -   economy batch 3/3: ['minimum wage', '401k', 'stock market crash']
+2026-03-19 02:36:02,457 - INFO -   immigration batch 1/3: ['ICE raid', 'deportation', 'immigration lawyer', 'asylum', 'border wall']
+2026-03-19 02:36:08,839 - INFO -   immigration batch 2/3: ['illegal immigration', 'undocumented immigrants', 'work visa', 'H1B', 'DACA']
+2026-03-19 02:36:15,598 - INFO -   immigration batch 3/3: ['green card']
+2026-03-19 02:36:19,532 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'US troops Iran', 'military draft', 'Iran casualties']
+2026-03-19 02:36:25,948 - INFO -   iran_war batch 2/2: ['Strait of Hormuz', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 02:36:30,571 - INFO -   ai_jobs batch 1/2: ['AI taking jobs', 'will AI replace', 'ChatGPT', 'AI layoffs', 'automation']
+2026-03-19 02:36:35,489 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training', 'trucking jobs', 'customer service jobs']
+2026-03-19 02:36:40,376 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 02:36:46,545 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'who is my representative', 'Trump approval']
+2026-03-19 02:36:53,507 - INFO -   political batch 2/2: ['impeachment']
+2026-03-19 02:36:58,438 - INFO -   partisan_pairs batch 1/2: ['Second Amendment', 'illegal immigration', 'MSNBC', 'gun control', 'undocumented immigrants']
+2026-03-19 02:37:05,200 - INFO -   partisan_pairs batch 2/2: ['abortion rights', 'Fox News', 'CNN', 'pro-life']
+2026-03-19 02:37:09,906 - INFO -   state_specific batch 1/1: ['Atlanta traffic', 'election fraud', 'Stacey Abrams']
+2026-03-19 02:37:19,823 - INFO - Collecting data for Nevada (US-NV)
+2026-03-19 02:37:19,823 - INFO -   economy batch 1/3: ['gas prices', 'gas prices near me', 'grocery prices', 'rent prices', 'cost of living']
+2026-03-19 02:37:26,185 - INFO -   economy batch 2/3: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 02:37:27,338 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 02:37:44,657 - INFO -   economy batch 3/3: ['minimum wage', '401k', 'stock market crash']
+2026-03-19 02:37:51,478 - INFO -   immigration batch 1/3: ['ICE raid', 'deportation', 'immigration lawyer', 'asylum', 'border wall']
+2026-03-19 02:37:58,666 - INFO -   immigration batch 2/3: ['illegal immigration', 'undocumented immigrants', 'work visa', 'H1B', 'DACA']
+2026-03-19 02:38:02,931 - INFO -   immigration batch 3/3: ['green card']
+2026-03-19 02:38:08,393 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'US troops Iran', 'military draft', 'Iran casualties']
+2026-03-19 02:38:14,236 - INFO -   iran_war batch 2/2: ['Strait of Hormuz', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 02:38:19,775 - INFO -   ai_jobs batch 1/2: ['AI taking jobs', 'will AI replace', 'ChatGPT', 'AI layoffs', 'automation']
+2026-03-19 02:38:25,663 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training', 'trucking jobs', 'customer service jobs']
+2026-03-19 02:38:30,549 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 02:38:37,040 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'who is my representative', 'Trump approval']
+2026-03-19 02:38:42,526 - INFO -   political batch 2/2: ['impeachment']
+2026-03-19 02:38:49,537 - INFO -   partisan_pairs batch 1/2: ['Second Amendment', 'illegal immigration', 'MSNBC', 'gun control', 'undocumented immigrants']
+2026-03-19 02:38:54,553 - INFO -   partisan_pairs batch 2/2: ['abortion rights', 'Fox News', 'CNN', 'pro-life']
+2026-03-19 02:39:08,534 - INFO - Collecting data for North Carolina (US-NC)
+2026-03-19 02:39:08,534 - INFO -   economy batch 1/3: ['gas prices', 'gas prices near me', 'grocery prices', 'rent prices', 'cost of living']
+2026-03-19 02:39:13,136 - INFO -   economy batch 2/3: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 02:39:16,758 - INFO -   economy batch 3/3: ['minimum wage', '401k', 'stock market crash']
+2026-03-19 02:39:22,287 - INFO -   immigration batch 1/3: ['ICE raid', 'deportation', 'immigration lawyer', 'asylum', 'border wall']
+2026-03-19 02:39:27,747 - INFO -   immigration batch 2/3: ['illegal immigration', 'undocumented immigrants', 'work visa', 'H1B', 'DACA']
+2026-03-19 02:39:33,930 - INFO -   immigration batch 3/3: ['green card']
+2026-03-19 02:39:34,286 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 02:39:51,348 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'US troops Iran', 'military draft', 'Iran casualties']
+2026-03-19 02:39:58,200 - INFO -   iran_war batch 2/2: ['Strait of Hormuz', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 02:40:04,642 - INFO -   ai_jobs batch 1/2: ['AI taking jobs', 'will AI replace', 'ChatGPT', 'AI layoffs', 'automation']
+2026-03-19 02:40:08,896 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training', 'trucking jobs', 'customer service jobs']
+2026-03-19 02:40:16,048 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 02:40:21,499 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'who is my representative', 'Trump approval']
+2026-03-19 02:40:28,504 - INFO -   political batch 2/2: ['impeachment']
+2026-03-19 02:40:34,315 - INFO -   partisan_pairs batch 1/2: ['Second Amendment', 'illegal immigration', 'MSNBC', 'gun control', 'undocumented immigrants']
+2026-03-19 02:40:39,993 - INFO -   partisan_pairs batch 2/2: ['abortion rights', 'Fox News', 'CNN', 'pro-life']
+2026-03-19 02:40:50,638 - INFO - Collecting data for California (US-CA)
+2026-03-19 02:40:50,638 - INFO -   economy batch 1/3: ['gas prices', 'gas prices near me', 'grocery prices', 'rent prices', 'cost of living']
+2026-03-19 02:40:55,670 - INFO -   economy batch 2/3: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 02:41:02,305 - INFO -   economy batch 3/3: ['minimum wage', '401k', 'stock market crash']
+2026-03-19 02:41:07,129 - INFO -   immigration batch 1/3: ['ICE raid', 'deportation', 'immigration lawyer', 'asylum', 'border wall']
+2026-03-19 02:41:13,130 - INFO -   immigration batch 2/3: ['illegal immigration', 'undocumented immigrants', 'work visa', 'H1B', 'DACA']
+2026-03-19 02:41:19,103 - INFO -   immigration batch 3/3: ['green card']
+2026-03-19 02:41:24,540 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'US troops Iran', 'military draft', 'Iran casualties']
+2026-03-19 02:41:31,291 - INFO -   iran_war batch 2/2: ['Strait of Hormuz', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 02:41:37,828 - INFO -   ai_jobs batch 1/2: ['AI taking jobs', 'will AI replace', 'ChatGPT', 'AI layoffs', 'automation']
+2026-03-19 02:41:45,226 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training', 'trucking jobs', 'customer service jobs']
+2026-03-19 02:41:53,631 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 02:41:58,777 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'who is my representative', 'Trump approval']
+2026-03-19 02:42:05,729 - INFO -   political batch 2/2: ['impeachment']
+2026-03-19 02:42:10,504 - INFO -   partisan_pairs batch 1/2: ['Second Amendment', 'illegal immigration', 'MSNBC', 'gun control', 'undocumented immigrants']
+2026-03-19 02:42:16,623 - INFO -   partisan_pairs batch 2/2: ['abortion rights', 'Fox News', 'CNN', 'pro-life']
+2026-03-19 02:42:30,222 - INFO - Collecting data for Texas (US-TX)
+2026-03-19 02:42:30,223 - INFO -   economy batch 1/3: ['gas prices', 'gas prices near me', 'grocery prices', 'rent prices', 'cost of living']
+2026-03-19 02:42:34,600 - INFO -   economy batch 2/3: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 02:42:41,650 - INFO -   economy batch 3/3: ['minimum wage', '401k', 'stock market crash']
+2026-03-19 02:42:46,998 - INFO -   immigration batch 1/3: ['ICE raid', 'deportation', 'immigration lawyer', 'asylum', 'border wall']
+2026-03-19 02:42:50,631 - INFO -   immigration batch 2/3: ['illegal immigration', 'undocumented immigrants', 'work visa', 'H1B', 'DACA']
+2026-03-19 02:42:55,693 - INFO -   immigration batch 3/3: ['green card']
+2026-03-19 02:43:01,987 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'US troops Iran', 'military draft', 'Iran casualties']
+2026-03-19 02:43:07,214 - INFO -   iran_war batch 2/2: ['Strait of Hormuz', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 02:43:13,157 - INFO -   ai_jobs batch 1/2: ['AI taking jobs', 'will AI replace', 'ChatGPT', 'AI layoffs', 'automation']
+2026-03-19 02:43:19,218 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training', 'trucking jobs', 'customer service jobs']
+2026-03-19 02:43:25,545 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 02:43:32,799 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'who is my representative', 'Trump approval']
+2026-03-19 02:43:39,712 - INFO -   political batch 2/2: ['impeachment']
+2026-03-19 02:43:46,721 - INFO -   partisan_pairs batch 1/2: ['Second Amendment', 'illegal immigration', 'MSNBC', 'gun control', 'undocumented immigrants']
+2026-03-19 02:43:53,988 - INFO -   partisan_pairs batch 2/2: ['abortion rights', 'Fox News', 'CNN', 'pro-life']
+2026-03-19 02:44:05,816 - INFO - Collecting data for Ohio (US-OH)
+2026-03-19 02:44:05,816 - INFO -   economy batch 1/3: ['gas prices', 'gas prices near me', 'grocery prices', 'rent prices', 'cost of living']
+2026-03-19 02:44:10,219 - INFO -   economy batch 2/3: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 02:44:17,140 - INFO -   economy batch 3/3: ['minimum wage', '401k', 'stock market crash']
+2026-03-19 02:44:24,408 - INFO -   immigration batch 1/3: ['ICE raid', 'deportation', 'immigration lawyer', 'asylum', 'border wall']
+2026-03-19 02:44:31,410 - INFO -   immigration batch 2/3: ['illegal immigration', 'undocumented immigrants', 'work visa', 'H1B', 'DACA']
+2026-03-19 02:44:37,523 - INFO -   immigration batch 3/3: ['green card']
+2026-03-19 02:44:43,439 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'US troops Iran', 'military draft', 'Iran casualties']
+2026-03-19 02:44:49,593 - INFO -   iran_war batch 2/2: ['Strait of Hormuz', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 02:44:55,244 - INFO -   ai_jobs batch 1/2: ['AI taking jobs', 'will AI replace', 'ChatGPT', 'AI layoffs', 'automation']
+2026-03-19 02:45:02,227 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training', 'trucking jobs', 'customer service jobs']
+2026-03-19 02:45:09,495 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 02:45:16,357 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'who is my representative', 'Trump approval']
+2026-03-19 02:45:22,137 - INFO -   political batch 2/2: ['impeachment']
+2026-03-19 02:45:29,050 - INFO -   partisan_pairs batch 1/2: ['Second Amendment', 'illegal immigration', 'MSNBC', 'gun control', 'undocumented immigrants']
+2026-03-19 02:45:33,404 - INFO -   partisan_pairs batch 2/2: ['abortion rights', 'Fox News', 'CNN', 'pro-life']
+2026-03-19 02:45:43,570 - INFO - Collecting data for Maine (US-ME)
+2026-03-19 02:45:43,571 - INFO -   economy batch 1/3: ['gas prices', 'gas prices near me', 'grocery prices', 'rent prices', 'cost of living']
+2026-03-19 02:45:50,965 - INFO -   economy batch 2/3: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 02:45:55,812 - INFO -   economy batch 3/3: ['minimum wage', '401k', 'stock market crash']
+2026-03-19 02:45:59,892 - INFO -   immigration batch 1/3: ['ICE raid', 'deportation', 'immigration lawyer', 'asylum', 'border wall']
+2026-03-19 02:46:05,939 - INFO -   immigration batch 2/3: ['illegal immigration', 'undocumented immigrants', 'work visa', 'H1B', 'DACA']
+2026-03-19 02:46:11,273 - INFO -   immigration batch 3/3: ['green card']
+2026-03-19 02:46:17,759 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'US troops Iran', 'military draft', 'Iran casualties']
+2026-03-19 02:46:22,242 - INFO -   iran_war batch 2/2: ['Strait of Hormuz', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 02:46:28,180 - INFO -   ai_jobs batch 1/2: ['AI taking jobs', 'will AI replace', 'ChatGPT', 'AI layoffs', 'automation']
+2026-03-19 02:46:33,700 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training', 'trucking jobs', 'customer service jobs']
+2026-03-19 02:46:40,272 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 02:46:47,394 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'who is my representative', 'Trump approval']
+2026-03-19 02:46:52,592 - INFO -   political batch 2/2: ['impeachment']
+2026-03-19 02:46:58,676 - INFO -   partisan_pairs batch 1/2: ['Second Amendment', 'illegal immigration', 'MSNBC', 'gun control', 'undocumented immigrants']
+2026-03-19 02:47:05,050 - INFO -   partisan_pairs batch 2/2: ['abortion rights', 'Fox News', 'CNN', 'pro-life']
+2026-03-19 02:47:15,940 - INFO - Collecting data for New Hampshire (US-NH)
+2026-03-19 02:47:15,940 - INFO -   economy batch 1/3: ['gas prices', 'gas prices near me', 'grocery prices', 'rent prices', 'cost of living']
+2026-03-19 02:47:21,955 - INFO -   economy batch 2/3: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 02:47:28,047 - INFO -   economy batch 3/3: ['minimum wage', '401k', 'stock market crash']
+2026-03-19 02:47:34,186 - INFO -   immigration batch 1/3: ['ICE raid', 'deportation', 'immigration lawyer', 'asylum', 'border wall']
+2026-03-19 02:47:39,825 - INFO -   immigration batch 2/3: ['illegal immigration', 'undocumented immigrants', 'work visa', 'H1B', 'DACA']
+2026-03-19 02:47:44,668 - INFO -   immigration batch 3/3: ['green card']
+2026-03-19 02:47:50,499 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'US troops Iran', 'military draft', 'Iran casualties']
+2026-03-19 02:47:57,802 - INFO -   iran_war batch 2/2: ['Strait of Hormuz', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 02:48:03,042 - INFO -   ai_jobs batch 1/2: ['AI taking jobs', 'will AI replace', 'ChatGPT', 'AI layoffs', 'automation']
+2026-03-19 02:48:08,107 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training', 'trucking jobs', 'customer service jobs']
+2026-03-19 02:48:14,778 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 02:48:20,635 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'who is my representative', 'Trump approval']
+2026-03-19 02:48:25,732 - INFO -   political batch 2/2: ['impeachment']
+2026-03-19 02:48:31,114 - INFO -   partisan_pairs batch 1/2: ['Second Amendment', 'illegal immigration', 'MSNBC', 'gun control', 'undocumented immigrants']
+2026-03-19 02:48:38,062 - INFO -   partisan_pairs batch 2/2: ['abortion rights', 'Fox News', 'CNN', 'pro-life']
+2026-03-19 02:48:55,084 - INFO - Collecting data for Minnesota (US-MN)
+2026-03-19 02:48:55,084 - INFO -   economy batch 1/3: ['gas prices', 'gas prices near me', 'grocery prices', 'rent prices', 'cost of living']
+2026-03-19 02:49:01,859 - INFO -   economy batch 2/3: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 02:49:06,330 - INFO -   economy batch 3/3: ['minimum wage', '401k', 'stock market crash']
+2026-03-19 02:49:11,238 - INFO -   immigration batch 1/3: ['ICE raid', 'deportation', 'immigration lawyer', 'asylum', 'border wall']
+2026-03-19 02:49:18,294 - INFO -   immigration batch 2/3: ['illegal immigration', 'undocumented immigrants', 'work visa', 'H1B', 'DACA']
+2026-03-19 02:49:22,383 - INFO -   immigration batch 3/3: ['green card']
+2026-03-19 02:49:26,759 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'US troops Iran', 'military draft', 'Iran casualties']
+2026-03-19 02:49:32,615 - INFO -   iran_war batch 2/2: ['Strait of Hormuz', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 02:49:39,952 - INFO -   ai_jobs batch 1/2: ['AI taking jobs', 'will AI replace', 'ChatGPT', 'AI layoffs', 'automation']
+2026-03-19 02:49:46,763 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training', 'trucking jobs', 'customer service jobs']
+2026-03-19 02:49:53,473 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 02:49:59,568 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'who is my representative', 'Trump approval']
+2026-03-19 02:50:04,964 - INFO -   political batch 2/2: ['impeachment']
+2026-03-19 02:50:11,295 - INFO -   partisan_pairs batch 1/2: ['Second Amendment', 'illegal immigration', 'MSNBC', 'gun control', 'undocumented immigrants']
+2026-03-19 02:50:18,089 - INFO -   partisan_pairs batch 2/2: ['abortion rights', 'Fox News', 'CNN', 'pro-life']
+2026-03-19 02:50:34,101 - INFO - ============================================================
+2026-03-19 02:50:34,101 - INFO - COLLECTION COMPLETE
+2026-03-19 02:50:34,101 - INFO - Time elapsed: 21.5 minutes
+2026-03-19 02:50:34,101 - INFO - States completed: 13
+2026-03-19 02:50:34,101 - INFO - Terms collected: 834
+2026-03-19 02:50:34,101 - INFO - Rate limits hit: 2
+2026-03-19 02:50:34,102 - INFO - Errors: 0
+2026-03-19 02:50:34,102 - INFO - ============================================================
+2026-03-19 02:50:34,176 - INFO - Saved: /root/.openclaw/workspace/projects/vibe-polling/data/raw/trends/trends_2026-03-19.parquet
+2026-03-19 02:50:34,176 - INFO - Records: 75894
+2026-03-19 14:02:15,692 - INFO - States to collect: 13
+2026-03-19 14:02:15,693 - INFO - Base terms per state: ~75
+2026-03-19 14:02:15,900 - INFO - ============================================================
+2026-03-19 14:02:15,900 - INFO - Starting Google Trends Collection
+2026-03-19 14:02:15,901 - INFO - Timeframe: today 3-m
+2026-03-19 14:02:15,901 - INFO - ============================================================
+2026-03-19 14:02:15,901 - INFO - Collecting data for Pennsylvania (US-PA)
+2026-03-19 14:02:15,901 - INFO -   economy batch 1/4: ['gas prices', 'gas prices near me', 'food prices', 'rent prices', 'cost of living']
+2026-03-19 14:02:16,306 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:02:28,214 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:02:40,813 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:03:15,362 - ERROR - Failed after 3 retries: ['gas prices', 'gas prices near me', 'food prices', 'rent prices', 'cost of living'] in US-PA
+2026-03-19 14:03:18,874 - INFO -   economy batch 2/4: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 14:03:19,317 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:03:27,958 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:03:48,864 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:04:26,383 - ERROR - Failed after 3 retries: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits'] in US-PA
+2026-03-19 14:04:32,308 - INFO -   economy batch 3/4: ['minimum wage', '401k', 'eggs price', 'cheap groceries', 'is market crashing']
+2026-03-19 14:04:32,686 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:04:41,743 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:05:00,068 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:05:46,750 - ERROR - Failed after 3 retries: ['minimum wage', '401k', 'eggs price', 'cheap groceries', 'is market crashing'] in US-PA
+2026-03-19 14:05:50,654 - INFO -   economy batch 4/4: ['market today']
+2026-03-19 14:05:51,078 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:05:58,282 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:06:20,946 - INFO -   economy_colloquial batch 1/2: ['cheap gas near me', 'food bank near me', 'how to save money', 'why is everything so expensive', "can't afford rent"]
+2026-03-19 14:06:21,394 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:06:30,408 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:06:52,521 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:07:20,751 - ERROR - Failed after 3 retries: ['cheap gas near me', 'food bank near me', 'how to save money', 'why is everything so expensive', "can't afford rent"] in US-PA
+2026-03-19 14:07:26,177 - INFO -   economy_colloquial batch 2/2: ['apply for food stamps', 'side hustle']
+2026-03-19 14:07:26,417 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:07:35,065 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:07:49,537 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:08:14,313 - ERROR - Failed after 3 retries: ['apply for food stamps', 'side hustle'] in US-PA
+2026-03-19 14:08:20,108 - INFO -   immigration batch 1/3: ['ICE near me', 'deportation', 'deportation news', 'immigration lawyer', 'asylum']
+2026-03-19 14:08:20,480 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:08:30,484 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:08:48,892 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:09:32,256 - ERROR - Failed after 3 retries: ['ICE near me', 'deportation', 'deportation news', 'immigration lawyer', 'asylum'] in US-PA
+2026-03-19 14:09:35,914 - INFO -   immigration batch 2/3: ['border wall', 'illegal immigration', 'undocumented immigrants', 'work visa', 'H1B']
+2026-03-19 14:09:36,264 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:09:45,722 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:09:59,498 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:10:42,002 - ERROR - Failed after 3 retries: ['border wall', 'illegal immigration', 'undocumented immigrants', 'work visa', 'H1B'] in US-PA
+2026-03-19 14:10:46,001 - INFO -   immigration batch 3/3: ['DACA', 'green card', 'immigration news']
+2026-03-19 14:10:46,391 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:10:53,377 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:11:08,743 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:11:35,586 - ERROR - Failed after 3 retries: ['DACA', 'green card', 'immigration news'] in US-PA
+2026-03-19 14:11:41,191 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'Iran news today', 'Iran attack', 'are we going to war']
+2026-03-19 14:11:41,635 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:11:53,820 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:12:16,378 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:13:02,032 - ERROR - Failed after 3 retries: ['Iran war', 'Iran news', 'Iran news today', 'Iran attack', 'are we going to war'] in US-PA
+2026-03-19 14:13:05,912 - INFO -   iran_war batch 2/2: ['Iran casualties', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 14:13:06,268 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:13:17,873 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:13:34,886 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:14:15,883 - ERROR - Failed after 3 retries: ['Iran casualties', 'oil prices', 'World War 3', 'nuclear war'] in US-PA
+2026-03-19 14:14:18,910 - INFO -   iran_colloquial batch 1/1: ['am I going to be drafted', 'draft age 2026', 'is World War 3 happening', 'will there be a draft', 'draft age']
+2026-03-19 14:14:19,207 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:14:26,227 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:14:48,032 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:15:33,255 - ERROR - Failed after 3 retries: ['am I going to be drafted', 'draft age 2026', 'is World War 3 happening', 'will there be a draft', 'draft age'] in US-PA
+2026-03-19 14:15:37,470 - INFO -   ai_jobs batch 1/2: ['will I lose my job to AI', 'ChatGPT', 'ChatGPT jobs', "jobs AI can't do", 'AI proof careers']
+2026-03-19 14:15:37,961 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:15:44,707 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:16:02,678 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:16:46,123 - ERROR - Failed after 3 retries: ['will I lose my job to AI', 'ChatGPT', 'ChatGPT jobs', "jobs AI can't do", 'AI proof careers'] in US-PA
+2026-03-19 14:16:51,105 - INFO -   ai_jobs batch 2/2: ['is my job safe', 'automation', 'learn to code', 'career change', 'job training']
+2026-03-19 14:16:57,615 - INFO -   ai_colloquial batch 1/1: ['is my job safe from AI', 'will ChatGPT take my job', 'careers safe from AI']
+2026-03-19 14:17:02,645 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 14:17:03,143 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:17:09,468 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:17:30,302 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:17:56,434 - ERROR - Failed after 3 retries: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein'] in US-PA
+2026-03-19 14:18:00,265 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'my congressman', 'who represents me']
+2026-03-19 14:18:00,732 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:18:07,263 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:18:24,988 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:18:51,080 - ERROR - Failed after 3 retries: ['how to vote', 'voter registration', 'midterm elections', 'my congressman', 'who represents me'] in US-PA
+2026-03-19 14:18:56,908 - INFO -   political batch 2/2: ['Trump approval', 'impeachment']
+2026-03-19 14:18:57,338 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:19:11,676 - INFO -   partisan_pairs batch 1/2: ['CNN', 'undocumented immigrants', 'MSNBC', 'Second Amendment', 'gun control']
+2026-03-19 14:19:16,162 - INFO -   partisan_pairs batch 2/2: ['Fox News', 'illegal immigration']
+2026-03-19 14:19:16,499 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:19:26,446 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:19:49,934 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:20:26,085 - ERROR - Failed after 3 retries: ['Fox News', 'illegal immigration'] in US-PA
+2026-03-19 14:20:29,946 - INFO -   state_specific batch 1/1: ['fracking', 'steel jobs', 'Philadelphia crime']
+2026-03-19 14:20:43,335 - INFO - Collecting data for Michigan (US-MI)
+2026-03-19 14:20:43,335 - INFO -   economy batch 1/4: ['gas prices', 'gas prices near me', 'food prices', 'rent prices', 'cost of living']
+2026-03-19 14:20:46,953 - INFO -   economy batch 2/4: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 14:20:47,316 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:20:56,588 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:21:19,402 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:21:53,687 - ERROR - Failed after 3 retries: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits'] in US-MI
+2026-03-19 14:21:58,283 - INFO -   economy batch 3/4: ['minimum wage', '401k', 'eggs price', 'cheap groceries', 'is market crashing']
+2026-03-19 14:21:58,726 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:22:10,005 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:22:36,315 - INFO -   economy batch 4/4: ['market today']
+2026-03-19 14:22:41,961 - INFO -   economy_colloquial batch 1/2: ['cheap gas near me', 'food bank near me', 'how to save money', 'why is everything so expensive', "can't afford rent"]
+2026-03-19 14:22:47,502 - INFO -   economy_colloquial batch 2/2: ['apply for food stamps', 'side hustle']
+2026-03-19 14:22:53,883 - INFO -   immigration batch 1/3: ['ICE near me', 'deportation', 'deportation news', 'immigration lawyer', 'asylum']
+2026-03-19 14:22:54,324 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:23:06,047 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:23:20,902 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:23:53,970 - ERROR - Failed after 3 retries: ['ICE near me', 'deportation', 'deportation news', 'immigration lawyer', 'asylum'] in US-MI
+2026-03-19 14:23:57,528 - INFO -   immigration batch 2/3: ['border wall', 'illegal immigration', 'undocumented immigrants', 'work visa', 'H1B']
+2026-03-19 14:23:57,895 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:24:09,634 - INFO -   immigration batch 3/3: ['DACA', 'green card', 'immigration news']
+2026-03-19 14:24:13,765 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'Iran news today', 'Iran attack', 'are we going to war']
+2026-03-19 14:24:19,204 - INFO -   iran_war batch 2/2: ['Iran casualties', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 14:24:19,509 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:24:31,513 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:24:54,885 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:25:36,153 - ERROR - Failed after 3 retries: ['Iran casualties', 'oil prices', 'World War 3', 'nuclear war'] in US-MI
+2026-03-19 14:25:40,829 - INFO -   iran_colloquial batch 1/1: ['am I going to be drafted', 'draft age 2026', 'is World War 3 happening', 'will there be a draft', 'draft age']
+2026-03-19 14:25:41,251 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:25:50,404 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:26:13,670 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:26:45,507 - ERROR - Failed after 3 retries: ['am I going to be drafted', 'draft age 2026', 'is World War 3 happening', 'will there be a draft', 'draft age'] in US-MI
+2026-03-19 14:26:49,367 - INFO -   ai_jobs batch 1/2: ['will I lose my job to AI', 'ChatGPT', 'ChatGPT jobs', "jobs AI can't do", 'AI proof careers']
+2026-03-19 14:26:49,839 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:27:06,389 - INFO -   ai_jobs batch 2/2: ['is my job safe', 'automation', 'learn to code', 'career change', 'job training']
+2026-03-19 14:27:06,842 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:27:13,912 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:27:32,550 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:28:15,466 - ERROR - Failed after 3 retries: ['is my job safe', 'automation', 'learn to code', 'career change', 'job training'] in US-MI
+2026-03-19 14:28:21,299 - INFO -   ai_colloquial batch 1/1: ['is my job safe from AI', 'will ChatGPT take my job', 'careers safe from AI']
+2026-03-19 14:28:21,672 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:28:30,442 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:28:52,061 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:29:22,581 - ERROR - Failed after 3 retries: ['is my job safe from AI', 'will ChatGPT take my job', 'careers safe from AI'] in US-MI
+2026-03-19 14:29:25,821 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 14:29:26,302 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:29:33,653 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:29:55,105 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:30:27,611 - ERROR - Failed after 3 retries: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein'] in US-MI
+2026-03-19 14:30:32,480 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'my congressman', 'who represents me']
+2026-03-19 14:30:32,941 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:30:43,896 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:31:05,460 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:31:37,798 - ERROR - Failed after 3 retries: ['how to vote', 'voter registration', 'midterm elections', 'my congressman', 'who represents me'] in US-MI
+2026-03-19 14:31:42,508 - INFO -   political batch 2/2: ['Trump approval', 'impeachment']
+2026-03-19 14:31:42,923 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:31:58,392 - INFO -   partisan_pairs batch 1/2: ['CNN', 'undocumented immigrants', 'MSNBC', 'Second Amendment', 'gun control']
+2026-03-19 14:32:02,119 - INFO -   partisan_pairs batch 2/2: ['Fox News', 'illegal immigration']
+2026-03-19 14:32:05,797 - INFO -   state_specific batch 1/1: ['auto industry', 'UAW', 'Detroit jobs']
+2026-03-19 14:32:17,916 - INFO - Collecting data for Wisconsin (US-WI)
+2026-03-19 14:32:17,916 - INFO -   economy batch 1/4: ['gas prices', 'gas prices near me', 'food prices', 'rent prices', 'cost of living']
+2026-03-19 14:32:22,656 - INFO -   economy batch 2/4: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 14:32:23,145 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:32:35,498 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:32:53,990 - INFO -   economy batch 3/4: ['minimum wage', '401k', 'eggs price', 'cheap groceries', 'is market crashing']
+2026-03-19 14:33:00,112 - INFO -   economy batch 4/4: ['market today']
+2026-03-19 14:33:00,441 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:33:10,580 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:33:30,477 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:33:55,878 - ERROR - Failed after 3 retries: ['market today'] in US-WI
+2026-03-19 14:34:00,115 - INFO -   economy_colloquial batch 1/2: ['cheap gas near me', 'food bank near me', 'how to save money', 'why is everything so expensive', "can't afford rent"]
+2026-03-19 14:34:00,482 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:34:10,395 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:34:24,302 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:35:07,643 - ERROR - Failed after 3 retries: ['cheap gas near me', 'food bank near me', 'how to save money', 'why is everything so expensive', "can't afford rent"] in US-WI
+2026-03-19 14:35:13,364 - INFO -   economy_colloquial batch 2/2: ['apply for food stamps', 'side hustle']
+2026-03-19 14:35:17,909 - INFO -   immigration batch 1/3: ['ICE near me', 'deportation', 'deportation news', 'immigration lawyer', 'asylum']
+2026-03-19 14:35:18,272 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:35:28,976 - INFO -   immigration batch 2/3: ['border wall', 'illegal immigration', 'undocumented immigrants', 'work visa', 'H1B']
+2026-03-19 14:35:33,842 - INFO -   immigration batch 3/3: ['DACA', 'green card', 'immigration news']
+2026-03-19 14:35:39,594 - INFO -   iran_war batch 1/2: ['Iran war', 'Iran news', 'Iran news today', 'Iran attack', 'are we going to war']
+2026-03-19 14:35:39,913 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:35:47,786 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:36:02,117 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:36:47,267 - ERROR - Failed after 3 retries: ['Iran war', 'Iran news', 'Iran news today', 'Iran attack', 'are we going to war'] in US-WI
+2026-03-19 14:36:51,183 - INFO -   iran_war batch 2/2: ['Iran casualties', 'oil prices', 'World War 3', 'nuclear war']
+2026-03-19 14:36:51,539 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:37:02,883 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:37:16,836 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:37:46,064 - ERROR - Failed after 3 retries: ['Iran casualties', 'oil prices', 'World War 3', 'nuclear war'] in US-WI
+2026-03-19 14:37:51,028 - INFO -   iran_colloquial batch 1/1: ['am I going to be drafted', 'draft age 2026', 'is World War 3 happening', 'will there be a draft', 'draft age']
+2026-03-19 14:37:51,532 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:37:58,442 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:38:11,629 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:38:51,355 - ERROR - Failed after 3 retries: ['am I going to be drafted', 'draft age 2026', 'is World War 3 happening', 'will there be a draft', 'draft age'] in US-WI
+2026-03-19 14:38:55,571 - INFO -   ai_jobs batch 1/2: ['will I lose my job to AI', 'ChatGPT', 'ChatGPT jobs', "jobs AI can't do", 'AI proof careers']
+2026-03-19 14:38:56,077 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:39:07,272 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:39:26,570 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:40:13,533 - ERROR - Failed after 3 retries: ['will I lose my job to AI', 'ChatGPT', 'ChatGPT jobs', "jobs AI can't do", 'AI proof careers'] in US-WI
+2026-03-19 14:40:16,902 - INFO -   ai_jobs batch 2/2: ['is my job safe', 'automation', 'learn to code', 'career change', 'job training']
+2026-03-19 14:40:17,332 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:40:26,319 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:40:45,732 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:41:14,036 - ERROR - Failed after 3 retries: ['is my job safe', 'automation', 'learn to code', 'career change', 'job training'] in US-WI
+2026-03-19 14:41:18,310 - INFO -   ai_colloquial batch 1/1: ['is my job safe from AI', 'will ChatGPT take my job', 'careers safe from AI']
+2026-03-19 14:41:18,701 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:41:28,126 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:41:50,409 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:42:16,741 - ERROR - Failed after 3 retries: ['is my job safe from AI', 'will ChatGPT take my job', 'careers safe from AI'] in US-WI
+2026-03-19 14:42:20,928 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 14:42:21,347 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:42:31,935 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:42:54,562 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:43:36,775 - ERROR - Failed after 3 retries: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein'] in US-WI
+2026-03-19 14:43:40,475 - INFO -   political batch 1/2: ['how to vote', 'voter registration', 'midterm elections', 'my congressman', 'who represents me']
+2026-03-19 14:43:40,793 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:43:49,683 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:44:12,601 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:44:41,408 - ERROR - Failed after 3 retries: ['how to vote', 'voter registration', 'midterm elections', 'my congressman', 'who represents me'] in US-WI
+2026-03-19 14:44:45,487 - INFO -   political batch 2/2: ['Trump approval', 'impeachment']
+2026-03-19 14:44:45,948 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:44:55,684 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 14:45:14,488 - WARNING - Rate limited, backing off (attempt 3)
+2026-03-19 14:45:43,070 - ERROR - Failed after 3 retries: ['Trump approval', 'impeachment'] in US-WI
+2026-03-19 14:45:47,910 - INFO -   partisan_pairs batch 1/2: ['CNN', 'undocumented immigrants', 'MSNBC', 'Second Amendment', 'gun control']
+2026-03-19 14:45:48,170 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 14:45:55,765 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 17:51:24,712 - INFO - ============================================================
+2026-03-19 17:51:24,713 - INFO - Starting Prediction Market Collection
+2026-03-19 17:51:24,713 - INFO - ============================================================
+2026-03-19 17:51:24,713 - INFO - Collecting Polymarket data...
+2026-03-19 17:51:24,820 - INFO -   Found 17 election markets
+2026-03-19 17:51:24,925 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/balance-of-power-2026-midterms
+2026-03-19 17:51:25,024 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/balance-of-power-2026-midterms
+2026-03-19 17:51:25,166 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/balance-of-power-2026-midterms
+2026-03-19 17:51:26,303 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-democrats-win-the-house-in-2026
+2026-03-19 17:51:26,433 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-democrats-win-the-house-in-2026
+2026-03-19 17:51:26,559 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-democrats-win-the-house-in-2026
+2026-03-19 17:51:27,688 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-republicans-win-the-senate-in-2026
+2026-03-19 17:51:27,798 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-republicans-win-the-senate-in-2026
+2026-03-19 17:51:27,915 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-republicans-win-the-senate-in-2026
+2026-03-19 17:51:29,033 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-democrats-win-both-the-house-and-senate-in-2026
+2026-03-19 17:51:29,144 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-democrats-win-both-the-house-and-senate-in-2026
+2026-03-19 17:51:29,262 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-democrats-win-both-the-house-and-senate-in-2026
+2026-03-19 17:51:30,403 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/trump-approval-rating-march-2026
+2026-03-19 17:51:30,537 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/trump-approval-rating-march-2026
+2026-03-19 17:51:30,665 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/trump-approval-rating-march-2026
+2026-03-19 17:51:31,795 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-trump-be-impeached-in-his-second-term
+2026-03-19 17:51:31,929 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-trump-be-impeached-in-his-second-term
+2026-03-19 17:51:32,102 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/will-trump-be-impeached-in-his-second-term
+2026-03-19 17:51:33,205 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/georgia-senate-2026
+2026-03-19 17:51:33,308 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/georgia-senate-2026
+2026-03-19 17:51:33,407 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/georgia-senate-2026
+2026-03-19 17:51:34,534 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/michigan-senate-2026
+2026-03-19 17:51:34,651 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/michigan-senate-2026
+2026-03-19 17:51:34,765 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/michigan-senate-2026
+2026-03-19 17:51:35,885 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/maine-senate-2026
+2026-03-19 17:51:36,003 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/maine-senate-2026
+2026-03-19 17:51:36,119 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/maine-senate-2026
+2026-03-19 17:51:37,252 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/north-carolina-senate-2026
+2026-03-19 17:51:37,382 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/north-carolina-senate-2026
+2026-03-19 17:51:37,512 - WARNING - HTTP 422: https://gamma-api.polymarket.com/markets/north-carolina-senate-2026
+2026-03-19 17:51:38,512 - INFO - Collecting Kalshi data...
+2026-03-19 17:51:38,674 - INFO -   Found 12 election markets
+2026-03-19 17:51:38,717 - WARNING - Not found: https://api.elections.kalshi.com/v1/events/CONGRESS-26
+2026-03-19 17:51:39,756 - WARNING - Not found: https://api.elections.kalshi.com/v1/events/HOUSE-26
+2026-03-19 17:51:40,801 - WARNING - Not found: https://api.elections.kalshi.com/v1/events/SENATE-26
+2026-03-19 17:51:41,803 - INFO - ============================================================
+2026-03-19 17:51:41,803 - INFO - COLLECTION COMPLETE
+2026-03-19 17:51:41,803 - INFO - Polymarket markets: 17
+2026-03-19 17:51:41,803 - INFO - Kalshi markets: 12
+2026-03-19 17:51:41,803 - INFO - Errors: 10
+2026-03-19 17:51:41,803 - INFO - ============================================================
+2026-03-19 17:51:41,804 - INFO - Saved: /root/.openclaw/workspace/projects/vibe-polling/data/raw/markets/markets_2026-03-19.json
+2026-03-19 17:51:44,898 - INFO - ============================================================
+2026-03-19 17:51:44,899 - INFO - Starting Polling Data Collection
+2026-03-19 17:51:44,899 - INFO - ============================================================
+2026-03-19 17:51:44,899 - INFO - Collecting 270toWin Senate ratings...
+2026-03-19 17:51:45,076 - INFO -   Found 0 Senate races
+2026-03-19 17:51:45,076 - INFO - Collecting 270toWin House ratings...
+2026-03-19 17:51:46,495 - INFO -   House prediction: None
+2026-03-19 17:51:46,495 - INFO - Collecting Quinnipiac polls...
+2026-03-19 17:51:46,673 - INFO -   Found 16 Quinnipiac polls
+2026-03-19 17:51:46,673 - INFO - Collecting Marist polls...
+2026-03-19 17:51:46,958 - INFO -   Found 1 Marist polls
+2026-03-19 17:51:46,958 - INFO - Collecting Emerson polls...
+2026-03-19 17:51:47,631 - INFO -   Found 17 Emerson polls
+2026-03-19 17:51:47,631 - INFO - ============================================================
+2026-03-19 17:51:47,631 - INFO - COLLECTION COMPLETE
+2026-03-19 17:51:47,631 - INFO -   270towin: 0 items
+2026-03-19 17:51:47,632 - INFO -   quinnipiac: 16 items
+2026-03-19 17:51:47,632 - INFO -   marist: 1 items
+2026-03-19 17:51:47,632 - INFO -   emerson: 17 items
+2026-03-19 17:51:47,632 - INFO -   racetothewh: 0 items
+2026-03-19 17:51:47,632 - INFO -   Errors: 0
+2026-03-19 17:51:47,632 - INFO - ============================================================
+2026-03-19 17:51:47,633 - INFO - Saved: /root/.openclaw/workspace/projects/vibe-polling/data/raw/polls/polls_2026-03-19.json
+2026-03-19 19:23:11,993 - INFO - States to collect: 13
+2026-03-19 19:23:11,994 - INFO - Base terms per state: ~75
+2026-03-19 19:23:12,165 - INFO - ============================================================
+2026-03-19 19:23:12,166 - INFO - Starting Google Trends Collection
+2026-03-19 19:23:12,166 - INFO - Timeframe: today 3-m
+2026-03-19 19:23:12,166 - INFO - ============================================================
+2026-03-19 19:23:12,166 - INFO - Collecting data for Pennsylvania (US-PA)
+2026-03-19 19:23:12,166 - INFO -   economy batch 1/4: ['gas prices', 'gas prices near me', 'food prices', 'rent prices', 'cost of living']
+2026-03-19 19:23:12,774 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 19:23:45,268 - WARNING - Rate limited, backing off (attempt 2)
+2026-03-19 19:26:00,764 - INFO -   economy batch 2/4: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 19:26:10,872 - INFO -   economy batch 3/4: ['minimum wage', '401k', 'high prices', 'cost of groceries', 'health insurance cost']
+2026-03-19 19:26:19,647 - INFO -   economy batch 4/4: ['paycheck to paycheck', 'second job', 'gig economy', 'how to save money 2026']
+2026-03-19 19:26:32,843 - INFO -   economy_colloquial batch 1/2: ['cheap gas near me', 'food bank near me', 'how to save money', 'apply for food stamps', 'side hustle']
+2026-03-19 19:26:45,335 - INFO -   economy_colloquial batch 2/2: ['expensive', 'afford']
+2026-03-19 19:26:45,659 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 19:27:29,335 - INFO -   immigration batch 1/3: ['ICE near me', 'deportation', 'deportation news', 'immigration lawyer', 'immigration lawyer near me']
+2026-03-19 19:27:39,506 - INFO -   immigration batch 2/3: ['asylum', 'border wall', 'illegal immigration', 'undocumented immigrants', 'work visa']
+2026-03-19 19:27:51,549 - INFO -   immigration batch 3/3: ['H1B', 'DACA', 'green card', 'immigration news', 'immigration news today']
+2026-03-19 19:28:07,128 - INFO -   iran_war batch 1/2: ['Iran news', 'Iran news today', 'Iran attack', 'are we going to war', 'oil prices']
+2026-03-19 19:28:17,577 - INFO -   iran_war batch 2/2: ['World War 3', 'nuclear war', 'draft', 'military', 'troops']
+2026-03-19 19:28:32,802 - INFO -   ai_jobs batch 1/2: ['ChatGPT', 'AI jobs', 'AI news', 'artificial intelligence', 'automation']
+2026-03-19 19:28:47,813 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training']
+2026-03-19 19:29:01,387 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 19:29:10,194 - INFO -   political batch 1/3: ['how to vote', 'voter registration', 'midterm elections', 'election 2026', 'senate election']
+2026-03-19 19:29:24,053 - INFO -   political batch 2/3: ['congress election', 'who to vote for 2026', 'Trump', 'Biden', 'Trump approval']
+2026-03-19 19:29:35,095 - INFO -   political batch 3/3: ['impeachment']
+2026-03-19 19:29:50,438 - INFO -   partisan_pairs batch 1/2: ['Fox News', 'illegal immigration', 'Second Amendment', 'undocumented immigrants', 'MSNBC']
+2026-03-19 19:30:03,733 - INFO -   partisan_pairs batch 2/2: ['gun control', 'CNN']
+2026-03-19 19:30:16,227 - INFO -   state_specific batch 1/1: ['fracking', 'steel jobs', 'Philadelphia crime']
+2026-03-19 19:30:43,434 - INFO - Collecting data for Michigan (US-MI)
+2026-03-19 19:30:43,434 - INFO -   economy batch 1/4: ['gas prices', 'gas prices near me', 'food prices', 'rent prices', 'cost of living']
+2026-03-19 19:30:59,566 - INFO -   economy batch 2/4: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 19:31:11,579 - INFO -   economy batch 3/4: ['minimum wage', '401k', 'high prices', 'cost of groceries', 'health insurance cost']
+2026-03-19 19:31:24,098 - INFO -   economy batch 4/4: ['paycheck to paycheck', 'second job', 'gig economy', 'how to save money 2026']
+2026-03-19 19:31:38,212 - INFO -   economy_colloquial batch 1/2: ['cheap gas near me', 'food bank near me', 'how to save money', 'apply for food stamps', 'side hustle']
+2026-03-19 19:31:51,793 - INFO -   economy_colloquial batch 2/2: ['expensive', 'afford']
+2026-03-19 19:32:00,945 - INFO -   immigration batch 1/3: ['ICE near me', 'deportation', 'deportation news', 'immigration lawyer', 'immigration lawyer near me']
+2026-03-19 19:32:14,403 - INFO -   immigration batch 2/3: ['asylum', 'border wall', 'illegal immigration', 'undocumented immigrants', 'work visa']
+2026-03-19 19:32:26,260 - INFO -   immigration batch 3/3: ['H1B', 'DACA', 'green card', 'immigration news', 'immigration news today']
+2026-03-19 19:32:35,614 - INFO -   iran_war batch 1/2: ['Iran news', 'Iran news today', 'Iran attack', 'are we going to war', 'oil prices']
+2026-03-19 19:32:44,854 - INFO -   iran_war batch 2/2: ['World War 3', 'nuclear war', 'draft', 'military', 'troops']
+2026-03-19 19:32:57,107 - INFO -   ai_jobs batch 1/2: ['ChatGPT', 'AI jobs', 'AI news', 'artificial intelligence', 'automation']
+2026-03-19 19:33:08,143 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training']
+2026-03-19 19:33:21,895 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 19:33:35,837 - INFO -   political batch 1/3: ['how to vote', 'voter registration', 'midterm elections', 'election 2026', 'senate election']
+2026-03-19 19:33:49,238 - INFO -   political batch 2/3: ['congress election', 'who to vote for 2026', 'Trump', 'Biden', 'Trump approval']
+2026-03-19 19:33:58,419 - INFO -   political batch 3/3: ['impeachment']
+2026-03-19 19:34:09,178 - INFO -   partisan_pairs batch 1/2: ['Fox News', 'illegal immigration', 'Second Amendment', 'undocumented immigrants', 'MSNBC']
+2026-03-19 19:34:17,956 - INFO -   partisan_pairs batch 2/2: ['gun control', 'CNN']
+2026-03-19 19:34:28,333 - INFO -   state_specific batch 1/1: ['auto industry', 'UAW', 'Detroit jobs']
+2026-03-19 19:35:04,946 - INFO - Collecting data for Wisconsin (US-WI)
+2026-03-19 19:35:04,947 - INFO -   economy batch 1/4: ['gas prices', 'gas prices near me', 'food prices', 'rent prices', 'cost of living']
+2026-03-19 19:35:17,954 - INFO -   economy batch 2/4: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 19:35:32,269 - INFO -   economy batch 3/4: ['minimum wage', '401k', 'high prices', 'cost of groceries', 'health insurance cost']
+2026-03-19 19:35:44,391 - INFO -   economy batch 4/4: ['paycheck to paycheck', 'second job', 'gig economy', 'how to save money 2026']
+2026-03-19 19:35:54,456 - INFO -   economy_colloquial batch 1/2: ['cheap gas near me', 'food bank near me', 'how to save money', 'apply for food stamps', 'side hustle']
+2026-03-19 19:36:06,302 - INFO -   economy_colloquial batch 2/2: ['expensive', 'afford']
+2026-03-19 19:36:18,166 - INFO -   immigration batch 1/3: ['ICE near me', 'deportation', 'deportation news', 'immigration lawyer', 'immigration lawyer near me']
+2026-03-19 19:36:33,497 - INFO -   immigration batch 2/3: ['asylum', 'border wall', 'illegal immigration', 'undocumented immigrants', 'work visa']
+2026-03-19 19:36:43,809 - INFO -   immigration batch 3/3: ['H1B', 'DACA', 'green card', 'immigration news', 'immigration news today']
+2026-03-19 19:36:56,274 - INFO -   iran_war batch 1/2: ['Iran news', 'Iran news today', 'Iran attack', 'are we going to war', 'oil prices']
+2026-03-19 19:37:05,353 - INFO -   iran_war batch 2/2: ['World War 3', 'nuclear war', 'draft', 'military', 'troops']
+2026-03-19 19:37:19,388 - INFO -   ai_jobs batch 1/2: ['ChatGPT', 'AI jobs', 'AI news', 'artificial intelligence', 'automation']
+2026-03-19 19:37:35,012 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training']
+2026-03-19 19:37:47,151 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 19:38:02,404 - INFO -   political batch 1/3: ['how to vote', 'voter registration', 'midterm elections', 'election 2026', 'senate election']
+2026-03-19 19:38:18,113 - INFO -   political batch 2/3: ['congress election', 'who to vote for 2026', 'Trump', 'Biden', 'Trump approval']
+2026-03-19 19:38:28,211 - INFO -   political batch 3/3: ['impeachment']
+2026-03-19 19:38:39,940 - INFO -   partisan_pairs batch 1/2: ['Fox News', 'illegal immigration', 'Second Amendment', 'undocumented immigrants', 'MSNBC']
+2026-03-19 19:38:40,371 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 19:39:35,195 - INFO -   partisan_pairs batch 2/2: ['gun control', 'CNN']
+2026-03-19 19:39:49,935 - INFO -   state_specific batch 1/1: ['dairy farms', 'Milwaukee crime', 'Wisconsin jobs']
+2026-03-19 19:40:20,835 - INFO - Collecting data for Arizona (US-AZ)
+2026-03-19 19:40:20,836 - INFO -   economy batch 1/4: ['gas prices', 'gas prices near me', 'food prices', 'rent prices', 'cost of living']
+2026-03-19 19:40:34,073 - INFO -   economy batch 2/4: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 19:40:43,635 - INFO -   economy batch 3/4: ['minimum wage', '401k', 'high prices', 'cost of groceries', 'health insurance cost']
+2026-03-19 19:40:58,999 - INFO -   economy batch 4/4: ['paycheck to paycheck', 'second job', 'gig economy', 'how to save money 2026']
+2026-03-19 19:41:09,220 - INFO -   economy_colloquial batch 1/2: ['cheap gas near me', 'food bank near me', 'how to save money', 'apply for food stamps', 'side hustle']
+2026-03-19 19:41:22,826 - INFO -   economy_colloquial batch 2/2: ['expensive', 'afford']
+2026-03-19 19:41:35,480 - INFO -   immigration batch 1/3: ['ICE near me', 'deportation', 'deportation news', 'immigration lawyer', 'immigration lawyer near me']
+2026-03-19 19:41:50,330 - INFO -   immigration batch 2/3: ['asylum', 'border wall', 'illegal immigration', 'undocumented immigrants', 'work visa']
+2026-03-19 19:42:01,978 - INFO -   immigration batch 3/3: ['H1B', 'DACA', 'green card', 'immigration news', 'immigration news today']
+2026-03-19 19:42:14,198 - INFO -   iran_war batch 1/2: ['Iran news', 'Iran news today', 'Iran attack', 'are we going to war', 'oil prices']
+2026-03-19 19:42:25,832 - INFO -   iran_war batch 2/2: ['World War 3', 'nuclear war', 'draft', 'military', 'troops']
+2026-03-19 19:42:37,148 - INFO -   ai_jobs batch 1/2: ['ChatGPT', 'AI jobs', 'AI news', 'artificial intelligence', 'automation']
+2026-03-19 19:42:37,520 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 19:43:33,508 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training']
+2026-03-19 19:43:44,065 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 19:43:58,579 - INFO -   political batch 1/3: ['how to vote', 'voter registration', 'midterm elections', 'election 2026', 'senate election']
+2026-03-19 19:44:13,240 - INFO -   political batch 2/3: ['congress election', 'who to vote for 2026', 'Trump', 'Biden', 'Trump approval']
+2026-03-19 19:44:25,235 - INFO -   political batch 3/3: ['impeachment']
+2026-03-19 19:44:37,415 - INFO -   partisan_pairs batch 1/2: ['Fox News', 'illegal immigration', 'Second Amendment', 'undocumented immigrants', 'MSNBC']
+2026-03-19 19:44:47,883 - INFO -   partisan_pairs batch 2/2: ['gun control', 'CNN']
+2026-03-19 19:45:01,971 - INFO -   state_specific batch 1/1: ['border patrol', 'Phoenix traffic', 'water shortage']
+2026-03-19 19:45:35,443 - INFO - Collecting data for Georgia (US-GA)
+2026-03-19 19:45:35,443 - INFO -   economy batch 1/4: ['gas prices', 'gas prices near me', 'food prices', 'rent prices', 'cost of living']
+2026-03-19 19:45:46,836 - INFO -   economy batch 2/4: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 19:46:00,305 - INFO -   economy batch 3/4: ['minimum wage', '401k', 'high prices', 'cost of groceries', 'health insurance cost']
+2026-03-19 19:46:11,740 - INFO -   economy batch 4/4: ['paycheck to paycheck', 'second job', 'gig economy', 'how to save money 2026']
+2026-03-19 19:46:26,159 - INFO -   economy_colloquial batch 1/2: ['cheap gas near me', 'food bank near me', 'how to save money', 'apply for food stamps', 'side hustle']
+2026-03-19 19:46:39,287 - INFO -   economy_colloquial batch 2/2: ['expensive', 'afford']
+2026-03-19 19:46:50,356 - INFO -   immigration batch 1/3: ['ICE near me', 'deportation', 'deportation news', 'immigration lawyer', 'immigration lawyer near me']
+2026-03-19 19:47:04,470 - INFO -   immigration batch 2/3: ['asylum', 'border wall', 'illegal immigration', 'undocumented immigrants', 'work visa']
+2026-03-19 19:47:17,686 - INFO -   immigration batch 3/3: ['H1B', 'DACA', 'green card', 'immigration news', 'immigration news today']
+2026-03-19 19:47:30,964 - INFO -   iran_war batch 1/2: ['Iran news', 'Iran news today', 'Iran attack', 'are we going to war', 'oil prices']
+2026-03-19 19:47:40,117 - INFO -   iran_war batch 2/2: ['World War 3', 'nuclear war', 'draft', 'military', 'troops']
+2026-03-19 19:47:50,209 - INFO -   ai_jobs batch 1/2: ['ChatGPT', 'AI jobs', 'AI news', 'artificial intelligence', 'automation']
+2026-03-19 19:47:50,635 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 19:48:29,566 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training']
+2026-03-19 19:48:44,654 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 19:48:59,318 - INFO -   political batch 1/3: ['how to vote', 'voter registration', 'midterm elections', 'election 2026', 'senate election']
+2026-03-19 19:49:08,209 - INFO -   political batch 2/3: ['congress election', 'who to vote for 2026', 'Trump', 'Biden', 'Trump approval']
+2026-03-19 19:49:23,810 - INFO -   political batch 3/3: ['impeachment']
+2026-03-19 19:49:32,938 - INFO -   partisan_pairs batch 1/2: ['Fox News', 'illegal immigration', 'Second Amendment', 'undocumented immigrants', 'MSNBC']
+2026-03-19 19:49:43,537 - INFO -   partisan_pairs batch 2/2: ['gun control', 'CNN']
+2026-03-19 19:49:56,318 - INFO -   state_specific batch 1/1: ['Atlanta traffic', 'election fraud', 'Stacey Abrams']
+2026-03-19 19:50:33,249 - INFO - Collecting data for Nevada (US-NV)
+2026-03-19 19:50:33,249 - INFO -   economy batch 1/4: ['gas prices', 'gas prices near me', 'food prices', 'rent prices', 'cost of living']
+2026-03-19 19:50:45,023 - INFO -   economy batch 2/4: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 19:50:57,401 - INFO -   economy batch 3/4: ['minimum wage', '401k', 'high prices', 'cost of groceries', 'health insurance cost']
+2026-03-19 19:51:12,463 - INFO -   economy batch 4/4: ['paycheck to paycheck', 'second job', 'gig economy', 'how to save money 2026']
+2026-03-19 19:51:25,604 - INFO -   economy_colloquial batch 1/2: ['cheap gas near me', 'food bank near me', 'how to save money', 'apply for food stamps', 'side hustle']
+2026-03-19 19:51:38,494 - INFO -   economy_colloquial batch 2/2: ['expensive', 'afford']
+2026-03-19 19:51:50,738 - INFO -   immigration batch 1/3: ['ICE near me', 'deportation', 'deportation news', 'immigration lawyer', 'immigration lawyer near me']
+2026-03-19 19:51:59,911 - INFO -   immigration batch 2/3: ['asylum', 'border wall', 'illegal immigration', 'undocumented immigrants', 'work visa']
+2026-03-19 19:52:11,814 - INFO -   immigration batch 3/3: ['H1B', 'DACA', 'green card', 'immigration news', 'immigration news today']
+2026-03-19 19:52:21,956 - INFO -   iran_war batch 1/2: ['Iran news', 'Iran news today', 'Iran attack', 'are we going to war', 'oil prices']
+2026-03-19 19:52:32,772 - INFO -   iran_war batch 2/2: ['World War 3', 'nuclear war', 'draft', 'military', 'troops']
+2026-03-19 19:52:47,194 - INFO -   ai_jobs batch 1/2: ['ChatGPT', 'AI jobs', 'AI news', 'artificial intelligence', 'automation']
+2026-03-19 19:52:57,200 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training']
+2026-03-19 19:53:09,797 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 19:53:24,235 - INFO -   political batch 1/3: ['how to vote', 'voter registration', 'midterm elections', 'election 2026', 'senate election']
+2026-03-19 19:53:35,798 - INFO -   political batch 2/3: ['congress election', 'who to vote for 2026', 'Trump', 'Biden', 'Trump approval']
+2026-03-19 19:53:45,158 - INFO -   political batch 3/3: ['impeachment']
+2026-03-19 19:54:00,700 - INFO -   partisan_pairs batch 1/2: ['Fox News', 'illegal immigration', 'Second Amendment', 'undocumented immigrants', 'MSNBC']
+2026-03-19 19:54:13,428 - INFO -   partisan_pairs batch 2/2: ['gun control', 'CNN']
+2026-03-19 19:54:50,669 - INFO - Collecting data for North Carolina (US-NC)
+2026-03-19 19:54:50,670 - INFO -   economy batch 1/4: ['gas prices', 'gas prices near me', 'food prices', 'rent prices', 'cost of living']
+2026-03-19 19:55:03,892 - INFO -   economy batch 2/4: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 19:55:13,300 - INFO -   economy batch 3/4: ['minimum wage', '401k', 'high prices', 'cost of groceries', 'health insurance cost']
+2026-03-19 19:55:25,596 - INFO -   economy batch 4/4: ['paycheck to paycheck', 'second job', 'gig economy', 'how to save money 2026']
+2026-03-19 19:55:39,335 - INFO -   economy_colloquial batch 1/2: ['cheap gas near me', 'food bank near me', 'how to save money', 'apply for food stamps', 'side hustle']
+2026-03-19 19:55:50,381 - INFO -   economy_colloquial batch 2/2: ['expensive', 'afford']
+2026-03-19 19:56:00,154 - INFO -   immigration batch 1/3: ['ICE near me', 'deportation', 'deportation news', 'immigration lawyer', 'immigration lawyer near me']
+2026-03-19 19:56:00,556 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 19:56:48,179 - INFO -   immigration batch 2/3: ['asylum', 'border wall', 'illegal immigration', 'undocumented immigrants', 'work visa']
+2026-03-19 19:57:00,409 - INFO -   immigration batch 3/3: ['H1B', 'DACA', 'green card', 'immigration news', 'immigration news today']
+2026-03-19 19:57:10,225 - INFO -   iran_war batch 1/2: ['Iran news', 'Iran news today', 'Iran attack', 'are we going to war', 'oil prices']
+2026-03-19 19:57:21,860 - INFO -   iran_war batch 2/2: ['World War 3', 'nuclear war', 'draft', 'military', 'troops']
+2026-03-19 19:57:33,416 - INFO -   ai_jobs batch 1/2: ['ChatGPT', 'AI jobs', 'AI news', 'artificial intelligence', 'automation']
+2026-03-19 19:57:45,041 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training']
+2026-03-19 19:57:45,414 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 19:58:34,367 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 19:58:45,032 - INFO -   political batch 1/3: ['how to vote', 'voter registration', 'midterm elections', 'election 2026', 'senate election']
+2026-03-19 19:58:54,414 - INFO -   political batch 2/3: ['congress election', 'who to vote for 2026', 'Trump', 'Biden', 'Trump approval']
+2026-03-19 19:58:54,766 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 19:59:40,178 - INFO -   political batch 3/3: ['impeachment']
+2026-03-19 19:59:52,877 - INFO -   partisan_pairs batch 1/2: ['Fox News', 'illegal immigration', 'Second Amendment', 'undocumented immigrants', 'MSNBC']
+2026-03-19 20:00:01,686 - INFO -   partisan_pairs batch 2/2: ['gun control', 'CNN']
+2026-03-19 20:00:29,243 - INFO - Collecting data for California (US-CA)
+2026-03-19 20:00:29,244 - INFO -   economy batch 1/4: ['gas prices', 'gas prices near me', 'food prices', 'rent prices', 'cost of living']
+2026-03-19 20:00:29,644 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 20:01:20,166 - INFO -   economy batch 2/4: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 20:01:34,058 - INFO -   economy batch 3/4: ['minimum wage', '401k', 'high prices', 'cost of groceries', 'health insurance cost']
+2026-03-19 20:01:44,709 - INFO -   economy batch 4/4: ['paycheck to paycheck', 'second job', 'gig economy', 'how to save money 2026']
+2026-03-19 20:01:56,912 - INFO -   economy_colloquial batch 1/2: ['cheap gas near me', 'food bank near me', 'how to save money', 'apply for food stamps', 'side hustle']
+2026-03-19 20:02:09,151 - INFO -   economy_colloquial batch 2/2: ['expensive', 'afford']
+2026-03-19 20:02:18,933 - INFO -   immigration batch 1/3: ['ICE near me', 'deportation', 'deportation news', 'immigration lawyer', 'immigration lawyer near me']
+2026-03-19 20:02:34,099 - INFO -   immigration batch 2/3: ['asylum', 'border wall', 'illegal immigration', 'undocumented immigrants', 'work visa']
+2026-03-19 20:02:49,442 - INFO -   immigration batch 3/3: ['H1B', 'DACA', 'green card', 'immigration news', 'immigration news today']
+2026-03-19 20:03:01,431 - INFO -   iran_war batch 1/2: ['Iran news', 'Iran news today', 'Iran attack', 'are we going to war', 'oil prices']
+2026-03-19 20:03:12,018 - INFO -   iran_war batch 2/2: ['World War 3', 'nuclear war', 'draft', 'military', 'troops']
+2026-03-19 20:03:27,753 - INFO -   ai_jobs batch 1/2: ['ChatGPT', 'AI jobs', 'AI news', 'artificial intelligence', 'automation']
+2026-03-19 20:03:36,962 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training']
+2026-03-19 20:03:51,343 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 20:04:01,028 - INFO -   political batch 1/3: ['how to vote', 'voter registration', 'midterm elections', 'election 2026', 'senate election']
+2026-03-19 20:04:15,980 - INFO -   political batch 2/3: ['congress election', 'who to vote for 2026', 'Trump', 'Biden', 'Trump approval']
+2026-03-19 20:04:27,559 - INFO -   political batch 3/3: ['impeachment']
+2026-03-19 20:04:38,252 - INFO -   partisan_pairs batch 1/2: ['Fox News', 'illegal immigration', 'Second Amendment', 'undocumented immigrants', 'MSNBC']
+2026-03-19 20:04:48,236 - INFO -   partisan_pairs batch 2/2: ['gun control', 'CNN']
+2026-03-19 20:05:16,958 - INFO - Collecting data for Texas (US-TX)
+2026-03-19 20:05:16,958 - INFO -   economy batch 1/4: ['gas prices', 'gas prices near me', 'food prices', 'rent prices', 'cost of living']
+2026-03-19 20:05:26,322 - INFO -   economy batch 2/4: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 20:05:40,440 - INFO -   economy batch 3/4: ['minimum wage', '401k', 'high prices', 'cost of groceries', 'health insurance cost']
+2026-03-19 20:05:53,337 - INFO -   economy batch 4/4: ['paycheck to paycheck', 'second job', 'gig economy', 'how to save money 2026']
+2026-03-19 20:06:03,871 - INFO -   economy_colloquial batch 1/2: ['cheap gas near me', 'food bank near me', 'how to save money', 'apply for food stamps', 'side hustle']
+2026-03-19 20:06:13,418 - INFO -   economy_colloquial batch 2/2: ['expensive', 'afford']
+2026-03-19 20:06:24,314 - INFO -   immigration batch 1/3: ['ICE near me', 'deportation', 'deportation news', 'immigration lawyer', 'immigration lawyer near me']
+2026-03-19 20:06:35,414 - INFO -   immigration batch 2/3: ['asylum', 'border wall', 'illegal immigration', 'undocumented immigrants', 'work visa']
+2026-03-19 20:06:50,683 - INFO -   immigration batch 3/3: ['H1B', 'DACA', 'green card', 'immigration news', 'immigration news today']
+2026-03-19 20:07:01,786 - INFO -   iran_war batch 1/2: ['Iran news', 'Iran news today', 'Iran attack', 'are we going to war', 'oil prices']
+2026-03-19 20:07:15,078 - INFO -   iran_war batch 2/2: ['World War 3', 'nuclear war', 'draft', 'military', 'troops']
+2026-03-19 20:07:24,976 - INFO -   ai_jobs batch 1/2: ['ChatGPT', 'AI jobs', 'AI news', 'artificial intelligence', 'automation']
+2026-03-19 20:07:38,180 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training']
+2026-03-19 20:07:50,704 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 20:08:02,378 - INFO -   political batch 1/3: ['how to vote', 'voter registration', 'midterm elections', 'election 2026', 'senate election']
+2026-03-19 20:08:15,301 - INFO -   political batch 2/3: ['congress election', 'who to vote for 2026', 'Trump', 'Biden', 'Trump approval']
+2026-03-19 20:08:15,685 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 20:09:02,400 - INFO -   political batch 3/3: ['impeachment']
+2026-03-19 20:09:12,727 - INFO -   partisan_pairs batch 1/2: ['Fox News', 'illegal immigration', 'Second Amendment', 'undocumented immigrants', 'MSNBC']
+2026-03-19 20:09:28,127 - INFO -   partisan_pairs batch 2/2: ['gun control', 'CNN']
+2026-03-19 20:10:00,610 - INFO - Collecting data for Ohio (US-OH)
+2026-03-19 20:10:00,610 - INFO -   economy batch 1/4: ['gas prices', 'gas prices near me', 'food prices', 'rent prices', 'cost of living']
+2026-03-19 20:10:15,564 - INFO -   economy batch 2/4: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 20:10:28,795 - INFO -   economy batch 3/4: ['minimum wage', '401k', 'high prices', 'cost of groceries', 'health insurance cost']
+2026-03-19 20:10:44,489 - INFO -   economy batch 4/4: ['paycheck to paycheck', 'second job', 'gig economy', 'how to save money 2026']
+2026-03-19 20:10:56,589 - INFO -   economy_colloquial batch 1/2: ['cheap gas near me', 'food bank near me', 'how to save money', 'apply for food stamps', 'side hustle']
+2026-03-19 20:11:06,336 - INFO -   economy_colloquial batch 2/2: ['expensive', 'afford']
+2026-03-19 20:11:06,587 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 20:11:47,805 - INFO -   immigration batch 1/3: ['ICE near me', 'deportation', 'deportation news', 'immigration lawyer', 'immigration lawyer near me']
+2026-03-19 20:12:00,677 - INFO -   immigration batch 2/3: ['asylum', 'border wall', 'illegal immigration', 'undocumented immigrants', 'work visa']
+2026-03-19 20:12:01,020 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 20:12:50,638 - INFO -   immigration batch 3/3: ['H1B', 'DACA', 'green card', 'immigration news', 'immigration news today']
+2026-03-19 20:12:51,084 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 20:13:45,929 - INFO -   iran_war batch 1/2: ['Iran news', 'Iran news today', 'Iran attack', 'are we going to war', 'oil prices']
+2026-03-19 20:13:59,949 - INFO -   iran_war batch 2/2: ['World War 3', 'nuclear war', 'draft', 'military', 'troops']
+2026-03-19 20:14:12,052 - INFO -   ai_jobs batch 1/2: ['ChatGPT', 'AI jobs', 'AI news', 'artificial intelligence', 'automation']
+2026-03-19 20:14:27,721 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training']
+2026-03-19 20:14:37,436 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 20:14:48,603 - INFO -   political batch 1/3: ['how to vote', 'voter registration', 'midterm elections', 'election 2026', 'senate election']
+2026-03-19 20:14:59,902 - INFO -   political batch 2/3: ['congress election', 'who to vote for 2026', 'Trump', 'Biden', 'Trump approval']
+2026-03-19 20:15:15,374 - INFO -   political batch 3/3: ['impeachment']
+2026-03-19 20:15:24,861 - INFO -   partisan_pairs batch 1/2: ['Fox News', 'illegal immigration', 'Second Amendment', 'undocumented immigrants', 'MSNBC']
+2026-03-19 20:15:37,732 - INFO -   partisan_pairs batch 2/2: ['gun control', 'CNN']
+2026-03-19 20:16:07,469 - INFO - Collecting data for Maine (US-ME)
+2026-03-19 20:16:07,469 - INFO -   economy batch 1/4: ['gas prices', 'gas prices near me', 'food prices', 'rent prices', 'cost of living']
+2026-03-19 20:16:19,408 - INFO -   economy batch 2/4: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 20:16:28,879 - INFO -   economy batch 3/4: ['minimum wage', '401k', 'high prices', 'cost of groceries', 'health insurance cost']
+2026-03-19 20:16:40,327 - INFO -   economy batch 4/4: ['paycheck to paycheck', 'second job', 'gig economy', 'how to save money 2026']
+2026-03-19 20:16:56,316 - INFO -   economy_colloquial batch 1/2: ['cheap gas near me', 'food bank near me', 'how to save money', 'apply for food stamps', 'side hustle']
+2026-03-19 20:17:08,182 - INFO -   economy_colloquial batch 2/2: ['expensive', 'afford']
+2026-03-19 20:17:17,402 - INFO -   immigration batch 1/3: ['ICE near me', 'deportation', 'deportation news', 'immigration lawyer', 'immigration lawyer near me']
+2026-03-19 20:17:31,018 - INFO -   immigration batch 2/3: ['asylum', 'border wall', 'illegal immigration', 'undocumented immigrants', 'work visa']
+2026-03-19 20:17:46,849 - INFO -   immigration batch 3/3: ['H1B', 'DACA', 'green card', 'immigration news', 'immigration news today']
+2026-03-19 20:17:58,786 - INFO -   iran_war batch 1/2: ['Iran news', 'Iran news today', 'Iran attack', 'are we going to war', 'oil prices']
+2026-03-19 20:18:10,632 - INFO -   iran_war batch 2/2: ['World War 3', 'nuclear war', 'draft', 'military', 'troops']
+2026-03-19 20:18:26,218 - INFO -   ai_jobs batch 1/2: ['ChatGPT', 'AI jobs', 'AI news', 'artificial intelligence', 'automation']
+2026-03-19 20:18:36,515 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training']
+2026-03-19 20:18:50,516 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 20:19:00,171 - INFO -   political batch 1/3: ['how to vote', 'voter registration', 'midterm elections', 'election 2026', 'senate election']
+2026-03-19 20:19:10,348 - INFO -   political batch 2/3: ['congress election', 'who to vote for 2026', 'Trump', 'Biden', 'Trump approval']
+2026-03-19 20:19:21,324 - INFO -   political batch 3/3: ['impeachment']
+2026-03-19 20:19:34,278 - INFO -   partisan_pairs batch 1/2: ['Fox News', 'illegal immigration', 'Second Amendment', 'undocumented immigrants', 'MSNBC']
+2026-03-19 20:19:34,647 - WARNING - Rate limited, backing off (attempt 1)
+2026-03-19 20:20:18,471 - INFO -   partisan_pairs batch 2/2: ['gun control', 'CNN']
+2026-03-19 20:20:49,528 - INFO - Collecting data for New Hampshire (US-NH)
+2026-03-19 20:20:49,528 - INFO -   economy batch 1/4: ['gas prices', 'gas prices near me', 'food prices', 'rent prices', 'cost of living']
+2026-03-19 20:21:04,361 - INFO -   economy batch 2/4: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 20:21:15,537 - INFO -   economy batch 3/4: ['minimum wage', '401k', 'high prices', 'cost of groceries', 'health insurance cost']
+2026-03-19 20:21:26,785 - INFO -   economy batch 4/4: ['paycheck to paycheck', 'second job', 'gig economy', 'how to save money 2026']
+2026-03-19 20:21:38,907 - INFO -   economy_colloquial batch 1/2: ['cheap gas near me', 'food bank near me', 'how to save money', 'apply for food stamps', 'side hustle']
+2026-03-19 20:21:50,055 - INFO -   economy_colloquial batch 2/2: ['expensive', 'afford']
+2026-03-19 20:22:01,319 - INFO -   immigration batch 1/3: ['ICE near me', 'deportation', 'deportation news', 'immigration lawyer', 'immigration lawyer near me']
+2026-03-19 20:22:14,133 - INFO -   immigration batch 2/3: ['asylum', 'border wall', 'illegal immigration', 'undocumented immigrants', 'work visa']
+2026-03-19 20:22:25,800 - INFO -   immigration batch 3/3: ['H1B', 'DACA', 'green card', 'immigration news', 'immigration news today']
+2026-03-19 20:22:35,332 - INFO -   iran_war batch 1/2: ['Iran news', 'Iran news today', 'Iran attack', 'are we going to war', 'oil prices']
+2026-03-19 20:22:48,181 - INFO -   iran_war batch 2/2: ['World War 3', 'nuclear war', 'draft', 'military', 'troops']
+2026-03-19 20:23:00,761 - INFO -   ai_jobs batch 1/2: ['ChatGPT', 'AI jobs', 'AI news', 'artificial intelligence', 'automation']
+2026-03-19 20:23:14,088 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training']
+2026-03-19 20:23:29,085 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 20:23:38,745 - INFO -   political batch 1/3: ['how to vote', 'voter registration', 'midterm elections', 'election 2026', 'senate election']
+2026-03-19 20:23:47,497 - INFO -   political batch 2/3: ['congress election', 'who to vote for 2026', 'Trump', 'Biden', 'Trump approval']
+2026-03-19 20:24:02,585 - INFO -   political batch 3/3: ['impeachment']
+2026-03-19 20:24:13,426 - INFO -   partisan_pairs batch 1/2: ['Fox News', 'illegal immigration', 'Second Amendment', 'undocumented immigrants', 'MSNBC']
+2026-03-19 20:24:23,536 - INFO -   partisan_pairs batch 2/2: ['gun control', 'CNN']
+2026-03-19 20:24:50,585 - INFO - Collecting data for Minnesota (US-MN)
+2026-03-19 20:24:50,585 - INFO -   economy batch 1/4: ['gas prices', 'gas prices near me', 'food prices', 'rent prices', 'cost of living']
+2026-03-19 20:25:04,727 - INFO -   economy batch 2/4: ['inflation', 'recession', 'unemployment benefits', 'food stamps', 'SNAP benefits']
+2026-03-19 20:25:19,991 - INFO -   economy batch 3/4: ['minimum wage', '401k', 'high prices', 'cost of groceries', 'health insurance cost']
+2026-03-19 20:25:31,409 - INFO -   economy batch 4/4: ['paycheck to paycheck', 'second job', 'gig economy', 'how to save money 2026']
+2026-03-19 20:25:44,249 - INFO -   economy_colloquial batch 1/2: ['cheap gas near me', 'food bank near me', 'how to save money', 'apply for food stamps', 'side hustle']
+2026-03-19 20:25:53,502 - INFO -   economy_colloquial batch 2/2: ['expensive', 'afford']
+2026-03-19 20:26:06,505 - INFO -   immigration batch 1/3: ['ICE near me', 'deportation', 'deportation news', 'immigration lawyer', 'immigration lawyer near me']
+2026-03-19 20:26:15,854 - INFO -   immigration batch 2/3: ['asylum', 'border wall', 'illegal immigration', 'undocumented immigrants', 'work visa']
+2026-03-19 20:26:30,690 - INFO -   immigration batch 3/3: ['H1B', 'DACA', 'green card', 'immigration news', 'immigration news today']
+2026-03-19 20:26:44,445 - INFO -   iran_war batch 1/2: ['Iran news', 'Iran news today', 'Iran attack', 'are we going to war', 'oil prices']
+2026-03-19 20:26:58,764 - INFO -   iran_war batch 2/2: ['World War 3', 'nuclear war', 'draft', 'military', 'troops']
+2026-03-19 20:27:14,204 - INFO -   ai_jobs batch 1/2: ['ChatGPT', 'AI jobs', 'AI news', 'artificial intelligence', 'automation']
+2026-03-19 20:27:30,227 - INFO -   ai_jobs batch 2/2: ['learn to code', 'career change', 'job training']
+2026-03-19 20:27:42,486 - INFO -   epstein batch 1/1: ['Epstein files', 'Epstein list', 'Epstein documents', 'Epstein names', 'Jeffrey Epstein']
+2026-03-19 20:27:57,790 - INFO -   political batch 1/3: ['how to vote', 'voter registration', 'midterm elections', 'election 2026', 'senate election']
+2026-03-19 20:28:12,550 - INFO -   political batch 2/3: ['congress election', 'who to vote for 2026', 'Trump', 'Biden', 'Trump approval']
+2026-03-19 20:28:27,788 - INFO -   political batch 3/3: ['impeachment']
+2026-03-19 20:28:38,321 - INFO -   partisan_pairs batch 1/2: ['Fox News', 'illegal immigration', 'Second Amendment', 'undocumented immigrants', 'MSNBC']
+2026-03-19 20:28:48,307 - INFO -   partisan_pairs batch 2/2: ['gun control', 'CNN']
+2026-03-19 20:29:27,418 - INFO - ============================================================
+2026-03-19 20:29:27,418 - INFO - COLLECTION COMPLETE
+2026-03-19 20:29:27,418 - INFO - Time elapsed: 66.3 minutes
+2026-03-19 20:29:27,418 - INFO - States completed: 13
+2026-03-19 20:29:27,418 - INFO - Terms collected: 1081
+2026-03-19 20:29:27,418 - INFO - Rate limits hit: 15
+2026-03-19 20:29:27,418 - INFO - Errors: 0
+2026-03-19 20:29:27,418 - INFO - ============================================================
+2026-03-19 20:29:27,589 - INFO - Saved: /root/.openclaw/workspace/projects/vibe-polling/data/raw/trends/trends_2026-03-19.parquet
+2026-03-19 20:29:27,590 - INFO - Records: 98371

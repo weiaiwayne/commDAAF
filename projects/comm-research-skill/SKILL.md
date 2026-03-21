@@ -134,6 +134,7 @@ sessions_spawn({
 | Lessons Learned | `skill-templates/workflows/agent-academy/LESSONS_LEARNED.md` |
 | Workflow Spec | `skill-templates/workflows/agent-academy/WORKFLOW.md` |
 | Architecture | `skill-templates/workflows/agent-academy/ARCHITECTURE.md` |
+| **Method References** | `references/methods/*.md` |
 
 ## Deployed Sites
 
@@ -177,6 +178,30 @@ When `/commdaaf status` is invoked:
 
 - `peer-review` — Multi-model document review
 - See `antigravity/` for cross-platform deployment
+
+## Method References
+
+| Topic | File | Source Study |
+|-------|------|--------------|
+| Cross-National Framing | `references/methods/comparative-framing.md` | Global South AI (Mar 2026) |
+| Multi-Agent Research | `references/methods/multi-agent-research.md` | VibePoll-2026 |
+| Google Trends Validation | `references/methods/google-trends-validation.md` | VibePoll-2026 |
+
+### Key Lessons from VibePoll-2026
+
+**Multi-Agent Errors Caught**:
+- Per-capita on normalized data → Finding flipped (−24% → +143%)
+- Over-differencing → Hidden signal revealed
+- Baseline confusion → Contradictory claims exposed
+- Granger miscount → Null conclusion reversed
+
+**Top Skills Added**:
+1. **Verify data structure before transforming** — Don't per-capita normalize proportions
+2. **Validate at target granularity** — National ≠ state-level usability
+3. **Separate findings from synthesis** — Attribute claims to actual analysis
+4. **Test both causal directions** — Markets led Trends, not vice versa
+5. **Smooth before differencing** — Order matters for time series
+6. **Question implausible effects** — >100% effects are usually errors
 
 ## References
 

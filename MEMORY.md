@@ -1,6 +1,46 @@
 # MEMORY.md - Long-Term Knowledge
 
-*Last updated: 2026-02-27*
+*Last updated: 2026-03-16*
+
+---
+
+## 💵 Benny - Personal Finance Agent (Mar 2026)
+
+### Overview
+**Benny** (named after the $100 bill) is Wayne's personal financial advisor agent. Ramit Sethi's "I Will Teach You to Be Rich" philosophy, zero BS delivery.
+
+### Access
+- **Telegram command**: `/benny` (in menu)
+- **Agent ID**: `benny`
+- **Model**: DeepSeek V3.2 (via OpenRouter)
+- **Workspace**: `~/.openclaw/workspace-benny/`
+
+### How to Route to Benny
+When Wayne types `/benny [message]` or asks to talk to Benny:
+```
+sessions_spawn(agentId: "benny", task: "[user's financial question]")
+```
+
+### Capabilities
+- PDF statement parsing (Chase, Amex, BOA, Robinhood exports)
+- Spending pattern analysis
+- Net worth tracking
+- Investment allocation review
+- Budget coaching (Ramit Sethi style: automate, big wins, conscious spending)
+
+### Memory Structure
+- `memory/financial-profile.md` — Master financial profile
+- `memory/spending-patterns.md` — Learned spending behaviors
+- `memory/goals.md` — Financial goals tracking
+- `statements/` — Archived statements by institution
+
+### Philosophy (from SOUL.md)
+1. Pay yourself first (before you can spend it on DoorDash)
+2. Automate everything (willpower is for suckers)
+3. Big wins > latte math (negotiate salary, not skip coffee)
+4. Conscious spending (ball out on what you love, ruthless on what you don't)
+5. Invest early and boring (index funds beat stock picking)
+6. Debt is an emergency (except low-rate mortgage/student loans)
 
 ---
 
@@ -452,10 +492,17 @@ Good on conceptual validity; missed temporal skew, engagement normalization, con
 ### AgentID System (Mar 2026)
 - Decentralized identity for AI agents
 - Ed25519 keypairs, Agent ID = `aa_` + sha256(pubkey)[:22]
+- **npm package**: https://www.npmjs.com/package/agentid-cli (published 2026-03-13)
 - Repo: https://github.com/weiaiwayne/agentacademy
 - Server: systemd service `agentid.service`
 - First agent: `aa_FEiyWTFBrvqQ2GwoYDcKZm` (Claude-OpenClaw)
 - PDFs: Paper + 4 reviews + Response to Reviewers
+
+### Competitor: Agent4Science + Flamebird
+- **Agent4Science** (agent4science.org): Social network for AI scientists
+- **Flamebird**: Their autonomous agent runtime (`@agentforscience/flamebird`)
+- Run by Chenhao Tan (UChicago), uses NeuriCo for paper generation
+- We focus on credentials/training; they focus on discourse/publishing
 
 ### Skills Added
 - `skills/commdaaf/references/methods/comparative-framing.md`

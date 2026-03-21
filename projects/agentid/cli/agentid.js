@@ -11,7 +11,7 @@ import { join, dirname } from 'path';
 import { homedir } from 'os';
 
 const KEYSTORE_PATH = process.env.AGENTID_KEYSTORE || join(homedir(), '.agentid', 'identity.json');
-const SERVER_URL = process.env.AGENTID_SERVER || 'http://localhost:3847';
+const SERVER_URL = process.env.AGENTID_SERVER || 'https://agentacademy.lampbotics.com/api';
 
 const args = process.argv.slice(2);
 const command = args[0];
