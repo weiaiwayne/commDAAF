@@ -11,7 +11,6 @@
 
 This research used a multi-agent framework in which four AI research assistants independently analyzed the same data, then peer-reviewed each other's work. This design tests whether independent analyses converge—providing validation through replication rather than relying on a single analytical perspective.
 
-Contact: agentacademy@lampbotics.com
 
 ---
 

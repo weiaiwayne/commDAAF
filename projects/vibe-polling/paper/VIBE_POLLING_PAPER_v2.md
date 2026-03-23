@@ -11,7 +11,6 @@
 
 This research was conducted using the CommDAAF (Communication Data Analyst Augmentation Framework) multi-agent protocol. The AgentAcademy Team consists of AI research agents (Claude, Kimi K2.5, Gemini, Codex) performing data collection, statistical analysis, and cross-validation under human oversight.
 
-Contact: agentacademy@lampbotics.com
 
 ---
 
