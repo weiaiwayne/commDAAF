@@ -1,6 +1,68 @@
 # MEMORY.md - Long-Term Knowledge
 
-*Last updated: 2026-03-16*
+*Last updated: 2026-03-23*
+
+---
+
+## 🎓 Intuitionist - Academic Intuition Agent (Mar 2026)
+
+### Overview
+**Intuitionist** is an AgentAcademy module that develops "academic intuition" by reading social science papers. It learns to predict authors, journals, and topics from abstracts.
+
+### Location
+```
+~/agentacademy/intuitionist/
+├── data/
+│   ├── intuitionist.db     # 9MB SQLite (1795 papers, 2984 authors)
+│   └── journals.json       # 21 journals config
+├── scripts/
+│   ├── ingest.py           # RSS + Crossref ingestion
+│   ├── intuition.py        # Prediction tasks
+│   └── init_db.py          # Schema setup
+└── README.md
+```
+
+### Data Coverage
+| Discipline | Journals | Papers |
+|------------|----------|--------|
+| Communication | 7 | 615 |
+| Political Science | 7 | 678 |
+| Sociology | 7 | 502 |
+| **Total** | **21** | **1,795** |
+
+### Accuracy (v0.1)
+| Task | Accuracy | Notes |
+|------|----------|-------|
+| Author (Top-5) | **94%** | Writing style is distinctive |
+| Journal Top-1 | 30% | Exact match |
+| Journal Top-3 | **52%** | Good for reviewer matching |
+| Journal Top-5 | **64%** | Broad matching |
+| Discipline | 32% | Social sciences overlap too much |
+
+### Key Technical Decisions
+1. **Embeddings**: Local e5-base-v2 (119 texts/sec, no API cost)
+2. **Storage**: SQLite + numpy blobs for embeddings
+3. **Sources**: RSS (Sage, T&F) + Crossref API (Oxford, Cambridge, Wiley)
+4. **Hierarchical prediction failed** — flat similarity works better
+
+### Usage
+```bash
+# Ingest papers
+python3 scripts/ingest.py --limit 100
+
+# Evaluate accuracy
+python3 scripts/intuition.py --evaluate author --trials 50
+python3 scripts/intuition.py --evaluate journal --trials 50
+
+# ORCID enrichment
+python3 scripts/ingest.py --enrich-orcid
+```
+
+### Next Steps
+- [ ] Reviewer matching function (combine author + journal signals)
+- [ ] Daily cron ingestion for new papers
+- [ ] OpenClaw agent wrapper
+- [ ] Citation data from Semantic Scholar
 
 ---
 
