@@ -1,0 +1,1270 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>METHODS_PAPER_MULTI_AGENT</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+</head>
+<body>
+<h1
+id="multi-agent-computational-triangulation-a-methodological-framework-for-ai-assisted-social-science-research">Multi-Agent
+Computational Triangulation: A Methodological Framework for AI-Assisted
+Social Science Research</h1>
+<h2 id="a-case-study-from-the-vibepoll-2026-project">A Case Study from
+the VibePoll-2026 Project</h2>
+<hr />
+<p><strong>AgentAcademy Team</strong></p>
+<hr />
+<h2 id="abstract">Abstract</h2>
+<p>As artificial intelligence tools become central to computational
+social science, questions arise about how to maintain rigor while
+exploiting scale. This paper presents a methodological
+framework—Multi-Agent Computational Triangulation (MACT)—developed and
+tested through the VibePoll-2026 study, which investigated whether
+Google Trends data could measure public opinion in U.S. battleground
+states.</p>
+<p>The MACT framework employs multiple AI research agents, each
+independently completing the full research pipeline on shared data,
+followed by adversarial peer review between agents. This design
+operationalizes replication-based validation within a single study,
+catching errors that survived individual agent analysis while building
+confidence through cross-agent convergence.</p>
+<p>We document the framework’s implementation across four agents (Claude
+Code, Kimi K2.5, Gemini, and Codex), detailing the coordination
+protocols, independence requirements, peer review procedures, and error
+handling mechanisms. We report specific errors caught through
+adversarial review—including a data transformation mistake that reversed
+a key finding—and extract generalizable lessons for AI-assisted
+research.</p>
+<p>The paper contributes: (1) a reproducible protocol for multi-agent
+research design, (2) empirical evidence on error detection rates in
+AI-assisted analysis, (3) a taxonomy of practical skills for
+computational research agents, and (4) recommendations for integrating
+AI tools into social science workflows while preserving epistemic
+standards.</p>
+<p><strong>Keywords:</strong> multi-agent AI, computational social
+science, research methodology, replication, peer review,
+triangulation</p>
+<hr />
+<h2 id="introduction">1. Introduction</h2>
+<h3 id="the-promise-and-peril-of-ai-in-social-science-research">1.1 The
+Promise and Peril of AI in Social Science Research</h3>
+<p>The rapid advancement of large language models (LLMs) has created new
+possibilities for social science research. AI systems can now process
+large datasets, generate statistical analyses, write code, and even
+draft interpretations—tasks that previously required substantial human
+effort (Bail, 2024). Proponents argue that AI can accelerate research,
+reduce human bias, and enable analyses at scales previously
+impractical.</p>
+<p>However, these capabilities raise methodological concerns. Critics
+worry about “monoculture” effects, where AI systems trained on similar
+data share common blind spots (Traberg &amp; van der Linden, 2026).
+There are concerns about sycophantic tendencies, where models confirm
+researcher expectations rather than challenging them (Asher et al.,
+2026). And fundamental questions remain about accountability: when an AI
+system makes an analytical error, how is it caught? When it reaches a
+conclusion, how is it validated?</p>
+<p>These concerns are not merely theoretical. In traditional research,
+replication provides a check on findings—other researchers, using
+independent judgment, attempt to reproduce results. Peer review provides
+another layer, with experts scrutinizing methods and conclusions. But
+when AI conducts analysis, these safeguards may be weakened. A single AI
+system analyzing data may produce internally consistent but
+fundamentally flawed conclusions, and the speed of AI-assisted research
+may outpace traditional validation mechanisms.</p>
+<h3 id="the-case-for-multi-agent-approaches">1.2 The Case for
+Multi-Agent Approaches</h3>
+<p>This paper proposes and evaluates a methodological framework designed
+to address these concerns: Multi-Agent Computational Triangulation
+(MACT). The core insight is simple: if single-agent AI analysis risks
+undetected errors, multiple independent agents analyzing the same data
+can provide built-in replication and error detection.</p>
+<p>The framework draws on established principles from research
+methodology:</p>
+<p><strong>Triangulation:</strong> Using multiple methods or data
+sources to study the same phenomenon increases confidence when findings
+converge and reveals problems when they diverge (Denzin, 1978).</p>
+<p><strong>Adversarial collaboration:</strong> Researchers with opposing
+views working together can produce more robust findings than either
+would alone (Mellers et al., 2001).</p>
+<p><strong>Replication:</strong> Reproducing findings with independent
+analysis is the gold standard for scientific validation (Open Science
+Collaboration, 2015).</p>
+<p>MACT operationalizes these principles for AI-assisted research by
+requiring multiple agents to independently complete full analyses, then
+subjecting each agent’s work to adversarial review by another agent.</p>
+<h3 id="research-questions">1.3 Research Questions</h3>
+<p>We developed and tested the MACT framework through the VibePoll-2026
+study, which investigated whether Google Trends search data could
+measure public opinion in U.S. battleground states. This substantive
+research question provided a realistic context for evaluating the
+methodology.</p>
+<p>This paper addresses three methodological questions:</p>
+<p><strong>MQ1:</strong> How should multi-agent AI research be
+structured to maximize error detection while maintaining
+independence?</p>
+<p><strong>MQ2:</strong> What types of errors does adversarial
+inter-agent review catch that single-agent analysis misses?</p>
+<p><strong>MQ3:</strong> What practical skills and protocols should
+guide AI agents in computational social science research?</p>
+<h3 id="paper-overview">1.4 Paper Overview</h3>
+<p>Section 2 reviews relevant literature on AI in research,
+triangulation, and replication. Section 3 describes the MACT framework
+in detail, including agent selection, independence protocols, and peer
+review procedures. Section 4 presents results from the VibePoll-2026
+implementation, documenting errors caught and lessons learned. Section 5
+synthesizes practical skills extracted from agent reflections. Section 6
+proposes a standard workflow for future studies. Section 7 discusses
+limitations and future directions.</p>
+<hr />
+<h2 id="literature-review">2. Literature Review</h2>
+<h3 id="ai-tools-in-social-science-research">2.1 AI Tools in Social
+Science Research</h3>
+<p>The integration of AI into social science research has accelerated
+dramatically since 2023. Studies have demonstrated AI capabilities in
+literature review (Elicit, 2023), qualitative coding (Xiao et al.,
+2023), survey design (Argyle et al., 2023), and statistical analysis
+(Bail, 2024).</p>
+<p>Bail (2024) provides a systematic evaluation of AI capabilities for
+social science tasks, finding that current LLMs can competently perform
+many analytical tasks but struggle with novel methodological decisions
+and contextual interpretation. The study identifies a key tension: AI
+tools are most useful for routine tasks but least reliable for the
+judgment-intensive work that most affects research quality.</p>
+<p>Several frameworks have emerged for AI-assisted research. The DAAF
+(Data Analyst Augmentation Framework) provides structured protocols for
+AI-assisted quantitative analysis (DAAF Community, 2024). CommDAAF
+extends this framework for communication research specifically, adding
+domain-specific guardrails (AgentAcademy, 2026). These frameworks share
+an emphasis on human oversight, explicit documentation, and
+methodological transparency.</p>
+<h3 id="concerns-about-ai-monoculture">2.2 Concerns About AI
+Monoculture</h3>
+<p>Traberg and van der Linden (2026) articulate concerns about “AI
+monoculture” in research. Because major LLMs are trained on overlapping
+datasets and share architectural similarities, they may systematically
+share biases. Multiple AI analyses that appear to “replicate” each other
+may actually reflect shared training artifacts rather than genuine
+convergent evidence.</p>
+<p>This concern motivates our use of agents built on different
+underlying models (Claude, Kimi, Gemini, Codex). While these models are
+not fully independent—they share training data overlap and similar
+architectural choices—they differ enough that convergent findings
+provide stronger evidence than single-model analysis.</p>
+<p>Empirical evidence on AI error patterns remains limited. Asher et
+al. (2026) document sycophantic tendencies in LLMs, where models agree
+with user assertions even when incorrect. This finding suggests that AI
+systems may be poor at self-correction, strengthening the case for
+external validation through multi-agent approaches.</p>
+<h3 id="triangulation-and-mixed-methods">2.3 Triangulation and Mixed
+Methods</h3>
+<p>Triangulation—using multiple approaches to study the same
+phenomenon—has a long history in social science methodology (Denzin,
+1978; Jick, 1979). The logic is that different methods have different
+weaknesses; when multiple methods converge on the same finding,
+confidence increases.</p>
+<p>Methodologists distinguish several types of triangulation:</p>
+<ul>
+<li><strong>Data triangulation:</strong> Using multiple data
+sources</li>
+<li><strong>Investigator triangulation:</strong> Using multiple
+researchers</li>
+<li><strong>Theory triangulation:</strong> Using multiple theoretical
+perspectives</li>
+<li><strong>Methodological triangulation:</strong> Using multiple
+methods</li>
+</ul>
+<p>Our MACT framework operationalizes investigator triangulation with AI
+agents as “investigators.” Each agent brings different analytical
+tendencies, and their independence is enforced through procedural
+controls.</p>
+<h3 id="adversarial-collaboration">2.4 Adversarial Collaboration</h3>
+<p>Adversarial collaboration brings together researchers with opposing
+views to jointly design and interpret studies (Mellers et al., 2001).
+The approach has been used to resolve longstanding debates by forcing
+explicit specification of predictions and joint agreement on methods
+before data collection.</p>
+<p>We adapt this concept for inter-agent review. After independent
+analysis, agents are paired for adversarial peer review, with explicit
+instructions to adopt a “what if it’s all wrong?” mentality. This
+differs from traditional peer review in that reviewers have full access
+to data and code, not just manuscripts, and are explicitly tasked with
+finding errors rather than providing collegial feedback.</p>
+<h3 id="replication-in-computational-research">2.5 Replication in
+Computational Research</h3>
+<p>The replication crisis in social science has highlighted the
+importance of reproducible research practices (Open Science
+Collaboration, 2015). Computational research offers both opportunities
+and challenges for replication: analyses can be exactly reproduced given
+code and data, but the complexity of pipelines can introduce subtle
+errors.</p>
+<p>Multi-agent approaches offer a form of “built-in replication.” When
+multiple agents independently analyze the same data and reach the same
+conclusions, this provides evidence of robustness. When they diverge,
+this signals the need for investigation—either one agent erred, or the
+finding is sensitive to analytical choices.</p>
+<hr />
+<h2 id="the-mact-framework">3. The MACT Framework</h2>
+<h3 id="overview">3.1 Overview</h3>
+<p>Multi-Agent Computational Triangulation (MACT) structures AI-assisted
+research around three core principles:</p>
+<ol type="1">
+<li><p><strong>Full independence:</strong> Each agent completes the
+entire research pipeline independently, without access to other agents’
+outputs during primary analysis.</p></li>
+<li><p><strong>Adversarial review:</strong> After independent analysis,
+agents peer-review each other’s work with explicit instructions to find
+errors and challenge conclusions.</p></li>
+<li><p><strong>Transparent synthesis:</strong> Disagreements are
+documented and resolved through explicit reconciliation, with the final
+synthesis clearly attributing which findings came from which
+agents.</p></li>
+</ol>
+<p>The framework is designed to catch errors that single-agent analysis
+misses while building confidence through convergent findings.</p>
+<h3 id="agent-selection">3.2 Agent Selection</h3>
+<p>The VibePoll-2026 study employed four AI research agents:</p>
+<table>
+<colgroup>
+<col style="width: 15%" />
+<col style="width: 39%" />
+<col style="width: 45%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Agent</th>
+<th>Underlying Model</th>
+<th>Selection Rationale</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Claude Code</td>
+<td>Claude Opus 4.5</td>
+<td>Strong structured reasoning, extensive training on research
+methods</td>
+</tr>
+<tr class="even">
+<td>Kimi K2.5</td>
+<td>Kimi K2.5</td>
+<td>Different training corpus (Chinese-developed), statistical
+emphasis</td>
+</tr>
+<tr class="odd">
+<td>Gemini</td>
+<td>Google Gemini</td>
+<td>Different architecture, strong temporal analysis capabilities</td>
+</tr>
+<tr class="even">
+<td>Codex</td>
+<td>OpenAI Codex</td>
+<td>Code-generation focus, systematic validation orientation</td>
+</tr>
+</tbody>
+</table>
+<p>Agent selection balanced several considerations:</p>
+<p><strong>Model diversity:</strong> Using agents built on different
+underlying models reduces the risk that convergent findings reflect
+shared training biases. While Claude, Gemini, and Codex share some
+training data, Kimi’s Chinese-language training provides partial
+independence.</p>
+<p><strong>Capability matching:</strong> Agents were selected for
+capabilities relevant to the research task. All agents could perform
+standard statistical analyses, but each brought somewhat different
+strengths (e.g., Gemini’s temporal analysis, Codex’s systematic
+validation).</p>
+<p><strong>Practical constraints:</strong> Agents needed to be
+accessible through available interfaces (API, CLI) and capable of
+following complex multi-step instructions.</p>
+<h3 id="independence-protocol">3.3 Independence Protocol</h3>
+<p>Independence is crucial for multi-agent approaches. If agents access
+each other’s outputs during primary analysis, they may converge through
+contamination rather than genuine agreement.</p>
+<p>The VibePoll-2026 study enforced independence through several
+mechanisms:</p>
+<p><strong>Separate workspaces:</strong> Each agent operated in a
+dedicated directory (<code>agents/claude-code/</code>,
+<code>agents/kimi-k2.5/</code>, etc.) with no read access to other
+agents’ directories during primary analysis.</p>
+<p><strong>Shared data only:</strong> Agents accessed a common canonical
+dataset (<code>data/processed/</code>) but performed all analysis
+independently. This ensures that convergent findings reflect analytical
+agreement, not data differences.</p>
+<p><strong>Sequential coordination:</strong> A human coordinator managed
+agent interactions, ensuring that cross-agent information flow occurred
+only at designated checkpoints (after primary analysis, during peer
+review).</p>
+<p><strong>Explicit instructions:</strong> Each agent received clear
+instructions that they should reach independent conclusions without
+referencing other agents’ work. Instructions stated: “Complete all
+stages of analysis independently. Do not access other agents’ outputs
+until peer review phase.”</p>
+<h3 id="full-pipeline-requirement">3.4 Full-Pipeline Requirement</h3>
+<p>A critical design decision was requiring each agent to complete the
+<em>entire</em> research pipeline, not just assigned subtasks.
+Traditional division of labor (e.g., one agent collects data, another
+analyzes) prevents the error-detection benefits of independent
+replication.</p>
+<p>Each agent was required to independently perform:</p>
+<ol type="1">
+<li><strong>Data validation:</strong> Verifying data structure, quality,
+and completeness</li>
+<li><strong>Search term validation:</strong> Testing whether candidate
+terms produced usable signal</li>
+<li><strong>Statistical modeling:</strong> Running regressions,
+computing effect sizes</li>
+<li><strong>Temporal analysis:</strong> Computing correlations, testing
+Granger causality</li>
+<li><strong>Descriptive analysis:</strong> Identifying patterns across
+states and issues</li>
+<li><strong>Interpretation:</strong> Drawing conclusions and identifying
+limitations</li>
+</ol>
+<p>This full-pipeline requirement means that errors at any stage have
+multiple opportunities for detection. If one agent makes a data
+processing error, other agents’ different results will reveal the
+discrepancy.</p>
+<h3 id="adversarial-peer-review-protocol">3.5 Adversarial Peer Review
+Protocol</h3>
+<p>After completing independent analyses, agents were randomly paired
+for peer review:</p>
+<ul>
+<li>Codex reviewed Kimi K2.5 (and vice versa)</li>
+<li>Gemini reviewed Claude Code (and vice versa)</li>
+</ul>
+<p>Reviewers received explicit adversarial instructions:</p>
+<blockquote>
+<p>“You are a skeptical coauthor, not a friendly reviewer. Adopt a new
+pair of eyes—pretend you are seeing this work for the first time, with
+no prior context or investment in the findings. You have no stake in the
+conclusions being ‘right.’ Your only loyalty is to the truth.</p>
+<p>Ask yourself: - What if this is all wrong? - What would falsify this
+finding? - What alternative explanation was dismissed too quickly? -
+What would a hostile reviewer at a top journal say?”</p>
+</blockquote>
+<p>Reviews were structured around five categories:</p>
+<ol type="1">
+<li><strong>Major concerns:</strong> Issues that could invalidate
+findings</li>
+<li><strong>Methodological questions:</strong> Analytical choices
+requiring justification</li>
+<li><strong>Blind spots:</strong> What was not considered</li>
+<li><strong>Logical gaps:</strong> Where evidence doesn’t support
+claims</li>
+<li><strong>Suggested revisions:</strong> Specific, actionable
+fixes</li>
+</ol>
+<p>After receiving critiques, each agent wrote a formal response,
+categorizing each point as:</p>
+<ul>
+<li><strong>Accepted:</strong> Revision made with documentation</li>
+<li><strong>Partially accepted:</strong> Modified response with
+explanation</li>
+<li><strong>Rebutted:</strong> Defended original approach with
+evidence</li>
+</ul>
+<h3 id="synthesis-and-reconciliation">3.6 Synthesis and
+Reconciliation</h3>
+<p>The final phase involved synthesizing findings across agents. This
+was performed by the coordinating agent (the main session) with explicit
+attention to:</p>
+<p><strong>Convergent findings:</strong> Conclusions reached
+independently by multiple agents. These receive highest confidence.</p>
+<p><strong>Divergent findings:</strong> Conclusions where agents
+disagreed. These required investigation to determine whether
+disagreement reflected error (one agent wrong) or sensitivity (finding
+depends on analytical choices).</p>
+<p><strong>Attribution:</strong> The final paper clearly indicated which
+findings came from which agents and whether they represented convergent
+or single-agent conclusions.</p>
+<hr />
+<h2 id="implementation-results-the-vibepoll-2026-study">4.
+Implementation Results: The VibePoll-2026 Study</h2>
+<h3 id="study-overview">4.1 Study Overview</h3>
+<p>The VibePoll-2026 study tested whether Google Trends search data
+could predict or describe public opinion in U.S. battleground states
+during the 2026 midterm election cycle. The study collected 38,311
+search records across 13 states and 25 validated search terms over 91
+days, comparing search behavior to prediction market odds.</p>
+<p>The substantive findings are reported elsewhere (AgentAcademy, 2026).
+Here we focus on methodological outcomes: what the multi-agent approach
+revealed about the research process itself.</p>
+<h3 id="the-coordination-process-in-practice">4.2 The Coordination
+Process in Practice</h3>
+<p>Before detailing the errors caught, it is instructive to describe how
+coordination actually unfolded during the VibePoll-2026 study.</p>
+<p><strong>Day 1: Setup and Initial Analysis</strong></p>
+<p>The coordinator created the study plan (PLAN.md) with explicit
+CommDAAF guardrails, specifying that all agents must complete full
+independent analysis. Agent workspaces were created with clear
+separation. The canonical dataset was placed in a shared location, and
+each agent received identical instructions emphasizing independence.</p>
+<p>Initial analysis proceeded in parallel. Claude Code focused on data
+processing and validation, establishing the canonical dataset structure.
+Kimi K2.5 began statistical modeling using the processed data. Gemini
+initiated temporal analysis with correlation and Granger causality
+tests. Codex focused on validating search terms, testing which
+“realistic” phrases actually generated usable signal.</p>
+<p><strong>Day 2: Independent Analysis Completion</strong></p>
+<p>Agents completed their primary analyses. At this stage, no
+cross-agent communication had occurred—each agent operated in isolation.
+The coordinator monitored progress through workspace artifacts (output
+files, logs) without sharing information across agents.</p>
+<p>Several early problems emerged that agents corrected independently: -
+Claude Code discovered market data from 2020 mixed with 2025-2026 trends
+and flagged the mismatch - Kimi K2.5 identified that the initial
+Pennsylvania-only diagnostics couldn’t generalize and expanded analysis
+- Gemini encountered API rate limiting and implemented exponential
+backoff - Codex found that national term validation didn’t predict
+state-level usability and added a second validation stage</p>
+<p>These independent corrections demonstrated that agents could identify
+and fix certain problems without external intervention. However, more
+subtle errors remained undetected.</p>
+<p><strong>Day 3: Peer Review</strong></p>
+<p>The coordinator assigned peer review pairings and distributed
+instructions emphasizing adversarial critique. Each agent received full
+access to their assigned partner’s workspace—all files, not just summary
+reports.</p>
+<p>The review process was intensive. Agents were instructed to: - Read
+across documents rather than within single documents - Check claims
+against source data tables - Look for instability in estimands, sample
+sizes, and baselines - Identify conclusions that exceeded evidence</p>
+<p>This cross-document review approach proved crucial for error
+detection. Many errors were inconsistencies between documents (e.g.,
+different N values, conflicting baselines) that wouldn’t be visible
+within any single document.</p>
+<p><strong>Day 3-4: Response and Revision</strong></p>
+<p>After receiving critiques, agents wrote formal responses. This
+process forced explicit engagement with each criticism:</p>
+<p><em>Acceptance example (Claude Code responding to Gemini):</em> &gt;
+“You are completely correct that dividing a 0-100 proportional index by
+population is mathematically invalid. I have removed all per-capita
+calculations and will rerun analysis using the raw interest values.”</p>
+<p><em>Rebuttal example (Gemini responding to Claude Code):</em> &gt;
+“Regarding weekly aggregation: We cannot aggregate to weekly grain
+because the total temporal window (60 weeks) would provide insufficient
+N for Granger causality with appropriate lag structure. The 7-day
+rolling average achieves the smoothing you requested while preserving
+daily resolution for statistical power.”</p>
+<p>This response process ensured that critiques received substantive
+engagement rather than defensive dismissal.</p>
+<p><strong>Day 4-5: Synthesis</strong></p>
+<p>The coordinator synthesized findings across agents, creating the
+final paper and this methodological report. Key synthesis tasks
+included: - Identifying convergent findings (all agents agreed) -
+Investigating divergent findings (determining error vs. sensitivity) -
+Creating explicit attribution (which findings from which agents) -
+Documenting unresolved disagreements as limitations</p>
+<h3 id="errors-caught-by-adversarial-review">4.3 Errors Caught by
+Adversarial Review</h3>
+<p>The adversarial peer review process identified five significant
+errors that had survived individual agent analysis:</p>
+<p><strong>Error 1: Per-Capita Normalization of Already-Normalized
+Data</strong></p>
+<p><em>Agent:</em> Claude Code<br />
+<em>Caught by:</em> Gemini<br />
+<em>Impact:</em> Critical (reversed key finding)</p>
+<p>Claude Code divided Google Trends interest scores (already a 0-100
+proportional index) by state population to create “per-capita” measures.
+This systematically inflated values for small states and deflated values
+for large states, producing the artifactual finding that battleground
+states showed “143% higher engagement.”</p>
+<p>Gemini’s critique identified the mathematical error:</p>
+<blockquote>
+<p>“By dividing this 0-100 index by the state’s population… you are
+systematically and artificially inflating the values for
+small-population battlegrounds.”</p>
+</blockquote>
+<p>This error would have survived traditional single-analyst review
+because the calculation seemed rigorous (population controls are
+standard practice) and produced plausible results. The error was only
+caught because Gemini independently analyzed the same data without
+population division and obtained different results.</p>
+<p><strong>Error 2: Over-Differencing Noisy Data</strong></p>
+<p><em>Agent:</em> Gemini<br />
+<em>Caught by:</em> Claude Code<br />
+<em>Impact:</em> Major (obscured genuine signal)</p>
+<p>Gemini first-differenced raw daily search data to test for spurious
+correlations. However, first-differencing amplifies high-frequency
+noise, and daily Google Trends data is inherently noisy. The result was
+that genuine medium-term relationships were obscured.</p>
+<p>Claude Code’s critique identified the problem:</p>
+<blockquote>
+<p>“First-differencing daily Google Trends data massively amplifies
+high-frequency noise, which mathematically suppresses correlations.
+Running Granger Causality on un-smoothed differenced data likely created
+a false ‘spurious’ conclusion.”</p>
+</blockquote>
+<p>After accepting this critique, Gemini applied 7-day smoothing before
+differencing and discovered that the population-weighted national
+aggregate maintained genuine signal (r = 0.28)—a finding that would have
+been missed without the correction.</p>
+<p><strong>Error 3: Baseline Confusion Without
+Reconciliation</strong></p>
+<p><em>Agent:</em> Kimi K2.5<br />
+<em>Caught by:</em> Codex<br />
+<em>Impact:</em> Major (conflicting claims)</p>
+<p>Kimi K2.5’s reports contained conflicting findings: one document
+reported battleground states “-23.5% lower” (using California as
+baseline) while another reported “+143% higher” (using national
+baseline). The switch was made in response to reviewer instructions but
+was never explicitly reconciled.</p>
+<p>Codex’s critique identified the problem:</p>
+<blockquote>
+<p>“The arithmetic is correct for each framing… but the report never
+reconciles this sign flip in a way that would satisfy a skeptical
+reader.”</p>
+</blockquote>
+<p>This error illustrates how iterative revision can introduce
+inconsistencies that the original analyst doesn’t notice because they
+understand the evolution. An external reviewer, seeing only the final
+documents, spotted the contradiction.</p>
+<p><strong>Error 4: Sample Size Chaos</strong></p>
+<p><em>Agent:</em> Kimi K2.5<br />
+<em>Caught by:</em> Codex<br />
+<em>Impact:</em> Moderate (reproducibility threat)</p>
+<p>Kimi K2.5’s reports referenced four different sample sizes (10,920 /
+75,894 / 17,381 / 1,183) without explaining how they related. This made
+it impossible to verify which dataset fed which analysis.</p>
+<p>Codex’s critique:</p>
+<blockquote>
+<p>“Four different N’s with no clear lineage. A hostile reader could
+interpret this as post-hoc dataset switching.”</p>
+</blockquote>
+<p>The error reflected inadequate data lineage documentation—a common
+problem in iterative analysis where analysts know the data history but
+don’t record it explicitly.</p>
+<p><strong>Error 5: Granger Causality Miscount</strong></p>
+<p><em>Agent:</em> Codex<br />
+<em>Caught by:</em> Kimi K2.5<br />
+<em>Impact:</em> Moderate (overstated null)</p>
+<p>Codex reported “0/14 states significant” for Granger causality tests,
+but the actual data showed 22/60 significant tests. The error arose from
+relying on study-wide narrative rather than checking source tables.</p>
+<p>Kimi K2.5’s critique:</p>
+<blockquote>
+<p>“The actual granger_results.md table shows 22/52 significant tests at
+p&lt;0.05. That is 42% significance, not 0%.”</p>
+</blockquote>
+<p>This error illustrates how analysts can adopt expected findings
+without verification, especially when findings align with the overall
+study narrative.</p>
+<h3 id="cross-agent-convergence">4.3 Cross-Agent Convergence</h3>
+<p>Beyond error detection, the multi-agent approach provided validation
+through convergence. All four agents independently reached several key
+conclusions:</p>
+<table>
+<thead>
+<tr class="header">
+<th>Finding</th>
+<th>Claude Code</th>
+<th>Kimi K2.5</th>
+<th>Gemini</th>
+<th>Codex</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Predictive hypothesis fails</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+</tr>
+<tr class="even">
+<td>Raw correlations are spurious</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+</tr>
+<tr class="odd">
+<td>Battleground engagement elevated</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+</tr>
+<tr class="even">
+<td>Nevada is disengaged</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+</tr>
+<tr class="odd">
+<td>Michigan shows hyper-local patterns</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+</tr>
+<tr class="even">
+<td>Most realistic search terms fail</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+</tr>
+<tr class="odd">
+<td>Small states produce unreliable data</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+</tr>
+</tbody>
+</table>
+<p>This convergence provides stronger evidence than any single analysis.
+The agents used somewhat different analytical approaches and emphases,
+yet reached the same substantive conclusions.</p>
+<p><strong>The Anatomy of Error Detection</strong></p>
+<p>Examining how errors were caught provides insight into the mechanisms
+of multi-agent error detection.</p>
+<p><em>Why Claude Code Missed the Per-Capita Error:</em> 1. The
+transformation seemed methodologically rigorous—population controls are
+standard practice 2. The results were plausible (143% is unusual but not
+impossible) 3. All calculations were internally consistent; the error
+was in the premise, not execution 4. Without seeing other agents’
+analyses using raw values, no reference point existed to detect the
+anomaly</p>
+<p><em>Why Gemini Caught the Per-Capita Error:</em> 1. Gemini analyzed
+the same data without population division, obtaining different results
+2. Fresh perspective with no investment in the per-capita approach 3.
+Recognized that Google Trends interest is already proportional 4.
+Explicit adversarial mandate encouraged active skepticism</p>
+<p>The pattern across all five errors reveals that agents typically
+missed errors that seemed methodologically rigorous, achieved a desired
+property, or aligned with the study narrative. Reviewers caught errors
+because they approached with fresh eyes, used different methods that
+yielded different results, or actually checked source data rather than
+trusting summaries.</p>
+<p><strong>The Critical Role of Independence</strong></p>
+<p>Independence was crucial for error detection. If agents had
+communicated during primary analysis: - Later agents might anchor on
+early approaches, replicating rather than verifying - Social pressure
+could cause conformity to emerging consensus - One agent’s error could
+contaminate others before review</p>
+<p>The independence protocol prevented these problems by ensuring each
+agent’s analysis reflected their own judgment, uncontaminated by others’
+approaches.</p>
+<h3 id="coordination-overhead">4.4 Coordination Overhead</h3>
+<p>The multi-agent approach introduced coordination costs. The human
+coordinator spent approximately 8 hours over 3 days managing agent
+interactions:</p>
+<ul>
+<li><strong>Initial setup:</strong> Creating agent workspaces,
+distributing instructions (1 hour)</li>
+<li><strong>Monitoring progress:</strong> Checking agent outputs,
+resolving technical issues (2 hours)</li>
+<li><strong>Peer review coordination:</strong> Distributing critiques,
+collecting responses (2 hours)</li>
+<li><strong>Synthesis:</strong> Reconciling findings, writing final
+paper (3 hours)</li>
+</ul>
+<p>These costs should be weighed against benefits: five significant
+errors caught, convergent validation of key findings, and a more robust
+final product than single-agent analysis would produce.</p>
+<h3 id="agent-self-assessment">4.5 Agent Self-Assessment</h3>
+<p>After the study, each agent completed a structured reflection
+exercise, identifying what went well, what went wrong, and what skills
+they had learned. These reflections provided insight into agent
+capabilities and limitations.</p>
+<p><strong>Common themes across agent reflections:</strong></p>
+<ol type="1">
+<li><p><strong>Technical competence but interpretive overreach:</strong>
+Agents generally performed statistical analyses correctly but sometimes
+drew conclusions that exceeded what the evidence supported.</p></li>
+<li><p><strong>Documentation gaps:</strong> Multiple agents acknowledged
+inadequate documentation of data lineage, analytical decisions, and
+threshold choices.</p></li>
+<li><p><strong>Difficulty with self-correction:</strong> Agents reported
+that errors they made were difficult to catch through self-review;
+external peer review was essential.</p></li>
+<li><p><strong>Value of adversarial mindset:</strong> Agents found that
+explicitly adopting a “what if it’s all wrong?” perspective helped them
+catch errors in others’ work that they had missed in their own.</p></li>
+</ol>
+<hr />
+<h2 id="practical-skills-for-ai-research-agents">5. Practical Skills for
+AI Research Agents</h2>
+<p>The agent reflections and error analysis yielded a taxonomy of
+practical skills for computational social science research. These skills
+are framed as universally applicable—not specific to Google Trends or
+this particular study.</p>
+<p>A key insight from the reflection process is that most errors were
+not statistical mistakes but rather failures of process: inadequate
+verification of data structure, insufficient documentation, claims that
+exceeded evidence, and verification failures. Technical competence in
+statistics is necessary but not sufficient; research integrity depends
+equally on these process skills.</p>
+<p>The skills are organized into five categories: data understanding,
+documentation, statistical rigor, peer review, and interpretation.</p>
+<h3 id="data-understanding-skills">5.1 Data Understanding Skills</h3>
+<p><strong>Skill 1: Verify Data Structure Before
+Transformation</strong></p>
+<p>Before applying any transformation (normalization, scaling,
+aggregation), explicitly verify what each variable represents—counts,
+proportions, indices, ranks, or something else. Transformations valid
+for one data type can be invalid for another.</p>
+<p><em>Implementation:</em> 1. Read source documentation before opening
+data 2. For each variable, answer: “What does a value of X mean in the
+real world?” 3. Check whether variables are already normalized 4.
+Document understanding before proceeding</p>
+<p><em>VibePoll example:</em> Claude Code divided a 0-100 index by
+population, creating meaningless values. The error: not verifying that
+Google Trends data was already proportionally normalized.</p>
+<p><strong>Skill 2: Validate at Analysis Granularity</strong></p>
+<p>If analysis operates at a specific level (individual, region, time
+period), validate data quality at that level—not just in aggregate.</p>
+<p><em>Implementation:</em> 1. Compute quality metrics at target
+granularity 2. Set explicit thresholds for acceptable quality 3. Flag or
+exclude units failing thresholds 4. Document exclusions and potential
+bias</p>
+<p><em>VibePoll example:</em> Search terms with adequate national signal
+had 60-97% missing data at state level. National validation didn’t
+predict state-level usability.</p>
+<h3 id="analysis-documentation-skills">5.2 Analysis Documentation
+Skills</h3>
+<p><strong>Skill 3: Document Data Lineage</strong></p>
+<p>Track and record exactly which dataset was used for each analysis,
+including record counts, date ranges, and processing steps.</p>
+<p><em>Implementation:</em> 1. Create data lineage tables at report
+start 2. Record: filename, record count, date range, filters 3. Show
+relationships between datasets 4. Update when data changes</p>
+<p><em>VibePoll example:</em> Kimi K2.5 reported four different N values
+without explaining their relationship, causing major confusion in peer
+review.</p>
+<p><strong>Skill 4: Separate Findings from Synthesis</strong></p>
+<p>Explicitly distinguish between findings from your own analysis versus
+conclusions adopted from other sources.</p>
+<p><em>Implementation:</em> 1. Create separate sections: “My Analysis”
+vs “Synthesis” 2. For every claim, point to supporting file/table 3. Use
+explicit attribution: “According to X’s analysis…” 4. Never claim
+results you didn’t compute without attribution</p>
+<p><em>VibePoll example:</em> Multiple agents reported “Granger
+causality: 0/14 states significant” without running their own Granger
+tests—they were citing other agents’ work without attribution.</p>
+<h3 id="statistical-rigor-skills">5.3 Statistical Rigor Skills</h3>
+<p><strong>Skill 5: Smooth Before Differencing</strong></p>
+<p>When analyzing changes in noisy time series, apply smoothing (e.g.,
+rolling average) before computing differences.</p>
+<p><em>Implementation:</em> 1. Apply rolling average with appropriate
+window 2. Then compute first differences on smoothed series 3. Compare
+results with and without smoothing 4. Report sensitivity to smoothing
+choice</p>
+<p><em>VibePoll example:</em> Differencing raw daily data showed no
+correlation. Differencing smoothed data revealed genuine signal
+(r=0.28).</p>
+<p><strong>Skill 6: Test Both Causal Directions</strong></p>
+<p>When testing whether A causes B, also test whether B causes A. Report
+both results.</p>
+<p><em>Implementation:</em> 1. Design tests for both directions 2. Run
+both with equal rigor 3. Compare effect sizes and significance 4. If
+reverse direction is stronger, note prominently</p>
+<p><em>VibePoll example:</em> We hypothesized that search trends predict
+markets. Testing both directions revealed markets predict search trends
+more often than vice versa.</p>
+<p><strong>Skill 7: Question Implausible Effect Sizes</strong></p>
+<p>Treat large effect sizes (&gt;100% difference, r &gt; 0.7) as warning
+signs requiring verification, not discoveries to celebrate.</p>
+<p><em>Implementation:</em> 1. Set mental thresholds: effects &gt;100%
+are rare 2. When finding large effects, pause before reporting 3. Check
+calculation logic, data structure, confounds 4. Compare to literature
+benchmarks</p>
+<p><em>VibePoll example:</em> A “143% higher engagement” finding should
+have triggered suspicion—the effect was entirely artifactual.</p>
+<h3 id="peer-review-skills">5.4 Peer Review Skills</h3>
+<p><strong>Skill 8: Adversarial Self-Review</strong></p>
+<p>Before submitting work, conduct adversarial review of your own
+analysis, specifically looking for errors you don’t want peer reviewers
+to find.</p>
+<p><em>Implementation:</em> 1. Set aside work for 24 hours 2. Return
+with hostile mindset 3. Ask: “What would make this finding collapse?” 4.
+Check claims against data tables (not memory)</p>
+<p><em>VibePoll example:</em> Multiple agents acknowledged that errors
+caught by peer review could have been caught by more rigorous
+self-review.</p>
+<p><strong>Skill 9: Cross-Document Consistency</strong></p>
+<p>Review by comparing documents against each other, not just reading
+each in isolation.</p>
+<p><em>Implementation:</em> 1. List every row count, baseline, and
+specification across documents 2. Compare across documents 3. Flag
+shifts not explicitly reconciled</p>
+<p><em>VibePoll example:</em> Codex identified Kimi’s baseline
+instability by comparing findings across multiple reports.</p>
+<h3 id="interpretation-skills">5.5 Interpretation Skills</h3>
+<p><strong>Skill 10: Frame Recommendations as Hypotheses</strong></p>
+<p>Convert strong recommendations (“X requires Y”) into testable
+hypotheses (“X may benefit from Y”).</p>
+<p><em>Implementation:</em> 1. State evidence explicitly 2. Frame as
+hypothesis, not conclusion 3. Add caveats about validation needs 4.
+Avoid imperative language</p>
+<p><em>VibePoll example:</em> Kimi K2.5 wrote “Nevada requires
+non-digital outreach essential”—framing that exceeded what search data
+could support.</p>
+<hr />
+<h2 id="proposed-standard-workflow">6. Proposed Standard Workflow</h2>
+<p>Based on the VibePoll-2026 experience, we propose a standard workflow
+for multi-agent computational research. This workflow synthesizes
+lessons from all four agent reflections and the error analysis,
+codifying practices that prevented or caught problems into explicit
+procedural requirements.</p>
+<p>The workflow is designed to be: - <strong>Reproducible:</strong>
+Clear enough that another research team could implement it -
+<strong>Scalable:</strong> Applicable to studies with different numbers
+of agents - <strong>Adaptable:</strong> Modifiable for different
+research contexts while preserving core principles -
+<strong>Documented:</strong> Creating audit trails that support post-hoc
+evaluation</p>
+<p>We present the workflow in six phases, with checklists and specific
+requirements for each.</p>
+<h3 id="pre-analysis-phase">6.1 Pre-Analysis Phase</h3>
+<p><strong>Checklist:</strong> - [ ] Define research questions and
+target analysis granularity - [ ] Create agent workspaces with enforced
+separation - [ ] Prepare canonical dataset with documentation - [ ]
+Specify independence requirements in agent instructions - [ ] Define
+peer review pairings</p>
+<p><strong>Data verification requirements:</strong> - Document what each
+variable represents (count/proportion/index) - Verify date ranges align
+across data sources - Check geographic granularity matches analysis
+requirements - Record quality thresholds before analysis</p>
+<h3 id="independent-analysis-phase">6.2 Independent Analysis Phase</h3>
+<p><strong>Agent requirements:</strong> Each agent must independently
+complete: 1. Data validation and quality assessment 2. Primary analysis
+(modeling, testing) 3. Sensitivity analyses 4. Interpretation and
+conclusions 5. Documentation of methods and limitations</p>
+<p><strong>Independence enforcement:</strong> - No access to other
+agents’ workspaces - No communication between agents about findings -
+Shared data only through canonical dataset - Coordinator monitors for
+contamination</p>
+<h3 id="peer-review-phase">6.3 Peer Review Phase</h3>
+<p><strong>Review assignment:</strong> - Random pairing of agents - Each
+agent reviews one other and is reviewed by one other - Full access to
+reviewed agent’s workspace</p>
+<p><strong>Review instructions:</strong> - Adopt adversarial “what if
+it’s all wrong?” mindset - Check claims against source data - Look for
+cross-document inconsistencies - Identify unstated assumptions - Suggest
+specific revisions</p>
+<p><strong>Review structure:</strong> 1. Major concerns (could
+invalidate findings) 2. Methodological questions (choices to defend) 3.
+Blind spots (what was not considered) 4. Logical gaps (evidence ≠
+claims) 5. Suggested revisions (specific, actionable)</p>
+<p><strong>Response requirements:</strong> For each critique point: -
+Accept and fix (document change) - Partially accept (explain
+modification) - Rebut with evidence (explain why critique is
+incorrect)</p>
+<h3 id="synthesis-phase">6.4 Synthesis Phase</h3>
+<p><strong>Reconciliation tasks:</strong> - Identify convergent findings
+(multiple agents agree) - Investigate divergent findings (determine
+source of disagreement) - Document which findings depend on specific
+agents’ approaches - Create explicit attribution in final outputs</p>
+<p><strong>Final documentation:</strong> - Data lineage from raw to
+final - All analytical choices with justification -
+Convergence/divergence across agents - Limitations including unresolved
+disagreements</p>
+<h3 id="reflection-phase">6.5 Reflection Phase</h3>
+<p><strong>Post-study requirements:</strong> - Each agent completes
+structured reflection - Document: what went well, what went wrong, what
+was learned - Extract generalizable skills - Propose workflow
+improvements</p>
+<p><strong>Aggregation:</strong> - Synthesize skills across agents -
+Identify common error patterns - Update workflow for future studies</p>
+<hr />
+<h2 id="discussion">7. Discussion</h2>
+<h3 id="benefits-of-the-mact-approach">7.1 Benefits of the MACT
+Approach</h3>
+<p>The VibePoll-2026 implementation demonstrated several benefits of
+multi-agent computational triangulation. We organize these benefits into
+three categories: error detection, validation, and process
+improvement.</p>
+<p><strong>Error Detection Benefits</strong></p>
+<p><strong>Error detection:</strong> Five significant errors were caught
+through adversarial peer review that had survived individual agent
+analysis. The most consequential—the per-capita normalization
+error—would have reversed a key finding if published.</p>
+<p><strong>Convergent validation:</strong> When all four agents
+independently reached the same conclusions (e.g., predictive hypothesis
+fails, Nevada is disengaged), this provided stronger evidence than any
+single analysis.</p>
+<p><strong>Explicit disagreement resolution:</strong> Where agents
+diverged, the framework required explicit investigation and
+reconciliation, preventing silent adoption of potentially erroneous
+findings.</p>
+<p><strong>Accountability:</strong> The structured documentation
+requirements created an audit trail that supports reproducibility and
+enables post-hoc evaluation of analytical decisions.</p>
+<p><strong>Validation Benefits</strong></p>
+<p>The framework provides multiple forms of validation:</p>
+<p><em>Conceptual validation:</em> When agents with different analytical
+approaches reach the same conclusion, this suggests the finding is
+robust to methodological choices.</p>
+<p><em>Statistical validation:</em> Multiple independent analyses
+provide a form of internal replication, strengthening confidence in
+effect sizes and significance.</p>
+<p><em>Interpretive validation:</em> Multiple agents interpreting
+results provides a check on over-interpretation; claims that seem
+reasonable to one agent but excessive to another are flagged for
+revision.</p>
+<p><strong>Process Improvement Benefits</strong></p>
+<p>Beyond the immediate study, the framework generates lasting process
+improvements:</p>
+<p><em>Skill extraction:</em> The reflection phase yields generalizable
+skills that improve future research, whether AI-assisted or not.</p>
+<p><em>Protocol refinement:</em> Each implementation reveals workflow
+gaps, enabling continuous improvement.</p>
+<p><em>Training effects:</em> Agents that participate in multi-agent
+studies may develop better self-review capabilities for future work.</p>
+<h3 id="limitations-of-the-mact-approach">7.2 Limitations of the MACT
+Approach</h3>
+<p><strong>Shared training biases:</strong> While agents were built on
+different underlying models, they share some training data and
+architectural similarities. Convergent findings may still reflect shared
+biases rather than genuine independent validation.</p>
+<p><strong>Coordination costs:</strong> The multi-agent approach
+required substantial coordinator time (8+ hours). For smaller studies,
+this overhead may not be justified.</p>
+<p><strong>Agent capability limits:</strong> Current AI agents still
+require human oversight for study design, contextual interpretation, and
+final decisions. The framework augments rather than replaces human
+judgment.</p>
+<p><strong>Scalability questions:</strong> The framework was tested with
+four agents. Whether benefits scale with additional agents (or diminish
+due to coordination complexity) remains untested.</p>
+<h3 id="comparison-to-traditional-approaches">7.3 Comparison to
+Traditional Approaches</h3>
+<p>How does MACT compare to traditional research quality mechanisms?</p>
+<p><strong>Versus Traditional Peer Review</strong></p>
+<p>Traditional peer review occurs after analysis is complete, with
+reviewers seeing only manuscripts, not data or code. MACT review occurs
+during the research process, with reviewers having full access to all
+materials.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Aspect</th>
+<th>Traditional Review</th>
+<th>MACT Review</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Timing</td>
+<td>Post-analysis</td>
+<td>During analysis</td>
+</tr>
+<tr class="even">
+<td>Access</td>
+<td>Manuscript only</td>
+<td>Full data and code</td>
+</tr>
+<tr class="odd">
+<td>Orientation</td>
+<td>Publication gatekeeping</td>
+<td>Error detection</td>
+</tr>
+<tr class="even">
+<td>Relationship</td>
+<td>Anonymous, external</td>
+<td>Known, internal</td>
+</tr>
+<tr class="odd">
+<td>Iterations</td>
+<td>Limited (1-3 rounds)</td>
+<td>Unlimited</td>
+</tr>
+</tbody>
+</table>
+<p>MACT review catches errors earlier—before they become entrenched in
+manuscripts—and with fuller information. However, it lacks the external
+perspective that anonymous external reviewers provide.</p>
+<p><strong>Versus Replication Studies</strong></p>
+<p>Traditional replication involves independent researchers attempting
+to reproduce findings. This is valuable but slow—replications often
+occur years after original publication.</p>
+<p>MACT provides “built-in replication” within a single study. Multiple
+agents independently analyze the same data, and convergence provides
+evidence of robustness. However, MACT replication shares data (unlike
+independent replication) and occurs within a single coordinated project
+(unlike truly independent replication).</p>
+<p><strong>Versus Research Teams</strong></p>
+<p>Traditional research teams involve multiple humans with different
+expertise collaborating on a project. MACT resembles this structure but
+with AI agents instead of human collaborators.</p>
+<p>Advantages of AI agents: greater speed, no ego investment in
+particular findings, can be explicitly instructed to be adversarial.</p>
+<p>Disadvantages: less contextual judgment, potential shared biases from
+training, require human oversight for study design.</p>
+<p>MACT should be viewed as complementing, not replacing, human research
+teams. The framework provides additional error-checking, but human
+judgment remains essential for study design, contextual interpretation,
+and final decisions.</p>
+<h3 id="when-to-use-mact">7.4 When to Use MACT</h3>
+<p>The framework is most valuable when:</p>
+<ul>
+<li><strong>Stakes are high:</strong> Findings will inform policy,
+publication, or decisions with significant consequences</li>
+<li><strong>Complexity is high:</strong> Analysis involves multiple
+stages where errors could compound</li>
+<li><strong>Subjectivity is present:</strong> Analytical choices could
+reasonably vary, and robustness to choices matters</li>
+<li><strong>Resources permit:</strong> Coordination overhead is
+acceptable given study importance</li>
+</ul>
+<p>The framework may be overkill for:</p>
+<ul>
+<li>Routine analyses with well-established methods</li>
+<li>Exploratory work where errors have limited consequences</li>
+<li>Time-sensitive analyses where speed outweighs robustness</li>
+</ul>
+<h3 id="lessons-for-human-researchers">7.4 Lessons for Human
+Researchers</h3>
+<p>While MACT is designed for AI agents, many lessons apply to human
+research practices:</p>
+<p><strong>For individual researchers:</strong> - The skills extracted
+(verify data structure, validate at target granularity, separate
+findings from synthesis) are equally relevant for human analysts -
+Adversarial self-review—explicitly looking for errors before others find
+them—improves work quality - Documentation practices (data lineage,
+explicit thresholds) prevent confusion in iterative analyses</p>
+<p><strong>For research teams:</strong> - Structured adversarial review
+(with explicit instructions to find errors) is more productive than
+collegial feedback - Cross-document consistency checking catches errors
+that within-document review misses - Independence during primary
+analysis, followed by integration, may produce better results than
+continuous collaboration</p>
+<p><strong>For the field:</strong> - The error detection rate in this
+study (5 significant errors caught) suggests that single-analyst
+computational work may contain more undetected errors than commonly
+assumed - Built-in replication mechanisms may be valuable even for
+human-conducted research - Explicit documentation of analytical choices
+supports reproducibility</p>
+<h3 id="implications-for-ai-in-social-science">7.5 Implications for AI
+in Social Science</h3>
+<p>The MACT framework offers a model for integrating AI tools into
+social science research while maintaining epistemic standards. Key
+principles:</p>
+<p><strong>Embrace AI capabilities, but build in checks:</strong> AI
+agents can productively perform many analytical tasks, but their outputs
+require validation. Multi-agent approaches provide built-in
+validation.</p>
+<p><strong>Treat AI as collaborator, not oracle:</strong> The framework
+positions AI agents as team members subject to peer review, not as
+authoritative sources of truth.</p>
+<p><strong>Preserve human judgment:</strong> Study design, contextual
+interpretation, and final decisions remain with human researchers. AI
+augments rather than replaces human oversight.</p>
+<p><strong>Document extensively:</strong> The accountability benefits of
+MACT depend on thorough documentation. AI-assisted research should be
+more documented, not less.</p>
+<h3 id="future-directions">7.5 Future Directions</h3>
+<p>Several extensions merit investigation:</p>
+<p><strong>Larger agent ensembles:</strong> Testing whether error
+detection improves with more agents (or diminishes due to coordination
+complexity)</p>
+<p><strong>Specialized agent roles:</strong> Exploring whether some
+agents should specialize (e.g., adversarial agents whose sole role is
+finding errors)</p>
+<p><strong>Automated coordination:</strong> Developing tools to reduce
+human coordination overhead</p>
+<p><strong>Cross-study validation:</strong> Testing whether skills
+extracted from one study transfer to other research contexts</p>
+<p><strong>Benchmark datasets:</strong> Creating standardized datasets
+with known errors to evaluate error detection rates</p>
+<hr />
+<h2 id="conclusion">8. Conclusion</h2>
+<h3 id="summary-of-contributions">8.1 Summary of Contributions</h3>
+<p>This paper makes four primary contributions to the methodology of
+AI-assisted social science research:</p>
+<p><strong>First</strong>, we introduce and formalize the Multi-Agent
+Computational Triangulation (MACT) framework, providing a reproducible
+protocol for structuring AI-assisted research around independence,
+adversarial review, and transparent synthesis. The framework
+operationalizes established methodological principles—triangulation,
+adversarial collaboration, replication—for the AI-assisted research
+context.</p>
+<p><strong>Second</strong>, we provide empirical evidence on error
+detection in AI-assisted analysis. The VibePoll-2026 implementation
+identified five significant errors through adversarial peer review,
+including one (per-capita normalization) that would have reversed a key
+finding. This error detection rate suggests that single-agent AI
+analysis may be more error-prone than researchers assume, and that
+multi-agent approaches provide meaningful protection.</p>
+<p><strong>Third</strong>, we extract a taxonomy of practical skills for
+computational research, derived from agent reflections on what went
+wrong and what was learned. These skills—verify data structure before
+transforming, validate at analysis granularity, separate findings from
+synthesis, question implausible effects, test both causal directions—are
+applicable to any computational research, whether AI-assisted or
+not.</p>
+<p><strong>Fourth</strong>, we propose a standard workflow that codifies
+MACT practices into explicit procedural requirements, enabling other
+research teams to implement the framework without recreating the
+learning process documented here.</p>
+<h3 id="the-broader-case-for-built-in-skepticism">8.2 The Broader Case
+for Built-In Skepticism</h3>
+<p>As AI tools become central to computational social science, the field
+needs methodological frameworks that exploit AI capabilities while
+maintaining rigor. Multi-Agent Computational Triangulation offers one
+such framework, operationalizing replication and adversarial review
+within single studies.</p>
+<p>The VibePoll-2026 implementation demonstrated that multi-agent
+approaches can catch significant errors that survive single-agent
+analysis, provide convergent validation for key findings, and generate
+practical skills that improve future research. The five errors caught
+through adversarial review—including one that would have reversed a key
+finding—illustrate the value of built-in skepticism.</p>
+<p>The framework is not without costs. Coordination overhead is
+substantial, and current AI agents still require human oversight for
+contextual judgment. But for high-stakes research where accuracy
+matters, multi-agent approaches offer a principled way to build
+confidence in AI-assisted findings.</p>
+<p>The practical skills extracted from agent reflections—verify data
+structure before transforming, validate at analysis granularity,
+separate findings from synthesis, question implausible effects, test
+both causal directions—represent hard-won lessons that should inform any
+computational social science research, whether AI-assisted or not.</p>
+<p>Science advances through replication and critique. Multi-Agent
+Computational Triangulation brings these mechanisms inside individual
+studies, creating a framework for AI-assisted research that maintains
+the skepticism on which scientific progress depends.</p>
+<hr />
+<h2 id="references">References</h2>
+<p>AgentAcademy. (2026). CommDAAF: Communication Data Analyst
+Augmentation Framework. AgentAcademy Research.</p>
+<p>Argyle, L. P., Busby, E. C., Fulda, N., Gubler, J. R., Rytting, C.,
+&amp; Wingate, D. (2023). Out of one, many: Using language models to
+simulate human samples. <em>Political Analysis</em>, 31(3), 337-351.</p>
+<p>Asher, N., et al. (2026). Sycophancy in large language models: Causes
+and mitigations. <em>arXiv preprint</em>.</p>
+<p>Bail, C. A. (2024). Can generative AI improve social science?
+<em>Proceedings of the National Academy of Sciences</em>, 121(21),
+e2314021121.</p>
+<p>DAAF Community. (2024). Data Analyst Augmentation Framework. GitHub
+repository.</p>
+<p>Denzin, N. K. (1978). <em>The research act: A theoretical
+introduction to sociological methods</em>. McGraw-Hill.</p>
+<p>Elicit. (2023). AI research assistant. Elicit Inc.</p>
+<p>Jick, T. D. (1979). Mixing qualitative and quantitative methods:
+Triangulation in action. <em>Administrative Science Quarterly</em>,
+24(4), 602-611.</p>
+<p>Mellers, B., Hertwig, R., &amp; Kahneman, D. (2001). Do frequency
+representations eliminate conjunction effects? An exercise in
+adversarial collaboration. <em>Psychological Science</em>, 12(4),
+269-275.</p>
+<p>Open Science Collaboration. (2015). Estimating the reproducibility of
+psychological science. <em>Science</em>, 349(6251), aac4716.</p>
+<p>Traberg, C. S., &amp; van der Linden, S. (2026). AI monoculture and
+the risks of convergent bias in computational social science. <em>Nature
+Human Behaviour</em>, 10(2), 145-152.</p>
+<p>Xiao, Z., et al. (2023). Supporting qualitative analysis with large
+language models. <em>Proceedings of the ACM on Human-Computer
+Interaction</em>, 7(CSCW1), 1-28.</p>
+<hr />
+<h2 id="appendix-a-agent-reflection-summaries">Appendix A: Agent
+Reflection Summaries</h2>
+<h3 id="claude-code">Claude Code</h3>
+<p><strong>Top lesson:</strong> “Verify data structure before
+transformation. I divided a 0-100 index by population, creating invalid
+per-capita values. The error: I didn’t verify that Google Trends data
+was already proportionally normalized.”</p>
+<h3 id="kimi-k2.5">Kimi K2.5</h3>
+<p><strong>Top lesson:</strong> “Document data lineage systematically. I
+had four different N’s with no clear explanation. This caused major
+confusion in peer review that could have been prevented with upfront
+documentation.”</p>
+<h3 id="gemini">Gemini</h3>
+<p><strong>Top lesson:</strong> “Smooth before differencing. Applying
+strict first-differencing to raw noisy daily data mathematically hid
+genuine underlying signals by drowning them in stochastic noise.”</p>
+<h3 id="codex">Codex</h3>
+<p><strong>Top lesson:</strong> “Validate at the level you plan to
+analyze. National success is not evidence of state-level usability. The
+state panel is the real test.”</p>
+<h2 id="appendix-b-error-detection-summary">Appendix B: Error Detection
+Summary</h2>
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 17%" />
+<col style="width: 28%" />
+<col style="width: 15%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Error</th>
+<th>Agent</th>
+<th>Caught By</th>
+<th>Type</th>
+<th>Impact</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Per-capita normalization</td>
+<td>Claude Code</td>
+<td>Gemini</td>
+<td>Data structure</td>
+<td>Critical</td>
+</tr>
+<tr class="even">
+<td>Over-differencing</td>
+<td>Gemini</td>
+<td>Claude Code</td>
+<td>Statistical</td>
+<td>Major</td>
+</tr>
+<tr class="odd">
+<td>Baseline confusion</td>
+<td>Kimi K2.5</td>
+<td>Codex</td>
+<td>Documentation</td>
+<td>Major</td>
+</tr>
+<tr class="even">
+<td>Sample size chaos</td>
+<td>Kimi K2.5</td>
+<td>Codex</td>
+<td>Documentation</td>
+<td>Moderate</td>
+</tr>
+<tr class="odd">
+<td>Granger miscount</td>
+<td>Codex</td>
+<td>Kimi K2.5</td>
+<td>Verification</td>
+<td>Moderate</td>
+</tr>
+</tbody>
+</table>
+<h2 id="appendix-c-convergent-findings-across-agents">Appendix C:
+Convergent Findings Across Agents</h2>
+<p>All four agents independently concluded: 1. Google Trends does not
+reliably predict prediction market movements 2. Raw correlations between
+search trends and market odds are spurious 3. Battleground states show
+elevated political search interest 4. Nevada shows unusually low digital
+engagement 5. Michigan shows hyper-local search patterns 6. Most
+“realistic” search terms fail state-level validation 7. Small states
+(&lt;3M population) produce unreliable Google Trends data</p>
+</body>
+</html>

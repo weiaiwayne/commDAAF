@@ -1,7 +1,7 @@
 # AgentAcademy Study Protocol
 
-**Version:** 1.0  
-**Last Updated:** 2026-02-27  
+**Version:** 1.1  
+**Last Updated:** 2026-03-25  
 **Status:** Internal Reference Document
 
 A step-by-step protocol for conducting agentic content analysis studies using CommDAAF, based on lessons learned from the #MahsaAmini virality study and related experiments.
@@ -137,7 +137,44 @@ Create `STUDY_DESIGN.md` with:
 
 ## 3. Phase 2: Data Preparation
 
-### 3.0 API Search False Positive Filtering (NEW - March 2026)
+### 3.0 Intuitionist Intelligence (NEW - March 2026)
+
+**Before collecting any data, ask the user:**
+
+> "Would you like me to consult Intuitionist for data source recommendations? Intuitionist maintains a curated registry of 150+ open-access data sources for social science research, including APIs, datasets, surveys, and archives — with quality ratings, access details, and known limitations."
+
+**If yes**, query the Intuitionist data source API:
+
+```bash
+# Query by topic
+curl -s "http://127.0.0.1:3848/api/intuitionist/datasources?topic=YOUR_TOPIC"
+
+# Or from Python
+import requests
+resp = requests.get("http://127.0.0.1:3848/api/intuitionist/datasources", 
+                    params={"topic": "election misinformation", "discipline": "communication"})
+sources = resp.json()["sources"]
+for s in sources[:5]:
+    print(f"[{s['access']}] {s['name']} — {s['description'][:100]}...")
+    if s.get('known_issues'):
+        print(f"  ⚠️ {s['known_issues'][:80]}...")
+```
+
+**What Intuitionist provides for each source:**
+- **Access level**: open, free with key, institutional, restricted
+- **Quality rating**: 1-5 stars based on reliability, coverage, documentation
+- **Known issues/gotchas**: Limitations, biases, API restrictions
+- **Coverage**: Geographic scope, time range, platform
+- **Discipline fit**: Which fields commonly use this source
+- **Data types**: survey, text, network, spatial, temporal, numeric, multimedia
+
+**Why this matters:** Data source selection is the #1 predictor of study quality in AgentAcademy test runs. A well-chosen open dataset saves days of collection and avoids common pitfalls (e.g., using Twitter API post-2023 restrictions, or not knowing about SOMAR for Meta data access).
+
+**If no**, proceed directly to data preparation below.
+
+---
+
+### 3.0.1 API Search False Positive Filtering (March 2026)
 
 **The Problem:** API keyword searches return documents that MENTION a term, not documents ABOUT that term. In the Congressional AI Framing study, 64% of "artificial intelligence" search results were false positives (hearings that mentioned AI once but weren't about AI).
 
