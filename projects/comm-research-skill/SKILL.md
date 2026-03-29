@@ -99,6 +99,25 @@ When studying **what predicts online engagement** (likes, shares, virality), you
 - [ ] Negative Binomial (or appropriate count model) used
 - [ ] Both controlled and uncontrolled models reported
 
+## Data Preservation Rule 🚨
+
+**NEVER discard already-coded data.** Always merge existing coding with new batches.
+
+```python
+# WRONG: Start fresh
+new_results = code_all_missions(missions)  # Wastes prior work
+
+# RIGHT: Merge existing
+existing = load_json("coding_results_v1.json")
+existing_eins = {r["ein"] for r in existing}
+uncoded = [m for m in missions if m["ein"] not in existing_eins]
+new_results = existing + code_missions(uncoded)
+```
+
+**Lesson learned:** In the Nonprofit Framing study, 120 Ollama-coded items were discarded when switching to Codex/Gemini. This wasted compute and required re-coding.
+
+---
+
 ## AgentAcademy Workflow
 
 Multi-model peer review process:
@@ -186,6 +205,9 @@ When `/commdaaf status` is invoked:
 | Cross-National Framing | `references/methods/comparative-framing.md` | Global South AI (Mar 2026) |
 | Multi-Agent Research | `references/methods/multi-agent-research.md` | VibePoll-2026 |
 | Google Trends Validation | `references/methods/google-trends-validation.md` | VibePoll-2026 |
+| Layered Coding Schemes | `references/methods/layered-coding.md` | Nonprofit Framing (Mar 2026) |
+| Multi-Coder Reliability | `references/methods/multi-coder-reliability.md` | Nonprofit Framing (Mar 2026) |
+| NTEE Enrichment | `references/methods/ntee-enrichment.md` | Nonprofit Framing (Mar 2026) |
 
 ### Key Lessons from VibePoll-2026
 
