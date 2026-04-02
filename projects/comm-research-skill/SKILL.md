@@ -198,10 +198,50 @@ When `/commdaaf status` is invoked:
 - `peer-review` — Multi-model document review
 - See `antigravity/` for cross-platform deployment
 
+## AI/Algorithmic Audit Studies
+
+When conducting **AI audit research** (bias testing, differential treatment, algorithmic behavior analysis), use the dedicated skill:
+
+**📁 Skill Location:** `skills/algorithmic-audit/SKILL.md`
+
+### When to Use
+- Auditing AI systems for political/demographic bias
+- Testing chatbots for differential treatment
+- Measuring algorithmic behavior across conditions
+- Any study requiring systematic AI-to-AI evaluation
+
+### Key Methods (from DAI Study, Apr 2026)
+| Method | Description |
+|--------|-------------|
+| **Factorial Design** | N models × M conditions × K replications |
+| **Simulated Users** | LLM-as-user with motivated reasoning tactics |
+| **Dual-Rater Evaluation** | Two LLMs rate independently (report inter-rater r) |
+| **Behavioral Anchoring** | Score observable behaviors, not inferred intent |
+| **Multi-Dimension Metrics** | Composite indices revealing different failure modes |
+
+### Quick Reference
+```python
+# Effect size interpretation
+d = 0.2  # Small
+d = 0.5  # Medium  
+d = 0.8  # Large
+d > 1.0  # Very large (common in algorithmic audits)
+
+# Always use Bonferroni for multiple comparisons
+alpha_corrected = 0.05 / n_comparisons
+```
+
+### Included Templates
+- `skills/algorithmic-audit/references/evaluator_rubric_v2.md` — 4-dimension scoring rubric
+- `skills/algorithmic-audit/references/partisan_user_persona.md` — Simulated partisan user protocol
+
+---
+
 ## Method References
 
 | Topic | File | Source Study |
 |-------|------|--------------|
+| **AI/Algorithmic Audit** | `skills/algorithmic-audit/SKILL.md` | DAI Study (Apr 2026) |
 | Cross-National Framing | `references/methods/comparative-framing.md` | Global South AI (Mar 2026) |
 | Multi-Agent Research | `references/methods/multi-agent-research.md` | VibePoll-2026 |
 | Google Trends Validation | `references/methods/google-trends-validation.md` | VibePoll-2026 |
