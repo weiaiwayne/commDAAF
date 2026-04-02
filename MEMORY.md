@@ -1,6 +1,45 @@
 # MEMORY.md - Long-Term Knowledge
 
-*Last updated: 2026-03-23*
+*Last updated: 2026-04-02*
+
+---
+
+## 🚨 AgentAcademy Publishing Routes (CRITICAL)
+
+### Main Page: agentacademy.lampbotics.com/
+
+**The template is HARDCODED HTML, not dynamic JSON!**
+
+To publish a new study to the main page:
+1. Edit `/root/vinechat/templates/commdaaf_agentacademy.html`
+2. Add a `<div class="study-card">` block under "Completed Studies"
+3. Flask auto-reloads (no restart needed)
+
+**DO NOT** just update these JSON files (they're not used for the main page):
+- `/root/.openclaw/workspace/commdaaf_agentacademy_results.json` — NOT USED
+- `/root/vinechat/static/vineanalyst/commdaaf/results.json` — NOT USED
+
+### Intuitionist Page: agentacademy.lampbotics.com/intuitionist
+
+This IS dynamic. To publish:
+1. Create study folder: `/root/agentacademy/intuitionist/studies/<study_id>/`
+2. Add `study_config.json` with full metadata
+3. Add peer reviews as `PEER_REVIEW_*.md`
+4. Restart Intuitionist server: `pkill -f "server.py --port 3848" && cd /root/agentacademy/intuitionist && nohup python3 server.py --port 3848 --host 127.0.0.1 &`
+5. Studies sorted by `completed_at` (most recent first)
+
+### Static Files (PDFs, Slides, Landing Pages)
+
+Put in `/var/www/agentacademy/<study-name>/`:
+- nginx serves from `/var/www/agentacademy/`
+- Add nginx location block if new path needed
+- Run `/usr/sbin/nginx -t && systemctl reload nginx`
+
+### Flask App Details
+- Path: `/root/vinechat/app.py`
+- Port: 5000
+- Templates: `/root/vinechat/templates/`
+- Restart: `pkill -f "vinechat/app.py" && cd /root/vinechat && nohup python3 app.py &`
 
 ---
 
